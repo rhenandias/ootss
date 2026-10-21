@@ -1092,15 +1092,13 @@ function openPopup(e) {
   let moves = sol ? `<span class="wrap">(${getMovesCount(sol)}):&nbsp<span class="copyable" title="Click to copy solution to clipboard">${convertSolution(sol)}</span></span>`:'';
 
   let content = `${header}${image}`;
-  let footer = `${player}`;
+  let footer = `${player}${moves}`;
 
   const p = wt[o.name];
   if (p) {
     if (footer!='') footer += '&nbsp;/&nbsp;';
     footer += `<a href="https://sinkingstar.wikitactics.com/areas/${p[0]}/#${p[1]}" target=_blank>WikiTactics</a>&nbsp`;
   }
-
-  footer += moves;
 
   //if (footer!='') footer += '&nbsp;/&nbsp;';
   //footer += `<a href="https://github.com/qiekn/ootss-cmd" target=_blank>ootss-cmd</a>`;
@@ -1730,13 +1728,12 @@ window.onload = function() {
     'data/order.txt',
     'data/wt.txt',
     'data/Localization/en.json',
-    'data/solutions.json',
   ].map(url =>
     fetch(url).then(r => url.endsWith('.txt') ? r.text() : r.json())
   );
 
   Promise.all(promises).then(data => {
-    let [sol, yt, img, ord, wtd, lg, s2] = data;
+    let [sol, yt, img, ord, wtd, lg] = data;
 
     solutions = Object.fromEntries(sol.split('\n').map(s => s.trim().split(':', 2)).filter(([, v])=> v && v.length>=2));
     youtube = Object.fromEntries(yt.split('\n').map(s => s.trim().split(',', 2)).filter(([, v])=> v && v.length>=2));
@@ -1745,10 +1742,6 @@ window.onload = function() {
     wt = Object.fromEntries(wtd.trim().split('\n').map(s => { const [n,a,i] = s.trim().split(','); return [n, [a,i]]; }));
 
     lang = lg;
-
-    for (const s of s2) {
-      solutions2[s.name] = s.solution;
-    }
 
     drawMap();
   });
