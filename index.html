@@ -641,8 +641,8 @@ let areaIcon = (feature, label) => {
   return L.divIcon({
     className: 'region-label',
     html: lang[label],
-    iconSize: [500, 100],
-    iconAnchor: [250, 50],
+    iconSize: [512, 100],
+    iconAnchor: [256, 50],
   });
 };
 
@@ -1021,7 +1021,7 @@ function updateLabels() {
 
   document.querySelectorAll('.region-label').forEach(label => {
     //label.style.display = showLabels ? 'block' : 'none';
-    label.style.fontSize = Math.min(26, Math.max(12, currentZoom*12)) + 'px';
+    label.style.fontSize = Math.min(48, Math.max(12, currentZoom*12)) + 'px';
   });
 
   let name = baseLayerName;
