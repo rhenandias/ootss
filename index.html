@@ -1024,7 +1024,7 @@ function updateLabels() {
 
   document.querySelectorAll('.region-label').forEach(label => {
     //label.style.display = showLabels ? 'block' : 'none';
-    label.style.fontSize = Math.min(48, Math.max(12, currentZoom*12)) + 'px';
+    label.style.fontSize = Math.min(32, Math.max(12, currentZoom*12)) + 'px';
   });
 
   let name = baseLayerName;
