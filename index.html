@@ -527,6 +527,7 @@ let currentOpenMarker = null;
 let polygonLayer = null;
 
 let solutions = {};
+let solutions2 = {};
 let youtube = {};
 let wt = {};
 let imageList = {};
@@ -875,7 +876,9 @@ getMovesCount = s => unpackSolution(s).length;
 
 const packSolution = s => s.replace(/(.)\1*/g, (match, char) => char + (match.length > 1 ? match.length : ''));
 
-const convertSolution = s => packSolution(unpackSolution(s));
+//const convertSolution = s => packSolution(unpackSolution(s));
+
+const convertSolution = s => s;
 
 
 function getCentroidRaw2(points) {
@@ -1075,7 +1078,7 @@ function openPopup(e) {
 
   let id = o.entity_properties?.unlocked_by_id;
 
-  let sol = solutions[o.name];
+  let sol = solutions[o.name] || solutions2[o.name];
 
   const ytId = youtube[o.name] ? youTubeId(youtube[o.name]) : null;
 
@@ -1085,17 +1088,19 @@ function openPopup(e) {
       ? `<a href="${youtube[o.name]}" class="image-wrapper" target="_blank" rel="noopener" title="Watch on YouTube"><img class="popup-image" src="https://i.ytimg.com/vi/${ytId}/maxresdefault.jpg" alt=""></a>`
       : '';
 
-  let player = youtube[o.name] ? `<a href="${youtube[o.name]}" target=_blank>YouTube</a>&nbsp;` : (sol ? `<a href="${getSolutionPlayerLink(o.name, true)}" target=_blank>PuzzleScript</a>&nbsp;`:'');
+  let player = youtube[o.name] ? `<a href="${youtube[o.name]}" target=_blank>YouTube</a>&nbsp;` : (solutions[o.name] ? `<a href="${getSolutionPlayerLink(o.name, true)}" target=_blank>PuzzleScript</a>&nbsp;`:'');
   let moves = sol ? `<span class="wrap">(${getMovesCount(sol)}):&nbsp<span class="copyable" title="Click to copy solution to clipboard">${convertSolution(sol)}</span></span>`:'';
 
   let content = `${header}${image}`;
-  let footer = `${player}${moves}`;
+  let footer = `${player}`;
 
   const p = wt[o.name];
   if (p) {
     if (footer!='') footer += '&nbsp;/&nbsp;';
-    footer += `<a href="https://sinkingstar.wikitactics.com/areas/${p[0]}/#${p[1]}" target=_blank>WikiTactics</a>`;
+    footer += `<a href="https://sinkingstar.wikitactics.com/areas/${p[0]}/#${p[1]}" target=_blank>WikiTactics</a>&nbsp`;
   }
+
+  footer += moves;
 
   //if (footer!='') footer += '&nbsp;/&nbsp;';
   //footer += `<a href="https://github.com/qiekn/ootss-cmd" target=_blank>ootss-cmd</a>`;
@@ -1359,7 +1364,7 @@ function drawMap() {
       }
       //let count = solved ? areaCounters[area] : '?';
 
-      const count = solutions[name] ? '\u2714' : youtube[name] ? `\u2009\u25B6` : hasImage ? '\u22EF' : '?';
+      const count = solutions[name] || solutions2[name] ? '\u2714' : youtube[name] ? `\u2009\u25B6` : hasImage ? '\u22EF' : '?';
 
       if (area != 'locations' && imageList[feature.properties.name]) {
         images.push( {src: `${image_base}/images/levels/${name}.webp`, name: name, area: area, title: title});
@@ -1718,16 +1723,20 @@ window.onload = function() {
     }
   });
 
-  let promises = [
+  const promises = [
     'data/solutions.txt',
     'data/youtube.txt',
     'data/images.txt',
     'data/order.txt',
     'data/wt.txt',
-  ].map(url=>fetch(url).then(r=>r.text()));
+    'data/Localization/en.json',
+    'data/solutions.json',
+  ].map(url =>
+    fetch(url).then(r => url.endsWith('.txt') ? r.text() : r.json())
+  );
 
   Promise.all(promises).then(data => {
-    let [sol, yt, img, ord, wtd] = data;
+    let [sol, yt, img, ord, wtd, lg, s2] = data;
 
     solutions = Object.fromEntries(sol.split('\n').map(s => s.trim().split(':', 2)).filter(([, v])=> v && v.length>=2));
     youtube = Object.fromEntries(yt.split('\n').map(s => s.trim().split(',', 2)).filter(([, v])=> v && v.length>=2));
@@ -1735,11 +1744,13 @@ window.onload = function() {
     order = Object.fromEntries(ord.split('\n').map(s => s.trim()).filter(Boolean).map((s, i) => [s, i]));
     wt = Object.fromEntries(wtd.trim().split('\n').map(s => { const [n,a,i] = s.trim().split(','); return [n, [a,i]]; }));
 
-    fetch('data/Localization/en.json').then(r=>r.json()).then(data=>{
-      lang = data;
-      drawMap();
-    });
+    lang = lg;
 
+    for (const s of s2) {
+      solutions2[s.name] = s.solution;
+    }
+
+    drawMap();
   });
 }
 </script>
