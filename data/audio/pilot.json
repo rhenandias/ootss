@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "languages": [
+    "en",
+    "pt-br"
+  ],
+  "levels": {
+    "heroes1_1": [
+      {
+        "id": "heroes_mouse",
+        "expectedClips": 5
+      },
+      {
+        "id": "warrior_heroes1_start_end",
+        "expectedClips": 1
+      }
+    ],
+    "heroes1_2_v2": [
+      {
+        "id": "warrior_heroes1_call",
+        "expectedClips": 1
+      }
+    ],
+    "heroes1_3": [
+      {
+        "id": "heroes_warrior_gate",
+        "expectedClips": 1
+      }
+    ],
+    "heroes1_4": [
+      {
+        "id": "heroes_warrior_mistrust",
+        "expectedClips": 6
+      },
+      {
+        "id": "heroes_warrior_where_is_tif",
+        "expectedClips": 1
+      }
+    ]
+  }
+}

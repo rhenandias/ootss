@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "end3_sokoban_writing_choice_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_sokoban_writing_choice_3",
+      "clips": [
+        {
+          "id": "end3_sokoban_writing_choice_3_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 23.412,
+          "src": "audio/clips/end3_sokoban_writing_choice_3_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "You are seeing this place as a battery of challenges prepared for you,",
+              "and it is; but it's also a test for me.",
+              "How well did I communicate via my hologram's responses?",
+              "Did I anticipate all that you may try? Did I miss any situation that should have been met with a customized response?",
+              "Am I good enough to guide you through, or will I step on your toes mid-dance?"
+            ],
+            "pt-br": [
+              "Você vê este lugar como uma série de desafios preparados para você,",
+              "e é; mas também é um teste para mim.",
+              "Quão bem eu me comuniquei por meio das respostas do meu holograma?",
+              "Será que antecipei tudo o que você pode tentar? Será que deixei passar alguma situação que deveria ter recebido sua própria resposta personalizada?",
+              "Sou bom o bastante para te guiar por aqui, ou vou pisar no seu pé no meio da dança?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_sokoban_writing_choice_3_1__sokoban.wav",
+            "subtitleCueLines": [
+              11607,
+              11611,
+              11614,
+              11619,
+              11624
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You are seeing this place as a battery of challenges prepared for you,",
+          "and it is; but it's also a test for me.",
+          "How well did I communicate via my hologram's responses?",
+          "Did I anticipate all that you may try? Did I miss any situation that should have been met with a customized response?",
+          "Am I good enough to guide you through, or will I step on your toes mid-dance?"
+        ],
+        "pt-br": [
+          "Você vê este lugar como uma série de desafios preparados para você,",
+          "e é; mas também é um teste para mim.",
+          "Quão bem eu me comuniquei por meio das respostas do meu holograma?",
+          "Será que antecipei tudo o que você pode tentar? Será que deixei passar alguma situação que deveria ter recebido sua própria resposta personalizada?",
+          "Sou bom o bastante para te guiar por aqui, ou vou pisar no seu pé no meio da dança?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

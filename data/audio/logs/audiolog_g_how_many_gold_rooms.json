@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_how_many_gold_rooms",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_how_many_gold_rooms",
+      "clips": [
+        {
+          "id": "audiolog_g_how_many_gold_rooms_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 20.197833,
+          "src": "audio/clips/audiolog_g_how_many_gold_rooms_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "This is the third gilded deck that I have found; I am starting to see the pattern,",
+              "and I have some notion of the shape of the whole.",
+              "It's striking -- Quigley, I see the layout as mathematical,",
+              "but you might choose to see it as ceremonial,",
+              "each thing in its accorded place."
+            ],
+            "pt-br": [
+              "Esta é a terceira Plataforma Dourada que encontrei; estou começando a ver o padrão,",
+              "e tenho alguma noção da forma do todo.",
+              "É marcante... Quigley, vejo a disposição como algo matemático,",
+              "mas você talvez prefira vê-la como cerimonial,",
+              "cada coisa em seu lugar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_how_many_gold_rooms_1__sokoban.wav",
+            "subtitleCueLines": [
+              3367,
+              3371,
+              3375,
+              3379,
+              3383
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is the third gilded deck that I have found; I am starting to see the pattern,",
+          "and I have some notion of the shape of the whole.",
+          "It's striking -- Quigley, I see the layout as mathematical,",
+          "but you might choose to see it as ceremonial,",
+          "each thing in its accorded place."
+        ],
+        "pt-br": [
+          "Esta é a terceira Plataforma Dourada que encontrei; estou começando a ver o padrão,",
+          "e tenho alguma noção da forma do todo.",
+          "É marcante... Quigley, vejo a disposição como algo matemático,",
+          "mas você talvez prefira vê-la como cerimonial,",
+          "cada coisa em seu lugar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

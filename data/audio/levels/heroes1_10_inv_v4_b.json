@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_10_inv_v4_b",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_wizard_array_end",
+      "clips": [
+        {
+          "id": "heroes1_wizard_array_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 4.892812,
+          "src": "audio/clips/heroes1_wizard_array_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Strangely cut, they felt lifelike, almost ... possessed."
+            ],
+            "pt-br": [
+              "Com um corte estranho, pareciam tão reais, quase... possuídos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_array_end_1__wizard.wav",
+            "subtitleCueLines": [
+              217
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Strangely cut, they felt lifelike, almost ... possessed."
+        ],
+        "pt-br": [
+          "Com um corte estranho, pareciam tão reais, quase... possuídos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031855,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes1_wizard_array_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              -3.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_10_inv_v4_b.entities"
+          }
+        ],
+        "subtitleLine": 216,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

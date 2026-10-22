@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_14",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_wizard_priestess_first",
+      "clips": [
+        {
+          "id": "heroes2_wizard_priestess_first_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 4.423146,
+          "src": "audio/clips/heroes2_wizard_priestess_first_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Why hello there! We seem to be in a spot of trouble."
+            ],
+            "pt-br": [
+              "Olá! Parece que estamos com um problema."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_priestess_first_1__wizard.wav",
+            "subtitleCueLines": [
+              1215
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_wizard_priestess_first_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 8.925021,
+          "src": "audio/clips/heroes2_wizard_priestess_first_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Normally, goblins are no problem for me, no problem at all, but, this passageway is so narrow..."
+            ],
+            "pt-br": [
+              "Goblins não costumam ser problema pra mim, de jeito nenhum, mas este corredor é tão estreito..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_priestess_first_3__wizard.wav",
+            "subtitleCueLines": [
+              1222
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Why hello there! We seem to be in a spot of trouble.",
+          "...",
+          "Normally, goblins are no problem for me, no problem at all, but, this passageway is so narrow...",
+          "..."
+        ],
+        "pt-br": [
+          "Olá! Parece que estamos com um problema.",
+          "...",
+          "Goblins não costumam ser problema pra mim, de jeito nenhum, mas este corredor é tão estreito...",
+          "..."
+        ]
+      },
+      "silentCues": [
+        {
+          "id": "heroes2_wizard_priestess_first_2__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            1219
+          ]
+        },
+        {
+          "id": "heroes2_wizard_priestess_first_4__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            1227
+          ]
+        }
+      ],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048589,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_wizard_priestess_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_14.entities"
+          }
+        ],
+        "subtitleLine": 1214,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_wizard_priestess_first_end",
+      "clips": [
+        {
+          "id": "heroes2_wizard_priestess_first_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.563917,
+          "src": "audio/clips/heroes2_wizard_priestess_first_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Thank you, good ... miss?"
+            ],
+            "pt-br": [
+              "Obrigado, boa... senhorita?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_priestess_first_end_1__wizard.wav",
+            "subtitleCueLines": [
+              1241
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Thank you, good ... miss?"
+        ],
+        "pt-br": [
+          "Obrigado, boa... senhorita?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048589,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_wizard_priestess_first_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_14.entities"
+          }
+        ],
+        "subtitleLine": 1240,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

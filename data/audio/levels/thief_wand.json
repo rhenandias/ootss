@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "thief_wand",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_thief_takes_wand",
+      "clips": [
+        {
+          "id": "sp_thief_takes_wand_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.730771,
+          "src": "audio/clips/sp_thief_takes_wand_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Someone's left this shiny thing unattended!"
+            ],
+            "pt-br": [
+              "Alguém deixou essa coisa brilhante dando sopa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_thief_takes_wand_1__thief.wav",
+            "subtitleCueLines": [
+              7574
+            ],
+            "explicitAudioReference": "sp_thief_takes_wand_1__thief"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Someone's left this shiny thing unattended!"
+        ],
+        "pt-br": [
+          "Alguém deixou essa coisa brilhante dando sopa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "sp_thief_takes_wand",
+            "rule": "exact-reference",
+            "coordinates": [
+              -1.353882074356079,
+              2.1541428565979004,
+              0.07338619232177734
+            ],
+            "source": "data-common/thief_wand.entities"
+          }
+        ],
+        "subtitleLine": 7571,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

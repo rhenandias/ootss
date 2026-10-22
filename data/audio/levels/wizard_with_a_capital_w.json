@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "wizard_with_a_capital_w",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_island_friends_2",
+      "clips": [
+        {
+          "id": "hs_island_friends_2_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.693667,
+          "src": "audio/clips/hs_island_friends_2_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "So, what makes the stones go?"
+            ],
+            "pt-br": [
+              "Então, o que faz as pedras se moverem?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_2_1__wizard.wav",
+            "subtitleCueLines": [
+              8142
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_2_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.271333,
+          "src": "audio/clips/hs_island_friends_2_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Uhh... Motive principle."
+            ],
+            "pt-br": [
+              "Hã... Princípio motriz."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_2_2__sailor.wav",
+            "subtitleCueLines": [
+              8145
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_2_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.297167,
+          "src": "audio/clips/hs_island_friends_2_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "What is the nature of this 'motive principle'?"
+            ],
+            "pt-br": [
+              "Qual é a natureza desse “princípio motriz”?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_2_3__wizard.wav",
+            "subtitleCueLines": [
+              8149
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_2_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.444333,
+          "src": "audio/clips/hs_island_friends_2_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It's what makes the stones go."
+            ],
+            "pt-br": [
+              "É o que faz as pedras se moverem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_2_4__sailor.wav",
+            "subtitleCueLines": [
+              8153
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, what makes the stones go?",
+          "Uhh... Motive principle.",
+          "What is the nature of this 'motive principle'?",
+          "It's what makes the stones go."
+        ],
+        "pt-br": [
+          "Então, o que faz as pedras se moverem?",
+          "Hã... Princípio motriz.",
+          "Qual é a natureza desse “princípio motriz”?",
+          "É o que faz as pedras se moverem."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360547,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_island_friends_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              15.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/wizard_with_a_capital_w.entities"
+          }
+        ],
+        "subtitleLine": 8141,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

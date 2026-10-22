@@ -1,0 +1,474 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_heroes_and_stones",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "worlds_collide_HS_start",
+      "clips": [
+        {
+          "id": "worlds_collide_HS_start_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.9745,
+          "src": "audio/clips/worlds_collide_HS_start_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "What are those weird red ... energies?"
+            ],
+            "pt-br": [
+              "O que são essas estranhas... energias vermelhas?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_start_1__sailor.wav",
+            "subtitleCueLines": [
+              6598
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "What are those weird red ... energies?"
+        ],
+        "pt-br": [
+          "O que são essas estranhas... energias vermelhas?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 58720258,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "worlds_collide_HS_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              18.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_stones.entities"
+          }
+        ],
+        "subtitleLine": 6597,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_HS_on_switch_to_thief",
+      "clips": [
+        {
+          "id": "worlds_collide_HS_on_switch_to_thief_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.637667,
+          "src": "audio/clips/worlds_collide_HS_on_switch_to_thief_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Do you feel something strange?"
+            ],
+            "pt-br": [
+              "Você sente algo estranho?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_on_switch_to_thief_1__thief.wav",
+            "subtitleCueLines": [
+              6606
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_on_switch_to_thief_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.033542,
+          "src": "audio/clips/worlds_collide_HS_on_switch_to_thief_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "No. Do you?"
+            ],
+            "pt-br": [
+              "Não. E você?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_on_switch_to_thief_2__warrior.wav",
+            "subtitleCueLines": [
+              6610
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_on_switch_to_thief_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.458,
+          "src": "audio/clips/worlds_collide_HS_on_switch_to_thief_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I think ... Maybe ... not?"
+            ],
+            "pt-br": [
+              "Acho... que talvez... não?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_on_switch_to_thief_3__thief.wav",
+            "subtitleCueLines": [
+              6613
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Do you feel something strange?",
+          "No. Do you?",
+          "I think ... Maybe ... not?"
+        ],
+        "pt-br": [
+          "Você sente algo estranho?",
+          "Não. E você?",
+          "Acho... que talvez... não?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914563,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "worlds_collide_HS_on_switch_to_thief",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.836868286132812,
+              -3.410454750061035,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_stones.entities"
+          }
+        ],
+        "subtitleLine": 6605,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_HS_gates_opened_proximity",
+      "clips": [
+        {
+          "id": "worlds_collide_HS_gates_opened_proximity_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.644333,
+          "src": "audio/clips/worlds_collide_HS_gates_opened_proximity_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "What is that ... out ... there?"
+            ],
+            "pt-br": [
+              "O que é aquilo... lá... fora?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_gates_opened_proximity_1__warrior.wav",
+            "subtitleCueLines": [
+              6620
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_gates_opened_proximity_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.76,
+          "src": "audio/clips/worlds_collide_HS_gates_opened_proximity_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I told you this was strange. I told you!!"
+            ],
+            "pt-br": [
+              "Eu disse que isso era estranho. Eu disse!!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_gates_opened_proximity_2__thief.wav",
+            "subtitleCueLines": [
+              6623
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_gates_opened_proximity_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 6.772333,
+          "src": "audio/clips/worlds_collide_HS_gates_opened_proximity_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Hello ... hello there? Could you help me out by skipping a stone back across the water?"
+            ],
+            "pt-br": [
+              "Olá... olá? Você poderia me ajudar fazendo uma pedra quicar de volta pela água?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_gates_opened_proximity_3__sailor.wav",
+            "subtitleCueLines": [
+              6626
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_gates_opened_proximity_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.586667,
+          "src": "audio/clips/worlds_collide_HS_gates_opened_proximity_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "That's water?"
+            ],
+            "pt-br": [
+              "Isso é água?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_gates_opened_proximity_4__warrior.wav",
+            "subtitleCueLines": [
+              6631
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_gates_opened_proximity_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.464667,
+          "src": "audio/clips/worlds_collide_HS_gates_opened_proximity_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "How'd you put all that water in one place?"
+            ],
+            "pt-br": [
+              "Como você juntou toda essa água num lugar só?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_gates_opened_proximity_5__thief.wav",
+            "subtitleCueLines": [
+              6635
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_gates_opened_proximity_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.483292,
+          "src": "audio/clips/worlds_collide_HS_gates_opened_proximity_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "This is a lot of water for you?"
+            ],
+            "pt-br": [
+              "Você acha que isso é muita água?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_gates_opened_proximity_6__sailor.wav",
+            "subtitleCueLines": [
+              6639
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "What is that ... out ... there?",
+          "I told you this was strange. I told you!!",
+          "Hello ... hello there? Could you help me out by skipping a stone back across the water?",
+          "That's water?",
+          "How'd you put all that water in one place?",
+          "This is a lot of water for you?"
+        ],
+        "pt-br": [
+          "O que é aquilo... lá... fora?",
+          "Eu disse que isso era estranho. Eu disse!!",
+          "Olá... olá? Você poderia me ajudar fazendo uma pedra quicar de volta pela água?",
+          "Isso é água?",
+          "Como você juntou toda essa água num lugar só?",
+          "Você acha que isso é muita água?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "worlds_collide_HS_gates_opened_proximity",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.179193496704102,
+              2.6546730995178223,
+              -1.9073486328125e-06
+            ],
+            "source": "data-common/worlds_collide_heroes_and_stones.entities"
+          }
+        ],
+        "subtitleLine": 6619,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_HS_end_of_level",
+      "clips": [
+        {
+          "id": "worlds_collide_HS_end_of_level_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.169667,
+          "src": "audio/clips/worlds_collide_HS_end_of_level_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Thanks for the help, ..."
+            ],
+            "pt-br": [
+              "Obrigado pela ajuda..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_end_of_level_1__warrior.wav",
+            "subtitleCueLines": [
+              6647
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_end_of_level_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.7585,
+          "src": "audio/clips/worlds_collide_HS_end_of_level_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I'm Janaila. Good to meet you."
+            ],
+            "pt-br": [
+              "Janaila. Prazer em te conhecer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_end_of_level_2__sailor.wav",
+            "subtitleCueLines": [
+              6651
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HS_end_of_level_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.138333,
+          "src": "audio/clips/worlds_collide_HS_end_of_level_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Think we'll see her again?"
+            ],
+            "pt-br": [
+              "Será que vamos vê-la de novo?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HS_end_of_level_3__thief.wav",
+            "subtitleCueLines": [
+              6655
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Thanks for the help, ...",
+          "I'm Janaila. Good to meet you.",
+          "Think we'll see her again?"
+        ],
+        "pt-br": [
+          "Obrigado pela ajuda...",
+          "Janaila. Prazer em te conhecer.",
+          "Será que vamos vê-la de novo?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 58720258,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "worlds_collide_HS_end_of_level",
+            "rule": "exact-reference",
+            "coordinates": [
+              18.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_stones.entities"
+          }
+        ],
+        "subtitleLine": 6646,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

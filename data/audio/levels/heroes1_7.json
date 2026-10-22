@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_7",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_heroes_1_7",
+      "clips": [
+        {
+          "id": "audiolog_di_heroes_1_7_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 45.570542,
+          "src": "audio/clips/audiolog_di_heroes_1_7_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This is Jonah's original design for one of the earliest Thief levels.",
+              "The idea is that the Thief can only pull a Crystal onto the Button",
+              "by going one specific way, and once she gets it there,",
+              "she can't help but pull the Crystal back off the Button,",
+              "shutting the Gate once again. Which is funny.",
+              "You can also make the observation that the regular columns are a difficult structure for the Thief,",
+              "because she can't ever get the crystal around one of those corners:",
+              "she can only turn in the intersections,",
+              "so she always has to leave the crystal at the side of a column.",
+              "Here, at the beginning of the level, if she pulls the crystal any way but North, she's stuck.",
+              "If I look through a pair of Design Elegance Goggles, the northwest area of the map looks pretty awkward; it isn't really used,",
+              "except to suggest the continuation of the grid."
+            ],
+            "pt-br": [
+              "Este é o design original de Jonah para um dos primeiros níveis da Ladra.",
+              "A ideia é que a Ladra só pode puxar um cristal até o botão",
+              "indo por um caminho específico, e, quando ela o leva até lá,",
+              "ela não consegue deixar de puxar o Cristal de volta para fora do Botão,",
+              "fechando o Portão mais uma vez. O que é engraçado.",
+              "Você também pode notar que as colunas regulares são uma estrutura difícil para a Ladra,",
+              "porque ela nunca consegue levar o cristal ao redor de um daqueles cantos:",
+              "ela só pode virar nos cruzamentos,",
+              "então ela sempre precisa deixar o cristal na lateral de uma coluna.",
+              "Aqui, no começo do nível, se ela puxar o cristal para qualquer lado que não seja o Norte, fica presa.",
+              "Se eu olhar pelos óculos da elegância de design, a área noroeste do mapa parece bem desajeitada; ela não é realmente usada,",
+              "exceto para sugerir a continuação da grade."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_heroes_1_7_1__director.wav",
+            "subtitleCueLines": [
+              13161,
+              13165,
+              13169,
+              13173,
+              13177,
+              13181,
+              13186,
+              13190,
+              13193,
+              13197,
+              13202,
+              13207
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is Jonah's original design for one of the earliest Thief levels.",
+          "The idea is that the Thief can only pull a Crystal onto the Button",
+          "by going one specific way, and once she gets it there,",
+          "she can't help but pull the Crystal back off the Button,",
+          "shutting the Gate once again. Which is funny.",
+          "You can also make the observation that the regular columns are a difficult structure for the Thief,",
+          "because she can't ever get the crystal around one of those corners:",
+          "she can only turn in the intersections,",
+          "so she always has to leave the crystal at the side of a column.",
+          "Here, at the beginning of the level, if she pulls the crystal any way but North, she's stuck.",
+          "If I look through a pair of Design Elegance Goggles, the northwest area of the map looks pretty awkward; it isn't really used,",
+          "except to suggest the continuation of the grid."
+        ],
+        "pt-br": [
+          "Este é o design original de Jonah para um dos primeiros níveis da Ladra.",
+          "A ideia é que a Ladra só pode puxar um cristal até o botão",
+          "indo por um caminho específico, e, quando ela o leva até lá,",
+          "ela não consegue deixar de puxar o Cristal de volta para fora do Botão,",
+          "fechando o Portão mais uma vez. O que é engraçado.",
+          "Você também pode notar que as colunas regulares são uma estrutura difícil para a Ladra,",
+          "porque ela nunca consegue levar o cristal ao redor de um daqueles cantos:",
+          "ela só pode virar nos cruzamentos,",
+          "então ela sempre precisa deixar o cristal na lateral de uma coluna.",
+          "Aqui, no começo do nível, se ela puxar o cristal para qualquer lado que não seja o Norte, fica presa.",
+          "Se eu olhar pelos óculos da elegância de design, a área noroeste do mapa parece bem desajeitada; ela não é realmente usada,",
+          "exceto para sugerir a continuação da grade."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_heroes_1_7",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_7.entities"
+          }
+        ],
+        "subtitleLine": 13160,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

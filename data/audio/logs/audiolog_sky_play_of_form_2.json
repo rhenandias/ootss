@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_play_of_form_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_play_of_form_2",
+      "clips": [
+        {
+          "id": "audiolog_sky_play_of_form_2_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 62.061833,
+          "src": "audio/clips/audiolog_sky_play_of_form_2_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "As we've discussed, our Universe produces a tremendous proliferation of material.",
+              "We study these productions and we show what we find to others.",
+              "It may seem that, to take this activity seriously, we must show everything. But the contrary is true,",
+              "because much of the material we discover can seem dry, repetitive, obscure. Hard to appreciate.",
+              "We people, we are short-sighted and weak.",
+              "Even artificially strengthened people, like myself. (And you, of course, if you play your cards properly.)",
+              "People have limited attention spans. So, *after* we perform our design excursions and find these dispassionate nuggets of interestingness,",
+              "it is a significant portion of our Art, which is not to be underestimated,",
+              "that we work out how to frame the ideas to make them entertaining to our Visitors.",
+              "Because if everyone is just bored, or confused, they don't *see*.",
+              "So we sift for material that is interesting, satisfying, delightful."
+            ],
+            "pt-br": [
+              "Como já discutimos, nosso universo produz uma tremenda proliferação de material.",
+              "Estudamos essas produções e mostramos aos outros o que encontramos.",
+              "Pode parecer que, para levar essa atividade a sério, devemos mostrar tudo. Mas é o contrário,",
+              "porque boa parte do material que descobrimos pode parecer árido, repetitivo, obscuro. Difícil de apreciar.",
+              "Nós, as pessoas, somos míopes e fracas.",
+              "Mesmo pessoas fortalecidas artificialmente, como eu. (E você, é claro, se jogar bem suas cartas.)",
+              "As pessoas têm uma capacidade de atenção limitada. Então, *depois* de realizarmos nossas excursões de design e encontrarmos essas pepitas impassíveis de coisas interessantes,",
+              "é uma parte significativa da nossa arte, que não deve ser subestimada,",
+              "que descobrimos como apresentar as ideias de um jeito divertido para nossos visitantes.",
+              "Porque, se todo mundo só estiver entediado, ou confuso, não *vê*.",
+              "Então selecionamos o material que é interessante, satisfatório e encantador."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_2_1__acting.wav",
+            "subtitleCueLines": [
+              11169,
+              11173,
+              11177,
+              11181,
+              11185,
+              11188,
+              11194,
+              11200,
+              11204,
+              11208,
+              11212
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "As we've discussed, our Universe produces a tremendous proliferation of material.",
+          "We study these productions and we show what we find to others.",
+          "It may seem that, to take this activity seriously, we must show everything. But the contrary is true,",
+          "because much of the material we discover can seem dry, repetitive, obscure. Hard to appreciate.",
+          "We people, we are short-sighted and weak.",
+          "Even artificially strengthened people, like myself. (And you, of course, if you play your cards properly.)",
+          "People have limited attention spans. So, *after* we perform our design excursions and find these dispassionate nuggets of interestingness,",
+          "it is a significant portion of our Art, which is not to be underestimated,",
+          "that we work out how to frame the ideas to make them entertaining to our Visitors.",
+          "Because if everyone is just bored, or confused, they don't *see*.",
+          "So we sift for material that is interesting, satisfying, delightful."
+        ],
+        "pt-br": [
+          "Como já discutimos, nosso universo produz uma tremenda proliferação de material.",
+          "Estudamos essas produções e mostramos aos outros o que encontramos.",
+          "Pode parecer que, para levar essa atividade a sério, devemos mostrar tudo. Mas é o contrário,",
+          "porque boa parte do material que descobrimos pode parecer árido, repetitivo, obscuro. Difícil de apreciar.",
+          "Nós, as pessoas, somos míopes e fracas.",
+          "Mesmo pessoas fortalecidas artificialmente, como eu. (E você, é claro, se jogar bem suas cartas.)",
+          "As pessoas têm uma capacidade de atenção limitada. Então, *depois* de realizarmos nossas excursões de design e encontrarmos essas pepitas impassíveis de coisas interessantes,",
+          "é uma parte significativa da nossa arte, que não deve ser subestimada,",
+          "que descobrimos como apresentar as ideias de um jeito divertido para nossos visitantes.",
+          "Porque, se todo mundo só estiver entediado, ou confuso, não *vê*.",
+          "Então selecionamos o material que é interessante, satisfatório e encantador."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

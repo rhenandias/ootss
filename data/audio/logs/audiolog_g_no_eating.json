@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_no_eating",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_no_eating",
+      "clips": [
+        {
+          "id": "audiolog_g_no_eating_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 51.903646,
+          "src": "audio/clips/audiolog_g_no_eating_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I'm down to five beacons, not counting this one.",
+              "As I have ventured farther from the center in a few directions now,",
+              "I've seen that the stars -- the entries to other worlds -- they decrease in density.",
+              "I still don't know the full extent of their spread, but the thinning-out gives me hope of a reasonable, finite size.",
+              "Quigley, you're still not here. I hope all is well on your end.",
+              "I should expect to be in some alarm by now, for want of food and fresh water.",
+              "But here I don't seem to need nourishment. You know I love a good brisket,",
+              "but here the physical hunger just never arises. That's one more item to investigate.",
+              "Parsons always complains of the nuisance of eating.",
+              "Send him through if you get a chance; he'll love it here."
+            ],
+            "pt-br": [
+              "Estou com apenas cinco sinalizadores, sem contar este.",
+              "À medida que me aventurei mais longe do centro em algumas direções,",
+              "Vi que as estrelas — as entradas para outros mundos — elas diminuem em densidade.",
+              "Ainda não sei até onde se estendem, mas vê-los ficando mais esparsos me dá esperança de que tenham um tamanho razoável e finito.",
+              "Quigley, você ainda não está aqui. Espero que esteja tudo bem aí.",
+              "Já era de se esperar que eu estivesse em alerta agora, por falta de comida e água fresca.",
+              "Mas aqui eu pareço não precisar comer. Você sabe que adoro um bom brisket,",
+              "mas aqui a fome física simplesmente nunca aparece. Isso é mais um item a investigar.",
+              "Parsons sempre reclama do incômodo de comer.",
+              "Mande-o para cá se tiver oportunidade; ele vai adorar este lugar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_no_eating_1__sokoban.wav",
+            "subtitleCueLines": [
+              3699,
+              3702,
+              3706,
+              3711,
+              3716,
+              3721,
+              3725,
+              3729,
+              3733,
+              3737
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm down to five beacons, not counting this one.",
+          "As I have ventured farther from the center in a few directions now,",
+          "I've seen that the stars -- the entries to other worlds -- they decrease in density.",
+          "I still don't know the full extent of their spread, but the thinning-out gives me hope of a reasonable, finite size.",
+          "Quigley, you're still not here. I hope all is well on your end.",
+          "I should expect to be in some alarm by now, for want of food and fresh water.",
+          "But here I don't seem to need nourishment. You know I love a good brisket,",
+          "but here the physical hunger just never arises. That's one more item to investigate.",
+          "Parsons always complains of the nuisance of eating.",
+          "Send him through if you get a chance; he'll love it here."
+        ],
+        "pt-br": [
+          "Estou com apenas cinco sinalizadores, sem contar este.",
+          "À medida que me aventurei mais longe do centro em algumas direções,",
+          "Vi que as estrelas — as entradas para outros mundos — elas diminuem em densidade.",
+          "Ainda não sei até onde se estendem, mas vê-los ficando mais esparsos me dá esperança de que tenham um tamanho razoável e finito.",
+          "Quigley, você ainda não está aqui. Espero que esteja tudo bem aí.",
+          "Já era de se esperar que eu estivesse em alerta agora, por falta de comida e água fresca.",
+          "Mas aqui eu pareço não precisar comer. Você sabe que adoro um bom brisket,",
+          "mas aqui a fome física simplesmente nunca aparece. Isso é mais um item a investigar.",
+          "Parsons sempre reclama do incômodo de comer.",
+          "Mande-o para cá se tiver oportunidade; ele vai adorar este lugar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

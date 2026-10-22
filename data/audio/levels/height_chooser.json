@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "level": "height_chooser",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_height_chooser",
+      "clips": [
+        {
+          "id": "audiolog_di_height_chooser_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 47.390271,
+          "src": "audio/clips/audiolog_di_height_chooser_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "The core idea of this level is to set up a situation with an Endpoint Beam and magic Mirror",
+              "such that you can choose how high you want to go up, teleport to that height,",
+              "and be held aloft by the Beam so that you can step onto the platform.",
+              "But there's a lot of other stuff going on. Having to fill the far endpoint of the purple Beam;",
+              "only being able to use the Lily once to go to the far shore;",
+              "the ability to recall the skipping stone with the magic Mirror,",
+              "and maybe change its direction of movement while it's skipping;",
+              "questions about whether you are supposed to somehow use the Lily more than once,",
+              "whether you are supposed to sink the skipping stone to make terrain, and so forth.",
+              "It's just too much uncertainty about what's going on, in a place where the core scenario is already complicated and hard to see."
+            ],
+            "pt-br": [
+              "A ideia central deste nível é montar uma situação com um Feixe de Extremidade e um Espelho Mágico",
+              "de modo que você possa escolher até que altura quer subir, teletransportar-se para essa altura,",
+              "e ser mantido no ar pelo feixe para que você possa entrar na plataforma.",
+              "Mas há muita coisa acontecendo além disso. Ter de preencher a extremidade distante do feixe roxo;",
+              "só poder usar a vitória-régia uma vez para ir até a margem oposta;",
+              "a habilidade de chamar de volta a Pedra Quicante com o Espelho Mágico,",
+              "e talvez mudar sua direção de movimento enquanto ela quica;",
+              "dúvidas sobre se você deveria de algum jeito usar a vitória-régia mais de uma vez,",
+              "se você deve afundar a pedra quicante para criar terreno, e assim por diante.",
+              "É incerteza demais sobre o que está acontecendo, num lugar em que o cenário central já é bem complicado e difícil de enxergar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_height_chooser_1__director.wav",
+            "subtitleCueLines": [
+              13650,
+              13655,
+              13660,
+              13664,
+              13668,
+              13672,
+              13676,
+              13680,
+              13685,
+              13690
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The core idea of this level is to set up a situation with an Endpoint Beam and magic Mirror",
+          "such that you can choose how high you want to go up, teleport to that height,",
+          "and be held aloft by the Beam so that you can step onto the platform.",
+          "But there's a lot of other stuff going on. Having to fill the far endpoint of the purple Beam;",
+          "only being able to use the Lily once to go to the far shore;",
+          "the ability to recall the skipping stone with the magic Mirror,",
+          "and maybe change its direction of movement while it's skipping;",
+          "questions about whether you are supposed to somehow use the Lily more than once,",
+          "whether you are supposed to sink the skipping stone to make terrain, and so forth.",
+          "It's just too much uncertainty about what's going on, in a place where the core scenario is already complicated and hard to see."
+        ],
+        "pt-br": [
+          "A ideia central deste nível é montar uma situação com um Feixe de Extremidade e um Espelho Mágico",
+          "de modo que você possa escolher até que altura quer subir, teletransportar-se para essa altura,",
+          "e ser mantido no ar pelo feixe para que você possa entrar na plataforma.",
+          "Mas há muita coisa acontecendo além disso. Ter de preencher a extremidade distante do feixe roxo;",
+          "só poder usar a vitória-régia uma vez para ir até a margem oposta;",
+          "a habilidade de chamar de volta a Pedra Quicante com o Espelho Mágico,",
+          "e talvez mudar sua direção de movimento enquanto ela quica;",
+          "dúvidas sobre se você deveria de algum jeito usar a vitória-régia mais de uma vez,",
+          "se você deve afundar a pedra quicante para criar terreno, e assim por diante.",
+          "É incerteza demais sobre o que está acontecendo, num lugar em que o cenário central já é bem complicado e difícil de enxergar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914832,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_height_chooser",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              16.0,
+              0.0
+            ],
+            "source": "data-common/height_chooser.entities"
+          }
+        ],
+        "subtitleLine": 13649,
+        "subtitleHeader": ":"
+      }
+    }
+  ]
+}

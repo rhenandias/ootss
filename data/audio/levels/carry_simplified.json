@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "level": "carry_simplified",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "3d_intro_carry",
+      "clips": [
+        {
+          "id": "3d_intro_carry_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.228167,
+          "src": "audio/clips/3d_intro_carry_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "This isn't so bad, actually."
+            ],
+            "pt-br": [
+              "Isso não é tão ruim, na verdade."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              7092
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.086812,
+          "src": "audio/clips/3d_intro_carry_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Not so bad?"
+            ],
+            "pt-br": [
+              "Não foi tão ruim?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_2__sailor.wav",
+            "subtitleCueLines": [
+              7096
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_3__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.147063,
+          "src": "audio/clips/3d_intro_carry_3__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Heights-wise."
+            ],
+            "pt-br": [
+              "No quesito altura."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_3__sailor_alt.wav",
+            "subtitleCueLines": [
+              7099
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.665896,
+          "src": "audio/clips/3d_intro_carry_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It isn't?"
+            ],
+            "pt-br": [
+              "Não é?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_4__sailor.wav",
+            "subtitleCueLines": [
+              7102
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_5__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 6.559,
+          "src": "audio/clips/3d_intro_carry_5__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Just from here to where we need to go, I mean.",
+              "Don't let the height phase you. If you don't look, there is nothing there. Simple."
+            ],
+            "pt-br": [
+              "Só daqui até onde precisamos ir, quero dizer.",
+              "Não se deixe intimidar pela altura. Se você não olhar, não tem nada lá. Simples."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_5__sailor_alt.wav",
+            "subtitleCueLines": [
+              7105,
+              7111
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This isn't so bad, actually.",
+          "Not so bad?",
+          "Heights-wise.",
+          "It isn't?",
+          "Just from here to where we need to go, I mean.",
+          "Don't let the height phase you. If you don't look, there is nothing there. Simple."
+        ],
+        "pt-br": [
+          "Isso não é tão ruim, na verdade.",
+          "Não foi tão ruim?",
+          "No quesito altura.",
+          "Não é?",
+          "Só daqui até onde precisamos ir, quero dizer.",
+          "Não se deixe intimidar pela altura. Se você não olhar, não tem nada lá. Simples."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "3d_intro_carry",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              8.0,
+              3.0
+            ],
+            "source": "data-common/carry_simplified.entities"
+          }
+        ],
+        "subtitleLine": 7091,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "3d_intro_carry_actual_a",
+      "clips": [
+        {
+          "id": "3d_intro_carry_actual_a_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.889646,
+          "src": "audio/clips/3d_intro_carry_actual_a_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Do I look funny?"
+            ],
+            "pt-br": [
+              "Estou com cara engraçada?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_actual_a_1__sailor.wav",
+            "subtitleCueLines": [
+              7122
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_actual_a_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.337083,
+          "src": "audio/clips/3d_intro_carry_actual_a_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "As do you ever."
+            ],
+            "pt-br": [
+              "Como sempre."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_actual_a_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              7126
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_actual_a_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.883667,
+          "src": "audio/clips/3d_intro_carry_actual_a_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Shush now."
+            ],
+            "pt-br": [
+              "Cala a boca."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_actual_a_3__sailor.wav",
+            "subtitleCueLines": [
+              7130
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Do I look funny?",
+          "As do you ever.",
+          "Shush now."
+        ],
+        "pt-br": [
+          "Estou com cara engraçada?",
+          "Como sempre.",
+          "Cala a boca."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 16777299,
+            "entityType": "Guy",
+            "field": "entity_name",
+            "value": "3d_intro_carry_actual_a",
+            "rule": "named-dialogue-anchor",
+            "coordinates": [
+              3.0,
+              8.0,
+              3.0
+            ],
+            "source": "data-common/carry_simplified.entities"
+          }
+        ],
+        "subtitleLine": 7121,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "3d_intro_carry_actual_b",
+      "clips": [
+        {
+          "id": "3d_intro_carry_actual_b_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.246,
+          "src": "audio/clips/3d_intro_carry_actual_b_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "You look so funny!"
+            ],
+            "pt-br": [
+              "Você está com uma cara tão engraçada!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_actual_b_1__sailor.wav",
+            "subtitleCueLines": [
+              7137
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_actual_b_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.530938,
+          "src": "audio/clips/3d_intro_carry_actual_b_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Mind your mouth."
+            ],
+            "pt-br": [
+              "Cuidado com a boca."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_actual_b_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              7141
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_actual_b_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.518083,
+          "src": "audio/clips/3d_intro_carry_actual_b_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I'm so pent up. No ship to berate."
+            ],
+            "pt-br": [
+              "Estou tão tensa. Sem navio para implicar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_actual_b_3__sailor.wav",
+            "subtitleCueLines": [
+              7144
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_carry_actual_b_4__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.458604,
+          "src": "audio/clips/3d_intro_carry_actual_b_4__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "You know -- I just realized. Me too."
+            ],
+            "pt-br": [
+              "Sabe... só percebi agora. Eu também."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_actual_b_4__sailor_alt.wav",
+            "subtitleCueLines": [
+              7148
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You look so funny!",
+          "Mind your mouth.",
+          "I'm so pent up. No ship to berate.",
+          "You know -- I just realized. Me too."
+        ],
+        "pt-br": [
+          "Você está com uma cara tão engraçada!",
+          "Cuidado com a boca.",
+          "Estou tão tensa. Sem navio para implicar.",
+          "Sabe... só percebi agora. Eu também."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "entity_name",
+            "value": "3d_intro_carry_actual_b",
+            "rule": "named-dialogue-anchor",
+            "coordinates": [
+              1.0,
+              8.0,
+              3.0
+            ],
+            "source": "data-common/carry_simplified.entities"
+          }
+        ],
+        "subtitleLine": 7136,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "3d_intro_carry_end",
+      "clips": [
+        {
+          "id": "3d_intro_carry_end_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.559646,
+          "src": "audio/clips/3d_intro_carry_end_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "If we're this tricky, no-one can stop us!"
+            ],
+            "pt-br": [
+              "Se estamos dando conta disso, ninguém pode nos parar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_carry_end_1__sailor.wav",
+            "subtitleCueLines": [
+              7155
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If we're this tricky, no-one can stop us!"
+        ],
+        "pt-br": [
+          "Se estamos dando conta disso, ninguém pode nos parar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "3d_intro_carry_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              8.0,
+              3.0
+            ],
+            "source": "data-common/carry_simplified.entities"
+          }
+        ],
+        "subtitleLine": 7154,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

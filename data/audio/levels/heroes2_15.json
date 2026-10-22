@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_15",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_warrior_priestess_first",
+      "clips": [
+        {
+          "id": "heroes2_warrior_priestess_first_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 8.359333,
+          "src": "audio/clips/heroes2_warrior_priestess_first_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I'm so happy to have some help. Once-a-time I would have slain these goblins easily,",
+              "but I can't now. Restrictions."
+            ],
+            "pt-br": [
+              "Estou tão feliz por ter ajuda. Antigamente eu teria matado esses goblins facilmente,",
+              "mas agora não posso. Restrições."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_priestess_first_1__warrior.wav",
+            "subtitleCueLines": [
+              1248,
+              1253
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm so happy to have some help. Once-a-time I would have slain these goblins easily,",
+          "but I can't now. Restrictions."
+        ],
+        "pt-br": [
+          "Estou tão feliz por ter ajuda. Antigamente eu teria matado esses goblins facilmente,",
+          "mas agora não posso. Restrições."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048598,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_warrior_priestess_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_15.entities"
+          }
+        ],
+        "subtitleLine": 1247,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_priestess_first_end",
+      "clips": [
+        {
+          "id": "heroes2_warrior_priestess_first_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.075333,
+          "src": "audio/clips/heroes2_warrior_priestess_first_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Please travel with us. We're trying to stop a really bad guy."
+            ],
+            "pt-br": [
+              "Viaje com a gente, por favor. Estamos tentando impedir um cara muito malvado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_priestess_first_end_1__warrior.wav",
+            "subtitleCueLines": [
+              1261
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Please travel with us. We're trying to stop a really bad guy."
+        ],
+        "pt-br": [
+          "Viaje com a gente, por favor. Estamos tentando impedir um cara muito malvado."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048598,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_warrior_priestess_first_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_15.entities"
+          }
+        ],
+        "subtitleLine": 1260,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

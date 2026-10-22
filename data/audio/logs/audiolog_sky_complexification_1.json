@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_complexification_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_complexification_1",
+      "clips": [
+        {
+          "id": "audiolog_sky_complexification_1_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 88.642833,
+          "src": "audio/clips/audiolog_sky_complexification_1_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "We're here to look at the way things combine. At first, when exploring a Warehouse like this one, you see specific objects:",
+              "A Mirror behaves in a certain way, teleporting objects to equidistant positions.",
+              "You observe the basic behavior, you do some solving with it,",
+              "see how it interacts in various permutations;",
+              "with time and practice the Mirror's behavior becomes natural to you.",
+              "A Skipping Stone: it skips over water, it will land on shore or it will sink, and you do it again:",
+              "basic solving, working with the stone's behavior until it becomes natural.",
+              "When we put the Mirror and the Skipping Stone together, you see the mysterious force begin to act:",
+              "the two objects, brought into proximity, *complexify* with each other.",
+              "The Stone likes to travel in one direction, so *now* when the Mirror acts, it acts",
+              "not just on the Stone's position, but this direction as well.",
+              "That creates new situations of interest, which we illustrate by making new puzzles.",
+              "Oh, look, the Mirror *changes* the direction. What if the new direction happens to be vertical, the one axis affected by Gravity?",
+              "Let's find out.",
+              "This complexification goes both ways. The Stone can make some things happen to the Mirror as well -- as you may see eventually."
+            ],
+            "pt-br": [
+              "Estamos aqui para olhar a forma como as coisas se combinam. No começo, ao explorar um Armazém como este, você vê objetos específicos:",
+              "Um Espelho se comporta de um certo jeito, teletransportando objetos para posições equidistantes.",
+              "Você observa o comportamento básico, faz alguns quebra-cabeças com ele,",
+              "vê como ele interage em várias permutações;",
+              "com o tempo e a prática, o comportamento do Espelho se torna natural para você.",
+              "Uma Pedra Quicante: ela quica sobre a água, vai parar na margem ou afunda, e você faz de novo:",
+              "solução básica, trabalhando com o comportamento da pedra até que ele se torne natural.",
+              "Quando juntamos o Espelho e a Pedra Quicante, você vê a força misteriosa começar a agir:",
+              "os dois objetos, colocados em proximidade, se complexificam um com o outro.",
+              "A Pedra gosta de se mover em uma direção, então agora, quando os Espelhos agem, eles agem",
+              "não só sobre a posição da Pedra, mas também sobre a direção do movimento.",
+              "Isso cria novas situações de interesse, que ilustramos criando novos quebra-cabeças.",
+              "Ah, veja, os Espelhos mudam a direção. E se a nova direção for vertical, o único eixo afetado pela Gravidade?",
+              "Vamos descobrir.",
+              "Essa complexificação funciona nos dois sentidos. A Pedra também pode afetar os Espelhos; você talvez veja isso mais adiante."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_complexification_1_1__acting.wav",
+            "subtitleCueLines": [
+              10832,
+              10837,
+              10841,
+              10845,
+              10849,
+              10853,
+              10858,
+              10862,
+              10866,
+              10870,
+              10874,
+              10878,
+              10882,
+              10887,
+              10891
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We're here to look at the way things combine. At first, when exploring a Warehouse like this one, you see specific objects:",
+          "A Mirror behaves in a certain way, teleporting objects to equidistant positions.",
+          "You observe the basic behavior, you do some solving with it,",
+          "see how it interacts in various permutations;",
+          "with time and practice the Mirror's behavior becomes natural to you.",
+          "A Skipping Stone: it skips over water, it will land on shore or it will sink, and you do it again:",
+          "basic solving, working with the stone's behavior until it becomes natural.",
+          "When we put the Mirror and the Skipping Stone together, you see the mysterious force begin to act:",
+          "the two objects, brought into proximity, *complexify* with each other.",
+          "The Stone likes to travel in one direction, so *now* when the Mirror acts, it acts",
+          "not just on the Stone's position, but this direction as well.",
+          "That creates new situations of interest, which we illustrate by making new puzzles.",
+          "Oh, look, the Mirror *changes* the direction. What if the new direction happens to be vertical, the one axis affected by Gravity?",
+          "Let's find out.",
+          "This complexification goes both ways. The Stone can make some things happen to the Mirror as well -- as you may see eventually."
+        ],
+        "pt-br": [
+          "Estamos aqui para olhar a forma como as coisas se combinam. No começo, ao explorar um Armazém como este, você vê objetos específicos:",
+          "Um Espelho se comporta de um certo jeito, teletransportando objetos para posições equidistantes.",
+          "Você observa o comportamento básico, faz alguns quebra-cabeças com ele,",
+          "vê como ele interage em várias permutações;",
+          "com o tempo e a prática, o comportamento do Espelho se torna natural para você.",
+          "Uma Pedra Quicante: ela quica sobre a água, vai parar na margem ou afunda, e você faz de novo:",
+          "solução básica, trabalhando com o comportamento da pedra até que ele se torne natural.",
+          "Quando juntamos o Espelho e a Pedra Quicante, você vê a força misteriosa começar a agir:",
+          "os dois objetos, colocados em proximidade, se complexificam um com o outro.",
+          "A Pedra gosta de se mover em uma direção, então agora, quando os Espelhos agem, eles agem",
+          "não só sobre a posição da Pedra, mas também sobre a direção do movimento.",
+          "Isso cria novas situações de interesse, que ilustramos criando novos quebra-cabeças.",
+          "Ah, veja, os Espelhos mudam a direção. E se a nova direção for vertical, o único eixo afetado pela Gravidade?",
+          "Vamos descobrir.",
+          "Essa complexificação funciona nos dois sentidos. A Pedra também pode afetar os Espelhos; você talvez veja isso mais adiante."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

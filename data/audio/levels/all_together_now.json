@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "level": "all_together_now",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "all_together_now_reassembly_1",
+      "clips": [
+        {
+          "id": "all_together_now_reassembly_1_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.281875,
+          "src": "audio/clips/all_together_now_reassembly_1_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Why are we back *here*?"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_1_1__gemsman.wav",
+            "subtitleCueLines": [
+              11733
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_1_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.188312,
+          "src": "audio/clips/all_together_now_reassembly_1_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Hey ... We did this already!"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_1_2__thief.wav",
+            "subtitleCueLines": [
+              11737
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_1_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.574833,
+          "src": "audio/clips/all_together_now_reassembly_1_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "There's been a change. He wants to reassemble us."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_1_3__sailor.wav",
+            "subtitleCueLines": [
+              11740
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_1_4__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 0.898667,
+          "src": "audio/clips/all_together_now_reassembly_1_4__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Who?"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_1_4__trader.wav",
+            "subtitleCueLines": [
+              11743
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_1_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.985333,
+          "src": "audio/clips/all_together_now_reassembly_1_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "The theatrical guy. Judgy."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_1_5__sailor.wav",
+            "subtitleCueLines": [
+              11746
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_1_6__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.999667,
+          "src": "audio/clips/all_together_now_reassembly_1_6__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Oh. A 'friend' of mine."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_1_6__thief.wav",
+            "subtitleCueLines": [
+              11750
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_1_8__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 0.958771,
+          "src": "audio/clips/all_together_now_reassembly_1_8__thief.mp3",
+          "transcripts": {
+            "en": [
+              "*That* fellow."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_1_8__thief.wav",
+            "subtitleCueLines": [
+              11754
+            ],
+            "explicitAudioReference": "all_together_now_reassembly_1_8__thief"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Why are we back *here*?",
+          "Hey ... We did this already!",
+          "There's been a change. He wants to reassemble us.",
+          "Who?",
+          "The theatrical guy. Judgy.",
+          "Oh. A 'friend' of mine.",
+          "*That* fellow."
+        ],
+        "pt-br": [
+          "Por que estamos de volta aqui?",
+          "Ei... Já fizemos isso!",
+          "Houve uma mudança. Ele quer nos reunir.",
+          "Quem?",
+          "O sujeito teatral. Vive julgando os outros.",
+          "Ah. Um “amigo” meu.",
+          "Aquele sujeito?",
+          "Aquele sujeito."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "Clip identities differ from English"
+      },
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343365,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "all_together_now_reassembly_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.947939395904541,
+              10.567304611206055,
+              0.029260635375976562
+            ],
+            "source": "data-common/all_together_now.entities"
+          }
+        ],
+        "subtitleLine": 11732,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "all_together_now_reassembly_2",
+      "clips": [
+        {
+          "id": "all_together_now_reassembly_2_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.537333,
+          "src": "audio/clips/all_together_now_reassembly_2_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "So, what's this about?"
+            ],
+            "pt-br": [
+              "Então, do que se trata?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_2_1__trader.wav",
+            "subtitleCueLines": [
+              11764
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_2_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.531667,
+          "src": "audio/clips/all_together_now_reassembly_2_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "He'll meet with us soon. We're supposed to save someone's life!"
+            ],
+            "pt-br": [
+              "Ele vai se encontrar conosco em breve. Temos que salvar a vida de alguém!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_2_2__sailor.wav",
+            "subtitleCueLines": [
+              11767
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_2_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.761,
+          "src": "audio/clips/all_together_now_reassembly_2_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Oh. ... Exciting!"
+            ],
+            "pt-br": [
+              "Ah... Empolgante!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_2_3__thief.wav",
+            "subtitleCueLines": [
+              11771
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_together_now_reassembly_2_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 5.092333,
+          "src": "audio/clips/all_together_now_reassembly_2_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "He's put together a plan, and we're going to ... rehearse?"
+            ],
+            "pt-br": [
+              "Ele formulou um plano de ação, e vamos... ensaiar?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "all_together_now_reassembly_2_4__sailor.wav",
+            "subtitleCueLines": [
+              11775
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, what's this about?",
+          "He'll meet with us soon. We're supposed to save someone's life!",
+          "Oh. ... Exciting!",
+          "He's put together a plan, and we're going to ... rehearse?"
+        ],
+        "pt-br": [
+          "Então, do que se trata?",
+          "Ele vai se encontrar conosco em breve. Temos que salvar a vida de alguém!",
+          "Ah... Empolgante!",
+          "Ele formulou um plano de ação, e vamos... ensaiar?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420440,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "all_together_now_reassembly_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              -1.0,
+              -10.0,
+              1.0
+            ],
+            "source": "data-common/all_together_now.entities"
+          }
+        ],
+        "subtitleLine": 11763,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

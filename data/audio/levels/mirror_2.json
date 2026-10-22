@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_2",
+      "clips": [
+        {
+          "id": "mirror_2_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 3.293333,
+          "src": "audio/clips/mirror_2_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "These isles seemed much bigger through the eyes of a boy."
+            ],
+            "pt-br": [
+              "Essas ilhas pareciam muito maiores aos olhos de um menino."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_2_1__trader.wav",
+            "subtitleCueLines": [
+              5984
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "These isles seemed much bigger through the eyes of a boy."
+        ],
+        "pt-br": [
+          "Essas ilhas pareciam muito maiores aos olhos de um menino."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048604,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              17.0,
+              0.0
+            ],
+            "source": "data-common/mirror_2.entities"
+          }
+        ],
+        "subtitleLine": 5983,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "clones_early",
+      "clips": [
+        {
+          "id": "clones_early_1__trader_clone_1",
+          "speaker": "trader_clone_1",
+          "speakerName": "trader_clone_1",
+          "duration": 1.778667,
+          "src": "audio/clips/clones_early_1__trader_clone_1.mp3",
+          "transcripts": {
+            "en": [
+              "This isn't yet meant to happen."
+            ],
+            "pt-br": [
+              "Isso ainda não deveria acontecer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_early_1__trader_clone_1.wav",
+            "subtitleCueLines": [
+              6199
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_early_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 0.648917,
+          "src": "audio/clips/clones_early_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "And?"
+            ],
+            "pt-br": [
+              "E aí?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_early_2__trader.wav",
+            "subtitleCueLines": [
+              6203
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_early_3__trader_clone_1",
+          "speaker": "trader_clone_1",
+          "speakerName": "trader_clone_1",
+          "duration": 2.803667,
+          "src": "audio/clips/clones_early_3__trader_clone_1.mp3",
+          "transcripts": {
+            "en": [
+              "Don't develop too big a head. That's all."
+            ],
+            "pt-br": [
+              "Não fique metido demais. Só isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_early_3__trader_clone_1.wav",
+            "subtitleCueLines": [
+              6207
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This isn't yet meant to happen.",
+          "And?",
+          "Don't develop too big a head. That's all."
+        ],
+        "pt-br": [
+          "Isso ainda não deveria acontecer.",
+          "E aí?",
+          "Não fique metido demais. Só isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_proc_arg_string",
+            "value": "clones_early",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/mirror_2.entities"
+          }
+        ],
+        "subtitleLine": 6198,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_combiners_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_combiners_2",
+      "clips": [
+        {
+          "id": "audiolog_sky_combiners_2_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 49.934917,
+          "src": "audio/clips/audiolog_sky_combiners_2_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "By now, we've done a lot of 4-combiners.",
+              "We topped out at 4, more or less, for a long while.",
+              "When I oversaw the building of this Warehouse, I was just following the established pattern,",
+              "but filling it in a bit differently, applying the best of what I knew.",
+              "The 4-combiner had become a well-worn template, a path too-frequently trodden, perhaps.",
+              "The very day we broke ground for this Warehouse, Director -- the Director of the Static Brigade --",
+              "and Lemur too, announced that for the next facility, we would try something new and big.",
+              "The 250th anniversary of our Order had arrived;",
+              "and coincidentally, the serial numbers of the Warehouses were about to reach an arcane and auspicious number.",
+              "There's a bit of an inside joke that few understood except Lemur, Director and some other Highests.",
+              "They said we should celebrate."
+            ],
+            "pt-br": [
+              "Até agora, fizemos muitos 4-Combinadores.",
+              "Ficamos, mais ou menos, no 4 por muito tempo.",
+              "Quando supervisei a construção deste Armazém, eu estava apenas seguindo o padrão estabelecido,",
+              "mas preenchendo-o de um jeito um pouco diferente, aplicando o melhor do que eu sabia.",
+              "O 4-Combinador tinha virado um molde muito usado, um caminho talvez trilhado com frequência demais.",
+              "No mesmo dia em que começamos a construir este Armazém, a Diretora — a Diretora da Divisão Estática —",
+              "e o Lemur também anunciou que, para a próxima instalação, tentaríamos algo novo e grande.",
+              "O 250º aniversário da nossa Ordem havia chegado;",
+              "e, por coincidência, os números de série dos Armazéns estavam prestes a chegar a um número arcano e auspicioso.",
+              "Há uma piada interna ali, que poucos entenderam além de Lemur, da Diretora e de alguns outros Altíssimos.",
+              "Disseram que devíamos celebrar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_combiners_2_1__acting.wav",
+            "subtitleCueLines": [
+              9294,
+              9297,
+              9300,
+              9304,
+              9308,
+              9312,
+              9316,
+              9320,
+              9323,
+              9327,
+              9331
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "By now, we've done a lot of 4-combiners.",
+          "We topped out at 4, more or less, for a long while.",
+          "When I oversaw the building of this Warehouse, I was just following the established pattern,",
+          "but filling it in a bit differently, applying the best of what I knew.",
+          "The 4-combiner had become a well-worn template, a path too-frequently trodden, perhaps.",
+          "The very day we broke ground for this Warehouse, Director -- the Director of the Static Brigade --",
+          "and Lemur too, announced that for the next facility, we would try something new and big.",
+          "The 250th anniversary of our Order had arrived;",
+          "and coincidentally, the serial numbers of the Warehouses were about to reach an arcane and auspicious number.",
+          "There's a bit of an inside joke that few understood except Lemur, Director and some other Highests.",
+          "They said we should celebrate."
+        ],
+        "pt-br": [
+          "Até agora, fizemos muitos 4-Combinadores.",
+          "Ficamos, mais ou menos, no 4 por muito tempo.",
+          "Quando supervisei a construção deste Armazém, eu estava apenas seguindo o padrão estabelecido,",
+          "mas preenchendo-o de um jeito um pouco diferente, aplicando o melhor do que eu sabia.",
+          "O 4-Combinador tinha virado um molde muito usado, um caminho talvez trilhado com frequência demais.",
+          "No mesmo dia em que começamos a construir este Armazém, a Diretora — a Diretora da Divisão Estática —",
+          "e o Lemur também anunciou que, para a próxima instalação, tentaríamos algo novo e grande.",
+          "O 250º aniversário da nossa Ordem havia chegado;",
+          "e, por coincidência, os números de série dos Armazéns estavam prestes a chegar a um número arcano e auspicioso.",
+          "Há uma piada interna ali, que poucos entenderam além de Lemur, da Diretora e de alguns outros Altíssimos.",
+          "Disseram que devíamos celebrar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

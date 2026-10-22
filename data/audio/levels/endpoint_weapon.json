@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 1,
+  "level": "endpoint_weapon",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_endpoint_weapon",
+      "clips": [
+        {
+          "id": "hp_endpoint_weapon_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.682854,
+          "src": "audio/clips/hp_endpoint_weapon_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I supppose we're here too late to see the nice parts."
+            ],
+            "pt-br": [
+              "Acho que chegamos tarde demais para ver as partes bonitas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_1__thief.wav",
+            "subtitleCueLines": [
+              7827
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.57075,
+          "src": "audio/clips/hp_endpoint_weapon_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Unfortunately, you're right. A hand, please?"
+            ],
+            "pt-br": [
+              "Infelizmente, você tem razão. Uma mão, por favor?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_2__bard.wav",
+            "subtitleCueLines": [
+              7831
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I supppose we're here too late to see the nice parts.",
+          "Unfortunately, you're right. A hand, please?"
+        ],
+        "pt-br": [
+          "Acho que chegamos tarde demais para ver as partes bonitas.",
+          "Infelizmente, você tem razão. Uma mão, por favor?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 59768842,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_endpoint_weapon",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/endpoint_weapon.entities"
+          }
+        ],
+        "subtitleLine": 7826,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_endpoint_weapon_mid1",
+      "clips": [
+        {
+          "id": "hp_endpoint_weapon_mid1_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.716854,
+          "src": "audio/clips/hp_endpoint_weapon_mid1_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Just ... gone ... I *almost* feel bad for the goblins."
+            ],
+            "pt-br": [
+              "Simplesmente... sumiu... Quase sinto pena dos goblins."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid1_1__thief.wav",
+            "subtitleCueLines": [
+              7839
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid1_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 1.507417,
+          "src": "audio/clips/hp_endpoint_weapon_mid1_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "They asked for it, didn't they."
+            ],
+            "pt-br": [
+              "Foram eles que quiseram, não foi?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid1_2__bard.wav",
+            "subtitleCueLines": [
+              7844
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid1_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.508667,
+          "src": "audio/clips/hp_endpoint_weapon_mid1_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I did say, 'almost'!"
+            ],
+            "pt-br": [
+              "Eu disse “quase”!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid1_3__thief.wav",
+            "subtitleCueLines": [
+              7847
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Just ... gone ... I *almost* feel bad for the goblins.",
+          "They asked for it, didn't they.",
+          "I did say, 'almost'!"
+        ],
+        "pt-br": [
+          "Simplesmente... sumiu... Quase sinto pena dos goblins.",
+          "Foram eles que quiseram, não foi?",
+          "Eu disse “quase”!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371843,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "hp_endpoint_weapon_mid1",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/endpoint_weapon.entities"
+          }
+        ],
+        "subtitleLine": 7838,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_endpoint_weapon_mid2",
+      "clips": [
+        {
+          "id": "hp_endpoint_weapon_mid2_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 11.26,
+          "src": "audio/clips/hp_endpoint_weapon_mid2_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "The question though: Did they ravage the town, then transport it here?,",
+              "or is this ... a duplicate, timber for timber, built to be burned... and the original remains unscathed?"
+            ],
+            "pt-br": [
+              "Mas aqui vai a pergunta: Eles devastaram a cidade, depois a trouxeram para cá?",
+              "Ou isto é... uma réplica, tábua por tábua, feita para ser queimada... e a original continua intacta?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid2_1__thief.wav",
+            "subtitleCueLines": [
+              7854,
+              7860
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid2_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 1.79525,
+          "src": "audio/clips/hp_endpoint_weapon_mid2_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "We'll find out when we get back home."
+            ],
+            "pt-br": [
+              "Vamos descobrir quando voltarmos para casa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid2_2__bard.wav",
+            "subtitleCueLines": [
+              7865
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The question though: Did they ravage the town, then transport it here?,",
+          "or is this ... a duplicate, timber for timber, built to be burned... and the original remains unscathed?",
+          "We'll find out when we get back home."
+        ],
+        "pt-br": [
+          "Mas aqui vai a pergunta: Eles devastaram a cidade, depois a trouxeram para cá?",
+          "Ou isto é... uma réplica, tábua por tábua, feita para ser queimada... e a original continua intacta?",
+          "Vamos descobrir quando voltarmos para casa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371861,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "hp_endpoint_weapon_mid2",
+            "rule": "exact-reference",
+            "coordinates": [
+              23.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/endpoint_weapon.entities"
+          }
+        ],
+        "subtitleLine": 7853,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_endpoint_weapon_mid3",
+      "clips": [
+        {
+          "id": "hp_endpoint_weapon_mid3_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.977583,
+          "src": "audio/clips/hp_endpoint_weapon_mid3_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I'm sorry if I'm being rude."
+            ],
+            "pt-br": [
+              "Desculpe se estou sendo rude."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid3_1__thief.wav",
+            "subtitleCueLines": [
+              7872
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid3_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 6.793333,
+          "src": "audio/clips/hp_endpoint_weapon_mid3_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "What, why would you think you're being rude?",
+              "It seems to me you're getting a lot done. We work well together."
+            ],
+            "pt-br": [
+              "O quê? Por que você acha que está sendo rude?",
+              "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid3_2__bard.wav",
+            "subtitleCueLines": [
+              7876,
+              7880
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid3_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.326,
+          "src": "audio/clips/hp_endpoint_weapon_mid3_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Well, you don't seem yourself today..."
+            ],
+            "pt-br": [
+              "Bem, você não parece você hoje..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid3_3__thief.wav",
+            "subtitleCueLines": [
+              7884
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm sorry if I'm being rude.",
+          "What, why would you think you're being rude?",
+          "It seems to me you're getting a lot done. We work well together.",
+          "Well, you don't seem yourself today..."
+        ],
+        "pt-br": [
+          "Desculpe se estou sendo rude.",
+          "O quê? Por que você acha que está sendo rude?",
+          "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntos.",
+          "Bem, você não parece você hoje..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371871,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "hp_endpoint_weapon_mid3",
+            "rule": "exact-reference",
+            "coordinates": [
+              34.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/endpoint_weapon.entities"
+          }
+        ],
+        "subtitleLine": 7871,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_endpoint_weapon_mid4",
+      "clips": [
+        {
+          "id": "hp_endpoint_weapon_mid4_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 6.557792,
+          "src": "audio/clips/hp_endpoint_weapon_mid4_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "This destruction has put me in a mood. It feels ... symbolic."
+            ],
+            "pt-br": [
+              "Essa destruição me deixou num estado. Parece... simbólico."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid4_1__bard.wav",
+            "subtitleCueLines": [
+              7891
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid4_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 0.699667,
+          "src": "audio/clips/hp_endpoint_weapon_mid4_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Of what?"
+            ],
+            "pt-br": [
+              "De quê?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid4_2__thief.wav",
+            "subtitleCueLines": [
+              7895
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid4_3__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 4.116,
+          "src": "audio/clips/hp_endpoint_weapon_mid4_3__bard.mp3",
+          "transcripts": {
+            "en": [
+              "I don't quite know, and this is what bothers me."
+            ],
+            "pt-br": [
+              "Não sei ao certo, e isso me incomoda."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid4_3__bard.wav",
+            "subtitleCueLines": [
+              7898
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This destruction has put me in a mood. It feels ... symbolic.",
+          "Of what?",
+          "I don't quite know, and this is what bothers me."
+        ],
+        "pt-br": [
+          "Essa destruição me deixou num estado. Parece... simbólico.",
+          "De quê?",
+          "Não sei ao certo, e isso me incomoda."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371881,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "hp_endpoint_weapon_mid4",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/endpoint_weapon.entities"
+          }
+        ],
+        "subtitleLine": 7890,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_endpoint_weapon_mid5",
+      "clips": [
+        {
+          "id": "hp_endpoint_weapon_mid5_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.260333,
+          "src": "audio/clips/hp_endpoint_weapon_mid5_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "What does it feel like?"
+            ],
+            "pt-br": [
+              "Como é essa sensação?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid5_1__thief.wav",
+            "subtitleCueLines": [
+              7905
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid5_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 10.891542,
+          "src": "audio/clips/hp_endpoint_weapon_mid5_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Happy memories, burned like an old manuscript that was fake;",
+              "or a manuscript that was real, but I treated it as a fake."
+            ],
+            "pt-br": [
+              "Lembranças felizes, queimadas como um velho manuscrito que era falso;",
+              "ou um manuscrito que era verdadeiro, mas eu tratei como se fosse falso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid5_2__bard.wav",
+            "subtitleCueLines": [
+              7908,
+              7912
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_mid5_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.224333,
+          "src": "audio/clips/hp_endpoint_weapon_mid5_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I don't fully follow, but I'm with you. Let's keep going."
+            ],
+            "pt-br": [
+              "Não entendo tudo, mas estou com você. Vamos em frente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_mid5_3__thief.wav",
+            "subtitleCueLines": [
+              7916
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "What does it feel like?",
+          "Happy memories, burned like an old manuscript that was fake;",
+          "or a manuscript that was real, but I treated it as a fake.",
+          "I don't fully follow, but I'm with you. Let's keep going."
+        ],
+        "pt-br": [
+          "Como é essa sensação?",
+          "Lembranças felizes, queimadas como um velho manuscrito que era falso;",
+          "ou um manuscrito que era verdadeiro, mas eu tratei como se fosse falso.",
+          "Não entendo tudo, mas estou com você. Vamos em frente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371891,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "hp_endpoint_weapon_mid5",
+            "rule": "exact-reference",
+            "coordinates": [
+              56.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/endpoint_weapon.entities"
+          }
+        ],
+        "subtitleLine": 7904,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_endpoint_weapon_end",
+      "clips": [
+        {
+          "id": "hp_endpoint_weapon_end_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.965667,
+          "src": "audio/clips/hp_endpoint_weapon_end_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I'm glad we had so much time together."
+            ],
+            "pt-br": [
+              "Que bom ter tido tanto tempo juntos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_end_1__thief.wav",
+            "subtitleCueLines": [
+              7925
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_endpoint_weapon_end_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.032979,
+          "src": "audio/clips/hp_endpoint_weapon_end_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "We did well, friend."
+            ],
+            "pt-br": [
+              "Nos saímos bem, amigo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_endpoint_weapon_end_2__bard.wav",
+            "subtitleCueLines": [
+              7929
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm glad we had so much time together.",
+          "We did well, friend."
+        ],
+        "pt-br": [
+          "Que bom ter tido tanto tempo juntos.",
+          "Nos saímos bem, amigo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 59768842,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "hp_endpoint_weapon_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/endpoint_weapon.entities"
+          }
+        ],
+        "subtitleLine": 7924,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

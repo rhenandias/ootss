@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "level": "island_friends",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_island_friends_1",
+      "clips": [
+        {
+          "id": "hs_island_friends_1_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.950833,
+          "src": "audio/clips/hs_island_friends_1_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Hello! Good to see you again."
+            ],
+            "pt-br": [
+              "Olá! Que bom ver você de novo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_1_1__sailor.wav",
+            "subtitleCueLines": [
+              8123
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_1_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 7.533313,
+          "src": "audio/clips/hs_island_friends_1_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Why ... hello ... err, perhaps you can show me",
+              "more about these stones. I want to know how they work..."
+            ],
+            "pt-br": [
+              "Ora... olá... hum, talvez você possa me mostrar",
+              "mais sobre essas pedras. Quero saber como elas funcionam..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_1_2__wizard.wav",
+            "subtitleCueLines": [
+              8126,
+              8131
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_1_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.467667,
+          "src": "audio/clips/hs_island_friends_1_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Sure, no problem."
+            ],
+            "pt-br": [
+              "Claro, sem problema."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_1_3__sailor.wav",
+            "subtitleCueLines": [
+              8135
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hello! Good to see you again.",
+          "Why ... hello ... err, perhaps you can show me",
+          "more about these stones. I want to know how they work...",
+          "Sure, no problem."
+        ],
+        "pt-br": [
+          "Olá! Que bom ver você de novo.",
+          "Ora... olá... hum, talvez você possa me mostrar",
+          "mais sobre essas pedras. Quero saber como elas funcionam...",
+          "Claro, sem problema."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 14680110,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_island_friends_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/island_friends.entities"
+          }
+        ],
+        "subtitleLine": 8122,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

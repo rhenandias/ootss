@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "level": "bridgey2b",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "vm_thief_priestess_3",
+      "clips": [
+        {
+          "id": "vm_thief_priestess_3_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 6.705896,
+          "src": "audio/clips/vm_thief_priestess_3_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Aiah, to be honest, I'm a bit jealous of the way you cross water with ease.",
+              "It's so much more work for me."
+            ],
+            "pt-br": [
+              "Aiah, pra ser sincero, tenho um pouco de inveja da facilidade com que você cruza a água.",
+              "Isso dá muito mais trabalho pra mim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_thief_priestess_3_1__thief.wav",
+            "subtitleCueLines": [
+              8466,
+              8471
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Aiah, to be honest, I'm a bit jealous of the way you cross water with ease.",
+          "It's so much more work for me."
+        ],
+        "pt-br": [
+          "Aiah, pra ser sincero, tenho um pouco de inveja da facilidade com que você cruza a água.",
+          "Isso dá muito mais trabalho pra mim."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914706,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "vm_thief_priestess_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/bridgey2b.entities"
+          }
+        ],
+        "subtitleLine": 8465,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "vm_thief_priestess_3_mid",
+      "clips": [
+        {
+          "id": "vm_thief_priestess_3_mid_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 8.041625,
+          "src": "audio/clips/vm_thief_priestess_3_mid_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "It's so much work for me.",
+              "But when I see you just float across... I'm inspired, and I'm all the happier to be your friend."
+            ],
+            "pt-br": [
+              "Isso dá muito trabalho pra mim.",
+              "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser seu amigo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_thief_priestess_3_mid_1__thief.wav",
+            "subtitleCueLines": [
+              8478,
+              8482
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It's so much work for me.",
+          "But when I see you just float across... I'm inspired, and I'm all the happier to be your friend."
+        ],
+        "pt-br": [
+          "Isso dá muito trabalho pra mim.",
+          "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser seu amigo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914841,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "vm_thief_priestess_3_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.972596168518066,
+              19.636585235595703,
+              0.9296789169311523
+            ],
+            "source": "data-common/bridgey2b.entities"
+          }
+        ],
+        "subtitleLine": 8477,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

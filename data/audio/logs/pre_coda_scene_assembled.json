@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "pre_coda_scene_assembled",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "pre_coda_scene_assembled",
+      "clips": [
+        {
+          "id": "pre_coda_scene_assembled",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 87.642,
+          "src": "audio/clips/pre_coda_scene_assembled.mp3",
+          "transcripts": {
+            "en": [
+              "I am your ardent disciple, heir to your charge...",
+              "If it be granted me to survive this day, I will guard these your relics",
+              "for which we have searched *so long*... let them not be lost,",
+              "let them be set forth for all to see, a beacon;",
+              "and with your image in our people's hearts, stoking hope and inspiration, I will lead them forth into renewal.",
+              "But if I am never to leave this place, if the road leads only into the Maw, let me go alone;",
+              "let my men be not buried with me. Protect them, whom you must reward for their faithfulness,",
+              "and bring them safely through this day, that they may return to their chidren and their wives.",
+              "They will remember me alongside you, and our legend may yet shine into the future and do much good.",
+              "But I --",
+              "My Queen! Urgently!",
+              "What??? What is it???",
+              "...",
+              "Seize that traitor!",
+              "Wha...",
+              "Is this... the afterlife?",
+              "What dark enchantment... Queen, my Queen, where are you?"
+            ],
+            "pt-br": [
+              "Sou seu discípulo fervoroso, herdeiro da sua missão...",
+              "Se me for concedido sobreviver a este dia, guardarei estas suas relíquias",
+              "que buscamos por tanto tempo... que não se percam,",
+              "que sejam expostas para todos verem, como um farol;",
+              "e, com sua imagem no coração do nosso povo, alimentando esperança e inspiração, eu os conduzirei à renovação.",
+              "Mas se eu jamais for sair deste lugar, se a estrada levar apenas à Goela, deixe-me ir sozinho;",
+              "não deixe que meus homens sejam enterrados comigo. Proteja-os, pois deve recompensá-los por sua lealdade,",
+              "e faça com que passem por este dia em segurança, para que possam voltar para seus filhos e suas esposas.",
+              "Eles vão se lembrar de mim ao seu lado, e nossa lenda ainda pode brilhar no futuro e fazer muito bem.",
+              "Mas eu...",
+              "Minha Rainha! É urgente!",
+              "O quê??? O que foi???",
+              "...",
+              "Prendam aquele traidor!",
+              "Quê...",
+              "Isso aqui... é a vida após a morte?",
+              "Que encantamento sombrio..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pre_coda_scene_assembled.wav",
+            "subtitleCueLines": [
+              15174,
+              15179,
+              15183,
+              15187,
+              15191,
+              15197,
+              15202,
+              15207,
+              15212,
+              15218,
+              15221,
+              15224,
+              15228,
+              15232,
+              15236,
+              15240,
+              15244
+            ],
+            "explicitAudioReference": "pre_coda_scene_assembled"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "I am your ardent disciple, heir to your charge...",
+          "If it be granted me to survive this day, I will guard these your relics",
+          "for which we have searched *so long*... let them not be lost,",
+          "let them be set forth for all to see, a beacon;",
+          "and with your image in our people's hearts, stoking hope and inspiration, I will lead them forth into renewal.",
+          "But if I am never to leave this place, if the road leads only into the Maw, let me go alone;",
+          "let my men be not buried with me. Protect them, whom you must reward for their faithfulness,",
+          "and bring them safely through this day, that they may return to their chidren and their wives.",
+          "They will remember me alongside you, and our legend may yet shine into the future and do much good.",
+          "But I --",
+          "My Queen! Urgently!",
+          "What??? What is it???",
+          "...",
+          "Seize that traitor!",
+          "Wha...",
+          "Is this... the afterlife?",
+          "What dark enchantment... Queen, my Queen, where are you?"
+        ],
+        "pt-br": [
+          "Sou seu discípulo fervoroso, herdeiro da sua missão...",
+          "Se me for concedido sobreviver a este dia, guardarei estas suas relíquias",
+          "que buscamos por tanto tempo... que não se percam,",
+          "que sejam expostas para todos verem, como um farol;",
+          "e, com sua imagem no coração do nosso povo, alimentando esperança e inspiração, eu os conduzirei à renovação.",
+          "Mas se eu jamais for sair deste lugar, se a estrada levar apenas à Goela, deixe-me ir sozinho;",
+          "não deixe que meus homens sejam enterrados comigo. Proteja-os, pois deve recompensá-los por sua lealdade,",
+          "e faça com que passem por este dia em segurança, para que possam voltar para seus filhos e suas esposas.",
+          "Eles vão se lembrar de mim ao seu lado, e nossa lenda ainda pode brilhar no futuro e fazer muito bem.",
+          "Mas eu...",
+          "Minha Rainha! É urgente!",
+          "O quê??? O que foi???",
+          "...",
+          "Prendam aquele traidor!",
+          "Quê...",
+          "Isso aqui... é a vida após a morte?",
+          "Que encantamento sombrio..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

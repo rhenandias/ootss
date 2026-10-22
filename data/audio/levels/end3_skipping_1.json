@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "level": "end3_skipping_1",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_skipping_1",
+      "clips": [
+        {
+          "id": "end3_skipping_1_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.566667,
+          "src": "audio/clips/end3_skipping_1_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Good tidings, Sailor."
+            ],
+            "pt-br": [
+              "Boas novas, Marinheira."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_skipping_1_1__boat.wav",
+            "subtitleCueLines": [
+              11783
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_skipping_1_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.269292,
+          "src": "audio/clips/end3_skipping_1_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Borrie! You're back!"
+            ],
+            "pt-br": [
+              "Borrie! Você voltou!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_skipping_1_2__sailor.wav",
+            "subtitleCueLines": [
+              11786
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_skipping_1_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.534667,
+          "src": "audio/clips/end3_skipping_1_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I'm here to see you through this final phase."
+            ],
+            "pt-br": [
+              "Estou aqui para acompanhá-la nesta fase final."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_skipping_1_3__boat.wav",
+            "subtitleCueLines": [
+              11789
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_skipping_1_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.193,
+          "src": "audio/clips/end3_skipping_1_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "But ... how do *you* know what's happening?"
+            ],
+            "pt-br": [
+              "Mas... como você sabe o que está acontecendo?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_skipping_1_4__sailor.wav",
+            "subtitleCueLines": [
+              11792
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Good tidings, Sailor.",
+          "Borrie! You're back!",
+          "I'm here to see you through this final phase.",
+          "But ... how do *you* know what's happening?"
+        ],
+        "pt-br": [
+          "Boas novas, Marinheira.",
+          "Borrie! Você voltou!",
+          "Estou aqui para acompanhá-la nesta fase final.",
+          "Mas... como você sabe o que está acontecendo?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 111149061,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "end3_skipping_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/end3_skipping_1.entities"
+          },
+          {
+            "entityId": 115343368,
+            "entityType": "Judge",
+            "field": "code",
+            "value": "end3_skipping_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              3.0,
+              2.0
+            ],
+            "source": "data-common/end3_skipping_1.entities"
+          }
+        ],
+        "subtitleLine": 11782,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

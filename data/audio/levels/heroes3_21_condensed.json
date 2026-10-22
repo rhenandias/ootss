@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_21_condensed",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_six",
+      "clips": [
+        {
+          "id": "heroes3_six_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.450667,
+          "src": "audio/clips/heroes3_six_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Hey! Finally we're all together, at once!"
+            ],
+            "pt-br": [
+              "Ei! Finalmente estamos todos juntos, ao mesmo tempo!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_six_1__thief.wav",
+            "subtitleCueLines": [
+              2261
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_six_2__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 1.879312,
+          "src": "audio/clips/heroes3_six_2__druid.mp3",
+          "transcripts": {
+            "en": [
+              "Charming venue for a party."
+            ],
+            "pt-br": [
+              "Lugar charmoso pra uma festa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_six_2__druid.wav",
+            "subtitleCueLines": [
+              2264
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_six_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.648042,
+          "src": "audio/clips/heroes3_six_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "A bit claustrophobic!"
+            ],
+            "pt-br": [
+              "Um pouco claustrofóbico!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_six_3__wizard.wav",
+            "subtitleCueLines": [
+              2268
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_six_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.455667,
+          "src": "audio/clips/heroes3_six_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "If we keep pushing forward, we'll get out of this, like always."
+            ],
+            "pt-br": [
+              "Se a gente continuar avançando, vamos sair dessa, como sempre."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_six_4__warrior.wav",
+            "subtitleCueLines": [
+              2272
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_six_5__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 1.172542,
+          "src": "audio/clips/heroes3_six_5__bard.mp3",
+          "transcripts": {
+            "en": [
+              "That's the spirit!"
+            ],
+            "pt-br": [
+              "Isso aí!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_six_5__bard.wav",
+            "subtitleCueLines": [
+              2277
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hey! Finally we're all together, at once!",
+          "Charming venue for a party.",
+          "A bit claustrophobic!",
+          "If we keep pushing forward, we'll get out of this, like always.",
+          "That's the spirit!"
+        ],
+        "pt-br": [
+          "Ei! Finalmente estamos todos juntos, ao mesmo tempo!",
+          "Lugar charmoso pra uma festa.",
+          "Um pouco claustrofóbico!",
+          "Se a gente continuar avançando, vamos sair dessa, como sempre.",
+          "Isso aí!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420442,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_six",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_21_condensed.entities"
+          }
+        ],
+        "subtitleLine": 2260,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

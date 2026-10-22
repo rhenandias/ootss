@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "druids_stone_0_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_sailor_druid_1",
+      "clips": [
+        {
+          "id": "hs_sailor_druid_1_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.928,
+          "src": "audio/clips/hs_sailor_druid_1_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So you can only change things back into what they were? You can't choose?"
+            ],
+            "pt-br": [
+              "Então você pode mudar as coisas de volta, só para o que elas eram? Você não pode escolher?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_1_1__sailor.wav",
+            "subtitleCueLines": [
+              8354
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_1_2__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 4.669333,
+          "src": "audio/clips/hs_sailor_druid_1_2__druid.mp3",
+          "transcripts": {
+            "en": [
+              "I can't choose. They retain their spirit, and I realign form to spirit."
+            ],
+            "pt-br": [
+              "Não posso escolher. Elas mantêm seu espírito, e eu realinho a forma ao espírito."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_1_2__druid.wav",
+            "subtitleCueLines": [
+              8358
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_1_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.031,
+          "src": "audio/clips/hs_sailor_druid_1_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I have a friend who's a spirit."
+            ],
+            "pt-br": [
+              "Tenho um amigo que é um espírito."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_1_3__sailor.wav",
+            "subtitleCueLines": [
+              8362
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_1_4__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.931167,
+          "src": "audio/clips/hs_sailor_druid_1_4__druid.mp3",
+          "transcripts": {
+            "en": [
+              "Oh? Tell me about that some time..."
+            ],
+            "pt-br": [
+              "Oh? Me conte sobre isso algum dia..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_1_4__druid.wav",
+            "subtitleCueLines": [
+              8366
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So you can only change things back into what they were? You can't choose?",
+          "I can't choose. They retain their spirit, and I realign form to spirit.",
+          "I have a friend who's a spirit.",
+          "Oh? Tell me about that some time..."
+        ],
+        "pt-br": [
+          "Então você pode mudar as coisas de volta, só para o que elas eram? Você não pode escolher?",
+          "Não posso escolher. Elas mantêm seu espírito, e eu realinho a forma ao espírito.",
+          "Tenho um amigo que é um espírito.",
+          "Oh? Me conte sobre isso algum dia..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031830,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_sailor_druid_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/druids_stone_0_v2.entities"
+          }
+        ],
+        "subtitleLine": 8353,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

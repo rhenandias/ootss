@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_s_tradition_of_our_people_part_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_s_tradition_of_our_people_part_3",
+      "clips": [
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_3_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 15.707333,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_3_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "If the recording is short, too short to be a satisfying reward on its own,",
+              "don't put it in a hard-to-reach place. We mustn't disappoint!",
+              "Just put it in an easy place, and it will feel like a small gift,",
+              "because you're acknowledging the Visitor's progress to a new area."
+            ],
+            "pt-br": [
+              "Se a gravação for curta, curta demais para ser uma recompensa satisfatória por si só,",
+              "não a coloque em um lugar difícil de alcançar. Não podemos decepcionar!",
+              "Basta colocá-la em um lugar fácil, e ela vai parecer um pequeno presente,",
+              "porque você está reconhecendo o progresso do Visitante para uma nova área."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_3_1__acting.wav",
+            "subtitleCueLines": [
+              10183,
+              10187,
+              10191,
+              10195
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If the recording is short, too short to be a satisfying reward on its own,",
+          "don't put it in a hard-to-reach place. We mustn't disappoint!",
+          "Just put it in an easy place, and it will feel like a small gift,",
+          "because you're acknowledging the Visitor's progress to a new area."
+        ],
+        "pt-br": [
+          "Se a gravação for curta, curta demais para ser uma recompensa satisfatória por si só,",
+          "não a coloque em um lugar difícil de alcançar. Não podemos decepcionar!",
+          "Basta colocá-la em um lugar fácil, e ela vai parecer um pequeno presente,",
+          "porque você está reconhecendo o progresso do Visitante para uma nova área."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_11",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "clones_first_confusion",
+      "clips": [
+        {
+          "id": "clones_first_confusion_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 4.957333,
+          "src": "audio/clips/clones_first_confusion_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Wish I'd held fast, completed the *original* trial. Become a Mirrorwright."
+            ],
+            "pt-br": [
+              "Queria ter resistido, concluído o teste original. Tornar-me um Espelhista."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_first_confusion_1__trader.wav",
+            "subtitleCueLines": [
+              6216
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_first_confusion_2__trader_clone_1",
+          "speaker": "trader_clone_1",
+          "speakerName": "trader_clone_1",
+          "duration": 8.23425,
+          "src": "audio/clips/clones_first_confusion_2__trader_clone_1.mp3",
+          "transcripts": {
+            "en": [
+              "No no no. We chose the right way. Our success attests to it. On that day, Fear was Wisdom."
+            ],
+            "pt-br": [
+              "Não, não, não. Escolhemos o caminho certo. Nosso sucesso prova isso. Naquele dia, o medo era sabedoria."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_first_confusion_2__trader_clone_1.wav",
+            "subtitleCueLines": [
+              6221
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Wish I'd held fast, completed the *original* trial. Become a Mirrorwright.",
+          "No no no. We chose the right way. Our success attests to it. On that day, Fear was Wisdom."
+        ],
+        "pt-br": [
+          "Queria ter resistido, concluído o teste original. Tornar-me um Espelhista.",
+          "Não, não, não. Escolhemos o caminho certo. Nosso sucesso prova isso. Naquele dia, o medo era sabedoria."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_proc_arg_string",
+            "value": "clones_first_confusion",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/mirror_11.entities"
+          }
+        ],
+        "subtitleLine": 6215,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

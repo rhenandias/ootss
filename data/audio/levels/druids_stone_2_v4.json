@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "level": "druids_stone_2_v4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_sailor_druid_3",
+      "clips": [
+        {
+          "id": "hs_sailor_druid_3_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 5.741333,
+          "src": "audio/clips/hs_sailor_druid_3_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "All this skipping of stones across the water all day...",
+              "is this a typical activity of your people?"
+            ],
+            "pt-br": [
+              "Ficar fazendo pedras quicarem na água o dia todo...",
+              "é uma atividade típica do seu povo?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_3_1__druid.wav",
+            "subtitleCueLines": [
+              8392,
+              8396
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_3_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 7.115333,
+          "src": "audio/clips/hs_sailor_druid_3_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "The stones are common. The prowess is rare. I'm a specialist, in a privileged position."
+            ],
+            "pt-br": [
+              "As pedras são comuns. A habilidade é rara. Sou uma especialista, em uma posição privilegiada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_3_2__sailor.wav",
+            "subtitleCueLines": [
+              8399
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_3_3__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 3.237333,
+          "src": "audio/clips/hs_sailor_druid_3_3__druid.mp3",
+          "transcripts": {
+            "en": [
+              "As am I. As am I."
+            ],
+            "pt-br": [
+              "Como eu. Como eu."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_3_3__druid.wav",
+            "subtitleCueLines": [
+              8404
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "All this skipping of stones across the water all day...",
+          "is this a typical activity of your people?",
+          "The stones are common. The prowess is rare. I'm a specialist, in a privileged position.",
+          "As am I. As am I."
+        ],
+        "pt-br": [
+          "Ficar fazendo pedras quicarem na água o dia todo...",
+          "é uma atividade típica do seu povo?",
+          "As pedras são comuns. A habilidade é rara. Sou uma especialista, em uma posição privilegiada.",
+          "Como eu. Como eu."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137361,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_sailor_druid_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/druids_stone_2_v4.entities"
+          }
+        ],
+        "subtitleLine": 8391,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hs_sailor_druid_3_end",
+      "clips": [
+        {
+          "id": "hs_sailor_druid_3_end_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.313833,
+          "src": "audio/clips/hs_sailor_druid_3_end_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Do you think I could learn what you do?"
+            ],
+            "pt-br": [
+              "Você acha que eu poderia aprender o que você faz?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_3_end_1__sailor.wav",
+            "subtitleCueLines": [
+              8411
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_3_end_2__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 7.949333,
+          "src": "audio/clips/hs_sailor_druid_3_end_2__druid.mp3",
+          "transcripts": {
+            "en": [
+              "From me? No. From someone else? Officially, no.",
+              "Unofficially... it's complicated."
+            ],
+            "pt-br": [
+              "Comigo? Não. Com outra pessoa? Oficialmente, não.",
+              "Extraoficialmente... é complicado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_3_end_2__druid.wav",
+            "subtitleCueLines": [
+              8415,
+              8419
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Do you think I could learn what you do?",
+          "From me? No. From someone else? Officially, no.",
+          "Unofficially... it's complicated."
+        ],
+        "pt-br": [
+          "Você acha que eu poderia aprender o que você faz?",
+          "Comigo? Não. Com outra pessoa? Oficialmente, não.",
+          "Extraoficialmente... é complicado."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137361,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "hs_sailor_druid_3_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/druids_stone_2_v4.entities"
+          }
+        ],
+        "subtitleLine": 8410,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_heroes_and_promesst",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_worlds_collide_heroes_and_promesst",
+      "clips": [
+        {
+          "id": "audiolog_di_worlds_collide_heroes_and_promesst_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 40.945229,
+          "src": "audio/clips/audiolog_di_worlds_collide_heroes_and_promesst_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This level went through a number of revisions, being simplified each time.",
+              "Here's the initial version, where on the left side,",
+              "we have an excuse for the Strength beam to be there -- he needs it to get the Displacer --",
+              "whereas the Strength beam is really there so that the Priestess can push things.",
+              "Ideally, the Priestess pushing the Monsters would be interesting and fun, but here it's kind of a slog",
+              "because there are multiple solutions, and they are all a little hard to see;",
+              "this makes the blocking crystals feel less intentional, and more random.",
+              "Also, the Player will probably wonder if he is supposed to use the Double beam for something besides exiting the level (but he isn't)."
+            ],
+            "pt-br": [
+              "Esta fase passou por várias revisões, ficando mais simples a cada vez.",
+              "Aqui está a versão inicial, em que, no lado esquerdo,",
+              "temos uma justificativa para o Feixe de Força estar ali (ele precisa dele para obter o Deslocador),",
+              "enquanto o Feixe de Força está ali, na verdade, para a Sacerdotisa empurrar coisas.",
+              "Idealmente, a Sacerdotisa empurrando os Monstros seria interessante e divertida, mas aqui isso vira meio arrastado",
+              "porque há várias soluções, e todas são um pouco difíceis de enxergar;",
+              "isso faz com que os cristais de bloqueio pareçam menos intencionais e mais aleatórios.",
+              "Além disso, o jogador provavelmente vai se perguntar se deveria usar o Feixe Duplo para algo além de sair da fase (mas não deveria)."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_worlds_collide_heroes_and_promesst_1__director.wav",
+            "subtitleCueLines": [
+              14195,
+              14199,
+              14203,
+              14207,
+              14211,
+              14216,
+              14220,
+              14224
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This level went through a number of revisions, being simplified each time.",
+          "Here's the initial version, where on the left side,",
+          "we have an excuse for the Strength beam to be there -- he needs it to get the Displacer --",
+          "whereas the Strength beam is really there so that the Priestess can push things.",
+          "Ideally, the Priestess pushing the Monsters would be interesting and fun, but here it's kind of a slog",
+          "because there are multiple solutions, and they are all a little hard to see;",
+          "this makes the blocking crystals feel less intentional, and more random.",
+          "Also, the Player will probably wonder if he is supposed to use the Double beam for something besides exiting the level (but he isn't)."
+        ],
+        "pt-br": [
+          "Esta fase passou por várias revisões, ficando mais simples a cada vez.",
+          "Aqui está a versão inicial, em que, no lado esquerdo,",
+          "temos uma justificativa para o Feixe de Força estar ali (ele precisa dele para obter o Deslocador),",
+          "enquanto o Feixe de Força está ali, na verdade, para a Sacerdotisa empurrar coisas.",
+          "Idealmente, a Sacerdotisa empurrando os Monstros seria interessante e divertida, mas aqui isso vira meio arrastado",
+          "porque há várias soluções, e todas são um pouco difíceis de enxergar;",
+          "isso faz com que os cristais de bloqueio pareçam menos intencionais e mais aleatórios.",
+          "Além disso, o jogador provavelmente vai se perguntar se deveria usar o Feixe Duplo para algo além de sair da fase (mas não deveria)."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914681,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_worlds_collide_heroes_and_promesst",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              16.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst.entities"
+          }
+        ],
+        "subtitleLine": 14194,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

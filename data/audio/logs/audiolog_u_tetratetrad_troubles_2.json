@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_tetratetrad_troubles_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_tetratetrad_troubles_2",
+      "clips": [
+        {
+          "id": "audiolog_u_tetratetrad_troubles_2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 110.838104,
+          "src": "audio/clips/audiolog_u_tetratetrad_troubles_2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "... you see, it just wasn't good enough to curate a single beautiful world;",
+              "we were solving a global optimization problem containing many parts that interacted across multiple levels of abstraction.",
+              "To improve the mix, one could:",
+              "(a) Revise the selection of dynamics we borrow from a particular world: which people, which objects?",
+              "(b) Revise the rules that define the dynamics between foreign objects from different worlds",
+              "(lacking these rules, no possibility would be defined, so the objects could not interact at all)",
+              "(c) Substitute an entire world inside a tetrad, to achieve maximum cross-connectivity between the four worlds;",
+              "(d) Substitute an entire tetrad within the Tetratetrad;",
+              "... And all the while, adapting all of the ten thousand individual puzzles",
+              "a Visitor would face -- because when you change the macro-scale shape of the whole thing,",
+              "this adds pressure in some places, relieves it in others, and the optimal form of any individual puzzle changes in response.",
+              "Because here's the thing: we're powerful, but we aren't magic.",
+              "We don't know how well a world, or an entire tetrad, is going to function, until we put it together and observe the outcome;",
+              "then we can work hard to iterate and push it further, again and again,",
+              "seeing how good we can make it in the limit, so we can then ask: Is this new idea truly better than what we had before?",
+              "Or should I scrap all this work I just did?",
+              "For us, the process of answering these questions can take years.",
+              "Puzzles were constantly being created, refined, discarded. Even the best of them.",
+              "Very beautiful puzzles were regularly dropped into Cold Storage, which was heartbreaking,",
+              "but it had to happen because the environment for which they were designed no longer existed,",
+              "and under the new arrangement they felt clumsy, incomplete, unsatisfying."
+            ],
+            "pt-br": [
+              "... veja, simplesmente não bastava fazer a curadoria de um único mundo bonito;",
+              "estávamos resolvendo um problema de otimização global com muitas partes interagindo em vários níveis de abstração.",
+              "Para melhorar a mistura, poderíamos:",
+              "(a) Revisar a seleção de quais dinâmicas pegamos de um determinado mundo: quais pessoas, quais objetos?",
+              "(b) Revisar as regras que definem as dinâmicas entre objetos de mundos diferentes",
+              "(sem essas regras, nenhuma possibilidade ficaria definida, então os objetos não poderiam interagir de forma alguma)",
+              "(c) Substituir um mundo inteiro dentro de uma tétrade, para atingir a máxima conectividade cruzada entre os quatro mundos;",
+              "(d) Substituir uma tétrade inteira dentro da Tetratétrade;",
+              "... e, o tempo todo, adaptar todos os dez mil quebra-cabeças individuais",
+              "que um Visitante enfrentaria, porque quando você muda a forma do conjunto em escala macro,",
+              "isso aumenta a pressão em alguns pontos, alivia em outros, e a forma ideal de cada quebra-cabeça muda em resposta.",
+              "Porque o fato é o seguinte: somos poderosos, mas não somos mágicos.",
+              "Não sabemos quão bem um mundo, ou uma tétrade inteira, vai funcionar até montá-la e observar o resultado;",
+              "então podemos trabalhar duro para iterar e levá-la adiante, de novo e de novo,",
+              "vendo o quão boa podemos torná-la no limite, para então perguntar: essa nova ideia é realmente melhor do que tínhamos antes?",
+              "Ou devo descartar todo esse trabalho que acabei de fazer?",
+              "Para nós, o processo de responder a essas perguntas pode levar anos.",
+              "Quebra-cabeças eram criados, refinados e descartados o tempo todo. Até os melhores.",
+              "Quebra-cabeças muito bonitos eram regularmente mandados para a Câmara Fria, o que era de partir o coração,",
+              "mas isso tinha de acontecer porque o ambiente para o qual eles foram projetados já não existia,",
+              "e, sob a nova organização, eles pareciam desajeitados, incompletos, insatisfatórios."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_tetratetrad_troubles_2_1__director.wav",
+            "subtitleCueLines": [
+              12342,
+              12346,
+              12351,
+              12354,
+              12358,
+              12362,
+              12366,
+              12371,
+              12375,
+              12379,
+              12383,
+              12388,
+              12392,
+              12397,
+              12401,
+              12406,
+              12409,
+              12413,
+              12418,
+              12423,
+              12428
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... you see, it just wasn't good enough to curate a single beautiful world;",
+          "we were solving a global optimization problem containing many parts that interacted across multiple levels of abstraction.",
+          "To improve the mix, one could:",
+          "(a) Revise the selection of dynamics we borrow from a particular world: which people, which objects?",
+          "(b) Revise the rules that define the dynamics between foreign objects from different worlds",
+          "(lacking these rules, no possibility would be defined, so the objects could not interact at all)",
+          "(c) Substitute an entire world inside a tetrad, to achieve maximum cross-connectivity between the four worlds;",
+          "(d) Substitute an entire tetrad within the Tetratetrad;",
+          "... And all the while, adapting all of the ten thousand individual puzzles",
+          "a Visitor would face -- because when you change the macro-scale shape of the whole thing,",
+          "this adds pressure in some places, relieves it in others, and the optimal form of any individual puzzle changes in response.",
+          "Because here's the thing: we're powerful, but we aren't magic.",
+          "We don't know how well a world, or an entire tetrad, is going to function, until we put it together and observe the outcome;",
+          "then we can work hard to iterate and push it further, again and again,",
+          "seeing how good we can make it in the limit, so we can then ask: Is this new idea truly better than what we had before?",
+          "Or should I scrap all this work I just did?",
+          "For us, the process of answering these questions can take years.",
+          "Puzzles were constantly being created, refined, discarded. Even the best of them.",
+          "Very beautiful puzzles were regularly dropped into Cold Storage, which was heartbreaking,",
+          "but it had to happen because the environment for which they were designed no longer existed,",
+          "and under the new arrangement they felt clumsy, incomplete, unsatisfying."
+        ],
+        "pt-br": [
+          "... veja, simplesmente não bastava fazer a curadoria de um único mundo bonito;",
+          "estávamos resolvendo um problema de otimização global com muitas partes interagindo em vários níveis de abstração.",
+          "Para melhorar a mistura, poderíamos:",
+          "(a) Revisar a seleção de quais dinâmicas pegamos de um determinado mundo: quais pessoas, quais objetos?",
+          "(b) Revisar as regras que definem as dinâmicas entre objetos de mundos diferentes",
+          "(sem essas regras, nenhuma possibilidade ficaria definida, então os objetos não poderiam interagir de forma alguma)",
+          "(c) Substituir um mundo inteiro dentro de uma tétrade, para atingir a máxima conectividade cruzada entre os quatro mundos;",
+          "(d) Substituir uma tétrade inteira dentro da Tetratétrade;",
+          "... e, o tempo todo, adaptar todos os dez mil quebra-cabeças individuais",
+          "que um Visitante enfrentaria, porque quando você muda a forma do conjunto em escala macro,",
+          "isso aumenta a pressão em alguns pontos, alivia em outros, e a forma ideal de cada quebra-cabeça muda em resposta.",
+          "Porque o fato é o seguinte: somos poderosos, mas não somos mágicos.",
+          "Não sabemos quão bem um mundo, ou uma tétrade inteira, vai funcionar até montá-la e observar o resultado;",
+          "então podemos trabalhar duro para iterar e levá-la adiante, de novo e de novo,",
+          "vendo o quão boa podemos torná-la no limite, para então perguntar: essa nova ideia é realmente melhor do que tínhamos antes?",
+          "Ou devo descartar todo esse trabalho que acabei de fazer?",
+          "Para nós, o processo de responder a essas perguntas pode levar anos.",
+          "Quebra-cabeças eram criados, refinados e descartados o tempo todo. Até os melhores.",
+          "Quebra-cabeças muito bonitos eram regularmente mandados para a Câmara Fria, o que era de partir o coração,",
+          "mas isso tinha de acontecer porque o ambiente para o qual eles foram projetados já não existia,",
+          "e, sob a nova organização, eles pareciam desajeitados, incompletos, insatisfatórios."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "level": "surrounded",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hw_warrior_surrounded",
+      "clips": [
+        {
+          "id": "hw_warrior_surrounded_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 12.622,
+          "src": "audio/clips/hw_warrior_surrounded_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "A story to tell my grandkids. If I make it out of here ...",
+              "... and find a nice girl ... ... and we have kids ...",
+              "... who then have kids ..."
+            ],
+            "pt-br": [
+              "Uma história para contar aos meus netos. Se eu conseguir sair daqui...",
+              "...e encontrar uma moça simpática... ...e nós tivermos filhos...",
+              "...que então têm filhos..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_surrounded_1__warrior.wav",
+            "subtitleCueLines": [
+              7250,
+              7255,
+              7260
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A story to tell my grandkids. If I make it out of here ...",
+          "... and find a nice girl ... ... and we have kids ...",
+          "... who then have kids ..."
+        ],
+        "pt-br": [
+          "Uma história para contar aos meus netos. Se eu conseguir sair daqui...",
+          "...e encontrar uma moça simpática... ...e nós tivermos filhos...",
+          "...que então têm filhos..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 59768884,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hw_warrior_surrounded",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              19.0,
+              0.0
+            ],
+            "source": "data-common/surrounded.entities"
+          }
+        ],
+        "subtitleLine": 7249,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

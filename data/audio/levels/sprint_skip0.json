@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "level": "sprint_skip0",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_warrior_sailor_4",
+      "clips": [
+        {
+          "id": "hs_warrior_sailor_4_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.139667,
+          "src": "audio/clips/hs_warrior_sailor_4_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "... maybe you'd be interested in the stones' motive principle, then."
+            ],
+            "pt-br": [
+              "... talvez você se interesse pelo princípio motriz dessas pedras, então."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_4_1__sailor.wav",
+            "subtitleCueLines": [
+              8310
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_4_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.935667,
+          "src": "audio/clips/hs_warrior_sailor_4_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "The what?"
+            ],
+            "pt-br": [
+              "O quê?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_4_2__warrior.wav",
+            "subtitleCueLines": [
+              8314
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... maybe you'd be interested in the stones' motive principle, then.",
+          "The what?"
+        ],
+        "pt-br": [
+          "... talvez você se interesse pelo princípio motriz dessas pedras, então.",
+          "O quê?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137347,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_warrior_sailor_4",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              22.0,
+              0.0
+            ],
+            "source": "data-common/sprint_skip0.entities"
+          }
+        ],
+        "subtitleLine": 8309,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

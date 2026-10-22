@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_8_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_wizard_2",
+      "clips": [
+        {
+          "id": "heroes1_wizard_2_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 6.850062,
+          "src": "audio/clips/heroes1_wizard_2_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "At least the Magistrate went crazy before the job --",
+              "If we'd moved all these crystals out, I'd have naught to work with now."
+            ],
+            "pt-br": [
+              "Pelo menos o Magistrado enlouqueceu antes do serviço...",
+              "Se tivéssemos tirado todos esses cristais daqui, eu não teria com o que trabalhar agora."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_2_1__wizard.wav",
+            "subtitleCueLines": [
+              174,
+              179
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "At least the Magistrate went crazy before the job --",
+          "If we'd moved all these crystals out, I'd have naught to work with now."
+        ],
+        "pt-br": [
+          "Pelo menos o Magistrado enlouqueceu antes do serviço...",
+          "Se tivéssemos tirado todos esses cristais daqui, eu não teria com o que trabalhar agora."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes1_wizard_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_8_v2.entities"
+          }
+        ],
+        "subtitleLine": 173,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes1_wizard_2_end",
+      "clips": [
+        {
+          "id": "heroes1_wizard_2_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.423708,
+          "src": "audio/clips/heroes1_wizard_2_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Tif! Tif, where are you?"
+            ],
+            "pt-br": [
+              "Tif! Tif, cadê você?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_2_end_1__wizard.wav",
+            "subtitleCueLines": [
+              187
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Tif! Tif, where are you?"
+        ],
+        "pt-br": [
+          "Tif! Tif, cadê você?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes1_wizard_2_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_8_v2.entities"
+          }
+        ],
+        "subtitleLine": 186,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

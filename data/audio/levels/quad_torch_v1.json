@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "level": "quad_torch_v1",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_quad_torch_v1",
+      "clips": [
+        {
+          "id": "audiolog_di_quad_torch_v1_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 64.917021,
+          "src": "audio/clips/audiolog_di_quad_torch_v1_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here, we've gone from a 5x5 central chamber to 7x7. This makes the main part of the puzzle easier, and perhaps here it's too easy.",
+              "To me it seemed overly straightforward; as the Player, I just felt",
+              "\"Okay, I did the steps you told me to, therefore I won the level. So what?\"",
+              "We want to avoid that feeling whenever we can, because this is a game, not a homework assignment.",
+              "Due to the solid outer wall, it's not as easy to mirror the Goblins, so you can no longer make a complete mess;",
+              "but you can clear one of the islands on the east or south",
+              "and then mirror the other Goblin onto that island,",
+              "so the basic problem still exists --",
+              "but the situation is improved, because you can't mirror Goblins to arbitrary messy places in the middle.",
+              "This version also has a \"surprise last step\" of drowning the dragon,",
+              "but it's easy to figure out, in contrast to the earlier revision;",
+              "so it feels more like a satisfying piece of ending punctuation than a difficult task that takes over the level."
+            ],
+            "pt-br": [
+              "Aqui, passamos de uma câmara central 5x5 para 7x7. Isso torna a parte principal do quebra-cabeça mais fácil, e talvez aqui fique fácil demais.",
+              "Para mim, pareceu direto demais; como jogador, eu só sentia:",
+              "“Tá, fiz os passos que você mandou, logo venci o nível. E daí?”",
+              "Queremos evitar essa sensação sempre que pudermos, porque isto é um jogo, não uma tarefa de casa.",
+              "Por causa da parede externa sólida, não é tão fácil espelhar os Goblins, então você já não consegue fazer uma bagunça completa;",
+              "mas você pode limpar uma das ilhas a leste ou ao sul",
+              "e então espelhar o outro Goblin para essa ilha,",
+              "então o problema básico ainda existe:",
+              "mas a situação melhora, porque você não pode espelhar goblins para lugares bagunçados e arbitrários no meio.",
+              "Esta versão também tem uma “última etapa surpresa” de afogar o dragão,",
+              "mas é fácil de descobrir, ao contrário da revisão anterior;",
+              "então parece mais um ponto final satisfatório do que uma tarefa difícil que toma conta do nível."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_quad_torch_v1_1__director.wav",
+            "subtitleCueLines": [
+              13519,
+              13524,
+              13528,
+              13532,
+              13537,
+              13542,
+              13546,
+              13550,
+              13553,
+              13558,
+              13562,
+              13566
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here, we've gone from a 5x5 central chamber to 7x7. This makes the main part of the puzzle easier, and perhaps here it's too easy.",
+          "To me it seemed overly straightforward; as the Player, I just felt",
+          "\"Okay, I did the steps you told me to, therefore I won the level. So what?\"",
+          "We want to avoid that feeling whenever we can, because this is a game, not a homework assignment.",
+          "Due to the solid outer wall, it's not as easy to mirror the Goblins, so you can no longer make a complete mess;",
+          "but you can clear one of the islands on the east or south",
+          "and then mirror the other Goblin onto that island,",
+          "so the basic problem still exists --",
+          "but the situation is improved, because you can't mirror Goblins to arbitrary messy places in the middle.",
+          "This version also has a \"surprise last step\" of drowning the dragon,",
+          "but it's easy to figure out, in contrast to the earlier revision;",
+          "so it feels more like a satisfying piece of ending punctuation than a difficult task that takes over the level."
+        ],
+        "pt-br": [
+          "Aqui, passamos de uma câmara central 5x5 para 7x7. Isso torna a parte principal do quebra-cabeça mais fácil, e talvez aqui fique fácil demais.",
+          "Para mim, pareceu direto demais; como jogador, eu só sentia:",
+          "“Tá, fiz os passos que você mandou, logo venci o nível. E daí?”",
+          "Queremos evitar essa sensação sempre que pudermos, porque isto é um jogo, não uma tarefa de casa.",
+          "Por causa da parede externa sólida, não é tão fácil espelhar os Goblins, então você já não consegue fazer uma bagunça completa;",
+          "mas você pode limpar uma das ilhas a leste ou ao sul",
+          "e então espelhar o outro Goblin para essa ilha,",
+          "então o problema básico ainda existe:",
+          "mas a situação melhora, porque você não pode espelhar goblins para lugares bagunçados e arbitrários no meio.",
+          "Esta versão também tem uma “última etapa surpresa” de afogar o dragão,",
+          "mas é fácil de descobrir, ao contrário da revisão anterior;",
+          "então parece mais um ponto final satisfatório do que uma tarefa difícil que toma conta do nível."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_quad_torch_v1",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/quad_torch_v1.entities"
+          }
+        ],
+        "subtitleLine": 13518,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

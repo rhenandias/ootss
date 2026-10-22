@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_11_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_warrior_goblins_vs_dragon",
+      "clips": [
+        {
+          "id": "heroes2_warrior_goblins_vs_dragon_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.789,
+          "src": "audio/clips/heroes2_warrior_goblins_vs_dragon_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Oh, we're about to have some fun, aren't we?"
+            ],
+            "pt-br": [
+              "Ah, agora sim vamos nos divertir, não é?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_goblins_vs_dragon_1__warrior.wav",
+            "subtitleCueLines": [
+              1110
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Oh, we're about to have some fun, aren't we?"
+        ],
+        "pt-br": [
+          "Ah, agora sim vamos nos divertir, não é?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87032035,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_warrior_goblins_vs_dragon",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              -4.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_11_v2.entities"
+          }
+        ],
+        "subtitleLine": 1109,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_goblins_vs_dragon_end",
+      "clips": [
+        {
+          "id": "heroes2_warrior_goblins_vs_dragon_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.690562,
+          "src": "audio/clips/heroes2_warrior_goblins_vs_dragon_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Dead monsters ... satisfying."
+            ],
+            "pt-br": [
+              "Monstros mortos... que satisfação."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_goblins_vs_dragon_end_1__warrior.wav",
+            "subtitleCueLines": [
+              1118
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Dead monsters ... satisfying."
+        ],
+        "pt-br": [
+          "Monstros mortos... que satisfação."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87032035,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_warrior_goblins_vs_dragon_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              -4.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_11_v2.entities"
+          }
+        ],
+        "subtitleLine": 1117,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

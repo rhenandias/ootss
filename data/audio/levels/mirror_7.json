@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_7",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_oracle_4",
+      "clips": [
+        {
+          "id": "mirror_oracle_4_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 1.988917,
+          "src": "audio/clips/mirror_oracle_4_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Are you sure she meant 'die'?"
+            ],
+            "pt-br": [
+              "Tem certeza de que ela quis dizer “morrer”?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_4_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6112
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_4_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 0.542458,
+          "src": "audio/clips/mirror_oracle_4_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "What?"
+            ],
+            "pt-br": [
+              "O quê?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_4_2__trader.wav",
+            "subtitleCueLines": [
+              6115
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_4_3__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 3.453208,
+          "src": "audio/clips/mirror_oracle_4_3__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Are you sure \"depart this world\" meant die?"
+            ],
+            "pt-br": [
+              "Tem certeza de que “deixar este mundo” queria dizer morrer?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_4_3__trader_alt.wav",
+            "subtitleCueLines": [
+              6118
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_4_4__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.209333,
+          "src": "audio/clips/mirror_oracle_4_4__trader.mp3",
+          "transcripts": {
+            "en": [
+              "What else could she possibly have meant?"
+            ],
+            "pt-br": [
+              "O que mais poderia querer dizer?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_4_4__trader.wav",
+            "subtitleCueLines": [
+              6121
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Are you sure she meant 'die'?",
+          "What?",
+          "Are you sure \"depart this world\" meant die?",
+          "What else could she possibly have meant?"
+        ],
+        "pt-br": [
+          "Tem certeza de que ela quis dizer “morrer”?",
+          "O quê?",
+          "Tem certeza de que “deixar este mundo” queria dizer morrer?",
+          "O que mais poderia querer dizer?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048631,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_oracle_4",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/mirror_7.entities"
+          }
+        ],
+        "subtitleLine": 6111,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "mirror_oracle_4b",
+      "clips": [
+        {
+          "id": "mirror_oracle_4b_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 6.716208,
+          "src": "audio/clips/mirror_oracle_4b_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "If she'd meant you would \"die\", she could have just said that. Oracles are precise, and tricky."
+            ],
+            "pt-br": [
+              "Se ela quisesse dizer que você ia “morrer”, ela poderia simplesmente ter dito isso. Oráculos são precisos com as palavras e ardilosos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_4b_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6128
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_4b_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.574667,
+          "src": "audio/clips/mirror_oracle_4b_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "That's their whole thing."
+            ],
+            "pt-br": [
+              "Esse é o lance delas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_4b_2__trader.wav",
+            "subtitleCueLines": [
+              6133
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_4b_3__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 1.496708,
+          "src": "audio/clips/mirror_oracle_4b_3__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "That's their whole thing."
+            ],
+            "pt-br": [
+              "Esse é o lance delas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_4b_3__trader_alt.wav",
+            "subtitleCueLines": [
+              6137
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If she'd meant you would \"die\", she could have just said that. Oracles are precise, and tricky.",
+          "That's their whole thing.",
+          "That's their whole thing."
+        ],
+        "pt-br": [
+          "Se ela quisesse dizer que você ia “morrer”, ela poderia simplesmente ter dito isso. Oráculos são precisos com as palavras e ardilosos.",
+          "Esse é o lance delas.",
+          "Esse é o lance delas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "mirror_oracle_4b",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.056327819824219,
+              11.51247787475586,
+              -0.07341766357421875
+            ],
+            "source": "data-common/mirror_7.entities"
+          }
+        ],
+        "subtitleLine": 6127,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

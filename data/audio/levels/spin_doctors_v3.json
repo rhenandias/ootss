@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "level": "spin_doctors_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "spin_doctors",
+      "clips": [
+        {
+          "id": "spin_doctors_1__warrior_alt",
+          "speaker": "warrior_alt",
+          "speakerName": "warrior_alt",
+          "duration": 1.226667,
+          "src": "audio/clips/spin_doctors_1__warrior_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Heard you needed some help!"
+            ],
+            "pt-br": [
+              "Ouvi dizer que precisavam de ajuda!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_doctors_1__warrior_alt.wav",
+            "subtitleCueLines": [
+              8604
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "spin_doctors_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.291667,
+          "src": "audio/clips/spin_doctors_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "How'd you get here?"
+            ],
+            "pt-br": [
+              "Como você chegou aqui?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_doctors_2__warrior.wav",
+            "subtitleCueLines": [
+              8608
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "spin_doctors_3__warrior_alt",
+          "speaker": "warrior_alt",
+          "speakerName": "warrior_alt",
+          "duration": 3.690021,
+          "src": "audio/clips/spin_doctors_3__warrior_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I just ... came in!",
+              "Was there supposed to be a problem?"
+            ],
+            "pt-br": [
+              "Eu só... entrei!",
+              "Era para haver algum problema?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_doctors_3__warrior_alt.wav",
+            "subtitleCueLines": [
+              8611,
+              8614
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "spin_doctors_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.858833,
+          "src": "audio/clips/spin_doctors_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "We're going to have to talk about that. But first let's get this done."
+            ],
+            "pt-br": [
+              "Vamos ter que falar sobre isso. Mas primeiro vamos resolver isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_doctors_4__warrior.wav",
+            "subtitleCueLines": [
+              8618
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Heard you needed some help!",
+          "How'd you get here?",
+          "I just ... came in!",
+          "Was there supposed to be a problem?",
+          "We're going to have to talk about that. But first let's get this done."
+        ],
+        "pt-br": [
+          "Ouvi dizer que precisavam de ajuda!",
+          "Como você chegou aqui?",
+          "Eu só... entrei!",
+          "Era para haver algum problema?",
+          "Vamos ter que falar sobre isso. Mas primeiro vamos resolver isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 92274693,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "spin_doctors",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/spin_doctors_v3.entities"
+          }
+        ],
+        "subtitleLine": 8603,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "spin_doctors_end",
+      "clips": [
+        {
+          "id": "spin_doctors_end_1__warrior_alt",
+          "speaker": "warrior_alt",
+          "speakerName": "warrior_alt",
+          "duration": 1.830896,
+          "src": "audio/clips/spin_doctors_end_1__warrior_alt.mp3",
+          "transcripts": {
+            "en": [
+              "You've gotten good at the technique!"
+            ],
+            "pt-br": [
+              "Você pegou o jeito da técnica!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_doctors_end_1__warrior_alt.wav",
+            "subtitleCueLines": [
+              8626
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "spin_doctors_end_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.373333,
+          "src": "audio/clips/spin_doctors_end_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "It's been indispensable. Deep thanks for the lessons!"
+            ],
+            "pt-br": [
+              "Ela tem sido indispensável. Agradeço de coração pelas lições!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_doctors_end_2__warrior.wav",
+            "subtitleCueLines": [
+              8630
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "spin_doctors_end_3__warrior_alt",
+          "speaker": "warrior_alt",
+          "speakerName": "warrior_alt",
+          "duration": 2.017333,
+          "src": "audio/clips/spin_doctors_end_3__warrior_alt.mp3",
+          "transcripts": {
+            "en": [
+              "We Swordbound must stand together!"
+            ],
+            "pt-br": [
+              "Nós, devotos da espada, temos que nos unir!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_doctors_end_3__warrior_alt.wav",
+            "subtitleCueLines": [
+              8634
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You've gotten good at the technique!",
+          "It's been indispensable. Deep thanks for the lessons!",
+          "We Swordbound must stand together!"
+        ],
+        "pt-br": [
+          "Você pegou o jeito da técnica!",
+          "Ela tem sido indispensável. Agradeço de coração pelas lições!",
+          "Nós, devotos da espada, temos que nos unir!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 92274693,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "spin_doctors_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/spin_doctors_v3.entities"
+          }
+        ],
+        "subtitleLine": 8625,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

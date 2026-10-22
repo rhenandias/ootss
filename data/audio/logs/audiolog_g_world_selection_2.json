@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_world_selection_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_world_selection_2",
+      "clips": [
+        {
+          "id": "audiolog_g_world_selection_2_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 53.407646,
+          "src": "audio/clips/audiolog_g_world_selection_2_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Before they can employ a world to their mysterious ends, they must locate it somehow, and connect.",
+              "By what criteria do they locate? \"I want a place wherein machinery casts beams of light, powered by giant gems --\"",
+              "How would that even work? Or are the criteria specified in some other way that helps this make sense?",
+              "Quigley, unless you've made considerable discoveries in my absence,",
+              "by our way of doorsteading, it would be a random search --",
+              "we'd have to test our guesses exhaustively, exposing the traveler to unknown hazards each time.",
+              "Surely the tossing of the dice would bring misfortune sooner than later.",
+              "So their techniques must be of a different nature -- and vastly more effective.",
+              "If we could learn even a small bit about this, our progress would accelerate tremendously."
+            ],
+            "pt-br": [
+              "Antes que possam usar um mundo para seus fins misteriosos, eles precisam encontrá-lo de algum modo e se conectar a ele.",
+              "Por quais critérios eles procuram? “Quero um lugar onde máquinas emitem feixes de luz, alimentadas por gemas gigantes...”",
+              "Como isso funcionaria? Ou os critérios são especificados de outra forma que ajude isso a fazer sentido?",
+              "Quigley, a menos que você tenha feito descobertas consideráveis na minha ausência,",
+              "pelo nosso modo de abrir portas, isso seria uma busca aleatória...",
+              "teríamos de testar nossas hipóteses exaustivamente, expondo o viajante a perigos desconhecidos toda vez.",
+              "Certamente o lançamento dos dados traria desgraça mais cedo ou mais tarde.",
+              "Então suas técnicas devem ser de outra natureza — e muito mais eficazes.",
+              "Se pudéssemos aprender nem que fosse um pouco sobre isso, nosso progresso aceleraria tremendamente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_world_selection_2_1__sokoban.wav",
+            "subtitleCueLines": [
+              3442,
+              3447,
+              3452,
+              3457,
+              3461,
+              3464,
+              3468,
+              3472,
+              3476
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Before they can employ a world to their mysterious ends, they must locate it somehow, and connect.",
+          "By what criteria do they locate? \"I want a place wherein machinery casts beams of light, powered by giant gems --\"",
+          "How would that even work? Or are the criteria specified in some other way that helps this make sense?",
+          "Quigley, unless you've made considerable discoveries in my absence,",
+          "by our way of doorsteading, it would be a random search --",
+          "we'd have to test our guesses exhaustively, exposing the traveler to unknown hazards each time.",
+          "Surely the tossing of the dice would bring misfortune sooner than later.",
+          "So their techniques must be of a different nature -- and vastly more effective.",
+          "If we could learn even a small bit about this, our progress would accelerate tremendously."
+        ],
+        "pt-br": [
+          "Antes que possam usar um mundo para seus fins misteriosos, eles precisam encontrá-lo de algum modo e se conectar a ele.",
+          "Por quais critérios eles procuram? “Quero um lugar onde máquinas emitem feixes de luz, alimentadas por gemas gigantes...”",
+          "Como isso funcionaria? Ou os critérios são especificados de outra forma que ajude isso a fazer sentido?",
+          "Quigley, a menos que você tenha feito descobertas consideráveis na minha ausência,",
+          "pelo nosso modo de abrir portas, isso seria uma busca aleatória...",
+          "teríamos de testar nossas hipóteses exaustivamente, expondo o viajante a perigos desconhecidos toda vez.",
+          "Certamente o lançamento dos dados traria desgraça mais cedo ou mais tarde.",
+          "Então suas técnicas devem ser de outra natureza — e muito mais eficazes.",
+          "Se pudéssemos aprender nem que fosse um pouco sobre isso, nosso progresso aceleraria tremendamente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

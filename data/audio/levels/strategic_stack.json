@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "level": "strategic_stack",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_strategic_stack",
+      "clips": [
+        {
+          "id": "audiolog_di_strategic_stack_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 58.728875,
+          "src": "audio/clips/audiolog_di_strategic_stack_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This is Zach's original version. It's a neat idea for a level,",
+              "but the geometry doesn't help you see the idea at all.",
+              "The path to the goal island is indirect and very hard to visualize...",
+              "and you need to have some inkling of how to reach the goal",
+              "before you can start engaging with the core idea, which is about using a Mirror in a place",
+              "that helps you in the beginning, but later blocks you.",
+              "So, the lack of clarity in reading this level makes it difficult and frustrating to begin with. But then, on top of that, add this:",
+              "With 3 Mirrors and a Crystal, the natural impulse is to clone the Crystal a bunch of times, which doesn't actually help you here.",
+              "Indeed, it may seem that the level is *telling you* to clone the crystal, since you've seen other levels that tell you to clone crystals.",
+              "So not only is the correct pathway buried in obscurity, but the level is actively misleading you.",
+              "So if a player spends most of his time here just being lost and confused, it's no surprise."
+            ],
+            "pt-br": [
+              "Esta é a versão original de Zach. É uma ideia legal para um nível,",
+              "mas a geometria não ajuda em nada a enxergar a ideia.",
+              "O caminho até a ilha-alvo é indireto e muito difícil de visualizar...",
+              "e você precisa ter uma ideia sólida de como chegar ao objetivo",
+              "antes de começar a lidar com a ideia central, que é usar um Espelho em um lugar",
+              "que ajuda no começo, mas depois bloqueia você.",
+              "Então, a falta de clareza na leitura deste nível já o torna difícil e frustrante de início. Mas, além disso, some a isto:",
+              "Com 3 Espelhos e um Cristal, o impulso natural é clonar o Cristal várias vezes, o que não ajuda em nada aqui.",
+              "De fato, pode parecer que o nível está mandando você clonar o cristal, já que há outros níveis que fazem isso.",
+              "Então, não só o caminho correto está enterrado na obscuridade, como o nível ainda está te induzindo ao erro ou, no mínimo, distraindo você de forma gritante.",
+              "Então, se um jogador passa a maior parte do tempo aqui só perdido e confuso, não é surpresa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_strategic_stack_1__director.wav",
+            "subtitleCueLines": [
+              13304,
+              13308,
+              13312,
+              13316,
+              13320,
+              13324,
+              13328,
+              13333,
+              13339,
+              13344,
+              13348
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is Zach's original version. It's a neat idea for a level,",
+          "but the geometry doesn't help you see the idea at all.",
+          "The path to the goal island is indirect and very hard to visualize...",
+          "and you need to have some inkling of how to reach the goal",
+          "before you can start engaging with the core idea, which is about using a Mirror in a place",
+          "that helps you in the beginning, but later blocks you.",
+          "So, the lack of clarity in reading this level makes it difficult and frustrating to begin with. But then, on top of that, add this:",
+          "With 3 Mirrors and a Crystal, the natural impulse is to clone the Crystal a bunch of times, which doesn't actually help you here.",
+          "Indeed, it may seem that the level is *telling you* to clone the crystal, since you've seen other levels that tell you to clone crystals.",
+          "So not only is the correct pathway buried in obscurity, but the level is actively misleading you.",
+          "So if a player spends most of his time here just being lost and confused, it's no surprise."
+        ],
+        "pt-br": [
+          "Esta é a versão original de Zach. É uma ideia legal para um nível,",
+          "mas a geometria não ajuda em nada a enxergar a ideia.",
+          "O caminho até a ilha-alvo é indireto e muito difícil de visualizar...",
+          "e você precisa ter uma ideia sólida de como chegar ao objetivo",
+          "antes de começar a lidar com a ideia central, que é usar um Espelho em um lugar",
+          "que ajuda no começo, mas depois bloqueia você.",
+          "Então, a falta de clareza na leitura deste nível já o torna difícil e frustrante de início. Mas, além disso, some a isto:",
+          "Com 3 Espelhos e um Cristal, o impulso natural é clonar o Cristal várias vezes, o que não ajuda em nada aqui.",
+          "De fato, pode parecer que o nível está mandando você clonar o cristal, já que há outros níveis que fazem isso.",
+          "Então, não só o caminho correto está enterrado na obscuridade, como o nível ainda está te induzindo ao erro ou, no mínimo, distraindo você de forma gritante.",
+          "Então, se um jogador passa a maior parte do tempo aqui só perdido e confuso, não é surpresa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_strategic_stack",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              26.0,
+              18.0
+            ],
+            "source": "data-common/strategic_stack.entities"
+          }
+        ],
+        "subtitleLine": 13303,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "level": "through_push",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_warrior_green_beam_end",
+      "clips": [
+        {
+          "id": "sp_warrior_green_beam_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.157042,
+          "src": "audio/clips/sp_warrior_green_beam_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "You know, I could get used to this."
+            ],
+            "pt-br": [
+              "Sabe, acho que eu poderia me acostumar com isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_warrior_green_beam_end_1__warrior.wav",
+            "subtitleCueLines": [
+              7746
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You know, I could get used to this."
+        ],
+        "pt-br": [
+          "Sabe, acho que eu poderia me acostumar com isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048673,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "sp_warrior_green_beam_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/through_push.entities"
+          }
+        ],
+        "subtitleLine": 7745,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_torus_2",
+      "clips": [
+        {
+          "id": "hp_torus_2_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 8.998333,
+          "src": "audio/clips/hp_torus_2_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Hmmm. This space is not that big... akin to a small room...",
+              "Doughnut, though... I don't see it!"
+            ],
+            "pt-br": [
+              "Hmmm. Este espaço não é tão grande... parece uma sala pequena...",
+              "Mas uma rosquinha... Não consigo ver!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_2_1__warrior.wav",
+            "subtitleCueLines": [
+              7968,
+              7973
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hmmm. This space is not that big... akin to a small room...",
+          "Doughnut, though... I don't see it!"
+        ],
+        "pt-br": [
+          "Hmmm. Este espaço não é tão grande... parece uma sala pequena...",
+          "Mas uma rosquinha... Não consigo ver!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048673,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_torus_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/through_push.entities"
+          }
+        ],
+        "subtitleLine": 7967,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

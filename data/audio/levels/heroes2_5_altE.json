@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_5_altE",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_warrior_dragon_intro",
+      "clips": [
+        {
+          "id": "heroes2_warrior_dragon_intro_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 6.2425,
+          "src": "audio/clips/heroes2_warrior_dragon_intro_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Town's been overrun. Caravan should have got moving sooner.",
+              "I told them we needed to hurry."
+            ],
+            "pt-br": [
+              "A cidade foi invadida. A caravana devia ter partido antes.",
+              "Eu disse a eles que precisávamos nos apressar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_dragon_intro_1__warrior.wav",
+            "subtitleCueLines": [
+              824,
+              828
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Town's been overrun. Caravan should have got moving sooner.",
+          "I told them we needed to hurry."
+        ],
+        "pt-br": [
+          "A cidade foi invadida. A caravana devia ter partido antes.",
+          "Eu disse a eles que precisávamos nos apressar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 14680090,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_warrior_dragon_intro",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_5_altE.entities"
+          }
+        ],
+        "subtitleLine": 823,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_dragon_intro_end",
+      "clips": [
+        {
+          "id": "heroes2_warrior_dragon_intro_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.536958,
+          "src": "audio/clips/heroes2_warrior_dragon_intro_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Here's hoping the others make it to the rally point."
+            ],
+            "pt-br": [
+              "Tomara que os outros cheguem ao ponto de encontro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_dragon_intro_end_1__warrior.wav",
+            "subtitleCueLines": [
+              836
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here's hoping the others make it to the rally point."
+        ],
+        "pt-br": [
+          "Tomara que os outros cheguem ao ponto de encontro."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 14680090,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_warrior_dragon_intro_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_5_altE.entities"
+          }
+        ],
+        "subtitleLine": 835,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

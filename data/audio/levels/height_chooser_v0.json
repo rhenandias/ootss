@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "level": "height_chooser_v0",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_height_chooser_v0",
+      "clips": [
+        {
+          "id": "audiolog_di_height_chooser_v0_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 69.766667,
+          "src": "audio/clips/audiolog_di_height_chooser_v0_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This is the version we ended up going with. It's the same basic idea, but we simplified it:",
+              "the concepts of Water, Skipping, and Lily have all been removed.",
+              "You have to set up the Crystal to block the Beam,",
+              "but the way you do this is more interesting, and it's actually on-topic for the level.",
+              "By putting the purple Beam on the far side of the level, instead of on top,",
+              "we make it easier to return to that side and move it, which reduces the amount of grindy Sokobanning.",
+              "This version is easier, but also better, because you are much more focused on the core idea.",
+              "This level is included in this collection to show the kind of improvement you can make when simplifying a level.",
+              "In the original version, certain design subtasks needed to be accomplished: you need to fill the purple endpoint in order to float.",
+              "But the way we implemented those subtasks created too much confusion for the player.",
+              "In general, whenever you design a puzzle and it's not as clean as you'd like,",
+              "you can look at individual subtasks and ask whether you *really* needed to do that thing in that specific way,",
+              "or whether it can be done in a cleaner way."
+            ],
+            "pt-br": [
+              "Esta é a versão com a qual acabamos ficando. É a mesma ideia básica, mas simplificamos:",
+              "os conceitos de Água, Pulo e Vitória-régia foram todos removidos.",
+              "Você precisa posicionar o Cristal para bloquear o feixe,",
+              "mas a forma como você faz isso é mais interessante, e na verdade tem tudo a ver com o nível.",
+              "Ao colocar o feixe roxo no lado oposto da fase, em vez de em cima,",
+              "facilitamos o retorno a esse lado e a movimentação dele, o que reduz a quantidade de Sokoban repetitivo.",
+              "Esta versão é mais fácil, mas também melhor, porque você fica muito mais focado na ideia central.",
+              "Esta fase está incluída nesta coleção para mostrar o tipo de melhoria que você pode fazer ao simplificar uma fase.",
+              "Na versão original, certas subtarefas de design precisavam ser cumpridas: você precisa preencher a extremidade roxa para poder flutuar.",
+              "Mas a forma como implementamos essas subtarefas criou confusão demais para o jogador.",
+              "Em geral, sempre que você cria um quebra-cabeça e ele não fica tão enxuto quanto gostaria,",
+              "você pode olhar para cada subtarefa e perguntar se realmente precisava fazer aquilo daquele jeito específico,",
+              "ou se isso pode ser feito de um jeito mais limpo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_height_chooser_v0_1__director.wav",
+            "subtitleCueLines": [
+              13699,
+              13703,
+              13707,
+              13711,
+              13715,
+              13720,
+              13725,
+              13729,
+              13734,
+              13739,
+              13743,
+              13747,
+              13752
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is the version we ended up going with. It's the same basic idea, but we simplified it:",
+          "the concepts of Water, Skipping, and Lily have all been removed.",
+          "You have to set up the Crystal to block the Beam,",
+          "but the way you do this is more interesting, and it's actually on-topic for the level.",
+          "By putting the purple Beam on the far side of the level, instead of on top,",
+          "we make it easier to return to that side and move it, which reduces the amount of grindy Sokobanning.",
+          "This version is easier, but also better, because you are much more focused on the core idea.",
+          "This level is included in this collection to show the kind of improvement you can make when simplifying a level.",
+          "In the original version, certain design subtasks needed to be accomplished: you need to fill the purple endpoint in order to float.",
+          "But the way we implemented those subtasks created too much confusion for the player.",
+          "In general, whenever you design a puzzle and it's not as clean as you'd like,",
+          "you can look at individual subtasks and ask whether you *really* needed to do that thing in that specific way,",
+          "or whether it can be done in a cleaner way."
+        ],
+        "pt-br": [
+          "Esta é a versão com a qual acabamos ficando. É a mesma ideia básica, mas simplificamos:",
+          "os conceitos de Água, Pulo e Vitória-régia foram todos removidos.",
+          "Você precisa posicionar o Cristal para bloquear o feixe,",
+          "mas a forma como você faz isso é mais interessante, e na verdade tem tudo a ver com o nível.",
+          "Ao colocar o feixe roxo no lado oposto da fase, em vez de em cima,",
+          "facilitamos o retorno a esse lado e a movimentação dele, o que reduz a quantidade de Sokoban repetitivo.",
+          "Esta versão é mais fácil, mas também melhor, porque você fica muito mais focado na ideia central.",
+          "Esta fase está incluída nesta coleção para mostrar o tipo de melhoria que você pode fazer ao simplificar uma fase.",
+          "Na versão original, certas subtarefas de design precisavam ser cumpridas: você precisa preencher a extremidade roxa para poder flutuar.",
+          "Mas a forma como implementamos essas subtarefas criou confusão demais para o jogador.",
+          "Em geral, sempre que você cria um quebra-cabeça e ele não fica tão enxuto quanto gostaria,",
+          "você pode olhar para cada subtarefa e perguntar se realmente precisava fazer aquilo daquele jeito específico,",
+          "ou se isso pode ser feito de um jeito mais limpo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914847,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_height_chooser_v0",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              17.0,
+              0.0
+            ],
+            "source": "data-common/height_chooser_v0.entities"
+          }
+        ],
+        "subtitleLine": 13698,
+        "subtitleHeader": ":"
+      }
+    }
+  ]
+}

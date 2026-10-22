@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_10.5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_wizard_per_turn_goblins",
+      "clips": [
+        {
+          "id": "heroes2_wizard_per_turn_goblins_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 42.6205,
+          "src": "audio/clips/heroes2_wizard_per_turn_goblins_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Let's think about this.",
+              "Magistrate Reynard flees to the East, and about the time he gets here, it's overrun by monsters.",
+              "Possibility the First: It's a coincidence. Always an option, but let's not jump straight to that.",
+              "Possibility the Second: He came East because this monster invasion was about to happen, and he knew.",
+              "And he wants to stop it? Or, the opposite: he wants to take advantage in some way? Perhaps ... to what end?",
+              "Possibility the Third: He caused all this. He is sowing pandemonium *intentionally*.",
+              "For what reason? Merely to throw us off his trail? That's a lot of chaos just for us."
+            ],
+            "pt-br": [
+              "Vamos pensar nisso.",
+              "O Magistrado Reynard foge para o leste, e, quando ele chega aqui, o lugar já está tomado por monstros.",
+              "Primeira possibilidade: é coincidência. Talvez, mas não vamos concluir isso de cara.",
+              "Segunda possibilidade: ele veio para o Leste porque essa invasão de monstros estava prestes a acontecer, e ele sabia.",
+              "E ele quer impedir isso? Ou o contrário: quer tirar proveito de alguma forma? Talvez... com que objetivo?",
+              "Terceira possibilidade: ele causou tudo isso. Ele está semeando o caos de propósito.",
+              "Por qual motivo? Só pra despistar a gente? É muita confusão só por nossa causa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_per_turn_goblins_1__wizard.wav",
+            "subtitleCueLines": [
+              1125,
+              1129,
+              1134,
+              1138,
+              1143,
+              1148,
+              1152
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Let's think about this.",
+          "Magistrate Reynard flees to the East, and about the time he gets here, it's overrun by monsters.",
+          "Possibility the First: It's a coincidence. Always an option, but let's not jump straight to that.",
+          "Possibility the Second: He came East because this monster invasion was about to happen, and he knew.",
+          "And he wants to stop it? Or, the opposite: he wants to take advantage in some way? Perhaps ... to what end?",
+          "Possibility the Third: He caused all this. He is sowing pandemonium *intentionally*.",
+          "For what reason? Merely to throw us off his trail? That's a lot of chaos just for us."
+        ],
+        "pt-br": [
+          "Vamos pensar nisso.",
+          "O Magistrado Reynard foge para o leste, e, quando ele chega aqui, o lugar já está tomado por monstros.",
+          "Primeira possibilidade: é coincidência. Talvez, mas não vamos concluir isso de cara.",
+          "Segunda possibilidade: ele veio para o Leste porque essa invasão de monstros estava prestes a acontecer, e ele sabia.",
+          "E ele quer impedir isso? Ou o contrário: quer tirar proveito de alguma forma? Talvez... com que objetivo?",
+          "Terceira possibilidade: ele causou tudo isso. Ele está semeando o caos de propósito.",
+          "Por qual motivo? Só pra despistar a gente? É muita confusão só por nossa causa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137584,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_wizard_per_turn_goblins",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              3.0,
+              1.0
+            ],
+            "source": "data-common/heroes2_10.5.entities"
+          }
+        ],
+        "subtitleLine": 1124,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_wizard_per_turn_goblins_end",
+      "clips": [
+        {
+          "id": "heroes2_wizard_per_turn_goblins_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 5.18925,
+          "src": "audio/clips/heroes2_wizard_per_turn_goblins_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Thanks for helping me out, fella! And thank your friends for helping me think."
+            ],
+            "pt-br": [
+              "Valeu por me ajudar, cara! E agradeça aos seus amigos por me ajudarem a pensar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_per_turn_goblins_end_1__wizard.wav",
+            "subtitleCueLines": [
+              1161
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Thanks for helping me out, fella! And thank your friends for helping me think."
+        ],
+        "pt-br": [
+          "Valeu por me ajudar, cara! E agradeça aos seus amigos por me ajudarem a pensar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137584,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_wizard_per_turn_goblins_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              3.0,
+              1.0
+            ],
+            "source": "data-common/heroes2_10.5.entities"
+          }
+        ],
+        "subtitleLine": 1160,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "level": "rotator",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "rotator",
+      "clips": [
+        {
+          "id": "rotator_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 6.746208,
+          "src": "audio/clips/rotator_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Lately I've been getting *so* confused. I don't know where I am, I don't know which direction to go."
+            ],
+            "pt-br": [
+              "Ultimamente tenho ficado *tão* confuso. Não sei onde estou, não sei pra que direção ir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "rotator_1__warrior.wav",
+            "subtitleCueLines": [
+              8642
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "rotator_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 6.648167,
+          "src": "audio/clips/rotator_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Sometimes it takes a lot of faffing about before I find a good direction.",
+              "But I suppose I haven't *failed* yet."
+            ],
+            "pt-br": [
+              "Às vezes eu preciso enrolar bastante antes de encontrar uma boa direção.",
+              "Mas acho que ainda não *falhei*."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "rotator_3__warrior.wav",
+            "subtitleCueLines": [
+              8650,
+              8654
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Lately I've been getting *so* confused. I don't know where I am, I don't know which direction to go.",
+          "...",
+          "Sometimes it takes a lot of faffing about before I find a good direction.",
+          "But I suppose I haven't *failed* yet.",
+          "..."
+        ],
+        "pt-br": [
+          "Ultimamente tenho ficado *tão* confuso. Não sei onde estou, não sei pra que direção ir.",
+          "...",
+          "Às vezes eu preciso enrolar bastante antes de encontrar uma boa direção.",
+          "Mas acho que ainda não *falhei*.",
+          "..."
+        ]
+      },
+      "silentCues": [
+        {
+          "id": "rotator_2__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            8647
+          ]
+        },
+        {
+          "id": "rotator_4__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            8657
+          ]
+        }
+      ],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380986,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "rotator",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              10.0,
+              0.0
+            ],
+            "source": "data-common/rotator.entities"
+          }
+        ],
+        "subtitleLine": 8641,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          71.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 59773192,
+        "name": "queen_og_ask",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "59773192",
+        "triggerKind": "character",
+        "blocks": [
+          "queen_og_ask"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 59773192,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "queen_og_ask",
+            "rule": "exact-reference",
+            "coordinates": [
+              80.0,
+              71.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.05123901367188,
+          79.20914459228516,
+          0.8877067565917969
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036983,
+        "name": "queen_og_heroes_entry",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036983",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_heroes_entry"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.9085984230041504,
+          1.2001118659973145,
+          1.5538339614868164
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036983,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_heroes_entry",
+            "rule": "exact-reference",
+            "coordinates": [
+              80.05123901367188,
+              79.20914459228516,
+              0.8877067565917969
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.52819061279297,
+          105.52556610107422,
+          0.8877067565917969
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036984,
+        "name": "queen_og_heroes2",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036984",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_heroes2"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          4.648207187652588,
+          3.4373860359191895,
+          1.5538339614868164
+        ],
+        "barkFlags": 1,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036984,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_heroes2",
+            "rule": "exact-reference",
+            "coordinates": [
+              78.52819061279297,
+              105.52556610107422,
+              0.8877067565917969
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.848291397094727,
+          71.38005065917969,
+          0.7048759460449219
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036985,
+        "name": "end3_queen_promesst_red",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036985",
+        "triggerKind": "movement",
+        "blocks": [
+          "end3_queen_promesst_red"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.434614658355713,
+          2.1243672370910645,
+          1.5538339614868164
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036985,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "end3_queen_promesst_red",
+            "rule": "exact-reference",
+            "coordinates": [
+              27.848291397094727,
+              71.38005065917969,
+              0.7048759460449219
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.94989013671875,
+          95.77153015136719,
+          0.5642719268798828
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036986,
+        "name": "queen_og_wardrobe",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036986",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_wardrobe"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.6372723579406738,
+          1.073315143585205,
+          1.5538339614868164
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036986,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_wardrobe",
+            "rule": "exact-reference",
+            "coordinates": [
+              77.94989013671875,
+              95.77153015136719,
+              0.5642719268798828
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.174362182617188,
+          107.5031509399414,
+          0.027601242065429688
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036987,
+        "name": "queen_og_first_green_beam",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036987",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_first_green_beam"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.6372723579406738,
+          4.791531085968018,
+          1.5538339614868164
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036987,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_first_green_beam",
+            "rule": "exact-reference",
+            "coordinates": [
+              25.174362182617188,
+              107.5031509399414,
+              0.027601242065429688
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.447787284851074,
+          104.54940795898438,
+          0.027601242065429688
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036988,
+        "name": "queen_og_first_orange_beam",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036988",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_first_orange_beam"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.0137553215026855,
+          0.9549374580383301,
+          1.5538339614868164
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036988,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_first_orange_beam",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.447787284851074,
+              104.54940795898438,
+              0.027601242065429688
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.98677062988281,
+          38.69783401489258,
+          -9.5367431640625e-05
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036989,
+        "name": "queen_og_first_lily",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036989",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_first_lily"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.0137553215026855,
+          0.8583645820617676,
+          1.5538339614868164
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036989,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_first_lily",
+            "rule": "exact-reference",
+            "coordinates": [
+              78.98677062988281,
+              38.69783401489258,
+              -9.5367431640625e-05
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.05159759521484,
+          92.99176025390625,
+          0.08127403259277344
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 63036991,
+        "name": "queen_og_gold_room_first",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "63036991",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_gold_room_first"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          0.6618800163269043,
+          0.4675717353820801,
+          1.5538339614868164
+        ],
+        "barkFlags": 1,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 63036991,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_gold_room_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              96.05159759521484,
+              92.99176025390625,
+              0.08127403259277344
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.50141143798828,
+          99.94235229492188,
+          0.5642719268798828
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115527844,
+        "name": "queen_og_wardrobe_2",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "115527844",
+        "triggerKind": "movement",
+        "blocks": [
+          "queen_og_wardrobe_2"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.6372723579406738,
+          0.6615109443664551,
+          1.5538339614868164
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115527844,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "queen_og_wardrobe_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              78.50141143798828,
+              99.94235229492188,
+              0.5642719268798828
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0,
+          133.0,
+          -21.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115609827,
+        "name": "coda",
+        "source": "data-common/overworld.entities",
+        "sourceLevel": "overworld",
+        "coordinateSpace": "world",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "115609827",
+        "triggerKind": "scripted",
+        "blocks": [
+          "coda"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115609827,
+            "entityType": "Marker",
+            "field": "entity_name",
+            "value": "coda",
+            "rule": "named-dialogue-anchor",
+            "coordinates": [
+              137.0,
+              133.0,
+              -21.0
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

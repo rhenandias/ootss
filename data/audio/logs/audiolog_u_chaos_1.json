@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_chaos_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_chaos_1",
+      "clips": [
+        {
+          "id": "audiolog_u_chaos_1_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 30.282333,
+          "src": "audio/clips/audiolog_u_chaos_1_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "... but even so, I simply don't understand how you can believe in a beneficient God --",
+              "Your Acting said this is a survival tactic, and I understand that idea to a decent degree. But it seems you *really* believe it.",
+              "It's a plain fact that events in the world are too tragic to have been authored by a God who holds our well-being in mind;",
+              "surely it is clear to you that what befalls us is shaped by chaos."
+            ],
+            "pt-br": [
+              "... mas, mesmo assim, simplesmente não entendo como você pode acreditar em um Deus benevolente...",
+              "Sua Diretora Interina disse que é uma tática de sobrevivência, e entendo isso até certo ponto. Mas parece que você acredita nisso *de verdade*.",
+              "É um fato evidente que os acontecimentos do mundo são trágicos demais para terem sido obra de um Deus que se preocupa com nosso bem-estar;",
+              "certamente está claro para você que o que nos acontece é moldado pelo caos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_chaos_1_1__sokoban.wav",
+            "subtitleCueLines": [
+              12701,
+              12705,
+              12711,
+              12717
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_chaos_1_2__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 7.367667,
+          "src": "audio/clips/audiolog_u_chaos_1_2__director.mp3",
+          "transcripts": {
+            "en": [
+              "You're an engineer; you try to understand the order in the world",
+              "so you can exploit it to build complicated things; isn't that so?"
+            ],
+            "pt-br": [
+              "Você é engenheiro; tenta entender a ordem do mundo",
+              "para poder tirar proveito dela e construir coisas complicadas; não é isso?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_chaos_1_2__director.wav",
+            "subtitleCueLines": [
+              12721,
+              12725
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_chaos_1_3__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 38.151,
+          "src": "audio/clips/audiolog_u_chaos_1_3__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "That is true ... we can follow causation",
+              "within simple systems, and use those systems' regularity to predict outcomes.",
+              "This works up to a point. Beyond that point, the engineer loses his purchase.",
+              "Outcomes become deeply unpredictable. The destinies of individual humans are shaped largely by randomness.",
+              "Immense and deadly storms, sweeping away entire towns of good and innocent people;",
+              "diseases wherein certain cells of the body randomly become corrupted, and turn upon the whole...",
+              "No loving God would torture his children in this way."
+            ],
+            "pt-br": [
+              "É verdade... podemos acompanhar relações de causa e efeito",
+              "em sistemas simples, e usar a regularidade desses sistemas para prever resultados.",
+              "Isso funciona até certo ponto. Além desse ponto, o engenheiro perde o controle.",
+              "Os resultados se tornam profundamente imprevisíveis. O destino de cada ser humano é moldado em grande parte pelo acaso.",
+              "Tempestades imensas e mortais, que varrem cidades inteiras de pessoas boas e inocentes;",
+              "doenças em que certas células do corpo se corrompem ao acaso, e se voltam contra o organismo...",
+              "Nenhum Deus amoroso torturaria seus filhos dessa forma."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_chaos_1_3__sokoban.wav",
+            "subtitleCueLines": [
+              12730,
+              12734,
+              12739,
+              12743,
+              12748,
+              12753,
+              12757
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_chaos_1_4__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 17.170333,
+          "src": "audio/clips/audiolog_u_chaos_1_4__director.mp3",
+          "transcripts": {
+            "en": [
+              "You started by saying \"chaos\" -- perhaps meaning cause-and-effect",
+              "that proceeds through too many steps, too quickly, for our human brains to follow --",
+              "and then you call this \"randomness\", meaning things that are arbitrary and have no meaning.",
+              "I would say these are improper words..."
+            ],
+            "pt-br": [
+              "Você começou dizendo “caos”... talvez querendo dizer causa e efeito",
+              "que avança por etapas demais, rápido demais para nossos cérebros humanos acompanharem,",
+              "e então você chama isso de “aleatoriedade”, querendo dizer coisas arbitrárias e sem significado.",
+              "Eu diria que essas são palavras inadequadas..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_chaos_1_4__director.wav",
+            "subtitleCueLines": [
+              12760,
+              12764,
+              12769,
+              12774
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... but even so, I simply don't understand how you can believe in a beneficient God --",
+          "Your Acting said this is a survival tactic, and I understand that idea to a decent degree. But it seems you *really* believe it.",
+          "It's a plain fact that events in the world are too tragic to have been authored by a God who holds our well-being in mind;",
+          "surely it is clear to you that what befalls us is shaped by chaos.",
+          "You're an engineer; you try to understand the order in the world",
+          "so you can exploit it to build complicated things; isn't that so?",
+          "That is true ... we can follow causation",
+          "within simple systems, and use those systems' regularity to predict outcomes.",
+          "This works up to a point. Beyond that point, the engineer loses his purchase.",
+          "Outcomes become deeply unpredictable. The destinies of individual humans are shaped largely by randomness.",
+          "Immense and deadly storms, sweeping away entire towns of good and innocent people;",
+          "diseases wherein certain cells of the body randomly become corrupted, and turn upon the whole...",
+          "No loving God would torture his children in this way.",
+          "You started by saying \"chaos\" -- perhaps meaning cause-and-effect",
+          "that proceeds through too many steps, too quickly, for our human brains to follow --",
+          "and then you call this \"randomness\", meaning things that are arbitrary and have no meaning.",
+          "I would say these are improper words..."
+        ],
+        "pt-br": [
+          "... mas, mesmo assim, simplesmente não entendo como você pode acreditar em um Deus benevolente...",
+          "Sua Diretora Interina disse que é uma tática de sobrevivência, e entendo isso até certo ponto. Mas parece que você acredita nisso *de verdade*.",
+          "É um fato evidente que os acontecimentos do mundo são trágicos demais para terem sido obra de um Deus que se preocupa com nosso bem-estar;",
+          "certamente está claro para você que o que nos acontece é moldado pelo caos.",
+          "Você é engenheiro; tenta entender a ordem do mundo",
+          "para poder tirar proveito dela e construir coisas complicadas; não é isso?",
+          "É verdade... podemos acompanhar relações de causa e efeito",
+          "em sistemas simples, e usar a regularidade desses sistemas para prever resultados.",
+          "Isso funciona até certo ponto. Além desse ponto, o engenheiro perde o controle.",
+          "Os resultados se tornam profundamente imprevisíveis. O destino de cada ser humano é moldado em grande parte pelo acaso.",
+          "Tempestades imensas e mortais, que varrem cidades inteiras de pessoas boas e inocentes;",
+          "doenças em que certas células do corpo se corrompem ao acaso, e se voltam contra o organismo...",
+          "Nenhum Deus amoroso torturaria seus filhos dessa forma.",
+          "Você começou dizendo “caos”... talvez querendo dizer causa e efeito",
+          "que avança por etapas demais, rápido demais para nossos cérebros humanos acompanharem,",
+          "e então você chama isso de “aleatoriedade”, querendo dizer coisas arbitrárias e sem significado.",
+          "Eu diria que essas são palavras inadequadas..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

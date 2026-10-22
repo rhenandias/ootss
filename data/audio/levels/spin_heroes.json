@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "level": "spin_heroes",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "spin_heroes",
+      "clips": [
+        {
+          "id": "spin_heroes_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.329375,
+          "src": "audio/clips/spin_heroes_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "We came all this way, just to end up in another creepy castle."
+            ],
+            "pt-br": [
+              "Viemos até aqui só pra acabar em outro castelo assustador."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_heroes_1__thief.wav",
+            "subtitleCueLines": [
+              8684
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "spin_heroes_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.688333,
+          "src": "audio/clips/spin_heroes_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "It's more like a creepy temple."
+            ],
+            "pt-br": [
+              "Parece mais um templo assustador."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_heroes_2__warrior.wav",
+            "subtitleCueLines": [
+              8688
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "spin_heroes_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.240667,
+          "src": "audio/clips/spin_heroes_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Castle temple. Just get me out of here."
+            ],
+            "pt-br": [
+              "Templo do castelo. Só me tira daqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "spin_heroes_3__thief.wav",
+            "subtitleCueLines": [
+              8691
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We came all this way, just to end up in another creepy castle.",
+          "It's more like a creepy temple.",
+          "Castle temple. Just get me out of here."
+        ],
+        "pt-br": [
+          "Viemos até aqui só pra acabar em outro castelo assustador.",
+          "Parece mais um templo assustador.",
+          "Templo do castelo. Só me tira daqui."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 92274705,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "spin_heroes",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/spin_heroes.entities"
+          }
+        ],
+        "subtitleLine": 8683,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

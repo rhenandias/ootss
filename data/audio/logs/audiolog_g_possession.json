@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_possession",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_possession",
+      "clips": [
+        {
+          "id": "audiolog_g_possession_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 13.928208,
+          "src": "audio/clips/audiolog_g_possession_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Repetition has accustomed me somewhat, but it's still very strange.",
+              "I feel as though I'm making the decisions ... but I'm sure they believe the decisions are theirs.",
+              "We can't both be right."
+            ],
+            "pt-br": [
+              "A repetição me acostumou um pouco, mas ainda é muito estranho.",
+              "Sinto como se eu estivesse tomando as decisões... mas tenho certeza de que eles acreditam que as decisões são deles.",
+              "Nós dois não podemos estar certos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_possession_1__sokoban.wav",
+            "subtitleCueLines": [
+              3307,
+              3312,
+              3316
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Repetition has accustomed me somewhat, but it's still very strange.",
+          "I feel as though I'm making the decisions ... but I'm sure they believe the decisions are theirs.",
+          "We can't both be right."
+        ],
+        "pt-br": [
+          "A repetição me acostumou um pouco, mas ainda é muito estranho.",
+          "Sinto como se eu estivesse tomando as decisões... mas tenho certeza de que eles acreditam que as decisões são deles.",
+          "Nós dois não podemos estar certos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

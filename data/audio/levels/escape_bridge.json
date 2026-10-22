@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "escape_bridge",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "vm_thief_priestess_6",
+      "clips": [
+        {
+          "id": "vm_thief_priestess_6_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.332813,
+          "src": "audio/clips/vm_thief_priestess_6_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I could scarcely have imagined!",
+              "Okay, hold on! I'll get you out!"
+            ],
+            "pt-br": [
+              "Mal podia imaginar!",
+              "Certo, segura aí! Vou tirar você daqui!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_thief_priestess_6_1__thief.wav",
+            "subtitleCueLines": [
+              8519,
+              8523
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I could scarcely have imagined!",
+          "Okay, hold on! I'll get you out!"
+        ],
+        "pt-br": [
+          "Mal podia imaginar!",
+          "Certo, segura aí! Vou tirar você daqui!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914706,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "vm_thief_priestess_6",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              10.0,
+              0.0
+            ],
+            "source": "data-common/escape_bridge.entities"
+          }
+        ],
+        "subtitleLine": 8518,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

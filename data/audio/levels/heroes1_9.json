@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_9",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_wizard_three_crystals",
+      "clips": [
+        {
+          "id": "heroes1_wizard_three_crystals_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 6.559,
+          "src": "audio/clips/heroes1_wizard_three_crystals_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Tif and Valens can't be far. I was imprisoned but a few hours --",
+              "I'll find the Magistrate -- he'll explain himself."
+            ],
+            "pt-br": [
+              "Tif e Valens devem estar por perto. Fiquei preso só por algumas horas...",
+              "Vou encontrar o Magistrado... ele vai se explicar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_three_crystals_1__wizard.wav",
+            "subtitleCueLines": [
+              194,
+              199
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Tif and Valens can't be far. I was imprisoned but a few hours --",
+          "I'll find the Magistrate -- he'll explain himself."
+        ],
+        "pt-br": [
+          "Tif e Valens devem estar por perto. Fiquei preso só por algumas horas...",
+          "Vou encontrar o Magistrado... ele vai se explicar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048599,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes1_wizard_three_crystals",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_9.entities"
+          }
+        ],
+        "subtitleLine": 193,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes1_wizard_three_crystals_end",
+      "clips": [
+        {
+          "id": "heroes1_wizard_three_crystals_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 5.803917,
+          "src": "audio/clips/heroes1_wizard_three_crystals_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "That Magistrate. We were courteous and professional, and he was so incredibly rude."
+            ],
+            "pt-br": [
+              "Aquele Magistrado. Fomos tão corteses e profissionais, e ele foi super grosseiro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_three_crystals_end_1__wizard.wav",
+            "subtitleCueLines": [
+              207
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "That Magistrate. We were courteous and professional, and he was so incredibly rude."
+        ],
+        "pt-br": [
+          "Aquele Magistrado. Fomos tão corteses e profissionais, e ele foi super grosseiro."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048599,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes1_wizard_three_crystals_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_9.entities"
+          }
+        ],
+        "subtitleLine": 206,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

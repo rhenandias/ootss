@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_11_v2_easier",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_postmeetup_warrior",
+      "clips": [
+        {
+          "id": "heroes2_postmeetup_warrior_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 18.681667,
+          "src": "audio/clips/heroes2_postmeetup_warrior_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Who'd have guessed that starting a moving company could get us into so much trouble.",
+              "And that getting into trouble could lead to a deal with the King. A path toward absolution!",
+              "But, who'd have guessed that a deal with the King would shunt us into *even worse* trouble.",
+              "Sometimes, the only way out is ... forward."
+            ],
+            "pt-br": [
+              "Quem diria que abrir uma transportadora poderia trazer tantos problemas pra gente.",
+              "E que se meter em encrenca poderia levar a um acordo com o Rei. Um caminho para a absolvição!",
+              "Mas, quem diria que um acordo com o Rei nos meteria numa encrenca ainda pior.",
+              "Às vezes, a única saída é... seguir em frente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_postmeetup_warrior_1__warrior.wav",
+            "subtitleCueLines": [
+              1046,
+              1051,
+              1056,
+              1061
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Who'd have guessed that starting a moving company could get us into so much trouble.",
+          "And that getting into trouble could lead to a deal with the King. A path toward absolution!",
+          "But, who'd have guessed that a deal with the King would shunt us into *even worse* trouble.",
+          "Sometimes, the only way out is ... forward."
+        ],
+        "pt-br": [
+          "Quem diria que abrir uma transportadora poderia trazer tantos problemas pra gente.",
+          "E que se meter em encrenca poderia levar a um acordo com o Rei. Um caminho para a absolvição!",
+          "Mas, quem diria que um acordo com o Rei nos meteria numa encrenca ainda pior.",
+          "Às vezes, a única saída é... seguir em frente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87032035,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_postmeetup_warrior",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_11_v2_easier.entities"
+          }
+        ],
+        "subtitleLine": 1045,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

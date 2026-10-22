@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "level": "tiger_lily_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_tiger_lily_v2",
+      "clips": [
+        {
+          "id": "audiolog_di_tiger_lily_v2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 25.818687,
+          "src": "audio/clips/audiolog_di_tiger_lily_v2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here's Patrick's revision. The interaction is explored more thoroughly",
+              "and adds depth to the puzzle by requiring the player to figure out",
+              "exactly where to drop the Lilies in order to reach the next island.",
+              "Goblins were swapped out for Dragons. Dragons can be pushed without a stone in between,",
+              "which makes it quicker and more comfortable to experiment and execute ideas,",
+              "and allows for more complex puzzles while adding fewer objects to the level."
+            ],
+            "pt-br": [
+              "Aqui está a revisão do Patrick. A interação é explorada com mais profundidade",
+              "e acrescenta profundidade ao quebra-cabeça ao exigir que o jogador descubra",
+              "exatamente onde largar as vitórias-régias para alcançar a ilha seguinte.",
+              "Os Goblins foram trocados por Dragões. Dragões podem ser empurrados sem uma pedra no meio,",
+              "o que torna mais rápido e confortável testar e executar ideias,",
+              "e permite quebra-cabeças mais complexos ao adicionar menos objetos à fase."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_tiger_lily_v2_1__director.wav",
+            "subtitleCueLines": [
+              14403,
+              14407,
+              14411,
+              14415,
+              14420,
+              14424
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here's Patrick's revision. The interaction is explored more thoroughly",
+          "and adds depth to the puzzle by requiring the player to figure out",
+          "exactly where to drop the Lilies in order to reach the next island.",
+          "Goblins were swapped out for Dragons. Dragons can be pushed without a stone in between,",
+          "which makes it quicker and more comfortable to experiment and execute ideas,",
+          "and allows for more complex puzzles while adding fewer objects to the level."
+        ],
+        "pt-br": [
+          "Aqui está a revisão do Patrick. A interação é explorada com mais profundidade",
+          "e acrescenta profundidade ao quebra-cabeça ao exigir que o jogador descubra",
+          "exatamente onde largar as vitórias-régias para alcançar a ilha seguinte.",
+          "Os Goblins foram trocados por Dragões. Dragões podem ser empurrados sem uma pedra no meio,",
+          "o que torna mais rápido e confortável testar e executar ideias,",
+          "e permite quebra-cabeças mais complexos ao adicionar menos objetos à fase."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_tiger_lily_v2",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/tiger_lily_v2.entities"
+          }
+        ],
+        "subtitleLine": 14402,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

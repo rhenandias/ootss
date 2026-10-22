@@ -1,0 +1,1673 @@
+{
+  "schemaVersion": 1,
+  "level": "intro",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "intro_1",
+      "clips": [
+        {
+          "id": "intro_1_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 60.411479,
+          "src": "audio/clips/intro_1_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Mr. Quigley,",
+              "Moments after I came through, the doorstead abruptly closed and disappeared. I am on my own for the time being.",
+              "I trust you'll reopen it when you can manage. Meanwhile, I shall look about.",
+              "I'll leave a trail of beacons, should you send someone after,",
+              "and set down what information I can, in case of my disappearance or expiry.",
+              "I'm standing in ... an anteroom. The furnishings are very strange, unlike the handiwork of any people known to me, historic or modern.",
+              "It does appear to be a completely other world.",
+              "These chambers were made for a large gathering, but they're empty.",
+              "The surfaces look newly made; no trace of wear, and no dust.",
+              "Someone tends this place, so I should see him before long.",
+              "I'll press forward."
+            ],
+            "pt-br": [
+              "Sr. Quigley,",
+              "Momentos depois de eu atravessar, a porta fechou de repente e desapareceu. Estou sozinho por enquanto.",
+              "Confio que você a reabra quando puder. Até lá, vou dar uma olhada ao redor.",
+              "Vou deixar um rastro de sinalizadores, caso você mande alguém atrás,",
+              "e anotar o máximo de informação que eu puder, caso eu desapareça ou morra.",
+              "Estou em... uma antessala. A mobília é muito estranha, diferente do trabalho de qualquer povo que eu conheça, histórico ou moderno.",
+              "Isso parece mesmo ser um mundo completamente diferente.",
+              "Esses aposentos foram feitos para grandes reuniões, mas estão vazios.",
+              "As superfícies parecem recém-feitas; sem sinais de desgaste, nem poeira.",
+              "Alguém cuida deste lugar, então devo encontrá-lo em breve.",
+              "Vou seguir em frente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_1_1__sokoban.wav",
+            "subtitleCueLines": [
+              3204,
+              3207,
+              3212,
+              3216,
+              3220,
+              3224,
+              3230,
+              3235,
+              3240,
+              3245,
+              3249
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Mr. Quigley,",
+          "Moments after I came through, the doorstead abruptly closed and disappeared. I am on my own for the time being.",
+          "I trust you'll reopen it when you can manage. Meanwhile, I shall look about.",
+          "I'll leave a trail of beacons, should you send someone after,",
+          "and set down what information I can, in case of my disappearance or expiry.",
+          "I'm standing in ... an anteroom. The furnishings are very strange, unlike the handiwork of any people known to me, historic or modern.",
+          "It does appear to be a completely other world.",
+          "These chambers were made for a large gathering, but they're empty.",
+          "The surfaces look newly made; no trace of wear, and no dust.",
+          "Someone tends this place, so I should see him before long.",
+          "I'll press forward."
+        ],
+        "pt-br": [
+          "Sr. Quigley,",
+          "Momentos depois de eu atravessar, a porta fechou de repente e desapareceu. Estou sozinho por enquanto.",
+          "Confio que você a reabra quando puder. Até lá, vou dar uma olhada ao redor.",
+          "Vou deixar um rastro de sinalizadores, caso você mande alguém atrás,",
+          "e anotar o máximo de informação que eu puder, caso eu desapareça ou morra.",
+          "Estou em... uma antessala. A mobília é muito estranha, diferente do trabalho de qualquer povo que eu conheça, histórico ou moderno.",
+          "Isso parece mesmo ser um mundo completamente diferente.",
+          "Esses aposentos foram feitos para grandes reuniões, mas estão vazios.",
+          "As superfícies parecem recém-feitas; sem sinais de desgaste, nem poeira.",
+          "Alguém cuida deste lugar, então devo encontrá-lo em breve.",
+          "Vou seguir em frente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 106954775,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "intro_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              49.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 3203,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "intro_before_teleporter",
+      "clips": [
+        {
+          "id": "intro_before_teleporter_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 29.446188,
+          "src": "audio/clips/intro_before_teleporter_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Quigley, It's very strange.",
+              "There are plaques inscribed in an unknown language, glyphs I've never seen before, but I just ... know what they mean.",
+              "This ... facility ... was constructed to receive strangers,",
+              "which explains the pronounced peak in the sounding-outs: they are advertising this place.",
+              "There's something ahead ... I don't know where it leads.",
+              "But of course I'm going through. Ever forward."
+            ],
+            "pt-br": [
+              "Quigley, isso é muito estranho.",
+              "Há placas com inscrições em uma língua desconhecida, glifos que nunca vi antes, mas eu simplesmente... sei o que significam.",
+              "Este... lugar... foi construído para receber estranhos,",
+              "o que explica o pico acentuado nos chamados: eles estão divulgando este lugar.",
+              "Tem algo à frente... não sei aonde isso leva.",
+              "Mas, claro, vou seguir em frente. Sempre adiante."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_before_teleporter_1__sokoban.wav",
+            "subtitleCueLines": [
+              3256,
+              3260,
+              3265,
+              3269,
+              3274,
+              3278
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Quigley, It's very strange.",
+          "There are plaques inscribed in an unknown language, glyphs I've never seen before, but I just ... know what they mean.",
+          "This ... facility ... was constructed to receive strangers,",
+          "which explains the pronounced peak in the sounding-outs: they are advertising this place.",
+          "There's something ahead ... I don't know where it leads.",
+          "But of course I'm going through. Ever forward."
+        ],
+        "pt-br": [
+          "Quigley, isso é muito estranho.",
+          "Há placas com inscrições em uma língua desconhecida, glifos que nunca vi antes, mas eu simplesmente... sei o que significam.",
+          "Este... lugar... foi construído para receber estranhos,",
+          "o que explica o pico acentuado nos chamados: eles estão divulgando este lugar.",
+          "Tem algo à frente... não sei aonde isso leva.",
+          "Mas, claro, vou seguir em frente. Sempre adiante."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 106954776,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "intro_before_teleporter",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.0,
+              31.0,
+              0.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 3255,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_am_i_dead",
+      "clips": [
+        {
+          "id": "intro_queen_am_i_dead_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 2.713,
+          "src": "audio/clips/intro_queen_am_i_dead_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Is this ... the afterlife?"
+            ],
+            "pt-br": [
+              "Isso aqui... é a vida após a morte?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_am_i_dead_1__queen.wav",
+            "subtitleCueLines": [
+              6940
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Is this ... the afterlife?"
+        ],
+        "pt-br": [
+          "Isso aqui... é a vida após a morte?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914935,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_am_i_dead",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.01565933227539,
+              -16.591981887817383,
+              0.0009613037109375
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 6939,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_callout_alt",
+      "clips": [
+        {
+          "id": "intro_queen_callout_alt_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 9.327292,
+          "src": "audio/clips/intro_queen_callout_alt_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Jackays! Conroe! Are you here?",
+              "Any loyal soldier, stand count!"
+            ],
+            "pt-br": [
+              "Jackays! Conroe! Cadê vocês?",
+              "Qualquer soldado leal, em posição!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_callout_alt_1__queen.wav",
+            "subtitleCueLines": [
+              6947,
+              6951
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Jackays! Conroe! Are you here?",
+          "Any loyal soldier, stand count!"
+        ],
+        "pt-br": [
+          "Jackays! Conroe! Cadê vocês?",
+          "Qualquer soldado leal, em posição!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914933,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_callout_alt",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.01597595214844,
+              -5.524042129516602,
+              0.0009613037109375
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 6946,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_foreign_script",
+      "clips": [
+        {
+          "id": "intro_queen_foreign_script_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 4.3715,
+          "src": "audio/clips/intro_queen_foreign_script_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Foreign script, but I understand it, somehow."
+            ],
+            "pt-br": [
+              "Escrita estrangeira, mas eu entendo, de algum jeito."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_foreign_script_1__queen.wav",
+            "subtitleCueLines": [
+              6958
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Foreign script, but I understand it, somehow."
+        ],
+        "pt-br": [
+          "Escrita estrangeira, mas eu entendo, de algum jeito."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914934,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_foreign_script",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.0408935546875,
+              3.9416182041168213,
+              0.0009613037109375
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 6957,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_sign",
+      "clips": [
+        {
+          "id": "intro_queen_sign_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 1.928521,
+          "src": "audio/clips/intro_queen_sign_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Not too Heavenly, this."
+            ],
+            "pt-br": [
+              "Nada celestial nisso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_sign_1__queen.wav",
+            "subtitleCueLines": [
+              6966
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Not too Heavenly, this."
+        ],
+        "pt-br": [
+          "Nada celestial nisso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 111149186,
+            "entityType": "Sign",
+            "field": "look_at_bark",
+            "value": "intro_queen_sign",
+            "rule": "exact-reference",
+            "coordinates": [
+              47.0,
+              10.0,
+              0.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 6965,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_hosts_1",
+      "clips": [
+        {
+          "id": "intro_queen_hosts_1_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 5.711667,
+          "src": "audio/clips/intro_queen_hosts_1_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Hosts of this place, show yourselves!",
+              "Your guest demands it."
+            ],
+            "pt-br": [
+              "Anfitriões deste lugar, apareçam!",
+              "Sua convidada exige."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_hosts_1_1__queen.wav",
+            "subtitleCueLines": [
+              6973,
+              6977
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hosts of this place, show yourselves!",
+          "Your guest demands it."
+        ],
+        "pt-br": [
+          "Anfitriões deste lugar, apareçam!",
+          "Sua convidada exige."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914936,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_hosts_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              52.36692810058594,
+              24.948062896728516,
+              0.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 6972,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_hosts_2",
+      "clips": [
+        {
+          "id": "intro_queen_hosts_2_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 7.026667,
+          "src": "audio/clips/intro_queen_hosts_2_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "You who call yourselves Sinking Star!",
+              "If you want to help me, send me back to my men."
+            ],
+            "pt-br": [
+              "Vocês que se chamam de Sinking Star!",
+              "Se querem me ajudar, me mandem de volta para o meu grupo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_hosts_2_1__queen.wav",
+            "subtitleCueLines": [
+              6984,
+              6988
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You who call yourselves Sinking Star!",
+          "If you want to help me, send me back to my men."
+        ],
+        "pt-br": [
+          "Vocês que se chamam de Sinking Star!",
+          "Se querem me ajudar, me mandem de volta para o meu grupo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914937,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_hosts_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              57.29898452758789,
+              26.995540618896484,
+              0.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 6983,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_hosts_3",
+      "clips": [
+        {
+          "id": "intro_queen_hosts_3_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 4.898021,
+          "src": "audio/clips/intro_queen_hosts_3_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "The raid must be yet ongoing. I've got to find my way back."
+            ],
+            "pt-br": [
+              "O ataque deve ainda estar acontecendo. Preciso achar meu caminho de volta."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_hosts_3_1__queen.wav",
+            "subtitleCueLines": [
+              6996
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The raid must be yet ongoing. I've got to find my way back."
+        ],
+        "pt-br": [
+          "O ataque deve ainda estar acontecendo. Preciso achar meu caminho de volta."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115345634,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_hosts_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              47.08148193359375,
+              30.457386016845703,
+              0.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 6995,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "intro_queen_teleporter",
+      "clips": [
+        {
+          "id": "intro_queen_teleporter_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 3.461667,
+          "src": "audio/clips/intro_queen_teleporter_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Foreign transport, please take me home."
+            ],
+            "pt-br": [
+              "Transporte estrangeiro, me leve pra casa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_teleporter_1__queen.wav",
+            "subtitleCueLines": [
+              7005
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Foreign transport, please take me home."
+        ],
+        "pt-br": [
+          "Transporte estrangeiro, me leve pra casa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914938,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_teleporter",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.003597259521484,
+              47.040748596191406,
+              0.4986610412597656
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 7004,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "audiolog_sky_10000_things",
+      "clips": [
+        {
+          "id": "audiolog_sky_10000_things_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 69.055125,
+          "src": "audio/clips/audiolog_sky_10000_things_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "There's an ancient book of our people -- it was reassembled from scraps, so never fully reliable --",
+              "but it describes the universe emerging from a fundamental whole underlying everything we see.",
+              "First, somehow, this whole, the Dao, gives rise to One.",
+              "We'll be simplistic for now and think of this as the Dao identifying itself.",
+              "This is deeply questionable, but we have to start somewhere. Anyway.",
+              "Then, the book says, One produces two, two produce three, and three produce all the ten thousand things --",
+              "all that we observe in Creation.",
+              "The text is mysterious and minimal; but combined with what we've already discussed,",
+              "you can guess the Order's angle.",
+              "Rather than just accepting the results of this creative process, can we look at it more closely?",
+              "Can we create a microscope to help us zoom in",
+              "and look at the Dao in all its particular details, to understand how this creative process works?",
+              "Some of us still think the answer is No."
+            ],
+            "pt-br": [
+              "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
+              "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
+              "Primeiro, de algum modo, esse todo, o Dao, dá origem ao Um.",
+              "Por enquanto, vamos ser simplistas e pensar nisso como o Dao se identificando.",
+              "Isso é profundamente questionável, mas temos de começar por algum lugar. Enfim.",
+              "Então, o livro diz que Um produz dois, dois produzem três, e três produzem as dez mil coisas...",
+              "tudo o que observamos na Criação.",
+              "O texto é misterioso e mínimo; mas, combinado com o que já discutimos,",
+              "você pode adivinhar o ângulo da Ordem.",
+              "Em vez de apenas aceitar os resultados desse processo criativo, podemos olhar para ele mais de perto?",
+              "Podemos criar um microscópio para nos ajudar a ampliar",
+              "e olhar o Dao em todos os seus detalhes, para entender como esse processo criativo funciona?",
+              "Alguns de nós ainda acham que a resposta é “Não”."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_10000_things_1__acting.wav",
+            "subtitleCueLines": [
+              10102,
+              10107,
+              10112,
+              10117,
+              10122,
+              10127,
+              10133,
+              10136,
+              10140,
+              10143,
+              10148,
+              10152,
+              10156
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_10000_things_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.892812,
+          "src": "audio/clips/audiolog_sky_10000_things_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "We have an idea that our universe began with an immense explosion."
+            ],
+            "pt-br": [
+              "Temos uma ideia de que nosso universo começou com uma explosão imensa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_10000_things_2__sokoban.wav",
+            "subtitleCueLines": [
+              10160
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_10000_things_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 23.884229,
+          "src": "audio/clips/audiolog_sky_10000_things_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "We did too, once. And, well, to physical appearances it somewhat did ... but when you look at underlying mechanisms, they are not so unstable.",
+              "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
+              "but, somewhere more fundamental. Any physical explosion is just a surface echo."
+            ],
+            "pt-br": [
+              "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
+              "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
+              "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_10000_things_3__acting.wav",
+            "subtitleCueLines": [
+              10165,
+              10170,
+              10175
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There's an ancient book of our people -- it was reassembled from scraps, so never fully reliable --",
+          "but it describes the universe emerging from a fundamental whole underlying everything we see.",
+          "First, somehow, this whole, the Dao, gives rise to One.",
+          "We'll be simplistic for now and think of this as the Dao identifying itself.",
+          "This is deeply questionable, but we have to start somewhere. Anyway.",
+          "Then, the book says, One produces two, two produce three, and three produce all the ten thousand things --",
+          "all that we observe in Creation.",
+          "The text is mysterious and minimal; but combined with what we've already discussed,",
+          "you can guess the Order's angle.",
+          "Rather than just accepting the results of this creative process, can we look at it more closely?",
+          "Can we create a microscope to help us zoom in",
+          "and look at the Dao in all its particular details, to understand how this creative process works?",
+          "Some of us still think the answer is No.",
+          "We have an idea that our universe began with an immense explosion.",
+          "We did too, once. And, well, to physical appearances it somewhat did ... but when you look at underlying mechanisms, they are not so unstable.",
+          "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
+          "but, somewhere more fundamental. Any physical explosion is just a surface echo."
+        ],
+        "pt-br": [
+          "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
+          "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
+          "Primeiro, de algum modo, esse todo, o Dao, dá origem ao Um.",
+          "Por enquanto, vamos ser simplistas e pensar nisso como o Dao se identificando.",
+          "Isso é profundamente questionável, mas temos de começar por algum lugar. Enfim.",
+          "Então, o livro diz que Um produz dois, dois produzem três, e três produzem as dez mil coisas...",
+          "tudo o que observamos na Criação.",
+          "O texto é misterioso e mínimo; mas, combinado com o que já discutimos,",
+          "você pode adivinhar o ângulo da Ordem.",
+          "Em vez de apenas aceitar os resultados desse processo criativo, podemos olhar para ele mais de perto?",
+          "Podemos criar um microscópio para nos ajudar a ampliar",
+          "e olhar o Dao em todos os seus detalhes, para entender como esse processo criativo funciona?",
+          "Alguns de nós ainda acham que a resposta é “Não”.",
+          "Temos uma ideia de que nosso universo começou com uma explosão imensa.",
+          "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
+          "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
+          "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115345347,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_sky_10000_things",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              26.0,
+              1.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 10101,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "audiolog_sky_laws_of_form",
+      "clips": [
+        {
+          "id": "audiolog_sky_laws_of_form_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 27.748333,
+          "src": "audio/clips/audiolog_sky_laws_of_form_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "There's another work from our canon, that takes inspiration",
+              "from the Daoist tradition, but puts a mathematical spin on it.",
+              "You'll recall that first the Dao creates or gives rise to One, One creates Two, and so on.",
+              "So we want to look at the idea of going from nothing that is identifiable,",
+              "to one identifiable thing, to many identifiable things.",
+              "So let's consider the idea of Distinction -- lines being drawn to distinguish things from each other."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_1__acting.wav",
+            "subtitleCueLines": [
+              10988,
+              10992,
+              10996,
+              11001,
+              11005,
+              11009
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_laws_of_form_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 6.565333,
+          "src": "audio/clips/audiolog_sky_laws_of_form_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "You're saying distinguish instead of create -- so the things are already created?"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_2__sokoban.wav",
+            "subtitleCueLines": [
+              11014
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_laws_of_form_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 112.184667,
+          "src": "audio/clips/audiolog_sky_laws_of_form_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "It's a different picture of creation. I said \"nothing that is identifiable\",",
+              "but don't imagine this as physical nothingness. More like an all-pervading potential.",
+              "An undifferentiated whole has no need for distinction.",
+              "But once we say there is One, this necessarily involves a distinction:",
+              "between that One, and whatever that One is not.",
+              "To model this mathematically, the author began with what he called the First Distinction.",
+              "This Distinction means that now we have two things, A and Not A.",
+              "Once you have a boundary, this admits the possibility of crossing the boundary.",
+              "You can cross from A to Not A, or from Not A to A.",
+              "On a more human scale, perhaps Alive to Dead, then back to Alive. Contented to Bored, then back to Contented.",
+              "You can write crossings mathematically, where a single right-angled mark both",
+              "states that there is a distinction, and also says \"I crossed it\".",
+              "And then, you can introduce two rules for manipulating what you wrote.",
+              "If you cross and cross back again, you end up where you started -- that's the same as staying still.",
+              "Likewise in reverse. Anywhere you stood still, in other words wrote nothing,",
+              "you can replace this with crossing and then crossing back,",
+              "which looks like one right-angled mark inside another.",
+              "And marking down the same distinction twice is the same as marking it once...",
+              "you are just saying the same thing twice, redundantly.",
+              "(This looks like two right-angled marks next to each other.)",
+              "So anywhere you wrote a distinction, you can write it twice, three times, however many you want.",
+              "With just these two rules of rewriting, a tree can blossom that is huge, as large as you like.",
+              "You know what I mean by a tree, in the mathematical sense?"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_3__acting.wav",
+            "subtitleCueLines": [
+              11018,
+              11022,
+              11026,
+              11031,
+              11036,
+              11040,
+              11045,
+              11049,
+              11053,
+              11057,
+              11062,
+              11066,
+              11070,
+              11074,
+              11079,
+              11084,
+              11088,
+              11092,
+              11097,
+              11101,
+              11105,
+              11110,
+              11115
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_laws_of_form_5__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 43.9815,
+          "src": "audio/clips/audiolog_sky_laws_of_form_5__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Good.",
+              "You can keep growing the branches of this tree,",
+              "replacing one thing with another via incremental rewrites,",
+              "expanding the expression for as long as your patience permits.",
+              "And the Dao is very patient.",
+              "With all our doodling, we've just created",
+              "a huge proliferation of elaborate forms. All from just crossings and restatements.",
+              "These forms we wrote, when reduced again, all boil down to Distinction or No Distinction --",
+              "but the tree structure you can create has a huge number of possibilities.",
+              "A countably infinite jungle.",
+              "This gives you some insight into a small part of what we study here.",
+              "Think on this, and we'll speak again soon."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_5__acting.wav",
+            "subtitleCueLines": [
+              11119,
+              11122,
+              11126,
+              11130,
+              11134,
+              11137,
+              11141,
+              11145,
+              11149,
+              11154,
+              11157,
+              11162
+            ],
+            "explicitAudioReference": "audiolog_sky_laws_of_form_5__acting"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There's another work from our canon, that takes inspiration",
+          "from the Daoist tradition, but puts a mathematical spin on it.",
+          "You'll recall that first the Dao creates or gives rise to One, One creates Two, and so on.",
+          "So we want to look at the idea of going from nothing that is identifiable,",
+          "to one identifiable thing, to many identifiable things.",
+          "So let's consider the idea of Distinction -- lines being drawn to distinguish things from each other.",
+          "You're saying distinguish instead of create -- so the things are already created?",
+          "It's a different picture of creation. I said \"nothing that is identifiable\",",
+          "but don't imagine this as physical nothingness. More like an all-pervading potential.",
+          "An undifferentiated whole has no need for distinction.",
+          "But once we say there is One, this necessarily involves a distinction:",
+          "between that One, and whatever that One is not.",
+          "To model this mathematically, the author began with what he called the First Distinction.",
+          "This Distinction means that now we have two things, A and Not A.",
+          "Once you have a boundary, this admits the possibility of crossing the boundary.",
+          "You can cross from A to Not A, or from Not A to A.",
+          "On a more human scale, perhaps Alive to Dead, then back to Alive. Contented to Bored, then back to Contented.",
+          "You can write crossings mathematically, where a single right-angled mark both",
+          "states that there is a distinction, and also says \"I crossed it\".",
+          "And then, you can introduce two rules for manipulating what you wrote.",
+          "If you cross and cross back again, you end up where you started -- that's the same as staying still.",
+          "Likewise in reverse. Anywhere you stood still, in other words wrote nothing,",
+          "you can replace this with crossing and then crossing back,",
+          "which looks like one right-angled mark inside another.",
+          "And marking down the same distinction twice is the same as marking it once...",
+          "you are just saying the same thing twice, redundantly.",
+          "(This looks like two right-angled marks next to each other.)",
+          "So anywhere you wrote a distinction, you can write it twice, three times, however many you want.",
+          "With just these two rules of rewriting, a tree can blossom that is huge, as large as you like.",
+          "You know what I mean by a tree, in the mathematical sense?",
+          "Good.",
+          "You can keep growing the branches of this tree,",
+          "replacing one thing with another via incremental rewrites,",
+          "expanding the expression for as long as your patience permits.",
+          "And the Dao is very patient.",
+          "With all our doodling, we've just created",
+          "a huge proliferation of elaborate forms. All from just crossings and restatements.",
+          "These forms we wrote, when reduced again, all boil down to Distinction or No Distinction --",
+          "but the tree structure you can create has a huge number of possibilities.",
+          "A countably infinite jungle.",
+          "This gives you some insight into a small part of what we study here.",
+          "Think on this, and we'll speak again soon."
+        ],
+        "pt-br": [
+          "Há outra obra do nosso cânone, que se inspira",
+          "da tradição taoísta, mas dá a ela um toque matemático.",
+          "Você deve se lembrar de que primeiro o Dao cria ou dá origem ao Um, o Um cria o Dois, e assim por diante.",
+          "Então queremos examinar a ideia de passar de nada que seja identificável,",
+          "para uma coisa identificável, para muitas coisas identificáveis.",
+          "Vamos considerar a ideia de distinção: linhas traçadas para distinguir as coisas umas das outras.",
+          "Você diz distinguir em vez de criar, então as coisas já estão criadas?",
+          "É outra visão da criação. Eu disse \"nada que seja identificável\",",
+          "mas não imagine isso como um vazio físico. É mais como um potencial que permeia tudo.",
+          "Um todo indiferenciado não precisa de distinção.",
+          "Mas, uma vez que dizemos que há Um, isso necessariamente envolve uma distinção:",
+          "entre esse Um, e aquilo que não é esse Um.",
+          "Para modelar isso matematicamente, o autor começou com o que chamou de Primeira Distinção.",
+          "Essa Distinção significa que agora temos duas coisas, A e Não A.",
+          "Uma vez que você tem uma fronteira, isso admite a possibilidade de cruzar a fronteira.",
+          "Você pode cruzar de A para Não A, ou de Não A para A.",
+          "Em uma escala mais humana, talvez Vivo para Morto, depois de volta para Vivo. Satisfeito para Entediado, depois de volta para Satisfeito.",
+          "Você pode escrever cruzamentos matematicamente, usando um único sinal em ângulo reto que tanto",
+          "afirma que há uma distinção, como também diz \"eu a cruzei\".",
+          "E então, você pode introduzir duas regras para manipular seus escritos.",
+          "Se você cruza e depois cruza de volta, acaba onde começou: é o mesmo que ficar parado.",
+          "O contrário também vale. Em qualquer lugar em que você ficou parado, ou seja, não escreveu nada,",
+          "você pode substituir isso por cruzar e depois cruzar de volta,",
+          "que fica parecendo um sinal em ângulo reto dentro de outro.",
+          "E marcar a mesma distinção duas vezes é o mesmo que marcá-la uma vez...",
+          "você está apenas dizendo a mesma coisa duas vezes, de forma redundante.",
+          "(Isso parece dois sinais em ângulo reto um ao lado do outro.)",
+          "Então, em qualquer lugar em que você escreveu uma distinção, pode escrevê-la duas vezes, três vezes, quantas quiser.",
+          "Com apenas essas duas regras de reescrita, uma árvore pode florescer e ficar enorme, tão grande quanto você quiser.",
+          "Você sabe o que quero dizer com árvore, no sentido matemático?",
+          "Temos um subcampo bem grande que as estuda. Não é o tipo de coisa que entra no meu trabalho, mas conheço a ideia básica.",
+          "Ótimo.",
+          "Você pode continuar fazendo crescer os ramos dessa árvore,",
+          "substituindo uma coisa por outra por meio de reescritas incrementais,",
+          "expandindo a expressão pelo tempo que sua paciência permitir.",
+          "E o Dao é muito paciente.",
+          "Com todos os nossos rabiscos, acabamos de criar",
+          "uma enorme proliferação de formas elaboradas. Tudo só a partir de cruzamentos e reiterações.",
+          "Essas formas que escrevemos, quando reduzidas de novo, todas se resumem à Distinção ou Nenhuma Distinção;",
+          "mas a estrutura em árvore que você pode criar tem um número enorme de possibilidades.",
+          "Uma selva infinita enumerável.",
+          "Isso lhe dá alguma visão de uma pequena parte do que estudamos aqui.",
+          "Pense nisso, e falaremos de novo em breve."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "Clip identities differ from English"
+      },
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115345348,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_sky_laws_of_form",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              26.0,
+              1.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 10987,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "audiolog_u_computation",
+      "clips": [
+        {
+          "id": "audiolog_u_computation_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 1.255354,
+          "src": "audio/clips/audiolog_u_computation_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Do you recognize this?"
+            ],
+            "pt-br": [
+              "Você reconhece isto?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_1__director.wav",
+            "subtitleCueLines": [
+              14498
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 11.080667,
+          "src": "audio/clips/audiolog_u_computation_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Ahh, the Clayson's Field. Though we only know it by still images in books and papers;",
+              "I've never seen this kind of smooth rendition. Beautiful!"
+            ],
+            "pt-br": [
+              "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
+              "Nunca vi uma representação tão fluida. Que beleza!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_2__sokoban.wav",
+            "subtitleCueLines": [
+              14502,
+              14507
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_3__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 16.735271,
+          "src": "audio/clips/audiolog_u_computation_3__director.mp3",
+          "transcripts": {
+            "en": [
+              "It's one of the simplest examples of running rules on repeated state --",
+              "where the starting state itself is just always zero.",
+              "Square it, add the two-dimensional constant for that position in the plane, and that's the new number, and repeat.",
+              "See how long your number survives, and color accordingly. And, you see ..."
+            ],
+            "pt-br": [
+              "É um dos exemplos mais simples de aplicar regras a um estado repetido...",
+              "em que o próprio estado inicial é sempre zero.",
+              "Eleve ao quadrado, some a constante bidimensional daquela posição no plano, e esse é o novo número; repita.",
+              "Veja quanto tempo seu número sobrevive, e pinte de acordo. E, veja só..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_3__director.wav",
+            "subtitleCueLines": [
+              14512,
+              14516,
+              14520,
+              14527
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.534542,
+          "src": "audio/clips/audiolog_u_computation_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Infinite detail. Incredible complexity."
+            ],
+            "pt-br": [
+              "Detalhe infinito. Complexidade incrível."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_4__sokoban.wav",
+            "subtitleCueLines": [
+              14531
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_5__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 24.525188,
+          "src": "audio/clips/audiolog_u_computation_5__director.mp3",
+          "transcripts": {
+            "en": [
+              "Glad you understand. I'll give you this to play with. The important thing to internalize --",
+              "and absorb over and over in an attempt to understand ever-more-deeply --",
+              "is that the math is so simple, obviously we don't put the complexity in there, ourselves.",
+              "That complexity and structure is just *already there* somehow. It's fundamental.",
+              "How about this one, have you seen it?"
+            ],
+            "pt-br": [
+              "Que bom que você entendeu. Vou te dar isso para brincar. O importante é internalizar...",
+              "e absorver repetidas vezes, numa tentativa de entender cada vez mais profundamente...",
+              "é que, como a matemática é tão simples, obviamente não colocamos a complexidade ali por conta própria.",
+              "Essa complexidade e estrutura simplesmente já estão ali de algum jeito. É algo fundamental.",
+              "Que tal este aqui, você já viu?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_5__director.wav",
+            "subtitleCueLines": [
+              14534,
+              14538,
+              14542,
+              14546,
+              14551
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_6__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.332667,
+          "src": "audio/clips/audiolog_u_computation_6__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "No, ... no idea what that is."
+            ],
+            "pt-br": [
+              "Não... não faço ideia do que é isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_6__sokoban.wav",
+            "subtitleCueLines": [
+              14555
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_7__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 21.279438,
+          "src": "audio/clips/audiolog_u_computation_7__director.mp3",
+          "transcripts": {
+            "en": [
+              "I'll leave you to play with it. This one is called \"Life\",",
+              "named long ago, conceived as an analogy for biological cells reproducing and dying.",
+              "It's another example of applying simple rules, repeatedly, to initial world state.",
+              "This time the rules are exactly the same at every point in the space.",
+              "Experiment; see what you can figure out."
+            ],
+            "pt-br": [
+              "Vou deixar você brincar com ele. Este aqui se chama “Vida”,",
+              "batizado há muito tempo, concebido como uma analogia para células biológicas que se reproduzem e morrem.",
+              "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
+              "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
+              "Experimente; veja o que consegue descobrir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_7__director.wav",
+            "subtitleCueLines": [
+              14558,
+              14562,
+              14566,
+              14570,
+              14574
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Do you recognize this?",
+          "Ahh, the Clayson's Field. Though we only know it by still images in books and papers;",
+          "I've never seen this kind of smooth rendition. Beautiful!",
+          "It's one of the simplest examples of running rules on repeated state --",
+          "where the starting state itself is just always zero.",
+          "Square it, add the two-dimensional constant for that position in the plane, and that's the new number, and repeat.",
+          "See how long your number survives, and color accordingly. And, you see ...",
+          "Infinite detail. Incredible complexity.",
+          "Glad you understand. I'll give you this to play with. The important thing to internalize --",
+          "and absorb over and over in an attempt to understand ever-more-deeply --",
+          "is that the math is so simple, obviously we don't put the complexity in there, ourselves.",
+          "That complexity and structure is just *already there* somehow. It's fundamental.",
+          "How about this one, have you seen it?",
+          "No, ... no idea what that is.",
+          "I'll leave you to play with it. This one is called \"Life\",",
+          "named long ago, conceived as an analogy for biological cells reproducing and dying.",
+          "It's another example of applying simple rules, repeatedly, to initial world state.",
+          "This time the rules are exactly the same at every point in the space.",
+          "Experiment; see what you can figure out."
+        ],
+        "pt-br": [
+          "Você reconhece isto?",
+          "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
+          "Nunca vi uma representação tão fluida. Que beleza!",
+          "É um dos exemplos mais simples de aplicar regras a um estado repetido...",
+          "em que o próprio estado inicial é sempre zero.",
+          "Eleve ao quadrado, some a constante bidimensional daquela posição no plano, e esse é o novo número; repita.",
+          "Veja quanto tempo seu número sobrevive, e pinte de acordo. E, veja só...",
+          "Detalhe infinito. Complexidade incrível.",
+          "Que bom que você entendeu. Vou te dar isso para brincar. O importante é internalizar...",
+          "e absorver repetidas vezes, numa tentativa de entender cada vez mais profundamente...",
+          "é que, como a matemática é tão simples, obviamente não colocamos a complexidade ali por conta própria.",
+          "Essa complexidade e estrutura simplesmente já estão ali de algum jeito. É algo fundamental.",
+          "Que tal este aqui, você já viu?",
+          "Não... não faço ideia do que é isso.",
+          "Vou deixar você brincar com ele. Este aqui se chama “Vida”,",
+          "batizado há muito tempo, concebido como uma analogia para células biológicas que se reproduzem e morrem.",
+          "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
+          "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
+          "Experimente; veja o que consegue descobrir."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115345448,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_u_computation",
+            "rule": "exact-reference",
+            "coordinates": [
+              82.0,
+              26.0,
+              1.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 14497,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "paradise_lost_invocation_credits",
+      "clips": [
+        {
+          "id": "paradise_lost_invocation_credits",
+          "speaker": "jon",
+          "speakerName": "jon",
+          "duration": 65.518083,
+          "src": "audio/clips/paradise_lost_invocation_credits.mp3",
+          "transcripts": {
+            "en": [
+              "Instruct me, for Thou know'st; Thou from the first Wast present, and with mighty wings outspread",
+              "Dove-like satst brooding on the vast Abyss And mad'st it pregnant:",
+              "What in me is dark Illumin, what is low raise and support;",
+              "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men.",
+              "Unto ages of ages. Thy will be done. Amen."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "paradise_lost_invocation_credits.wav",
+            "subtitleCueLines": [
+              14775,
+              14777,
+              14782,
+              14787,
+              14791,
+              14797
+            ],
+            "explicitAudioReference": "paradise_lost_invocation_credits"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "Instruct me, for Thou know'st; Thou from the first Wast present, and with mighty wings outspread",
+          "Dove-like satst brooding on the vast Abyss And mad'st it pregnant:",
+          "What in me is dark Illumin, what is low raise and support;",
+          "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men.",
+          "Unto ages of ages. Thy will be done. Amen."
+        ],
+        "pt-br": [
+          "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
+          "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
+          "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
+          "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens.",
+          "Por todos os séculos dos séculos. Seja feita a tua vontade. Amém."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "Clip has no transcript in paradise_lost_invocation_credits"
+      },
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115345265,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "paradise_lost_invocation_credits",
+            "rule": "exact-reference",
+            "coordinates": [
+              59.0,
+              0.0,
+              2.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 14774,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "paradise_lost_invocation_2",
+      "clips": [
+        {
+          "id": "paradise_lost_invocation_2_01",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 38.811167,
+          "src": "audio/clips/paradise_lost_invocation_2_01.mp3",
+          "transcripts": {
+            "en": [
+              "Instruct me, for Thou know'st; Thou from the first Wast present, and with mighty wings outspread",
+              "Dove-like satst brooding on the vast Abyss And mad'st it pregnant:",
+              "What in me is dark Illumin, what is low raise and support;",
+              "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "paradise_lost_invocation_2_01.wav",
+            "subtitleCueLines": [
+              15253,
+              15257,
+              15261,
+              15265
+            ],
+            "explicitAudioReference": "paradise_lost_invocation_2_01"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "Instruct me, for Thou know'st; Thou from the first Wast present, and with mighty wings outspread",
+          "Dove-like satst brooding on the vast Abyss And mad'st it pregnant:",
+          "What in me is dark Illumin, what is low raise and support;",
+          "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men."
+        ],
+        "pt-br": [
+          "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
+          "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
+          "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
+          "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "Clip identities differ from English"
+      },
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115344136,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "paradise_lost_invocation_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.0,
+              38.0,
+              0.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 15252,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "actor_credits",
+      "clips": [
+        {
+          "id": "actor_credits",
+          "speaker": "misc",
+          "speakerName": "misc",
+          "duration": 40.116667,
+          "src": "audio/clips/actor_credits.mp3",
+          "transcripts": {
+            "en": [
+              "I'm Liam O'Brien and I am playing the Warrior.",
+              "I'm Sabrina. I play the Thief.",
+              "My name goes like this: Darin De Paul. And I am the voice of the Wizard.",
+              "My name is Matthew Waterson and I am playing the Druid.",
+              "I'm Anjali Bhimani and I am playing the Bard in Order of the Sinking Star.",
+              "My name is Erica Luttrell and I play Sailor.",
+              "I'm Jamieson Price. I'm the voice of Borraidus, the spirit of Sailor's ship.",
+              "Hi, I'm Sean Rohani, I play Caver in Order of the Sinking Star.",
+              "My name's Emily O'Brien, and I'm playing the Queen."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "actor_credits.wav",
+            "subtitleCueLines": [
+              15412,
+              15414,
+              15418,
+              15421,
+              15426,
+              15430,
+              15435,
+              15439,
+              15444,
+              15449
+            ],
+            "explicitAudioReference": "actor_credits"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "I'm Liam O'Brien and I am playing the Warrior.",
+          "I'm Sabrina. I play the Thief.",
+          "My name goes like this: Darin De Paul. And I am the voice of the Wizard.",
+          "My name is Matthew Waterson and I am playing the Druid.",
+          "I'm Anjali Bhimani and I am playing the Bard in Order of the Sinking Star.",
+          "My name is Erica Luttrell and I play Sailor.",
+          "I'm Jamieson Price. I'm the voice of Borraidus, the spirit of Sailor's ship.",
+          "Hi, I'm Sean Rohani, I play Caver in Order of the Sinking Star.",
+          "My name's Emily O'Brien, and I'm playing the Queen."
+        ],
+        "pt-br": []
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "'actor_credits'"
+      },
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115345817,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "actor_credits",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              2.0,
+              2.0
+            ],
+            "source": "data-common/intro.entities"
+          }
+        ],
+        "subtitleLine": 15411,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

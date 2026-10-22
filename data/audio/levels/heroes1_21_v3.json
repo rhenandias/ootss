@@ -1,0 +1,744 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_21_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes_jail2",
+      "clips": [
+        {
+          "id": "heroes_jail2_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.066583,
+          "src": "audio/clips/heroes_jail2_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "You said bars were no hard matter..."
+            ],
+            "pt-br": [
+              "Você disse que grades não eram problema..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_1__warrior.wav",
+            "subtitleCueLines": [
+              584
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.084854,
+          "src": "audio/clips/heroes_jail2_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "... and tempted Providence! No bars this time!"
+            ],
+            "pt-br": [
+              "... e tentou a Providência! Sem grades desta vez!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_2__thief.wav",
+            "subtitleCueLines": [
+              587
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_3__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 4.365812,
+          "src": "audio/clips/heroes_jail2_3__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Indeed, no more bars for you, Gravy Sorcerer!"
+            ],
+            "pt-br": [
+              "Com certeza, chega de grades para você, Mago do Molho!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_3__magistrate.wav",
+            "subtitleCueLines": [
+              591
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.110854,
+          "src": "audio/clips/heroes_jail2_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "You -- !"
+            ],
+            "pt-br": [
+              "Seu...!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_4__wizard.wav",
+            "subtitleCueLines": [
+              595
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 0.821438,
+          "src": "audio/clips/heroes_jail2_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "You!"
+            ],
+            "pt-br": [
+              "Você!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_5__thief.wav",
+            "subtitleCueLines": [
+              599
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_6__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.786,
+          "src": "audio/clips/heroes_jail2_6__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "You!"
+            ],
+            "pt-br": [
+              "Você!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_6__warrior.wav",
+            "subtitleCueLines": [
+              602
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_7__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 7.780854,
+          "src": "audio/clips/heroes_jail2_7__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Let us be off, Ratleigh, and leave them to ponder their mistakes... of which, there are so, SO many."
+            ],
+            "pt-br": [
+              "Vamos embora, Ratleigh, e deixemos que eles reflitam sobre seus erros... dos quais há tantos, TANTOS."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_7__magistrate.wav",
+            "subtitleCueLines": [
+              605
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_8__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.379417,
+          "src": "audio/clips/heroes_jail2_8__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Wait! You still haven't paid us for the appraisal!"
+            ],
+            "pt-br": [
+              "Espera! Você ainda não pagou a gente pela avaliação!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_8__wizard.wav",
+            "subtitleCueLines": [
+              610
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You said bars were no hard matter...",
+          "... and tempted Providence! No bars this time!",
+          "Indeed, no more bars for you, Gravy Sorcerer!",
+          "You -- !",
+          "You!",
+          "You!",
+          "Let us be off, Ratleigh, and leave them to ponder their mistakes... of which, there are so, SO many.",
+          "Wait! You still haven't paid us for the appraisal!"
+        ],
+        "pt-br": [
+          "Você disse que grades não eram problema...",
+          "... e tentou a Providência! Sem grades desta vez!",
+          "Com certeza, chega de grades para você, Mago do Molho!",
+          "Seu...!",
+          "Você!",
+          "Você!",
+          "Vamos embora, Ratleigh, e deixemos que eles reflitam sobre seus erros... dos quais há tantos, TANTOS.",
+          "Espera! Você ainda não pagou a gente pela avaliação!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 111149309,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes_jail2",
+            "rule": "exact-reference",
+            "coordinates": [
+              -1.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_21_v3.entities"
+          }
+        ],
+        "subtitleLine": 583,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_jail2_mid",
+      "clips": [
+        {
+          "id": "heroes_jail2_mid_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 5.731667,
+          "src": "audio/clips/heroes_jail2_mid_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "He's high-enough ranked, he can command the Crawler to depart.",
+              "We're not likely to catch him."
+            ],
+            "pt-br": [
+              "A patente dele é alta o suficiente pra ordenar que a Esteira parta.",
+              "Duvido que a gente consiga alcançar ele."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid_1__wizard.wav",
+            "subtitleCueLines": [
+              620,
+              624
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_mid_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.395396,
+          "src": "audio/clips/heroes_jail2_mid_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "There's another way across the Badlands."
+            ],
+            "pt-br": [
+              "Tem outro caminho pelas Terras Áridas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid_2__warrior.wav",
+            "subtitleCueLines": [
+              627
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_mid_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.352333,
+          "src": "audio/clips/heroes_jail2_mid_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Oh ... hmm?"
+            ],
+            "pt-br": [
+              "Ah... hã?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid_3__wizard.wav",
+            "subtitleCueLines": [
+              630
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_mid_4__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.622,
+          "src": "audio/clips/heroes_jail2_mid_4__thief.mp3",
+          "transcripts": {
+            "en": [
+              "The Caravan, the Royal Caravan?",
+              "Valens, can you get us in with them?"
+            ],
+            "pt-br": [
+              "Caravana... A Caravana Real?",
+              "Valens, consegue apresentar a gente?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid_4__thief.wav",
+            "subtitleCueLines": [
+              633,
+              637
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_mid_5__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.849,
+          "src": "audio/clips/heroes_jail2_mid_5__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Even if ... first day of the season isn't for two weeks yet."
+            ],
+            "pt-br": [
+              "Mesmo que... Ainda faltem duas semanas pro primeiro dia da estação."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid_5__wizard.wav",
+            "subtitleCueLines": [
+              640
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "He's high-enough ranked, he can command the Crawler to depart.",
+          "We're not likely to catch him.",
+          "There's another way across the Badlands.",
+          "Oh ... hmm?",
+          "The Caravan, the Royal Caravan?",
+          "Valens, can you get us in with them?",
+          "Even if ... first day of the season isn't for two weeks yet."
+        ],
+        "pt-br": [
+          "A patente dele é alta o suficiente pra ordenar que a Esteira parta.",
+          "Duvido que a gente consiga alcançar ele.",
+          "Tem outro caminho pelas Terras Áridas.",
+          "Ah... hã?",
+          "Caravana... A Caravana Real?",
+          "Valens, consegue apresentar a gente?",
+          "Mesmo que... Ainda faltem duas semanas pro primeiro dia da estação."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343365,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes_jail2_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.534595966339111,
+              1.051976203918457,
+              -1.9073486328125e-06
+            ],
+            "source": "data-common/heroes1_21_v3.entities"
+          }
+        ],
+        "subtitleLine": 619,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_jail2_mid2",
+      "clips": [
+        {
+          "id": "heroes_jail2_mid2_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 11.0575,
+          "src": "audio/clips/heroes_jail2_mid2_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "If the King knew his head Magistrate's exceeding his charge,",
+              "crystalizing lesser nobles without rhyme nor reason...",
+              "he might consider it an emergency."
+            ],
+            "pt-br": [
+              "Se o Rei soubesse que seu Magistrado-chefe está extrapolando seu cargo,",
+              "cristalizando nobres de menor título sem motivo algum...",
+              "ele poderia tratar como uma emergência."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid2_1__wizard.wav",
+            "subtitleCueLines": [
+              649,
+              653,
+              657
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_mid2_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.810104,
+          "src": "audio/clips/heroes_jail2_mid2_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "We can play it up a little, insinuate he's looking to usurp the throne."
+            ],
+            "pt-br": [
+              "Podemos exagerar um pouco, insinuar que ele quer usurpar o trono."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid2_2__warrior.wav",
+            "subtitleCueLines": [
+              660
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_mid2_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 7.143333,
+          "src": "audio/clips/heroes_jail2_mid2_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Ooh. Which he may really be!",
+              "If I were the King, I'd send the Caravan immediately!",
+              "To get him!!"
+            ],
+            "pt-br": [
+              "Uuh. O que ele talvez queira de verdade!",
+              "Se eu fosse o Rei, mandaria a Caravana imediatamente!",
+              "Para pegá-lo!!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_mid2_3__thief.wav",
+            "subtitleCueLines": [
+              664,
+              667,
+              671
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If the King knew his head Magistrate's exceeding his charge,",
+          "crystalizing lesser nobles without rhyme nor reason...",
+          "he might consider it an emergency.",
+          "We can play it up a little, insinuate he's looking to usurp the throne.",
+          "Ooh. Which he may really be!",
+          "If I were the King, I'd send the Caravan immediately!",
+          "To get him!!"
+        ],
+        "pt-br": [
+          "Se o Rei soubesse que seu Magistrado-chefe está extrapolando seu cargo,",
+          "cristalizando nobres de menor título sem motivo algum...",
+          "ele poderia tratar como uma emergência.",
+          "Podemos exagerar um pouco, insinuar que ele quer usurpar o trono.",
+          "Uuh. O que ele talvez queira de verdade!",
+          "Se eu fosse o Rei, mandaria a Caravana imediatamente!",
+          "Para pegá-lo!!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343367,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes_jail2_mid2",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.179357051849365,
+              4.659584045410156,
+              0.18562698364257812
+            ],
+            "source": "data-common/heroes1_21_v3.entities"
+          }
+        ],
+        "subtitleLine": 648,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_jail2_end",
+      "clips": [
+        {
+          "id": "heroes_jail2_end_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.82375,
+          "src": "audio/clips/heroes_jail2_end_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "The Caravan! I bet we'll meet all kinds of new friends."
+            ],
+            "pt-br": [
+              "A Caravana! Aposto que vamos conhecer todo tipo de gente nova."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_end_1__thief.wav",
+            "subtitleCueLines": [
+              678
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_end_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 4.405083,
+          "src": "audio/clips/heroes_jail2_end_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "After being stuck in this place, I'll enjoy travelling in luxury..."
+            ],
+            "pt-br": [
+              "Depois de ficar preso neste lugar, vou gostar de viajar com luxo..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_end_2__wizard.wav",
+            "subtitleCueLines": [
+              682
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_end_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.688687,
+          "src": "audio/clips/heroes_jail2_end_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I've heard the food is good. They'll have plenty of gravy for you."
+            ],
+            "pt-br": [
+              "Ouvi falar que a comida é boa. Vai ter molho de sobra pra você."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_end_3__warrior.wav",
+            "subtitleCueLines": [
+              686
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_end_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.093854,
+          "src": "audio/clips/heroes_jail2_end_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Don't you -- !"
+            ],
+            "pt-br": [
+              "Nem pense...!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_end_4__wizard.wav",
+            "subtitleCueLines": [
+              690
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_end_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.974333,
+          "src": "audio/clips/heroes_jail2_end_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Save the arguing for the King! Or the ... Lord Chamberlain, or whoever we can get to!"
+            ],
+            "pt-br": [
+              "Deixem a discussão pro Rei! Ou pro... Camareiro-mor, ou quem mais conseguirmos encontrar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_end_5__thief.wav",
+            "subtitleCueLines": [
+              694
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_end_6__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.806792,
+          "src": "audio/clips/heroes_jail2_end_6__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Agreed. Let's go."
+            ],
+            "pt-br": [
+              "Concordo. Vamos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_end_6__warrior.wav",
+            "subtitleCueLines": [
+              699
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail2_end_7__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 0.963708,
+          "src": "audio/clips/heroes_jail2_end_7__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Let's go."
+            ],
+            "pt-br": [
+              "Vamos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail2_end_7__wizard.wav",
+            "subtitleCueLines": [
+              702
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The Caravan! I bet we'll meet all kinds of new friends.",
+          "After being stuck in this place, I'll enjoy travelling in luxury...",
+          "I've heard the food is good. They'll have plenty of gravy for you.",
+          "Don't you -- !",
+          "Save the arguing for the King! Or the ... Lord Chamberlain, or whoever we can get to!",
+          "Agreed. Let's go.",
+          "Let's go."
+        ],
+        "pt-br": [
+          "A Caravana! Aposto que vamos conhecer todo tipo de gente nova.",
+          "Depois de ficar preso neste lugar, vou gostar de viajar com luxo...",
+          "Ouvi falar que a comida é boa. Vai ter molho de sobra pra você.",
+          "Nem pense...!",
+          "Deixem a discussão pro Rei! Ou pro... Camareiro-mor, ou quem mais conseguirmos encontrar!",
+          "Concordo. Vamos.",
+          "Vamos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 111149309,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes_jail2_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              -1.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_21_v3.entities"
+          }
+        ],
+        "subtitleLine": 677,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

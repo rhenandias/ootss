@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "red_handed",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_thief_open_beam",
+      "clips": [
+        {
+          "id": "sp_thief_open_beam_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.686125,
+          "src": "audio/clips/sp_thief_open_beam_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "These beams make me feel so tingly. Like I could spring any lock in the world."
+            ],
+            "pt-br": [
+              "Esses feixes me deixam todo formigado. Como se eu pudesse abrir qualquer fechadura do mundo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_thief_open_beam_1__thief.wav",
+            "subtitleCueLines": [
+              7728
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "These beams make me feel so tingly. Like I could spring any lock in the world."
+        ],
+        "pt-br": [
+          "Esses feixes me deixam todo formigado. Como se eu pudesse abrir qualquer fechadura do mundo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "sp_thief_open_beam",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.444733142852783,
+              5.288835048675537,
+              0.04796886444091797
+            ],
+            "source": "data-common/red_handed.entities"
+          }
+        ],
+        "subtitleLine": 7727,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

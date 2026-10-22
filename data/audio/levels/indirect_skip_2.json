@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "level": "indirect_skip_2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_warrior_sailor_3",
+      "clips": [
+        {
+          "id": "hs_warrior_sailor_3_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 9.153333,
+          "src": "audio/clips/hs_warrior_sailor_3_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "So *before* he gets put into the 'boat', the Guild makes a deal with him?",
+              "And he's a ghost. So your Guild can talk to ghosts?"
+            ],
+            "pt-br": [
+              "Então *antes* de ele ser colocado no barco, a guilda faz um acordo com ele?",
+              "E ele é um fantasma. Então a sua guilda consegue falar com fantasmas?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_3_1__warrior.wav",
+            "subtitleCueLines": [
+              8269,
+              8273
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_3_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.710875,
+          "src": "audio/clips/hs_warrior_sailor_3_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Not 'ghosts'. But yes, basically."
+            ],
+            "pt-br": [
+              "Não são fantasmas. Mas é basicamente isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_3_2__sailor.wav",
+            "subtitleCueLines": [
+              8277
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_3_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.778,
+          "src": "audio/clips/hs_warrior_sailor_3_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "How do they talk to the ghosts? ... Spirits?"
+            ],
+            "pt-br": [
+              "Como eles falam com fantasmas? ... Espíritos?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_3_3__warrior.wav",
+            "subtitleCueLines": [
+              8280
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_3_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 30.7055,
+          "src": "audio/clips/hs_warrior_sailor_3_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It's a channel that requires cooperation on both sides.",
+              "Our side, the Guild side, it's a trade secret, protected fiercely. They don't tell *me* those kinds of details.",
+              "Borraidus' side is a mystery to me. Even just the basics of his life, he's tried to explain several times. I never get it.",
+              "There's nothing there, nothing that we would call a thing. So I don't understand how anything happens.",
+              "But *he* says a lot of things happen."
+            ],
+            "pt-br": [
+              "É um canal de mão dupla que exige cooperação dos dois lados.",
+              "Do nosso lado, o lado da Guilda, isso é considerado segredo comercial, guardado com muito rigor. Não contam *a mim* esse tipo de coisa.",
+              "O lado de Borraidus é um mistério para mim. Mesmo o básico da vida dele, ele já tentou explicar várias vezes, e eu nunca entendo.",
+              "Não há nada ali, nada que chamaríamos de coisa. Então não entendo como algo acontece.",
+              "Mas *ele* diz que muitas coisas acontecem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_3_4__sailor.wav",
+            "subtitleCueLines": [
+              8284,
+              8288,
+              8293,
+              8298,
+              8303
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So *before* he gets put into the 'boat', the Guild makes a deal with him?",
+          "And he's a ghost. So your Guild can talk to ghosts?",
+          "Not 'ghosts'. But yes, basically.",
+          "How do they talk to the ghosts? ... Spirits?",
+          "It's a channel that requires cooperation on both sides.",
+          "Our side, the Guild side, it's a trade secret, protected fiercely. They don't tell *me* those kinds of details.",
+          "Borraidus' side is a mystery to me. Even just the basics of his life, he's tried to explain several times. I never get it.",
+          "There's nothing there, nothing that we would call a thing. So I don't understand how anything happens.",
+          "But *he* says a lot of things happen."
+        ],
+        "pt-br": [
+          "Então *antes* de ele ser colocado no barco, a guilda faz um acordo com ele?",
+          "E ele é um fantasma. Então a sua guilda consegue falar com fantasmas?",
+          "Não são fantasmas. Mas é basicamente isso.",
+          "Como eles falam com fantasmas? ... Espíritos?",
+          "É um canal de mão dupla que exige cooperação dos dois lados.",
+          "Do nosso lado, o lado da Guilda, isso é considerado segredo comercial, guardado com muito rigor. Não contam *a mim* esse tipo de coisa.",
+          "O lado de Borraidus é um mistério para mim. Mesmo o básico da vida dele, ele já tentou explicar várias vezes, e eu nunca entendo.",
+          "Não há nada ali, nada que chamaríamos de coisa. Então não entendo como algo acontece.",
+          "Mas *ele* diz que muitas coisas acontecem."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360264,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_warrior_sailor_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              20.0,
+              17.0,
+              0.0
+            ],
+            "source": "data-common/indirect_skip_2.entities"
+          }
+        ],
+        "subtitleLine": 8268,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

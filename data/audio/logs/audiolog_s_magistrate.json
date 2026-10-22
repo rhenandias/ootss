@@ -1,0 +1,378 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_s_magistrate",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_s_magistrate",
+      "clips": [
+        {
+          "id": "audiolog_s_magistrate_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 9.721646,
+          "src": "audio/clips/audiolog_s_magistrate_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "... and though it feels uncouth to say outright, I must admit: the prospect of greatly prolonging my own life is ... quite a temptation."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_1__sokoban.wav",
+            "subtitleCueLines": [
+              10364
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_2__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 9.330146,
+          "src": "audio/clips/audiolog_s_magistrate_2__acting.mp3",
+          "transcripts": {
+            "en": [
+              "That's not surprising. But long-term, if you're here for inauthentic reasons, it'll become obvious...",
+              "Oh. Look who we have here."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_2__acting.wav",
+            "subtitleCueLines": [
+              10369,
+              10375
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_1__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 11.374917,
+          "src": "audio/clips/audiolog_s_magistrate_1__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Found you at last!",
+              "As you requested, I've been working at the four-four.",
+              "Attempting to mend connections that have broken, and so forth.",
+              "Success is limited, but nonzero."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_1__magistrate.wav",
+            "subtitleCueLines": [
+              10379,
+              10383,
+              10387,
+              10391
+            ],
+            "explicitAudioReference": "audiolog_s_magistrate_1__magistrate"
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.782646,
+          "src": "audio/clips/audiolog_s_magistrate_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "By the Book, you're the -- !"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_4__sokoban.wav",
+            "subtitleCueLines": [
+              10394
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_3__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 6.032458,
+          "src": "audio/clips/audiolog_s_magistrate_3__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "None other. In the flesh. In the spirit. In the *soul*! Pleased to meet me."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_3__magistrate.wav",
+            "subtitleCueLines": [
+              10398
+            ],
+            "explicitAudioReference": "audiolog_s_magistrate_3__magistrate"
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_6__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.074,
+          "src": "audio/clips/audiolog_s_magistrate_6__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "How long --"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_6__sokoban.wav",
+            "subtitleCueLines": [
+              10403
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_5__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 11.101458,
+          "src": "audio/clips/audiolog_s_magistrate_5__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "By my proper time, it's been a good fourteen years. But, I am still the same man I was. Deep down. Somewhere.",
+              "You seem new.",
+              "Are you the Doorstead Fellow?"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_5__magistrate.wav",
+            "subtitleCueLines": [
+              10407,
+              10413,
+              10417
+            ],
+            "explicitAudioReference": "audiolog_s_magistrate_5__magistrate"
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_8__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.914333,
+          "src": "audio/clips/audiolog_s_magistrate_8__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I -- you --"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_8__sokoban.wav",
+            "subtitleCueLines": [
+              10421
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_7__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 9.099542,
+          "src": "audio/clips/audiolog_s_magistrate_7__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Outrageous how you just *showed up*, without an invitation.",
+              "I at least had to be judged worthy of an invite. But, welcome."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_7__magistrate.wav",
+            "subtitleCueLines": [
+              10425,
+              10430
+            ],
+            "explicitAudioReference": "audiolog_s_magistrate_7__magistrate"
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_7a__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 8.760563,
+          "src": "audio/clips/audiolog_s_magistrate_7a__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "I've been looking into his dynamics as a possible lower-density substitution within the four-four.",
+              "There is an option there. We should talk about it."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_7a__magistrate.wav",
+            "subtitleCueLines": [
+              10434,
+              10439
+            ],
+            "explicitAudioReference": "audiolog_s_magistrate_7a__magistrate"
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_10__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 1.819625,
+          "src": "audio/clips/audiolog_s_magistrate_10__acting.mp3",
+          "transcripts": {
+            "en": [
+              "We'll discuss in confidence."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_10__acting.wav",
+            "subtitleCueLines": [
+              10443
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_9__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 10.753354,
+          "src": "audio/clips/audiolog_s_magistrate_9__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Confidently.",
+              "You'll surmise this means I have connected back to your home. Which I have.",
+              "You can leave any time you want! From your diaries, it seems you're quite eager."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_9__magistrate.wav",
+            "subtitleCueLines": [
+              10446,
+              10449,
+              10454
+            ],
+            "explicitAudioReference": "audiolog_s_magistrate_9__magistrate"
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_12__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.263042,
+          "src": "audio/clips/audiolog_s_magistrate_12__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I'll discuss."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_12__sokoban.wav",
+            "subtitleCueLines": [
+              10459
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_magistrate_11__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 2.246875,
+          "src": "audio/clips/audiolog_s_magistrate_11__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "In confidence, of course."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_magistrate_11__magistrate.wav",
+            "subtitleCueLines": [
+              10463
+            ],
+            "explicitAudioReference": "audiolog_s_magistrate_11__magistrate"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "needs-review"
+      },
+      "transcripts": {
+        "en": [
+          "... and though it feels uncouth to say outright, I must admit: the prospect of greatly prolonging my own life is ... quite a temptation.",
+          "That's not surprising. But long-term, if you're here for inauthentic reasons, it'll become obvious...",
+          "Oh. Look who we have here.",
+          "Found you at last!",
+          "As you requested, I've been working at the four-four.",
+          "Attempting to mend connections that have broken, and so forth.",
+          "Success is limited, but nonzero.",
+          "By the Book, you're the -- !",
+          "None other. In the flesh. In the spirit. In the *soul*! Pleased to meet me.",
+          "How long --",
+          "By my proper time, it's been a good fourteen years. But, I am still the same man I was. Deep down. Somewhere.",
+          "You seem new.",
+          "Are you the Doorstead Fellow?",
+          "I -- you --",
+          "Outrageous how you just *showed up*, without an invitation.",
+          "I at least had to be judged worthy of an invite. But, welcome.",
+          "I've been looking into his dynamics as a possible lower-density substitution within the four-four.",
+          "There is an option there. We should talk about it.",
+          "We'll discuss in confidence.",
+          "Confidently.",
+          "You'll surmise this means I have connected back to your home. Which I have.",
+          "You can leave any time you want! From your diaries, it seems you're quite eager.",
+          "I'll discuss.",
+          "In confidence, of course."
+        ],
+        "pt-br": [
+          "E embora pareça indelicado dizer isso abertamente, devo confessar: a perspectiva de prolongar muito minha própria vida é... uma tentação e tanto.",
+          "Não me surpreende. Mas, a longo prazo, se você está aqui por motivos que não são genuínos, isso vai ficar óbvio...",
+          "Ah. Olha só quem está aqui.",
+          "Finalmente encontrei você!",
+          "Conforme pediu, estive trabalhando no quatro-quatro.",
+          "Tentando remendar conexões que se romperam e assim por diante.",
+          "O sucesso é limitado, mas não nulo.",
+          "Pelo Livro, você é o...!",
+          "Ninguém menos. Em carne e osso. Em espírito. Em alma! Prazer em me conhecer.",
+          "Quanto tempo...",
+          "Pelo meu tempo próprio, já se passaram bons quatorze anos. Mas eu ainda sou o mesmo homem que era. Lá no fundo. Em algum lugar.",
+          "Você parece novo.",
+          "Você é o Companheiro da Porta?",
+          "Eu... você...",
+          "É um absurdo como você simplesmente apareceu, sem convite.",
+          "Eu pelo menos tive que ser julgado digno de um convite. Mas, seja bem-vindo.",
+          "Eu vinha estudando suas dinâmicas como possível substituição de menor densidade dentro do quatro-quatro.",
+          "Há uma opção aí. Precisamos conversar sobre isso.",
+          "Vamos discutir em caráter confidencial.",
+          "Com confiança.",
+          "Você vai deduzir que isso significa que eu conectei de volta à sua casa. O que fiz.",
+          "Você pode ir embora quando quiser! Pelos seus diários, parece que está bastante ansioso.",
+          "Vou discutir.",
+          "Em confiança, claro."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "Clip identities differ from English"
+      }
+    }
+  ]
+}

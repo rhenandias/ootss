@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_19_jail",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes_jail",
+      "clips": [
+        {
+          "id": "heroes_jail_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.480646,
+          "src": "audio/clips/heroes_jail_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "That'll teach me to watch where I step."
+            ],
+            "pt-br": [
+              "Isso me ensina a olhar por onde ando."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail_1__warrior.wav",
+            "subtitleCueLines": [
+              542
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.529083,
+          "src": "audio/clips/heroes_jail_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Traps everywhere. I really shouldn't be enjoying this."
+            ],
+            "pt-br": [
+              "Armadilhas por todo lado. Eu não devia estar gostando tanto disso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail_2__thief.wav",
+            "subtitleCueLines": [
+              545
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_jail_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.759583,
+          "src": "audio/clips/heroes_jail_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Don't worry. Bars are no hard matter for me at all!"
+            ],
+            "pt-br": [
+              "Não se preocupe. Grades não são problema pra mim!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_jail_3__wizard.wav",
+            "subtitleCueLines": [
+              550
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "That'll teach me to watch where I step.",
+          "Traps everywhere. I really shouldn't be enjoying this.",
+          "Don't worry. Bars are no hard matter for me at all!"
+        ],
+        "pt-br": [
+          "Isso me ensina a olhar por onde ando.",
+          "Armadilhas por todo lado. Eu não devia estar gostando tanto disso.",
+          "Não se preocupe. Grades não são problema pra mim!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031889,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes_jail",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_19_jail.entities"
+          }
+        ],
+        "subtitleLine": 541,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

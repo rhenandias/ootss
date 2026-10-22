@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "level": "skipping_wrapping_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_wrapping_level_intro",
+      "clips": [
+        {
+          "id": "sp_wrapping_level_intro_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 11.634333,
+          "src": "audio/clips/sp_wrapping_level_intro_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Borraidus, what do you make of this? I feel strange about this one.",
+              "Borraidus? Are you there?",
+              "Okay then. This is the situation."
+            ],
+            "pt-br": [
+              "Borraidus, o que você acha disso? Tenho uma sensação estranha sobre isso.",
+              "Borraidus? Você está aí?",
+              "Certo, então. Esta é a situação."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_wrapping_level_intro_1__sailor.wav",
+            "subtitleCueLines": [
+              7473,
+              7479,
+              7484
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Borraidus, what do you make of this? I feel strange about this one.",
+          "Borraidus? Are you there?",
+          "Okay then. This is the situation."
+        ],
+        "pt-br": [
+          "Borraidus, o que você acha disso? Tenho uma sensação estranha sobre isso.",
+          "Borraidus? Você está aí?",
+          "Certo, então. Esta é a situação."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "sp_wrapping_level_intro",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/skipping_wrapping_v3.entities"
+          }
+        ],
+        "subtitleLine": 7472,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "sp_wrapping_level_intro_mid",
+      "clips": [
+        {
+          "id": "sp_wrapping_level_intro_mid_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.331167,
+          "src": "audio/clips/sp_wrapping_level_intro_mid_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Absurd, that a world could be this way."
+            ],
+            "pt-br": [
+              "É absurdo que um mundo possa ser assim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_wrapping_level_intro_mid_1__sailor.wav",
+            "subtitleCueLines": [
+              7493
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Absurd, that a world could be this way."
+        ],
+        "pt-br": [
+          "É absurdo que um mundo possa ser assim."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "sp_wrapping_level_intro_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.22344970703125,
+              13.18359375,
+              -0.05014801025390625
+            ],
+            "source": "data-common/skipping_wrapping_v3.entities"
+          }
+        ],
+        "subtitleLine": 7492,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "sp_wrapping_level_intro_end",
+      "clips": [
+        {
+          "id": "sp_wrapping_level_intro_end_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.387,
+          "src": "audio/clips/sp_wrapping_level_intro_end_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I can't imagine what the Guild will make of this..."
+            ],
+            "pt-br": [
+              "Não consigo imaginar o que a Guilda vai pensar disso..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_wrapping_level_intro_end_1__sailor.wav",
+            "subtitleCueLines": [
+              7501
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I can't imagine what the Guild will make of this..."
+        ],
+        "pt-br": [
+          "Não consigo imaginar o que a Guilda vai pensar disso..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "sp_wrapping_level_intro_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/skipping_wrapping_v3.entities"
+          }
+        ],
+        "subtitleLine": 7500,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

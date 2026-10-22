@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "bug_spray",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_bard_takes_wand",
+      "clips": [
+        {
+          "id": "sp_bard_takes_wand_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 5.166292,
+          "src": "audio/clips/sp_bard_takes_wand_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Brute force is not normally my way.",
+              "But we can have fun for a bit."
+            ],
+            "pt-br": [
+              "Força bruta não costuma ser o meu jeito.",
+              "Mas dá para se divertir com isso por um tempo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_bard_takes_wand_1__bard.wav",
+            "subtitleCueLines": [
+              7561,
+              7564
+            ],
+            "explicitAudioReference": "sp_bard_takes_wand_1__bard"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Brute force is not normally my way.",
+          "But we can have fun for a bit."
+        ],
+        "pt-br": [
+          "Força bruta não costuma ser o meu jeito.",
+          "Mas dá para se divertir com isso por um tempo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "sp_bard_takes_wand",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0031368732452393,
+              3.996399402618408,
+              1.9073486328125e-06
+            ],
+            "source": "data-common/bug_spray.entities"
+          }
+        ],
+        "subtitleLine": 7558,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

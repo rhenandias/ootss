@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "queen_og_first_orange_beam",
+    "audioKey": "63036988",
+    "triggerKind": "movement",
+    "blocks": [
+      "queen_og_first_orange_beam"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      1.0137553215026855,
+      0.9549374580383301,
+      1.5538339614868164
+    ],
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 63036988,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "queen_og_first_orange_beam",
+        "rule": "exact-reference",
+        "coordinates": [
+          11.447787284851074,
+          104.54940795898438,
+          0.027601242065429688
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "queen_og_first_orange_beam",
+      "clips": [
+        {
+          "id": "queen_og_first_orange_beam_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 1.662875,
+          "src": "audio/clips/queen_og_first_orange_beam_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Disorienting..."
+            ],
+            "pt-br": [
+              "Desorientador..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "queen_og_first_orange_beam_1__queen.wav",
+            "subtitleCueLines": [
+              11965
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Disorienting..."
+        ],
+        "pt-br": [
+          "Desorientador..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_play_of_form_1a",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_play_of_form_1a",
+      "clips": [
+        {
+          "id": "audiolog_sky_play_of_form_1a_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 29.288396,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "... the laws of physics, chemistry, astronomy, and so on.",
+              "So, what is Law? When viewed from inside Time,",
+              "the physical Law consists of a set of rules, not unlike the rules of a game:",
+              "when thing A and thing B interact, and the properties of A and B",
+              "are in such and such a way, the rulebook tells you the result.",
+              "Repeat these rules over and over, and that's physics happening, or chemistry, or any other set of laws you can codify."
+            ],
+            "pt-br": [
+              "... as leis da física, da química, da astronomia, e assim por diante.",
+              "Então, o que é a Lei? Quando vista de dentro do Tempo,",
+              "a Lei física consiste em um conjunto de regras, não muito diferente das regras de um jogo:",
+              "quando a coisa A e a coisa B interagem, e as propriedades de A e B",
+              "estão de tal ou tal maneira, o livro de regras diz qual é o resultado.",
+              "Repita essas regras várias e várias vezes, e é a física acontecendo, ou a química, ou qualquer outro conjunto de leis que você consiga codificar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_1__acting.wav",
+            "subtitleCueLines": [
+              9876,
+              9880,
+              9885,
+              9889,
+              9893,
+              9897
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1a_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.56075,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Population dynamics, the spread of disease."
+            ],
+            "pt-br": [
+              "Dinâmica populacional, a propagação de doenças."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_2__sokoban.wav",
+            "subtitleCueLines": [
+              9902
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1a_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 132.016625,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Indeed.",
+              "Rules operate on the current state of the world, and give us a new state of the world.",
+              "We would say they map state to state.",
+              "But rules don't *dryly* map state to state.",
+              "When the rules are chosen just right, they generate. They create consequences that are bountiful and sometimes deeply surprising.",
+              "And that brings us back to those spiritual traditions that say that the Universe is exploring form as an aspect of its own joy.",
+              "Our tradition is a descendant of those. We carry it on by seeing this Play of Form as the blooming of lawful possibility:",
+              "the creative explosion that happens as a result of rules operating on state.",
+              "When a Mirror and a Skipping Stone come together, and the result generates newness and surprise,",
+              "we observe this as a specific instance of the Universe's ever-unfolding process of creation.",
+              "We look with wide eyes; we try to submerge ourselves, soaking it up.",
+              "Somehow the Universe *wants* the Mirror and the Skipping Stone to play together.",
+              "When we bring these two elements near each other, some kind of potential is released:",
+              "this big explosion of possibility happens, and generates surprising ways for Mirror and Stone to interact.",
+              "And we sift through, we find the consequences that are most delightful and beautiful, or just unexpected,",
+              "and we frame them, to help Visitors like yourself appreciate this unfolding.",
+              "That's the why of all these puzzles. The puzzles draw frames around specific instances of unfolding.",
+              "And many instances, well-displayed together, fill out a rich, multidimensional image in our minds.",
+              "You see the similarities between one behavior and another.",
+              "You see the differences. You notice unique moments that seem to communicate something special, that defies verbalization.",
+              "From a constellation of examples, we build in our awareness",
+              "a vision of the Play of Form that we'd never achieve otherwise."
+            ],
+            "pt-br": [
+              "De fato.",
+              "As regras operam sobre o estado atual do mundo, e nos dão um novo estado do mundo.",
+              "Diríamos que elas mapeiam estado em estado.",
+              "Mas as regras não mapeiam estado em estado de forma seca.",
+              "Quando as regras são as certas, elas geram. Criam consequências abundantes e, às vezes, profundamente surpreendentes.",
+              "E isso nos traz de volta a essas tradições espirituais que dizem que o Universo está explorando a forma como um aspecto da própria alegria.",
+              "Nossa tradição descende delas. Damos continuidade a ela vendo esse Jogo de Forma como o florescer da possibilidade regida por leis:",
+              "a explosão criativa que acontece como resultado de regras operando sobre o estado.",
+              "Quando um Espelho e uma Pedra Quicante se juntam, e o resultado gera novidade e surpresa,",
+              "vemos isso como um caso específico da criação em constante desdobramento do Universo.",
+              "Observamos de olhos bem abertos; tentamos mergulhar, absorver tudo.",
+              "De algum modo o Universo quer que o Espelho e a Pedra Quicante brinquem juntos.",
+              "Quando aproximamos esses dois elementos, algum tipo de potencial é liberado:",
+              "essa grande explosão de possibilidades acontece, gerando formas surpreendentes de Espelho e Pedra interagirem.",
+              "E vamos filtrando, encontramos as consequências mais encantadoras e belas, ou simplesmente inesperadas,",
+              "e colocamos molduras nelas, para ajudar visitantes como você a apreciar esse desdobramento.",
+              "É para isso que existem todos esses quebra-cabeças. Eles emolduram exemplos específicos desse desdobramento.",
+              "E muitos casos, bem apresentados em conjunto, preenchem uma imagem rica e multidimensional em nossa mente.",
+              "Você vê as semelhanças entre um comportamento e outro.",
+              "Você vê as diferenças. Percebe momentos únicos que parecem comunicar algo especial, que desafia a verbalização.",
+              "A partir de uma constelação de exemplos, construímos em nossa consciência",
+              "uma visão do Jogo de Forma que nunca alcançaríamos de outro modo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_3__acting.wav",
+            "subtitleCueLines": [
+              9905,
+              9908,
+              9913,
+              9916,
+              9919,
+              9925,
+              9931,
+              9936,
+              9941,
+              9945,
+              9949,
+              9953,
+              9957,
+              9961,
+              9966,
+              9971,
+              9976,
+              9981,
+              9985,
+              9990,
+              9995,
+              9999
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1a_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.370687,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I'll do what I can to take note of these ideas."
+            ],
+            "pt-br": [
+              "Farei o que puder para me familiarizar com essas ideias."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_4__sokoban.wav",
+            "subtitleCueLines": [
+              10003
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1a_5__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 15.296229,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_5__acting.mp3",
+          "transcripts": {
+            "en": [
+              "You don't have to believe them. A decent fraction of the Order does not!",
+              "But your job for now, ignoring what anyone believes or doesn't believe,",
+              "is just to open your eyes *really wide* and just *see* it. Just see the phenomena."
+            ],
+            "pt-br": [
+              "Você não precisa acreditar nelas. Uma boa parte da Ordem não acredita!",
+              "Mas sua tarefa por enquanto, ignorando no que qualquer um acredita ou deixa de acreditar,",
+              "é simplesmente abrir bem os olhos de verdade e apenas ver isso. Apenas veja os fenômenos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_5__acting.wav",
+            "subtitleCueLines": [
+              10008,
+              10012,
+              10016
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1a_6__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 5.182479,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_6__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I can do that. Seeing objectively is the foundation of Natural Philosophy, after all."
+            ],
+            "pt-br": [
+              "Posso fazer isso. Enxergar com objetividade é a base da Filosofia Natural, afinal."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_6__sokoban.wav",
+            "subtitleCueLines": [
+              10020
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1a_7__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 5.934729,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_7__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Good. We'll speak again, after you've explored a bit further.",
+              "See you later, Alligator."
+            ],
+            "pt-br": [
+              "Ótimo. Falaremos de novo, depois que você explorar um pouco mais.",
+              "Até, jacaré."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_7__acting.wav",
+            "subtitleCueLines": [
+              10026,
+              10030
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1a_8__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.220687,
+          "src": "audio/clips/audiolog_sky_play_of_form_1a_8__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "What ... what?"
+            ],
+            "pt-br": [
+              "O que... o quê?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1a_8__sokoban.wav",
+            "subtitleCueLines": [
+              10034
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... the laws of physics, chemistry, astronomy, and so on.",
+          "So, what is Law? When viewed from inside Time,",
+          "the physical Law consists of a set of rules, not unlike the rules of a game:",
+          "when thing A and thing B interact, and the properties of A and B",
+          "are in such and such a way, the rulebook tells you the result.",
+          "Repeat these rules over and over, and that's physics happening, or chemistry, or any other set of laws you can codify.",
+          "Population dynamics, the spread of disease.",
+          "Indeed.",
+          "Rules operate on the current state of the world, and give us a new state of the world.",
+          "We would say they map state to state.",
+          "But rules don't *dryly* map state to state.",
+          "When the rules are chosen just right, they generate. They create consequences that are bountiful and sometimes deeply surprising.",
+          "And that brings us back to those spiritual traditions that say that the Universe is exploring form as an aspect of its own joy.",
+          "Our tradition is a descendant of those. We carry it on by seeing this Play of Form as the blooming of lawful possibility:",
+          "the creative explosion that happens as a result of rules operating on state.",
+          "When a Mirror and a Skipping Stone come together, and the result generates newness and surprise,",
+          "we observe this as a specific instance of the Universe's ever-unfolding process of creation.",
+          "We look with wide eyes; we try to submerge ourselves, soaking it up.",
+          "Somehow the Universe *wants* the Mirror and the Skipping Stone to play together.",
+          "When we bring these two elements near each other, some kind of potential is released:",
+          "this big explosion of possibility happens, and generates surprising ways for Mirror and Stone to interact.",
+          "And we sift through, we find the consequences that are most delightful and beautiful, or just unexpected,",
+          "and we frame them, to help Visitors like yourself appreciate this unfolding.",
+          "That's the why of all these puzzles. The puzzles draw frames around specific instances of unfolding.",
+          "And many instances, well-displayed together, fill out a rich, multidimensional image in our minds.",
+          "You see the similarities between one behavior and another.",
+          "You see the differences. You notice unique moments that seem to communicate something special, that defies verbalization.",
+          "From a constellation of examples, we build in our awareness",
+          "a vision of the Play of Form that we'd never achieve otherwise.",
+          "I'll do what I can to take note of these ideas.",
+          "You don't have to believe them. A decent fraction of the Order does not!",
+          "But your job for now, ignoring what anyone believes or doesn't believe,",
+          "is just to open your eyes *really wide* and just *see* it. Just see the phenomena.",
+          "I can do that. Seeing objectively is the foundation of Natural Philosophy, after all.",
+          "Good. We'll speak again, after you've explored a bit further.",
+          "See you later, Alligator.",
+          "What ... what?"
+        ],
+        "pt-br": [
+          "... as leis da física, da química, da astronomia, e assim por diante.",
+          "Então, o que é a Lei? Quando vista de dentro do Tempo,",
+          "a Lei física consiste em um conjunto de regras, não muito diferente das regras de um jogo:",
+          "quando a coisa A e a coisa B interagem, e as propriedades de A e B",
+          "estão de tal ou tal maneira, o livro de regras diz qual é o resultado.",
+          "Repita essas regras várias e várias vezes, e é a física acontecendo, ou a química, ou qualquer outro conjunto de leis que você consiga codificar.",
+          "Dinâmica populacional, a propagação de doenças.",
+          "De fato.",
+          "As regras operam sobre o estado atual do mundo, e nos dão um novo estado do mundo.",
+          "Diríamos que elas mapeiam estado em estado.",
+          "Mas as regras não mapeiam estado em estado de forma seca.",
+          "Quando as regras são as certas, elas geram. Criam consequências abundantes e, às vezes, profundamente surpreendentes.",
+          "E isso nos traz de volta a essas tradições espirituais que dizem que o Universo está explorando a forma como um aspecto da própria alegria.",
+          "Nossa tradição descende delas. Damos continuidade a ela vendo esse Jogo de Forma como o florescer da possibilidade regida por leis:",
+          "a explosão criativa que acontece como resultado de regras operando sobre o estado.",
+          "Quando um Espelho e uma Pedra Quicante se juntam, e o resultado gera novidade e surpresa,",
+          "vemos isso como um caso específico da criação em constante desdobramento do Universo.",
+          "Observamos de olhos bem abertos; tentamos mergulhar, absorver tudo.",
+          "De algum modo o Universo quer que o Espelho e a Pedra Quicante brinquem juntos.",
+          "Quando aproximamos esses dois elementos, algum tipo de potencial é liberado:",
+          "essa grande explosão de possibilidades acontece, gerando formas surpreendentes de Espelho e Pedra interagirem.",
+          "E vamos filtrando, encontramos as consequências mais encantadoras e belas, ou simplesmente inesperadas,",
+          "e colocamos molduras nelas, para ajudar visitantes como você a apreciar esse desdobramento.",
+          "É para isso que existem todos esses quebra-cabeças. Eles emolduram exemplos específicos desse desdobramento.",
+          "E muitos casos, bem apresentados em conjunto, preenchem uma imagem rica e multidimensional em nossa mente.",
+          "Você vê as semelhanças entre um comportamento e outro.",
+          "Você vê as diferenças. Percebe momentos únicos que parecem comunicar algo especial, que desafia a verbalização.",
+          "A partir de uma constelação de exemplos, construímos em nossa consciência",
+          "uma visão do Jogo de Forma que nunca alcançaríamos de outro modo.",
+          "Farei o que puder para me familiarizar com essas ideias.",
+          "Você não precisa acreditar nelas. Uma boa parte da Ordem não acredita!",
+          "Mas sua tarefa por enquanto, ignorando no que qualquer um acredita ou deixa de acreditar,",
+          "é simplesmente abrir bem os olhos de verdade e apenas ver isso. Apenas veja os fenômenos.",
+          "Posso fazer isso. Enxergar com objetividade é a base da Filosofia Natural, afinal.",
+          "Ótimo. Falaremos de novo, depois que você explorar um pouco mais.",
+          "Até, jacaré.",
+          "O que... o quê?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_16v4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_thief_priestess_second",
+      "clips": [
+        {
+          "id": "heroes2_thief_priestess_second_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 8.058,
+          "src": "audio/clips/heroes2_thief_priestess_second_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "... and that's when we decided to finally start the company.",
+              "We're all good at moving things in our own ways,",
+              "and we'd gained so much experience at loading docks and so forth."
+            ],
+            "pt-br": [
+              "... e foi aí que decidimos finalmente abrir a empresa.",
+              "Somos todos bons em transportar coisas do nosso jeito,",
+              "e ganhamos muita experiência trabalhando nas docas e por aí vai."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_priestess_second_1__thief.wav",
+            "subtitleCueLines": [
+              1307,
+              1312,
+              1316
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... and that's when we decided to finally start the company.",
+          "We're all good at moving things in our own ways,",
+          "and we'd gained so much experience at loading docks and so forth."
+        ],
+        "pt-br": [
+          "... e foi aí que decidimos finalmente abrir a empresa.",
+          "Somos todos bons em transportar coisas do nosso jeito,",
+          "e ganhamos muita experiência trabalhando nas docas e por aí vai."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048591,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_thief_priestess_second",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_16v4.entities"
+          }
+        ],
+        "subtitleLine": 1306,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_priestess_crawler",
+      "clips": [
+        {
+          "id": "heroes2_thief_priestess_crawler_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 10.088708,
+          "src": "audio/clips/heroes2_thief_priestess_crawler_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Do you know the Crawler? Valens and I worked there for a while. At the far other end of the route, I mean...",
+              "Until I ... Well, it was a fun job while we had it."
+            ],
+            "pt-br": [
+              "Conhece a Esteira? Valens e eu trabalhamos lá por um tempo. Lá na outra ponta da rota, quero dizer...",
+              "Até que eu... Bem, foi um trabalho divertido enquanto durou."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_priestess_crawler_1__thief.wav",
+            "subtitleCueLines": [
+              1324,
+              1330
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Do you know the Crawler? Valens and I worked there for a while. At the far other end of the route, I mean...",
+          "Until I ... Well, it was a fun job while we had it."
+        ],
+        "pt-br": [
+          "Conhece a Esteira? Valens e eu trabalhamos lá por um tempo. Lá na outra ponta da rota, quero dizer...",
+          "Até que eu... Bem, foi um trabalho divertido enquanto durou."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_priestess_crawler",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.5864200592041016,
+              4.249744415283203,
+              0.21765995025634766
+            ],
+            "source": "data-common/heroes2_16v4.entities"
+          }
+        ],
+        "subtitleLine": 1323,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

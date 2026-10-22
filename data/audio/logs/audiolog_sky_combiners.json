@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_combiners",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_combiners",
+      "clips": [
+        {
+          "id": "audiolog_sky_combiners_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 83.382646,
+          "src": "audio/clips/audiolog_sky_combiners_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "The very earliest Warehouses did not combine worlds, as these do. They were collections",
+              "of individual elements mixed together: a handful of objects, a handful of behaviors.",
+              "As the Order's abilities grew, they put more things together at a time.",
+              "Beyond a certain size, the outcomes tended towards inscrutability.",
+              "Some further structure was wanted, to help create clear and visible patterns in the Visitor's mind.",
+              "So they got the idea to borrow multiple elements from a single world at once, and then to combine those worlds.",
+              "This was around when I showed up.",
+              "The Warehouses, that brought two worlds together, we came to call 2-combiners.",
+              "We did a lot of those. They provided for very clear focus.",
+              "The High Implementors discussed ways of achieving more interconnectedness,",
+              "but for a long time we couldn't manage it -- attempts at higher degrees of combination would just produce a mess.",
+              "Over time, though, we got better. Eventually 3-combiners became achievable, then popular, then standard.",
+              "The leap to 4 happened much later.",
+              "Each time you increase the number of worlds, the number of invisible connections rises disproportionately;",
+              "in the limit it's 2 to the nth power, where n is the number of ideas across all the worlds.",
+              "So it's hard to keep pushing upward.",
+              "But doing hard things is the reason we are here."
+            ],
+            "pt-br": [
+              "Os Armazéns mais antigos não combinavam mundos, como estes fazem. Eram coleções",
+              "de elementos individuais misturados: um punhado de objetos, um punhado de comportamentos.",
+              "À medida que as capacidades da Ordem cresciam, eles juntavam mais coisas de uma vez.",
+              "Além de certo tamanho, os resultados tendiam à ininteligibilidade.",
+              "Era desejável alguma estrutura adicional, para ajudar a criar padrões claros e visíveis na mente do Visitante.",
+              "Então tiveram a ideia de emprestar vários elementos de um único mundo de uma vez, e então combinar esses mundos.",
+              "Foi por essa época que eu apareci.",
+              "Os Armazéns, que juntavam dois mundos, passamos a chamar de 2-Combinadores.",
+              "Fizemos muitos desses. Eles proporcionam um foco muito claro.",
+              "Os Executores Elevados discutiram maneiras de alcançar mais interconexão,",
+              "mas, por muito tempo, não conseguimos; tentativas de graus mais altos de combinação só produziam uma bagunça.",
+              "Com o tempo, porém, fomos melhorando. Eventualmente os 3-Combinadores se tornaram possíveis, depois populares, depois padrão.",
+              "O salto para 4 veio muito mais tarde.",
+              "Cada vez que você aumenta a quantidade de mundos, o número de conexões invisíveis cresce desproporcionalmente;",
+              "no limite, é dois elevado a n, onde n é o número de ideias em todos os mundos.",
+              "Então é difícil continuar subindo.",
+              "Mas fazer coisas difíceis é o motivo de estarmos aqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_combiners_1__acting.wav",
+            "subtitleCueLines": [
+              9217,
+              9222,
+              9226,
+              9231,
+              9235,
+              9240,
+              9245,
+              9248,
+              9252,
+              9256,
+              9260,
+              9265,
+              9270,
+              9273,
+              9278,
+              9283,
+              9286
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The very earliest Warehouses did not combine worlds, as these do. They were collections",
+          "of individual elements mixed together: a handful of objects, a handful of behaviors.",
+          "As the Order's abilities grew, they put more things together at a time.",
+          "Beyond a certain size, the outcomes tended towards inscrutability.",
+          "Some further structure was wanted, to help create clear and visible patterns in the Visitor's mind.",
+          "So they got the idea to borrow multiple elements from a single world at once, and then to combine those worlds.",
+          "This was around when I showed up.",
+          "The Warehouses, that brought two worlds together, we came to call 2-combiners.",
+          "We did a lot of those. They provided for very clear focus.",
+          "The High Implementors discussed ways of achieving more interconnectedness,",
+          "but for a long time we couldn't manage it -- attempts at higher degrees of combination would just produce a mess.",
+          "Over time, though, we got better. Eventually 3-combiners became achievable, then popular, then standard.",
+          "The leap to 4 happened much later.",
+          "Each time you increase the number of worlds, the number of invisible connections rises disproportionately;",
+          "in the limit it's 2 to the nth power, where n is the number of ideas across all the worlds.",
+          "So it's hard to keep pushing upward.",
+          "But doing hard things is the reason we are here."
+        ],
+        "pt-br": [
+          "Os Armazéns mais antigos não combinavam mundos, como estes fazem. Eram coleções",
+          "de elementos individuais misturados: um punhado de objetos, um punhado de comportamentos.",
+          "À medida que as capacidades da Ordem cresciam, eles juntavam mais coisas de uma vez.",
+          "Além de certo tamanho, os resultados tendiam à ininteligibilidade.",
+          "Era desejável alguma estrutura adicional, para ajudar a criar padrões claros e visíveis na mente do Visitante.",
+          "Então tiveram a ideia de emprestar vários elementos de um único mundo de uma vez, e então combinar esses mundos.",
+          "Foi por essa época que eu apareci.",
+          "Os Armazéns, que juntavam dois mundos, passamos a chamar de 2-Combinadores.",
+          "Fizemos muitos desses. Eles proporcionam um foco muito claro.",
+          "Os Executores Elevados discutiram maneiras de alcançar mais interconexão,",
+          "mas, por muito tempo, não conseguimos; tentativas de graus mais altos de combinação só produziam uma bagunça.",
+          "Com o tempo, porém, fomos melhorando. Eventualmente os 3-Combinadores se tornaram possíveis, depois populares, depois padrão.",
+          "O salto para 4 veio muito mais tarde.",
+          "Cada vez que você aumenta a quantidade de mundos, o número de conexões invisíveis cresce desproporcionalmente;",
+          "no limite, é dois elevado a n, onde n é o número de ideias em todos os mundos.",
+          "Então é difícil continuar subindo.",
+          "Mas fazer coisas difíceis é o motivo de estarmos aqui."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

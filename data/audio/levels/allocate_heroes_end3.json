@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "allocate_heroes_end3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_heroes_first",
+      "clips": [
+        {
+          "id": "end3_heroes_first_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.919667,
+          "src": "audio/clips/end3_heroes_first_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Sorry, friends... I get mixed up sometimes!"
+            ],
+            "pt-br": [
+              "Desculpa, amigos... às vezes eu me confundo!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_heroes_first_1__thief.wav",
+            "subtitleCueLines": [
+              14807
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_heroes_first_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.920583,
+          "src": "audio/clips/end3_heroes_first_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "It's okay. We all do."
+            ],
+            "pt-br": [
+              "Tudo bem. Acontece com todos nós."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_heroes_first_2__warrior.wav",
+            "subtitleCueLines": [
+              14811
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_heroes_first_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.423875,
+          "src": "audio/clips/end3_heroes_first_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I know *I* do!"
+            ],
+            "pt-br": [
+              "Eu sei que eu me confundo!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_heroes_first_3__wizard.wav",
+            "subtitleCueLines": [
+              14814
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_heroes_first_4__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.839667,
+          "src": "audio/clips/end3_heroes_first_4__thief.mp3",
+          "transcripts": {
+            "en": [
+              "We all know *you* do!"
+            ],
+            "pt-br": [
+              "Todos nós sabemos que você se confunde!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_heroes_first_4__thief.wav",
+            "subtitleCueLines": [
+              14817
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Sorry, friends... I get mixed up sometimes!",
+          "It's okay. We all do.",
+          "I know *I* do!",
+          "We all know *you* do!"
+        ],
+        "pt-br": [
+          "Desculpa, amigos... às vezes eu me confundo!",
+          "Tudo bem. Acontece com todos nós.",
+          "Eu sei que eu me confundo!",
+          "Todos nós sabemos que você se confunde!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 112197642,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "end3_heroes_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              1.0,
+              7.0
+            ],
+            "source": "data-common/allocate_heroes_end3.entities"
+          }
+        ],
+        "subtitleLine": 14806,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

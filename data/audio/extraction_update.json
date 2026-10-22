@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "scope": [
+    "audio",
+    "bancos",
+    "legendas",
+    "textos"
+  ],
+  "summary": {
+    "source": "/mnt/c/Program Files (x86)/Steam/steamapps/common/Order of the Sinking Star",
+    "destination": "/mnt/c/Users/rhena/OneDrive/Documentos/reverse-order/extraidos",
+    "total_records": 16111,
+    "statuses": {
+      "pendente": 2988,
+      "ok": 13120,
+      "sem_midia": 3
+    },
+    "this_run": {
+      "ok": 1
+    },
+    "reused": 6474,
+    "by_kind": {
+      "texturas": {
+        "pendente": 1020,
+        "ok": 4673
+      },
+      "meshes": {
+        "pendente": 1968,
+        "ok": 1974
+      },
+      "audio": {
+        "ok": 6466
+      },
+      "bancos": {
+        "sem_midia": 3,
+        "ok": 3
+      },
+      "textos": {
+        "ok": 2
+      },
+      "legendas": {
+        "ok": 2
+      }
+    },
+    "output_extensions": {
+      ".dds": 4673,
+      ".png": 4673,
+      ".obj": 5922,
+      ".json": 1978,
+      ".wav": 13402,
+      ".wem": 7432,
+      ".wwise-midi": 496,
+      ".txt": 4
+    },
+    "elapsed_seconds": 566.48,
+    "interrupted": false
+  },
+  "newSources": [],
+  "changedSources": [
+    {
+      "source": "data/sound/GeneratedSoundBanks/Windows/Music_and_ambience.bnk",
+      "previousSha256": "935648bd1bb839f282d07c449c297faa5cde3edc55b349c4ed5f3ad9507bd5e7",
+      "sha256": "72bec767d9500c5a53f5b9a4ceb5481e85f324a2abffea9b6cb36e2a3b16b798",
+      "addedOutputs": [],
+      "removedOutputs": [],
+      "changedOutputs": [],
+      "previousChunks": [
+        {
+          "chunk": "BKHD",
+          "bytes": 48,
+          "sha256": "b580d0254541af73fece9c53c8190506d7aa4a81f6d11a6f26ab8291ad30ade5"
+        },
+        {
+          "chunk": "DIDX",
+          "bytes": 44280,
+          "sha256": "f9fadc6b9908dfd57ebe93e11572cbbe9308d8d9f9ea11b26428b661f830ed2e"
+        },
+        {
+          "chunk": "DATA",
+          "bytes": 25457585,
+          "sha256": "b62524083844fd4d27c1717f03b9bcc005e42f153be5b0faa9d1c5ad750e9d53"
+        },
+        {
+          "chunk": "HIRC",
+          "bytes": 7729289,
+          "sha256": "dc1819d3f9cde9eba5d692eb81230ba61ba70692fe45e93f31e0baef726ae9be"
+        }
+      ],
+      "chunks": [
+        {
+          "chunk": "BKHD",
+          "bytes": 48,
+          "sha256": "b9d48fdc2b158dbb639b4feb4d084713c4eeae2723c22554d4f56470e56b3803"
+        },
+        {
+          "chunk": "DIDX",
+          "bytes": 44280,
+          "sha256": "f9fadc6b9908dfd57ebe93e11572cbbe9308d8d9f9ea11b26428b661f830ed2e"
+        },
+        {
+          "chunk": "DATA",
+          "bytes": 25457585,
+          "sha256": "b62524083844fd4d27c1717f03b9bcc005e42f153be5b0faa9d1c5ad750e9d53"
+        },
+        {
+          "chunk": "HIRC",
+          "bytes": 7729394,
+          "sha256": "c1e4a62f295f9994d6fdfb1908c627c3075c78261ac93b3c40a6b2733eb1e99c"
+        }
+      ]
+    }
+  ],
+  "removedInstallationSources": [
+    "data/sound/GeneratedSoundBanks/Windows/ExternalSources/English/audiolog_sky_play_of_form_3_1a__acting.wem"
+  ]
+}

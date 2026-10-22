@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "level": "wizard_and_druid_alt_5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_wizard_and_druid_1",
+      "clips": [
+        {
+          "id": "heroes3_wizard_and_druid_1_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.725188,
+          "src": "audio/clips/heroes3_wizard_and_druid_1_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "It isn't magic of the kind you deal in."
+            ],
+            "pt-br": [
+              "Não é a magia com que você trabalha."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_wizard_and_druid_1_1__druid.wav",
+            "subtitleCueLines": [
+              2123
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_wizard_and_druid_1_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 0.678687,
+          "src": "audio/clips/heroes3_wizard_and_druid_1_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "No?"
+            ],
+            "pt-br": [
+              "Não?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_wizard_and_druid_1_2__wizard.wav",
+            "subtitleCueLines": [
+              2126
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_wizard_and_druid_1_3__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 17.888458,
+          "src": "audio/clips/heroes3_wizard_and_druid_1_3__druid.mp3",
+          "transcripts": {
+            "en": [
+              "Aeons ago, before living beings arose to crawl the canyons and the steppes,",
+              "the world was a simpler place. Rocky and pristine.",
+              "The world slowly, slowly changed, from a pile of rocks, to this teeming green mass we are today."
+            ],
+            "pt-br": [
+              "Éons atrás, antes que os seres vivos surgissem para rastejar pelos cânions e pelas estepes,",
+              "o mundo era um lugar mais simples. Rochoso e intocado.",
+              "O mundo mudou devagar, devagar, de um monte de rochas, até essa massa verde fervilhante que somos hoje."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_wizard_and_druid_1_3__druid.wav",
+            "subtitleCueLines": [
+              2130,
+              2134,
+              2138
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It isn't magic of the kind you deal in.",
+          "No?",
+          "Aeons ago, before living beings arose to crawl the canyons and the steppes,",
+          "the world was a simpler place. Rocky and pristine.",
+          "The world slowly, slowly changed, from a pile of rocks, to this teeming green mass we are today."
+        ],
+        "pt-br": [
+          "Não é a magia com que você trabalha.",
+          "Não?",
+          "Éons atrás, antes que os seres vivos surgissem para rastejar pelos cânions e pelas estepes,",
+          "o mundo era um lugar mais simples. Rochoso e intocado.",
+          "O mundo mudou devagar, devagar, de um monte de rochas, até essa massa verde fervilhante que somos hoje."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031896,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_wizard_and_druid_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/wizard_and_druid_alt_5.entities"
+          }
+        ],
+        "subtitleLine": 2122,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

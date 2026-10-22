@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_4.5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "thief_first",
+      "clips": [
+        {
+          "id": "thief_first_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 8.423,
+          "src": "audio/clips/thief_first_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Isidore! Valens! Seems I'm on my own for now.",
+              "This place is a fair bit scarier without friends."
+            ],
+            "pt-br": [
+              "Isidore! Valens! Acho que vou ter que continuar sozinha.",
+              "Este lugar dá bem mais medo sem os amigos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "thief_first_1__thief.wav",
+            "subtitleCueLines": [
+              94,
+              98
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Isidore! Valens! Seems I'm on my own for now.",
+          "This place is a fair bit scarier without friends."
+        ],
+        "pt-br": [
+          "Isidore! Valens! Acho que vou ter que continuar sozinha.",
+          "Este lugar dá bem mais medo sem os amigos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137346,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "thief_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_4.5.entities"
+          }
+        ],
+        "subtitleLine": 93,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

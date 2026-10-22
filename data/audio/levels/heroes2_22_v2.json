@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_22_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_four",
+      "clips": [
+        {
+          "id": "heroes2_four_1__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 12.884375,
+          "src": "audio/clips/heroes2_four_1__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Walls did not contain them, Ratleigh, so behold: we now put Dragons to this use.",
+              "Fire will hold them, as we move onward to raise the final pillars of my design."
+            ],
+            "pt-br": [
+              "Muros não os contiveram, Ratleigh, então veja: agora usamos Dragões pra isso.",
+              "O fogo vai segurá-los, enquanto seguimos adiante para erguer os últimos pilares do meu plano."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_1__magistrate.wav",
+            "subtitleCueLines": [
+              1597,
+              1602
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_four_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.931729,
+          "src": "audio/clips/heroes2_four_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "So you're telling me he's getting away from us *again*?"
+            ],
+            "pt-br": [
+              "Então você tá me dizendo que ele tá escapando *de novo* da gente?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_2__warrior.wav",
+            "subtitleCueLines": [
+              1607
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_four_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.146167,
+          "src": "audio/clips/heroes2_four_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I prefer to think of it as, we're closing in on him!"
+            ],
+            "pt-br": [
+              "Prefiro pensar que estamos cada vez mais perto dele!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_3__thief.wav",
+            "subtitleCueLines": [
+              1613
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_four_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.471646,
+          "src": "audio/clips/heroes2_four_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Huh?"
+            ],
+            "pt-br": [
+              "Hã?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_4__warrior.wav",
+            "subtitleCueLines": [
+              1617
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_four_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.401604,
+          "src": "audio/clips/heroes2_four_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Across the canyon, he'll be in a place where he has no friends,",
+              "and his rank means nothing."
+            ],
+            "pt-br": [
+              "Do outro lado do desfiladeiro, ele vai estar num lugar onde não tem amigos,",
+              "e sua patente não significa nada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_5__thief.wav",
+            "subtitleCueLines": [
+              1620,
+              1624
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_four_6__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.795667,
+          "src": "audio/clips/heroes2_four_6__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Our status as emissaries of the King might also mean nothing."
+            ],
+            "pt-br": [
+              "Nosso status de emissários do Rei também pode não valer nada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_6__wizard.wav",
+            "subtitleCueLines": [
+              1627
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_four_7__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.236667,
+          "src": "audio/clips/heroes2_four_7__thief.mp3",
+          "transcripts": {
+            "en": [
+              "We'll be diplomats! They'll spread the carpets for us. The *nice* carpets!"
+            ],
+            "pt-br": [
+              "Vamos ser diplomatas! Vão estender o tapete pra gente. Os bons!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_7__thief.wav",
+            "subtitleCueLines": [
+              1631
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_four_8__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.910083,
+          "src": "audio/clips/heroes2_four_8__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Before we can step into our grand new careers, we'll have to get out of this trap."
+            ],
+            "pt-br": [
+              "Antes de começarmos nossas novas carreiras, vamos precisar sair dessa armadilha."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_four_8__warrior.wav",
+            "subtitleCueLines": [
+              1636
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Walls did not contain them, Ratleigh, so behold: we now put Dragons to this use.",
+          "Fire will hold them, as we move onward to raise the final pillars of my design.",
+          "So you're telling me he's getting away from us *again*?",
+          "I prefer to think of it as, we're closing in on him!",
+          "Huh?",
+          "Across the canyon, he'll be in a place where he has no friends,",
+          "and his rank means nothing.",
+          "Our status as emissaries of the King might also mean nothing.",
+          "We'll be diplomats! They'll spread the carpets for us. The *nice* carpets!",
+          "Before we can step into our grand new careers, we'll have to get out of this trap."
+        ],
+        "pt-br": [
+          "Muros não os contiveram, Ratleigh, então veja: agora usamos Dragões pra isso.",
+          "O fogo vai segurá-los, enquanto seguimos adiante para erguer os últimos pilares do meu plano.",
+          "Então você tá me dizendo que ele tá escapando *de novo* da gente?",
+          "Prefiro pensar que estamos cada vez mais perto dele!",
+          "Hã?",
+          "Do outro lado do desfiladeiro, ele vai estar num lugar onde não tem amigos,",
+          "e sua patente não significa nada.",
+          "Nosso status de emissários do Rei também pode não valer nada.",
+          "Vamos ser diplomatas! Vão estender o tapete pra gente. Os bons!",
+          "Antes de começarmos nossas novas carreiras, vamos precisar sair dessa armadilha."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048597,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_four",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              10.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_22_v2.entities"
+          }
+        ],
+        "subtitleLine": 1596,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

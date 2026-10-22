@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "level": "catching_up_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_catching_up_v2",
+      "clips": [
+        {
+          "id": "audiolog_di_catching_up_v2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 92.532396,
+          "src": "audio/clips/audiolog_di_catching_up_v2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here, we've redesigned the level so it's immediately obvious that you need to make a stack.",
+              "There's no other way to get the other guy to the exit.",
+              "So, the only real question is how to make the stack; if you get stuck for a while figuring that out, that's okay,",
+              "because you've been thinking about making a stack, and that's the idea that we want you to wrangle with here.",
+              "Making it clear that you need to make a stack causes the puzzle to be easier, but in a long game,",
+              "this helps you flow through the puzzles more quickly, one after another;",
+              "this way you can see the flow of ideas better, because the ideas are more concentrated in time.",
+              "This thing I just said is part of a non-obvious way of thinking about puzzles, so I'll make an analogy:",
+              "Imagine listening to your favorite song -- the musical vibrations go into your ear, your brain appreciates the melody.",
+              "If you slow that song down by a factor of two, maybe it's not so enjoyable any more; the tempo is off, the pitches of the notes are weird.",
+              "But let's slow it down much more, by a factor of 20; at that point, it doesn't even work as music any more.",
+              "It might be hard to hear anything at all, and to the extent you do, it's just weird low vibrations.",
+              "Your brain can no longer hear the fun changes between notes in a musical way. You certainly wouldn't get into a groove.",
+              "There's a particular range of time scales in which things are understandable and feel good.",
+              "Now apply that to feeling the ideas shown to you by puzzles, as those ideas float invisibly in the space around you."
+            ],
+            "pt-br": [
+              "Aqui, redesenhamos o nível para ficar imediatamente óbvio que você precisa fazer uma pilha.",
+              "Não há um jeito de levar o outro cara até a saída.",
+              "Então, a única questão real é como fazer a pilha; se você ficar travado um tempo tentando descobrir isso, tudo bem,",
+              "porque você está pensando em fazer uma pilha, e essa é a ideia com que queremos que você brinque aqui.",
+              "Deixar claro que você precisa fazer uma pilha torna o quebra-cabeça mais fácil, mas, em um jogo longo,",
+              "isso ajuda você a avançar pelos quebra-cabeças mais rápido, um após o outro,",
+              "assim você consegue ver melhor o fluxo das ideias, porque as ideias ficam mais concentradas no tempo.",
+              "O que acabei de dizer faz parte de uma forma não óbvia de pensar sobre quebra-cabeças, então vou fazer uma analogia:",
+              "imagine ouvir sua música favorita: as vibrações musicais entram no seu ouvido, seu cérebro aprecia a melodia.",
+              "Se você desacelerar essa música pela metade, talvez ela já não fique tão agradável; o ritmo fica estranho, as notas desafinam.",
+              "Mas vamos desacelerá-la muito mais, por um fator de 20; nesse ponto, ela nem funciona mais como música.",
+              "Pode ser difícil ouvir qualquer coisa, e, no que você consegue ouvir, só há vibrações graves estranhas.",
+              "Seu cérebro não consegue mais ouvir as mudanças divertidas entre as notas de um jeito musical. Com certeza você não entraria no ritmo.",
+              "Existe uma faixa específica de escalas de tempo em que as coisas são compreensíveis e agradáveis.",
+              "Agora aplique isso a sentir as ideias mostradas a você pelos quebra-cabeças, enquanto elas flutuam invisivelmente no espaço ao seu redor."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_catching_up_v2_1__director.wav",
+            "subtitleCueLines": [
+              13085,
+              13090,
+              13093,
+              13098,
+              13102,
+              13108,
+              13112,
+              13116,
+              13121,
+              13126,
+              13131,
+              13136,
+              13141,
+              13146,
+              13151
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here, we've redesigned the level so it's immediately obvious that you need to make a stack.",
+          "There's no other way to get the other guy to the exit.",
+          "So, the only real question is how to make the stack; if you get stuck for a while figuring that out, that's okay,",
+          "because you've been thinking about making a stack, and that's the idea that we want you to wrangle with here.",
+          "Making it clear that you need to make a stack causes the puzzle to be easier, but in a long game,",
+          "this helps you flow through the puzzles more quickly, one after another;",
+          "this way you can see the flow of ideas better, because the ideas are more concentrated in time.",
+          "This thing I just said is part of a non-obvious way of thinking about puzzles, so I'll make an analogy:",
+          "Imagine listening to your favorite song -- the musical vibrations go into your ear, your brain appreciates the melody.",
+          "If you slow that song down by a factor of two, maybe it's not so enjoyable any more; the tempo is off, the pitches of the notes are weird.",
+          "But let's slow it down much more, by a factor of 20; at that point, it doesn't even work as music any more.",
+          "It might be hard to hear anything at all, and to the extent you do, it's just weird low vibrations.",
+          "Your brain can no longer hear the fun changes between notes in a musical way. You certainly wouldn't get into a groove.",
+          "There's a particular range of time scales in which things are understandable and feel good.",
+          "Now apply that to feeling the ideas shown to you by puzzles, as those ideas float invisibly in the space around you."
+        ],
+        "pt-br": [
+          "Aqui, redesenhamos o nível para ficar imediatamente óbvio que você precisa fazer uma pilha.",
+          "Não há um jeito de levar o outro cara até a saída.",
+          "Então, a única questão real é como fazer a pilha; se você ficar travado um tempo tentando descobrir isso, tudo bem,",
+          "porque você está pensando em fazer uma pilha, e essa é a ideia com que queremos que você brinque aqui.",
+          "Deixar claro que você precisa fazer uma pilha torna o quebra-cabeça mais fácil, mas, em um jogo longo,",
+          "isso ajuda você a avançar pelos quebra-cabeças mais rápido, um após o outro,",
+          "assim você consegue ver melhor o fluxo das ideias, porque as ideias ficam mais concentradas no tempo.",
+          "O que acabei de dizer faz parte de uma forma não óbvia de pensar sobre quebra-cabeças, então vou fazer uma analogia:",
+          "imagine ouvir sua música favorita: as vibrações musicais entram no seu ouvido, seu cérebro aprecia a melodia.",
+          "Se você desacelerar essa música pela metade, talvez ela já não fique tão agradável; o ritmo fica estranho, as notas desafinam.",
+          "Mas vamos desacelerá-la muito mais, por um fator de 20; nesse ponto, ela nem funciona mais como música.",
+          "Pode ser difícil ouvir qualquer coisa, e, no que você consegue ouvir, só há vibrações graves estranhas.",
+          "Seu cérebro não consegue mais ouvir as mudanças divertidas entre as notas de um jeito musical. Com certeza você não entraria no ritmo.",
+          "Existe uma faixa específica de escalas de tempo em que as coisas são compreensíveis e agradáveis.",
+          "Agora aplique isso a sentir as ideias mostradas a você pelos quebra-cabeças, enquanto elas flutuam invisivelmente no espaço ao seu redor."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_catching_up_v2",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/catching_up_v2.entities"
+          }
+        ],
+        "subtitleLine": 13084,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "monster_drop",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "obf_monster_drop",
+      "clips": [
+        {
+          "id": "obf_monster_drop_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.749,
+          "src": "audio/clips/obf_monster_drop_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I never liked these dragons."
+            ],
+            "pt-br": [
+              "Nunca gostei desses dragões."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "obf_monster_drop_1__sailor.wav",
+            "subtitleCueLines": [
+              8575
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "obf_monster_drop_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 7.178854,
+          "src": "audio/clips/obf_monster_drop_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Nor I. Their world is so ... deadly. Worst I'd ever worried about was being stuck in an orange beam."
+            ],
+            "pt-br": [
+              "Nem eu. O mundo deles é tão... mortal. O pior de que eu já tive medo foi ficar preso num feixe laranja."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "obf_monster_drop_2__gemsman.wav",
+            "subtitleCueLines": [
+              8578
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "obf_monster_drop_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 7.352667,
+          "src": "audio/clips/obf_monster_drop_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Stranded on an island. Not so bad either. Sucked into a giant whirlpool ... okay *that's* bad."
+            ],
+            "pt-br": [
+              "Encalhado numa ilha. Também não é tão ruim. Sugado por um redemoinho gigante... certo, isso é ruim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "obf_monster_drop_3__sailor.wav",
+            "subtitleCueLines": [
+              8584
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "obf_monster_drop_4__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 5.134,
+          "src": "audio/clips/obf_monster_drop_4__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "*Or* ... getting rematerialized into a wall. Yeah, that one's bad."
+            ],
+            "pt-br": [
+              "Ou... se rematerializar dentro de uma parede. É, essa é ruim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "obf_monster_drop_4__gemsman.wav",
+            "subtitleCueLines": [
+              8588
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I never liked these dragons.",
+          "Nor I. Their world is so ... deadly. Worst I'd ever worried about was being stuck in an orange beam.",
+          "Stranded on an island. Not so bad either. Sucked into a giant whirlpool ... okay *that's* bad.",
+          "*Or* ... getting rematerialized into a wall. Yeah, that one's bad."
+        ],
+        "pt-br": [
+          "Nunca gostei desses dragões.",
+          "Nem eu. O mundo deles é tão... mortal. O pior de que eu já tive medo foi ficar preso num feixe laranja.",
+          "Encalhado numa ilha. Também não é tão ruim. Sugado por um redemoinho gigante... certo, isso é ruim.",
+          "Ou... se rematerializar dentro de uma parede. É, essa é ruim."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371843,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "obf_monster_drop",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              9.0,
+              12.0
+            ],
+            "source": "data-common/monster_drop.entities"
+          }
+        ],
+        "subtitleLine": 8574,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "level": "beam_shatter",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "beam_shatter_start",
+      "clips": [
+        {
+          "id": "beam_shatter_start_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.17625,
+          "src": "audio/clips/beam_shatter_start_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Beamcasters! I've got this; it's my home turf."
+            ],
+            "pt-br": [
+              "Lança-feixes! Eu dou conta; esse é meu território."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_start_1__gemsman.wav",
+            "subtitleCueLines": [
+              6901
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_start_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.147,
+          "src": "audio/clips/beam_shatter_start_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "You sure? Looks like my home turf."
+            ],
+            "pt-br": [
+              "Tem certeza? Parece meu território."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_start_2__warrior.wav",
+            "subtitleCueLines": [
+              6904
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_start_3__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.287396,
+          "src": "audio/clips/beam_shatter_start_3__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "We'll see, won't we."
+            ],
+            "pt-br": [
+              "Veremos, não é?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_start_3__gemsman.wav",
+            "subtitleCueLines": [
+              6907
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Beamcasters! I've got this; it's my home turf.",
+          "You sure? Looks like my home turf.",
+          "We'll see, won't we."
+        ],
+        "pt-br": [
+          "Lança-feixes! Eu dou conta; esse é meu território.",
+          "Tem certeza? Parece meu território.",
+          "Veremos, não é?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420427,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "beam_shatter_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/beam_shatter.entities"
+          }
+        ],
+        "subtitleLine": 6900,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "beam_shatter_wish",
+      "clips": [
+        {
+          "id": "beam_shatter_wish_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.500667,
+          "src": "audio/clips/beam_shatter_wish_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I wish that Druid were here; he could help with these Goblins."
+            ],
+            "pt-br": [
+              "Queria que o Druida estivesse aqui; ele poderia ajudar a lidar com esses goblins."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_wish_1__warrior.wav",
+            "subtitleCueLines": [
+              6914
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_wish_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.106479,
+          "src": "audio/clips/beam_shatter_wish_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Wait, who? How?"
+            ],
+            "pt-br": [
+              "Espera, quem? Como?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_wish_2__gemsman.wav",
+            "subtitleCueLines": [
+              6918
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_wish_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.324208,
+          "src": "audio/clips/beam_shatter_wish_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Oh, you haven't met him yet?"
+            ],
+            "pt-br": [
+              "Ah, vocês ainda não o conheceram?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_wish_3__warrior.wav",
+            "subtitleCueLines": [
+              6921
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_wish_4__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.279792,
+          "src": "audio/clips/beam_shatter_wish_4__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I'm not sure. What's he look like?"
+            ],
+            "pt-br": [
+              "Não tenho certeza. Como ele é?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_wish_4__gemsman.wav",
+            "subtitleCueLines": [
+              6924
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_wish_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.969208,
+          "src": "audio/clips/beam_shatter_wish_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Surly guy."
+            ],
+            "pt-br": [
+              "Cara rabugento."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_wish_5__warrior.wav",
+            "subtitleCueLines": [
+              6927
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_wish_6__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.756208,
+          "src": "audio/clips/beam_shatter_wish_6__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I've met a lot of surly guys."
+            ],
+            "pt-br": [
+              "Já conheci muitos caras rabugentos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_wish_6__gemsman.wav",
+            "subtitleCueLines": [
+              6930
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "beam_shatter_wish_7__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.100333,
+          "src": "audio/clips/beam_shatter_wish_7__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Yeah, you know, me too."
+            ],
+            "pt-br": [
+              "É, sabe, eu também."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beam_shatter_wish_7__warrior.wav",
+            "subtitleCueLines": [
+              6933
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I wish that Druid were here; he could help with these Goblins.",
+          "Wait, who? How?",
+          "Oh, you haven't met him yet?",
+          "I'm not sure. What's he look like?",
+          "Surly guy.",
+          "I've met a lot of surly guys.",
+          "Yeah, you know, me too."
+        ],
+        "pt-br": [
+          "Queria que o Druida estivesse aqui; ele poderia ajudar a lidar com esses goblins.",
+          "Espera, quem? Como?",
+          "Ah, vocês ainda não o conheceram?",
+          "Não tenho certeza. Como ele é?",
+          "Cara rabugento.",
+          "Já conheci muitos caras rabugentos.",
+          "É, sabe, eu também."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "beam_shatter_wish",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.959258079528809,
+              0.18201446533203125,
+              0.7995281219482422
+            ],
+            "source": "data-common/beam_shatter.entities"
+          }
+        ],
+        "subtitleLine": 6913,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

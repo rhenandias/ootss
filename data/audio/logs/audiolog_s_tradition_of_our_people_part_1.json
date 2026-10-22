@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_s_tradition_of_our_people_part_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_s_tradition_of_our_people_part_1",
+      "clips": [
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_1_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 6.320208,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_1_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I'd been spare with them of late. I felt I should save the last few beacons for emergency purposes."
+            ],
+            "pt-br": [
+              "Eu vinha poupando seu uso ultimamente. Achava que devia guardar os últimos sinalizadores para emergências."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_1_1__sokoban.wav",
+            "subtitleCueLines": [
+              9636
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_1_2__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 6.378687,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_1_2__acting.mp3",
+          "transcripts": {
+            "en": [
+              "I find them fun to listen to. We used to do a similar thing. You could say it was a tradition."
+            ],
+            "pt-br": [
+              "Acho divertido ouvi-los. Costumávamos fazer algo parecido. Pode-se dizer que era uma tradição."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_1_2__acting.wav",
+            "subtitleCueLines": [
+              9641
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_1_3__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 6.121313,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_1_3__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I left my recordings that I might be followed.",
+              "But you own this place; for what purpose would you leave beacons?"
+            ],
+            "pt-br": [
+              "Deixei minhas gravações para que pudessem me seguir.",
+              "Mas este lugar é seu; com que propósito você deixaria sinalizadores?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_1_3__sokoban.wav",
+            "subtitleCueLines": [
+              9646,
+              9650
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_1_4__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 67.993167,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_1_4__acting.mp3",
+          "transcripts": {
+            "en": [
+              "It's not the 'beacon' part, but the way you record a monologue. For us, the practice goes way back;",
+              "it was established by the primitive arts from which, eventually, our current work evolved.",
+              "The old thing was a form of entertainment, usually. You would be exploring some territory;",
+              "you'd come upon a narrated recording left for you by some fictional character.",
+              "You listen to it, then explore more, find another. Then another.",
+              "These recordings would tell you about the character, his thoughts, and the setting as a whole.",
+              "What they used to term \"world-building\", funny to think. We'd have to call it differently now.",
+              "When our Order began its own work, their constructions were not too unlike these old entertainments,",
+              "highly fictionalized, so they used a similar technique. Over time it blossomed into something more direct.",
+              "In my own works, I appreciated that these recordings, when well-made, helped to focus and direct the Visitors.",
+              "It's useful to hint to them about what exactly is going on, why all this is here."
+            ],
+            "pt-br": [
+              "Não é a parte do 'sinalizador', mas a forma como você grava um monólogo. Para nós, essa prática vem de muito tempo atrás;",
+              "isso surgiu com as artes primitivas das quais, com o tempo, nosso trabalho atual evoluiu.",
+              "Antigamente, era uma forma de entretenimento, em geral. Você explorava algum território;",
+              "e encontrava uma gravação narrada deixada para você por algum personagem fictício.",
+              "Você ouve, depois explora mais, encontra outra. Depois outra.",
+              "Essas gravações falariam sobre o personagem, seus pensamentos e o cenário como um todo.",
+              "O que chamavam de \"construção de mundos\", engraçado pensar nisso. Hoje teríamos que dar outro nome.",
+              "Quando nossa Ordem começou seu trabalho, suas construções não eram muito diferentes dessas antigas diversões,",
+              "e por isso usaram uma técnica parecida, cheia de ficção. Com o tempo ela evoluiu para algo mais direto.",
+              "Nos meus próprios trabalhos, percebi que essas gravações, quando eram bem-feitas, ajudavam a concentrar e orientar os Visitantes.",
+              "É útil dar pistas aos Visitantes sobre o que exatamente está acontecendo, por que tudo isto está aqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_1_4__acting.wav",
+            "subtitleCueLines": [
+              9654,
+              9659,
+              9664,
+              9668,
+              9672,
+              9676,
+              9681,
+              9687,
+              9691,
+              9695,
+              9700
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_1_5__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.676375,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_1_5__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "But you stopped making them?"
+            ],
+            "pt-br": [
+              "Mas você parou de fazer gravações?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_1_5__sokoban.wav",
+            "subtitleCueLines": [
+              9704
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_1_6__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 8.870729,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_1_6__acting.mp3",
+          "transcripts": {
+            "en": [
+              "The recordings are supposed to be interesting,",
+              "to shed light on what we're doing in a way that's unique and alive. But ..."
+            ],
+            "pt-br": [
+              "As gravações deveriam ser interessantes,",
+              "para esclarecer o que estamos fazendo de um jeito único e cheio de vida. Mas..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_1_6__acting.wav",
+            "subtitleCueLines": [
+              9707,
+              9711
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'd been spare with them of late. I felt I should save the last few beacons for emergency purposes.",
+          "I find them fun to listen to. We used to do a similar thing. You could say it was a tradition.",
+          "I left my recordings that I might be followed.",
+          "But you own this place; for what purpose would you leave beacons?",
+          "It's not the 'beacon' part, but the way you record a monologue. For us, the practice goes way back;",
+          "it was established by the primitive arts from which, eventually, our current work evolved.",
+          "The old thing was a form of entertainment, usually. You would be exploring some territory;",
+          "you'd come upon a narrated recording left for you by some fictional character.",
+          "You listen to it, then explore more, find another. Then another.",
+          "These recordings would tell you about the character, his thoughts, and the setting as a whole.",
+          "What they used to term \"world-building\", funny to think. We'd have to call it differently now.",
+          "When our Order began its own work, their constructions were not too unlike these old entertainments,",
+          "highly fictionalized, so they used a similar technique. Over time it blossomed into something more direct.",
+          "In my own works, I appreciated that these recordings, when well-made, helped to focus and direct the Visitors.",
+          "It's useful to hint to them about what exactly is going on, why all this is here.",
+          "But you stopped making them?",
+          "The recordings are supposed to be interesting,",
+          "to shed light on what we're doing in a way that's unique and alive. But ..."
+        ],
+        "pt-br": [
+          "Eu vinha poupando seu uso ultimamente. Achava que devia guardar os últimos sinalizadores para emergências.",
+          "Acho divertido ouvi-los. Costumávamos fazer algo parecido. Pode-se dizer que era uma tradição.",
+          "Deixei minhas gravações para que pudessem me seguir.",
+          "Mas este lugar é seu; com que propósito você deixaria sinalizadores?",
+          "Não é a parte do 'sinalizador', mas a forma como você grava um monólogo. Para nós, essa prática vem de muito tempo atrás;",
+          "isso surgiu com as artes primitivas das quais, com o tempo, nosso trabalho atual evoluiu.",
+          "Antigamente, era uma forma de entretenimento, em geral. Você explorava algum território;",
+          "e encontrava uma gravação narrada deixada para você por algum personagem fictício.",
+          "Você ouve, depois explora mais, encontra outra. Depois outra.",
+          "Essas gravações falariam sobre o personagem, seus pensamentos e o cenário como um todo.",
+          "O que chamavam de \"construção de mundos\", engraçado pensar nisso. Hoje teríamos que dar outro nome.",
+          "Quando nossa Ordem começou seu trabalho, suas construções não eram muito diferentes dessas antigas diversões,",
+          "e por isso usaram uma técnica parecida, cheia de ficção. Com o tempo ela evoluiu para algo mais direto.",
+          "Nos meus próprios trabalhos, percebi que essas gravações, quando eram bem-feitas, ajudavam a concentrar e orientar os Visitantes.",
+          "É útil dar pistas aos Visitantes sobre o que exatamente está acontecendo, por que tudo isto está aqui.",
+          "Mas você parou de fazer gravações?",
+          "As gravações deveriam ser interessantes,",
+          "para esclarecer o que estamos fazendo de um jeito único e cheio de vida. Mas..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

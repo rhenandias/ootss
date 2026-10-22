@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "dont_push_the_button",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hw_warrior_going",
+      "clips": [
+        {
+          "id": "hw_warrior_going_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 7.730333,
+          "src": "audio/clips/hw_warrior_going_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Izzy said there's a chance the exit was in this direction.",
+              "I'll keep going... But perhaps he's having better luck."
+            ],
+            "pt-br": [
+              "O Izzy disse que a saída pode ser pra esse lado.",
+              "Vou seguir em frente... Mas talvez *ele* tenha mais sorte."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_going_1__warrior.wav",
+            "subtitleCueLines": [
+              7268,
+              7272
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Izzy said there's a chance the exit was in this direction.",
+          "I'll keep going... But perhaps he's having better luck."
+        ],
+        "pt-br": [
+          "O Izzy disse que a saída pode ser pra esse lado.",
+          "Vou seguir em frente... Mas talvez *ele* tenha mais sorte."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137366,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hw_warrior_going",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/dont_push_the_button.entities"
+          }
+        ],
+        "subtitleLine": 7267,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

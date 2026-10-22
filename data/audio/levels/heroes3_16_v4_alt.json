@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_16_v4_alt",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_and_druid_second",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_druid_second_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.432,
+          "src": "audio/clips/heroes3_bard_and_druid_second_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "You can handle this creature, yes?"
+            ],
+            "pt-br": [
+              "Você dá conta dessa criatura, né?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_druid_second_1__druid.wav",
+            "subtitleCueLines": [
+              1843
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_druid_second_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 1.840292,
+          "src": "audio/clips/heroes3_bard_and_druid_second_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "*We* can 'handle' anything!"
+            ],
+            "pt-br": [
+              "A gente 'dá conta' de qualquer coisa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_druid_second_2__bard.wav",
+            "subtitleCueLines": [
+              1846
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You can handle this creature, yes?",
+          "*We* can 'handle' anything!"
+        ],
+        "pt-br": [
+          "Você dá conta dessa criatura, né?",
+          "A gente 'dá conta' de qualquer coisa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137594,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_and_druid_second",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_16_v4_alt.entities"
+          }
+        ],
+        "subtitleLine": 1842,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "psalm_139",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "psalm_139",
+      "clips": [
+        {
+          "id": "psalm_139_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 49.030167,
+          "src": "audio/clips/psalm_139_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "If I ascend up into heaven, thou art there:",
+              "if I make my bed in hell, behold, thou art there.",
+              "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
+              "Even there shall thy hand lead me, and thy right hand shall hold me.",
+              "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+              "Yea, the darkness hideth not from thee; but the night shineth as the day:",
+              "the darkness and the light are both alike to thee."
+            ],
+            "pt-br": [
+              "Se eu subir aos céus, lá tu estás:",
+              "se eu fizer da sepultura meu leito, eis que tu estás ali.",
+              "Se eu tomar as asas da alvorada, e morar nas extremidades do mar;",
+              "até ali tua mão me guiará, e tua mão direita me susterá.",
+              "Se eu disser, certamente a escuridão me cobrirá; até a noite será luz ao meu redor.",
+              "Sim, a escuridão não te encobre; mas a noite resplandece como o dia:",
+              "a escuridão e a luz são ambas iguais a ti."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "psalm_139_1__acting.wav",
+            "subtitleCueLines": [
+              15274,
+              15279,
+              15283,
+              15287,
+              15291,
+              15295,
+              15299
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If I ascend up into heaven, thou art there:",
+          "if I make my bed in hell, behold, thou art there.",
+          "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
+          "Even there shall thy hand lead me, and thy right hand shall hold me.",
+          "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+          "Yea, the darkness hideth not from thee; but the night shineth as the day:",
+          "the darkness and the light are both alike to thee."
+        ],
+        "pt-br": [
+          "Se eu subir aos céus, lá tu estás:",
+          "se eu fizer da sepultura meu leito, eis que tu estás ali.",
+          "Se eu tomar as asas da alvorada, e morar nas extremidades do mar;",
+          "até ali tua mão me guiará, e tua mão direita me susterá.",
+          "Se eu disser, certamente a escuridão me cobrirá; até a noite será luz ao meu redor.",
+          "Sim, a escuridão não te encobre; mas a noite resplandece como o dia:",
+          "a escuridão e a luz são ambas iguais a ti."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

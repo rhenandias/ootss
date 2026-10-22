@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_lifeboat_societies_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_lifeboat_societies_3",
+      "clips": [
+        {
+          "id": "audiolog_sky_lifeboat_societies_3_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.458833,
+          "src": "audio/clips/audiolog_sky_lifeboat_societies_3_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "So, you're a religious organization?"
+            ],
+            "pt-br": [
+              "Então, vocês são uma organização religiosa?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_lifeboat_societies_3_1__sokoban.wav",
+            "subtitleCueLines": [
+              9141
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_lifeboat_societies_3_2__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 67.961187,
+          "src": "audio/clips/audiolog_sky_lifeboat_societies_3_2__acting.mp3",
+          "transcripts": {
+            "en": [
+              "We don't require our members to believe anything specific.",
+              "Many of our founders have beliefs you would call religious, or \"spiritual\".",
+              "Some others don't, but they understand",
+              "that the structure and machinery of the Order were created according to these beliefs.",
+              "\"It's in the water\", as they say.",
+              "(The water that we drink, that is.)",
+              "Overall, belief is one of the primary reasons our Order has survived.",
+              "Ambition helps too.",
+              "But without a reason to be that transcends human whim,",
+              "we'd have dissolved like so many other of the Lifeboat societies.",
+              "Like the one I was born into.",
+              "Because even if you make a boat out of rules,",
+              "if everyone knows the rules are arbitrary, why *not* break them, if it feels good in the moment?",
+              "How would you get everyone to observe arbitrary, meaningless, unbacked rules for even a single century?",
+              "Many societies chose to be less-structured and to rely on the good judgement of their members,",
+              "but if you want to know how well they worked, good luck finding anyone to ask.",
+              "So it goes."
+            ],
+            "pt-br": [
+              "Não exigimos que nossos membros acreditem em nada específico.",
+              "Muitos dos nossos fundadores têm crenças que você chamaria de religiosas, ou “espirituais”.",
+              "Outros não, mas entendem",
+              "que a estrutura e a maquinaria da Ordem foram criadas de acordo com essas crenças.",
+              "“Está na água”, como dizem.",
+              "(A água que bebemos, quero dizer.)",
+              "No geral, a crença é uma das principais razões pelas quais nossa Ordem sobreviveu.",
+              "A ambição também ajuda.",
+              "Mas, sem uma razão para existir que transcenda o capricho humano,",
+              "teríamos nos dissolvido como tantas outras Sociedades Salva-Vidas.",
+              "Como aquela em que nasci.",
+              "Porque, mesmo que você faça um barco de regras,",
+              "se todo mundo sabe que as regras são arbitrárias, por que não quebrá-las, se isso faz bem na hora?",
+              "Como você faria todos observarem regras arbitrárias, sem sentido, sem fundamento por sequer um século?",
+              "Muitas sociedades escolheram ser menos estruturadas e confiar no bom senso de seus membros,",
+              "mas, se você quiser saber o quão bem funcionaram, boa sorte tentando encontrar alguém para perguntar.",
+              "É assim que as coisas vão."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_lifeboat_societies_3_2__acting.wav",
+            "subtitleCueLines": [
+              9144,
+              9148,
+              9153,
+              9156,
+              9161,
+              9164,
+              9168,
+              9172,
+              9175,
+              9179,
+              9183,
+              9187,
+              9191,
+              9196,
+              9201,
+              9205,
+              9209
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, you're a religious organization?",
+          "We don't require our members to believe anything specific.",
+          "Many of our founders have beliefs you would call religious, or \"spiritual\".",
+          "Some others don't, but they understand",
+          "that the structure and machinery of the Order were created according to these beliefs.",
+          "\"It's in the water\", as they say.",
+          "(The water that we drink, that is.)",
+          "Overall, belief is one of the primary reasons our Order has survived.",
+          "Ambition helps too.",
+          "But without a reason to be that transcends human whim,",
+          "we'd have dissolved like so many other of the Lifeboat societies.",
+          "Like the one I was born into.",
+          "Because even if you make a boat out of rules,",
+          "if everyone knows the rules are arbitrary, why *not* break them, if it feels good in the moment?",
+          "How would you get everyone to observe arbitrary, meaningless, unbacked rules for even a single century?",
+          "Many societies chose to be less-structured and to rely on the good judgement of their members,",
+          "but if you want to know how well they worked, good luck finding anyone to ask.",
+          "So it goes."
+        ],
+        "pt-br": [
+          "Então, vocês são uma organização religiosa?",
+          "Não exigimos que nossos membros acreditem em nada específico.",
+          "Muitos dos nossos fundadores têm crenças que você chamaria de religiosas, ou “espirituais”.",
+          "Outros não, mas entendem",
+          "que a estrutura e a maquinaria da Ordem foram criadas de acordo com essas crenças.",
+          "“Está na água”, como dizem.",
+          "(A água que bebemos, quero dizer.)",
+          "No geral, a crença é uma das principais razões pelas quais nossa Ordem sobreviveu.",
+          "A ambição também ajuda.",
+          "Mas, sem uma razão para existir que transcenda o capricho humano,",
+          "teríamos nos dissolvido como tantas outras Sociedades Salva-Vidas.",
+          "Como aquela em que nasci.",
+          "Porque, mesmo que você faça um barco de regras,",
+          "se todo mundo sabe que as regras são arbitrárias, por que não quebrá-las, se isso faz bem na hora?",
+          "Como você faria todos observarem regras arbitrárias, sem sentido, sem fundamento por sequer um século?",
+          "Muitas sociedades escolheram ser menos estruturadas e confiar no bom senso de seus membros,",
+          "mas, se você quiser saber o quão bem funcionaram, boa sorte tentando encontrar alguém para perguntar.",
+          "É assim que as coisas vão."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "level": "wizard_and_druid_alt",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_wizard_and_druid_optional",
+      "clips": [
+        {
+          "id": "heroes3_wizard_and_druid_optional_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 11.807083,
+          "src": "audio/clips/heroes3_wizard_and_druid_optional_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "For ten years I was obsessed with the questions:",
+              "How do we teleport something bigger than a ... a quince? And can we make it happen faster?",
+              "I did exceed myself somewhat."
+            ],
+            "pt-br": [
+              "Por dez anos, fiquei obcecado com as perguntas:",
+              "Como teletransportar algo maior que um... um marmelo? E dá pra fazer isso mais rápido?",
+              "Eu me superei, de certo modo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_wizard_and_druid_optional_1__wizard.wav",
+            "subtitleCueLines": [
+              2164,
+              2167,
+              2171
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "For ten years I was obsessed with the questions:",
+          "How do we teleport something bigger than a ... a quince? And can we make it happen faster?",
+          "I did exceed myself somewhat."
+        ],
+        "pt-br": [
+          "Por dez anos, fiquei obcecado com as perguntas:",
+          "Como teletransportar algo maior que um... um marmelo? E dá pra fazer isso mais rápido?",
+          "Eu me superei, de certo modo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031896,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_wizard_and_druid_optional",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/wizard_and_druid_alt.entities"
+          }
+        ],
+        "subtitleLine": 2163,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

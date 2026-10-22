@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_laws_of_form",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_laws_of_form",
+      "clips": [
+        {
+          "id": "audiolog_sky_laws_of_form_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 27.748333,
+          "src": "audio/clips/audiolog_sky_laws_of_form_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "There's another work from our canon, that takes inspiration",
+              "from the Daoist tradition, but puts a mathematical spin on it.",
+              "You'll recall that first the Dao creates or gives rise to One, One creates Two, and so on.",
+              "So we want to look at the idea of going from nothing that is identifiable,",
+              "to one identifiable thing, to many identifiable things.",
+              "So let's consider the idea of Distinction -- lines being drawn to distinguish things from each other."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_1__acting.wav",
+            "subtitleCueLines": [
+              10988,
+              10992,
+              10996,
+              11001,
+              11005,
+              11009
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_laws_of_form_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 6.565333,
+          "src": "audio/clips/audiolog_sky_laws_of_form_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "You're saying distinguish instead of create -- so the things are already created?"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_2__sokoban.wav",
+            "subtitleCueLines": [
+              11014
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_laws_of_form_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 112.184667,
+          "src": "audio/clips/audiolog_sky_laws_of_form_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "It's a different picture of creation. I said \"nothing that is identifiable\",",
+              "but don't imagine this as physical nothingness. More like an all-pervading potential.",
+              "An undifferentiated whole has no need for distinction.",
+              "But once we say there is One, this necessarily involves a distinction:",
+              "between that One, and whatever that One is not.",
+              "To model this mathematically, the author began with what he called the First Distinction.",
+              "This Distinction means that now we have two things, A and Not A.",
+              "Once you have a boundary, this admits the possibility of crossing the boundary.",
+              "You can cross from A to Not A, or from Not A to A.",
+              "On a more human scale, perhaps Alive to Dead, then back to Alive. Contented to Bored, then back to Contented.",
+              "You can write crossings mathematically, where a single right-angled mark both",
+              "states that there is a distinction, and also says \"I crossed it\".",
+              "And then, you can introduce two rules for manipulating what you wrote.",
+              "If you cross and cross back again, you end up where you started -- that's the same as staying still.",
+              "Likewise in reverse. Anywhere you stood still, in other words wrote nothing,",
+              "you can replace this with crossing and then crossing back,",
+              "which looks like one right-angled mark inside another.",
+              "And marking down the same distinction twice is the same as marking it once...",
+              "you are just saying the same thing twice, redundantly.",
+              "(This looks like two right-angled marks next to each other.)",
+              "So anywhere you wrote a distinction, you can write it twice, three times, however many you want.",
+              "With just these two rules of rewriting, a tree can blossom that is huge, as large as you like.",
+              "You know what I mean by a tree, in the mathematical sense?"
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_3__acting.wav",
+            "subtitleCueLines": [
+              11018,
+              11022,
+              11026,
+              11031,
+              11036,
+              11040,
+              11045,
+              11049,
+              11053,
+              11057,
+              11062,
+              11066,
+              11070,
+              11074,
+              11079,
+              11084,
+              11088,
+              11092,
+              11097,
+              11101,
+              11105,
+              11110,
+              11115
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_laws_of_form_5__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 43.9815,
+          "src": "audio/clips/audiolog_sky_laws_of_form_5__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Good.",
+              "You can keep growing the branches of this tree,",
+              "replacing one thing with another via incremental rewrites,",
+              "expanding the expression for as long as your patience permits.",
+              "And the Dao is very patient.",
+              "With all our doodling, we've just created",
+              "a huge proliferation of elaborate forms. All from just crossings and restatements.",
+              "These forms we wrote, when reduced again, all boil down to Distinction or No Distinction --",
+              "but the tree structure you can create has a huge number of possibilities.",
+              "A countably infinite jungle.",
+              "This gives you some insight into a small part of what we study here.",
+              "Think on this, and we'll speak again soon."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_laws_of_form_5__acting.wav",
+            "subtitleCueLines": [
+              11119,
+              11122,
+              11126,
+              11130,
+              11134,
+              11137,
+              11141,
+              11145,
+              11149,
+              11154,
+              11157,
+              11162
+            ],
+            "explicitAudioReference": "audiolog_sky_laws_of_form_5__acting"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There's another work from our canon, that takes inspiration",
+          "from the Daoist tradition, but puts a mathematical spin on it.",
+          "You'll recall that first the Dao creates or gives rise to One, One creates Two, and so on.",
+          "So we want to look at the idea of going from nothing that is identifiable,",
+          "to one identifiable thing, to many identifiable things.",
+          "So let's consider the idea of Distinction -- lines being drawn to distinguish things from each other.",
+          "You're saying distinguish instead of create -- so the things are already created?",
+          "It's a different picture of creation. I said \"nothing that is identifiable\",",
+          "but don't imagine this as physical nothingness. More like an all-pervading potential.",
+          "An undifferentiated whole has no need for distinction.",
+          "But once we say there is One, this necessarily involves a distinction:",
+          "between that One, and whatever that One is not.",
+          "To model this mathematically, the author began with what he called the First Distinction.",
+          "This Distinction means that now we have two things, A and Not A.",
+          "Once you have a boundary, this admits the possibility of crossing the boundary.",
+          "You can cross from A to Not A, or from Not A to A.",
+          "On a more human scale, perhaps Alive to Dead, then back to Alive. Contented to Bored, then back to Contented.",
+          "You can write crossings mathematically, where a single right-angled mark both",
+          "states that there is a distinction, and also says \"I crossed it\".",
+          "And then, you can introduce two rules for manipulating what you wrote.",
+          "If you cross and cross back again, you end up where you started -- that's the same as staying still.",
+          "Likewise in reverse. Anywhere you stood still, in other words wrote nothing,",
+          "you can replace this with crossing and then crossing back,",
+          "which looks like one right-angled mark inside another.",
+          "And marking down the same distinction twice is the same as marking it once...",
+          "you are just saying the same thing twice, redundantly.",
+          "(This looks like two right-angled marks next to each other.)",
+          "So anywhere you wrote a distinction, you can write it twice, three times, however many you want.",
+          "With just these two rules of rewriting, a tree can blossom that is huge, as large as you like.",
+          "You know what I mean by a tree, in the mathematical sense?",
+          "Good.",
+          "You can keep growing the branches of this tree,",
+          "replacing one thing with another via incremental rewrites,",
+          "expanding the expression for as long as your patience permits.",
+          "And the Dao is very patient.",
+          "With all our doodling, we've just created",
+          "a huge proliferation of elaborate forms. All from just crossings and restatements.",
+          "These forms we wrote, when reduced again, all boil down to Distinction or No Distinction --",
+          "but the tree structure you can create has a huge number of possibilities.",
+          "A countably infinite jungle.",
+          "This gives you some insight into a small part of what we study here.",
+          "Think on this, and we'll speak again soon."
+        ],
+        "pt-br": [
+          "Há outra obra do nosso cânone, que se inspira",
+          "da tradição taoísta, mas dá a ela um toque matemático.",
+          "Você deve se lembrar de que primeiro o Dao cria ou dá origem ao Um, o Um cria o Dois, e assim por diante.",
+          "Então queremos examinar a ideia de passar de nada que seja identificável,",
+          "para uma coisa identificável, para muitas coisas identificáveis.",
+          "Vamos considerar a ideia de distinção: linhas traçadas para distinguir as coisas umas das outras.",
+          "Você diz distinguir em vez de criar, então as coisas já estão criadas?",
+          "É outra visão da criação. Eu disse \"nada que seja identificável\",",
+          "mas não imagine isso como um vazio físico. É mais como um potencial que permeia tudo.",
+          "Um todo indiferenciado não precisa de distinção.",
+          "Mas, uma vez que dizemos que há Um, isso necessariamente envolve uma distinção:",
+          "entre esse Um, e aquilo que não é esse Um.",
+          "Para modelar isso matematicamente, o autor começou com o que chamou de Primeira Distinção.",
+          "Essa Distinção significa que agora temos duas coisas, A e Não A.",
+          "Uma vez que você tem uma fronteira, isso admite a possibilidade de cruzar a fronteira.",
+          "Você pode cruzar de A para Não A, ou de Não A para A.",
+          "Em uma escala mais humana, talvez Vivo para Morto, depois de volta para Vivo. Satisfeito para Entediado, depois de volta para Satisfeito.",
+          "Você pode escrever cruzamentos matematicamente, usando um único sinal em ângulo reto que tanto",
+          "afirma que há uma distinção, como também diz \"eu a cruzei\".",
+          "E então, você pode introduzir duas regras para manipular seus escritos.",
+          "Se você cruza e depois cruza de volta, acaba onde começou: é o mesmo que ficar parado.",
+          "O contrário também vale. Em qualquer lugar em que você ficou parado, ou seja, não escreveu nada,",
+          "você pode substituir isso por cruzar e depois cruzar de volta,",
+          "que fica parecendo um sinal em ângulo reto dentro de outro.",
+          "E marcar a mesma distinção duas vezes é o mesmo que marcá-la uma vez...",
+          "você está apenas dizendo a mesma coisa duas vezes, de forma redundante.",
+          "(Isso parece dois sinais em ângulo reto um ao lado do outro.)",
+          "Então, em qualquer lugar em que você escreveu uma distinção, pode escrevê-la duas vezes, três vezes, quantas quiser.",
+          "Com apenas essas duas regras de reescrita, uma árvore pode florescer e ficar enorme, tão grande quanto você quiser.",
+          "Você sabe o que quero dizer com árvore, no sentido matemático?",
+          "Temos um subcampo bem grande que as estuda. Não é o tipo de coisa que entra no meu trabalho, mas conheço a ideia básica.",
+          "Ótimo.",
+          "Você pode continuar fazendo crescer os ramos dessa árvore,",
+          "substituindo uma coisa por outra por meio de reescritas incrementais,",
+          "expandindo a expressão pelo tempo que sua paciência permitir.",
+          "E o Dao é muito paciente.",
+          "Com todos os nossos rabiscos, acabamos de criar",
+          "uma enorme proliferação de formas elaboradas. Tudo só a partir de cruzamentos e reiterações.",
+          "Essas formas que escrevemos, quando reduzidas de novo, todas se resumem à Distinção ou Nenhuma Distinção;",
+          "mas a estrutura em árvore que você pode criar tem um número enorme de possibilidades.",
+          "Uma selva infinita enumerável.",
+          "Isso lhe dá alguma visão de uma pequena parte do que estudamos aqui.",
+          "Pense nisso, e falaremos de novo em breve."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "Clip identities differ from English"
+      }
+    }
+  ]
+}

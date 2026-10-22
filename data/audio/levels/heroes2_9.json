@@ -1,0 +1,447 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_9",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_three_first",
+      "clips": [
+        {
+          "id": "heroes2_three_first_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.440063,
+          "src": "audio/clips/heroes2_three_first_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Together again!"
+            ],
+            "pt-br": [
+              "Juntos de novo!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_1__wizard.wav",
+            "subtitleCueLines": [
+              924
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.685687,
+          "src": "audio/clips/heroes2_three_first_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "He tried to stop us, but he couldn't!"
+            ],
+            "pt-br": [
+              "Ele tentou impedir a gente, mas não conseguiu!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_2__thief.wav",
+            "subtitleCueLines": [
+              927
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.658667,
+          "src": "audio/clips/heroes2_three_first_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "He? You think Reynard was behind the attack on the Caravan?"
+            ],
+            "pt-br": [
+              "Ele? Você acha que o Reynard estava por trás do ataque à Caravana?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_3__warrior.wav",
+            "subtitleCueLines": [
+              931
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_4__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.002792,
+          "src": "audio/clips/heroes2_three_first_4__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Such an attack has hardly ever happened in history --"
+            ],
+            "pt-br": [
+              "Um ataque desses quase nunca aconteceu na história..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_4__thief.wav",
+            "subtitleCueLines": [
+              935
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.522333,
+          "src": "audio/clips/heroes2_three_first_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "None dare; the Caravan's defenses are legendary!..."
+            ],
+            "pt-br": [
+              "Ninguém ousa; as defesas da Caravana são lendárias!..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_5__warrior.wav",
+            "subtitleCueLines": [
+              938
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_6__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.976958,
+          "src": "audio/clips/heroes2_three_first_6__thief.mp3",
+          "transcripts": {
+            "en": [
+              "So *someone* had a legendarily strong motive. Perhaps that motive involves us!"
+            ],
+            "pt-br": [
+              "Então alguém tinha uma motivação de proporções lendárias. Talvez essa motivação tenha a ver conosco!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_6__thief.wav",
+            "subtitleCueLines": [
+              942
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Together again!",
+          "He tried to stop us, but he couldn't!",
+          "He? You think Reynard was behind the attack on the Caravan?",
+          "Such an attack has hardly ever happened in history --",
+          "None dare; the Caravan's defenses are legendary!...",
+          "So *someone* had a legendarily strong motive. Perhaps that motive involves us!"
+        ],
+        "pt-br": [
+          "Juntos de novo!",
+          "Ele tentou impedir a gente, mas não conseguiu!",
+          "Ele? Você acha que o Reynard estava por trás do ataque à Caravana?",
+          "Um ataque desses quase nunca aconteceu na história...",
+          "Ninguém ousa; as defesas da Caravana são lendárias!...",
+          "Então alguém tinha uma motivação de proporções lendárias. Talvez essa motivação tenha a ver conosco!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048622,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_three_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_9.entities"
+          }
+        ],
+        "subtitleLine": 923,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_three_first_mid",
+      "clips": [
+        {
+          "id": "heroes2_three_first_mid_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 12.014854,
+          "src": "audio/clips/heroes2_three_first_mid_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I'm surprised you weren't praying for an ambush.",
+              "Day after day of close-quartered travel, Guardsmen all around,",
+              "not much to occupy them but gossip in quiet whispers; well, *I* felt awkward for you."
+            ],
+            "pt-br": [
+              "Me surpreende você não ter rezado por uma emboscada.",
+              "Dia após dia viajando apertados, guardas por todo lado,",
+              "sem muito o que fazer além de cochichar fofocas; bem, eu fiquei sem graça por você."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_mid_1__wizard.wav",
+            "subtitleCueLines": [
+              950,
+              954,
+              958
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_mid_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 7.017875,
+          "src": "audio/clips/heroes2_three_first_mid_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Not at all. It's only the higher-ups who pretend to hate me. The regular guys on the line, they respect what I did."
+            ],
+            "pt-br": [
+              "Nada disso. Só os superiores fingem me detestar. O pessoal comum me respeita pelo que fiz."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_mid_2__warrior.wav",
+            "subtitleCueLines": [
+              962
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_mid_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 6.109833,
+          "src": "audio/clips/heroes2_three_first_mid_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Izzy, can't you see how they looked at him? They all wanted to be him, ... and they were glad not to be him."
+            ],
+            "pt-br": [
+              "Izzy, você não vê como eles olhavam para ele? Todos queriam ser ele... e ficaram aliviados por não serem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_mid_3__thief.wav",
+            "subtitleCueLines": [
+              967
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_mid_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.197667,
+          "src": "audio/clips/heroes2_three_first_mid_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Let's just keep moving."
+            ],
+            "pt-br": [
+              "Vamos só continuar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_mid_4__warrior.wav",
+            "subtitleCueLines": [
+              972
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm surprised you weren't praying for an ambush.",
+          "Day after day of close-quartered travel, Guardsmen all around,",
+          "not much to occupy them but gossip in quiet whispers; well, *I* felt awkward for you.",
+          "Not at all. It's only the higher-ups who pretend to hate me. The regular guys on the line, they respect what I did.",
+          "Izzy, can't you see how they looked at him? They all wanted to be him, ... and they were glad not to be him.",
+          "Let's just keep moving."
+        ],
+        "pt-br": [
+          "Me surpreende você não ter rezado por uma emboscada.",
+          "Dia após dia viajando apertados, guardas por todo lado,",
+          "sem muito o que fazer além de cochichar fofocas; bem, eu fiquei sem graça por você.",
+          "Nada disso. Só os superiores fingem me detestar. O pessoal comum me respeita pelo que fiz.",
+          "Izzy, você não vê como eles olhavam para ele? Todos queriam ser ele... e ficaram aliviados por não serem.",
+          "Vamos só continuar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_three_first_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0790934562683105,
+              5.05813455581665,
+              0.837254524230957
+            ],
+            "source": "data-common/heroes2_9.entities"
+          }
+        ],
+        "subtitleLine": 949,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_three_first_end",
+      "clips": [
+        {
+          "id": "heroes2_three_first_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.191583,
+          "src": "audio/clips/heroes2_three_first_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I'll search the East!"
+            ],
+            "pt-br": [
+              "Vou procurar no Leste!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_end_1__warrior.wav",
+            "subtitleCueLines": [
+              979
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_end_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.357625,
+          "src": "audio/clips/heroes2_three_first_end_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I've got South!"
+            ],
+            "pt-br": [
+              "Eu fico com o sul!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_end_2__thief.wav",
+            "subtitleCueLines": [
+              982
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_three_first_end_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.557625,
+          "src": "audio/clips/heroes2_three_first_end_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I'll check... the other ways."
+            ],
+            "pt-br": [
+              "Vou verificar... os outros caminhos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_three_first_end_3__wizard.wav",
+            "subtitleCueLines": [
+              985
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'll search the East!",
+          "I've got South!",
+          "I'll check... the other ways."
+        ],
+        "pt-br": [
+          "Vou procurar no Leste!",
+          "Eu fico com o sul!",
+          "Vou verificar... os outros caminhos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048622,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_three_first_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_9.entities"
+          }
+        ],
+        "subtitleLine": 978,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

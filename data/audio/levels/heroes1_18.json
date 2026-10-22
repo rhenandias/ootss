@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_18",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes_three_for_the_second_time_mandatory",
+      "clips": [
+        {
+          "id": "heroes_three_for_the_second_time_mandatory_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.022333,
+          "src": "audio/clips/heroes_three_for_the_second_time_mandatory_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "He locked us up because you stole his case?"
+            ],
+            "pt-br": [
+              "Ele trancou a gente porque você roubou a maleta dele?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_second_time_mandatory_1__warrior.wav",
+            "subtitleCueLines": [
+              501
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_second_time_mandatory_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 7.821688,
+          "src": "audio/clips/heroes_three_for_the_second_time_mandatory_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "At first I was disappointed. But then I realized,",
+              "little notes tell you a lot about people, you know? Reading between the lines. So I took a little peek."
+            ],
+            "pt-br": [
+              "De início fiquei decepcionado. Mas depois percebi,",
+              "pequenas anotações dizem muito sobre as pessoas, sabe? Lendo nas entrelinhas. Então dei uma espiadinha."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_second_time_mandatory_2__thief.wav",
+            "subtitleCueLines": [
+              504,
+              509
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_second_time_mandatory_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 0.621667,
+          "src": "audio/clips/heroes_three_for_the_second_time_mandatory_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "And?"
+            ],
+            "pt-br": [
+              "E aí?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_second_time_mandatory_3__wizard.wav",
+            "subtitleCueLines": [
+              514
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_second_time_mandatory_4__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 10.042333,
+          "src": "audio/clips/heroes_three_for_the_second_time_mandatory_4__thief.mp3",
+          "transcripts": {
+            "en": [
+              "We should have never taken this job, or maybe we should have -- as we did -- because if we didn't,",
+              "we wouldn't know what we know, which is, we have to stop him... as soon as possible."
+            ],
+            "pt-br": [
+              "Nunca deveríamos ter aceitado esse serviço, ou talvez devêssemos ter — como fizemos — porque, se não tivéssemos,",
+              "não saberíamos o que sabemos, que é: temos que impedir ele... o mais rápido possível."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_second_time_mandatory_4__thief.wav",
+            "subtitleCueLines": [
+              517,
+              522
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "He locked us up because you stole his case?",
+          "At first I was disappointed. But then I realized,",
+          "little notes tell you a lot about people, you know? Reading between the lines. So I took a little peek.",
+          "And?",
+          "We should have never taken this job, or maybe we should have -- as we did -- because if we didn't,",
+          "we wouldn't know what we know, which is, we have to stop him... as soon as possible."
+        ],
+        "pt-br": [
+          "Ele trancou a gente porque você roubou a maleta dele?",
+          "De início fiquei decepcionado. Mas depois percebi,",
+          "pequenas anotações dizem muito sobre as pessoas, sabe? Lendo nas entrelinhas. Então dei uma espiadinha.",
+          "E aí?",
+          "Nunca deveríamos ter aceitado esse serviço, ou talvez devêssemos ter — como fizemos — porque, se não tivéssemos,",
+          "não saberíamos o que sabemos, que é: temos que impedir ele... o mais rápido possível."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048599,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes_three_for_the_second_time_mandatory",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_18.entities"
+          }
+        ],
+        "subtitleLine": 500,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_three_for_the_second_time_mandatory_end",
+      "clips": [
+        {
+          "id": "heroes_three_for_the_second_time_mandatory_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.417,
+          "src": "audio/clips/heroes_three_for_the_second_time_mandatory_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Stop him, from what?"
+            ],
+            "pt-br": [
+              "Impedir ele de quê?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_second_time_mandatory_end_1__wizard.wav",
+            "subtitleCueLines": [
+              531
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_second_time_mandatory_end_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.681667,
+          "src": "audio/clips/heroes_three_for_the_second_time_mandatory_end_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "These crystals. We need to talk about ... how they're made."
+            ],
+            "pt-br": [
+              "Esses cristais. Precisamos conversar sobre... como são feitos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_second_time_mandatory_end_2__thief.wav",
+            "subtitleCueLines": [
+              534
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Stop him, from what?",
+          "These crystals. We need to talk about ... how they're made."
+        ],
+        "pt-br": [
+          "Impedir ele de quê?",
+          "Esses cristais. Precisamos conversar sobre... como são feitos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048599,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes_three_for_the_second_time_mandatory_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_18.entities"
+          }
+        ],
+        "subtitleLine": 530,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

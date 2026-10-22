@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "end2_sokoban_writing_choice_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end2_sokoban_writing_choice_2",
+      "clips": [
+        {
+          "id": "end2_sokoban_writing_choice_2_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 28.093979,
+          "src": "audio/clips/end2_sokoban_writing_choice_2_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "As I have previously mentioned, I had a choice whether to dictate or to write Signs, and I chose to write.",
+              "There was then, naturally, a further choice: how *much* to write.",
+              "If I wrote at great length, I could be very specific in pointing out every detail that I wish you to observe.",
+              "But I prefer to use the nonverbal channels, when I am able to employ them successfully.",
+              "So I chose brevity, to give space for the Puzzles themselves to speak."
+            ],
+            "pt-br": [
+              "Como já mencionei, eu podia escolher entre ditar ou escrever placas, e escolhi escrever.",
+              "Havia então, naturalmente, mais uma escolha: quanto escrever.",
+              "Se eu escrevesse longamente, poderia ser muito específico ao apontar cada detalhe que quero que você observe.",
+              "Mas prefiro usar os canais não verbais, quando consigo empregá-los com sucesso.",
+              "Escolhi a concisão, para abrir espaço para que os próprios quebra-cabeças falem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end2_sokoban_writing_choice_2_1__sokoban.wav",
+            "subtitleCueLines": [
+              11474,
+              11479,
+              11483,
+              11488,
+              11492
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "As I have previously mentioned, I had a choice whether to dictate or to write Signs, and I chose to write.",
+          "There was then, naturally, a further choice: how *much* to write.",
+          "If I wrote at great length, I could be very specific in pointing out every detail that I wish you to observe.",
+          "But I prefer to use the nonverbal channels, when I am able to employ them successfully.",
+          "So I chose brevity, to give space for the Puzzles themselves to speak."
+        ],
+        "pt-br": [
+          "Como já mencionei, eu podia escolher entre ditar ou escrever placas, e escolhi escrever.",
+          "Havia então, naturalmente, mais uma escolha: quanto escrever.",
+          "Se eu escrevesse longamente, poderia ser muito específico ao apontar cada detalhe que quero que você observe.",
+          "Mas prefiro usar os canais não verbais, quando consigo empregá-los com sucesso.",
+          "Escolhi a concisão, para abrir espaço para que os próprios quebra-cabeças falem."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

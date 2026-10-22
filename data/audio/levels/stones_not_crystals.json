@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "stones_not_crystals",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_stones_not_crystals",
+      "clips": [
+        {
+          "id": "hp_stones_not_crystals_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.520625,
+          "src": "audio/clips/hp_stones_not_crystals_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Eerily familiar."
+            ],
+            "pt-br": [
+              "Estranhamente familiar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_stones_not_crystals_1__warrior.wav",
+            "subtitleCueLines": [
+              8115
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Eerily familiar."
+        ],
+        "pt-br": [
+          "Estranhamente familiar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 59768837,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_stones_not_crystals",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              15.0,
+              0.0
+            ],
+            "source": "data-common/stones_not_crystals.entities"
+          }
+        ],
+        "subtitleLine": 8114,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

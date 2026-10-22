@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_ps",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "worlds_collide_SP_start",
+      "clips": [
+        {
+          "id": "worlds_collide_SP_start_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 0.804625,
+          "src": "audio/clips/worlds_collide_SP_start_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Hello?"
+            ],
+            "pt-br": [
+              "Oi?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_SP_start_1__gemsman.wav",
+            "subtitleCueLines": [
+              6755
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_SP_start_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.086167,
+          "src": "audio/clips/worlds_collide_SP_start_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh, this again.",
+              "This again. Hello!"
+            ],
+            "pt-br": [
+              "Ah, de novo isso.",
+              "De novo isso. Olá!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_SP_start_2__sailor.wav",
+            "subtitleCueLines": [
+              6759,
+              6763
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_SP_start_3__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.267667,
+          "src": "audio/clips/worlds_collide_SP_start_3__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "You've been here before?"
+            ],
+            "pt-br": [
+              "Você já esteve aqui antes?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_SP_start_3__gemsman.wav",
+            "subtitleCueLines": [
+              6767
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_SP_start_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.923958,
+          "src": "audio/clips/worlds_collide_SP_start_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Not here. A place like here, but, also ... very different!"
+            ],
+            "pt-br": [
+              "Não aqui. Um lugar como este, mas também... muito diferente!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_SP_start_4__sailor.wav",
+            "subtitleCueLines": [
+              6771
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_SP_start_5__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.225583,
+          "src": "audio/clips/worlds_collide_SP_start_5__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "So then perhaps you know how to get me out of here?"
+            ],
+            "pt-br": [
+              "Então talvez você saiba como me tirar daqui?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_SP_start_5__gemsman.wav",
+            "subtitleCueLines": [
+              6776
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_SP_start_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.306708,
+          "src": "audio/clips/worlds_collide_SP_start_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "We can try some things."
+            ],
+            "pt-br": [
+              "Podemos tentar algumas coisas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_SP_start_6__sailor.wav",
+            "subtitleCueLines": [
+              6781
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hello?",
+          "Oh, this again.",
+          "This again. Hello!",
+          "You've been here before?",
+          "Not here. A place like here, but, also ... very different!",
+          "So then perhaps you know how to get me out of here?",
+          "We can try some things."
+        ],
+        "pt-br": [
+          "Oi?",
+          "Ah, de novo isso.",
+          "De novo isso. Olá!",
+          "Você já esteve aqui antes?",
+          "Não aqui. Um lugar como este, mas também... muito diferente!",
+          "Então talvez você saiba como me tirar daqui?",
+          "Podemos tentar algumas coisas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 58720275,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "worlds_collide_SP_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_ps.entities"
+          }
+        ],
+        "subtitleLine": 6754,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

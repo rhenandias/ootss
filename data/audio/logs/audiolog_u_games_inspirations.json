@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_games_inspirations",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_games_inspirations",
+      "clips": [
+        {
+          "id": "audiolog_u_games_inspirations_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 41.823208,
+          "src": "audio/clips/audiolog_u_games_inspirations_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "As our technology advanced, so did our games. We always brought games with us,",
+              "through the upheavals and calamities that we were lucky to survive -- *seemed* lucky to survive.",
+              "What we do today, in these Warehouses, you couldn't call the same thing.",
+              "But it has its roots in the games of our elders,",
+              "and our Order holds this time in great respect.",
+              "Occasionally we look back and re-experience the works of that time, as best we can,",
+              "to return to a childlike state, to try and notice what we've lost in the modern day.",
+              "And sometimes, we do find litle nuggets of gold."
+            ],
+            "pt-br": [
+              "Com o avanço da tecnologia, nossos jogos evoluíam. Sempre levávamos os jogos conosco,",
+              "através das convulsões e calamidades às quais tivemos a sorte de sobreviver... parecia sorte sobreviver.",
+              "O que fazemos hoje, nestes Armazéns, você não poderia chamar da mesma coisa.",
+              "Mas isso tem suas raízes nos jogos de nossos mais velhos,",
+              "e nossa Ordem tem este tempo em grande respeito.",
+              "De vez em quando, olhamos para trás e revivemos as obras daquela época, da melhor forma que podemos,",
+              "para voltar a um estado infantil, para tentar notar o que perdemos nos dias de hoje.",
+              "De vez em quando, encontramos pequenas pepitas de ouro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_games_inspirations_1__director.wav",
+            "subtitleCueLines": [
+              12078,
+              12082,
+              12088,
+              12092,
+              12096,
+              12100,
+              12105,
+              12110
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "As our technology advanced, so did our games. We always brought games with us,",
+          "through the upheavals and calamities that we were lucky to survive -- *seemed* lucky to survive.",
+          "What we do today, in these Warehouses, you couldn't call the same thing.",
+          "But it has its roots in the games of our elders,",
+          "and our Order holds this time in great respect.",
+          "Occasionally we look back and re-experience the works of that time, as best we can,",
+          "to return to a childlike state, to try and notice what we've lost in the modern day.",
+          "And sometimes, we do find litle nuggets of gold."
+        ],
+        "pt-br": [
+          "Com o avanço da tecnologia, nossos jogos evoluíam. Sempre levávamos os jogos conosco,",
+          "através das convulsões e calamidades às quais tivemos a sorte de sobreviver... parecia sorte sobreviver.",
+          "O que fazemos hoje, nestes Armazéns, você não poderia chamar da mesma coisa.",
+          "Mas isso tem suas raízes nos jogos de nossos mais velhos,",
+          "e nossa Ordem tem este tempo em grande respeito.",
+          "De vez em quando, olhamos para trás e revivemos as obras daquela época, da melhor forma que podemos,",
+          "para voltar a um estado infantil, para tentar notar o que perdemos nos dias de hoje.",
+          "De vez em quando, encontramos pequenas pepitas de ouro."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

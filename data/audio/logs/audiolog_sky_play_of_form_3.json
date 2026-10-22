@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_play_of_form_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_play_of_form_3",
+      "clips": [
+        {
+          "id": "audiolog_sky_play_of_form_3_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 74.278042,
+          "src": "audio/clips/audiolog_sky_play_of_form_3_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Surprise seems to be special.",
+              "If the world were completely predictable, there would be nothing to figure out or decide, as everything would be known to you.",
+              "But, such a world would be too simple to be interesting. Certainly it could contain no humans.",
+              "If the world were *too* random and chaotic -- we wouldn't have any idea what could happen next.",
+              "How do you get food, shelter, safety, when you have no idea what *is* food,",
+              "and if you do figure that out, the world changes so quickly that your discovery becomes invalid in the next moment?",
+              "Fortunately, we're somewhere in the middle. The world operates according to rules, and those rules generate patterned outcomes.",
+              "Those patterns are recognizable and predictable. So we humans have developed an extensive set of skills,",
+              "that are all about having expectations. Predicting what we think will happen next.",
+              "And when our expectations are defied, the result is *surprise*.",
+              "Sometimes surprise can be very delightful; sometimes it is horrifying and we die.",
+              "That we often *do* find surprise enjoyable, some would believe is a mere biological",
+              "function. But many of us regard it instead as a deep mystery."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_3_1__acting.wav",
+            "subtitleCueLines": [
+              11299,
+              11302,
+              11307,
+              11312,
+              11316,
+              11320,
+              11326,
+              11331,
+              11336,
+              11340,
+              11344,
+              11348,
+              11352
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_3_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 30.910333,
+          "src": "audio/clips/audiolog_sky_play_of_form_3_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Its being biological makes perfect sense. To be surprised is to discover",
+              "something wrong or incomplete in one's understanding of the world;",
+              "it's beneficial to repair those mistakes.",
+              "Positive emotion helps anchor the moment of surprise in memory --",
+              "that we may revisit it frequently, dwell upon it, and improve our understanding. If we do *not* do so, future surprises could kill us.",
+              "Thus creatures with positive feelings about surprise die less, and reproduce more."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_3_2__sokoban.wav",
+            "subtitleCueLines": [
+              11356,
+              11360,
+              11364,
+              11367,
+              11371,
+              11376
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_3_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 43.307,
+          "src": "audio/clips/audiolog_sky_play_of_form_3_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "I think that's true, insofar as it goes. But consider there may be more to it.",
+              "We've said that Reality is always combining the elements we *already have* and producing things *never before seen*.",
+              "Perhaps the *point* of this involves surprise at seeing new results.",
+              "Perhaps the Universe is engaged in a constant process of generating its own delight, and we mere humans,",
+              "when we solve some puzzle and feel a moment of joy in understanding,",
+              "perhaps we are just tapping into that background delight, harmonizing with it,",
+              "experiencing a brief insight into the fundamental nature of reality.",
+              "Perhaps strengthening that connection is a skill we can learn."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_3_3__acting.wav",
+            "subtitleCueLines": [
+              11381,
+              11385,
+              11390,
+              11394,
+              11398,
+              11402,
+              11406,
+              11410
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_3_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.19225,
+          "src": "audio/clips/audiolog_sky_play_of_form_3_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Well. I am here to listen."
+            ],
+            "pt-br": []
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_3_4__sokoban.wav",
+            "subtitleCueLines": [
+              11415
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Surprise seems to be special.",
+          "If the world were completely predictable, there would be nothing to figure out or decide, as everything would be known to you.",
+          "But, such a world would be too simple to be interesting. Certainly it could contain no humans.",
+          "If the world were *too* random and chaotic -- we wouldn't have any idea what could happen next.",
+          "How do you get food, shelter, safety, when you have no idea what *is* food,",
+          "and if you do figure that out, the world changes so quickly that your discovery becomes invalid in the next moment?",
+          "Fortunately, we're somewhere in the middle. The world operates according to rules, and those rules generate patterned outcomes.",
+          "Those patterns are recognizable and predictable. So we humans have developed an extensive set of skills,",
+          "that are all about having expectations. Predicting what we think will happen next.",
+          "And when our expectations are defied, the result is *surprise*.",
+          "Sometimes surprise can be very delightful; sometimes it is horrifying and we die.",
+          "That we often *do* find surprise enjoyable, some would believe is a mere biological",
+          "function. But many of us regard it instead as a deep mystery.",
+          "Its being biological makes perfect sense. To be surprised is to discover",
+          "something wrong or incomplete in one's understanding of the world;",
+          "it's beneficial to repair those mistakes.",
+          "Positive emotion helps anchor the moment of surprise in memory --",
+          "that we may revisit it frequently, dwell upon it, and improve our understanding. If we do *not* do so, future surprises could kill us.",
+          "Thus creatures with positive feelings about surprise die less, and reproduce more.",
+          "I think that's true, insofar as it goes. But consider there may be more to it.",
+          "We've said that Reality is always combining the elements we *already have* and producing things *never before seen*.",
+          "Perhaps the *point* of this involves surprise at seeing new results.",
+          "Perhaps the Universe is engaged in a constant process of generating its own delight, and we mere humans,",
+          "when we solve some puzzle and feel a moment of joy in understanding,",
+          "perhaps we are just tapping into that background delight, harmonizing with it,",
+          "experiencing a brief insight into the fundamental nature of reality.",
+          "Perhaps strengthening that connection is a skill we can learn.",
+          "Well. I am here to listen."
+        ],
+        "pt-br": [
+          "A surpresa parece ter algo de especial.",
+          "Se o mundo fosse completamente previsível, não haveria nada a descobrir ou decidir, porque tudo já seria conhecido por você.",
+          "Mas um mundo assim seria simples demais para ser interessante. Certamente não poderia conter humanos.",
+          "Se o mundo fosse muito aleatório e caótico, não teríamos ideia do que poderia acontecer em seguida.",
+          "Como você consegue comida, abrigo, segurança, quando não faz ideia do que é comida,",
+          "e se você de fato descobrir, o mundo muda tão depressa que sua descoberta perde a validade no instante seguinte?",
+          "Felizmente, estamos em algum ponto intermediário. O mundo funciona segundo regras, e essas regras geram padrões nos resultados.",
+          "Esses padrões são reconhecíveis e previsíveis. Por isso nós, humanos, desenvolvemos um amplo conjunto de habilidades,",
+          "que têm tudo a ver com criar expectativas. Prever o que achamos que vai acontecer em seguida.",
+          "E, quando nossas expectativas são frustradas, o resultado é a *surpresa*.",
+          "Às vezes a surpresa pode ser muito agradável; às vezes é horrível e morremos.",
+          "O fato de muitas vezes *gostarmos* de surpresas, alguns acreditam ser uma mera",
+          "função biológica. Mas muitos de nós o consideram um profundo mistério.",
+          "Faz todo sentido que seja algo biológico. Surpreender-se é descobrir",
+          "algo errado ou incompleto na própria compreensão do mundo;",
+          "é benéfico corrigir esses erros.",
+          "Uma emoção positiva ajuda a fixar o momento de surpresa na memória,",
+          "para que possamos revisitá-lo com frequência, refletir sobre ele e aprimorar nossa compreensão. Se *não* fizermos isso, surpresas futuras poderão nos matar.",
+          "Assim, criaturas que sentem prazer com a surpresa morrem menos e se reproduzem mais.",
+          "Acho que isso é verdade, até certo ponto. Mas considere que talvez haja mais do que isso.",
+          "Dissemos que a Realidade está sempre combinando os elementos que já temos e produzindo coisas nunca antes vistas.",
+          "Talvez o *sentido* disso envolva a surpresa de ver novos resultados.",
+          "Talvez o Universo esteja engajado num processo constante de gerar o próprio deleite, e nós, meros humanos,",
+          "quando resolvemos um quebra-cabeça e sentimos um momento de alegria na compreensão,",
+          "talvez estejamos apenas acessando esse deleite de fundo, em harmonia com ele,",
+          "tendo um breve vislumbre da natureza fundamental da realidade.",
+          "Talvez fortalecer essa conexão seja uma habilidade que podemos aprender.",
+          "Bem. Estou aqui para ouvir."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "pt-br": "Clip identities differ from English"
+      }
+    }
+  ]
+}

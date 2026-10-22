@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_17",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_wizard_and_priestess_alone_third",
+      "clips": [
+        {
+          "id": "heroes2_wizard_and_priestess_alone_third_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 57.569208,
+          "src": "audio/clips/heroes2_wizard_and_priestess_alone_third_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I was so careful, for so long. I was careful, I was careful, I was careful, I was careful, then ...",
+              "One day I woke up at 3 in the morning, full of energy, yearning to just do it all.",
+              "*Enough* careful, years of being careful are making me old! It's time to just leap ahead.",
+              "I was working feverishly, half-asleep, blearily...",
+              "The stone shimmering with power, vibrations through my fingers, coursing up my arm.",
+              "No surprise, -- a mistake. and, I dropped it --",
+              "a flash, a report, tiny fragments shooting out, piercing --",
+              "and thus you see me today.",
+              "Numerous and tiny, there's no removing them."
+            ],
+            "pt-br": [
+              "Eu fui tão cuidadoso, por tanto tempo. Eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, aí...",
+              "Um dia acordei às 3 da manhã, cheio de energia, querendo fazer tudo de uma vez.",
+              "Chega de tanto cuidado, anos sendo cuidadoso estão me deixando velho! É hora de simplesmente dar o salto.",
+              "Eu estava trabalhando febrilmente, meio dormindo, com a visão turva...",
+              "A pedra reluzindo de poder, vibrações passando pelos meus dedos, subindo pelo meu braço.",
+              "Sem surpresa... um erro. E eu a deixei cair...",
+              "um clarão, um estampido, fragmentos minúsculos disparando, perfurando...",
+              "e foi assim que fiquei deste jeito.",
+              "São muitos e minúsculos, não dá para removê-los."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_and_priestess_alone_third_1__wizard.wav",
+            "subtitleCueLines": [
+              1464,
+              1469,
+              1473,
+              1478,
+              1482,
+              1487,
+              1491,
+              1497,
+              1501
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I was so careful, for so long. I was careful, I was careful, I was careful, I was careful, then ...",
+          "One day I woke up at 3 in the morning, full of energy, yearning to just do it all.",
+          "*Enough* careful, years of being careful are making me old! It's time to just leap ahead.",
+          "I was working feverishly, half-asleep, blearily...",
+          "The stone shimmering with power, vibrations through my fingers, coursing up my arm.",
+          "No surprise, -- a mistake. and, I dropped it --",
+          "a flash, a report, tiny fragments shooting out, piercing --",
+          "and thus you see me today.",
+          "Numerous and tiny, there's no removing them."
+        ],
+        "pt-br": [
+          "Eu fui tão cuidadoso, por tanto tempo. Eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, aí...",
+          "Um dia acordei às 3 da manhã, cheio de energia, querendo fazer tudo de uma vez.",
+          "Chega de tanto cuidado, anos sendo cuidadoso estão me deixando velho! É hora de simplesmente dar o salto.",
+          "Eu estava trabalhando febrilmente, meio dormindo, com a visão turva...",
+          "A pedra reluzindo de poder, vibrações passando pelos meus dedos, subindo pelo meu braço.",
+          "Sem surpresa... um erro. E eu a deixei cair...",
+          "um clarão, um estampido, fragmentos minúsculos disparando, perfurando...",
+          "e foi assim que fiquei deste jeito.",
+          "São muitos e minúsculos, não dá para removê-los."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048589,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_wizard_and_priestess_alone_third",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_17.entities"
+          }
+        ],
+        "subtitleLine": 1463,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_wizard_and_priestess_alone_third_end",
+      "clips": [
+        {
+          "id": "heroes2_wizard_and_priestess_alone_third_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 20.365958,
+          "src": "audio/clips/heroes2_wizard_and_priestess_alone_third_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "So it was an accident; but many a fool would love to do what I can do,",
+              "so perhaps it was no accident at all. May be I wrecked my life intentionally, a mind behind my mind."
+            ],
+            "pt-br": [
+              "Então foi um acidente, mas tem muito tolo por aí que adoraria fazer o que eu faço,",
+              "então talvez não tenha sido um acidente. Talvez eu tenha arruinado minha vida de propósito, uma mente por trás da minha mente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_and_priestess_alone_third_end_1__wizard.wav",
+            "subtitleCueLines": [
+              1509,
+              1514
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So it was an accident; but many a fool would love to do what I can do,",
+          "so perhaps it was no accident at all. May be I wrecked my life intentionally, a mind behind my mind."
+        ],
+        "pt-br": [
+          "Então foi um acidente, mas tem muito tolo por aí que adoraria fazer o que eu faço,",
+          "então talvez não tenha sido um acidente. Talvez eu tenha arruinado minha vida de propósito, uma mente por trás da minha mente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_wizard_and_priestess_alone_third_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.1800079345703125,
+              2.7393577098846436,
+              1.3818206787109375
+            ],
+            "source": "data-common/heroes2_17.entities"
+          }
+        ],
+        "subtitleLine": 1508,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "level": "push_down_a_lot_small",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_push_down_a_lot_small",
+      "clips": [
+        {
+          "id": "audiolog_di_push_down_a_lot_small_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 66.227417,
+          "src": "audio/clips/audiolog_di_push_down_a_lot_small_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here, we've simplified the level from 8 buttons to 6, while preserving most of the original ideas.",
+              "I say 'most' because one idea has been cut from this version,",
+              "which we mentioned in the previous recording: the part where you *could* reach several different buttons",
+              "by pushing a crystal in front of a hole, and then dropping into that hole,",
+              "but you can only do this once, so you choose the right hole to drop into.",
+              "In this revision, we've streamlined the concepts: \"Here are a variety of ways you could reach the buttons,",
+              "and just one of them involves dropping into a hole\".",
+              "The original version of this level is a bigger, more difficult mental maze.",
+              "Because this one is not so big, you spend less time maze-solving, and proportionately more time",
+              "just looking at the individual cases of where the crystals can go.",
+              "To me, it's a little bit of a matter of taste which version you like more.",
+              "You might think this one is too easy; but as a designer, keep in mind",
+              "that it's easy to underestimate the difficulty, because you know the answer already, because you came up with it!",
+              "In the interest of keeping the pacing quick and avoiding redundant material, we went with the simpler version."
+            ],
+            "pt-br": [
+              "Aqui, simplificamos a fase de 8 botões para 6, preservando a maior parte das ideias originais.",
+              "Digo “a maior parte” porque há uma ideia que foi cortada desta versão,",
+              "que mencionamos na gravação anterior: a parte em que você poderia alcançar vários botões diferentes",
+              "empurrando um cristal para a frente de um buraco, e então caindo nesse buraco,",
+              "mas você só pode fazer isso uma vez, então você escolhe o buraco certo em que vai cair.",
+              "Nesta revisão, simplificamos os conceitos: “Aqui estão várias formas de você alcançar os botões,",
+              "e só uma delas envolve cair em um buraco”.",
+              "A versão original desta fase é um labirinto mental maior e mais difícil.",
+              "Como esta não é tão grande, você passa menos tempo resolvendo o labirinto e, proporcionalmente, mais tempo",
+              "só olhando para os casos individuais de onde os cristais podem ir.",
+              "Para mim, é um pouco uma questão de gosto qual versão você prefere.",
+              "Você pode achar que esta está fácil demais; mas, como designer, lembre-se",
+              "de que é fácil subestimar a dificuldade porque você já sabe a resposta, porque foi você que a criou!",
+              "Para manter o ritmo rápido e evitar material redundante, optamos pela versão mais simples."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_push_down_a_lot_small_1__director.wav",
+            "subtitleCueLines": [
+              13833,
+              13838,
+              13842,
+              13847,
+              13851,
+              13855,
+              13860,
+              13863,
+              13867,
+              13871,
+              13875,
+              13879,
+              13883,
+              13888
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here, we've simplified the level from 8 buttons to 6, while preserving most of the original ideas.",
+          "I say 'most' because one idea has been cut from this version,",
+          "which we mentioned in the previous recording: the part where you *could* reach several different buttons",
+          "by pushing a crystal in front of a hole, and then dropping into that hole,",
+          "but you can only do this once, so you choose the right hole to drop into.",
+          "In this revision, we've streamlined the concepts: \"Here are a variety of ways you could reach the buttons,",
+          "and just one of them involves dropping into a hole\".",
+          "The original version of this level is a bigger, more difficult mental maze.",
+          "Because this one is not so big, you spend less time maze-solving, and proportionately more time",
+          "just looking at the individual cases of where the crystals can go.",
+          "To me, it's a little bit of a matter of taste which version you like more.",
+          "You might think this one is too easy; but as a designer, keep in mind",
+          "that it's easy to underestimate the difficulty, because you know the answer already, because you came up with it!",
+          "In the interest of keeping the pacing quick and avoiding redundant material, we went with the simpler version."
+        ],
+        "pt-br": [
+          "Aqui, simplificamos a fase de 8 botões para 6, preservando a maior parte das ideias originais.",
+          "Digo “a maior parte” porque há uma ideia que foi cortada desta versão,",
+          "que mencionamos na gravação anterior: a parte em que você poderia alcançar vários botões diferentes",
+          "empurrando um cristal para a frente de um buraco, e então caindo nesse buraco,",
+          "mas você só pode fazer isso uma vez, então você escolhe o buraco certo em que vai cair.",
+          "Nesta revisão, simplificamos os conceitos: “Aqui estão várias formas de você alcançar os botões,",
+          "e só uma delas envolve cair em um buraco”.",
+          "A versão original desta fase é um labirinto mental maior e mais difícil.",
+          "Como esta não é tão grande, você passa menos tempo resolvendo o labirinto e, proporcionalmente, mais tempo",
+          "só olhando para os casos individuais de onde os cristais podem ir.",
+          "Para mim, é um pouco uma questão de gosto qual versão você prefere.",
+          "Você pode achar que esta está fácil demais; mas, como designer, lembre-se",
+          "de que é fácil subestimar a dificuldade porque você já sabe a resposta, porque foi você que a criou!",
+          "Para manter o ritmo rápido e evitar material redundante, optamos pela versão mais simples."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_push_down_a_lot_small",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              21.0,
+              5.0
+            ],
+            "source": "data-common/push_down_a_lot_small.entities"
+          }
+        ],
+        "subtitleLine": 13832,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_20",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_wizard_thief_priestess_goblins",
+      "clips": [
+        {
+          "id": "heroes2_wizard_thief_priestess_goblins_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.610146,
+          "src": "audio/clips/heroes2_wizard_thief_priestess_goblins_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "A Guardsman told me they all saw incredible smoke coming from the mountains, last week."
+            ],
+            "pt-br": [
+              "Um guarda me disse que todos viram uma fumaça incrível vindo das montanhas, na semana passada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_thief_priestess_goblins_1__thief.wav",
+            "subtitleCueLines": [
+              1524
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_wizard_thief_priestess_goblins_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 7.974333,
+          "src": "audio/clips/heroes2_wizard_thief_priestess_goblins_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "There was a fire in the goblin caves? A huge accident? Or, -- maybe someone smoked them out intentionally..."
+            ],
+            "pt-br": [
+              "Houve um incêndio nas cavernas dos goblins? Um acidente enorme? Ou... talvez alguém tenha expulsado eles de lá de propósito..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_thief_priestess_goblins_2__wizard.wav",
+            "subtitleCueLines": [
+              1530
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_wizard_thief_priestess_goblins_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.062104,
+          "src": "audio/clips/heroes2_wizard_thief_priestess_goblins_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Then how'd the dragons get here? They don't mind smoke."
+            ],
+            "pt-br": [
+              "Então como os dragões chegaram aqui? Eles não se importam com fumaça."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_thief_priestess_goblins_3__thief.wav",
+            "subtitleCueLines": [
+              1535
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_wizard_thief_priestess_goblins_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.881604,
+          "src": "audio/clips/heroes2_wizard_thief_priestess_goblins_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Maybe the dragons made the smoke..."
+            ],
+            "pt-br": [
+              "Talvez os dragões tenham feito a fumaça..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_thief_priestess_goblins_4__wizard.wav",
+            "subtitleCueLines": [
+              1539
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A Guardsman told me they all saw incredible smoke coming from the mountains, last week.",
+          "There was a fire in the goblin caves? A huge accident? Or, -- maybe someone smoked them out intentionally...",
+          "Then how'd the dragons get here? They don't mind smoke.",
+          "Maybe the dragons made the smoke..."
+        ],
+        "pt-br": [
+          "Um guarda me disse que todos viram uma fumaça incrível vindo das montanhas, na semana passada.",
+          "Houve um incêndio nas cavernas dos goblins? Um acidente enorme? Ou... talvez alguém tenha expulsado eles de lá de propósito...",
+          "Então como os dragões chegaram aqui? Eles não se importam com fumaça.",
+          "Talvez os dragões tenham feito a fumaça..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048589,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_wizard_thief_priestess_goblins",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_20.entities"
+          }
+        ],
+        "subtitleLine": 1523,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_17",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes_three_for_the_first_time_mandatory",
+      "clips": [
+        {
+          "id": "heroes_three_for_the_first_time_mandatory_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.613,
+          "src": "audio/clips/heroes_three_for_the_first_time_mandatory_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Tif ... why did the Magistrate order his guards to seize us?"
+            ],
+            "pt-br": [
+              "Tif... por que o Magistrado mandou os guardas nos prenderem?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_mandatory_1__warrior.wav",
+            "subtitleCueLines": [
+              467
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_mandatory_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.180313,
+          "src": "audio/clips/heroes_three_for_the_first_time_mandatory_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Sometimes things just follow me home. Without me doing *anything*. You know how it is."
+            ],
+            "pt-br": [
+              "Às vezes as coisas vão pra casa comigo. Sem eu fazer nada. Sabe como é."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_mandatory_2__thief.wav",
+            "subtitleCueLines": [
+              471
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_mandatory_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.379167,
+          "src": "audio/clips/heroes_three_for_the_first_time_mandatory_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "You stole from him?"
+            ],
+            "pt-br": [
+              "Você roubou dele?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_mandatory_3__wizard.wav",
+            "subtitleCueLines": [
+              477
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Tif ... why did the Magistrate order his guards to seize us?",
+          "Sometimes things just follow me home. Without me doing *anything*. You know how it is.",
+          "You stole from him?"
+        ],
+        "pt-br": [
+          "Tif... por que o Magistrado mandou os guardas nos prenderem?",
+          "Às vezes as coisas vão pra casa comigo. Sem eu fazer nada. Sabe como é.",
+          "Você roubou dele?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes_three_for_the_first_time_mandatory",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.22642183303833,
+              1.3741106986999512,
+              1.4243965148925781
+            ],
+            "source": "data-common/heroes1_17.entities"
+          }
+        ],
+        "subtitleLine": 466,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_three_for_the_first_time_mandatory_end",
+      "clips": [
+        {
+          "id": "heroes_three_for_the_first_time_mandatory_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.477167,
+          "src": "audio/clips/heroes_three_for_the_first_time_mandatory_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Following you home, in this case, was...?"
+            ],
+            "pt-br": [
+              "O que veio com você pra casa, nesse caso, foi...?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_mandatory_end_1__warrior.wav",
+            "subtitleCueLines": [
+              484
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_mandatory_end_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 13.516,
+          "src": "audio/clips/heroes_three_for_the_first_time_mandatory_end_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Well, yeah, in a case... how did you ... hmmm. It was a fine leather-clad case, with satisfyingly grippable handles.",
+              "I'd thought it might be full of shiny things, but it only held papers and notes."
+            ],
+            "pt-br": [
+              "Bem, é... uma maleta... como você... hmmm. Era uma bela maleta revestida de couro, com alças satisfatoriamente boas pra pegar.",
+              "Achei que pudesse estar cheio de coisas brilhantes, mas só tinha papéis e anotações."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_mandatory_end_2__thief.wav",
+            "subtitleCueLines": [
+              487,
+              492
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Following you home, in this case, was...?",
+          "Well, yeah, in a case... how did you ... hmmm. It was a fine leather-clad case, with satisfyingly grippable handles.",
+          "I'd thought it might be full of shiny things, but it only held papers and notes."
+        ],
+        "pt-br": [
+          "O que veio com você pra casa, nesse caso, foi...?",
+          "Bem, é... uma maleta... como você... hmmm. Era uma bela maleta revestida de couro, com alças satisfatoriamente boas pra pegar.",
+          "Achei que pudesse estar cheio de coisas brilhantes, mas só tinha papéis e anotações."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343364,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes_three_for_the_first_time_mandatory_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.22642183303833,
+              2.374110698699951,
+              1.4243965148925781
+            ],
+            "source": "data-common/heroes1_17.entities"
+          }
+        ],
+        "subtitleLine": 483,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

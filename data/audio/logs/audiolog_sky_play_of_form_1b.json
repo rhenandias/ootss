@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_play_of_form_1b",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_play_of_form_1b",
+      "clips": [
+        {
+          "id": "audiolog_sky_play_of_form_1b_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 72.145375,
+          "src": "audio/clips/audiolog_sky_play_of_form_1b_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "We play one specific situation, after another, after another. We learn to generalize.",
+              "Then we go again. Finished that Warehouse, on to another. More puzzles.",
+              "We see specifics. We learn how to generalize between them. We absorb, to our current capacity, the Way of Creation.",
+              "We meditate on what we have seen. Then we go again. Another ten Warehouses, another hundred.",
+              "We meditate deeply on what we have seen. We absorb, to our now-increased capacity, the Way of Creation.",
+              "And there's an outer cycle as well. The better we play and absorb,",
+              "the better-built are the Warehouses we construct, the better the experiences of our Visitors.",
+              "We have a special meditation wherein we take the knowledge we've internalized and expand it outward,",
+              "meeting the world with what we know. Seeing the world in a new way.",
+              "Being *inside* the world in a new way.",
+              "In the beginning we perform these meditations seated, eyes closed.",
+              "Eventually you can do them eyes open, just walking around.",
+              "Even when speaking with someone."
+            ],
+            "pt-br": [
+              "Jogamos uma situação específica, depois outra, depois outra. Aprendemos a generalizar.",
+              "Depois vamos de novo. Terminou aquele Armazém, partimos para outro. Mais quebra-cabeças.",
+              "Vemos os detalhes. Aprendemos a generalizar entre eles. Absorvemos, dentro da nossa capacidade atual, o Caminho da Criação.",
+              "Meditamos sobre o que vimos. Depois vamos de novo. Mais dez Armazéns, mais cem.",
+              "Meditamos profundamente sobre o que vimos. Absorvemos, dentro da nossa capacidade agora ampliada, o Caminho da Criação.",
+              "E também há um ciclo externo. Quanto melhor jogamos e absorvemos,",
+              "quanto mais bem construídos forem nossos armazéns, melhores serão as experiências dos nossos visitantes.",
+              "Há uma meditação especial em que pegamos o conhecimento que internalizamos e expandimos para fora,",
+              "encontrando o mundo com o que sabemos. Vendo-o de uma nova forma.",
+              "Estando dentro do mundo de uma nova forma.",
+              "No começo, fazemos essas meditações sentados, de olhos fechados.",
+              "Com o tempo, você pode fazê-las de olhos abertos, caminhando por aí.",
+              "Até mesmo conversando com alguém."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1b_1__acting.wav",
+            "subtitleCueLines": [
+              10042,
+              10048,
+              10052,
+              10056,
+              10061,
+              10066,
+              10070,
+              10074,
+              10079,
+              10083,
+              10086,
+              10090,
+              10094
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We play one specific situation, after another, after another. We learn to generalize.",
+          "Then we go again. Finished that Warehouse, on to another. More puzzles.",
+          "We see specifics. We learn how to generalize between them. We absorb, to our current capacity, the Way of Creation.",
+          "We meditate on what we have seen. Then we go again. Another ten Warehouses, another hundred.",
+          "We meditate deeply on what we have seen. We absorb, to our now-increased capacity, the Way of Creation.",
+          "And there's an outer cycle as well. The better we play and absorb,",
+          "the better-built are the Warehouses we construct, the better the experiences of our Visitors.",
+          "We have a special meditation wherein we take the knowledge we've internalized and expand it outward,",
+          "meeting the world with what we know. Seeing the world in a new way.",
+          "Being *inside* the world in a new way.",
+          "In the beginning we perform these meditations seated, eyes closed.",
+          "Eventually you can do them eyes open, just walking around.",
+          "Even when speaking with someone."
+        ],
+        "pt-br": [
+          "Jogamos uma situação específica, depois outra, depois outra. Aprendemos a generalizar.",
+          "Depois vamos de novo. Terminou aquele Armazém, partimos para outro. Mais quebra-cabeças.",
+          "Vemos os detalhes. Aprendemos a generalizar entre eles. Absorvemos, dentro da nossa capacidade atual, o Caminho da Criação.",
+          "Meditamos sobre o que vimos. Depois vamos de novo. Mais dez Armazéns, mais cem.",
+          "Meditamos profundamente sobre o que vimos. Absorvemos, dentro da nossa capacidade agora ampliada, o Caminho da Criação.",
+          "E também há um ciclo externo. Quanto melhor jogamos e absorvemos,",
+          "quanto mais bem construídos forem nossos armazéns, melhores serão as experiências dos nossos visitantes.",
+          "Há uma meditação especial em que pegamos o conhecimento que internalizamos e expandimos para fora,",
+          "encontrando o mundo com o que sabemos. Vendo-o de uma nova forma.",
+          "Estando dentro do mundo de uma nova forma.",
+          "No começo, fazemos essas meditações sentados, de olhos fechados.",
+          "Com o tempo, você pode fazê-las de olhos abertos, caminhando por aí.",
+          "Até mesmo conversando com alguém."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

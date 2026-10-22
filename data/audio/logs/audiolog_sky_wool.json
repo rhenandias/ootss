@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_wool",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_wool",
+      "clips": [
+        {
+          "id": "audiolog_sky_wool_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 14.123,
+          "src": "audio/clips/audiolog_sky_wool_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "... and some things just require immediate attention. Imagine that any single lunatic can unleash destruction, at a whim, across an entire city -- and the surrounding area --",
+              "and this has already happened a few times, and the trend is accelerating."
+            ],
+            "pt-br": [
+              "... e certas coisas exigem atenção imediata. Imagine que qualquer maluco possa espalhar destruição, a seu bel-prazer, por uma cidade inteira, e pelos arredores,",
+              "e que isso já tenha acontecido algumas vezes, com frequência cada vez maior."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_wool_1__acting.wav",
+            "subtitleCueLines": [
+              10470,
+              10475
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_wool_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 15.131167,
+          "src": "audio/clips/audiolog_sky_wool_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I would regard that with the gravest apprehension. I should think it wise to remove myself some distance away.",
+              "If you'd already developed the means of creating new volumes of space, that would have been a great help, I imagine."
+            ],
+            "pt-br": [
+              "Eu veria isso com a mais profunda apreensão. Creio que seria prudente me retirar para um lugar um tanto distante.",
+              "Se vocês já tivessem desenvolvido meios de criar novos volumes de espaço, isso teria ajudado muito, imagino."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_wool_2__sokoban.wav",
+            "subtitleCueLines": [
+              10479,
+              10484
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_wool_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 24.884667,
+          "src": "audio/clips/audiolog_sky_wool_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "The techniques were in their infancy, but there was tremendous motivation.",
+              "So we got there. Create space, tweak its rules, move into the new house, close the door behind.",
+              "Reopen the door just a crack, once in a while, for carefully-scheduled rendezvous.",
+              "And well that we got out, as the planet was soon gone; though the people of the time were surprised it lasted as long as it did."
+            ],
+            "pt-br": [
+              "As técnicas ainda estavam engatinhando, mas havia uma motivação imensa.",
+              "Então chegamos lá. Crie espaço, ajuste suas regras, mude-se para a nova casa, feche a porta atrás de si.",
+              "Abra só uma fresta da porta, de vez em quando, para encontros cuidadosamente agendados.",
+              "E ainda bem que saímos, porque o planeta logo se foi; embora as pessoas na época tenham se surpreendido com o fato de ele ter durado tanto."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_wool_3__acting.wav",
+            "subtitleCueLines": [
+              10489,
+              10493,
+              10497,
+              10501
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_wool_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.681667,
+          "src": "audio/clips/audiolog_sky_wool_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "So everyone lives ... where?"
+            ],
+            "pt-br": [
+              "Então todo mundo vive... onde?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_wool_4__sokoban.wav",
+            "subtitleCueLines": [
+              10508
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_wool_5__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 16.886333,
+          "src": "audio/clips/audiolog_sky_wool_5__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Wherever.",
+              "Zoom out, and it's spatial steel wool. It's a serious challenge to make maps, even of the well-known parts.",
+              "And the scope of such maps is limited. Here, space is mostly private, mostly unknown to any individual."
+            ],
+            "pt-br": [
+              "Onde quer que seja.",
+              "Afaste a câmera, e é uma palha de aço espacial. É um desafio sério fazer mapas, até mesmo das partes mais conhecidas.",
+              "E o alcance desses mapas é limitado. Aqui, o espaço é, em sua maioria, privado, em sua maioria desconhecido para qualquer indivíduo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_wool_5__acting.wav",
+            "subtitleCueLines": [
+              10512,
+              10516,
+              10522
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... and some things just require immediate attention. Imagine that any single lunatic can unleash destruction, at a whim, across an entire city -- and the surrounding area --",
+          "and this has already happened a few times, and the trend is accelerating.",
+          "I would regard that with the gravest apprehension. I should think it wise to remove myself some distance away.",
+          "If you'd already developed the means of creating new volumes of space, that would have been a great help, I imagine.",
+          "The techniques were in their infancy, but there was tremendous motivation.",
+          "So we got there. Create space, tweak its rules, move into the new house, close the door behind.",
+          "Reopen the door just a crack, once in a while, for carefully-scheduled rendezvous.",
+          "And well that we got out, as the planet was soon gone; though the people of the time were surprised it lasted as long as it did.",
+          "So everyone lives ... where?",
+          "Wherever.",
+          "Zoom out, and it's spatial steel wool. It's a serious challenge to make maps, even of the well-known parts.",
+          "And the scope of such maps is limited. Here, space is mostly private, mostly unknown to any individual."
+        ],
+        "pt-br": [
+          "... e certas coisas exigem atenção imediata. Imagine que qualquer maluco possa espalhar destruição, a seu bel-prazer, por uma cidade inteira, e pelos arredores,",
+          "e que isso já tenha acontecido algumas vezes, com frequência cada vez maior.",
+          "Eu veria isso com a mais profunda apreensão. Creio que seria prudente me retirar para um lugar um tanto distante.",
+          "Se vocês já tivessem desenvolvido meios de criar novos volumes de espaço, isso teria ajudado muito, imagino.",
+          "As técnicas ainda estavam engatinhando, mas havia uma motivação imensa.",
+          "Então chegamos lá. Crie espaço, ajuste suas regras, mude-se para a nova casa, feche a porta atrás de si.",
+          "Abra só uma fresta da porta, de vez em quando, para encontros cuidadosamente agendados.",
+          "E ainda bem que saímos, porque o planeta logo se foi; embora as pessoas na época tenham se surpreendido com o fato de ele ter durado tanto.",
+          "Então todo mundo vive... onde?",
+          "Onde quer que seja.",
+          "Afaste a câmera, e é uma palha de aço espacial. É um desafio sério fazer mapas, até mesmo das partes mais conhecidas.",
+          "E o alcance desses mapas é limitado. Aqui, o espaço é, em sua maioria, privado, em sua maioria desconhecido para qualquer indivíduo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

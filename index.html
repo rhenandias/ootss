@@ -6,14 +6,18 @@
 
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M464 256A208 208 0 1 0 48 256a208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm306.7 69.1L162.4 380.6c-19.4 7.5-38.5-11.6-31-31l55.5-144.3c3.3-8.5 9.9-15.1 18.4-18.4l144.3-55.5c19.4-7.5 38.5 11.6 31 31L325.1 306.7c-3.2 8.5-9.9 15.1-18.4 18.4zM288 256a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z'/%3E%3C/svg%3E" />
 
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+
 <meta property="og:image" content="https://repository-images.githubusercontent.com/1274973900/63655499-1f3d-4f75-9aae-4c136c3d1252" />
 <meta property="og:site_name" content="Joric" />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="Joric's Order of the Sinking Star Map" />
-<meta property="og:description" content="Order ot the Sinking Star Interactive Map. Track locations, uncover hidden secrets, and navigate the world with ease using this cartography tool." />
+<meta property="og:description" content="Order of the Sinking Star Interactive Map. Track locations, uncover hidden secrets, and navigate the world with ease using this cartography tool." />
 <meta property="og:locale" content="en_US" />
 
 <link href="js/lib//font-awesome/css/all.min.css" rel="stylesheet" />
+<link href="js/audio_catalog.css" rel="stylesheet" />
 
 <script src="js/lib//leaflet/leaflet.min.js"></script>
 <link href="js/lib//leaflet/leaflet.min.css" rel="stylesheet" />
@@ -30,6 +34,10 @@
 <link href="js/lib/leaflet-minimap/Control.MiniMap.min.css"  rel="stylesheet" >
 <script src="js/lib/leaflet-minimap/Control.MiniMap.min.js"></script>
 
+<script src="js/lib/leaflet-edgebuffer/leaflet.edgebuffer.min.js"></script>
+<script src="js/lib/leaflet-canvas/L.TileLayer.Canvas.min.js"></script>
+
+<script src="js/lib/imageSearch/image_search.js"></script>
 
 <style>
 .github-corner {
@@ -40,6 +48,10 @@
 }
 
 html, body, #map { width:100%; height: 100%; margin: 0; padding: 0; overflow: hidden; }
+
+#map {
+  background-color: #666;
+}
 
 .custom-marker-container {
   position: relative;
@@ -53,6 +65,10 @@ html, body, #map { width:100%; height: 100%; margin: 0; padding: 0; overflow: hi
   height: 40px;
   background: url('https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png') no-repeat center;
   background-size: contain;
+}
+
+.header {
+  font-size: 14px;
 }
 
 .marker-label {
@@ -79,26 +95,51 @@ html, body, #map { width:100%; height: 100%; margin: 0; padding: 0; overflow: hi
 .region-label {
   font-size: 32px;
   color: white;
-  text-shadow: 1px 1px 8px black;
+
+  text-shadow: 
+      0 0 2px black,
+      0 0 4px black,
+      0 0 8px black,
+      0 0 16px black;
+
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: serif;
-  text-decoration: bold;
+  font-weight: bold;
   z-index: 9999;
   pointer-events: none !important;
 }
 
+.leaflet-control-search { position: relative; }
+.leaflet-control-search-label {
+  position: absolute; left: 100%; top: 50%; transform: translateY(-50%);
+  margin-left: 8px; white-space: nowrap; font-size: 14px; color: #fff;
+  text-shadow: 1px 1px 4px #000; cursor: pointer;
+  display: inline-flex; align-items: center; gap: 4px; line-height: 1;
+  width: max-content;
+}
+
+.leaflet-control-search-label span { white-space: nowrap; position: relative; top: 1px; left: -3px; }
+
+.leaflet-control-search-label svg {
+  display: block;
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+  filter: drop-shadow(1px 1px 2px #000);
+}
+
 .info-block {
   position: absolute;
-  bottom: 16px;
-  /*
+  bottom: 6px;
+
   left: 50%;
   transform: translateX(-50%);
-  */
+
   z-index: 5000;
   padding: 8px;
-  font-size: 14px;
+  font-size: 16px;
   color: white;
   text-shadow: 1px 1px 4px black;
   font-family: sans-serif;
@@ -427,13 +468,21 @@ html, body, #map { width:100%; height: 100%; margin: 0; padding: 0; overflow: hi
 
 <div id="map"></div>
 
+<div class="info-block">
+</div>
+
 <div id="alert" class="closed" tabindex="-1">Copied To Clipboard</div>
 
+<script src="js/audio_catalog.js"></script>
 <script>
 
 let localDataName = 'joricsOotSS';
 let localData = JSON.parse(localStorage.getItem(localDataName)) || {};
 let settings = localData;
+
+let tileset_base = location.protocol === 'file:' ? '../ootss_tileset' : 'https://joric.github.io/ootss_tileset';
+
+let image_base = tileset_base;
 
 function saveSettings() {
   localStorage.setItem(localDataName, JSON.stringify(localData));
@@ -443,18 +492,34 @@ let mapParam = {};
 
 let map = null;
 let markerGroup = null;
+let searchLayer = null;
 let regionData = null;
+let lang = null;
+const nameLookup = {};
+const featureLookup = {};
 
 let regionColors = {
   // heroes_in_3d: `lightgrey`, // better transparent
+
+  heroes1:'#ff0000',
+  heroes2:'#00ff00',
+  heroes3:'#ff00ff',
+  mirror: '#ffa500',
+  promesst1_and_2: '#0000ff',
+  heroes_and_water: 'cyan',
   heroes_and_mirrors: 'forestgreen',
   worlds_collide: 'gold',
-  sideways_gates: 'pink',
+  sideways_gates: 'brown',
   skipping_stones: `slategrey`,
   beams_and_mirrors: `darkcyan`,
   monsters_and_beams: `orchid`,
   beams_and_stones: 'lightgreen',
   heroes_and_stones: 'chocolate',
+  beaming_objects: 'tomato',
+  beams_and_basic_heroes: 'steelblue',
+  mirrorable_stones: 'mediumorchid',
+  mirrors_and_stones: 'mediumpurple',
+  promesst3: 'indigo',
 };
 
 let images = [];
@@ -464,7 +529,9 @@ let currentOpenMarker = null;
 let polygonLayer = null;
 
 let solutions = {};
+let solutions2 = {};
 let youtube = {};
+let wt = {};
 let imageList = {};
 let order = {};
 
@@ -475,6 +542,25 @@ let layers = {};
 let gridLayer = null;
 
 let areaCounters = {};
+
+let baseLayerName = '';
+let audioLogFeatures = [];
+let levelMarkers = [];
+const isWorldAudio = feature => ['Voice_Log', 'Audio_Trigger'].includes(feature?.properties?.type);
+const triggerStyles = {
+  movement: ['fa fa-shoe-prints', '#308577', 'Movement trigger'],
+  character: ['fa fa-comment', '#7662a1', 'Character dialogue'],
+  sign: ['fa fa-sign', '#42799b', 'Sign dialogue'],
+  object: ['fa fa-hand-pointer', '#42799b', 'Object dialogue'],
+  boat: ['fa fa-ship', '#42799b', 'Boat dialogue'],
+  checkpoint: ['fa fa-flag-checkered', '#42799b', 'Checkpoint dialogue'],
+  unlock: ['fa fa-unlock', '#42799b', 'Unlock dialogue'],
+  scripted: ['fa fa-bolt', '#b76e35', 'Scripted dialogue anchor'],
+};
+function worldAudioLabel(feature) {
+  return feature.properties.type === 'Audio_Trigger'
+    ? (triggerStyles[feature.properties.triggerKind] || triggerStyles.scripted)[2] : 'Audio log';
+}
 
 function getSolutionPlayerLink(name, solvable) {
   if (solvable) {
@@ -550,12 +636,25 @@ function getIconHTML(feature, size=48) {
   }
 
 
+  if (isWorldAudio(feature)) {
+    options.bg = '#a17b32';
+    options.class = 'fa fa-volume-up';
+    if (feature.properties.type === 'Audio_Trigger') {
+      const style = triggerStyles[feature.properties.triggerKind] || triggerStyles.scripted;
+      options.class = style[0];
+      options.bg = style[1];
+    }
+    title = '';
+  }
+
   let bg = options.bg || 'dimgrey';
   let fg = options.fg || 'white';
 
   let html = options.html || `<i class="${options.class}" style="color:${fg}"><span class="icon-text">${title}</span></i>`;
 
-  return `<span class="icon-base icon-${size}" style="color:${bg}">${html}</span><div class="marker-label">${feature.properties.name}</div>`;
+  const dialogueBadge = feature.properties.type === 'Level_Entry' && LevelAudio.hasLevel(feature.properties.name)
+    ? '<span class="level-dialogue-badge" role="img" aria-label="Dialogue available" title="Dialogue available"><i class="fa fa-comment" aria-hidden="true"></i></span>' : '';
+  return `<span class="icon-base icon-${size}" style="color:${bg}">${html}</span>${dialogueBadge}<div class="marker-label">${feature.properties.name}</div>`;
 }
 
 let baseIcon = (feature) => {
@@ -569,13 +668,25 @@ let baseIcon = (feature) => {
   });
 };
 
-let icons = {};
 
+let areaIcon = (feature, label) => {
+  let size = 256;
+  return L.divIcon({
+    className: 'region-label',
+    html: lang[label],
+    iconSize: [512, 100],
+    iconAnchor: [256, 50],
+  });
+};
+
+
+let icons = {};
 
 const getIcon = f => ({bg: 'red', fg: 'blue'});
 
+const customMarker = (latlng, feature) => L.marker(latlng, {searchText: feature.properties.name?.toLowerCase(), feature: feature, id: feature.properties.id, icon: baseIcon(feature)});
 
-const customMarker = (latlng, feature) => L.marker(latlng, {searchText: feature.properties.name.toLowerCase(), feature: feature, id: feature.properties.path, icon: baseIcon(feature)});
+const areaMarker = (latlng, feature, label) => L.marker(latlng, {zIndexOffset: 1000, searchText: label.toLowerCase(), feature: feature, id: feature.properties.id, icon: areaIcon(feature, label)});
 
 
 let mainSwiper = null;
@@ -611,10 +722,45 @@ function toggleGallery() {
     document.activeElement.blur();
   }
   document.getElementById('galleryOverlay').classList.toggle('open');
+  if (isGalleryOpen() && mainSwiper) {
+    requestAnimationFrame(() => {
+      mainSwiper.update()
+      thumbSwiper.update()
+      updateCaption()
+      lazyLoad()
+    })
+  }
 }
 
 function closeGallery() {
   document.getElementById('galleryOverlay').classList.remove('open');
+}
+
+//----------------------------------------
+// lazy loading for gallery images (no IntersectionObserver, works on file:// too)
+// images carry data-src, real src is set only for slides near the active/visible ones
+
+function loadSlides(slides, from, to) {
+  for (let i = Math.max(0, from); i <= Math.min(slides.length - 1, to); i++) {
+    const img = slides[i].querySelector('img[data-src]');
+    if (img) {
+      img.src = img.dataset.src;
+      img.removeAttribute('data-src');
+    }
+  }
+}
+
+function lazyLoad() {
+  if (!mainSwiper || !thumbSwiper || !isGalleryOpen()) return;
+  const a = mainSwiper.activeIndex;
+  loadSlides(mainSwiper.slides, a - 2, a + 2); // current image first, then neighbours
+
+  let lo = Infinity, hi = -1;
+  thumbSwiper.slides.forEach((s, i) => {
+    if (s.classList.contains('swiper-slide-visible')) { lo = Math.min(lo, i); hi = Math.max(hi, i); }
+  });
+  if (hi < 0) lo = hi = a;
+  loadSlides(thumbSwiper.slides, lo - 8, hi + 8);
 }
 
 function openGallery(name) {
@@ -629,6 +775,7 @@ function openGallery(name) {
       thumbSwiper.slideTo(index, 0)
     }
     updateCaption()
+    lazyLoad()
   })
 }
 
@@ -641,12 +788,12 @@ function initImages() {
   for (const item of images) {
     main.insertAdjacentHTML('beforeend',
       `<div class="swiper-slide">
-        <div class="slide-bg" style="background-image: url('${item.src}')"></div>
+        <img class="slide-bg" data-src="${item.src}" alt="" decoding="async">
       </div>`
     )
     thumbs.insertAdjacentHTML('beforeend',
       `<div class="swiper-slide" title="${item.title} (${item.area})">
-        <div class="slide-bg" style="background-image: url('${item.src}')"></div>
+        <img class="slide-bg" data-src="${item.src}" alt="" decoding="async">
       </div>`
     )
   }
@@ -707,7 +854,11 @@ function initImages() {
   mainSwiper.on('slideChange', () => {
     updateCaption()
     thumbSwiper.slideTo(mainSwiper.activeIndex)
+    lazyLoad()
   })
+
+  thumbSwiper.on('setTranslate', lazyLoad)
+  thumbSwiper.on('transitionEnd', lazyLoad)
 
   closeBtn.onclick = closeGallery
 
@@ -719,33 +870,15 @@ function initImages() {
 }
 
 
-
 //----------------------------------------
 
-function updateZoom() {
-
-  const currentZoom = map.getZoom();
-  const showLabels = currentZoom >= 5; // Adjust threshold as needed
-  document.querySelectorAll('.marker-label').forEach(label => {
-    label.style.display = showLabels ? 'block' : 'none';
-    //label.style.fontSize = (currentZoom*3) + 'px';
-  });
-
-  /*
-  let shouldShow = zoom <= 4;
-
-  if (shouldShow) {
-      if (!map.hasLayer(polygonLayer)) {
-          map.addLayer(polygonLayer);
-      }
-      //polygonLayer.setStyle({ 0.25, 0.25 });
-  } else {
-      if (map.hasLayer(polygonLayer)) {
-          map.removeLayer(polygonLayer);
-      }
+function showAlert(textContent) {
+  const alert = document.getElementById('alert');
+  if (alert) {
+    alert.textContent = textContent;
+    alert.classList.remove('closed');
+    setTimeout(function(e){ document.getElementById('alert').classList.add('closed') },1500);
   }
-  */
-
 }
 
 function copyToClipboard(text) {
@@ -757,8 +890,7 @@ function copyToClipboard(text) {
   document.execCommand('copy');
   input.parentNode.removeChild(input);
   if (prev) prev.focus();
-  document.getElementById('alert').classList.remove('closed');
-  setTimeout(function(e){ document.getElementById('alert').classList.add('closed') },1500);
+  showAlert('Copied To Clipboard');
 }
 
 function getBaseURL() {
@@ -776,7 +908,9 @@ getMovesCount = s => unpackSolution(s).length;
 
 const packSolution = s => s.replace(/(.)\1*/g, (match, char) => char + (match.length > 1 ? match.length : ''));
 
-const convertSolution = s => packSolution(unpackSolution(s));
+//const convertSolution = s => packSolution(unpackSolution(s));
+
+const convertSolution = s => s;
 
 
 function getCentroidRaw2(points) {
@@ -830,6 +964,15 @@ function getCentroidRaw2(points) {
 
 let config = {
   Release_v1: { bounds: {left: -77, top: 221.5, right: 219, bottom: 74 } },
+  overworld_64k: {"bounds": { "left": -24.5, "top": 170.5, "right": 165.5, "bottom": -18.5} },
+  sky_64k: {"bounds": { "left": -24.5, "top": 170.5, "right": 165.5, "bottom": -18.5} },
+  underworld_64k: {"bounds": { "left": -24.5, "top": 170.5, "right": 165.5, "bottom": -18.5} }
+}
+
+let heightRanges = {
+  sky: [10, 75],
+  overworld: [-4,10],
+  underworld: [-57,-4],
 }
 
 function getCRS(name) {
@@ -838,12 +981,12 @@ function getCRS(name) {
   // so basically an overhead screenshot is 192x108 grid
   // with grid center at cell 86,74 if count from top left corner
 
-  let d = 192;
+  let d = 190;
 
   let m = {
     size: d,
-    bounds: [[0,0],[192,192]],
-    center: [90,-89],
+    bounds: [[0,0],[190,190]],
+    center: [0,0],
     flip_y: true,
   }
 
@@ -851,8 +994,10 @@ function getCRS(name) {
   if (b) {
     let dd = b.right-b.left;
     m.size = dd;
-    m.bounds = [[0,0],[dd,dd]];
-    m.center = [71, -73.5];
+    //m.bounds = [[0,0],[dd,dd]];
+    //m.center = [-b.top,-b.left];
+    m.bounds = [[b.left,b.top],[b.right,b.bottom]];
+    m.center = [b.left + (b.right-b.left)/2, -(b.top+(b.bottom-b.top)/2)+0.5]
   }
 
 
@@ -899,15 +1044,54 @@ function updateCRS(provider) {
   map._resetView(center, zoom);
 }
 
-function baseLayerChange(name) {
-  updateCRS(name);
+function updateLabels() {
+
+  const currentZoom = map.getZoom();
+  const showLabels = currentZoom >= 5; // Adjust threshold as needed
+
+  document.querySelectorAll('.marker-label').forEach(label => {
+    label.style.display = showLabels ? 'block' : 'none';
+    //label.style.fontSize = (currentZoom*3) + 'px';
+  });
+
+  document.querySelectorAll('.region-label').forEach(label => {
+    //label.style.display = showLabels ? 'block' : 'none';
+    label.style.fontSize = Math.min(32, Math.max(12, currentZoom*12)) + 'px';
+  });
+
+  let name = baseLayerName;
+  map.eachLayer(function(marker) {
+    if (isWorldAudio(marker?.feature)) {
+      const visible = audioLogOnCurrentMap(marker.feature);
+      if (marker._icon) marker._icon.style.display = visible ? '' : 'none';
+      if (!visible && marker.isPopupOpen()) marker.closePopup();
+    }
+    if (marker?.feature?.properties.type == 'Area_Pin') {
+      const [x,y,z] = marker.feature.geometry.coordinates;
+      let base = name.replace('_64k','');
+      if (heightRanges[base]) {
+        const [a,b] = heightRanges[base];
+        marker._icon.style.visibility = (z>=a && z<=b) ? 'visible' : 'hidden';
+      }
+    }
+  })
 }
 
-const getCoordinates = marker => marker.feature.geometry.coordinates.map(String).join(',');
+function baseLayerChange(name) {
+  baseLayerName = name;
+  updateLabels();
+  updateCRS(name);
+  syncSearchLayer();
+}
+
+const getCoordinates = marker => marker.feature.geometry.coordinates
+  .map(value => String(Number(value.toFixed(2)))).join(',');
 
 function getTooltipTitle(marker) {
   let o = marker.feature.properties;
-  let title = `<b>${o.name}</b> in ${o.area} (${getCoordinates(marker)})`;
+  let title = isWorldAudio(marker.feature)
+    ? `<b>${worldAudioLabel(marker.feature)}</b>: ${o.name} (${getCoordinates(marker)})`
+    : `<b>${o.name}</b> in ${o.area} (${getCoordinates(marker)})`;
   return title;
 }
 
@@ -929,76 +1113,241 @@ function youTubeId(url) {
 function openPopup(e) {
   const marker = e.target;
   let o = marker.feature.properties;
+  if (isWorldAudio(marker.feature)) return openAudioLogPopup(marker);
 
   let backlink = `<a class="copyable" href="${getMapURL(o.name)}" title="Click to copy link to clipboard"><i class="fa fa-link"></i></a>`;
-  let header = `<b class="copyable" title="Click to copy name to clipboard">${o.name}</b></a> in ${o.area} (${getCoordinates(marker)}) ${backlink}`;
+  let header = `<div class="header"><b class="copyable" title="Click to copy name to clipboard">${o.name}</b></a> in ${o.area} (${getCoordinates(marker)}) ${backlink}</div>`;
 
-  let sol = solutions[o.name];
+  let id = o.entity_properties?.unlocked_by_id;
+
+  let sol = solutions[o.name] || solutions2[o.name];
 
   const ytId = youtube[o.name] ? youTubeId(youtube[o.name]) : null;
 
   let image = imageList[o.name]
-    ? `<a href="javascript:openGallery('${o.name}')" title="Click to open image gallery" class="image-wrapper"><img class="popup-image" src="images/levels/${o.name}.webp"></a>`
+    ? `<a href="javascript:openGallery('${o.name}')" title="Click to open image gallery" class="image-wrapper"><img class="popup-image" src="${image_base}/images/levels/${o.name}.webp"></a>`
     : ytId
       ? `<a href="${youtube[o.name]}" class="image-wrapper" target="_blank" rel="noopener" title="Watch on YouTube"><img class="popup-image" src="https://i.ytimg.com/vi/${ytId}/maxresdefault.jpg" alt=""></a>`
       : '';
 
-  let player = youtube[o.name] ? `<a href="${youtube[o.name]}" target=_blank>YouTube</a>&nbsp;` : (sol ? `<a href="${getSolutionPlayerLink(o.name, true)}" target=_blank>Solution&nbsp;Player</a>&nbsp;`:'');
+  let player = youtube[o.name] ? `<a href="${youtube[o.name]}" target=_blank>YouTube</a>&nbsp;` : (solutions[o.name] ? `<a href="${getSolutionPlayerLink(o.name, true)}" target=_blank>PuzzleScript</a>&nbsp;`:'');
   let moves = sol ? `<span class="wrap">(${getMovesCount(sol)}):&nbsp<span class="copyable" title="Click to copy solution to clipboard">${convertSolution(sol)}</span></span>`:'';
 
-  let content = `${header}${image}${player}${moves}`;
+  let content = `${header}${image}`;
+  let footer = `${player}${moves}`;
+
+  const p = wt[o.name];
+  if (p) {
+    if (footer!='') footer += '&nbsp;/&nbsp;';
+    footer += `<a href="https://sinkingstar.wikitactics.com/areas/${p[0]}/#${p[1]}" target=_blank>WikiTactics</a>&nbsp`;
+  }
+
+  //if (footer!='') footer += '&nbsp;/&nbsp;';
+  //footer += `<a href="https://github.com/qiekn/ootss-cmd" target=_blank>ootss-cmd</a>`;
+
+  let slug = nameLookup[id];
+  if (slug) {
+    if (footer!='') footer += '&nbsp;/&nbsp;';
+    footer += `Unlocked by: <a href="${getMapURL(slug)}" onclick="focusMarkerByName('${slug}')">${slug}</a>`;
+  }
+
+
+  const hasAudio = LevelAudio.hasLevel(o.name);
+  content = hasAudio
+    ? `${header}<div class="level-popup-layout"><div class="level-popup-preview">${image}${footer}</div><div class="level-audio-panel"></div></div>`
+    : `${content}${footer}`;
 
   marker.unbindPopup();
-  marker.bindPopup(content, { offset: [0,5], maxWidth: 360, minWidth: 360 });
+  const popupWidth = Math.min(hasAudio ? 800 : 360, window.innerWidth - 64);
+  const popupContent = hasAudio ? document.createElement('div') : content;
+  if (hasAudio) popupContent.innerHTML = content;
+  marker.bindPopup(popupContent, { offset: [0,5], maxWidth: popupWidth, minWidth: popupWidth, maxHeight: hasAudio ? window.innerHeight - 160 : undefined, autoPanPaddingTopLeft: hasAudio ? [10, 70] : [5, 5], autoPanPaddingBottomRight: hasAudio ? [10, 35] : [5, 5] });
   marker.openPopup();
+  if (hasAudio) {
+    const popup = marker.getPopup();
+    LevelAudio.mount(popup.getElement().querySelector('.level-audio-panel'), o.name).then(() => {
+      if (popup.isOpen()) popup.update();
+    });
+  }
+}
+
+function audioLogOnCurrentMap(feature) {
+  const range = heightRanges[baseLayerName.replace('_64k', '')];
+  const z = feature.geometry.coordinates[2];
+  return !range || (z >= range[0] && z <= range[1]);
+}
+
+function openAudioLogPopup(marker) {
+  LevelAudio.close();
+  const properties = marker.feature.properties;
+  const name = properties.name;
+  const isTrigger = properties.type === 'Audio_Trigger';
+  const audioKey = isTrigger ? properties.audioKey : name;
+  const content = document.createElement('div');
+  content.className = 'audio-log-popup';
+  const header = document.createElement('div');
+  header.className = 'header';
+  const title = document.createElement('b');
+  title.textContent = name;
+  title.className = 'copyable';
+  header.append(title, document.createTextNode(` (${getCoordinates(marker)}) `));
+  const backlink = document.createElement('a');
+  backlink.className = 'copyable';
+  backlink.href = getMapURL(name);
+  backlink.title = 'Click to copy link to clipboard';
+  backlink.innerHTML = '<i class="fa fa-link"></i>';
+  header.append(backlink);
+  const panel = document.createElement('div');
+  panel.className = 'level-audio-panel';
+  content.append(header, panel);
+  const width = Math.min(420, window.innerWidth - 64);
+  marker.unbindPopup();
+  marker.bindPopup(content, {offset: [0,5], minWidth: width, maxWidth: width,
+    maxHeight: Math.max(180, window.innerHeight - 180),
+    autoPanPaddingTopLeft: [10, 70], autoPanPaddingBottomRight: [10, 35]});
+  marker.openPopup();
+  if (isTrigger ? LevelAudio.hasTrigger(audioKey) : LevelAudio.hasLog(name)) {
+    const popup = marker.getPopup();
+    LevelAudio.mount(panel, audioKey, isTrigger ? 'trigger' : 'log').then(() => {
+      if (popup.isOpen()) popup.update();
+    });
+  } else {
+    panel.textContent = 'This recording is not available yet.';
+  }
+}
+
+function applyDialogueFilter() {
+  for (const {marker, group} of levelMarkers) {
+    const visible = !settings.onlyLevelsWithDialogue || LevelAudio.hasLevel(marker.feature.properties.name);
+    if (visible) {
+      if (!layers[group].hasLayer(marker)) layers[group].addLayer(marker);
+    } else {
+      if (marker.isPopupOpen()) marker.closePopup();
+      layers[group].removeLayer(marker);
+    }
+  }
+  updateLabels();
+  syncSearchLayer();
+}
+
+function addDialogueFilter(layerControl) {
+  const container = L.DomUtil.create('div', 'dialogue-map-filter',
+    layerControl.getContainer().querySelector('.leaflet-control-layers-list'));
+  L.DomEvent.disableClickPropagation(container);
+  const label = document.createElement('label');
+  const checkbox = document.createElement('input');
+  checkbox.type = 'checkbox';
+  checkbox.id = 'dialogue-level-filter';
+  checkbox.checked = Boolean(settings.onlyLevelsWithDialogue);
+  const count = levelMarkers.filter(({marker}) => LevelAudio.hasLevel(marker.feature.properties.name)).length;
+  const text = document.createElement('span');
+  text.textContent = ` Only levels with dialogue (${count})`;
+  label.append(checkbox, text);
+  container.append(label);
+  checkbox.addEventListener('change', () => {
+    settings.onlyLevelsWithDialogue = checkbox.checked;
+    saveSettings();
+    applyDialogueFilter();
+  });
+}
+
+function syncSearchLayer() {
+  document.querySelectorAll('.layer-marker-count').forEach(label => {
+    const group = layers[label.dataset.layerId];
+    label.textContent = ` (${group.getLayers().filter(marker => marker instanceof L.Marker).length})`;
+  });
+  if (!searchLayer) return;
+  searchLayer.clearLayers();
+  for (const g of Object.values(layers)) {
+    if (g.id === 'grid' || g.id=='areas' || !map.hasLayer(g)) continue;
+    g.eachLayer(l => {
+      if (l instanceof L.Marker && (!isWorldAudio(l.feature)
+          || audioLogOnCurrentMap(l.feature))) searchLayer.addLayer(l);
+    });
+  }
 }
 
 function drawMap() {
 
   let baseLayers={}
 
-  var blankTileLayer = L.tileLayer('https://via.placeholder.com/1x1/000000/ffffff?text=blank', {
-      attribution: 'Blank Map'
-  });
+  for (const name of ['overworld_64k','sky_64k','underworld_64k']) {
 
-  baseLayers['blank'] = blankTileLayer;
+    let b = config[name].bounds;
+    let bounds = [[b.top,b.left],[b.bottom,b.right]]
 
-  let tilesLayer = L.tileLayer('tiles/Demo2_16k/{z}/{y}/{x}.webp', {
-    tileSize: 512,
-    maxNativeZoom: 5,
-    attribution: '<a href="https://github.com/joric/ootss/wiki" target=_blank>Joric\'s OotSS Map</a>',
-  });
+    //baseLayers[`${name}_64k`] = L.tileLayer.canvas(`${tileset_base}/tiles/${name}_64k/{z}/{y}/{x}.webp`, {
+    baseLayers[name] = L.tileLayer(`${tileset_base}/tiles/${name}/{z}/{y}/{x}.webp`, {
+      tileSize: 512,
+      maxNativeZoom: 7,
+      //edgeBufferTiles: 1,
+      bounds: bounds,
+      attribution: '<a href="https://github.com/joric/ootss/wiki" target=_blank>Joric\'s OotSS Map</a>',
+    });
+  }
 
-  baseLayers['Demo2_16k'] = tilesLayer;
+  let baseLayer = Object.values(baseLayers)[0]
 
-  let tilesLayer2 = L.tileLayer('tiles/Release_v1/{z}/{y}/{x}.webp', {
-    tileSize: 512,
-    maxNativeZoom: 5,
-    attribution: '<a href="https://github.com/joric/ootss/wiki" target=_blank>Joric\'s OotSS Map</a>',
-  });
+  if (!settings.activeLayers) {
+    settings.activeLayers = {'overworld_64k':true, 'overworld':true, 'areas': true};
+  }
 
-  baseLayers['Release_v1'] = tilesLayer2;
+  if (!settings.audioLogsInitialized) {
+    settings.activeLayers.audio_logs = true;
+    settings.audioLogsInitialized = true;
+    saveSettings();
+  }
 
-  let crs = getCRS('Release_v1');
+  let crs = L.CRS.Simple;
+
+  for (const [k,v] of Object.entries(baseLayers)) {
+    if (settings.activeLayers[k]) {
+      crs = getCRS(k);
+    }
+  }
+
 
   map = L.map('map', {
     crs: crs.crs,
-    zoom: 3.5,
+    zoom: 0,
     center: crs.center,
     zoomControl: false,
-    maxZoom: 8,
+    maxZoom: 7,
     renderer: L.canvas({ padding: 0.5 }),
-
     zoomSnap: 0.5,
     //zoomDelta: 0.5,
     //wheelPxPerZoomLevel: 100,
   });
 
-  map.on('baselayerchange', function(e) {
-    baseLayerChange(e.name);
+  map.on('overlayadd', function(e) {
+    settings.activeLayers[e.layer.id] = true;
+    syncSearchLayer();
+    updateLabels();
+    saveSettings();
   });
 
-  if (settings.center && settings.zoom) {
+  map.on('overlayremove', function(e) {
+    delete settings.activeLayers[e.layer.id];
+    if (currentOpenMarker && e.layer.hasLayer(currentOpenMarker)) currentOpenMarker.closePopup();
+    syncSearchLayer();
+    saveSettings();
+  });
+
+  map.on('baselayerchange', function(e) {
+    baseLayerChange(e.name);
+    for (const [k,v] of Object.entries(baseLayers)) {
+
+      if (e.name==k) {
+        settings.activeLayers[k] = true;
+      } else {
+        delete settings.activeLayers[k];
+      }
+    }
+
+    saveSettings();
+  });
+
+  if (settings.center) {
     map.setView(settings.center, settings.zoom, { animate: false });
   }
 
@@ -1007,9 +1356,6 @@ function drawMap() {
     settings.zoom = map.getZoom();
     saveSettings();
   });
-
-
-  tilesLayer2.addTo(map);
 
   L.control.zoom({ position: 'bottomright' }).addTo(map);
 
@@ -1020,6 +1366,7 @@ function drawMap() {
 
   markerGroup = L.layerGroup().addTo(map);
 
+/*
   let regionLayer = L.layerGroup();
 
   polygonLayer = L.geoJSON(regionData, {
@@ -1055,15 +1402,26 @@ function drawMap() {
 
       },
   });//.addTo(map);
+*/
+
+
+  for (const [k,v] of Object.entries(baseLayers)) {
+    if (settings.activeLayers[k]) {
+      v.addTo(map);
+      baseLayerName = k;
+    }
+  }
 
 
   fetch('data/markers.json').then(r=>r.json()).then(data=>{
 
+    data.features.push(...audioLogFeatures);
     console.log(`loaded ${data.features.length} features`);
 
 
     counters = {};
     layers = {};
+    levelMarkers = [];
 
 
     function getImageBounds(cellSize, iw,ih, dx, dy) {
@@ -1077,26 +1435,9 @@ function drawMap() {
     }
 
 
-    /*
-    let imageLayer2 = L.imageOverlay('images/overworld.webp', getImageBounds(6.67, 1919, 1079, -149+80,-88.0+83.3),{
-      attribution: '<a href="https://youtu.be/q3PUtYGl3J0?t=14" target=_blank>YouTube</a>',
-    });//.addTo(map);
-
-    layers['overworld1'] = imageLayer2;
-    */
-
-    let imageLayer3 = L.imageOverlay('images/overworld_2160p.jpg', getImageBounds(13.34, 3840, 2160, -65, -5 ),{
-      attribution: '<a href="https://youtu.be/4m8R1BjjioU?t=90" target=_blank>YouTube</a>',
-      //opacity: 0.5,
-    });//.addTo(map);
-
-
-    layers['overworld'] = imageLayer3;
-
-
-    //imageLayer3.addTo(map);
-
     gridLayer = L.layerGroup();
+
+    gridLayer.id = 'grid'; // for settings
 
     gw = 19;
     gh = 13;
@@ -1106,10 +1447,10 @@ function drawMap() {
 
     d = gh*10;
 
-    const hCells = 9*2;
-    const vCells = 7*2;
+    const hCells = 11;
+    const vCells = 12;
 
-    const origin = [cy - gh/2 + gh, cx - gw/2 + gw];
+    const origin = [cy - gh/2 + gh, cx];
 
     const bounds = [
         [origin[0] - (vCells/2)*gh, origin[1] - (hCells/2)*gw],
@@ -1144,11 +1485,8 @@ function drawMap() {
     //gridLayer.addTo(map);
 
     layers['grid'] = gridLayer;
-
-
-    layers['polygons'] = polygonLayer;
-
-    layers['regions'] = regionLayer;
+//    layers['polygons'] = polygonLayer;
+//    layers['regions'] = regionLayer;
 
     //regionLayer.addTo(map);
 
@@ -1157,10 +1495,16 @@ function drawMap() {
     let area = '';
 
     for (const feature of data.features) {
+      featureLookup[feature.properties.id] = feature;
+    }
 
-      let title = feature.properties.name;
-      let name = feature.properties.name;
-      let area = feature.properties.area;
+    for (const feature of data.features) {
+
+      let o = feature.properties;
+
+      let title = o.name;
+      let name = o.name;
+      let area = o.area;
 
       let solved = solutions[name] || youtube[name];
       let hasImage = imageList[name] || youtube[name];
@@ -1170,11 +1514,13 @@ function drawMap() {
       }
       //let count = solved ? areaCounters[area] : '?';
 
-      const count = solutions[name] ? '\u2714' : youtube[name] ? `\u2197` : hasImage ? '\u22EF' : '?';
+      const count = solutions[name] || solutions2[name] ? '\u2714' : youtube[name] ? `\u2009\u25B6` : hasImage ? '\u22EF' : '?';
 
       if (area != 'locations' && imageList[feature.properties.name]) {
-        images.push( {src: `images/levels/${name}.webp`, name: name, area: area, title: title});
+        images.push( {src: `${image_base}/images/levels/${name}.webp`, name: name, area: area, title: title});
       }
+
+      let [x,y,z] = feature.geometry.coordinates;
 
       let latlng = [feature.geometry.coordinates[1],feature.geometry.coordinates[0]];
 
@@ -1182,7 +1528,36 @@ function drawMap() {
 
       feature.properties.title = count;
 
-      let marker = customMarker(latlng, feature);
+      let group = 'overworld';
+
+      for (const [k,[a,b]] of Object.entries(heightRanges)) {
+        if (z>=a && z<=b) {
+          group = k;
+        }
+      }
+
+      nameLookup[o.id] = o.name;
+
+      //if (o.id=='14680959') 
+      //console.log(o.id, o.name);
+
+      let marker = null;
+
+      if (o.type == 'Level_Entry') {
+        marker = customMarker(latlng, feature);
+      } else if (isWorldAudio(feature)) {
+        marker = customMarker(latlng, feature);
+        group = 'audio_logs';
+      } else if (o.type == 'Area_Pin' ) {
+        const f2 = featureLookup[o.entity_properties?.map_label_marker_id];
+        if (f2) {
+          const [x,y,z] = f2.geometry.coordinates;
+          marker = areaMarker([y+2,x], f2, o.entity_properties?.local_area_name);
+          group = 'areas';
+        }
+      }
+
+      if (!marker) continue;
 
       counters[feature.properties.area] = (counters[feature.properties.area]||0) +1;
 
@@ -1195,6 +1570,7 @@ function drawMap() {
       })
 
       marker.on('popupclose', () => {
+        LevelAudio.close();
         currentOpenMarker = null;
         if (location.hash.length > 1) 
           history.replaceState(null, '', window.location.pathname + window.location.search);
@@ -1202,20 +1578,28 @@ function drawMap() {
 
       marker.on('click', openPopup);
 
+      /*
       let group = feature.properties.area;
-
       if (!regionColors[group]) {
         group = 'unsorted';
         marker.setOpacity(0.5);
       }
+      */
 
       if (!layers[group]) {
         layers[group] = L.layerGroup();
+        layers[group].id = group;
+
+        if (settings.activeLayers[group]) {
+          layers[group].addTo(markerGroup);
+        }
+
         //if (group!='unsorted')
-        layers[group].addTo(markerGroup);
+        //layers[group].addTo(markerGroup);
       }
 
       marker.addTo(layers[group]);
+      if (o.type === 'Level_Entry') levelMarkers.push({marker, group});
 
     }
 
@@ -1231,21 +1615,43 @@ function drawMap() {
       Object.entries(layers).map(([name, layer]) => {
         const hasMarkers = layer.getLayers ? layer.getLayers().some(l => l instanceof L.Marker) : layer instanceof L.Marker;
         const count = layer.getLayers ? layer.getLayers().filter(l => l instanceof L.Marker).length : (layer instanceof L.Marker ? 1 : 0);
-        return [`${name}${hasMarkers ? ' ('+count+')' : ''}`, layer];
+        return [`${name === 'audio_logs' ? 'Audio logs & triggers' : name}${hasMarkers ? `<span class="layer-marker-count" data-layer-id="${name}"> (${count})</span>` : ''}`, layer];
       })
     );
 
     // sort overlay names
-    //overlaysWithCounts = Object.fromEntries( Object.entries(overlaysWithCounts).sort((a, b) => a[0].localeCompare(b[0])) );
+    overlaysWithCounts = Object.fromEntries( Object.entries(overlaysWithCounts).sort((a, b) => a[0].localeCompare(b[0])) );
 
     let layercontrol = L.control.layers(baseLayers, overlaysWithCounts, {collapsed: true, position: 'bottomleft'}).addTo(map);
+    addDialogueFilter(layercontrol);
 
-    map.on('zoom overlayadd', updateZoom);
+    searchLayer = L.layerGroup();
+    syncSearchLayer();
 
-    updateZoom();
+    searchControl = new L.Control.Search({propertyName: 'searchText', initial: false, layer: searchLayer, hideMarkerOnCollapse: true }).addTo(map);
 
-    searchControl = new L.Control.Search({propertyName: 'searchText', initial: false, layer: markerGroup, hideMarkerOnCollapse: true}).addTo(map);
+    const search = document.querySelector('.leaflet-control-search');
+    const label = document.createElement('div');
+    const camera='<svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" style="vertical-align:middle;margin-right:4px;"><path d="M9 3l-1.5 2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-3.5L15 3H9zm3 5a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"/></svg>'
+    label.innerHTML = `<div class="leaflet-control-search-label" id="drop" title="Search by screenshot, you can drop it or paste with Ctrl+V anywhere on the map">${camera}<span>Search by Image</span></div><input type="file" id="file" accept="image/*" hidden>`;
+    search.appendChild(label);
 
+    initImageSearch(matches=>{
+      if (matches && matches.length>0) {
+        console.log('matches', matches);
+        let name = matches[0].name;
+        name = name.replaceAll('.webp','');
+        if (name) {
+          focusMarkerByName(name);
+        }
+      } else {
+        showAlert('Image Not Found');
+      }
+    });
+
+
+    map.on('zoom overlayadd', updateLabels);
+    applyDialogueFilter();
 
     // mini map
 
@@ -1314,6 +1720,7 @@ function drawMap() {
       focusMarkerByName(name);
     }
 
+    baseLayerChange(baseLayerName);
 
   })
 
@@ -1433,7 +1840,7 @@ function drawMap() {
       if (isGalleryOpen()) {
         selectImage();
       } else {
-        if (currentOpenMarker) {
+        if (currentOpenMarker && !isWorldAudio(currentOpenMarker.feature)) {
           openGallery(currentOpenMarker.feature.properties.name);
         }
       }
@@ -1472,31 +1879,38 @@ window.onload = function() {
     }
   });
 
-  let promises = [
+  const promises = [
     'data/solutions.txt',
     'data/youtube.txt',
     'data/images.txt',
     'data/order.txt',
-  ].map(url=>fetch(url).then(r=>r.text()));
+    'data/wt.txt',
+    'data/Localization/en.json',
+    'data/audio/catalog.json',
+    'data/audio/voice_logs.geojson',
+    'data/audio/audio_triggers.geojson',
+  ].map(url =>
+    fetch(url).then(r => url.endsWith('.txt') ? r.text() : r.json())
+  );
 
   Promise.all(promises).then(data => {
-    let [sol, yt, img, ord] = data;
+    let [sol, yt, img, ord, wtd, lg, audioCatalog, voiceLogs, audioTriggers] = data;
+    audioLogFeatures = [...voiceLogs.features, ...audioTriggers.features].filter(f => f.properties.mapReady);
+    LevelAudio.setCatalog(audioCatalog);
 
     solutions = Object.fromEntries(sol.split('\n').map(s => s.trim().split(':', 2)).filter(([, v])=> v && v.length>=2));
     youtube = Object.fromEntries(yt.split('\n').map(s => s.trim().split(',', 2)).filter(([, v])=> v && v.length>=2));
     imageList = Object.fromEntries(img.split('\n').map(s => s.trim()).filter(Boolean).map(s => [s.replace(/\.[^.]+$/, ''), true]));
     order = Object.fromEntries(ord.split('\n').map(s => s.trim()).filter(Boolean).map((s, i) => [s, i]));
+    wt = Object.fromEntries(wtd.trim().split('\n').map(s => { const [n,a,i] = s.trim().split(','); return [n, [a,i]]; }));
 
-    fetch('data/regions.json').then(r=>r.json()).then(data=>{
-      regionData = data;
-      drawMap();
-    });
+    lang = lg;
 
+    drawMap();
   });
-
 }
-
 </script>
+
 
 <a href="https://github.com/joric/ootss/wiki/" target="_blank" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"/><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"/><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"/></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
 

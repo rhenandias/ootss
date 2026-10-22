@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "crystals_not_stones",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_crystals_not_stones",
+      "clips": [
+        {
+          "id": "hp_crystals_not_stones_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.431979,
+          "src": "audio/clips/hp_crystals_not_stones_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Creepy in here. I'll just get to work to keep my mind off..."
+            ],
+            "pt-br": [
+              "Que lugar sinistro. Vou me ocupar para parar de pensar nisso..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_crystals_not_stones_1__warrior.wav",
+            "subtitleCueLines": [
+              8105
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Creepy in here. I'll just get to work to keep my mind off..."
+        ],
+        "pt-br": [
+          "Que lugar sinistro. Vou me ocupar para parar de pensar nisso..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 59768837,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_crystals_not_stones",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              15.0,
+              0.0
+            ],
+            "source": "data-common/crystals_not_stones.entities"
+          }
+        ],
+        "subtitleLine": 8104,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

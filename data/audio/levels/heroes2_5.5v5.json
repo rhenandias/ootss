@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_5.5v5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_thief_dragons_second",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_second_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.840667,
+          "src": "audio/clips/heroes2_thief_dragons_second_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Hmm, a crystal. It's fresh.",
+              "Magistrate Reynard has been here, and not long ago."
+            ],
+            "pt-br": [
+              "Hmm, um cristal. Fresquinho.",
+              "O Magistrado Reynard esteve aqui, e não faz muito tempo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_second_1__thief.wav",
+            "subtitleCueLines": [
+              895,
+              900
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hmm, a crystal. It's fresh.",
+          "Magistrate Reynard has been here, and not long ago."
+        ],
+        "pt-br": [
+          "Hmm, um cristal. Fresquinho.",
+          "O Magistrado Reynard esteve aqui, e não faz muito tempo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048595,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_thief_dragons_second",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_5.5v5.entities"
+          }
+        ],
+        "subtitleLine": 894,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

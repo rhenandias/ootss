@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "mini_green_maze",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_wizard_torus_5",
+      "clips": [
+        {
+          "id": "hp_wizard_torus_5_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 10.422896,
+          "src": "audio/clips/hp_wizard_torus_5_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "In a place that repeats without curving, this conflict dissolves.",
+              "Energy can fly fast and true, and will compound as it repeats and overlaps."
+            ],
+            "pt-br": [
+              "Em um lugar que se repete sem curvar, esse conflito se dissolve.",
+              "A energia pode voar rápida e certeira, e se acumulará à medida que se repete e se sobrepõe."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_wizard_torus_5_1__wizard.wav",
+            "subtitleCueLines": [
+              8052,
+              8056
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "In a place that repeats without curving, this conflict dissolves.",
+          "Energy can fly fast and true, and will compound as it repeats and overlaps."
+        ],
+        "pt-br": [
+          "Em um lugar que se repete sem curvar, esse conflito se dissolve.",
+          "A energia pode voar rápida e certeira, e se acumulará à medida que se repete e se sobrepõe."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137379,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_wizard_torus_5",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/mini_green_maze.entities"
+          }
+        ],
+        "subtitleLine": 8051,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

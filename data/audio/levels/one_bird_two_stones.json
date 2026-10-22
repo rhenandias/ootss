@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "one_bird_two_stones",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_warrior_sailor_0",
+      "clips": [
+        {
+          "id": "hs_warrior_sailor_0_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.169333,
+          "src": "audio/clips/hs_warrior_sailor_0_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Almost to the meeting point. I hope that girl's okay."
+            ],
+            "pt-br": [
+              "Quase no ponto de encontro. Espero que aquela garota esteja bem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_0_1__warrior.wav",
+            "subtitleCueLines": [
+              8199
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Almost to the meeting point. I hope that girl's okay."
+        ],
+        "pt-br": [
+          "Quase no ponto de encontro. Espero que aquela garota esteja bem."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360264,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_warrior_sailor_0",
+            "rule": "exact-reference",
+            "coordinates": [
+              22.0,
+              17.0,
+              0.0
+            ],
+            "source": "data-common/one_bird_two_stones.entities"
+          }
+        ],
+        "subtitleLine": 8198,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "end3_heroes_1",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_thief_taunted",
+      "clips": [
+        {
+          "id": "end3_thief_taunted_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.954333,
+          "src": "audio/clips/end3_thief_taunted_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Life's so strange... Sometimes I just feel like I'm being taunted!"
+            ],
+            "pt-br": [
+              "A vida é tão estranha... Às vezes, eu só sinto que estão zombando de mim!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_thief_taunted_1__thief.wav",
+            "subtitleCueLines": [
+              14824
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Life's so strange... Sometimes I just feel like I'm being taunted!"
+        ],
+        "pt-br": [
+          "A vida é tão estranha... Às vezes, eu só sinto que estão zombando de mim!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 111149385,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "end3_thief_taunted",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/end3_heroes_1.entities"
+          }
+        ],
+        "subtitleLine": 14823,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

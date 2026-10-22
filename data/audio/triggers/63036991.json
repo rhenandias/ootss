@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "queen_og_gold_room_first",
+    "audioKey": "63036991",
+    "triggerKind": "movement",
+    "blocks": [
+      "queen_og_gold_room_first"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      0.6618800163269043,
+      0.4675717353820801,
+      1.5538339614868164
+    ],
+    "barkFlags": 1,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 63036991,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "queen_og_gold_room_first",
+        "rule": "exact-reference",
+        "coordinates": [
+          96.05159759521484,
+          92.99176025390625,
+          0.08127403259277344
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "queen_og_gold_room_first",
+      "clips": [
+        {
+          "id": "queen_og_gold_room_first_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 3.14125,
+          "src": "audio/clips/queen_og_gold_room_first_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Seems like a place they want me to notice."
+            ],
+            "pt-br": [
+              "Parece um lugar que querem que eu perceba."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "queen_og_gold_room_first_1__queen.wav",
+            "subtitleCueLines": [
+              11989
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Seems like a place they want me to notice."
+        ],
+        "pt-br": [
+          "Parece um lugar que querem que eu perceba."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

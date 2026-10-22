@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "level": "end3_skipping_red",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_boats",
+      "clips": [
+        {
+          "id": "end3_boats_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.361333,
+          "src": "audio/clips/end3_boats_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Did you ever imagine we'd see a place such as this?"
+            ],
+            "pt-br": [
+              "Você já imaginou que veríamos um lugar como este?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_boats_1__boat.wav",
+            "subtitleCueLines": [
+              11799
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_boats_2__vedessud",
+          "speaker": "vedessud",
+          "speakerName": "vedessud",
+          "duration": 1.969979,
+          "src": "audio/clips/end3_boats_2__vedessud.mp3",
+          "transcripts": {
+            "en": [
+              "I did, actually."
+            ],
+            "pt-br": [
+              "Na verdade, sim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_boats_2__vedessud.wav",
+            "subtitleCueLines": [
+              11803
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end3_boats_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.601333,
+          "src": "audio/clips/end3_boats_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You ... did?"
+            ],
+            "pt-br": [
+              "Você... já?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_boats_3__boat.wav",
+            "subtitleCueLines": [
+              11806
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Did you ever imagine we'd see a place such as this?",
+          "I did, actually.",
+          "You ... did?"
+        ],
+        "pt-br": [
+          "Você já imaginou que veríamos um lugar como este?",
+          "Na verdade, sim.",
+          "Você... já?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914706,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "end3_boats",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/end3_skipping_red.entities"
+          }
+        ],
+        "subtitleLine": 11798,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

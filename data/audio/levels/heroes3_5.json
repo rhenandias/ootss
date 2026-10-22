@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_warrior_first",
+      "clips": [
+        {
+          "id": "heroes3_bard_warrior_first_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.758,
+          "src": "audio/clips/heroes3_bard_warrior_first_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Hey fellow traveler, mind helping me move forward?"
+            ],
+            "pt-br": [
+              "Oi, viajante, pode me dar uma mãozinha para avançar?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_warrior_first_1__bard.wav",
+            "subtitleCueLines": [
+              1705
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_warrior_first_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.694812,
+          "src": "audio/clips/heroes3_bard_warrior_first_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I ... uh ... yes, yes of course!"
+            ],
+            "pt-br": [
+              "Eu... hã... Sim, é claro que sim!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_warrior_first_2__warrior.wav",
+            "subtitleCueLines": [
+              1710
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hey fellow traveler, mind helping me move forward?",
+          "I ... uh ... yes, yes of course!"
+        ],
+        "pt-br": [
+          "Oi, viajante, pode me dar uma mãozinha para avançar?",
+          "Eu... hã... Sim, é claro que sim!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048602,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_warrior_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_5.entities"
+          }
+        ],
+        "subtitleLine": 1704,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes3_bard_warrior_first_end",
+      "clips": [
+        {
+          "id": "heroes3_bard_warrior_first_end_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 4.919646,
+          "src": "audio/clips/heroes3_bard_warrior_first_end_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "A girl likes to be manhandled once in a while.",
+              "Makes her feel alive."
+            ],
+            "pt-br": [
+              "Garotas gostam de ser agarradas de vez em quando.",
+              "Faz elas se sentirem vivas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_warrior_first_end_1__bard.wav",
+            "subtitleCueLines": [
+              1718,
+              1723
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_warrior_first_end_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.810333,
+          "src": "audio/clips/heroes3_bard_warrior_first_end_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Oh my God."
+            ],
+            "pt-br": [
+              "Minha nossa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_warrior_first_end_2__warrior.wav",
+            "subtitleCueLines": [
+              1726
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_warrior_first_end_3__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 1.888,
+          "src": "audio/clips/heroes3_bard_warrior_first_end_3__bard.mp3",
+          "transcripts": {
+            "en": [
+              "But don't get used to it."
+            ],
+            "pt-br": [
+              "Mas não se acostume com isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_warrior_first_end_3__bard.wav",
+            "subtitleCueLines": [
+              1729
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A girl likes to be manhandled once in a while.",
+          "Makes her feel alive.",
+          "Oh my God.",
+          "But don't get used to it."
+        ],
+        "pt-br": [
+          "Garotas gostam de ser agarradas de vez em quando.",
+          "Faz elas se sentirem vivas.",
+          "Minha nossa.",
+          "Mas não se acostume com isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048602,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes3_bard_warrior_first_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_5.entities"
+          }
+        ],
+        "subtitleLine": 1717,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

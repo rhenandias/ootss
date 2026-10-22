@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_watcher_first",
+      "clips": [
+        {
+          "id": "mirror_watcher_first_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 0.773,
+          "src": "audio/clips/mirror_watcher_first_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Keeping busy?"
+            ],
+            "pt-br": [
+              "Mantendo-se ocupado?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_watcher_first_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6011
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_watcher_first_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 3.252833,
+          "src": "audio/clips/mirror_watcher_first_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Keeping busy.",
+              "I'd been wondering when I would be met."
+            ],
+            "pt-br": [
+              "Mantendo-se ocupado.",
+              "Eu estava me perguntando quando alguém viria me receber."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_watcher_first_2__trader.wav",
+            "subtitleCueLines": [
+              6015,
+              6018
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_watcher_first_3__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 12.04,
+          "src": "audio/clips/mirror_watcher_first_3__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "These are strange times. We've kept quiet.",
+              "Well. I'm here to state that we are unoffended by your presence.",
+              "You may run the trial as you see fit. I'm here to help."
+            ],
+            "pt-br": [
+              "São tempos estranhos. Temos mantido a discrição.",
+              "Enfim, estou aqui para informar que não nos ofendemos com sua presença.",
+              "Você está livre para realizar o teste como bem entender. Estou aqui para ajudar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_watcher_first_3__trader_alt.wav",
+            "subtitleCueLines": [
+              6022,
+              6027,
+              6032
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Keeping busy?",
+          "Keeping busy.",
+          "I'd been wondering when I would be met.",
+          "These are strange times. We've kept quiet.",
+          "Well. I'm here to state that we are unoffended by your presence.",
+          "You may run the trial as you see fit. I'm here to help."
+        ],
+        "pt-br": [
+          "Mantendo-se ocupado?",
+          "Mantendo-se ocupado.",
+          "Eu estava me perguntando quando alguém viria me receber.",
+          "São tempos estranhos. Temos mantido a discrição.",
+          "Enfim, estou aqui para informar que não nos ofendemos com sua presença.",
+          "Você está livre para realizar o teste como bem entender. Estou aqui para ajudar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048721,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_watcher_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/mirror_3.entities"
+          }
+        ],
+        "subtitleLine": 6010,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

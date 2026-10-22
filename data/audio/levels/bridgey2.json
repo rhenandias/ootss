@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "level": "bridgey2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "vm_thief_priestess_2",
+      "clips": [
+        {
+          "id": "vm_thief_priestess_2_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.572708,
+          "src": "audio/clips/vm_thief_priestess_2_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Don't worry, Aiah, I'll find you. There's just a bunch of this 'water' in the way..."
+            ],
+            "pt-br": [
+              "Não se preocupe, Aiah, eu vou te encontrar. Só tem um monte dessa 'água' no meio..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_thief_priestess_2_1__thief.wav",
+            "subtitleCueLines": [
+              8441
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Don't worry, Aiah, I'll find you. There's just a bunch of this 'water' in the way..."
+        ],
+        "pt-br": [
+          "Não se preocupe, Aiah, eu vou te encontrar. Só tem um monte dessa 'água' no meio..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914706,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "vm_thief_priestess_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/bridgey2.entities"
+          }
+        ],
+        "subtitleLine": 8440,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "vm_thief_priestess_2_mid",
+      "clips": [
+        {
+          "id": "vm_thief_priestess_2_mid_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 14.622625,
+          "src": "audio/clips/vm_thief_priestess_2_mid_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Big water, you're my enemy, and my friend. My enemy because, obviously, you're always blocking me.",
+              "My friend, because you look and feel so calm. In troubled times, I feel your serenity. It helps me go on."
+            ],
+            "pt-br": [
+              "Água imensa, você é minha inimiga, e minha amiga. Inimiga porque, claro, sempre bloqueia meu caminho.",
+              "Amiga, porque sua aparência e sua presença transmitem calma. Em tempos difíceis, sinto sua serenidade. Ela me ajuda a seguir em frente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_thief_priestess_2_mid_1__thief.wav",
+            "subtitleCueLines": [
+              8451,
+              8456
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Big water, you're my enemy, and my friend. My enemy because, obviously, you're always blocking me.",
+          "My friend, because you look and feel so calm. In troubled times, I feel your serenity. It helps me go on."
+        ],
+        "pt-br": [
+          "Água imensa, você é minha inimiga, e minha amiga. Inimiga porque, claro, sempre bloqueia meu caminho.",
+          "Amiga, porque sua aparência e sua presença transmitem calma. Em tempos difíceis, sinto sua serenidade. Ela me ajuda a seguir em frente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914835,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "vm_thief_priestess_2_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.211929321289062,
+              20.04050636291504,
+              -0.025579452514648438
+            ],
+            "source": "data-common/bridgey2.entities"
+          }
+        ],
+        "subtitleLine": 8450,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

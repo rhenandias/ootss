@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_meeting",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_meeting",
+      "clips": [
+        {
+          "id": "audiolog_u_meeting_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 2.178333,
+          "src": "audio/clips/audiolog_u_meeting_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Well! It's been a few years!"
+            ],
+            "pt-br": [
+              "Bem! Faz alguns anos!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_1__acting.wav",
+            "subtitleCueLines": [
+              14432
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_2__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 1.572521,
+          "src": "audio/clips/audiolog_u_meeting_2__director.mp3",
+          "transcripts": {
+            "en": [
+              "6 or so, on my side."
+            ],
+            "pt-br": [
+              "Uns 6, do meu lado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_2__director.wav",
+            "subtitleCueLines": [
+              14435
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 4.294167,
+          "src": "audio/clips/audiolog_u_meeting_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "So. You have that Certain Look. Are you here to relieve me?"
+            ],
+            "pt-br": [
+              "Então. Você tem aquele olhar característico. Veio me render?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_3__acting.wav",
+            "subtitleCueLines": [
+              14438
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_4__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 9.048667,
+          "src": "audio/clips/audiolog_u_meeting_4__director.mp3",
+          "transcripts": {
+            "en": [
+              "I'm still out there ... investigating. You'll have to keep running things for now.",
+              "Or appoint a successor if you're tired."
+            ],
+            "pt-br": [
+              "Ainda estou por aí... investigando. Você vai ter que continuar cuidando do lugar por enquanto.",
+              "Ou nomear um sucessor, se estiver cansado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_4__director.wav",
+            "subtitleCueLines": [
+              14442,
+              14446
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_5__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 1.009458,
+          "src": "audio/clips/audiolog_u_meeting_5__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Is it going well?"
+            ],
+            "pt-br": [
+              "Está indo bem?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_5__acting.wav",
+            "subtitleCueLines": [
+              14449
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_6__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 5.257,
+          "src": "audio/clips/audiolog_u_meeting_6__director.mp3",
+          "transcripts": {
+            "en": [
+              "It's going *somewhere*. Well or poorly, too soon to say."
+            ],
+            "pt-br": [
+              "Está indo para algum lugar. Bem ou mal, ainda é cedo para dizer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_6__director.wav",
+            "subtitleCueLines": [
+              14452
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_7__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 2.126333,
+          "src": "audio/clips/audiolog_u_meeting_7__acting.mp3",
+          "transcripts": {
+            "en": [
+              "So, you're here..."
+            ],
+            "pt-br": [
+              "Então, você está aqui..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_7__acting.wav",
+            "subtitleCueLines": [
+              14456
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_8__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 2.858479,
+          "src": "audio/clips/audiolog_u_meeting_8__director.mp3",
+          "transcripts": {
+            "en": [
+              "This guy you want to promote to Sokoban."
+            ],
+            "pt-br": [
+              "Esse cara que você quer promover a Sokoban."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_8__director.wav",
+            "subtitleCueLines": [
+              14460
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_9__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 1.195333,
+          "src": "audio/clips/audiolog_u_meeting_9__acting.mp3",
+          "transcripts": {
+            "en": [
+              "I can explain that --"
+            ],
+            "pt-br": [
+              "Eu posso explicar isso..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_9__acting.wav",
+            "subtitleCueLines": [
+              14463
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_10__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 6.951208,
+          "src": "audio/clips/audiolog_u_meeting_10__director.mp3",
+          "transcripts": {
+            "en": [
+              "Oh, I trust you. You've done it before, and that last one seems to have acclimated pretty well, strange as he is."
+            ],
+            "pt-br": [
+              "Ah, eu confio em você. Já fez isso antes, e aquele último parece ter se adaptado muito bem, por mais estranho que seja."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_10__director.wav",
+            "subtitleCueLines": [
+              14466
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_11__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 1.722333,
+          "src": "audio/clips/audiolog_u_meeting_11__acting.mp3",
+          "transcripts": {
+            "en": [
+              "He's certainly a character."
+            ],
+            "pt-br": [
+              "Ele é mesmo uma figura."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_11__acting.wav",
+            "subtitleCueLines": [
+              14471
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_12__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 9.891125,
+          "src": "audio/clips/audiolog_u_meeting_12__director.mp3",
+          "transcripts": {
+            "en": [
+              "He's paying his dues. But regarding your *new* outlander Sokoban,",
+              "I want to have some conversations with him. For reasons relating to my inquiry."
+            ],
+            "pt-br": [
+              "Ele está fazendo por merecer. Mas, quanto ao seu novo forasteiro Sokoban,",
+              "quero ter algumas conversas com ele. Por motivos ligados à minha investigação."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_12__director.wav",
+            "subtitleCueLines": [
+              14475,
+              14479
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_13__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 2.015,
+          "src": "audio/clips/audiolog_u_meeting_13__acting.mp3",
+          "transcripts": {
+            "en": [
+              "I should arrange for you to speak alone?"
+            ],
+            "pt-br": [
+              "Devo arranjar para vocês conversarem a sós?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_13__acting.wav",
+            "subtitleCueLines": [
+              14483
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_meeting_14__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 5.771542,
+          "src": "audio/clips/audiolog_u_meeting_14__director.mp3",
+          "transcripts": {
+            "en": [
+              "The topics will wander. You can nose in, if you want.",
+              "But first, let's catch up...!"
+            ],
+            "pt-br": [
+              "Os assuntos vão variar. Você pode se meter, se quiser.",
+              "Mas, primeiro, vamos colocar o papo em dia...!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_meeting_14__director.wav",
+            "subtitleCueLines": [
+              14486,
+              14491
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Well! It's been a few years!",
+          "6 or so, on my side.",
+          "So. You have that Certain Look. Are you here to relieve me?",
+          "I'm still out there ... investigating. You'll have to keep running things for now.",
+          "Or appoint a successor if you're tired.",
+          "Is it going well?",
+          "It's going *somewhere*. Well or poorly, too soon to say.",
+          "So, you're here...",
+          "This guy you want to promote to Sokoban.",
+          "I can explain that --",
+          "Oh, I trust you. You've done it before, and that last one seems to have acclimated pretty well, strange as he is.",
+          "He's certainly a character.",
+          "He's paying his dues. But regarding your *new* outlander Sokoban,",
+          "I want to have some conversations with him. For reasons relating to my inquiry.",
+          "I should arrange for you to speak alone?",
+          "The topics will wander. You can nose in, if you want.",
+          "But first, let's catch up...!"
+        ],
+        "pt-br": [
+          "Bem! Faz alguns anos!",
+          "Uns 6, do meu lado.",
+          "Então. Você tem aquele olhar característico. Veio me render?",
+          "Ainda estou por aí... investigando. Você vai ter que continuar cuidando do lugar por enquanto.",
+          "Ou nomear um sucessor, se estiver cansado.",
+          "Está indo bem?",
+          "Está indo para algum lugar. Bem ou mal, ainda é cedo para dizer.",
+          "Então, você está aqui...",
+          "Esse cara que você quer promover a Sokoban.",
+          "Eu posso explicar isso...",
+          "Ah, eu confio em você. Já fez isso antes, e aquele último parece ter se adaptado muito bem, por mais estranho que seja.",
+          "Ele é mesmo uma figura.",
+          "Ele está fazendo por merecer. Mas, quanto ao seu novo forasteiro Sokoban,",
+          "quero ter algumas conversas com ele. Por motivos ligados à minha investigação.",
+          "Devo arranjar para vocês conversarem a sós?",
+          "Os assuntos vão variar. Você pode se meter, se quiser.",
+          "Mas, primeiro, vamos colocar o papo em dia...!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

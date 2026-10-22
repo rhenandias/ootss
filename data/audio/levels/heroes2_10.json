@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_10",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_postmeetup_thief",
+      "clips": [
+        {
+          "id": "heroes2_postmeetup_thief_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 6.023333,
+          "src": "audio/clips/heroes2_postmeetup_thief_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "If I'd known that starting a moving company would lead to big adventures,",
+              "I'd have talked them into it so much sooner!"
+            ],
+            "pt-br": [
+              "Se eu soubesse que abrir uma transportadora me levaria pra grandes aventuras,",
+              "teria convencido eles a fazer isso muito antes!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_postmeetup_thief_1__thief.wav",
+            "subtitleCueLines": [
+              1033,
+              1038
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If I'd known that starting a moving company would lead to big adventures,",
+          "I'd have talked them into it so much sooner!"
+        ],
+        "pt-br": [
+          "Se eu soubesse que abrir uma transportadora me levaria pra grandes aventuras,",
+          "teria convencido eles a fazer isso muito antes!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048601,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_postmeetup_thief",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_10.entities"
+          }
+        ],
+        "subtitleLine": 1032,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

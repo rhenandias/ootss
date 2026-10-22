@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "level": "lily_wearing_intro",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_lily_wearing_intro",
+      "clips": [
+        {
+          "id": "audiolog_di_lily_wearing_intro_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 24.189833,
+          "src": "audio/clips/audiolog_di_lily_wearing_intro_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This is Zach's original version.",
+              "This level showcases an unexpected and silly interaction",
+              "of Goblins wearing Lilies as hats -- The Goblins die in water, allowing the Lily to float.",
+              "The second island has a twist -- a second Goblin is in your way.",
+              "This is all nice, but the challenge that comes from pushing stones around in close quarters",
+              "is a bit extraneous to the overall topic of the level."
+            ],
+            "pt-br": [
+              "Esta é a versão original de Zach.",
+              "Esta fase mostra uma interação inesperada e boba",
+              "de goblins usando vitórias-régias como chapéus: os goblins morrem na água, permitindo que a vitória-régia flutue.",
+              "A segunda ilha tem uma reviravolta: há um segundo goblin bloqueando seu caminho.",
+              "Tudo isso é bom, mas o desafio que surge de empurrar pedras em espaços apertados",
+              "é um pouco extrínseco ao tema geral da fase."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_lily_wearing_intro_1__director.wav",
+            "subtitleCueLines": [
+              14375,
+              14378,
+              14382,
+              14387,
+              14391,
+              14395
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is Zach's original version.",
+          "This level showcases an unexpected and silly interaction",
+          "of Goblins wearing Lilies as hats -- The Goblins die in water, allowing the Lily to float.",
+          "The second island has a twist -- a second Goblin is in your way.",
+          "This is all nice, but the challenge that comes from pushing stones around in close quarters",
+          "is a bit extraneous to the overall topic of the level."
+        ],
+        "pt-br": [
+          "Esta é a versão original de Zach.",
+          "Esta fase mostra uma interação inesperada e boba",
+          "de goblins usando vitórias-régias como chapéus: os goblins morrem na água, permitindo que a vitória-régia flutue.",
+          "A segunda ilha tem uma reviravolta: há um segundo goblin bloqueando seu caminho.",
+          "Tudo isso é bom, mas o desafio que surge de empurrar pedras em espaços apertados",
+          "é um pouco extrínseco ao tema geral da fase."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_lily_wearing_intro",
+            "rule": "exact-reference",
+            "coordinates": [
+              23.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/lily_wearing_intro.entities"
+          }
+        ],
+        "subtitleLine": 14374,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

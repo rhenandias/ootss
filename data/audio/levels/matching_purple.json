@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "matching_purple",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_bard_purple",
+      "clips": [
+        {
+          "id": "hp_bard_purple_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.546833,
+          "src": "audio/clips/hp_bard_purple_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "I enjoy the color of this light. Soothing."
+            ],
+            "pt-br": [
+              "Gosto da cor dessa luz. Acalma."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_bard_purple_1__bard.wav",
+            "subtitleCueLines": [
+              7754
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I enjoy the color of this light. Soothing."
+        ],
+        "pt-br": [
+          "Gosto da cor dessa luz. Acalma."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137346,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_bard_purple",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/matching_purple.entities"
+          }
+        ],
+        "subtitleLine": 7753,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hp_bard_purple_crystal",
+      "clips": [
+        {
+          "id": "hp_bard_purple_crystal_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.68875,
+          "src": "audio/clips/hp_bard_purple_crystal_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Come here, shiny one. Let's see what we can do with you."
+            ],
+            "pt-br": [
+              "Vem cá, brilhante. Vamos ver o que podemos fazer com você."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_bard_purple_crystal_1__bard.wav",
+            "subtitleCueLines": [
+              7763
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Come here, shiny one. Let's see what we can do with you."
+        ],
+        "pt-br": [
+          "Vem cá, brilhante. Vamos ver o que podemos fazer com você."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "hp_bard_purple_crystal",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.936298370361328,
+              0.5686862468719482,
+              -9.5367431640625e-07
+            ],
+            "source": "data-common/matching_purple.entities"
+          }
+        ],
+        "subtitleLine": 7762,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

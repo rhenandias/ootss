@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "end3_sokoban_writing_choice_4",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_sokoban_writing_choice_4",
+      "clips": [
+        {
+          "id": "end3_sokoban_writing_choice_4_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 60.172292,
+          "src": "audio/clips/end3_sokoban_writing_choice_4_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "In the course of authoring the hologram's responses, I needed to learn the system of reasoning they developed for these purposes --",
+              "it's quite a thing, creating a mechanism that can sense the positions of objects,",
+              "shunt this information through some complex permutations of ... connectedness, and in the end decide which feedback to give.",
+              "Where I came from, we had perhaps the beginnings of this kind of reasoning;",
+              "but here, they've laid out entire fields of research around each seemingly simple idea,",
+              "the existence of which a layman would never foresee.",
+              "These techniques amount to setting down a sequence of instructions to be performed by an automatic device.",
+              "It sounds simple enough. And it is, while the sequence remains short.",
+              "But as the sequence becomes longer, the system begins to exhibit behaviors",
+              "you did not foresee, and certainly do not wish to occur.",
+              "No. It's really not simple at all. But I am learning rapidly."
+            ],
+            "pt-br": [
+              "No processo de criar as respostas do holograma, precisei aprender o sistema de raciocínio que eles desenvolveram para isso...",
+              "é uma coisa e tanto, criar um mecanismo capaz de perceber as posições dos objetos,",
+              "desviar essa informação por algumas permutações complexas de... conectividade, e no fim decidir qual retorno dar.",
+              "De onde eu vim, talvez tivéssemos os primórdios desse tipo de raciocínio;",
+              "mas aqui eles desdobraram campos inteiros de pesquisa em torno de cada ideia aparentemente simples,",
+              "cuja existência um leigo jamais teria previsto.",
+              "Essas técnicas se resumem a registrar uma sequência de instruções a serem executadas por um dispositivo automático.",
+              "Parece bem simples. E é, enquanto a sequência é curta.",
+              "Mas à medida que a sequência se alonga, o sistema começa a apresentar comportamentos",
+              "que você não previu, e certamente não deseja que ocorram.",
+              "Não. Não é nada simples, na verdade. Mas estou aprendendo rápido."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_sokoban_writing_choice_4_1__sokoban.wav",
+            "subtitleCueLines": [
+              11632,
+              11638,
+              11642,
+              11647,
+              11651,
+              11656,
+              11660,
+              11665,
+              11669,
+              11673,
+              11677
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "In the course of authoring the hologram's responses, I needed to learn the system of reasoning they developed for these purposes --",
+          "it's quite a thing, creating a mechanism that can sense the positions of objects,",
+          "shunt this information through some complex permutations of ... connectedness, and in the end decide which feedback to give.",
+          "Where I came from, we had perhaps the beginnings of this kind of reasoning;",
+          "but here, they've laid out entire fields of research around each seemingly simple idea,",
+          "the existence of which a layman would never foresee.",
+          "These techniques amount to setting down a sequence of instructions to be performed by an automatic device.",
+          "It sounds simple enough. And it is, while the sequence remains short.",
+          "But as the sequence becomes longer, the system begins to exhibit behaviors",
+          "you did not foresee, and certainly do not wish to occur.",
+          "No. It's really not simple at all. But I am learning rapidly."
+        ],
+        "pt-br": [
+          "No processo de criar as respostas do holograma, precisei aprender o sistema de raciocínio que eles desenvolveram para isso...",
+          "é uma coisa e tanto, criar um mecanismo capaz de perceber as posições dos objetos,",
+          "desviar essa informação por algumas permutações complexas de... conectividade, e no fim decidir qual retorno dar.",
+          "De onde eu vim, talvez tivéssemos os primórdios desse tipo de raciocínio;",
+          "mas aqui eles desdobraram campos inteiros de pesquisa em torno de cada ideia aparentemente simples,",
+          "cuja existência um leigo jamais teria previsto.",
+          "Essas técnicas se resumem a registrar uma sequência de instruções a serem executadas por um dispositivo automático.",
+          "Parece bem simples. E é, enquanto a sequência é curta.",
+          "Mas à medida que a sequência se alonga, o sistema começa a apresentar comportamentos",
+          "que você não previu, e certamente não deseja que ocorram.",
+          "Não. Não é nada simples, na verdade. Mas estou aprendendo rápido."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

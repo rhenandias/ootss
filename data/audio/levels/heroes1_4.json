@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes_warrior_mistrust",
+      "clips": [
+        {
+          "id": "heroes_warrior_mistrust_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 7.636125,
+          "src": "audio/clips/heroes_warrior_mistrust_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "We did really need the job, but I should have said something anyway.",
+              "Magistrate Reynard felt slimy from the beginning."
+            ],
+            "pt-br": [
+              "A gente precisava mesmo do trabalho, mas eu devia ter dito alguma coisa mesmo assim.",
+              "O Magistrado Reynard sempre me pareceu suspeito."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_warrior_mistrust_1__warrior.wav",
+            "subtitleCueLines": [
+              46,
+              51
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_warrior_mistrust_2__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 1.671146,
+          "src": "audio/clips/heroes_warrior_mistrust_2__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "I heard that!"
+            ],
+            "pt-br": [
+              "Eu ouvi isso!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_warrior_mistrust_2__magistrate.wav",
+            "subtitleCueLines": [
+              56
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_warrior_mistrust_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.637,
+          "src": "audio/clips/heroes_warrior_mistrust_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "You!"
+            ],
+            "pt-br": [
+              "Você!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_warrior_mistrust_3__warrior.wav",
+            "subtitleCueLines": [
+              59
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_warrior_mistrust_4__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 13.759,
+          "src": "audio/clips/heroes_warrior_mistrust_4__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "I'm not slimy, good sir Valens; I'm merely ... ulterior.",
+              "Come, Ratleigh. If you're to assume my duties here, I have much more to show you. Behind the scenes."
+            ],
+            "pt-br": [
+              "Não sou traiçoeiro, meu caro senhor Valens; apenas tenho... segundas intenções.",
+              "Venha, Ratleigh. Se vai assumir minhas funções aqui, tenho muito mais a lhe mostrar. Nos bastidores."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_warrior_mistrust_4__magistrate.wav",
+            "subtitleCueLines": [
+              62,
+              66
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_warrior_mistrust_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.274667,
+          "src": "audio/clips/heroes_warrior_mistrust_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Stop and explain yourself!"
+            ],
+            "pt-br": [
+              "Pare e explique-se!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_warrior_mistrust_5__warrior.wav",
+            "subtitleCueLines": [
+              71
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_warrior_mistrust_6__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 2.228625,
+          "src": "audio/clips/heroes_warrior_mistrust_6__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Wouldn't dream of it!"
+            ],
+            "pt-br": [
+              "Nem pensar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_warrior_mistrust_6__magistrate.wav",
+            "subtitleCueLines": [
+              74
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We did really need the job, but I should have said something anyway.",
+          "Magistrate Reynard felt slimy from the beginning.",
+          "I heard that!",
+          "You!",
+          "I'm not slimy, good sir Valens; I'm merely ... ulterior.",
+          "Come, Ratleigh. If you're to assume my duties here, I have much more to show you. Behind the scenes.",
+          "Stop and explain yourself!",
+          "Wouldn't dream of it!"
+        ],
+        "pt-br": [
+          "A gente precisava mesmo do trabalho, mas eu devia ter dito alguma coisa mesmo assim.",
+          "O Magistrado Reynard sempre me pareceu suspeito.",
+          "Eu ouvi isso!",
+          "Você!",
+          "Não sou traiçoeiro, meu caro senhor Valens; apenas tenho... segundas intenções.",
+          "Venha, Ratleigh. Se vai assumir minhas funções aqui, tenho muito mais a lhe mostrar. Nos bastidores.",
+          "Pare e explique-se!",
+          "Nem pensar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048804,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes_warrior_mistrust",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_4.entities"
+          }
+        ],
+        "subtitleLine": 45,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_warrior_where_is_tif",
+      "clips": [
+        {
+          "id": "heroes_warrior_where_is_tif_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 5.266271,
+          "src": "audio/clips/heroes_warrior_where_is_tif_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "When we came through during the appraisal, Tif loved this hall.",
+              "I hope that girl's okay."
+            ],
+            "pt-br": [
+              "Quando passamos por aqui durante a avaliação, Tif adorou este salão.",
+              "Espero que aquela garota esteja bem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_warrior_where_is_tif_1__warrior.wav",
+            "subtitleCueLines": [
+              82,
+              87
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "When we came through during the appraisal, Tif loved this hall.",
+          "I hope that girl's okay."
+        ],
+        "pt-br": [
+          "Quando passamos por aqui durante a avaliação, Tif adorou este salão.",
+          "Espero que aquela garota esteja bem."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048804,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes_warrior_where_is_tif",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_4.entities"
+          }
+        ],
+        "subtitleLine": 81,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

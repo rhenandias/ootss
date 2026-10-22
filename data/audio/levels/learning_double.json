@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "learning_double",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_wizard_torus_2",
+      "clips": [
+        {
+          "id": "hp_wizard_torus_2_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 9.064375,
+          "src": "audio/clips/hp_wizard_torus_2_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Little spaces that just... keep repeating...",
+              "These would be a wondrous boon for my work! For all of us, I mean..."
+            ],
+            "pt-br": [
+              "Pequenos espaços que só... ficam se repetindo...",
+              "Isso seria incrível para o meu trabalho! Para todos nós, quero dizer..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_wizard_torus_2_1__wizard.wav",
+            "subtitleCueLines": [
+              7998,
+              8003
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Little spaces that just... keep repeating...",
+          "These would be a wondrous boon for my work! For all of us, I mean..."
+        ],
+        "pt-br": [
+          "Pequenos espaços que só... ficam se repetindo...",
+          "Isso seria incrível para o meu trabalho! Para todos nós, quero dizer..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137379,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_wizard_torus_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              16.0,
+              0.0
+            ],
+            "source": "data-common/learning_double.entities"
+          }
+        ],
+        "subtitleLine": 7997,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

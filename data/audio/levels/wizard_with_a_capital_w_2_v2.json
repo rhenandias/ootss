@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "level": "wizard_with_a_capital_w_2_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_island_friends_3",
+      "clips": [
+        {
+          "id": "hs_island_friends_3_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 5.400625,
+          "src": "audio/clips/hs_island_friends_3_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "If, once going, the stone were never to hit anything, would it ever stop?"
+            ],
+            "pt-br": [
+              "Se, depois de começar a se mover, a pedra nunca batesse em nada, ela pararia algum dia?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_1__wizard.wav",
+            "subtitleCueLines": [
+              8161
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_3_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.442,
+          "src": "audio/clips/hs_island_friends_3_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It always hits something eventually."
+            ],
+            "pt-br": [
+              "A pedra sempre acaba batendo em alguma coisa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_2__sailor.wav",
+            "subtitleCueLines": [
+              8165
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_3_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 7.983208,
+          "src": "audio/clips/hs_island_friends_3_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "What if it's in a place that curves on itself? Connects end to end and top to bottom, somewhat like a ... a doughnut?"
+            ],
+            "pt-br": [
+              "E se estiver num lugar que se curva sobre si mesmo? Que conecta as pontas e o topo à base, mais ou menos como uma... uma rosquinha?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_3__wizard.wav",
+            "subtitleCueLines": [
+              8168
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_3_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.499812,
+          "src": "audio/clips/hs_island_friends_3_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Like a doughnut? The stones don't turn."
+            ],
+            "pt-br": [
+              "Como uma rosquinha? As pedras não viram."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_4__sailor.wav",
+            "subtitleCueLines": [
+              8173
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If, once going, the stone were never to hit anything, would it ever stop?",
+          "It always hits something eventually.",
+          "What if it's in a place that curves on itself? Connects end to end and top to bottom, somewhat like a ... a doughnut?",
+          "Like a doughnut? The stones don't turn."
+        ],
+        "pt-br": [
+          "Se, depois de começar a se mover, a pedra nunca batesse em nada, ela pararia algum dia?",
+          "A pedra sempre acaba batendo em alguma coisa.",
+          "E se estiver num lugar que se curva sobre si mesmo? Que conecta as pontas e o topo à base, mais ou menos como uma... uma rosquinha?",
+          "Como uma rosquinha? As pedras não viram."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360547,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_island_friends_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              19.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/wizard_with_a_capital_w_2_v2.entities"
+          }
+        ],
+        "subtitleLine": 8160,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "hs_island_friends_3_end",
+      "clips": [
+        {
+          "id": "hs_island_friends_3_end_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.010875,
+          "src": "audio/clips/hs_island_friends_3_end_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I don't mean the stone would turn. I mean it would go straight."
+            ],
+            "pt-br": [
+              "Não quero dizer que a pedra viraria. Quero dizer que ela iria em linha reta."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_end_1__wizard.wav",
+            "subtitleCueLines": [
+              8180
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_3_end_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.787667,
+          "src": "audio/clips/hs_island_friends_3_end_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Then it would fly off the doughnut."
+            ],
+            "pt-br": [
+              "Aí sairia voando da rosquinha."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_end_2__sailor.wav",
+            "subtitleCueLines": [
+              8184
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_3_end_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 4.049062,
+          "src": "audio/clips/hs_island_friends_3_end_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "No, the doughnut is perfectly straight and goes forever!"
+            ],
+            "pt-br": [
+              "Não, a rosquinha é perfeitamente reta e não tem fim!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_end_3__wizard.wav",
+            "subtitleCueLines": [
+              8187
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_island_friends_3_end_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.493708,
+          "src": "audio/clips/hs_island_friends_3_end_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "You're a strange man."
+            ],
+            "pt-br": [
+              "Você é um homem estranho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_island_friends_3_end_4__sailor.wav",
+            "subtitleCueLines": [
+              8191
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I don't mean the stone would turn. I mean it would go straight.",
+          "Then it would fly off the doughnut.",
+          "No, the doughnut is perfectly straight and goes forever!",
+          "You're a strange man."
+        ],
+        "pt-br": [
+          "Não quero dizer que a pedra viraria. Quero dizer que ela iria em linha reta.",
+          "Aí sairia voando da rosquinha.",
+          "Não, a rosquinha é perfeitamente reta e não tem fim!",
+          "Você é um homem estranho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360547,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "hs_island_friends_3_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              19.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/wizard_with_a_capital_w_2_v2.entities"
+          }
+        ],
+        "subtitleLine": 8179,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

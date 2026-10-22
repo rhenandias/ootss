@@ -1,0 +1,595 @@
+{
+  "schemaVersion": 1,
+  "level": "end1",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end1_dimension_0",
+      "clips": [
+        {
+          "id": "end1_dimension_0_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.1305,
+          "src": "audio/clips/end1_dimension_0_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Welcome back, Acting Director."
+            ],
+            "pt-br": [
+              "Bem-vinda de volta, diretora interina."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_1__sokoban.wav",
+            "subtitleCueLines": [
+              10531
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_2__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 1.372,
+          "src": "audio/clips/end1_dimension_0_2__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Thank you, Sokoban."
+            ],
+            "pt-br": [
+              "Obrigada, Sokoban."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_2__acting.wav",
+            "subtitleCueLines": [
+              10535
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_3__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 3.992062,
+          "src": "audio/clips/end1_dimension_0_3__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Hail! Hail, who speaks?"
+            ],
+            "pt-br": [
+              "Olá! Olá, quem fala?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_3__queen.wav",
+            "subtitleCueLines": [
+              10538
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_4__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 5.8025,
+          "src": "audio/clips/end1_dimension_0_4__acting.mp3",
+          "transcripts": {
+            "en": [
+              "I see you've performed the reconnection quite well.",
+              "Our Visitor hasn't been waiting but a handful of seconds."
+            ],
+            "pt-br": [
+              "Vejo que você realizou a reconexão muito bem.",
+              "Nosso Visitante não esperou mais que alguns segundos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_4__acting.wav",
+            "subtitleCueLines": [
+              10542,
+              10546
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_5__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.143167,
+          "src": "audio/clips/end1_dimension_0_5__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Did my best."
+            ],
+            "pt-br": [
+              "Fiz o melhor que pude."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_5__sokoban.wav",
+            "subtitleCueLines": [
+              10550
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_6__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 4.1685,
+          "src": "audio/clips/end1_dimension_0_6__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Hello! Where ... where are you?!"
+            ],
+            "pt-br": [
+              "Olá! Onde... onde você está?!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_6__queen.wav",
+            "subtitleCueLines": [
+              10553
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_7__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 2.131667,
+          "src": "audio/clips/end1_dimension_0_7__acting.mp3",
+          "transcripts": {
+            "en": [
+              "It's been a while since we last spoke."
+            ],
+            "pt-br": [
+              "Parece que passou um bom tempo desde a última vez que conversamos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_7__acting.wav",
+            "subtitleCueLines": [
+              10556
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_8__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.875,
+          "src": "audio/clips/end1_dimension_0_8__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "16 months' proper time, yesterday."
+            ],
+            "pt-br": [
+              "Dezesseis meses de tempo próprio, ontem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_8__sokoban.wav",
+            "subtitleCueLines": [
+              10559
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_9__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 1.481583,
+          "src": "audio/clips/end1_dimension_0_9__acting.mp3",
+          "transcripts": {
+            "en": [
+              "You must be working hard."
+            ],
+            "pt-br": [
+              "Você deve estar trabalhando duro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_9__acting.wav",
+            "subtitleCueLines": [
+              10563
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_10__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 10.858,
+          "src": "audio/clips/end1_dimension_0_10__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "There's a lot to learn yet. And I'm spending a decent amount of time back in this Warehouse.",
+              "Doing what I can to keep it standing. This place needs a lot of help."
+            ],
+            "pt-br": [
+              "Ainda há muito a aprender. E estou passando um bom tempo de volta a este Armazém.",
+              "Fazendo o que posso para mantê-lo de pé. Este lugar precisa de muita ajuda."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_10__sokoban.wav",
+            "subtitleCueLines": [
+              10566,
+              10570
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_11__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 1.087667,
+          "src": "audio/clips/end1_dimension_0_11__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Don't I know it."
+            ],
+            "pt-br": [
+              "Nem me fale."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_11__acting.wav",
+            "subtitleCueLines": [
+              10574
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_12__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 10.052792,
+          "src": "audio/clips/end1_dimension_0_12__queen.mp3",
+          "transcripts": {
+            "en": [
+              "You who are speaking, make answer! You are Sinking Star?",
+              "Address me directly! Whence do you speak?"
+            ],
+            "pt-br": [
+              "Você que está falando, responda! Você é a Estrela Submersa?",
+              "Fale diretamente comigo! De onde você fala?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_12__queen.wav",
+            "subtitleCueLines": [
+              10577,
+              10582
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_13__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 12.999,
+          "src": "audio/clips/end1_dimension_0_13__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Sokoban, busy as you've been, surely you were informed of the new rule",
+              "that we mustn't speak directly with any Visitor of insufficient rank,",
+              "regardless of any upset this may cause."
+            ],
+            "pt-br": [
+              "Sokoban, com toda a correria que você teve, certamente foi informado da nova regra",
+              "de que não devemos falar diretamente com qualquer Visitante de patente insuficiente,",
+              "independentemente de qualquer transtorno que isso possa causar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_13__acting.wav",
+            "subtitleCueLines": [
+              10587,
+              10591,
+              10595
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_14__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 1.066938,
+          "src": "audio/clips/end1_dimension_0_14__queen.mp3",
+          "transcripts": {
+            "en": [
+              "(sigh)"
+            ],
+            "pt-br": [
+              "(suspiro)"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_14__queen.wav",
+            "subtitleCueLines": [
+              10598
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_15__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.078,
+          "src": "audio/clips/end1_dimension_0_15__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Is that all on my account?"
+            ],
+            "pt-br": [
+              "Isso tudo é por minha causa?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_15__sokoban.wav",
+            "subtitleCueLines": [
+              10602
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_16__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 4.479667,
+          "src": "audio/clips/end1_dimension_0_16__acting.mp3",
+          "transcripts": {
+            "en": [
+              "I did enjoy our conversations, but they caused a kerfuffle."
+            ],
+            "pt-br": [
+              "Eu gostava das nossas conversas, mas elas causaram um alvoroço."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_16__acting.wav",
+            "subtitleCueLines": [
+              10605
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_17__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.294896,
+          "src": "audio/clips/end1_dimension_0_17__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Apologies."
+            ],
+            "pt-br": [
+              "Peço desculpas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_17__sokoban.wav",
+            "subtitleCueLines": [
+              10609
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_18__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 18.586292,
+          "src": "audio/clips/end1_dimension_0_18__acting.mp3",
+          "transcripts": {
+            "en": [
+              "None needed. It was supposed to have been the rule already.",
+              "As the seniormost present officer of the Order of the Sinking Star,",
+              "I declare this Appreciation Ceremony ... commenced. Free the zeroth block!",
+              "We begin with four points."
+            ],
+            "pt-br": [
+              "Não precisa. Essa já deveria ser a regra.",
+              "Como o oficial presente mais antigo da Order of the Sinking Star,",
+              "declaro esta cerimônia de agradecimento... iniciada. Liberem o bloco zero!",
+              "Começamos com quatro pontos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_18__acting.wav",
+            "subtitleCueLines": [
+              10612,
+              10616,
+              10621,
+              10626
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_19__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 5.292083,
+          "src": "audio/clips/end1_dimension_0_19__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Heroes, Mirrors, Stones, Beams."
+            ],
+            "pt-br": [
+              "Heróis, Espelhos, Pedras, Feixes."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_19__sokoban.wav",
+            "subtitleCueLines": [
+              10630
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_20__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 3.123333,
+          "src": "audio/clips/end1_dimension_0_20__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Simple points of dimension zero."
+            ],
+            "pt-br": [
+              "Pontos simples de dimensão zero."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_20__acting.wav",
+            "subtitleCueLines": [
+              10633
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "end1_dimension_0_21__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 4.286,
+          "src": "audio/clips/end1_dimension_0_21__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "One by one, visit and observe."
+            ],
+            "pt-br": [
+              "Um por um, visite e observe."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end1_dimension_0_21__sokoban.wav",
+            "subtitleCueLines": [
+              10636
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Welcome back, Acting Director.",
+          "Thank you, Sokoban.",
+          "Hail! Hail, who speaks?",
+          "I see you've performed the reconnection quite well.",
+          "Our Visitor hasn't been waiting but a handful of seconds.",
+          "Did my best.",
+          "Hello! Where ... where are you?!",
+          "It's been a while since we last spoke.",
+          "16 months' proper time, yesterday.",
+          "You must be working hard.",
+          "There's a lot to learn yet. And I'm spending a decent amount of time back in this Warehouse.",
+          "Doing what I can to keep it standing. This place needs a lot of help.",
+          "Don't I know it.",
+          "You who are speaking, make answer! You are Sinking Star?",
+          "Address me directly! Whence do you speak?",
+          "Sokoban, busy as you've been, surely you were informed of the new rule",
+          "that we mustn't speak directly with any Visitor of insufficient rank,",
+          "regardless of any upset this may cause.",
+          "(sigh)",
+          "Is that all on my account?",
+          "I did enjoy our conversations, but they caused a kerfuffle.",
+          "Apologies.",
+          "None needed. It was supposed to have been the rule already.",
+          "As the seniormost present officer of the Order of the Sinking Star,",
+          "I declare this Appreciation Ceremony ... commenced. Free the zeroth block!",
+          "We begin with four points.",
+          "Heroes, Mirrors, Stones, Beams.",
+          "Simple points of dimension zero.",
+          "One by one, visit and observe."
+        ],
+        "pt-br": [
+          "Bem-vinda de volta, diretora interina.",
+          "Obrigada, Sokoban.",
+          "Olá! Olá, quem fala?",
+          "Vejo que você realizou a reconexão muito bem.",
+          "Nosso Visitante não esperou mais que alguns segundos.",
+          "Fiz o melhor que pude.",
+          "Olá! Onde... onde você está?!",
+          "Parece que passou um bom tempo desde a última vez que conversamos.",
+          "Dezesseis meses de tempo próprio, ontem.",
+          "Você deve estar trabalhando duro.",
+          "Ainda há muito a aprender. E estou passando um bom tempo de volta a este Armazém.",
+          "Fazendo o que posso para mantê-lo de pé. Este lugar precisa de muita ajuda.",
+          "Nem me fale.",
+          "Você que está falando, responda! Você é a Estrela Submersa?",
+          "Fale diretamente comigo! De onde você fala?",
+          "Sokoban, com toda a correria que você teve, certamente foi informado da nova regra",
+          "de que não devemos falar diretamente com qualquer Visitante de patente insuficiente,",
+          "independentemente de qualquer transtorno que isso possa causar.",
+          "(suspiro)",
+          "Isso tudo é por minha causa?",
+          "Eu gostava das nossas conversas, mas elas causaram um alvoroço.",
+          "Peço desculpas.",
+          "Não precisa. Essa já deveria ser a regra.",
+          "Como o oficial presente mais antigo da Order of the Sinking Star,",
+          "declaro esta cerimônia de agradecimento... iniciada. Liberem o bloco zero!",
+          "Começamos com quatro pontos.",
+          "Heróis, Espelhos, Pedras, Feixes.",
+          "Pontos simples de dimensão zero.",
+          "Um por um, visite e observe."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95421126,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "end1_dimension_0",
+            "rule": "exact-reference",
+            "coordinates": [
+              27.0,
+              19.0,
+              4.0
+            ],
+            "source": "data-common/end1.entities"
+          }
+        ],
+        "subtitleLine": 10530,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

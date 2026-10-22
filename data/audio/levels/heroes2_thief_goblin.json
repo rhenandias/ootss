@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_thief_goblin",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_thief_goblins",
+      "clips": [
+        {
+          "id": "heroes2_thief_goblins_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.234167,
+          "src": "audio/clips/heroes2_thief_goblins_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Hello there, pals!",
+              "We could all just get along nicely, couldn't we ... ?"
+            ],
+            "pt-br": [
+              "Olá, amigos!",
+              "A gente podia se dar bem, não podia...?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_goblins_1__thief.wav",
+            "subtitleCueLines": [
+              760,
+              764
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_thief_goblins_2__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 6.646438,
+          "src": "audio/clips/heroes2_thief_goblins_2__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Witness, Ratleigh, the precarity in which our Heroine is now placed! Watch how she weaves."
+            ],
+            "pt-br": [
+              "Veja, Ratleigh, a situação precária em que nossa heroína se encontra! Observe como ela ziguezagueia."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_goblins_2__magistrate.wav",
+            "subtitleCueLines": [
+              768
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_thief_goblins_3__ratleigh",
+          "speaker": "ratleigh",
+          "speakerName": "Ratleigh",
+          "duration": 1.246687,
+          "src": "audio/clips/heroes2_thief_goblins_3__ratleigh.mp3",
+          "transcripts": {
+            "en": [
+              "What does precar-"
+            ],
+            "pt-br": [
+              "O que significa precár-"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_goblins_3__ratleigh.wav",
+            "subtitleCueLines": [
+              773
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_thief_goblins_4__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 1.672958,
+          "src": "audio/clips/heroes2_thief_goblins_4__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Not now. Watch!"
+            ],
+            "pt-br": [
+              "Agora não. Observe!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_goblins_4__magistrate.wav",
+            "subtitleCueLines": [
+              777
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hello there, pals!",
+          "We could all just get along nicely, couldn't we ... ?",
+          "Witness, Ratleigh, the precarity in which our Heroine is now placed! Watch how she weaves.",
+          "What does precar-",
+          "Not now. Watch!"
+        ],
+        "pt-br": [
+          "Olá, amigos!",
+          "A gente podia se dar bem, não podia...?",
+          "Veja, Ratleigh, a situação precária em que nossa heroína se encontra! Observe como ela ziguezagueia.",
+          "O que significa precár-",
+          "Agora não. Observe!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 112197659,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_thief_goblins",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              -8.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_thief_goblin.entities"
+          }
+        ],
+        "subtitleLine": 759,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "heroes2_thief_goblins_mid",
+      "clips": [
+        {
+          "id": "heroes2_thief_goblins_mid_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 9.123458,
+          "src": "audio/clips/heroes2_thief_goblins_mid_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Those guards boasted that no foe could come within a day's march without being met in force.",
+              "So how'd these Goblins get here? And why aren't they being repelled?"
+            ],
+            "pt-br": [
+              "Aqueles guardas se gabavam de que inimigo algum chegava a um dia de marcha sem enfrentar uma tropa de peso.",
+              "Então como esses Goblins chegaram aqui? E por que não estão sendo expulsos?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_goblins_mid_1__thief.wav",
+            "subtitleCueLines": [
+              786,
+              792
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Those guards boasted that no foe could come within a day's march without being met in force.",
+          "So how'd these Goblins get here? And why aren't they being repelled?"
+        ],
+        "pt-br": [
+          "Aqueles guardas se gabavam de que inimigo algum chegava a um dia de marcha sem enfrentar uma tropa de peso.",
+          "Então como esses Goblins chegaram aqui? E por que não estão sendo expulsos?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_goblins_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.081601858139038,
+              -12.95162296295166,
+              -0.04703521728515625
+            ],
+            "source": "data-common/heroes2_thief_goblin.entities"
+          }
+        ],
+        "subtitleLine": 785,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

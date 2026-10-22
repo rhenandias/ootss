@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_15",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_1",
+      "clips": [
+        {
+          "id": "mirror_stranger_1_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 13.443333,
+          "src": "audio/clips/mirror_stranger_1_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "So, you heard you were going to die... and of all the unfinished business a man might wish to settle,",
+              "you decided to come back here? After all these years?",
+              "Been thinking about these mirrors a lot, have you?"
+            ],
+            "pt-br": [
+              "Então você soube que ia morrer... e, de todas as pendências que um homem poderia querer resolver,",
+              "você decidiu voltar para cá? Depois de todos esses anos?",
+              "Você tem pensado muito nesses espelhos, não é?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_1_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6332,
+              6337,
+              6341
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_stranger_1_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 4.424,
+          "src": "audio/clips/mirror_stranger_1_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Not at all. I was ... convinced."
+            ],
+            "pt-br": [
+              "De jeito nenhum. Eu estava... convencido."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_1_2__trader.wav",
+            "subtitleCueLines": [
+              6345
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, you heard you were going to die... and of all the unfinished business a man might wish to settle,",
+          "you decided to come back here? After all these years?",
+          "Been thinking about these mirrors a lot, have you?",
+          "Not at all. I was ... convinced."
+        ],
+        "pt-br": [
+          "Então você soube que ia morrer... e, de todas as pendências que um homem poderia querer resolver,",
+          "você decidiu voltar para cá? Depois de todos esses anos?",
+          "Você tem pensado muito nesses espelhos, não é?",
+          "De jeito nenhum. Eu estava... convencido."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048705,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/mirror_15.entities"
+          }
+        ],
+        "subtitleLine": 6331,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

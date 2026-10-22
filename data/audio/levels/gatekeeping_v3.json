@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "level": "gatekeeping_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_wizard_druid_pondering",
+      "clips": [
+        {
+          "id": "heroes3_bard_wizard_druid_pondering_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 12.426854,
+          "src": "audio/clips/heroes3_bard_wizard_druid_pondering_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "So, this Magistrate fellow... if he's so powerful, and now he's far from the reach of your King, ... why is he running from us?",
+              "We are a formidable group ... but ..."
+            ],
+            "pt-br": [
+              "Então, esse tal de Magistrado... se ele é tão poderoso, e agora está longe do alcance do seu Rei,... por que está fugindo da gente?",
+              "Somos um grupo formidável... mas..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_wizard_druid_pondering_1__bard.wav",
+            "subtitleCueLines": [
+              2230,
+              2235
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_wizard_druid_pondering_2__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.554146,
+          "src": "audio/clips/heroes3_bard_wizard_druid_pondering_2__druid.mp3",
+          "transcripts": {
+            "en": [
+              "I don't believe he's fleeing, exactly."
+            ],
+            "pt-br": [
+              "Não sei se ele está exatamente fugindo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_wizard_druid_pondering_2__druid.wav",
+            "subtitleCueLines": [
+              2239
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_wizard_druid_pondering_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.639833,
+          "src": "audio/clips/heroes3_bard_wizard_druid_pondering_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Uhh, how's that?"
+            ],
+            "pt-br": [
+              "Hã, como assim?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_wizard_druid_pondering_3__warrior.wav",
+            "subtitleCueLines": [
+              2242
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_wizard_druid_pondering_4__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 10.286854,
+          "src": "audio/clips/heroes3_bard_wizard_druid_pondering_4__druid.mp3",
+          "transcripts": {
+            "en": [
+              "He's going *toward* something, rather than away. Earlier, he mentioned a specific destination.",
+              "A 'special transport', beyond which his son was not to follow."
+            ],
+            "pt-br": [
+              "Ele está indo atrás de algo, e não fugindo. Antes, mencionou um destino específico.",
+              "Um 'transporte especial', além do qual o filho dele não deveria seguir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_wizard_druid_pondering_4__druid.wav",
+            "subtitleCueLines": [
+              2245,
+              2249
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_wizard_druid_pondering_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 7.632833,
+          "src": "audio/clips/heroes3_bard_wizard_druid_pondering_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "He's taken two 'special transports' already! But you're right; this one seemed more ... final."
+            ],
+            "pt-br": [
+              "Ele já usou dois “transportes especiais”! Mas você tem razão; este parecia mais... definitivo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_wizard_druid_pondering_5__thief.wav",
+            "subtitleCueLines": [
+              2253
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, this Magistrate fellow... if he's so powerful, and now he's far from the reach of your King, ... why is he running from us?",
+          "We are a formidable group ... but ...",
+          "I don't believe he's fleeing, exactly.",
+          "Uhh, how's that?",
+          "He's going *toward* something, rather than away. Earlier, he mentioned a specific destination.",
+          "A 'special transport', beyond which his son was not to follow.",
+          "He's taken two 'special transports' already! But you're right; this one seemed more ... final."
+        ],
+        "pt-br": [
+          "Então, esse tal de Magistrado... se ele é tão poderoso, e agora está longe do alcance do seu Rei,... por que está fugindo da gente?",
+          "Somos um grupo formidável... mas...",
+          "Não sei se ele está exatamente fugindo.",
+          "Hã, como assim?",
+          "Ele está indo atrás de algo, e não fugindo. Antes, mencionou um destino específico.",
+          "Um 'transporte especial', além do qual o filho dele não deveria seguir.",
+          "Ele já usou dois “transportes especiais”! Mas você tem razão; este parecia mais... definitivo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_wizard_druid_pondering",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/gatekeeping_v3.entities"
+          }
+        ],
+        "subtitleLine": 2229,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

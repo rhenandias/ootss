@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "sokoban_overworld",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sokoban_overworld",
+      "clips": [
+        {
+          "id": "sokoban_overworld_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 26.455562,
+          "src": "audio/clips/sokoban_overworld_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I've explored a good deal of the surrounding territory.",
+              "There is more here than I presently understand; you'll have to see for yourself.",
+              "From here, North is the clearest way to make progress. Avoid the West until you are ready for sterner work.",
+              "Quigley, we have indeed done it. Rest assured that I count my life's work a success, regardless of what may follow."
+            ],
+            "pt-br": [
+              "Explorei uma boa parte do território ao redor.",
+              "Há mais aqui do que entendo no momento; você vai ter que ver por si mesmo.",
+              "Daqui, o caminho mais claro para avançar fica no Norte. Evite o Oeste até estar pronto para um trabalho mais duro.",
+              "Quigley, de fato conseguimos. Fique tranquilo, considero a obra da minha vida um sucesso, independentemente do que venha depois."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sokoban_overworld_1__sokoban.wav",
+            "subtitleCueLines": [
+              3287,
+              3290,
+              3294,
+              3298
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I've explored a good deal of the surrounding territory.",
+          "There is more here than I presently understand; you'll have to see for yourself.",
+          "From here, North is the clearest way to make progress. Avoid the West until you are ready for sterner work.",
+          "Quigley, we have indeed done it. Rest assured that I count my life's work a success, regardless of what may follow."
+        ],
+        "pt-br": [
+          "Explorei uma boa parte do território ao redor.",
+          "Há mais aqui do que entendo no momento; você vai ter que ver por si mesmo.",
+          "Daqui, o caminho mais claro para avançar fica no Norte. Evite o Oeste até estar pronto para um trabalho mais duro.",
+          "Quigley, de fato conseguimos. Fique tranquilo, considero a obra da minha vida um sucesso, independentemente do que venha depois."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

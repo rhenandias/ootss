@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "level": "sender_simplified_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_sender_simplified_v2",
+      "clips": [
+        {
+          "id": "audiolog_di_sender_simplified_v2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 116.121104,
+          "src": "audio/clips/audiolog_di_sender_simplified_v2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This version of the level, which we chose as the final,",
+              "is even more economical than the previous one:",
+              "we've gotten rid of the weird confusing geometry and the double vertical Gates.",
+              "Because raising objects to the upper level is not part of the core idea, we have streamlined that out:",
+              "the gem and Beamcaster start at the top, and you just need to move them down.",
+              "It's still a little difficult, and the vertical Gate is slightly obfuscated because you use it to get up to the plateau;",
+              "but because there's only one Gate, and nothing else to do, it's still a focus.",
+              "The way it's slightly hidden feels fairer, and more like a stylistic flourish.",
+              "This version of the level is still perhaps a little harder than it \"should\" be,",
+              "since even after you get the basic idea of what to do, it's easy to get a little confused.",
+              "At least for me, the temptation is to try to use both the Beamcaster and the Gem",
+              "to push the Goblin horizontally in X and Y so it's next to the Gate,",
+              "and then somehow get the Beamcaster down to the bottom without being killed.",
+              "This can't be done; instead, you want to put the Beamcaster on the lower level first.",
+              "We could eliminate this extra confusion by starting the Beamcaster on the bottom (since it'd be impossible to get it onto the plateau),",
+              "but then maybe we are closer to just giving the player the answer, which doesn't feel good to me.",
+              "All of this is subjective, and you could come to your own conclusion.",
+              "But I think, because this is a late-game level, maybe some extra difficulty is okay.",
+              "Look how ugly the previous two versions were, geometrically, compared to this one.",
+              "Most puzzles can be improved through this kind of iteration.",
+              "It's a little humbling to know that your puzzles could always be better,",
+              "and for a game of significant size, it's very very hard",
+              "to get anywhere close to the best versions of all the puzzles."
+            ],
+            "pt-br": [
+              "Esta versão da fase, que escolhemos como a final,",
+              "é ainda mais econômica que a anterior:",
+              "nos livramos da geometria estranha e confusa e dos dois Portões verticais.",
+              "Como erguer objetos até o andar superior não faz parte da ideia central, simplificamos isso:",
+              "a Gema e o Lança-feixes começam no alto, e você só precisa levá-los para baixo.",
+              "Ainda é um pouco difícil, e o Portão vertical fica um pouco ofuscado porque você o usa para subir até o platô;",
+              "mas, como há só um Portão, e mais nada para fazer, ele continua sendo um foco.",
+              "A forma como ele fica um pouco oculto parece mais justa, e mais como um floreio estilístico.",
+              "Esta versão da fase ainda talvez seja um pouco mais difícil do que “deveria”,",
+              "já que, mesmo depois de entender a ideia básica do que você está tentando fazer, é fácil ficar um pouco confuso.",
+              "Pelo menos para mim, a tentação é tentar usar tanto o Lança-feixes quanto a Gema",
+              "para empurrar o Goblin horizontalmente nos eixos X e Y até ele ficar ao lado do Portão,",
+              "e então, de algum jeito, levar o Lança-feixes até embaixo sem ser morto.",
+              "Isso não pode ser feito; em vez disso, você quer colocar o Lança-feixes no andar de baixo primeiro.",
+              "Poderíamos eliminar essa confusão extra começando com o Lança-feixes embaixo (já que seria impossível levá-lo até o platô),",
+              "mas aí talvez estejamos mais perto de simplesmente dar a resposta ao jogador, e isso não me agrada.",
+              "Tudo isso é subjetivo, e você pode chegar à sua própria conclusão.",
+              "Mas acho que, por ser uma fase de fim de jogo, talvez um pouco de dificuldade extra esteja ok.",
+              "Veja como as duas versões anteriores eram feias, geometricamente, em comparação com esta.",
+              "A maioria dos quebra-cabeças pode ser melhorada por meio desse tipo de iteração.",
+              "É um pouco humilhante saber que seus quebra-cabeças sempre podem ser melhores,",
+              "e, para um jogo de tamanho considerável, é muito, muito difícil",
+              "chegar perto das melhores versões de todos os quebra-cabeças."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_sender_simplified_v2_1__director.wav",
+            "subtitleCueLines": [
+              14089,
+              14093,
+              14097,
+              14101,
+              14106,
+              14110,
+              14115,
+              14120,
+              14124,
+              14129,
+              14133,
+              14138,
+              14142,
+              14146,
+              14151,
+              14157,
+              14162,
+              14166,
+              14170,
+              14175,
+              14179,
+              14183,
+              14187
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This version of the level, which we chose as the final,",
+          "is even more economical than the previous one:",
+          "we've gotten rid of the weird confusing geometry and the double vertical Gates.",
+          "Because raising objects to the upper level is not part of the core idea, we have streamlined that out:",
+          "the gem and Beamcaster start at the top, and you just need to move them down.",
+          "It's still a little difficult, and the vertical Gate is slightly obfuscated because you use it to get up to the plateau;",
+          "but because there's only one Gate, and nothing else to do, it's still a focus.",
+          "The way it's slightly hidden feels fairer, and more like a stylistic flourish.",
+          "This version of the level is still perhaps a little harder than it \"should\" be,",
+          "since even after you get the basic idea of what to do, it's easy to get a little confused.",
+          "At least for me, the temptation is to try to use both the Beamcaster and the Gem",
+          "to push the Goblin horizontally in X and Y so it's next to the Gate,",
+          "and then somehow get the Beamcaster down to the bottom without being killed.",
+          "This can't be done; instead, you want to put the Beamcaster on the lower level first.",
+          "We could eliminate this extra confusion by starting the Beamcaster on the bottom (since it'd be impossible to get it onto the plateau),",
+          "but then maybe we are closer to just giving the player the answer, which doesn't feel good to me.",
+          "All of this is subjective, and you could come to your own conclusion.",
+          "But I think, because this is a late-game level, maybe some extra difficulty is okay.",
+          "Look how ugly the previous two versions were, geometrically, compared to this one.",
+          "Most puzzles can be improved through this kind of iteration.",
+          "It's a little humbling to know that your puzzles could always be better,",
+          "and for a game of significant size, it's very very hard",
+          "to get anywhere close to the best versions of all the puzzles."
+        ],
+        "pt-br": [
+          "Esta versão da fase, que escolhemos como a final,",
+          "é ainda mais econômica que a anterior:",
+          "nos livramos da geometria estranha e confusa e dos dois Portões verticais.",
+          "Como erguer objetos até o andar superior não faz parte da ideia central, simplificamos isso:",
+          "a Gema e o Lança-feixes começam no alto, e você só precisa levá-los para baixo.",
+          "Ainda é um pouco difícil, e o Portão vertical fica um pouco ofuscado porque você o usa para subir até o platô;",
+          "mas, como há só um Portão, e mais nada para fazer, ele continua sendo um foco.",
+          "A forma como ele fica um pouco oculto parece mais justa, e mais como um floreio estilístico.",
+          "Esta versão da fase ainda talvez seja um pouco mais difícil do que “deveria”,",
+          "já que, mesmo depois de entender a ideia básica do que você está tentando fazer, é fácil ficar um pouco confuso.",
+          "Pelo menos para mim, a tentação é tentar usar tanto o Lança-feixes quanto a Gema",
+          "para empurrar o Goblin horizontalmente nos eixos X e Y até ele ficar ao lado do Portão,",
+          "e então, de algum jeito, levar o Lança-feixes até embaixo sem ser morto.",
+          "Isso não pode ser feito; em vez disso, você quer colocar o Lança-feixes no andar de baixo primeiro.",
+          "Poderíamos eliminar essa confusão extra começando com o Lança-feixes embaixo (já que seria impossível levá-lo até o platô),",
+          "mas aí talvez estejamos mais perto de simplesmente dar a resposta ao jogador, e isso não me agrada.",
+          "Tudo isso é subjetivo, e você pode chegar à sua própria conclusão.",
+          "Mas acho que, por ser uma fase de fim de jogo, talvez um pouco de dificuldade extra esteja ok.",
+          "Veja como as duas versões anteriores eram feias, geometricamente, em comparação com esta.",
+          "A maioria dos quebra-cabeças pode ser melhorada por meio desse tipo de iteração.",
+          "É um pouco humilhante saber que seus quebra-cabeças sempre podem ser melhores,",
+          "e, para um jogo de tamanho considerável, é muito, muito difícil",
+          "chegar perto das melhores versões de todos os quebra-cabeças."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_sender_simplified_v2",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/sender_simplified_v2.entities"
+          }
+        ],
+        "subtitleLine": 14088,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

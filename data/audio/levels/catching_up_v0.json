@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "level": "catching_up_v0",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_catching_up_v0",
+      "clips": [
+        {
+          "id": "audiolog_di_catching_up_v0_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 39.279292,
+          "src": "audio/clips/audiolog_di_catching_up_v0_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This was our initial design for this puzzle. We decided it was too difficult,",
+              "so we revised it to be easier (and you'll see that revision next).",
+              "What's better or worse is always contextual.",
+              "In a short game, this version might be better than the revision, because it's more mysterious and difficult.",
+              "Many designers and players would tell you that some of their most memorable moments",
+              "happened when a challenge looked completely impossible: you enter the level, you see it, it's simple, there's obviously no solution.",
+              "Then you notice one little thing, and it breaks the whole puzzle open.",
+              "If you haven't been spoiled already, spend some time solving this before listening to the second recording..."
+            ],
+            "pt-br": [
+              "Este era o nosso projeto inicial para este quebra-cabeça. No fim, achamos que ele estava difícil demais,",
+              "então o revisamos para ficar mais fácil (e você verá essa revisão em seguida).",
+              "O que é melhor ou pior sempre depende do contexto.",
+              "Em um jogo curto, esta versão pode ser melhor do que a revisão, porque é mais misteriosa e difícil.",
+              "Muitos designers e jogadores lhe diriam que alguns dos momentos mais memoráveis",
+              "aconteceram quando um desafio parecia completamente impossível: você entra no nível, você o vê, ele é simples, obviamente não há solução.",
+              "Então você vê uma coisinha, e isso abre o quebra-cabeça inteiro.",
+              "Se você ainda não recebeu spoilers, passe um tempo tentando resolver isso antes de ouvir a segunda gravação..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_catching_up_v0_1__director.wav",
+            "subtitleCueLines": [
+              12958,
+              12962,
+              12966,
+              12969,
+              12974,
+              12978,
+              12983,
+              12987
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This was our initial design for this puzzle. We decided it was too difficult,",
+          "so we revised it to be easier (and you'll see that revision next).",
+          "What's better or worse is always contextual.",
+          "In a short game, this version might be better than the revision, because it's more mysterious and difficult.",
+          "Many designers and players would tell you that some of their most memorable moments",
+          "happened when a challenge looked completely impossible: you enter the level, you see it, it's simple, there's obviously no solution.",
+          "Then you notice one little thing, and it breaks the whole puzzle open.",
+          "If you haven't been spoiled already, spend some time solving this before listening to the second recording..."
+        ],
+        "pt-br": [
+          "Este era o nosso projeto inicial para este quebra-cabeça. No fim, achamos que ele estava difícil demais,",
+          "então o revisamos para ficar mais fácil (e você verá essa revisão em seguida).",
+          "O que é melhor ou pior sempre depende do contexto.",
+          "Em um jogo curto, esta versão pode ser melhor do que a revisão, porque é mais misteriosa e difícil.",
+          "Muitos designers e jogadores lhe diriam que alguns dos momentos mais memoráveis",
+          "aconteceram quando um desafio parecia completamente impossível: você entra no nível, você o vê, ele é simples, obviamente não há solução.",
+          "Então você vê uma coisinha, e isso abre o quebra-cabeça inteiro.",
+          "Se você ainda não recebeu spoilers, passe um tempo tentando resolver isso antes de ouvir a segunda gravação..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_catching_up_v0",
+            "rule": "exact-reference",
+            "coordinates": [
+              19.0,
+              15.0,
+              0.0
+            ],
+            "source": "data-common/catching_up_v0.entities"
+          }
+        ],
+        "subtitleLine": 12957,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "audiolog_di_catching_up_v0_part_2",
+      "clips": [
+        {
+          "id": "audiolog_di_catching_up_v0_part_2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 103.803083,
+          "src": "audio/clips/audiolog_di_catching_up_v0_part_2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Over the course of development, we gained a lot of clarity about difficulty: when a puzzle is hard, it could be hard in a good way, or hard in a bad way.",
+              "Suppose a puzzle is very difficult straight off. You enter the level, you look at it,",
+              "and it just doesn't give you any idea how to get started.",
+              "That can be okay in isolation, but when this happens puzzle after puzzle after puzzle in a long game,",
+              "you're having the same experience over and over -- the experience of being stuck and confused.",
+              "In a sense, they are all kind of the same puzzle, regardless of their specifics.",
+              "This becomes tedious. You are working hard with very little reward;",
+              "it's just like banging your head against a brick wall. So you get tired and maybe you want to quit.",
+              "That's not a great experience for you, but for *us*, that's not actually the worst part.",
+              "The worst part is, because you spent almost all your time just trying random ideas, with no clear focus,",
+              "your thoughtspace is cluttered, and it's hard to see the core ideas that these levels were trying to communicate.",
+              "If on a typical level you spend an hour just trying random stuff,",
+              "and only understand what you're meant to do in the last 5 minutes,",
+              "then only a small fraction of your experience is spent seeing and appreciating the neat ideas that are supposed to be the value delivered by the game.",
+              "Early in development, we thought we were making puzzles better by maximizing",
+              "the amount of manipulation you had to do with objects in a level;",
+              "but over time we became more discerning about difficulty, and I sought to remove this kind of grindy excess Sokobanning.",
+              "We want you to be spending time and energy on things that are unique to this game.",
+              "You'll see how we improved the puzzle by changing it drastically in the revised version."
+            ],
+            "pt-br": [
+              "Ao longo do desenvolvimento, ganhamos muita clareza sobre dificuldade: quando um quebra-cabeça é difícil, pode ser difícil de um jeito bom, ou difícil de um jeito ruim.",
+              "Suponha que um quebra-cabeça seja muito difícil logo de cara. Você entra no nível, olha para ele,",
+              "e ele simplesmente não lhe dá nenhuma ideia de por onde começar.",
+              "Isso pode ser aceitável isoladamente, mas quando isso acontece quebra-cabeça após quebra-cabeça num jogo longo,",
+              "você está tendo a mesma experiência de novo e de novo: a experiência de ficar travado e confuso.",
+              "Em certo sentido, todos são meio que o mesmo quebra-cabeça, independentemente de suas particularidades.",
+              "Isso se torna cansativo. Você está se esforçando muito com pouquíssima recompensa;",
+              "é como bater a cabeça contra uma parede de tijolos. Então você se cansa e talvez queira desistir.",
+              "Essa não é uma experiência muito boa, mas, para nós, isso na verdade não é o pior.",
+              "O pior é que, como você passou quase todo o tempo só tentando ideias aleatórias, sem um foco claro,",
+              "seu espaço mental fica bagunçado, e fica difícil enxergar as ideias centrais que estes níveis tentavam comunicar.",
+              "Se, em um nível típico, você passa uma hora só tentando coisas aleatórias,",
+              "e só entende o que deve fazer nos últimos 5 minutos,",
+              "então só uma pequena parte da sua experiência é gasta vendo e apreciando as ideias legais que deveriam ser o valor entregue pelo jogo.",
+              "No começo do desenvolvimento, achávamos que estávamos melhorando os quebra-cabeças ao maximizar",
+              "a quantidade de manipulação que você precisava fazer com os objetos em um nível;",
+              "mas, com o tempo, ficamos mais criteriosos quanto à dificuldade, e procurei remover esse tipo de excesso tedioso de Sokoban.",
+              "Queremos que você gaste tempo e energia em coisas que sejam exclusivas deste jogo.",
+              "Você verá como melhoramos o quebra-cabeça ao mudá-lo drasticamente na versão revisada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_catching_up_v0_part_2_1__director.wav",
+            "subtitleCueLines": [
+              12996,
+              13002,
+              13006,
+              13010,
+              13015,
+              13020,
+              13024,
+              13028,
+              13032,
+              13036,
+              13041,
+              13046,
+              13050,
+              13054,
+              13059,
+              13063,
+              13067,
+              13072,
+              13076
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Over the course of development, we gained a lot of clarity about difficulty: when a puzzle is hard, it could be hard in a good way, or hard in a bad way.",
+          "Suppose a puzzle is very difficult straight off. You enter the level, you look at it,",
+          "and it just doesn't give you any idea how to get started.",
+          "That can be okay in isolation, but when this happens puzzle after puzzle after puzzle in a long game,",
+          "you're having the same experience over and over -- the experience of being stuck and confused.",
+          "In a sense, they are all kind of the same puzzle, regardless of their specifics.",
+          "This becomes tedious. You are working hard with very little reward;",
+          "it's just like banging your head against a brick wall. So you get tired and maybe you want to quit.",
+          "That's not a great experience for you, but for *us*, that's not actually the worst part.",
+          "The worst part is, because you spent almost all your time just trying random ideas, with no clear focus,",
+          "your thoughtspace is cluttered, and it's hard to see the core ideas that these levels were trying to communicate.",
+          "If on a typical level you spend an hour just trying random stuff,",
+          "and only understand what you're meant to do in the last 5 minutes,",
+          "then only a small fraction of your experience is spent seeing and appreciating the neat ideas that are supposed to be the value delivered by the game.",
+          "Early in development, we thought we were making puzzles better by maximizing",
+          "the amount of manipulation you had to do with objects in a level;",
+          "but over time we became more discerning about difficulty, and I sought to remove this kind of grindy excess Sokobanning.",
+          "We want you to be spending time and energy on things that are unique to this game.",
+          "You'll see how we improved the puzzle by changing it drastically in the revised version."
+        ],
+        "pt-br": [
+          "Ao longo do desenvolvimento, ganhamos muita clareza sobre dificuldade: quando um quebra-cabeça é difícil, pode ser difícil de um jeito bom, ou difícil de um jeito ruim.",
+          "Suponha que um quebra-cabeça seja muito difícil logo de cara. Você entra no nível, olha para ele,",
+          "e ele simplesmente não lhe dá nenhuma ideia de por onde começar.",
+          "Isso pode ser aceitável isoladamente, mas quando isso acontece quebra-cabeça após quebra-cabeça num jogo longo,",
+          "você está tendo a mesma experiência de novo e de novo: a experiência de ficar travado e confuso.",
+          "Em certo sentido, todos são meio que o mesmo quebra-cabeça, independentemente de suas particularidades.",
+          "Isso se torna cansativo. Você está se esforçando muito com pouquíssima recompensa;",
+          "é como bater a cabeça contra uma parede de tijolos. Então você se cansa e talvez queira desistir.",
+          "Essa não é uma experiência muito boa, mas, para nós, isso na verdade não é o pior.",
+          "O pior é que, como você passou quase todo o tempo só tentando ideias aleatórias, sem um foco claro,",
+          "seu espaço mental fica bagunçado, e fica difícil enxergar as ideias centrais que estes níveis tentavam comunicar.",
+          "Se, em um nível típico, você passa uma hora só tentando coisas aleatórias,",
+          "e só entende o que deve fazer nos últimos 5 minutos,",
+          "então só uma pequena parte da sua experiência é gasta vendo e apreciando as ideias legais que deveriam ser o valor entregue pelo jogo.",
+          "No começo do desenvolvimento, achávamos que estávamos melhorando os quebra-cabeças ao maximizar",
+          "a quantidade de manipulação que você precisava fazer com os objetos em um nível;",
+          "mas, com o tempo, ficamos mais criteriosos quanto à dificuldade, e procurei remover esse tipo de excesso tedioso de Sokoban.",
+          "Queremos que você gaste tempo e energia em coisas que sejam exclusivas deste jogo.",
+          "Você verá como melhoramos o quebra-cabeça ao mudá-lo drasticamente na versão revisada."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914563,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_catching_up_v0_part_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              20.0,
+              16.0,
+              0.0
+            ],
+            "source": "data-common/catching_up_v0.entities"
+          }
+        ],
+        "subtitleLine": 12995,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

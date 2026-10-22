@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_7_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes_tif_so_much_space",
+      "clips": [
+        {
+          "id": "heroes_tif_so_much_space_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 6.336583,
+          "src": "audio/clips/heroes_tif_so_much_space_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "So many odd-shapen courts; The architect's mind must have been a maze. My sort of fellow!"
+            ],
+            "pt-br": [
+              "Tantos pátios esquisitos; a mente do arquiteto devia ser um labirinto. Dos meus!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_tif_so_much_space_1__thief.wav",
+            "subtitleCueLines": [
+              122
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So many odd-shapen courts; The architect's mind must have been a maze. My sort of fellow!"
+        ],
+        "pt-br": [
+          "Tantos pátios esquisitos; a mente do arquiteto devia ser um labirinto. Dos meus!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031838,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes_tif_so_much_space",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_7_v2.entities"
+          }
+        ],
+        "subtitleLine": 121,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_tif_lone_crystal",
+      "clips": [
+        {
+          "id": "heroes_tif_lone_crystal_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.121667,
+          "src": "audio/clips/heroes_tif_lone_crystal_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Come along, crystal friend, we've somewhere you need to go."
+            ],
+            "pt-br": [
+              "Vamos, colega de cristal, temos um destino pra você."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_tif_lone_crystal_1__thief.wav",
+            "subtitleCueLines": [
+              132
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Come along, crystal friend, we've somewhere you need to go."
+        ],
+        "pt-br": [
+          "Vamos, colega de cristal, temos um destino pra você."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes_tif_lone_crystal",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.039669513702393,
+              6.316361904144287,
+              0.0
+            ],
+            "source": "data-common/heroes1_7_v2.entities"
+          }
+        ],
+        "subtitleLine": 131,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_tif_return",
+      "clips": [
+        {
+          "id": "heroes_tif_return_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.928333,
+          "src": "audio/clips/heroes_tif_return_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "We'll be back for you. Don't worry."
+            ],
+            "pt-br": [
+              "Vamos voltar pra te buscar. Não se preocupe."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_tif_return_1__thief.wav",
+            "subtitleCueLines": [
+              140
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We'll be back for you. Don't worry."
+        ],
+        "pt-br": [
+          "Vamos voltar pra te buscar. Não se preocupe."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031838,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes_tif_return",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_7_v2.entities"
+          }
+        ],
+        "subtitleLine": 139,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "audiolog_di_heroes_1_7_v2",
+      "clips": [
+        {
+          "id": "audiolog_di_heroes_1_7_v2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 85.336208,
+          "src": "audio/clips/audiolog_di_heroes_1_7_v2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here's the way I revised Jonah's idea into a completely different level.",
+              "It's much bigger, an atypical size for early Heroes, but I liked it so I kept it that way.",
+              "My goal was to give the player more practice using the Thief, and internalizing how she moves,",
+              "while also making a level that was easier to see the point of --",
+              "there was something about the original version that never left any meaningful takeaway in my brain.",
+              "Because this is an early training level, I wanted to use shapes that you see often throughout the game --",
+              "the columns in Jonah's version just aren't something you see much.",
+              "So, here we have a series of rooms connected by halls.",
+              "We maintain the funny situation with the button,",
+              "but we emphasize it by starting the Thief right next to the button (she's likely to walk onto it as her first move),",
+              "and placing the crystal far away. It's easy to walk to the crystal,",
+              "but not so simple to drag it back through the rooms.",
+              "The rooms are a little bit ridiculous in terms of the number of detours required",
+              "just to get the crystal where you want it.",
+              "This design is me having fun with the Thief's movement patterns;",
+              "but you could also say that the map of the level is *an illustration* of the Thief's movement patterns,",
+              "in that the room borders show a boundary that maximizes interest.",
+              "In this version of the level, we abandoned the original idea about columns and corners.",
+              "Instead, it's about walls: the Thief cannot ever pull an object up to a wall,",
+              "and this is part of what makes things silly."
+            ],
+            "pt-br": [
+              "Aqui está a forma como revisei a ideia de Jonah em um nível completamente diferente.",
+              "Ele é muito maior, um tamanho atípico para os primeiros Heróis, mas eu gostei dele, então mantive assim.",
+              "Meu objetivo era dar ao jogador mais prática usando a Ladra e internalizando como ela se move,",
+              "ao mesmo tempo em que também criava um nível mais fácil de entender:",
+              "havia algo na versão original que nunca deixou nenhuma lição significativa na minha cabeça.",
+              "Como este é um nível inicial de treinamento, eu queria usar formas que você vê com frequência ao longo do jogo:",
+              "as colunas na versão de Jonah simplesmente não são algo que você vê muito.",
+              "Então, aqui temos uma série de salas conectadas por corredores.",
+              "Mantemos a situação engraçada com o botão,",
+              "mas enfatizamos isso ao começar com a Ladra bem ao lado do botão (é provável que ela pise nele no primeiro movimento),",
+              "e deixar o cristal bem longe. É fácil ir até o cristal,",
+              "mas não é tão simples arrastá-lo de volta pelas salas.",
+              "Os cômodos são um pouco ridículos em termos da quantidade de desvios necessários",
+              "só para levar o cristal até onde você quer.",
+              "Neste projeto, estou me divertindo com os padrões de movimento da Ladra;",
+              "mas você também poderia dizer que o mapa do nível é uma ilustração dos padrões de movimento da Ladra,",
+              "no sentido de que os limites da sala mostram a fronteira que maximiza o interesse.",
+              "Nesta versão do nível, abandonamos a ideia original das colunas e dos cantos.",
+              "Em vez disso, é sobre paredes: a Ladra nunca consegue puxar um objeto até uma parede,",
+              "e isso faz parte do que torna as coisas bobas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_heroes_1_7_v2_1__director.wav",
+            "subtitleCueLines": [
+              13215,
+              13219,
+              13224,
+              13229,
+              13233,
+              13237,
+              13242,
+              13246,
+              13250,
+              13254,
+              13259,
+              13263,
+              13267,
+              13271,
+              13274,
+              13278,
+              13283,
+              13287,
+              13292,
+              13297
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here's the way I revised Jonah's idea into a completely different level.",
+          "It's much bigger, an atypical size for early Heroes, but I liked it so I kept it that way.",
+          "My goal was to give the player more practice using the Thief, and internalizing how she moves,",
+          "while also making a level that was easier to see the point of --",
+          "there was something about the original version that never left any meaningful takeaway in my brain.",
+          "Because this is an early training level, I wanted to use shapes that you see often throughout the game --",
+          "the columns in Jonah's version just aren't something you see much.",
+          "So, here we have a series of rooms connected by halls.",
+          "We maintain the funny situation with the button,",
+          "but we emphasize it by starting the Thief right next to the button (she's likely to walk onto it as her first move),",
+          "and placing the crystal far away. It's easy to walk to the crystal,",
+          "but not so simple to drag it back through the rooms.",
+          "The rooms are a little bit ridiculous in terms of the number of detours required",
+          "just to get the crystal where you want it.",
+          "This design is me having fun with the Thief's movement patterns;",
+          "but you could also say that the map of the level is *an illustration* of the Thief's movement patterns,",
+          "in that the room borders show a boundary that maximizes interest.",
+          "In this version of the level, we abandoned the original idea about columns and corners.",
+          "Instead, it's about walls: the Thief cannot ever pull an object up to a wall,",
+          "and this is part of what makes things silly."
+        ],
+        "pt-br": [
+          "Aqui está a forma como revisei a ideia de Jonah em um nível completamente diferente.",
+          "Ele é muito maior, um tamanho atípico para os primeiros Heróis, mas eu gostei dele, então mantive assim.",
+          "Meu objetivo era dar ao jogador mais prática usando a Ladra e internalizando como ela se move,",
+          "ao mesmo tempo em que também criava um nível mais fácil de entender:",
+          "havia algo na versão original que nunca deixou nenhuma lição significativa na minha cabeça.",
+          "Como este é um nível inicial de treinamento, eu queria usar formas que você vê com frequência ao longo do jogo:",
+          "as colunas na versão de Jonah simplesmente não são algo que você vê muito.",
+          "Então, aqui temos uma série de salas conectadas por corredores.",
+          "Mantemos a situação engraçada com o botão,",
+          "mas enfatizamos isso ao começar com a Ladra bem ao lado do botão (é provável que ela pise nele no primeiro movimento),",
+          "e deixar o cristal bem longe. É fácil ir até o cristal,",
+          "mas não é tão simples arrastá-lo de volta pelas salas.",
+          "Os cômodos são um pouco ridículos em termos da quantidade de desvios necessários",
+          "só para levar o cristal até onde você quer.",
+          "Neste projeto, estou me divertindo com os padrões de movimento da Ladra;",
+          "mas você também poderia dizer que o mapa do nível é uma ilustração dos padrões de movimento da Ladra,",
+          "no sentido de que os limites da sala mostram a fronteira que maximiza o interesse.",
+          "Nesta versão do nível, abandonamos a ideia original das colunas e dos cantos.",
+          "Em vez disso, é sobre paredes: a Ladra nunca consegue puxar um objeto até uma parede,",
+          "e isso faz parte do que torna as coisas bobas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_heroes_1_7_v2",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_7_v2.entities"
+          }
+        ],
+        "subtitleLine": 13214,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

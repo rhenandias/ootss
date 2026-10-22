@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "thats_my_ride",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "ms_alone_2",
+      "clips": [
+        {
+          "id": "ms_alone_2_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.949667,
+          "src": "audio/clips/ms_alone_2_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Okay. These mirrors can't be too bad, right?"
+            ],
+            "pt-br": [
+              "Tá bom. Esses espelhos não podem ser tão ruins, né?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ms_alone_2_1__sailor.wav",
+            "subtitleCueLines": [
+              7306
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Okay. These mirrors can't be too bad, right?"
+        ],
+        "pt-br": [
+          "Tá bom. Esses espelhos não podem ser tão ruins, né?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360226,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "ms_alone_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/thats_my_ride.entities"
+          }
+        ],
+        "subtitleLine": 7305,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "ms_alone_2_end",
+      "clips": [
+        {
+          "id": "ms_alone_2_end_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 5.687,
+          "src": "audio/clips/ms_alone_2_end_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "The mirrors feel ... strangely stilling of the mind."
+            ],
+            "pt-br": [
+              "Os espelhos dão uma sensação... estranhamente apaziguadora da mente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ms_alone_2_end_1__sailor.wav",
+            "subtitleCueLines": [
+              7315
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The mirrors feel ... strangely stilling of the mind."
+        ],
+        "pt-br": [
+          "Os espelhos dão uma sensação... estranhamente apaziguadora da mente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360226,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "ms_alone_2_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/thats_my_ride.entities"
+          }
+        ],
+        "subtitleLine": 7314,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

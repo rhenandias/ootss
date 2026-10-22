@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_world_selection_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_world_selection_3",
+      "clips": [
+        {
+          "id": "audiolog_g_world_selection_3_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 73.685125,
+          "src": "audio/clips/audiolog_g_world_selection_3_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "A curious thought has come to me, and I wonder if you would see it the same way.",
+              "These worlds are chosen according to the kinds of events that happen inside them. Keep that in mind for a moment.",
+              "Our doorstead, by which we sent me here, is of course very special and unique,",
+              "but we based it on the common technology already in use for a hundred years.",
+              "My observation is: none of the worlds into which I've ventured have even these mundane doorsteads.",
+              "Three of them have various kinds of remote transport abilities,",
+              "but they permit only the translocation of single, discrete objects.",
+              "None of them connect space itself, or provide the convenience and capacity of a doorstead.",
+              "To a visitor from one of these other places, the behavior of *our* world would seem peculiar,",
+              "the way we would consider those elephantine gems peculiar.",
+              "Earlier I asked how these Builders find their component worlds. I put it to you, Quigley: is it possible that my arrival here",
+              "was encouraged, as a means of their finding *us*? Will one of these stars find me back in our own world, faced with",
+              "some carefully constructed enigma about maneuvering a doorstead through a doorstead?"
+            ],
+            "pt-br": [
+              "Uma ideia curiosa me ocorreu, e queria saber se você veria da mesma forma.",
+              "Esses mundos são escolhidos de acordo com os tipos de coisas que acontecem dentro deles. Guarde isso por um momento.",
+              "A porta por onde cheguei aqui é, claro, muito especial e única,",
+              "mas a baseamos na tecnologia corriqueira já em uso há cem anos.",
+              "Minha observação é: nenhum dos mundos pelos quais passei tem nem mesmo essas portas comuns.",
+              "Três deles têm vários tipos de transporte à distância,",
+              "mas permitem apenas a translocação de objetos únicos e separados.",
+              "Nenhum deles conecta o próprio Espaço, nem oferece a conveniência e a capacidade de uma porta.",
+              "Para um visitante de um desses outros lugares, o comportamento do nosso mundo pareceria peculiar,",
+              "do mesmo jeito que consideraríamos peculiares aquelas gemas elefantinas.",
+              "Antes, perguntei como esses Construtores encontram seus mundos componentes. Quigley, será que minha chegada aqui",
+              "tenha sido incentivada, como forma de eles nos encontrarem? Será que vou atravessar uma dessas Estrelas e me ver em nosso próprio mundo, diante de",
+              "algum enigma cuidadosamente construído sobre manobrar uma porta através de uma porta?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_world_selection_3_1__sokoban.wav",
+            "subtitleCueLines": [
+              3484,
+              3488,
+              3493,
+              3497,
+              3501,
+              3506,
+              3510,
+              3514,
+              3519,
+              3523,
+              3527,
+              3531,
+              3536
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A curious thought has come to me, and I wonder if you would see it the same way.",
+          "These worlds are chosen according to the kinds of events that happen inside them. Keep that in mind for a moment.",
+          "Our doorstead, by which we sent me here, is of course very special and unique,",
+          "but we based it on the common technology already in use for a hundred years.",
+          "My observation is: none of the worlds into which I've ventured have even these mundane doorsteads.",
+          "Three of them have various kinds of remote transport abilities,",
+          "but they permit only the translocation of single, discrete objects.",
+          "None of them connect space itself, or provide the convenience and capacity of a doorstead.",
+          "To a visitor from one of these other places, the behavior of *our* world would seem peculiar,",
+          "the way we would consider those elephantine gems peculiar.",
+          "Earlier I asked how these Builders find their component worlds. I put it to you, Quigley: is it possible that my arrival here",
+          "was encouraged, as a means of their finding *us*? Will one of these stars find me back in our own world, faced with",
+          "some carefully constructed enigma about maneuvering a doorstead through a doorstead?"
+        ],
+        "pt-br": [
+          "Uma ideia curiosa me ocorreu, e queria saber se você veria da mesma forma.",
+          "Esses mundos são escolhidos de acordo com os tipos de coisas que acontecem dentro deles. Guarde isso por um momento.",
+          "A porta por onde cheguei aqui é, claro, muito especial e única,",
+          "mas a baseamos na tecnologia corriqueira já em uso há cem anos.",
+          "Minha observação é: nenhum dos mundos pelos quais passei tem nem mesmo essas portas comuns.",
+          "Três deles têm vários tipos de transporte à distância,",
+          "mas permitem apenas a translocação de objetos únicos e separados.",
+          "Nenhum deles conecta o próprio Espaço, nem oferece a conveniência e a capacidade de uma porta.",
+          "Para um visitante de um desses outros lugares, o comportamento do nosso mundo pareceria peculiar,",
+          "do mesmo jeito que consideraríamos peculiares aquelas gemas elefantinas.",
+          "Antes, perguntei como esses Construtores encontram seus mundos componentes. Quigley, será que minha chegada aqui",
+          "tenha sido incentivada, como forma de eles nos encontrarem? Será que vou atravessar uma dessas Estrelas e me ver em nosso próprio mundo, diante de",
+          "algum enigma cuidadosamente construído sobre manobrar uma porta através de uma porta?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_musing_on_freezers_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_musing_on_freezers_1",
+      "clips": [
+        {
+          "id": "audiolog_g_musing_on_freezers_1_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 54.510813,
+          "src": "audio/clips/audiolog_g_musing_on_freezers_1_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "By now I've been through many of these locked gates and cage-like fixtures...",
+              "and I see that these fixtures are not here to block me full stop.",
+              "They are here to block me *until*.",
+              "Until I know what they want me to know, and am thereby prepared for the next place, to confront the next problem.",
+              "Thus they shape my journey.",
+              "Just as this whole territory is organized with each star occupying its proper place,",
+              "these silvery barriers are arranged quite intentionally, each invisibly joined to its star, each star holding an idea.",
+              "If I were to trace the constellations on a map, the connections from star to star, and star to cage,",
+              "they would make a delicate webwork.",
+              "An underlying geometry, compressed and occulted,",
+              "a chart of relations in that realm of Ideas that we humans can only dream of touching directly."
+            ],
+            "pt-br": [
+              "Até agora já passei por muitos desses portões trancados e estruturas em forma de gaiola...",
+              "e vejo que esses dispositivos não estão aqui para simplesmente me impedir.",
+              "Eles estão aqui para me impedir até.",
+              "Até eu saber o que eles querem que eu saiba, e assim estar preparado para o próximo lugar, enfrentar o próximo problema.",
+              "Assim, eles moldam minha jornada.",
+              "Assim como todo este território é organizado com cada estrela ocupando seu devido lugar,",
+              "essas barreiras prateadas são dispostas de forma bem intencional, cada uma unida invisivelmente à sua estrela, cada estrela guardando uma ideia.",
+              "Se eu traçasse as constelações num mapa, mapeando as conexões de estrela em estrela, e de estrela em cela,",
+              "formariam uma teia delicada.",
+              "Uma geometria subjacente, comprimida e ocultada,",
+              "um mapa de relações naquele reino das Ideias que nós, humanos, só podemos sonhar em tocar diretamente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_musing_on_freezers_1_1__sokoban.wav",
+            "subtitleCueLines": [
+              3745,
+              3749,
+              3753,
+              3756,
+              3761,
+              3764,
+              3768,
+              3773,
+              3778,
+              3781,
+              3784
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "By now I've been through many of these locked gates and cage-like fixtures...",
+          "and I see that these fixtures are not here to block me full stop.",
+          "They are here to block me *until*.",
+          "Until I know what they want me to know, and am thereby prepared for the next place, to confront the next problem.",
+          "Thus they shape my journey.",
+          "Just as this whole territory is organized with each star occupying its proper place,",
+          "these silvery barriers are arranged quite intentionally, each invisibly joined to its star, each star holding an idea.",
+          "If I were to trace the constellations on a map, the connections from star to star, and star to cage,",
+          "they would make a delicate webwork.",
+          "An underlying geometry, compressed and occulted,",
+          "a chart of relations in that realm of Ideas that we humans can only dream of touching directly."
+        ],
+        "pt-br": [
+          "Até agora já passei por muitos desses portões trancados e estruturas em forma de gaiola...",
+          "e vejo que esses dispositivos não estão aqui para simplesmente me impedir.",
+          "Eles estão aqui para me impedir até.",
+          "Até eu saber o que eles querem que eu saiba, e assim estar preparado para o próximo lugar, enfrentar o próximo problema.",
+          "Assim, eles moldam minha jornada.",
+          "Assim como todo este território é organizado com cada estrela ocupando seu devido lugar,",
+          "essas barreiras prateadas são dispostas de forma bem intencional, cada uma unida invisivelmente à sua estrela, cada estrela guardando uma ideia.",
+          "Se eu traçasse as constelações num mapa, mapeando as conexões de estrela em estrela, e de estrela em cela,",
+          "formariam uma teia delicada.",
+          "Uma geometria subjacente, comprimida e ocultada,",
+          "um mapa de relações naquele reino das Ideias que nós, humanos, só podemos sonhar em tocar diretamente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

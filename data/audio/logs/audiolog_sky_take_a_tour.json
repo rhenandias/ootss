@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_take_a_tour",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_take_a_tour",
+      "clips": [
+        {
+          "id": "audiolog_sky_take_a_tour_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 4.61975,
+          "src": "audio/clips/audiolog_sky_take_a_tour_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "... your manners, sir! That look could be taken in quite the wrong way."
+            ],
+            "pt-br": [
+              "...seus modos, senhor! Esse olhar pode ser interpretado de um jeito bem errado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_take_a_tour_1__acting.wav",
+            "subtitleCueLines": [
+              8919
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_take_a_tour_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 11.584938,
+          "src": "audio/clips/audiolog_sky_take_a_tour_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Forgive me. You are the first person I have seen in ... quite some time.",
+              "The first person *in* person, I mean, not as a ... figment? What do you call it."
+            ],
+            "pt-br": [
+              "Perdoe-me. Você é a primeira pessoa que vejo em... bastante tempo.",
+              "A primeira pessoa em pessoa, quero dizer, não como uma... ilusão? Como é que se chama."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_take_a_tour_2__sokoban.wav",
+            "subtitleCueLines": [
+              8924,
+              8930
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_take_a_tour_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 3.209708,
+          "src": "audio/clips/audiolog_sky_take_a_tour_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Let not your heart be troubled. I'm your friend."
+            ],
+            "pt-br": [
+              "Não deixe seu coração se afligir. Sou seu amigo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_take_a_tour_3__acting.wav",
+            "subtitleCueLines": [
+              8934
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_take_a_tour_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 1.255042,
+          "src": "audio/clips/audiolog_sky_take_a_tour_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Good to hear."
+            ],
+            "pt-br": [
+              "Que bom ouvir isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_take_a_tour_4__sokoban.wav",
+            "subtitleCueLines": [
+              8938
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_take_a_tour_5__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 10.745521,
+          "src": "audio/clips/audiolog_sky_take_a_tour_5__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Lift your nose from the grindstone for a bit.",
+              "Walk with me, and I will tell you about the history of this place:",
+              "how it came to be, and why things are the way they are."
+            ],
+            "pt-br": [
+              "Deixe o trabalho de lado um pouco.",
+              "Caminhe comigo, e eu lhe contarei sobre a história deste lugar:",
+              "como ele veio a existir, e por que as coisas são como são."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_take_a_tour_5__acting.wav",
+            "subtitleCueLines": [
+              8942,
+              8946,
+              8950
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... your manners, sir! That look could be taken in quite the wrong way.",
+          "Forgive me. You are the first person I have seen in ... quite some time.",
+          "The first person *in* person, I mean, not as a ... figment? What do you call it.",
+          "Let not your heart be troubled. I'm your friend.",
+          "Good to hear.",
+          "Lift your nose from the grindstone for a bit.",
+          "Walk with me, and I will tell you about the history of this place:",
+          "how it came to be, and why things are the way they are."
+        ],
+        "pt-br": [
+          "...seus modos, senhor! Esse olhar pode ser interpretado de um jeito bem errado.",
+          "Perdoe-me. Você é a primeira pessoa que vejo em... bastante tempo.",
+          "A primeira pessoa em pessoa, quero dizer, não como uma... ilusão? Como é que se chama.",
+          "Não deixe seu coração se afligir. Sou seu amigo.",
+          "Que bom ouvir isso.",
+          "Deixe o trabalho de lado um pouco.",
+          "Caminhe comigo, e eu lhe contarei sobre a história deste lugar:",
+          "como ele veio a existir, e por que as coisas são como são."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

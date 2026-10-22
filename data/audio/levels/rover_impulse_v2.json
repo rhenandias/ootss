@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "level": "rover_impulse_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_rover_mission",
+      "clips": [
+        {
+          "id": "sp_rover_mission_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.254667,
+          "src": "audio/clips/sp_rover_mission_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "These devices seem to have a simple form of",
+              "what we would consider cybernetic control."
+            ],
+            "pt-br": [
+              "Esses dispositivos parecem ter uma forma simples de",
+              "do que consideraríamos controle cibernético."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_rover_mission_1__boat.wav",
+            "subtitleCueLines": [
+              7510,
+              7514
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_rover_mission_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.426042,
+          "src": "audio/clips/sp_rover_mission_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "You mean, avoiding the water?"
+            ],
+            "pt-br": [
+              "Você quer dizer evitar a água?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_rover_mission_2__sailor.wav",
+            "subtitleCueLines": [
+              7519
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_rover_mission_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 6.542667,
+          "src": "audio/clips/sp_rover_mission_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "They steer. And I wonder, could their decision-making apparatus",
+              "be inhabited by a mind such as mine?"
+            ],
+            "pt-br": [
+              "Eles se movem. E eu me pergunto: será que o sistema de decisão deles",
+              "pode ser habitado por uma mente como a minha?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_rover_mission_3__boat.wav",
+            "subtitleCueLines": [
+              7522,
+              7526
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_rover_mission_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.640958,
+          "src": "audio/clips/sp_rover_mission_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Deep."
+            ],
+            "pt-br": [
+              "Profundo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_rover_mission_4__sailor.wav",
+            "subtitleCueLines": [
+              7529
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "These devices seem to have a simple form of",
+          "what we would consider cybernetic control.",
+          "You mean, avoiding the water?",
+          "They steer. And I wonder, could their decision-making apparatus",
+          "be inhabited by a mind such as mine?",
+          "Deep."
+        ],
+        "pt-br": [
+          "Esses dispositivos parecem ter uma forma simples de",
+          "do que consideraríamos controle cibernético.",
+          "Você quer dizer evitar a água?",
+          "Eles se movem. E eu me pergunto: será que o sistema de decisão deles",
+          "pode ser habitado por uma mente como a minha?",
+          "Profundo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 100663503,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "sp_rover_mission",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              25.0,
+              0.0
+            ],
+            "source": "data-common/rover_impulse_v2.entities"
+          }
+        ],
+        "subtitleLine": 7509,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "sp_rover_mission_end",
+      "clips": [
+        {
+          "id": "sp_rover_mission_end_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.429333,
+          "src": "audio/clips/sp_rover_mission_end_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I've hatched a plan that we must discuss."
+            ],
+            "pt-br": [
+              "Elaborei um plano que precisamos discutir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_rover_mission_end_1__boat.wav",
+            "subtitleCueLines": [
+              7537
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_rover_mission_end_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.437,
+          "src": "audio/clips/sp_rover_mission_end_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Not sure I like the sound of that!"
+            ],
+            "pt-br": [
+              "Não gostei do jeito que isso soou!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_rover_mission_end_2__sailor.wav",
+            "subtitleCueLines": [
+              7541
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I've hatched a plan that we must discuss.",
+          "Not sure I like the sound of that!"
+        ],
+        "pt-br": [
+          "Elaborei um plano que precisamos discutir.",
+          "Não gostei do jeito que isso soou!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 100663503,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "sp_rover_mission_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              25.0,
+              0.0
+            ],
+            "source": "data-common/rover_impulse_v2.entities"
+          }
+        ],
+        "subtitleLine": 7536,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

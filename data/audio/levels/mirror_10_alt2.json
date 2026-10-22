@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_10_alt2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_double_mirrors",
+      "clips": [
+        {
+          "id": "mirror_stranger_double_mirrors_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 68.198583,
+          "src": "audio/clips/mirror_stranger_double_mirrors_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "The stranger said that even if it were very difficult to eventuate and took lavish expenditure,",
+              "I should still return to the Mirror Isles and heal my soul.",
+              "That it was necessary if I were to depart this world a full and self-respecting man.",
+              "I told him the idea was hopeless. I had too much to manage here, to ensure all would be set right before I'm gone.",
+              "He said that things seemed right enough with my associates already, and anyway, they all had plenty more time to work with.",
+              "He said that I was the one with few days remaining to repair my soul.",
+              "The libations warmed my blood. A plan formed in my mind.",
+              "I told him it would be fairly inconvenient, and a significant outlay, but ... doable.",
+              "The early rays of dawn drifted through the window;",
+              "I'd had two drinks too many. I thanked him and took leave."
+            ],
+            "pt-br": [
+              "O estranho disse que, mesmo que fosse muito difícil de concretizar e exigisse um gasto vultoso,",
+              "eu ainda deveria voltar às Ilhas de Espelhos e curar minha alma.",
+              "Que isso era necessário para eu partir deste mundo como um homem pleno e com respeito por si mesmo.",
+              "Eu disse a ele que a ideia não tinha futuro. Eu tinha coisas demais para administrar aqui, para garantir que tudo estivesse em ordem antes da minha partida.",
+              "Ele disse que meus sócios já pareciam estar se saindo bem, e que, de qualquer forma, eles ainda tinham muito tempo.",
+              "Ele disse que era eu quem tinha poucos dias restantes para restaurar minha alma.",
+              "As bebidas aqueceram meu sangue. Um plano se formou na minha mente.",
+              "Eu disse a ele que seria bem inconveniente, e um gasto considerável, mas... possível.",
+              "Os primeiros raios da aurora entravam pela janela;",
+              "eu tinha bebido além da conta. Agradeci a ele e me despedi."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_double_mirrors_1__trader.wav",
+            "subtitleCueLines": [
+              6443,
+              6449,
+              6453,
+              6457,
+              6462,
+              6467,
+              6471,
+              6475,
+              6479,
+              6483
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The stranger said that even if it were very difficult to eventuate and took lavish expenditure,",
+          "I should still return to the Mirror Isles and heal my soul.",
+          "That it was necessary if I were to depart this world a full and self-respecting man.",
+          "I told him the idea was hopeless. I had too much to manage here, to ensure all would be set right before I'm gone.",
+          "He said that things seemed right enough with my associates already, and anyway, they all had plenty more time to work with.",
+          "He said that I was the one with few days remaining to repair my soul.",
+          "The libations warmed my blood. A plan formed in my mind.",
+          "I told him it would be fairly inconvenient, and a significant outlay, but ... doable.",
+          "The early rays of dawn drifted through the window;",
+          "I'd had two drinks too many. I thanked him and took leave."
+        ],
+        "pt-br": [
+          "O estranho disse que, mesmo que fosse muito difícil de concretizar e exigisse um gasto vultoso,",
+          "eu ainda deveria voltar às Ilhas de Espelhos e curar minha alma.",
+          "Que isso era necessário para eu partir deste mundo como um homem pleno e com respeito por si mesmo.",
+          "Eu disse a ele que a ideia não tinha futuro. Eu tinha coisas demais para administrar aqui, para garantir que tudo estivesse em ordem antes da minha partida.",
+          "Ele disse que meus sócios já pareciam estar se saindo bem, e que, de qualquer forma, eles ainda tinham muito tempo.",
+          "Ele disse que era eu quem tinha poucos dias restantes para restaurar minha alma.",
+          "As bebidas aqueceram meu sangue. Um plano se formou na minha mente.",
+          "Eu disse a ele que seria bem inconveniente, e um gasto considerável, mas... possível.",
+          "Os primeiros raios da aurora entravam pela janela;",
+          "eu tinha bebido além da conta. Agradeci a ele e me despedi."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048674,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_double_mirrors",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/mirror_10_alt2.entities"
+          }
+        ],
+        "subtitleLine": 6442,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

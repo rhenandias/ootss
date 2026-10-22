@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_heroes_and_promesst_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_worlds_collide_heroes_and_promesst_v2",
+      "clips": [
+        {
+          "id": "audiolog_di_worlds_collide_heroes_and_promesst_v2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 28.391417,
+          "src": "audio/clips/audiolog_di_worlds_collide_heroes_and_promesst_v2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "In this version, we've gotten rid of all the crystals, which helps the level feel focused.",
+              "We also got rid of the Double beam, and allowed ourselves the slight impurity of placing a Monster Gate on the Beamcaster side.",
+              "We've also made the Monster elimination less messy and more focused:",
+              "there are 5 Goblins, so you obviously need to make a group of 3,",
+              "but this can't be done without moving one away from the wall using the Displacer,",
+              "which is a second way the two sides can affect each other."
+            ],
+            "pt-br": [
+              "Nesta versão, removemos todos os cristais, o que ajuda a fase a parecer focada.",
+              "Também removemos o feixe Duplo e nos permitimos a pequena impureza de colocar um Portão de monstros no lado do Lança-feixes.",
+              "Também deixamos a eliminação do Monstro menos bagunçada e mais focada:",
+              "há 5 goblins, então obviamente você precisa formar um grupo de 3,",
+              "mas isso não pode ser feito sem afastar um da parede usando o Deslocador,",
+              "que é uma segunda forma de os dois lados interagirem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_worlds_collide_heroes_and_promesst_v2_1__director.wav",
+            "subtitleCueLines": [
+              14234,
+              14239,
+              14244,
+              14248,
+              14252,
+              14257
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "In this version, we've gotten rid of all the crystals, which helps the level feel focused.",
+          "We also got rid of the Double beam, and allowed ourselves the slight impurity of placing a Monster Gate on the Beamcaster side.",
+          "We've also made the Monster elimination less messy and more focused:",
+          "there are 5 Goblins, so you obviously need to make a group of 3,",
+          "but this can't be done without moving one away from the wall using the Displacer,",
+          "which is a second way the two sides can affect each other."
+        ],
+        "pt-br": [
+          "Nesta versão, removemos todos os cristais, o que ajuda a fase a parecer focada.",
+          "Também removemos o feixe Duplo e nos permitimos a pequena impureza de colocar um Portão de monstros no lado do Lança-feixes.",
+          "Também deixamos a eliminação do Monstro menos bagunçada e mais focada:",
+          "há 5 goblins, então obviamente você precisa formar um grupo de 3,",
+          "mas isso não pode ser feito sem afastar um da parede usando o Deslocador,",
+          "que é uma segunda forma de os dois lados interagirem."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914679,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_worlds_collide_heroes_and_promesst_v2",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v2.entities"
+          }
+        ],
+        "subtitleLine": 14233,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

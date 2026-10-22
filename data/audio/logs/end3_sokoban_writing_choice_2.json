@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "end3_sokoban_writing_choice_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_sokoban_writing_choice_2",
+      "clips": [
+        {
+          "id": "end3_sokoban_writing_choice_2_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 85.552521,
+          "src": "audio/clips/end3_sokoban_writing_choice_2_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "As with the previous Endgame, she gave me a choice of medium:",
+              "She said I could communicate via writing, or imbue the hologram with voice.",
+              "Voice would make the hologram more lifelike, as though I were speaking to you directly;",
+              "and it would add nuance to the communications, via inflection, pacing and all that.",
+              "But I felt voice to be the wrong mode here.",
+              "In these Puzzles, when you are not quite sure of the answer,",
+              "you may try many different possibilities and see what I have to say of each.",
+              "If my hologram's responses were vocal, I think it would become tiring to receive the same response five times in a row;",
+              "And, you must stand there listening awhile, merely to discover whether the response has changed!",
+              "You hear the first few words, and wonder: \"is this the same response I heard last time,",
+              "or one that begins with the same words, but changes towards the end?\"",
+              "You listen for some duration, just to realize there is no new information.",
+              "Thus your attention is spent to no purpose, and you have a little less energy to exert on the Puzzles.",
+              "I do not like that, and I don't think you would either; the repetition would become grating.",
+              "When the response is visual, as when written on a Sign,",
+              "it can be inspected in an instant; and, it's no surprise when a Sign *doesn't* change.",
+              "I think she approved of my reasoning, though it would be outside the rules",
+              "for her to discuss it until this process is complete."
+            ],
+            "pt-br": [
+              "Como no Endgame anterior, ela me deu uma escolha de meio:",
+              "Ela disse que eu podia me comunicar por escrito, ou dar voz ao holograma.",
+              "A voz tornaria o holograma mais realista, como se eu estivesse falando com você diretamente;",
+              "e daria mais nuance à comunicação, pela entonação, pelo ritmo e por aí vai.",
+              "Mas senti que a voz aqui seria a escolha errada.",
+              "Nesses quebra-cabeças, quando você não tem muita certeza da resposta",
+              "pode tentar muitas possibilidades diferentes e ver o que tenho a dizer sobre cada uma.",
+              "Se as respostas do meu holograma fossem vocais, acho que ficaria cansativo receber a mesma resposta cinco vezes seguidas;",
+              "E você precisa ficar ali ouvindo por um tempo só para descobrir se a resposta mudou!",
+              "Você ouve as primeiras palavras e se pergunta: “é a mesma resposta que ouvi da última vez,",
+              "ou uma que começa com as mesmas palavras, mas tem uma parte diferente no fim?”",
+              "Você ouve por um certo tempo, só para perceber que não há informação nova.",
+              "Assim, sua atenção é gasta em vão, e você fica com um pouco menos de energia para aplicar aos quebra-cabeças.",
+              "Eu não gosto disso, e acho que você também não; a repetição se tornaria irritante.",
+              "Quando a resposta é visual, como quando escrita num Sinal,",
+              "pode ser inspecionada num instante; e não é surpresa quando um Sinal não muda.",
+              "Acho que ela aprovou meu raciocínio, embora fosse contra as regras",
+              "para ela discutir isso até que esse processo esteja completo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_sokoban_writing_choice_2_1__sokoban.wav",
+            "subtitleCueLines": [
+              11530,
+              11534,
+              11538,
+              11542,
+              11546,
+              11549,
+              11553,
+              11557,
+              11562,
+              11566,
+              11570,
+              11574,
+              11578,
+              11583,
+              11587,
+              11590,
+              11594,
+              11599
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "As with the previous Endgame, she gave me a choice of medium:",
+          "She said I could communicate via writing, or imbue the hologram with voice.",
+          "Voice would make the hologram more lifelike, as though I were speaking to you directly;",
+          "and it would add nuance to the communications, via inflection, pacing and all that.",
+          "But I felt voice to be the wrong mode here.",
+          "In these Puzzles, when you are not quite sure of the answer,",
+          "you may try many different possibilities and see what I have to say of each.",
+          "If my hologram's responses were vocal, I think it would become tiring to receive the same response five times in a row;",
+          "And, you must stand there listening awhile, merely to discover whether the response has changed!",
+          "You hear the first few words, and wonder: \"is this the same response I heard last time,",
+          "or one that begins with the same words, but changes towards the end?\"",
+          "You listen for some duration, just to realize there is no new information.",
+          "Thus your attention is spent to no purpose, and you have a little less energy to exert on the Puzzles.",
+          "I do not like that, and I don't think you would either; the repetition would become grating.",
+          "When the response is visual, as when written on a Sign,",
+          "it can be inspected in an instant; and, it's no surprise when a Sign *doesn't* change.",
+          "I think she approved of my reasoning, though it would be outside the rules",
+          "for her to discuss it until this process is complete."
+        ],
+        "pt-br": [
+          "Como no Endgame anterior, ela me deu uma escolha de meio:",
+          "Ela disse que eu podia me comunicar por escrito, ou dar voz ao holograma.",
+          "A voz tornaria o holograma mais realista, como se eu estivesse falando com você diretamente;",
+          "e daria mais nuance à comunicação, pela entonação, pelo ritmo e por aí vai.",
+          "Mas senti que a voz aqui seria a escolha errada.",
+          "Nesses quebra-cabeças, quando você não tem muita certeza da resposta",
+          "pode tentar muitas possibilidades diferentes e ver o que tenho a dizer sobre cada uma.",
+          "Se as respostas do meu holograma fossem vocais, acho que ficaria cansativo receber a mesma resposta cinco vezes seguidas;",
+          "E você precisa ficar ali ouvindo por um tempo só para descobrir se a resposta mudou!",
+          "Você ouve as primeiras palavras e se pergunta: “é a mesma resposta que ouvi da última vez,",
+          "ou uma que começa com as mesmas palavras, mas tem uma parte diferente no fim?”",
+          "Você ouve por um certo tempo, só para perceber que não há informação nova.",
+          "Assim, sua atenção é gasta em vão, e você fica com um pouco menos de energia para aplicar aos quebra-cabeças.",
+          "Eu não gosto disso, e acho que você também não; a repetição se tornaria irritante.",
+          "Quando a resposta é visual, como quando escrita num Sinal,",
+          "pode ser inspecionada num instante; e não é surpresa quando um Sinal não muda.",
+          "Acho que ela aprovou meu raciocínio, embora fosse contra as regras",
+          "para ela discutir isso até que esse processo esteja completo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

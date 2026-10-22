@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "level": "submarine_far_away",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_double_agent",
+      "clips": [
+        {
+          "id": "sp_double_agent_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.936542,
+          "src": "audio/clips/sp_double_agent_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So ... Borraidus told me who you really are."
+            ],
+            "pt-br": [
+              "Então... Borraidus me contou quem você realmente é."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_double_agent_1__sailor.wav",
+            "subtitleCueLines": [
+              7404
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_double_agent_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 3.478417,
+          "src": "audio/clips/sp_double_agent_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Did he? I doubt he knows the whole story."
+            ],
+            "pt-br": [
+              "Contou? Duvido que ele saiba a história toda."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_double_agent_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              7408
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_double_agent_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.878062,
+          "src": "audio/clips/sp_double_agent_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Want to help mend my ignorance?"
+            ],
+            "pt-br": [
+              "Quer me ajudar a sanar minha ignorância?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_double_agent_3__sailor.wav",
+            "subtitleCueLines": [
+              7411
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_double_agent_4__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.982333,
+          "src": "audio/clips/sp_double_agent_4__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Not at this time."
+            ],
+            "pt-br": [
+              "Não, desta vez não."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_double_agent_4__sailor_alt.wav",
+            "subtitleCueLines": [
+              7414
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_double_agent_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.137042,
+          "src": "audio/clips/sp_double_agent_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "He told me to trust you anyway, regardless. For now."
+            ],
+            "pt-br": [
+              "Ele me disse para confiar em você de qualquer jeito. Por enquanto."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_double_agent_5__sailor.wav",
+            "subtitleCueLines": [
+              7418
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_double_agent_6__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.079687,
+          "src": "audio/clips/sp_double_agent_6__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "We have shared interests here."
+            ],
+            "pt-br": [
+              "Temos interesses em comum aqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_double_agent_6__sailor_alt.wav",
+            "subtitleCueLines": [
+              7423
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_double_agent_7__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.571333,
+          "src": "audio/clips/sp_double_agent_7__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Is there something I should know about?"
+            ],
+            "pt-br": [
+              "Há alguma coisa que eu deva saber?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_double_agent_7__gemsman.wav",
+            "subtitleCueLines": [
+              7427
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So ... Borraidus told me who you really are.",
+          "Did he? I doubt he knows the whole story.",
+          "Want to help mend my ignorance?",
+          "Not at this time.",
+          "He told me to trust you anyway, regardless. For now.",
+          "We have shared interests here.",
+          "Is there something I should know about?"
+        ],
+        "pt-br": [
+          "Então... Borraidus me contou quem você realmente é.",
+          "Contou? Duvido que ele saiba a história toda.",
+          "Quer me ajudar a sanar minha ignorância?",
+          "Não, desta vez não.",
+          "Ele me disse para confiar em você de qualquer jeito. Por enquanto.",
+          "Temos interesses em comum aqui.",
+          "Há alguma coisa que eu deva saber?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "sp_double_agent",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/submarine_far_away.entities"
+          }
+        ],
+        "subtitleLine": 7403,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

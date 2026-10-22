@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_1",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_new_1_start",
+      "clips": [
+        {
+          "id": "mirror_new_1_start_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.825542,
+          "src": "audio/clips/mirror_new_1_start_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "There it is. The first mirror."
+            ],
+            "pt-br": [
+              "Aí está. O primeiro espelho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_new_1_start_1__trader.wav",
+            "subtitleCueLines": [
+              5977
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There it is. The first mirror."
+        ],
+        "pt-br": [
+          "Aí está. O primeiro espelho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048632,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_new_1_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/mirror_1.entities"
+          }
+        ],
+        "subtitleLine": 5976,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

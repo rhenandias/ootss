@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "3d_intro_vanilla",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "3d_intro_heights",
+      "clips": [
+        {
+          "id": "3d_intro_heights_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.976333,
+          "src": "audio/clips/3d_intro_heights_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh my goodness, oh my goodness! Step carefully, Janaila!"
+            ],
+            "pt-br": [
+              "Minha nossa, minha nossa! Pise com cuidado, Janaila!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_heights_1__sailor.wav",
+            "subtitleCueLines": [
+              7021
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Oh my goodness, oh my goodness! Step carefully, Janaila!"
+        ],
+        "pt-br": [
+          "Minha nossa, minha nossa! Pise com cuidado, Janaila!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "3d_intro_heights",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              11.0,
+              5.0
+            ],
+            "source": "data-common/3d_intro_vanilla.entities"
+          }
+        ],
+        "subtitleLine": 7020,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "3d_intro_heights_end",
+      "clips": [
+        {
+          "id": "3d_intro_heights_end_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.231,
+          "src": "audio/clips/3d_intro_heights_end_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Is this what the cityfolk feel like when they say they're 'seasick'?"
+            ],
+            "pt-br": [
+              "É assim que o pessoal da cidade se sente quando dizem que estão 'enjoados do mar'?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_heights_end_1__sailor.wav",
+            "subtitleCueLines": [
+              7031
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Is this what the cityfolk feel like when they say they're 'seasick'?"
+        ],
+        "pt-br": [
+          "É assim que o pessoal da cidade se sente quando dizem que estão 'enjoados do mar'?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "3d_intro_heights_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              11.0,
+              5.0
+            ],
+            "source": "data-common/3d_intro_vanilla.entities"
+          }
+        ],
+        "subtitleLine": 7030,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

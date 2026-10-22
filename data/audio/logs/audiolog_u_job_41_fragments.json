@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_job_41_fragments",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_job_41_fragments",
+      "clips": [
+        {
+          "id": "audiolog_u_job_41_fragments_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 96.696667,
+          "src": "audio/clips/audiolog_u_job_41_fragments_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?",
+              "Will he make many supplications unto thee? Will he speak soft words unto thee?",
+              "Lay thine hand upon him, remember the battle, do no more.",
+              "I will not conceal his parts, nor his power, nor his comely proportion.",
+              "His scales are his pride, shut up together as with a close seal.",
+              "One is so near to another, that no air can come between them.",
+              "By his neesings a light doth shine, and his eyes are like the eyelids of the morning.",
+              "His breath kindleth coals, and a flame goeth out of his mouth.",
+              "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.",
+              "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+              "He esteemeth iron as straw, and brass as rotten wood.",
+              "He laugheth at the shaking of a spear.",
+              "Upon earth there is not his like, who is made without fear.",
+              "He beholdeth all high things: he is a king over all the children of pride."
+            ],
+            "pt-br": [
+              "Podes tu pescar o leviatã com anzol? Ou lhe prender a língua com uma corda que baixes?",
+              "Fará ele muitas súplicas a ti? Falar-te-á palavras mansas?",
+              "Põe a tua mão sobre ele, lembra-te da peleja, e não o faças mais.",
+              "Não esconderei as suas partes, nem o seu poder, nem sua formosa proporção.",
+              "As suas escamas são o seu orgulho, fechadas juntas como com um selo apertado.",
+              "Uma está tão perto da outra, que nem ar pode entrar entre elas.",
+              "Pelo seu espirro, uma luz brilha, e os seus olhos são como as pálpebras da manhã.",
+              "O seu sopro acende carvões, e da sua boca sai uma chama.",
+              "O seu coração é tão firme como uma pedra; sim, tão duro quanto uma pedra de moinho inferior.",
+              "Quando ele se ergue, os poderosos se amedrontam: por causa dos estilhaços, eles se purificam.",
+              "Tem o ferro em conta de palha, e o bronze como madeira podre.",
+              "Ri-se do brandir da lança.",
+              "Em cima da terra não há quem se lhe assemelhe, feito sem medo.",
+              "Ele olha para todas as coisas altivas: é rei sobre todos os filhos do orgulho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_job_41_fragments_1__director.wav",
+            "subtitleCueLines": [
+              15353,
+              15357,
+              15361,
+              15365,
+              15369,
+              15373,
+              15377,
+              15381,
+              15385,
+              15389,
+              15393,
+              15397,
+              15400,
+              15404
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?",
+          "Will he make many supplications unto thee? Will he speak soft words unto thee?",
+          "Lay thine hand upon him, remember the battle, do no more.",
+          "I will not conceal his parts, nor his power, nor his comely proportion.",
+          "His scales are his pride, shut up together as with a close seal.",
+          "One is so near to another, that no air can come between them.",
+          "By his neesings a light doth shine, and his eyes are like the eyelids of the morning.",
+          "His breath kindleth coals, and a flame goeth out of his mouth.",
+          "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.",
+          "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+          "He esteemeth iron as straw, and brass as rotten wood.",
+          "He laugheth at the shaking of a spear.",
+          "Upon earth there is not his like, who is made without fear.",
+          "He beholdeth all high things: he is a king over all the children of pride."
+        ],
+        "pt-br": [
+          "Podes tu pescar o leviatã com anzol? Ou lhe prender a língua com uma corda que baixes?",
+          "Fará ele muitas súplicas a ti? Falar-te-á palavras mansas?",
+          "Põe a tua mão sobre ele, lembra-te da peleja, e não o faças mais.",
+          "Não esconderei as suas partes, nem o seu poder, nem sua formosa proporção.",
+          "As suas escamas são o seu orgulho, fechadas juntas como com um selo apertado.",
+          "Uma está tão perto da outra, que nem ar pode entrar entre elas.",
+          "Pelo seu espirro, uma luz brilha, e os seus olhos são como as pálpebras da manhã.",
+          "O seu sopro acende carvões, e da sua boca sai uma chama.",
+          "O seu coração é tão firme como uma pedra; sim, tão duro quanto uma pedra de moinho inferior.",
+          "Quando ele se ergue, os poderosos se amedrontam: por causa dos estilhaços, eles se purificam.",
+          "Tem o ferro em conta de palha, e o bronze como madeira podre.",
+          "Ri-se do brandir da lança.",
+          "Em cima da terra não há quem se lhe assemelhe, feito sem medo.",
+          "Ele olha para todas as coisas altivas: é rei sobre todos os filhos do orgulho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

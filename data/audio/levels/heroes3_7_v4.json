@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_7_v4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_and_wizard",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_wizard_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 2.968688,
+          "src": "audio/clips/heroes3_bard_and_wizard_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "It's amazing the way you just zip around!"
+            ],
+            "pt-br": [
+              "É incrível como você simplesmente dispara de um lado pro outro!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_wizard_1__bard.wav",
+            "subtitleCueLines": [
+              1893
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_wizard_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.427479,
+          "src": "audio/clips/heroes3_bard_and_wizard_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Thank you, my girl."
+            ],
+            "pt-br": [
+              "Obrigado, minha menina."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_wizard_2__wizard.wav",
+            "subtitleCueLines": [
+              1897
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_wizard_3__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 4.533854,
+          "src": "audio/clips/heroes3_bard_and_wizard_3__bard.mp3",
+          "transcripts": {
+            "en": [
+              "You must be incredibly intelligent... I can't even imagine."
+            ],
+            "pt-br": [
+              "Você deve ser incrivelmente inteligente... Nem consigo imaginar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_wizard_3__bard.wav",
+            "subtitleCueLines": [
+              1900
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_wizard_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 7.256979,
+          "src": "audio/clips/heroes3_bard_and_wizard_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Well, it did take some doing.",
+              "But many people could do similar, if they really set their minds to it!"
+            ],
+            "pt-br": [
+              "Bom, deu trabalho.",
+              "Mas muita gente conseguiria fazer algo parecido, se realmente se dedicasse a isso!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_wizard_4__wizard.wav",
+            "subtitleCueLines": [
+              1904,
+              1908
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It's amazing the way you just zip around!",
+          "Thank you, my girl.",
+          "You must be incredibly intelligent... I can't even imagine.",
+          "Well, it did take some doing.",
+          "But many people could do similar, if they really set their minds to it!"
+        ],
+        "pt-br": [
+          "É incrível como você simplesmente dispara de um lado pro outro!",
+          "Obrigado, minha menina.",
+          "Você deve ser incrivelmente inteligente... Nem consigo imaginar.",
+          "Bom, deu trabalho.",
+          "Mas muita gente conseguiria fazer algo parecido, se realmente se dedicasse a isso!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031846,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_and_wizard",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_7_v4.entities"
+          }
+        ],
+        "subtitleLine": 1892,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes3_bard_and_wizard_2",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_wizard_2_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 8.587083,
+          "src": "audio/clips/heroes3_bard_and_wizard_2_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "When you swap with me... it's exhilarating!",
+              "First I feel tingly inside, then *pop!*, I'm somewhere else! And short of breath."
+            ],
+            "pt-br": [
+              "Quando você troca comigo... é de arrepiar!",
+              "Primeiro eu sinto um formigamento por dentro, depois puf!, estou em outro lugar! E sem fôlego."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_wizard_2_1__bard.wav",
+            "subtitleCueLines": [
+              1917,
+              1921
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_wizard_2_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 5.479229,
+          "src": "audio/clips/heroes3_bard_and_wizard_2_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I... uhh... umph. umm, ... uhh,",
+              "It's what I do!"
+            ],
+            "pt-br": [
+              "Eu... ahh... ugh. Humm... ahh,",
+              "É o que eu faço!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_wizard_2_2__wizard.wav",
+            "subtitleCueLines": [
+              1925,
+              1930
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "When you swap with me... it's exhilarating!",
+          "First I feel tingly inside, then *pop!*, I'm somewhere else! And short of breath.",
+          "I... uhh... umph. umm, ... uhh,",
+          "It's what I do!"
+        ],
+        "pt-br": [
+          "Quando você troca comigo... é de arrepiar!",
+          "Primeiro eu sinto um formigamento por dentro, depois puf!, estou em outro lugar! E sem fôlego.",
+          "Eu... ahh... ugh. Humm... ahh,",
+          "É o que eu faço!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes3_bard_and_wizard_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.1778206825256348,
+              4.785008907318115,
+              1.363154411315918
+            ],
+            "source": "data-common/heroes3_7_v4.entities"
+          }
+        ],
+        "subtitleLine": 1916,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

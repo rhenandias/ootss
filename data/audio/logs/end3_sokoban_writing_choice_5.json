@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "end3_sokoban_writing_choice_5",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_sokoban_writing_choice_5",
+      "clips": [
+        {
+          "id": "end3_sokoban_writing_choice_5_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 55.702,
+          "src": "audio/clips/end3_sokoban_writing_choice_5_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Okay then.",
+              "Seeing as you've made it here, this means that, beginner though I am,",
+              "the quality of my work has proved sufficient.",
+              "This is a success for me. I shall move forward. Thank you for that.",
+              "Perhaps someday I will be given the chance to design my own Warehouse, and you may try it;",
+              "but before that can happen, there's a problem they must solve that lies beyond my present learning.",
+              "The Director -- the still-titular Director -- said that erosion comes slowly at first,",
+              "barely noticeable; then it accelerates, and before you can blink, it's a landslide.",
+              "But if decay can come quickly, perhaps it can go quickly.",
+              "I'll endeavor to advance, that soon I may actually help.",
+              "Thank you for walking with me. As my mentor is fond of saying: See you later, Alligator."
+            ],
+            "pt-br": [
+              "Certo então.",
+              "Já que você chegou até aqui, isso significa que, por mais iniciante que eu seja,",
+              "a qualidade do meu trabalho se mostrou suficiente.",
+              "Isso é um sucesso para mim. Vou seguir em frente. Obrigado por isso.",
+              "Talvez um dia me deem a chance de projetar meu próprio Armazém, e você possa testá-lo;",
+              "mas, antes que isso aconteça, há um problema que eles precisam resolver e que está além do que aprendi até agora.",
+              "O diretor — que ainda detém o título de diretor — disse que a erosão vem devagar no início,",
+              "quase imperceptível; depois acelera, e, antes que você pisque, vira um deslizamento de terra.",
+              "Mas, se a decadência pode vir rápido, talvez também possa ir embora rápido.",
+              "Vou me esforçar para avançar, para que logo eu possa ajudar de verdade.",
+              "Obrigado por caminhar comigo. Como meu mentor gosta de dizer: até, jacaré."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_sokoban_writing_choice_5_1__sokoban.wav",
+            "subtitleCueLines": [
+              11685,
+              11688,
+              11692,
+              11695,
+              11699,
+              11703,
+              11708,
+              11712,
+              11716,
+              11720,
+              11724
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Okay then.",
+          "Seeing as you've made it here, this means that, beginner though I am,",
+          "the quality of my work has proved sufficient.",
+          "This is a success for me. I shall move forward. Thank you for that.",
+          "Perhaps someday I will be given the chance to design my own Warehouse, and you may try it;",
+          "but before that can happen, there's a problem they must solve that lies beyond my present learning.",
+          "The Director -- the still-titular Director -- said that erosion comes slowly at first,",
+          "barely noticeable; then it accelerates, and before you can blink, it's a landslide.",
+          "But if decay can come quickly, perhaps it can go quickly.",
+          "I'll endeavor to advance, that soon I may actually help.",
+          "Thank you for walking with me. As my mentor is fond of saying: See you later, Alligator."
+        ],
+        "pt-br": [
+          "Certo então.",
+          "Já que você chegou até aqui, isso significa que, por mais iniciante que eu seja,",
+          "a qualidade do meu trabalho se mostrou suficiente.",
+          "Isso é um sucesso para mim. Vou seguir em frente. Obrigado por isso.",
+          "Talvez um dia me deem a chance de projetar meu próprio Armazém, e você possa testá-lo;",
+          "mas, antes que isso aconteça, há um problema que eles precisam resolver e que está além do que aprendi até agora.",
+          "O diretor — que ainda detém o título de diretor — disse que a erosão vem devagar no início,",
+          "quase imperceptível; depois acelera, e, antes que você pisque, vira um deslizamento de terra.",
+          "Mas, se a decadência pode vir rápido, talvez também possa ir embora rápido.",
+          "Vou me esforçar para avançar, para que logo eu possa ajudar de verdade.",
+          "Obrigado por caminhar comigo. Como meu mentor gosta de dizer: até, jacaré."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

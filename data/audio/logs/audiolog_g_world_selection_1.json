@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_world_selection_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_world_selection_1",
+      "clips": [
+        {
+          "id": "audiolog_g_world_selection_1_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 56.950812,
+          "src": "audio/clips/audiolog_g_world_selection_1_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "This place brings together elements from different worlds.",
+              "Those who built it would not build thousands more, I should think,",
+              "if they employed the same worlds each time. They'd merely be reproducing the same result.",
+              "This implies that there are many more worlds from which to draw than the four enclosed here.",
+              "Quigley, I expect we could find another facility, perhaps many, now that we know what to look for.",
+              "I wonder what worlds they hold -- what strange behaviors we might see, as with the water --",
+              "I haven't told you this yet. There is so much to set down.",
+              "Two of the worlds have water so dense it will drown you at the mere depth of a man;",
+              "In the others, water repels itself when agglomerated beyond a certain size, so you just get a profusion of large drops;",
+              "in those worlds there's no such thing as an expanse of water.",
+              "When we broaden our explorations, what else might we see?"
+            ],
+            "pt-br": [
+              "Este lugar reúne elementos de mundos diferentes.",
+              "Quem o construiu não faria milhares a mais, imagino,",
+              "se usasse os mesmos mundos toda vez. Estaria apenas reproduzindo o mesmo resultado.",
+              "Isso implica que há muito mais mundos dos quais tirar do que os quatro aqui contidos.",
+              "Quigley, acho que podemos encontrar outra instalação, talvez muitas, agora que sabemos o que procurar.",
+              "Fico imaginando que mundos eles abrigam... que comportamentos estranhos poderíamos ver, como acontece com a água...",
+              "Ainda não lhe contei isso. Há tanta coisa para registrar.",
+              "Dois dos mundos têm água tão densa que ela fará você se afogar à mera profundidade de um homem em pé;",
+              "Nos outros, a água se repele quando se aglomera além de certo tamanho, então você só vê uma profusão de gotas grandes;",
+              "nesses mundos, não existe uma extensão de água.",
+              "Quando ampliarmos nossas explorações, o que mais poderemos observar?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_world_selection_1_1__sokoban.wav",
+            "subtitleCueLines": [
+              3390,
+              3394,
+              3398,
+              3402,
+              3406,
+              3411,
+              3416,
+              3420,
+              3425,
+              3430,
+              3434
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This place brings together elements from different worlds.",
+          "Those who built it would not build thousands more, I should think,",
+          "if they employed the same worlds each time. They'd merely be reproducing the same result.",
+          "This implies that there are many more worlds from which to draw than the four enclosed here.",
+          "Quigley, I expect we could find another facility, perhaps many, now that we know what to look for.",
+          "I wonder what worlds they hold -- what strange behaviors we might see, as with the water --",
+          "I haven't told you this yet. There is so much to set down.",
+          "Two of the worlds have water so dense it will drown you at the mere depth of a man;",
+          "In the others, water repels itself when agglomerated beyond a certain size, so you just get a profusion of large drops;",
+          "in those worlds there's no such thing as an expanse of water.",
+          "When we broaden our explorations, what else might we see?"
+        ],
+        "pt-br": [
+          "Este lugar reúne elementos de mundos diferentes.",
+          "Quem o construiu não faria milhares a mais, imagino,",
+          "se usasse os mesmos mundos toda vez. Estaria apenas reproduzindo o mesmo resultado.",
+          "Isso implica que há muito mais mundos dos quais tirar do que os quatro aqui contidos.",
+          "Quigley, acho que podemos encontrar outra instalação, talvez muitas, agora que sabemos o que procurar.",
+          "Fico imaginando que mundos eles abrigam... que comportamentos estranhos poderíamos ver, como acontece com a água...",
+          "Ainda não lhe contei isso. Há tanta coisa para registrar.",
+          "Dois dos mundos têm água tão densa que ela fará você se afogar à mera profundidade de um homem em pé;",
+          "Nos outros, a água se repele quando se aglomera além de certo tamanho, então você só vê uma profusão de gotas grandes;",
+          "nesses mundos, não existe uma extensão de água.",
+          "Quando ampliarmos nossas explorações, o que mais poderemos observar?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

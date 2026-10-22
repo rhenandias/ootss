@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_work_and_care",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_work_and_care",
+      "clips": [
+        {
+          "id": "audiolog_g_work_and_care_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 55.263583,
+          "src": "audio/clips/audiolog_g_work_and_care_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "It obviously requires a great deal of work and care to arrange all this.",
+              "To what end?",
+              "I face the challenges they've put before me,",
+              "and I don't do too badly, if I may say.",
+              "Is this a test? Do I earn distinction by passing?",
+              "Is it a kind of training, to make me more capable of solving problems?",
+              "Is it merely a show of grand workmanship, like the monuments of forgotten civilizations?",
+              "They left no direction as to my purpose here. Why not?",
+              "And lastly -- perhaps most importantly: Why is it unpopulated?",
+              "I'd have expected to see someone... ... a real person *here*, not in the worlds... well before now.",
+              "Why build all this, then abandon it?",
+              "I'll continue. Ever forward. What other course is given me?",
+              "New facts may make sense of this yet."
+            ],
+            "pt-br": [
+              "É claro que é preciso muito trabalho e cuidado pra preparar tudo isso.",
+              "Com que finalidade?",
+              "Enfrento os desafios que colocaram diante de mim,",
+              "e eu não me saio nada mal, se me permite dizer.",
+              "Isso é um teste? Eu ganho distinção se passar?",
+              "É uma espécie de treinamento, pra me tornar mais capaz de resolver problemas?",
+              "É só uma exibição de grande habilidade, como os monumentos de civilizações esquecidas?",
+              "Eles não deixaram nenhuma orientação sobre meu objetivo aqui. Por quê?",
+              "E por fim, talvez o mais importante: por que não há ninguém aqui?",
+              "Eu esperava ver alguém... ... uma pessoa de verdade aqui, não nos mundos... bem antes de agora.",
+              "Por que construir tudo isso e depois abandonar?",
+              "Vou continuar. Sempre em frente. Que outro caminho me resta?",
+              "Novos fatos ainda podem dar sentido a isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_work_and_care_1__sokoban.wav",
+            "subtitleCueLines": [
+              3642,
+              3647,
+              3650,
+              3654,
+              3658,
+              3662,
+              3666,
+              3671,
+              3676,
+              3680,
+              3685,
+              3688,
+              3692
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It obviously requires a great deal of work and care to arrange all this.",
+          "To what end?",
+          "I face the challenges they've put before me,",
+          "and I don't do too badly, if I may say.",
+          "Is this a test? Do I earn distinction by passing?",
+          "Is it a kind of training, to make me more capable of solving problems?",
+          "Is it merely a show of grand workmanship, like the monuments of forgotten civilizations?",
+          "They left no direction as to my purpose here. Why not?",
+          "And lastly -- perhaps most importantly: Why is it unpopulated?",
+          "I'd have expected to see someone... ... a real person *here*, not in the worlds... well before now.",
+          "Why build all this, then abandon it?",
+          "I'll continue. Ever forward. What other course is given me?",
+          "New facts may make sense of this yet."
+        ],
+        "pt-br": [
+          "É claro que é preciso muito trabalho e cuidado pra preparar tudo isso.",
+          "Com que finalidade?",
+          "Enfrento os desafios que colocaram diante de mim,",
+          "e eu não me saio nada mal, se me permite dizer.",
+          "Isso é um teste? Eu ganho distinção se passar?",
+          "É uma espécie de treinamento, pra me tornar mais capaz de resolver problemas?",
+          "É só uma exibição de grande habilidade, como os monumentos de civilizações esquecidas?",
+          "Eles não deixaram nenhuma orientação sobre meu objetivo aqui. Por quê?",
+          "E por fim, talvez o mais importante: por que não há ninguém aqui?",
+          "Eu esperava ver alguém... ... uma pessoa de verdade aqui, não nos mundos... bem antes de agora.",
+          "Por que construir tudo isso e depois abandonar?",
+          "Vou continuar. Sempre em frente. Que outro caminho me resta?",
+          "Novos fatos ainda podem dar sentido a isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_13",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "clones_working",
+      "clips": [
+        {
+          "id": "clones_working_1__trader_clone_1",
+          "speaker": "trader_clone_1",
+          "speakerName": "trader_clone_1",
+          "duration": 2.821333,
+          "src": "audio/clips/clones_working_1__trader_clone_1.mp3",
+          "transcripts": {
+            "en": [
+              "We could work together like this, normally."
+            ],
+            "pt-br": [
+              "Poderíamos trabalhar juntos assim, normalmente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_working_1__trader_clone_1.wav",
+            "subtitleCueLines": [
+              6258
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_working_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 0.927208,
+          "src": "audio/clips/clones_working_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "It's a thought."
+            ],
+            "pt-br": [
+              "É uma ideia."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_working_2__trader.wav",
+            "subtitleCueLines": [
+              6263
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We could work together like this, normally.",
+          "It's a thought."
+        ],
+        "pt-br": [
+          "Poderíamos trabalhar juntos assim, normalmente.",
+          "É uma ideia."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_proc_arg_string",
+            "value": "clones_working",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/mirror_13.entities"
+          }
+        ],
+        "subtitleLine": 6257,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "clones_working_end",
+      "clips": [
+        {
+          "id": "clones_working_end_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.762667,
+          "src": "audio/clips/clones_working_end_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "We need to focus."
+            ],
+            "pt-br": [
+              "Precisamos focar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_working_end_1__trader.wav",
+            "subtitleCueLines": [
+              6270
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We need to focus."
+        ],
+        "pt-br": [
+          "Precisamos focar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048638,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "clones_working_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/mirror_13.entities"
+          }
+        ],
+        "subtitleLine": 6269,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

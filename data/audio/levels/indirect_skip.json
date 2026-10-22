@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "level": "indirect_skip",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_warrior_sailor_2",
+      "clips": [
+        {
+          "id": "hs_warrior_sailor_2_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.01225,
+          "src": "audio/clips/hs_warrior_sailor_2_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "How is a 'boat' alive?"
+            ],
+            "pt-br": [
+              "Como um barco está vivo?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_2_1__warrior.wav",
+            "subtitleCueLines": [
+              8234
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_2_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 9.790333,
+          "src": "audio/clips/hs_warrior_sailor_2_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "The boat is just his body. He himself is a spirit from ... an immaterial place.",
+              "The Guild builds him a body, in return for his services."
+            ],
+            "pt-br": [
+              "O barco é só o corpo dele. Ele é um espírito de... um lugar imaterial.",
+              "A guilda lhe constrói um corpo, em troca de seus serviços."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_2_2__sailor.wav",
+            "subtitleCueLines": [
+              8237,
+              8241
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_2_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.053833,
+          "src": "audio/clips/hs_warrior_sailor_2_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Such as?"
+            ],
+            "pt-br": [
+              "Como quais?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_2_3__warrior.wav",
+            "subtitleCueLines": [
+              8245
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_2_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 7.904604,
+          "src": "audio/clips/hs_warrior_sailor_2_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Seeing problems before they become problems. And piloting a ship that goes very, very, very fast."
+            ],
+            "pt-br": [
+              "Enxergar problemas antes que virem um problema. E pilotar um navio que vai muito, muito, muito rápido."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_2_4__sailor.wav",
+            "subtitleCueLines": [
+              8248
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_2_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 7.658833,
+          "src": "audio/clips/hs_warrior_sailor_2_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "We don't have those, but ... where I come from, vehicles are steered by people.",
+              "You couldn't steer the 'boat' yourself?"
+            ],
+            "pt-br": [
+              "Não temos essas coisas, mas... de onde eu venho, os veículos são conduzidos por pessoas.",
+              "Você não podia pilotar o barco por conta própria?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_2_5__warrior.wav",
+            "subtitleCueLines": [
+              8252,
+              8257
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_2_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 7.324333,
+          "src": "audio/clips/hs_warrior_sailor_2_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "On open ocean, yes. But threading isles and reefs at speed... I'm only human, good Sir."
+            ],
+            "pt-br": [
+              "Em mar aberto, sim. Mas passar entre ilhas e recifes em alta velocidade... Sou apenas humano, meu bom senhor."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_2_6__sailor.wav",
+            "subtitleCueLines": [
+              8260
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "How is a 'boat' alive?",
+          "The boat is just his body. He himself is a spirit from ... an immaterial place.",
+          "The Guild builds him a body, in return for his services.",
+          "Such as?",
+          "Seeing problems before they become problems. And piloting a ship that goes very, very, very fast.",
+          "We don't have those, but ... where I come from, vehicles are steered by people.",
+          "You couldn't steer the 'boat' yourself?",
+          "On open ocean, yes. But threading isles and reefs at speed... I'm only human, good Sir."
+        ],
+        "pt-br": [
+          "Como um barco está vivo?",
+          "O barco é só o corpo dele. Ele é um espírito de... um lugar imaterial.",
+          "A guilda lhe constrói um corpo, em troca de seus serviços.",
+          "Como quais?",
+          "Enxergar problemas antes que virem um problema. E pilotar um navio que vai muito, muito, muito rápido.",
+          "Não temos essas coisas, mas... de onde eu venho, os veículos são conduzidos por pessoas.",
+          "Você não podia pilotar o barco por conta própria?",
+          "Em mar aberto, sim. Mas passar entre ilhas e recifes em alta velocidade... Sou apenas humano, meu bom senhor."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360264,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_warrior_sailor_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              18.0,
+              20.0,
+              0.0
+            ],
+            "source": "data-common/indirect_skip.entities"
+          }
+        ],
+        "subtitleLine": 8233,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

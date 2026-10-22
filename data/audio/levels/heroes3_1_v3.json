@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_1_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_first",
+      "clips": [
+        {
+          "id": "heroes3_bard_first_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 2.341708,
+          "src": "audio/clips/heroes3_bard_first_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Goblins? Here??"
+            ],
+            "pt-br": [
+              "Goblins? Aqui??"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_first_1__bard.wav",
+            "subtitleCueLines": [
+              1644
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Goblins? Here??"
+        ],
+        "pt-br": [
+          "Goblins? Aqui??"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031846,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_1_v3.entities"
+          }
+        ],
+        "subtitleLine": 1643,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes3_bard_first_end",
+      "clips": [
+        {
+          "id": "heroes3_bard_first_end_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 4.818208,
+          "src": "audio/clips/heroes3_bard_first_end_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "That's settled. Let's see if we can find one of these crystals."
+            ],
+            "pt-br": [
+              "Fechado. Vamos ver se conseguimos encontrar um desses cristais."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_first_end_1__bard.wav",
+            "subtitleCueLines": [
+              1651
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "That's settled. Let's see if we can find one of these crystals."
+        ],
+        "pt-br": [
+          "Fechado. Vamos ver se conseguimos encontrar um desses cristais."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031846,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes3_bard_first_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_1_v3.entities"
+          }
+        ],
+        "subtitleLine": 1650,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

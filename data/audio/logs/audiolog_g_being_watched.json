@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_being_watched",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_being_watched",
+      "clips": [
+        {
+          "id": "audiolog_g_being_watched_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 64.938896,
+          "src": "audio/clips/audiolog_g_being_watched_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Quigley, I'll continue to address you when I leave these recordings,",
+              "but I confess that it now feels a bit false.",
+              "I've realized that I'm not merely speaking to *you* any more.",
+              "As I navigate these trials, I feel I'm being judged by a watchful eye whose nature I know not.",
+              "I now realize this feeling has been pervasive from the beginning. Low and subtle.",
+              "I find myself courting that Watcher's approval; I wish to be judged clever and perceptive,",
+              "and this shows itself in the topics I choose to discuss, and the precise words I employ.",
+              "Yet I see no evidence of a Watcher physically present. I wander alone.",
+              "Is He some spirit peering in from Beyond,",
+              "the way I observe the denizens of these... challenge worlds... from this higher place?",
+              "Regardless. Prickles at the back of my neck, I feel that watchful eye."
+            ],
+            "pt-br": [
+              "Quigley, vou continuar me dirigindo a você quando eu deixar estas gravações,",
+              "mas confesso que agora isso parece um pouco falso.",
+              "Percebi que não estou mais falando apenas com você.",
+              "Enquanto percorro estes testes, sinto que estou sendo julgado por um olhar vigilante cuja natureza desconheço.",
+              "Agora percebo que essa sensação esteve presente desde o início. Discreta e sutil.",
+              "Vejo-me buscando a aprovação desse Observador; quero ser julgado como alguém inteligente e perspicaz,",
+              "e isso se mostra nos assuntos que escolho discutir, e nas palavras exatas que emprego.",
+              "Ainda assim, não vejo indícios de um observador fisicamente presente. Vago sozinho.",
+              "Será que Ele é algum espírito me observando do Além,",
+              "como eu observo os habitantes desses... mundos de desafios... deste lugar mais alto?",
+              "De qualquer forma. Com um arrepio na nuca, sinto esse olhar vigilante."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_being_watched_1__sokoban.wav",
+            "subtitleCueLines": [
+              3839,
+              3844,
+              3847,
+              3851,
+              3857,
+              3861,
+              3866,
+              3871,
+              3875,
+              3878,
+              3883
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Quigley, I'll continue to address you when I leave these recordings,",
+          "but I confess that it now feels a bit false.",
+          "I've realized that I'm not merely speaking to *you* any more.",
+          "As I navigate these trials, I feel I'm being judged by a watchful eye whose nature I know not.",
+          "I now realize this feeling has been pervasive from the beginning. Low and subtle.",
+          "I find myself courting that Watcher's approval; I wish to be judged clever and perceptive,",
+          "and this shows itself in the topics I choose to discuss, and the precise words I employ.",
+          "Yet I see no evidence of a Watcher physically present. I wander alone.",
+          "Is He some spirit peering in from Beyond,",
+          "the way I observe the denizens of these... challenge worlds... from this higher place?",
+          "Regardless. Prickles at the back of my neck, I feel that watchful eye."
+        ],
+        "pt-br": [
+          "Quigley, vou continuar me dirigindo a você quando eu deixar estas gravações,",
+          "mas confesso que agora isso parece um pouco falso.",
+          "Percebi que não estou mais falando apenas com você.",
+          "Enquanto percorro estes testes, sinto que estou sendo julgado por um olhar vigilante cuja natureza desconheço.",
+          "Agora percebo que essa sensação esteve presente desde o início. Discreta e sutil.",
+          "Vejo-me buscando a aprovação desse Observador; quero ser julgado como alguém inteligente e perspicaz,",
+          "e isso se mostra nos assuntos que escolho discutir, e nas palavras exatas que emprego.",
+          "Ainda assim, não vejo indícios de um observador fisicamente presente. Vago sozinho.",
+          "Será que Ele é algum espírito me observando do Além,",
+          "como eu observo os habitantes desses... mundos de desafios... deste lugar mais alto?",
+          "De qualquer forma. Com um arrepio na nuca, sinto esse olhar vigilante."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

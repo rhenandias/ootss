@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_19",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_2",
+      "clips": [
+        {
+          "id": "mirror_stranger_2_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 16.030667,
+          "src": "audio/clips/mirror_stranger_2_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "I was convinced, by a stranger.",
+              "These days I don't normally drink, but the news that I would soon die weighed on me.",
+              "I sought levity in a tavern I'd passed daily,",
+              "but whose door I hadn't darkened in many years."
+            ],
+            "pt-br": [
+              "Fui convencido por um estranho.",
+              "Normalmente eu não bebo, mas a notícia de que eu morreria em breve pesou em mim.",
+              "Fui buscar alívio numa taverna pela qual eu passava todo dia,",
+              "mas cuja porta eu não cruzava há muitos anos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_2_1__trader.wav",
+            "subtitleCueLines": [
+              6353,
+              6356,
+              6360,
+              6364
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I was convinced, by a stranger.",
+          "These days I don't normally drink, but the news that I would soon die weighed on me.",
+          "I sought levity in a tavern I'd passed daily,",
+          "but whose door I hadn't darkened in many years."
+        ],
+        "pt-br": [
+          "Fui convencido por um estranho.",
+          "Normalmente eu não bebo, mas a notícia de que eu morreria em breve pesou em mim.",
+          "Fui buscar alívio numa taverna pela qual eu passava todo dia,",
+          "mas cuja porta eu não cruzava há muitos anos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048650,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/mirror_19.entities"
+          }
+        ],
+        "subtitleLine": 6352,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}
