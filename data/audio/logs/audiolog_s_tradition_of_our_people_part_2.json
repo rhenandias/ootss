@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_s_tradition_of_our_people_part_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_s_tradition_of_our_people_part_2",
+      "clips": [
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_2_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 91.635813,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_2_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "The recordings are supposed to be interesting, to shed light on what we're doing in a way that's unique and alive.",
+              "But, it's hard to stay fresh after hundreds of works ...",
+              "How do you keep finding new ideas that are really worth hearing?",
+              "It's difficult to avoid falling into a rut of repeatedly saying the same things, using slightly different words each time.",
+              "That's not merely dull for us; for the Visitor it feels flat and uninspired.",
+              "The perceptive ones will see, as we do, that it diminishes the work.",
+              "The mechanism by which we combine these worlds constantly generates fresh material.",
+              "We'll talk about this further, I'm sure.",
+              "But we find the freshness of the material outpaces what we have to *say* about the material. So we generally agreed, better to stop.",
+              "High Implementors still do make recordings on occasion, when they find something new to say.",
+              "Today I suppose I've got a bee in my bonnet.",
+              "This discussion is long enough that I'll split it into pieces, and place them appropriately.",
+              "There are tactics determining good placement that you should know.",
+              "We leave the first part in an easily-accessible place,",
+              "to introduce the discussion as the player enters the area;",
+              "what we're saying now will be the second part, and we'll leave it in a location that must be deliberately earned,",
+              "but that is plainly visible on first entry.",
+              "That gives the Visitor a goal to work toward ... if he's interested."
+            ],
+            "pt-br": [
+              "As gravações devem ser interessantes para lançar luz sobre o que estamos fazendo de um jeito único e vivo.",
+              "Mas é difícil continuar fresco depois de centenas de obras...",
+              "Como continuar encontrando novas ideias que realmente valham a pena ouvir?",
+              "É difícil evitar cair na mesmice de continuar dizendo as mesmas coisas, usando palavras ligeiramente diferentes a cada vez.",
+              "Isso não é só entediante para nós; para o Visitante, parece sem vida e sem inspiração.",
+              "Se forem perceptivos, vão ver, como nós vemos, que isso diminui o trabalho.",
+              "O mecanismo que usamos para combinar esses mundos gera material novo constantemente.",
+              "Vamos falar disso mais adiante, com certeza.",
+              "Mas achamos que a novidade do material supera o que temos a dizer sobre ele. Então, em geral, concordamos que é melhor parar.",
+              "Os Executores Elevados ainda gravam de vez em quando, quando encontram algo novo a dizer.",
+              "Hoje acho que estou com uma pulga atrás da orelha.",
+              "Essa conversa já está longa o bastante para que eu a divida em partes e coloque elas nos lugares adequados.",
+              "Existem táticas para determinar um bom posicionamento que você precisa conhecer.",
+              "Deixamos a primeira parte num lugar de fácil acesso,",
+              "para introduzir a conversa quando o jogador entra na área,",
+              "o que estamos dizendo agora será a segunda parte, e vamos deixá-la em um lugar que precise ser deliberadamente conquistado,",
+              "mas isso fica bem visível logo ao entrar.",
+              "Isso dá ao Visitante um objetivo a alcançar... se ele se interessar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_2_1__acting.wav",
+            "subtitleCueLines": [
+              9721,
+              9726,
+              9730,
+              9734,
+              9739,
+              9743,
+              9747,
+              9752,
+              9755,
+              9760,
+              9764,
+              9768,
+              9774,
+              9779,
+              9783,
+              9787,
+              9792,
+              9795
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The recordings are supposed to be interesting, to shed light on what we're doing in a way that's unique and alive.",
+          "But, it's hard to stay fresh after hundreds of works ...",
+          "How do you keep finding new ideas that are really worth hearing?",
+          "It's difficult to avoid falling into a rut of repeatedly saying the same things, using slightly different words each time.",
+          "That's not merely dull for us; for the Visitor it feels flat and uninspired.",
+          "The perceptive ones will see, as we do, that it diminishes the work.",
+          "The mechanism by which we combine these worlds constantly generates fresh material.",
+          "We'll talk about this further, I'm sure.",
+          "But we find the freshness of the material outpaces what we have to *say* about the material. So we generally agreed, better to stop.",
+          "High Implementors still do make recordings on occasion, when they find something new to say.",
+          "Today I suppose I've got a bee in my bonnet.",
+          "This discussion is long enough that I'll split it into pieces, and place them appropriately.",
+          "There are tactics determining good placement that you should know.",
+          "We leave the first part in an easily-accessible place,",
+          "to introduce the discussion as the player enters the area;",
+          "what we're saying now will be the second part, and we'll leave it in a location that must be deliberately earned,",
+          "but that is plainly visible on first entry.",
+          "That gives the Visitor a goal to work toward ... if he's interested."
+        ],
+        "pt-br": [
+          "As gravações devem ser interessantes para lançar luz sobre o que estamos fazendo de um jeito único e vivo.",
+          "Mas é difícil continuar fresco depois de centenas de obras...",
+          "Como continuar encontrando novas ideias que realmente valham a pena ouvir?",
+          "É difícil evitar cair na mesmice de continuar dizendo as mesmas coisas, usando palavras ligeiramente diferentes a cada vez.",
+          "Isso não é só entediante para nós; para o Visitante, parece sem vida e sem inspiração.",
+          "Se forem perceptivos, vão ver, como nós vemos, que isso diminui o trabalho.",
+          "O mecanismo que usamos para combinar esses mundos gera material novo constantemente.",
+          "Vamos falar disso mais adiante, com certeza.",
+          "Mas achamos que a novidade do material supera o que temos a dizer sobre ele. Então, em geral, concordamos que é melhor parar.",
+          "Os Executores Elevados ainda gravam de vez em quando, quando encontram algo novo a dizer.",
+          "Hoje acho que estou com uma pulga atrás da orelha.",
+          "Essa conversa já está longa o bastante para que eu a divida em partes e coloque elas nos lugares adequados.",
+          "Existem táticas para determinar um bom posicionamento que você precisa conhecer.",
+          "Deixamos a primeira parte num lugar de fácil acesso,",
+          "para introduzir a conversa quando o jogador entra na área,",
+          "o que estamos dizendo agora será a segunda parte, e vamos deixá-la em um lugar que precise ser deliberadamente conquistado,",
+          "mas isso fica bem visível logo ao entrar.",
+          "Isso dá ao Visitante um objetivo a alcançar... se ele se interessar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_heroes_and_mirrors_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "worlds_collide_HM_start",
+      "clips": [
+        {
+          "id": "worlds_collide_HM_start_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 0.897333,
+          "src": "audio/clips/worlds_collide_HM_start_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Keeping busy?"
+            ],
+            "pt-br": [
+              "Mantendo-se ocupado?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HM_start_1__trader.wav",
+            "subtitleCueLines": [
+              6728
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HM_start_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.514312,
+          "src": "audio/clips/worlds_collide_HM_start_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I ... Hello! Hello over there!"
+            ],
+            "pt-br": [
+              "Eu... Olá! Olá, você aí!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HM_start_2__wizard.wav",
+            "subtitleCueLines": [
+              6732
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HM_start_3__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.742667,
+          "src": "audio/clips/worlds_collide_HM_start_3__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Have you any idea where we are?"
+            ],
+            "pt-br": [
+              "Tem ideia de onde estamos?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HM_start_3__trader.wav",
+            "subtitleCueLines": [
+              6737
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HM_start_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.355667,
+          "src": "audio/clips/worlds_collide_HM_start_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I was about to ask you the same thing!"
+            ],
+            "pt-br": [
+              "Eu ia te perguntar a mesma coisa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HM_start_4__wizard.wav",
+            "subtitleCueLines": [
+              6740
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HM_start_5__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 4.456,
+          "src": "audio/clips/worlds_collide_HM_start_5__trader.mp3",
+          "transcripts": {
+            "en": [
+              "It's unusual, but I seem to have an unsolvable problem. I'm stuck!"
+            ],
+            "pt-br": [
+              "Não é comum, mas parece que tenho um problema impossível de resolver. Estou preso!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HM_start_5__trader.wav",
+            "subtitleCueLines": [
+              6743
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HM_start_6__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.633021,
+          "src": "audio/clips/worlds_collide_HM_start_6__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I was about to say the same thing!"
+            ],
+            "pt-br": [
+              "Eu ia dizer a mesma coisa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HM_start_6__wizard.wav",
+            "subtitleCueLines": [
+              6748
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Keeping busy?",
+          "I ... Hello! Hello over there!",
+          "Have you any idea where we are?",
+          "I was about to ask you the same thing!",
+          "It's unusual, but I seem to have an unsolvable problem. I'm stuck!",
+          "I was about to say the same thing!"
+        ],
+        "pt-br": [
+          "Mantendo-se ocupado?",
+          "Eu... Olá! Olá, você aí!",
+          "Tem ideia de onde estamos?",
+          "Eu ia te perguntar a mesma coisa!",
+          "Não é comum, mas parece que tenho um problema impossível de resolver. Estou preso!",
+          "Eu ia dizer a mesma coisa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914681,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "worlds_collide_HM_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_mirrors_v3.entities"
+          }
+        ],
+        "subtitleLine": 6727,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

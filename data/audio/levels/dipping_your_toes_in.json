@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "dipping_your_toes_in",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hw_first",
+      "clips": [
+        {
+          "id": "hw_first_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 5.203896,
+          "src": "audio/clips/hw_first_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I can't believe this is what water is like when it all just ... stays together."
+            ],
+            "pt-br": [
+              "Não acredito que é assim que a água fica quando simplesmente... permanece unida."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_first_1__warrior.wav",
+            "subtitleCueLines": [
+              7163
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I can't believe this is what water is like when it all just ... stays together."
+        ],
+        "pt-br": [
+          "Não acredito que é assim que a água fica quando simplesmente... permanece unida."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137659,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hw_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              15.0,
+              0.0
+            ],
+            "source": "data-common/dipping_your_toes_in.entities"
+          }
+        ],
+        "subtitleLine": 7162,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

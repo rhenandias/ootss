@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_oracle_2",
+      "clips": [
+        {
+          "id": "mirror_oracle_2_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 4.74,
+          "src": "audio/clips/mirror_oracle_2_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Of course, it's a touchy subject, but... you say you're going to die?"
+            ],
+            "pt-br": [
+              "Claro, é um assunto delicado, mas... você diz que vai morrer?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_2_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6064
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_2_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.214667,
+          "src": "audio/clips/mirror_oracle_2_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "I was told so by an Oracle."
+            ],
+            "pt-br": [
+              "Foi o que uma Oráculo me disse."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_2_2__trader.wav",
+            "subtitleCueLines": [
+              6068
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_2_3__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 2.095917,
+          "src": "audio/clips/mirror_oracle_2_3__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "And you believe it?"
+            ],
+            "pt-br": [
+              "Você acredita nisso?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_2_3__trader_alt.wav",
+            "subtitleCueLines": [
+              6071
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_2_4__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 6.641333,
+          "src": "audio/clips/mirror_oracle_2_4__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Years back, she predicted I'd become the most successful Tradesman. And it has come to pass."
+            ],
+            "pt-br": [
+              "Muito tempo atrás, ela previu que eu me tornaria o Comerciante de maior sucesso. E assim aconteceu."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_2_4__trader.wav",
+            "subtitleCueLines": [
+              6075
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_2_5__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 5.251792,
+          "src": "audio/clips/mirror_oracle_2_5__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I've no direct experience with the Oracles myself, but they are well-regarded."
+            ],
+            "pt-br": [
+              "Eu nunca tive contato direto com os oráculos, mas eles têm uma boa reputação."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_2_5__trader_alt.wav",
+            "subtitleCueLines": [
+              6080
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Of course, it's a touchy subject, but... you say you're going to die?",
+          "I was told so by an Oracle.",
+          "And you believe it?",
+          "Years back, she predicted I'd become the most successful Tradesman. And it has come to pass.",
+          "I've no direct experience with the Oracles myself, but they are well-regarded."
+        ],
+        "pt-br": [
+          "Claro, é um assunto delicado, mas... você diz que vai morrer?",
+          "Foi o que uma Oráculo me disse.",
+          "Você acredita nisso?",
+          "Muito tempo atrás, ela previu que eu me tornaria o Comerciante de maior sucesso. E assim aconteceu.",
+          "Eu nunca tive contato direto com os oráculos, mas eles têm uma boa reputação."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048609,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_oracle_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              15.0,
+              0.0
+            ],
+            "source": "data-common/mirror_5.entities"
+          }
+        ],
+        "subtitleLine": 6063,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "level": "across_the_fence_old",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_across_the_fence_old",
+      "clips": [
+        {
+          "id": "audiolog_di_across_the_fence_old_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 75.166021,
+          "src": "audio/clips/audiolog_di_across_the_fence_old_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This is Zach's original design.",
+              "My experience was that it's pretty hard, and I often didn't have a clear idea of what I was trying to accomplish,",
+              "until I managed to stumble to the goal; then, even at the end,",
+              "I couldn't quite tell you the idea of the puzzle,",
+              "except that it's about going back and forth between the rooms, which as I mentioned, is hard.",
+              "I'm not saying this to denigrate the puzzle -- I think it's good and interesting,",
+              "but at the same time, sometimes you'll find yourself faced with this kind of situation,",
+              "where something just doesn't gel in the Player's mind the way you wish it did.",
+              "We don't know why Zach made this a Thief level;",
+              "the activity of Pulling does not have anything obvious to do with the core idea,",
+              "and it pushes the level toward being bigger, because the Thief cannot drag things to the wall.",
+              "This pollutes the level a bit, because the Thief's pulling ability is off topic.",
+              "I've spoken elsewhere about how we try to avoid adding irrelevant objects and ideas to a level.",
+              "This extends to character abilities.",
+              "So in a level like this one, where you just need to move things and it doesn't matter how,",
+              "it's cleaner and simpler to use a character who can only push one thing,",
+              "because pushing one thing in this game is \"the default idea\" and introduces the least noise."
+            ],
+            "pt-br": [
+              "Este é o design original de Zach.",
+              "Minha experiência foi que é bem difícil, e muitas vezes eu não tinha uma ideia clara do que estava tentando fazer",
+              "até conseguir chegar ao objetivo por acaso; então, mesmo no fim,",
+              "eu não conseguiria dizer com precisão qual era a ideia do quebra-cabeça,",
+              "exceto que é sobre ir e voltar entre os cômodos, o que é difícil.",
+              "Não estou dizendo isso para menosprezar o quebra-cabeça; acho que é um quebra-cabeça bom e interessante,",
+              "mas, ao mesmo tempo, às vezes você vai se deparar com esse tipo de situação,",
+              "em que algo simplesmente não encaixa na mente do jogador do jeito que você gostaria.",
+              "Não sabemos por que Zach fez deste um nível da Ladra;",
+              "a ação de puxar não tem nada de óbvio relacionado à ideia central,",
+              "e isso empurra a fase para ficar maior, porque a Ladra não consegue arrastar coisas até a parede.",
+              "Isso polui um pouco o nível, porque a habilidade de puxar da Ladra foge do tema.",
+              "Já falei em outro lugar sobre como tentamos evitar adicionar objetos irrelevantes e ideias a um nível.",
+              "Isso também vale para as habilidades dos personagens.",
+              "Então, em um nível como este, em que você só precisa mover coisas e não importa como,",
+              "é mais limpo e simples usar um personagem que só consegue empurrar uma coisa,",
+              "porque empurrar 1 coisa neste jogo é “a ideia padrão” e introduz o mínimo de ruído."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_across_the_fence_old_1__director.wav",
+            "subtitleCueLines": [
+              13897,
+              13900,
+              13905,
+              13909,
+              13913,
+              13918,
+              13922,
+              13927,
+              13931,
+              13934,
+              13939,
+              13943,
+              13947,
+              13952,
+              13955,
+              13960,
+              13964
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is Zach's original design.",
+          "My experience was that it's pretty hard, and I often didn't have a clear idea of what I was trying to accomplish,",
+          "until I managed to stumble to the goal; then, even at the end,",
+          "I couldn't quite tell you the idea of the puzzle,",
+          "except that it's about going back and forth between the rooms, which as I mentioned, is hard.",
+          "I'm not saying this to denigrate the puzzle -- I think it's good and interesting,",
+          "but at the same time, sometimes you'll find yourself faced with this kind of situation,",
+          "where something just doesn't gel in the Player's mind the way you wish it did.",
+          "We don't know why Zach made this a Thief level;",
+          "the activity of Pulling does not have anything obvious to do with the core idea,",
+          "and it pushes the level toward being bigger, because the Thief cannot drag things to the wall.",
+          "This pollutes the level a bit, because the Thief's pulling ability is off topic.",
+          "I've spoken elsewhere about how we try to avoid adding irrelevant objects and ideas to a level.",
+          "This extends to character abilities.",
+          "So in a level like this one, where you just need to move things and it doesn't matter how,",
+          "it's cleaner and simpler to use a character who can only push one thing,",
+          "because pushing one thing in this game is \"the default idea\" and introduces the least noise."
+        ],
+        "pt-br": [
+          "Este é o design original de Zach.",
+          "Minha experiência foi que é bem difícil, e muitas vezes eu não tinha uma ideia clara do que estava tentando fazer",
+          "até conseguir chegar ao objetivo por acaso; então, mesmo no fim,",
+          "eu não conseguiria dizer com precisão qual era a ideia do quebra-cabeça,",
+          "exceto que é sobre ir e voltar entre os cômodos, o que é difícil.",
+          "Não estou dizendo isso para menosprezar o quebra-cabeça; acho que é um quebra-cabeça bom e interessante,",
+          "mas, ao mesmo tempo, às vezes você vai se deparar com esse tipo de situação,",
+          "em que algo simplesmente não encaixa na mente do jogador do jeito que você gostaria.",
+          "Não sabemos por que Zach fez deste um nível da Ladra;",
+          "a ação de puxar não tem nada de óbvio relacionado à ideia central,",
+          "e isso empurra a fase para ficar maior, porque a Ladra não consegue arrastar coisas até a parede.",
+          "Isso polui um pouco o nível, porque a habilidade de puxar da Ladra foge do tema.",
+          "Já falei em outro lugar sobre como tentamos evitar adicionar objetos irrelevantes e ideias a um nível.",
+          "Isso também vale para as habilidades dos personagens.",
+          "Então, em um nível como este, em que você só precisa mover coisas e não importa como,",
+          "é mais limpo e simples usar um personagem que só consegue empurrar uma coisa,",
+          "porque empurrar 1 coisa neste jogo é “a ideia padrão” e introduz o mínimo de ruído."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914566,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_across_the_fence_old",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/across_the_fence_old.entities"
+          }
+        ],
+        "subtitleLine": 13896,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

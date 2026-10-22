@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "flame_wand",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_warrior_takes_wand",
+      "clips": [
+        {
+          "id": "sp_warrior_takes_wand_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.283667,
+          "src": "audio/clips/sp_warrior_takes_wand_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "The way he described this thing, it sounded fun to use..."
+            ],
+            "pt-br": [
+              "Pelo jeito que ele descreveu essa coisa, parecia divertido usar..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_warrior_takes_wand_1__warrior.wav",
+            "subtitleCueLines": [
+              7550
+            ],
+            "explicitAudioReference": "sp_warrior_takes_wand_1__warrior"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The way he described this thing, it sounded fun to use..."
+        ],
+        "pt-br": [
+          "Pelo jeito que ele descreveu essa coisa, parecia divertido usar..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "sp_warrior_takes_wand",
+            "rule": "exact-reference",
+            "coordinates": [
+              -4.949831008911133,
+              6.831287384033203,
+              0.044830322265625
+            ],
+            "source": "data-common/flame_wand.entities"
+          }
+        ],
+        "subtitleLine": 7547,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

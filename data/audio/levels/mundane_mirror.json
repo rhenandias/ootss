@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "mundane_mirror",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_before_hm_1",
+      "clips": [
+        {
+          "id": "mirror_stranger_before_hm_1_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 23.366667,
+          "src": "audio/clips/mirror_stranger_before_hm_1_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "I tossed and turned that night, thinking of the mirrors",
+              "and my own shattered glass that, through decades of success,",
+              "I'd tried to reassemble, glue, tape over, but had never truly made whole.",
+              "I knew the stranger was right. A shard was missing."
+            ],
+            "pt-br": [
+              "Fiquei rolando na cama aquela noite, pensando nos espelhos",
+              "e meu próprio vidro estilhaçado que, ao longo de décadas de sucesso,",
+              "eu havia tentado remontar, colar, remendar, mas nunca tinha tornado aquilo inteiro de verdade.",
+              "Sabia que o estranho estava certo. Faltava um fragmento."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_before_hm_1_1__trader.wav",
+            "subtitleCueLines": [
+              6491,
+              6495,
+              6499,
+              6503
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I tossed and turned that night, thinking of the mirrors",
+          "and my own shattered glass that, through decades of success,",
+          "I'd tried to reassemble, glue, tape over, but had never truly made whole.",
+          "I knew the stranger was right. A shard was missing."
+        ],
+        "pt-br": [
+          "Fiquei rolando na cama aquela noite, pensando nos espelhos",
+          "e meu próprio vidro estilhaçado que, ao longo de décadas de sucesso,",
+          "eu havia tentado remontar, colar, remendar, mas nunca tinha tornado aquilo inteiro de verdade.",
+          "Sabia que o estranho estava certo. Faltava um fragmento."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 16777296,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_before_hm_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/mundane_mirror.entities"
+          }
+        ],
+        "subtitleLine": 6490,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

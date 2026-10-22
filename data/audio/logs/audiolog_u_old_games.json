@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_old_games",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_old_games",
+      "clips": [
+        {
+          "id": "audiolog_u_old_games_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 20.411354,
+          "src": "audio/clips/audiolog_u_old_games_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Like most cultures, we started with primitive games -- objects like cards, or little wooden men,",
+              "and rules about what the cards mean, where the men can go and what happens as a result.",
+              "As our technology advanced, so did our games.",
+              "I know that you have gears that can shift into and out of conjunction."
+            ],
+            "pt-br": [
+              "Como a maioria das culturas, começamos com jogos primitivos: objetos como cartas, ou pequenos homens de madeira,",
+              "e regras sobre o que as cartas significam, onde os homens podem ir e o que acontece como resultado.",
+              "Com o avanço da tecnologia, nossos jogos evoluíam.",
+              "Eu sei que você tem engrenagens que podem entrar e sair de conjunção."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_old_games_1__director.wav",
+            "subtitleCueLines": [
+              11998,
+              12002,
+              12007,
+              12010
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_old_games_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 9.283667,
+          "src": "audio/clips/audiolog_u_old_games_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Yes. The doorstead we developed uses hundreds together.",
+              "Fitting them all, and keeping them precisely tuned, presented a serious challenge!"
+            ],
+            "pt-br": [
+              "Sim. A porta que desenvolvemos usa centenas em conjunto.",
+              "Acomodar todos e mantê-los precisamente ajustados foi um grande desafio!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_old_games_2__sokoban.wav",
+            "subtitleCueLines": [
+              12015,
+              12019
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_old_games_3__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 5.483292,
+          "src": "audio/clips/audiolog_u_old_games_3__director.mp3",
+          "transcripts": {
+            "en": [
+              "Imagine you had very special gears, spinning at billions of revolutions per second."
+            ],
+            "pt-br": [
+              "Imagine que você tivesse engrenagens muito especiais, girando a bilhões de rotações por segundo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_old_games_3__director.wav",
+            "subtitleCueLines": [
+              12023
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_old_games_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 8.663,
+          "src": "audio/clips/audiolog_u_old_games_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Thousands of millions? It's unimaginable. The size, the immense heat, and the *noise*! Would they not ignite the very air?"
+            ],
+            "pt-br": [
+              "Milhares de milhões? É inimaginável. O tamanho, o calor imenso, e o *barulho*! Será que elas não incendiariam o próprio ar?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_old_games_4__sokoban.wav",
+            "subtitleCueLines": [
+              12028
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_old_games_5__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 49.7945,
+          "src": "audio/clips/audiolog_u_old_games_5__director.mp3",
+          "transcripts": {
+            "en": [
+              "These gears are very small, you could neither hear nor see them.",
+              "You put together a billion such, shifting into and out of relation,",
+              "and you can develop quite a system of rules for your game.",
+              "The players no longer have to enforce the rules themselves --",
+              "the gears perform the logic, representing the objects and their interactions,",
+              "and now you can make games whose rules are far too complex and interdependent to administer by hand.",
+              "When this kind of system was invented, the space of games that could be created suddenly became vastly larger, compared to those days of cards and wooden men.",
+              "The people of that time made special screens that allowed them to see into those little game worlds --",
+              "\"video\" screens -- and thus the medium of \"video games\" was born, and flourished for a while."
+            ],
+            "pt-br": [
+              "Essas engrenagens são muito pequenas, você não poderia ouvi-las nem vê-las.",
+              "Junte um bilhão delas, alternando entre relação e falta dela,",
+              "e você consegue desenvolver um sistema e tanto de regras para o seu jogo.",
+              "Os jogadores não precisam mais impor as regras eles mesmos...",
+              "as engrenagens executam a lógica, representando os objetos e suas interações,",
+              "e agora você pode criar jogos cujas regras são complexas e interdependentes demais para administrar à mão.",
+              "Quando esse tipo de sistema foi inventado, o espaço de jogos que podiam ser criados de repente ficou imensamente maior, em comparação com os dias das cartas e dos homens de madeira.",
+              "As pessoas daquela época criaram telas especiais que lhes permitiam enxergar aqueles pequenos mundos de jogo...",
+              "telas de “vídeo”... e assim nasceu o meio dos “videogames”, e floresceu, por um tempo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_old_games_5__director.wav",
+            "subtitleCueLines": [
+              12033,
+              12037,
+              12041,
+              12045,
+              12049,
+              12053,
+              12058,
+              12064,
+              12069
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Like most cultures, we started with primitive games -- objects like cards, or little wooden men,",
+          "and rules about what the cards mean, where the men can go and what happens as a result.",
+          "As our technology advanced, so did our games.",
+          "I know that you have gears that can shift into and out of conjunction.",
+          "Yes. The doorstead we developed uses hundreds together.",
+          "Fitting them all, and keeping them precisely tuned, presented a serious challenge!",
+          "Imagine you had very special gears, spinning at billions of revolutions per second.",
+          "Thousands of millions? It's unimaginable. The size, the immense heat, and the *noise*! Would they not ignite the very air?",
+          "These gears are very small, you could neither hear nor see them.",
+          "You put together a billion such, shifting into and out of relation,",
+          "and you can develop quite a system of rules for your game.",
+          "The players no longer have to enforce the rules themselves --",
+          "the gears perform the logic, representing the objects and their interactions,",
+          "and now you can make games whose rules are far too complex and interdependent to administer by hand.",
+          "When this kind of system was invented, the space of games that could be created suddenly became vastly larger, compared to those days of cards and wooden men.",
+          "The people of that time made special screens that allowed them to see into those little game worlds --",
+          "\"video\" screens -- and thus the medium of \"video games\" was born, and flourished for a while."
+        ],
+        "pt-br": [
+          "Como a maioria das culturas, começamos com jogos primitivos: objetos como cartas, ou pequenos homens de madeira,",
+          "e regras sobre o que as cartas significam, onde os homens podem ir e o que acontece como resultado.",
+          "Com o avanço da tecnologia, nossos jogos evoluíam.",
+          "Eu sei que você tem engrenagens que podem entrar e sair de conjunção.",
+          "Sim. A porta que desenvolvemos usa centenas em conjunto.",
+          "Acomodar todos e mantê-los precisamente ajustados foi um grande desafio!",
+          "Imagine que você tivesse engrenagens muito especiais, girando a bilhões de rotações por segundo.",
+          "Milhares de milhões? É inimaginável. O tamanho, o calor imenso, e o *barulho*! Será que elas não incendiariam o próprio ar?",
+          "Essas engrenagens são muito pequenas, você não poderia ouvi-las nem vê-las.",
+          "Junte um bilhão delas, alternando entre relação e falta dela,",
+          "e você consegue desenvolver um sistema e tanto de regras para o seu jogo.",
+          "Os jogadores não precisam mais impor as regras eles mesmos...",
+          "as engrenagens executam a lógica, representando os objetos e suas interações,",
+          "e agora você pode criar jogos cujas regras são complexas e interdependentes demais para administrar à mão.",
+          "Quando esse tipo de sistema foi inventado, o espaço de jogos que podiam ser criados de repente ficou imensamente maior, em comparação com os dias das cartas e dos homens de madeira.",
+          "As pessoas daquela época criaram telas especiais que lhes permitiam enxergar aqueles pequenos mundos de jogo...",
+          "telas de “vídeo”... e assim nasceu o meio dos “videogames”, e floresceu, por um tempo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

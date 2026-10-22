@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_far_from_home",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_far_from_home",
+      "clips": [
+        {
+          "id": "audiolog_g_far_from_home_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 59.451625,
+          "src": "audio/clips/audiolog_g_far_from_home_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Quigley, It's been a long time.",
+              "I am not sure how long; I've no cycle of the sun by which to count,",
+              "and I've been gradually unburdening myself of devices.",
+              "I confess that home is beginning to feel distant, more like a half-remembered dream than a real place I might hope ever to inhabit once again.",
+              "Unceasingly alone, every day I feel closer to these worlds and their inhabitants. Even though I cannot speak to them.",
+              "And also, between the worlds... I'm starting to see, faintly,",
+              "certain kinds of connections. Silken strands.",
+              "Perhaps... Perhaps I don't *want* to return, except to see for a moment how you're all getting on.",
+              "Then I would be on my way again.",
+              "I must keep driving forward. Ever onward. Ever forward."
+            ],
+            "pt-br": [
+              "Quigley, faz bastante tempo.",
+              "Não sei há quanto tempo; não tenho a passagem regular do sol para contar,",
+              "e aos poucos tenho me desfeito de dispositivos.",
+              "Confesso que o lar está começando a parecer distante, mais como um sonho meio lembrado do que um lugar real em que eu possa esperar viver de novo.",
+              "Incessantemente sozinho, a cada dia me sinto mais perto desses mundos e de seus habitantes. Mesmo sem poder falar com eles.",
+              "E também, entre os mundos... estou começando a ver, de forma tênue,",
+              "certos tipos de conexões. Fios de seda.",
+              "Talvez... Talvez eu não queira voltar, exceto para ver por um instante como todos estão indo.",
+              "Depois eu seguiria meu caminho de novo.",
+              "Preciso continuar avançando. Sempre em frente. Sempre avançando."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_far_from_home_1__sokoban.wav",
+            "subtitleCueLines": [
+              3793,
+              3797,
+              3801,
+              3805,
+              3810,
+              3815,
+              3819,
+              3822,
+              3828,
+              3831
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Quigley, It's been a long time.",
+          "I am not sure how long; I've no cycle of the sun by which to count,",
+          "and I've been gradually unburdening myself of devices.",
+          "I confess that home is beginning to feel distant, more like a half-remembered dream than a real place I might hope ever to inhabit once again.",
+          "Unceasingly alone, every day I feel closer to these worlds and their inhabitants. Even though I cannot speak to them.",
+          "And also, between the worlds... I'm starting to see, faintly,",
+          "certain kinds of connections. Silken strands.",
+          "Perhaps... Perhaps I don't *want* to return, except to see for a moment how you're all getting on.",
+          "Then I would be on my way again.",
+          "I must keep driving forward. Ever onward. Ever forward."
+        ],
+        "pt-br": [
+          "Quigley, faz bastante tempo.",
+          "Não sei há quanto tempo; não tenho a passagem regular do sol para contar,",
+          "e aos poucos tenho me desfeito de dispositivos.",
+          "Confesso que o lar está começando a parecer distante, mais como um sonho meio lembrado do que um lugar real em que eu possa esperar viver de novo.",
+          "Incessantemente sozinho, a cada dia me sinto mais perto desses mundos e de seus habitantes. Mesmo sem poder falar com eles.",
+          "E também, entre os mundos... estou começando a ver, de forma tênue,",
+          "certos tipos de conexões. Fios de seda.",
+          "Talvez... Talvez eu não queira voltar, exceto para ver por um instante como todos estão indo.",
+          "Depois eu seguiria meu caminho de novo.",
+          "Preciso continuar avançando. Sempre em frente. Sempre avançando."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

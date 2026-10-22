@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "magic_shield",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_wizard_torus_4",
+      "clips": [
+        {
+          "id": "hp_wizard_torus_4_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 20.350875,
+          "src": "audio/clips/hp_wizard_torus_4_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "... but the strength of magic has always been limited by conflicts seemingly inherent:",
+              "The need for energy to cycle, through a medium such as a crystal, in order to compound to decent magnitude...",
+              "And the way that turning, so it can loop through the crystal, reduces the speed of energy;",
+              "the slowdown saps potency."
+            ],
+            "pt-br": [
+              "... mas a força da magia sempre foi limitada por conflitos aparentemente inerentes:",
+              "a necessidade de a energia passar por ciclos, por um meio como o cristal, para poder se acumular até uma magnitude decente...",
+              "E como fazer a energia mudar de direção para circular pelo cristal reduz a velocidade dela;",
+              "a desaceleração drena a potência."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_wizard_torus_4_1__wizard.wav",
+            "subtitleCueLines": [
+              8029,
+              8035,
+              8040,
+              8045
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... but the strength of magic has always been limited by conflicts seemingly inherent:",
+          "The need for energy to cycle, through a medium such as a crystal, in order to compound to decent magnitude...",
+          "And the way that turning, so it can loop through the crystal, reduces the speed of energy;",
+          "the slowdown saps potency."
+        ],
+        "pt-br": [
+          "... mas a força da magia sempre foi limitada por conflitos aparentemente inerentes:",
+          "a necessidade de a energia passar por ciclos, por um meio como o cristal, para poder se acumular até uma magnitude decente...",
+          "E como fazer a energia mudar de direção para circular pelo cristal reduz a velocidade dela;",
+          "a desaceleração drena a potência."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137678,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_wizard_torus_4",
+            "rule": "exact-reference",
+            "coordinates": [
+              15.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/magic_shield.entities"
+          }
+        ],
+        "subtitleLine": 8028,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

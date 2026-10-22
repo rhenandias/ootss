@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_combiners_4",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_combiners_4",
+      "clips": [
+        {
+          "id": "audiolog_sky_combiners_4_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 101.344333,
+          "src": "audio/clips/audiolog_sky_combiners_4_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "But Lemur still said \"No!\" Director agreed. And many of us saw their point.",
+              "A 6-combiner would be significantly more ambitious than 4, but could plausibly be completed by",
+              "a mid-sized group of Implementors, say, one or two hundred.",
+              "So, what if we went bigger than that? What if we declared a project so audacious, it required all hands for any hope of completion?",
+              "(One of the reasons we had topped out at 4-combiners was the tradition of having one or a few designers authoring the whole Warehouse;",
+              "which we did feel was very important for a long time. But part of this decree was to change the way we did things.)",
+              "We were tired of plodding forward, and our membership was dwindling.",
+              "Let's give people a real challenge, something so ambitious, bordering on insane,",
+              "that minds who had gone gray and dull would be reinvigorated even just hearing about such a thing.",
+              "Teach them to yearn for the vast and endless sea.",
+              "We didn't want safe. We wanted to break through to the next level.",
+              "As our Director put it, we wanted to fashion our own small Leviathan, an endeavor at which we might truly suffer failure;",
+              "to test ourselves as individuals, and to test the Order as a whole.",
+              "So. Another of the Highest Implementors suggested stepping it up to an 8-combiner, with hierarchical structure.",
+              "It'd be shaped as two 4-combiners like this Warehouse we're in,",
+              "but after exploring one entire 4-combiner, and then the other, 8 worlds in total,",
+              "you'd reach the bridge where they connect to each other.",
+              "\"I like the way you're thinking,\" Lemur said --"
+            ],
+            "pt-br": [
+              "Mas Lemur ainda disse “Não!” A Diretora concordou. Muitos de nós entendemos o ponto deles.",
+              "Um 6-Combinador seria muito mais ambicioso que um 4, mas poderia plausivelmente ser concluído por",
+              "um grupo de Executores de porte médio, digamos, cem ou duzentos.",
+              "Mas e se fôssemos além disso? E se declarássemos um projeto tão audacioso, que exigisse todo mundo para ter alguma chance de ser concluído?",
+              "(Uma das razões de termos ficado no 4-Combinador foi a tradição de ter um ou poucos designers escrevendo o Armazém inteiro;",
+              "o que consideramos muito importante por muito tempo. Mas parte desse decreto era mudar a forma como fazíamos as coisas.)",
+              "Estávamos cansados de avançar aos poucos, e nossa membresia estava diminuindo.",
+              "Vamos dar às pessoas um verdadeiro desafio, algo tão ambicioso, beirando a insanidade,",
+              "que aqueles cujas mentes tinham ficado cinzentas e apáticas se revigorariam até só de ouvir falar de uma coisa dessas.",
+              "Ensine-os a ansiar pelo vasto e infinito mar.",
+              "Não queríamos segurança. Queríamos romper para o próximo nível.",
+              "Como disse nossa Diretora, queríamos criar nosso próprio pequeno Leviatã, um empreendimento no qual talvez fracassássemos de verdade;",
+              "para nos testar como indivíduos, e testar a Ordem como um todo.",
+              "Então. Outro dos Executores Elevados sugeriu passar para um 8-Combinador, com estrutura hierárquica.",
+              "Ele teria a forma de dois 4-Combinadores como este Armazém em que estamos,",
+              "mas, depois de explorar um 4-Combinador inteiro, e depois o outro, 8 mundos no total,",
+              "você chegaria à ponte em que eles se conectam entre si.",
+              "“Gosto do seu jeito de pensar”, disse Lemur —"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_combiners_4_1__acting.wav",
+            "subtitleCueLines": [
+              9389,
+              9393,
+              9397,
+              9401,
+              9406,
+              9411,
+              9416,
+              9421,
+              9425,
+              9430,
+              9434,
+              9438,
+              9443,
+              9447,
+              9453,
+              9457,
+              9462,
+              9465
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "But Lemur still said \"No!\" Director agreed. And many of us saw their point.",
+          "A 6-combiner would be significantly more ambitious than 4, but could plausibly be completed by",
+          "a mid-sized group of Implementors, say, one or two hundred.",
+          "So, what if we went bigger than that? What if we declared a project so audacious, it required all hands for any hope of completion?",
+          "(One of the reasons we had topped out at 4-combiners was the tradition of having one or a few designers authoring the whole Warehouse;",
+          "which we did feel was very important for a long time. But part of this decree was to change the way we did things.)",
+          "We were tired of plodding forward, and our membership was dwindling.",
+          "Let's give people a real challenge, something so ambitious, bordering on insane,",
+          "that minds who had gone gray and dull would be reinvigorated even just hearing about such a thing.",
+          "Teach them to yearn for the vast and endless sea.",
+          "We didn't want safe. We wanted to break through to the next level.",
+          "As our Director put it, we wanted to fashion our own small Leviathan, an endeavor at which we might truly suffer failure;",
+          "to test ourselves as individuals, and to test the Order as a whole.",
+          "So. Another of the Highest Implementors suggested stepping it up to an 8-combiner, with hierarchical structure.",
+          "It'd be shaped as two 4-combiners like this Warehouse we're in,",
+          "but after exploring one entire 4-combiner, and then the other, 8 worlds in total,",
+          "you'd reach the bridge where they connect to each other.",
+          "\"I like the way you're thinking,\" Lemur said --"
+        ],
+        "pt-br": [
+          "Mas Lemur ainda disse “Não!” A Diretora concordou. Muitos de nós entendemos o ponto deles.",
+          "Um 6-Combinador seria muito mais ambicioso que um 4, mas poderia plausivelmente ser concluído por",
+          "um grupo de Executores de porte médio, digamos, cem ou duzentos.",
+          "Mas e se fôssemos além disso? E se declarássemos um projeto tão audacioso, que exigisse todo mundo para ter alguma chance de ser concluído?",
+          "(Uma das razões de termos ficado no 4-Combinador foi a tradição de ter um ou poucos designers escrevendo o Armazém inteiro;",
+          "o que consideramos muito importante por muito tempo. Mas parte desse decreto era mudar a forma como fazíamos as coisas.)",
+          "Estávamos cansados de avançar aos poucos, e nossa membresia estava diminuindo.",
+          "Vamos dar às pessoas um verdadeiro desafio, algo tão ambicioso, beirando a insanidade,",
+          "que aqueles cujas mentes tinham ficado cinzentas e apáticas se revigorariam até só de ouvir falar de uma coisa dessas.",
+          "Ensine-os a ansiar pelo vasto e infinito mar.",
+          "Não queríamos segurança. Queríamos romper para o próximo nível.",
+          "Como disse nossa Diretora, queríamos criar nosso próprio pequeno Leviatã, um empreendimento no qual talvez fracassássemos de verdade;",
+          "para nos testar como indivíduos, e testar a Ordem como um todo.",
+          "Então. Outro dos Executores Elevados sugeriu passar para um 8-Combinador, com estrutura hierárquica.",
+          "Ele teria a forma de dois 4-Combinadores como este Armazém em que estamos,",
+          "mas, depois de explorar um 4-Combinador inteiro, e depois o outro, 8 mundos no total,",
+          "você chegaria à ponte em que eles se conectam entre si.",
+          "“Gosto do seu jeito de pensar”, disse Lemur —"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

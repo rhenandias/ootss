@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "place_to_stand",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "ms_alone_3",
+      "clips": [
+        {
+          "id": "ms_alone_3_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 6.345917,
+          "src": "audio/clips/ms_alone_3_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I haven't been this alone in a long time.",
+              "Peaceful, but sad."
+            ],
+            "pt-br": [
+              "Não me sentia tão sozinha há muito tempo.",
+              "Parece tranquilo, mas triste."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ms_alone_3_1__sailor.wav",
+            "subtitleCueLines": [
+              7324,
+              7329
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I haven't been this alone in a long time.",
+          "Peaceful, but sad."
+        ],
+        "pt-br": [
+          "Não me sentia tão sozinha há muito tempo.",
+          "Parece tranquilo, mas triste."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360226,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "ms_alone_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              15.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/place_to_stand.entities"
+          }
+        ],
+        "subtitleLine": 7323,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

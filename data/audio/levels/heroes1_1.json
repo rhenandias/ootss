@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_1",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "warrior_heroes1_start_end",
+      "clips": [
+        {
+          "id": "warrior_heroes1_start_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 8.790083,
+          "src": "audio/clips/warrior_heroes1_start_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "When we catch this guy, I'm going to give him a big ... big piece of my mind.",
+              "Wish I could punch him. Hard."
+            ],
+            "pt-br": [
+              "Quando a gente pegar esse cara, vou falar umas boas... boas verdades pra ele.",
+              "Queria poder dar um soco nele. Bem forte."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "warrior_heroes1_start_end_1__warrior.wav",
+            "subtitleCueLines": [
+              4,
+              10
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "When we catch this guy, I'm going to give him a big ... big piece of my mind.",
+          "Wish I could punch him. Hard."
+        ],
+        "pt-br": [
+          "Quando a gente pegar esse cara, vou falar umas boas... boas verdades pra ele.",
+          "Queria poder dar um soco nele. Bem forte."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914573,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "warrior_heroes1_start_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.069140434265137,
+              2.4831783771514893,
+              0.026147842407226562
+            ],
+            "source": "data-common/heroes1_1.entities"
+          }
+        ],
+        "subtitleLine": 3,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_mouse",
+      "clips": [
+        {
+          "id": "heroes_mouse_1__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 5.173521,
+          "src": "audio/clips/heroes_mouse_1__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Watch, Ratleigh, as we free the mouse, and he skitters through our maze."
+            ],
+            "pt-br": [
+              "Veja, Ratleigh, como soltamos o camundongo, e ele dispara pelo nosso labirinto."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_mouse_1__magistrate.wav",
+            "subtitleCueLines": [
+              559
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_mouse_2__ratleigh",
+          "speaker": "ratleigh",
+          "speakerName": "Ratleigh",
+          "duration": 0.896979,
+          "src": "audio/clips/heroes_mouse_2__ratleigh.mp3",
+          "transcripts": {
+            "en": [
+              "Yes, fa-"
+            ],
+            "pt-br": [
+              "Sim, pa-"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_mouse_2__ratleigh.wav",
+            "subtitleCueLines": [
+              564
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_mouse_3__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 0.465938,
+          "src": "audio/clips/heroes_mouse_3__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Shhhhh!"
+            ],
+            "pt-br": [
+              "Shhhhh!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_mouse_3__magistrate.wav",
+            "subtitleCueLines": [
+              567
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "warrior_heroes1_start_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.752729,
+          "src": "audio/clips/warrior_heroes1_start_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Wha ... ?"
+            ],
+            "pt-br": [
+              "Quê...?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "warrior_heroes1_start_1__warrior.wav",
+            "subtitleCueLines": [
+              571
+            ],
+            "explicitAudioReference": "warrior_heroes1_start_1__warrior"
+          }
+        },
+        {
+          "id": "warrior_heroes1_what_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.434333,
+          "src": "audio/clips/warrior_heroes1_what_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "What just happened?"
+            ],
+            "pt-br": [
+              "O que acabou de acontecer?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "warrior_heroes1_what_1__warrior.wav",
+            "subtitleCueLines": [
+              576
+            ],
+            "explicitAudioReference": "warrior_heroes1_what_1__warrior"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "needs-review"
+      },
+      "transcripts": {
+        "en": [
+          "Watch, Ratleigh, as we free the mouse, and he skitters through our maze.",
+          "Yes, fa-",
+          "Shhhhh!",
+          "Wha ... ?",
+          "What just happened?"
+        ],
+        "pt-br": [
+          "Veja, Ratleigh, como soltamos o camundongo, e ele dispara pelo nosso labirinto.",
+          "Sim, pa-",
+          "Shhhhh!",
+          "Quê...?",
+          "O que acabou de acontecer?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048837,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes_mouse",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_1.entities"
+          }
+        ],
+        "subtitleLine": 558,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

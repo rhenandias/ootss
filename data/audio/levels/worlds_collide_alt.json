@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_alt",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "worlds_collide_MP_start",
+      "clips": [
+        {
+          "id": "worlds_collide_MP_start_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 3.849333,
+          "src": "audio/clips/worlds_collide_MP_start_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Hello! Can you cover that light? It's distracting."
+            ],
+            "pt-br": [
+              "Olá! Pode cobrir essa luz? Está me distraindo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MP_start_1__trader.wav",
+            "subtitleCueLines": [
+              6663
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MP_start_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 0.633667,
+          "src": "audio/clips/worlds_collide_MP_start_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Light?"
+            ],
+            "pt-br": [
+              "Luz?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MP_start_2__gemsman.wav",
+            "subtitleCueLines": [
+              6667
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MP_start_3__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.609333,
+          "src": "audio/clips/worlds_collide_MP_start_3__trader.mp3",
+          "transcripts": {
+            "en": [
+              "That orange ... tube."
+            ],
+            "pt-br": [
+              "Aquele tubo... laranja."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MP_start_3__trader.wav",
+            "subtitleCueLines": [
+              6670
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MP_start_4__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.262,
+          "src": "audio/clips/worlds_collide_MP_start_4__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "That orange tube is very important!"
+            ],
+            "pt-br": [
+              "Aquele tubo laranja é muito importante!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MP_start_4__gemsman.wav",
+            "subtitleCueLines": [
+              6673
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MP_start_5__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.97775,
+          "src": "audio/clips/worlds_collide_MP_start_5__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Well, maybe you can just ... help me out, then."
+            ],
+            "pt-br": [
+              "Bom, talvez você possa só... me ajudar, então."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MP_start_5__trader.wav",
+            "subtitleCueLines": [
+              6676
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MP_start_6__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.730208,
+          "src": "audio/clips/worlds_collide_MP_start_6__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Maybe you can help me out!"
+            ],
+            "pt-br": [
+              "Talvez você possa me ajudar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MP_start_6__gemsman.wav",
+            "subtitleCueLines": [
+              6680
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hello! Can you cover that light? It's distracting.",
+          "Light?",
+          "That orange ... tube.",
+          "That orange tube is very important!",
+          "Well, maybe you can just ... help me out, then.",
+          "Maybe you can help me out!"
+        ],
+        "pt-br": [
+          "Olá! Pode cobrir essa luz? Está me distraindo.",
+          "Luz?",
+          "Aquele tubo... laranja.",
+          "Aquele tubo laranja é muito importante!",
+          "Bom, talvez você possa só... me ajudar, então.",
+          "Talvez você possa me ajudar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137528,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "worlds_collide_MP_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_alt.entities"
+          }
+        ],
+        "subtitleLine": 6662,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

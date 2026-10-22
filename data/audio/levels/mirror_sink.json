@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_sink",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_4",
+      "clips": [
+        {
+          "id": "mirror_stranger_4_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 39.994667,
+          "src": "audio/clips/mirror_stranger_4_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "The stranger asked my story. Atypically, it all came out.",
+              "My shipping empire, which I'd grown slowly, starting from a single modest route,",
+              "which I'd established by investing the profit from my humble market stall,",
+              "which I started with the pennies I'd hoarded across my youth of doing odd jobs, anything at all,",
+              "that young life I'd cobbled from the wreckage of rejection by the Mirrorwrights...",
+              "a boy who had failed.",
+              "Now a man nearing the end of his allotment, I felt relief as the confessions welled out."
+            ],
+            "pt-br": [
+              "O estranho me perguntou minha história. Atipicamente para mim, saiu tudo.",
+              "Meu império de transporte marítimo, que ampliei aos poucos, começando com uma única rota modesta,",
+              "que estabeleci investindo o lucro da minha humilde banca no mercado,",
+              "que montei com os centavos que juntei na juventude fazendo bicos, qualquer coisa que aparecesse,",
+              "aquela vida jovem que remendei com os destroços da rejeição dos Espelhistas...",
+              "um garoto que havia fracassado.",
+              "Agora, um homem perto do fim de sua cota, senti alívio à medida que as confissões jorravam."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_4_1__trader.wav",
+            "subtitleCueLines": [
+              6390,
+              6394,
+              6398,
+              6402,
+              6407,
+              6411,
+              6414
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The stranger asked my story. Atypically, it all came out.",
+          "My shipping empire, which I'd grown slowly, starting from a single modest route,",
+          "which I'd established by investing the profit from my humble market stall,",
+          "which I started with the pennies I'd hoarded across my youth of doing odd jobs, anything at all,",
+          "that young life I'd cobbled from the wreckage of rejection by the Mirrorwrights...",
+          "a boy who had failed.",
+          "Now a man nearing the end of his allotment, I felt relief as the confessions welled out."
+        ],
+        "pt-br": [
+          "O estranho me perguntou minha história. Atipicamente para mim, saiu tudo.",
+          "Meu império de transporte marítimo, que ampliei aos poucos, começando com uma única rota modesta,",
+          "que estabeleci investindo o lucro da minha humilde banca no mercado,",
+          "que montei com os centavos que juntei na juventude fazendo bicos, qualquer coisa que aparecesse,",
+          "aquela vida jovem que remendei com os destroços da rejeição dos Espelhistas...",
+          "um garoto que havia fracassado.",
+          "Agora, um homem perto do fim de sua cota, senti alívio à medida que as confissões jorravam."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048634,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_4",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/mirror_sink.entities"
+          }
+        ],
+        "subtitleLine": 6389,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

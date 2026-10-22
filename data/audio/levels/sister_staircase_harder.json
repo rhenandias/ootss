@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "level": "sister_staircase_harder",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "3d_intro_staircase",
+      "clips": [
+        {
+          "id": "3d_intro_staircase_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.641604,
+          "src": "audio/clips/3d_intro_staircase_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Oh my God!"
+            ],
+            "pt-br": [
+              "Minha nossa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_staircase_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              7059
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_staircase_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.439583,
+          "src": "audio/clips/3d_intro_staircase_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "That's ... that's what I said."
+            ],
+            "pt-br": [
+              "Foi... foi o que eu disse."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_staircase_2__sailor.wav",
+            "subtitleCueLines": [
+              7064
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Oh my God!",
+          "That's ... that's what I said."
+        ],
+        "pt-br": [
+          "Minha nossa.",
+          "Foi... foi o que eu disse."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "3d_intro_staircase",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              7.0,
+              10.0
+            ],
+            "source": "data-common/sister_staircase_harder.entities"
+          }
+        ],
+        "subtitleLine": 7058,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "3d_intro_staircase_mid",
+      "clips": [
+        {
+          "id": "3d_intro_staircase_mid_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.510667,
+          "src": "audio/clips/3d_intro_staircase_mid_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "How do you do this?"
+            ],
+            "pt-br": [
+              "Como você faz isso?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_staircase_mid_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              7072
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_staircase_mid_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.351063,
+          "src": "audio/clips/3d_intro_staircase_mid_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I'm not used to it either!"
+            ],
+            "pt-br": [
+              "Também não estou acostumada com isso!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_staircase_mid_2__sailor.wav",
+            "subtitleCueLines": [
+              7075
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "How do you do this?",
+          "I'm not used to it either!"
+        ],
+        "pt-br": [
+          "Como você faz isso?",
+          "Também não estou acostumada com isso!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "3d_intro_staircase_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.283097267150879,
+              4.032314300537109,
+              5.203322410583496
+            ],
+            "source": "data-common/sister_staircase_harder.entities"
+          }
+        ],
+        "subtitleLine": 7071,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "3d_intro_staircase_end",
+      "clips": [
+        {
+          "id": "3d_intro_staircase_end_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.081333,
+          "src": "audio/clips/3d_intro_staircase_end_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Let's get out of here."
+            ],
+            "pt-br": [
+              "Vamos sair daqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_staircase_end_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              7082
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "3d_intro_staircase_end_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.491104,
+          "src": "audio/clips/3d_intro_staircase_end_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Yes yes."
+            ],
+            "pt-br": [
+              "Isso, isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_staircase_end_2__sailor.wav",
+            "subtitleCueLines": [
+              7085
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Let's get out of here.",
+          "Yes yes."
+        ],
+        "pt-br": [
+          "Vamos sair daqui.",
+          "Isso, isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "3d_intro_staircase_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              7.0,
+              10.0
+            ],
+            "source": "data-common/sister_staircase_harder.entities"
+          }
+        ],
+        "subtitleLine": 7081,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "level": "the_sky_is_falling_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "obf_many_drop_2",
+      "clips": [
+        {
+          "id": "obf_many_drop_2_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.473354,
+          "src": "audio/clips/obf_many_drop_2_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Another delicate situation. So much pressure!"
+            ],
+            "pt-br": [
+              "Outra situação delicada. Que pressão!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "obf_many_drop_2_1__sailor.wav",
+            "subtitleCueLines": [
+              8563
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "obf_many_drop_2_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.535313,
+          "src": "audio/clips/obf_many_drop_2_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "How do you think *I* feel??"
+            ],
+            "pt-br": [
+              "E você acha que eu me sinto como??"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "obf_many_drop_2_2__gemsman.wav",
+            "subtitleCueLines": [
+              8568
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Another delicate situation. So much pressure!",
+          "How do you think *I* feel??"
+        ],
+        "pt-br": [
+          "Outra situação delicada. Que pressão!",
+          "E você acha que eu me sinto como??"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420444,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "obf_many_drop_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              7.0,
+              4.0
+            ],
+            "source": "data-common/the_sky_is_falling_v2.entities"
+          }
+        ],
+        "subtitleLine": 8562,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

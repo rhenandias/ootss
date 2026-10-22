@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "level": "one_fire_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_one_fire_warrior_thief_optional",
+      "clips": [
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.229333,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "A dirk is small. You could sneak it through?"
+            ],
+            "pt-br": [
+              "Uma adaga é pequena, não dava pra esconder?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_1__thief.wav",
+            "subtitleCueLines": [
+              1169
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.449833,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Small won't help. The enchantment's not that dumb, Tif."
+            ],
+            "pt-br": [
+              "Ser pequena não adianta. O encantamento não é tão burro, Tif."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_2__warrior.wav",
+            "subtitleCueLines": [
+              1173
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.985979,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Well, use a club? Clubs aren't sharp."
+            ],
+            "pt-br": [
+              "Ou usar um porrete? Porretes não são afiados."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_3__thief.wav",
+            "subtitleCueLines": [
+              1177
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 8.871229,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Tif, it's called \"Swordbound\" because we're Swordsmen.",
+              "But the binding isn't limited to blades.",
+              "I can't swing *anything* at *anyone*. Including a Goblin, sadly."
+            ],
+            "pt-br": [
+              "Tif, o nome é \"Devoto da Espada\" porque somos espadachins.",
+              "Mas a devoção não se limita às lâminas.",
+              "Não posso golpear *ninguém* com *nada*. Nem mesmo um Goblin, infelizmente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_4__warrior.wav",
+            "subtitleCueLines": [
+              1180,
+              1184,
+              1188
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.409333,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Uhhhhh, punch 'em?"
+            ],
+            "pt-br": [
+              "Hããããã, e dar um soco?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_5__thief.wav",
+            "subtitleCueLines": [
+              1192
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_6__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.452,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_6__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I could push them sternly with my fist. Not going to help."
+            ],
+            "pt-br": [
+              "Eu poderia empurrar eles com firmeza usando o punho. Não vai ajudar aqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_6__warrior.wav",
+            "subtitleCueLines": [
+              1195
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A dirk is small. You could sneak it through?",
+          "Small won't help. The enchantment's not that dumb, Tif.",
+          "Well, use a club? Clubs aren't sharp.",
+          "Tif, it's called \"Swordbound\" because we're Swordsmen.",
+          "But the binding isn't limited to blades.",
+          "I can't swing *anything* at *anyone*. Including a Goblin, sadly.",
+          "Uhhhhh, punch 'em?",
+          "I could push them sternly with my fist. Not going to help."
+        ],
+        "pt-br": [
+          "Uma adaga é pequena, não dava pra esconder?",
+          "Ser pequena não adianta. O encantamento não é tão burro, Tif.",
+          "Ou usar um porrete? Porretes não são afiados.",
+          "Tif, o nome é \"Devoto da Espada\" porque somos espadachins.",
+          "Mas a devoção não se limita às lâminas.",
+          "Não posso golpear *ninguém* com *nada*. Nem mesmo um Goblin, infelizmente.",
+          "Hããããã, e dar um soco?",
+          "Eu poderia empurrar eles com firmeza usando o punho. Não vai ajudar aqui."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371855,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_one_fire_warrior_thief_optional",
+            "rule": "exact-reference",
+            "coordinates": [
+              16.0,
+              16.0,
+              0.0
+            ],
+            "source": "data-common/one_fire_v2.entities"
+          }
+        ],
+        "subtitleLine": 1168,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_one_fire_warrior_thief_optional_end",
+      "clips": [
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_end_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.799187,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_end_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "See, when we work together, you don't even need a club!"
+            ],
+            "pt-br": [
+              "Viu? Quando trabalhamos juntos, você nem precisa de um porrete!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_end_1__thief.wav",
+            "subtitleCueLines": [
+              1203
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_one_fire_warrior_thief_optional_end_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.189563,
+          "src": "audio/clips/heroes2_one_fire_warrior_thief_optional_end_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Not today at least. Let's hope our luck holds."
+            ],
+            "pt-br": [
+              "Pelo menos hoje não. Tomara que nossa sorte continue."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_one_fire_warrior_thief_optional_end_2__warrior.wav",
+            "subtitleCueLines": [
+              1207
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "See, when we work together, you don't even need a club!",
+          "Not today at least. Let's hope our luck holds."
+        ],
+        "pt-br": [
+          "Viu? Quando trabalhamos juntos, você nem precisa de um porrete!",
+          "Pelo menos hoje não. Tomara que nossa sorte continue."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94371855,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_one_fire_warrior_thief_optional_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              16.0,
+              16.0,
+              0.0
+            ],
+            "source": "data-common/one_fire_v2.entities"
+          }
+        ],
+        "subtitleLine": 1202,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

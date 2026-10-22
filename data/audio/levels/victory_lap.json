@@ -1,0 +1,849 @@
+{
+  "schemaVersion": 1,
+  "level": "victory_lap",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_victory_lap",
+      "clips": [
+        {
+          "id": "heroes3_victory_lap_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 5.227,
+          "src": "audio/clips/heroes3_victory_lap_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "The land beyond that color fringe looks ... vast."
+            ],
+            "pt-br": [
+              "O território além daquela borda colorida parece... imenso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_1__warrior.wav",
+            "subtitleCueLines": [
+              2284
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.886292,
+          "src": "audio/clips/heroes3_victory_lap_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Strange and ... disorienting!"
+            ],
+            "pt-br": [
+              "Estranho e... desorientador!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_2__wizard.wav",
+            "subtitleCueLines": [
+              2288
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_4__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 2.665812,
+          "src": "audio/clips/heroes3_victory_lap_4__bard.mp3",
+          "transcripts": {
+            "en": [
+              "What dangers might that territory hold?"
+            ],
+            "pt-br": [
+              "Que tipo de perigos esse território pode esconder?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_4__bard.wav",
+            "subtitleCueLines": [
+              2294
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.305708,
+          "src": "audio/clips/heroes3_victory_lap_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Could we become lost out there, and never get back?"
+            ],
+            "pt-br": [
+              "Será que podemos nos perder lá fora, e nunca mais voltar?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_5__thief.wav",
+            "subtitleCueLines": [
+              2297
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_6__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 5.682667,
+          "src": "audio/clips/heroes3_victory_lap_6__druid.mp3",
+          "transcripts": {
+            "en": [
+              "It is my charge to apprehend that man. I will proceed regardless of what waits beyond."
+            ],
+            "pt-br": [
+              "É meu dever prender aquele homem. Seguirei adiante, seja o que for que me espere."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_6__druid.wav",
+            "subtitleCueLines": [
+              2301
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_7__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 3.290896,
+          "src": "audio/clips/heroes3_victory_lap_7__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "In that case, let me tell you all a story."
+            ],
+            "pt-br": [
+              "Nesse caso, deixem-me contar uma história a vocês."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_7__magistrate.wav",
+            "subtitleCueLines": [
+              2306
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "victory_lap_composite_you",
+          "speaker": "all_heroes",
+          "speakerName": "all_heroes",
+          "duration": 1.614333,
+          "src": "audio/clips/victory_lap_composite_you.mp3",
+          "transcripts": {
+            "en": [
+              "You!"
+            ],
+            "pt-br": [
+              "Você!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "victory_lap_composite_you.wav",
+            "subtitleCueLines": [
+              2310
+            ],
+            "explicitAudioReference": "victory_lap_composite_you"
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_9__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 223.198708,
+          "src": "audio/clips/heroes3_victory_lap_9__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Once-a-time, just some months ago actually, the sickly moon casting down",
+              "through my window, I was knelt by my bed, praying.",
+              "Utterly despondent from all my problems. What do I do with my son Ratleigh,",
+              "to help him become -- aught but such a useless lump?",
+              "And as for me -- is my time of youthful creativity expended?",
+              "Am I to be set aside, my role from now til the End being merely to dodder and wither away?",
+              "I am an accomplished man. I have done some quite good things -- greatly increased the efficiency of the prisons,",
+              "and ensured that many criminals could no longer feed upon the upright citizenry,",
+              "and thus kept our land a healthy place in which the good may thrive.",
+              "But such accomplishments, after years, become ... taken for granted. Usual, Obvious, Boring!",
+              "Life had become paperwork, maintenance, a slate of ongoing convictions that really *anyone* could prosecute in my stead.",
+              "I was weighed down each day with an ever-greater fatigue.",
+              "On the night in question, I felt my usefulness had been fully exhausted. In complete honesty, I was drenched in tears.",
+              "I was praying out loud, as I usually do -- so that God sees I really mean it, you know --",
+              "and for once, my prayers were heard in concrete fashion.",
+              "Before me appeared a woman, bathed in multicolored light, beatific.",
+              "I understand now that she was not an angel, but she might as well have been.",
+              "She said she needed my help.",
+              "She had pledged her life to walking in the ways of God, and said that I could walk beside her,",
+              "so long as I first did ... a certain thing.",
+              "What she asked of me was very difficult to eventuate, and took lavish expenditure, I must say.",
+              "She needed me to bring together a particular set of elements, all into one place:",
+              "Warrior,",
+              "Thief,",
+              "Wizard,",
+              "Priestess,",
+              "Bard,",
+              "Druid;",
+              "Goblins,",
+              "Fire-breathing Dragons,",
+              "Crystals,",
+              "Buttons and Energy Gates;",
+              "and if I did all this, and did it well, she'd set me upon the course of a new life.",
+              "She said I had truly exceptional powers of Judgement;",
+              "To be seen so clearly released in me a torrent of love.",
+              "I have worked so hard to hone my Judgement, you have no idea how hard.",
+              "She said she'd give me a new way to sophisticate my Judgement, in and among a wider Existence.",
+              "Dear Listener, she showed me visions,",
+              "a vast array of distant lands, and I loved the whole of what I saw.",
+              "I knelt to her, and pledged to perform.",
+              "And now, *right* now, right this *second*,",
+              "the act is consummated.",
+              "You won't catch me today. Perhaps not ever.",
+              "But you haven't failed, because now we're all a part of something bigger.",
+              "I *now* ... ... ... take my leave. See you later, Alligators!"
+            ],
+            "pt-br": [
+              "Numa certa vez, há poucos meses na verdade, a lua doentia lançando",
+              "pela minha janela, eu estava ajoelhado ao lado da cama, rezando.",
+              "Completamente desolado com todos os meus problemas. O que eu faço com meu filho Ratleigh,",
+              "pra ajudá-lo a se tornar... algo além de um inútil completo?",
+              "E quanto a mim... será que meu tempo de criatividade juvenil acabou?",
+              "Vou ser deixado de lado, meu papel daqui até o Fim sendo só me arrastar e definhar?",
+              "Sou um homem realizado. Fiz coisas bem boas: aumentei muito a eficiência das prisões,",
+              "e garanti que muitos criminosos não pudessem mais se alimentar da população honesta,",
+              "e assim mantive nossa terra um lugar saudável onde os bons podem prosperar.",
+              "Mas tais feitos, depois de anos, acabam sendo... dados como certos. Comuns, óbvios, chatos!",
+              "A vida tinha virado papelada, manutenção, condenações contínuas que realmente qualquer um poderia conduzir no meu lugar.",
+              "Eu me sentia cada dia mais sobrecarregado por um cansaço cada vez maior.",
+              "Naquela noite, senti que minha utilidade tinha se esgotado por completo. Sendo bem honesto, eu estava encharcado de lágrimas.",
+              "Eu orava em voz alta, como costumo fazer (pra que Deus veja que eu falo sério, sabe?)",
+              "e, pela primeira vez, minhas preces foram ouvidas de forma concreta.",
+              "Apareceu uma mulher à minha frente, banhada em luz multicolorida, beatífica.",
+              "Agora entendo que ela não era um anjo, mas bem que podia ter sido.",
+              "Ela disse que precisava da minha ajuda.",
+              "Ela tinha dedicado a vida a andar nos caminhos de Deus, e disse que eu poderia caminhar ao lado dela,",
+              "desde que eu primeiro fizesse... uma certa coisa.",
+              "O que ela me pediu foi muito difícil de concretizar, e exigiu um gasto imenso, devo dizer.",
+              "Ela precisava que eu reunisse um conjunto específico de elementos, todos em um só lugar:",
+              "Guerreiro,",
+              "Ladra,",
+              "Mago,",
+              "Sacerdotisa,",
+              "Barda,",
+              "Druida;",
+              "Goblins,",
+              "Dragões cuspidores de fogo,",
+              "Cristais,",
+              "Botões e Portões de Energia;",
+              "e que, se eu fizesse tudo isso, e fizesse bem, ela me colocaria no caminho de uma nova vida.",
+              "Ela disse que eu tinha poderes realmente excepcionais de Julgamento;",
+              "Ser visto com tanta clareza despertou em mim uma torrente de amor.",
+              "Trabalhei tanto para lapidar meu Julgamento, você não tem ideia do quanto foi difícil.",
+              "Ela disse que me daria um novo jeito de sofisticar meu Julgamento, dentro de uma Existência mais ampla.",
+              "Prezado ouvinte, ela me mostrou visões,",
+              "uma vasta variedade de terras distantes, e eu amei tudo o que vi.",
+              "Ajoelhei-me diante dela, e jurei realizar.",
+              "E agora, agora mesmo, neste exato segundo,",
+              "o ato se consumou.",
+              "Você não vai me pegar hoje. Talvez nunca.",
+              "Mas você não fracassou, porque agora todos nós fazemos parte de algo maior.",
+              "Eu agora... me retiro. Até, jacaré!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_9__magistrate.wav",
+            "subtitleCueLines": [
+              2313,
+              2317,
+              2321,
+              2325,
+              2329,
+              2333,
+              2337,
+              2343,
+              2347,
+              2351,
+              2355,
+              2360,
+              2364,
+              2369,
+              2373,
+              2378,
+              2383,
+              2387,
+              2390,
+              2395,
+              2398,
+              2404,
+              2409,
+              2414,
+              2418,
+              2422,
+              2426,
+              2430,
+              2434,
+              2438,
+              2442,
+              2446,
+              2450,
+              2454,
+              2458,
+              2462,
+              2466,
+              2471,
+              2474,
+              2478,
+              2481,
+              2486,
+              2490,
+              2494,
+              2498
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_10__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 1.047167,
+          "src": "audio/clips/heroes3_victory_lap_10__bard.mp3",
+          "transcripts": {
+            "en": [
+              "I think he's gone."
+            ],
+            "pt-br": [
+              "Acho que ele foi embora."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_10__bard.wav",
+            "subtitleCueLines": [
+              2503
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_11__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.123667,
+          "src": "audio/clips/heroes3_victory_lap_11__thief.mp3",
+          "transcripts": {
+            "en": [
+              "He called us ... Alligators? What's an Alligator?"
+            ],
+            "pt-br": [
+              "Ele nos chamou de... jacaré? O que é um jacaré?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_11__thief.wav",
+            "subtitleCueLines": [
+              2506
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_12__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.128854,
+          "src": "audio/clips/heroes3_victory_lap_12__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Sounds like some kind of monster!"
+            ],
+            "pt-br": [
+              "Parece algum tipo de monstro!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_12__wizard.wav",
+            "subtitleCueLines": [
+              2511
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_13__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 3.146667,
+          "src": "audio/clips/heroes3_victory_lap_13__druid.mp3",
+          "transcripts": {
+            "en": [
+              "He's saying that actually *we're* the monsters?"
+            ],
+            "pt-br": [
+              "Ele tá dizendo que, na verdade, nós somos os monstros?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_13__druid.wav",
+            "subtitleCueLines": [
+              2514
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_14__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 1.957958,
+          "src": "audio/clips/heroes3_victory_lap_14__bard.mp3",
+          "transcripts": {
+            "en": [
+              "The very nerve!"
+            ],
+            "pt-br": [
+              "Que ousadia!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_14__bard.wav",
+            "subtitleCueLines": [
+              2518
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "The land beyond that color fringe looks ... vast.",
+          "Strange and ... disorienting!",
+          "...",
+          "What dangers might that territory hold?",
+          "Could we become lost out there, and never get back?",
+          "It is my charge to apprehend that man. I will proceed regardless of what waits beyond.",
+          "In that case, let me tell you all a story.",
+          "You!",
+          "Once-a-time, just some months ago actually, the sickly moon casting down",
+          "through my window, I was knelt by my bed, praying.",
+          "Utterly despondent from all my problems. What do I do with my son Ratleigh,",
+          "to help him become -- aught but such a useless lump?",
+          "And as for me -- is my time of youthful creativity expended?",
+          "Am I to be set aside, my role from now til the End being merely to dodder and wither away?",
+          "I am an accomplished man. I have done some quite good things -- greatly increased the efficiency of the prisons,",
+          "and ensured that many criminals could no longer feed upon the upright citizenry,",
+          "and thus kept our land a healthy place in which the good may thrive.",
+          "But such accomplishments, after years, become ... taken for granted. Usual, Obvious, Boring!",
+          "Life had become paperwork, maintenance, a slate of ongoing convictions that really *anyone* could prosecute in my stead.",
+          "I was weighed down each day with an ever-greater fatigue.",
+          "On the night in question, I felt my usefulness had been fully exhausted. In complete honesty, I was drenched in tears.",
+          "I was praying out loud, as I usually do -- so that God sees I really mean it, you know --",
+          "and for once, my prayers were heard in concrete fashion.",
+          "Before me appeared a woman, bathed in multicolored light, beatific.",
+          "I understand now that she was not an angel, but she might as well have been.",
+          "She said she needed my help.",
+          "She had pledged her life to walking in the ways of God, and said that I could walk beside her,",
+          "so long as I first did ... a certain thing.",
+          "What she asked of me was very difficult to eventuate, and took lavish expenditure, I must say.",
+          "She needed me to bring together a particular set of elements, all into one place:",
+          "Warrior,",
+          "Thief,",
+          "Wizard,",
+          "Priestess,",
+          "Bard,",
+          "Druid;",
+          "Goblins,",
+          "Fire-breathing Dragons,",
+          "Crystals,",
+          "Buttons and Energy Gates;",
+          "and if I did all this, and did it well, she'd set me upon the course of a new life.",
+          "She said I had truly exceptional powers of Judgement;",
+          "To be seen so clearly released in me a torrent of love.",
+          "I have worked so hard to hone my Judgement, you have no idea how hard.",
+          "She said she'd give me a new way to sophisticate my Judgement, in and among a wider Existence.",
+          "Dear Listener, she showed me visions,",
+          "a vast array of distant lands, and I loved the whole of what I saw.",
+          "I knelt to her, and pledged to perform.",
+          "And now, *right* now, right this *second*,",
+          "the act is consummated.",
+          "You won't catch me today. Perhaps not ever.",
+          "But you haven't failed, because now we're all a part of something bigger.",
+          "I *now* ... ... ... take my leave. See you later, Alligators!",
+          "I think he's gone.",
+          "He called us ... Alligators? What's an Alligator?",
+          "Sounds like some kind of monster!",
+          "He's saying that actually *we're* the monsters?",
+          "The very nerve!"
+        ],
+        "pt-br": [
+          "O território além daquela borda colorida parece... imenso.",
+          "Estranho e... desorientador!",
+          "...",
+          "Que tipo de perigos esse território pode esconder?",
+          "Será que podemos nos perder lá fora, e nunca mais voltar?",
+          "É meu dever prender aquele homem. Seguirei adiante, seja o que for que me espere.",
+          "Nesse caso, deixem-me contar uma história a vocês.",
+          "Você!",
+          "Numa certa vez, há poucos meses na verdade, a lua doentia lançando",
+          "pela minha janela, eu estava ajoelhado ao lado da cama, rezando.",
+          "Completamente desolado com todos os meus problemas. O que eu faço com meu filho Ratleigh,",
+          "pra ajudá-lo a se tornar... algo além de um inútil completo?",
+          "E quanto a mim... será que meu tempo de criatividade juvenil acabou?",
+          "Vou ser deixado de lado, meu papel daqui até o Fim sendo só me arrastar e definhar?",
+          "Sou um homem realizado. Fiz coisas bem boas: aumentei muito a eficiência das prisões,",
+          "e garanti que muitos criminosos não pudessem mais se alimentar da população honesta,",
+          "e assim mantive nossa terra um lugar saudável onde os bons podem prosperar.",
+          "Mas tais feitos, depois de anos, acabam sendo... dados como certos. Comuns, óbvios, chatos!",
+          "A vida tinha virado papelada, manutenção, condenações contínuas que realmente qualquer um poderia conduzir no meu lugar.",
+          "Eu me sentia cada dia mais sobrecarregado por um cansaço cada vez maior.",
+          "Naquela noite, senti que minha utilidade tinha se esgotado por completo. Sendo bem honesto, eu estava encharcado de lágrimas.",
+          "Eu orava em voz alta, como costumo fazer (pra que Deus veja que eu falo sério, sabe?)",
+          "e, pela primeira vez, minhas preces foram ouvidas de forma concreta.",
+          "Apareceu uma mulher à minha frente, banhada em luz multicolorida, beatífica.",
+          "Agora entendo que ela não era um anjo, mas bem que podia ter sido.",
+          "Ela disse que precisava da minha ajuda.",
+          "Ela tinha dedicado a vida a andar nos caminhos de Deus, e disse que eu poderia caminhar ao lado dela,",
+          "desde que eu primeiro fizesse... uma certa coisa.",
+          "O que ela me pediu foi muito difícil de concretizar, e exigiu um gasto imenso, devo dizer.",
+          "Ela precisava que eu reunisse um conjunto específico de elementos, todos em um só lugar:",
+          "Guerreiro,",
+          "Ladra,",
+          "Mago,",
+          "Sacerdotisa,",
+          "Barda,",
+          "Druida;",
+          "Goblins,",
+          "Dragões cuspidores de fogo,",
+          "Cristais,",
+          "Botões e Portões de Energia;",
+          "e que, se eu fizesse tudo isso, e fizesse bem, ela me colocaria no caminho de uma nova vida.",
+          "Ela disse que eu tinha poderes realmente excepcionais de Julgamento;",
+          "Ser visto com tanta clareza despertou em mim uma torrente de amor.",
+          "Trabalhei tanto para lapidar meu Julgamento, você não tem ideia do quanto foi difícil.",
+          "Ela disse que me daria um novo jeito de sofisticar meu Julgamento, dentro de uma Existência mais ampla.",
+          "Prezado ouvinte, ela me mostrou visões,",
+          "uma vasta variedade de terras distantes, e eu amei tudo o que vi.",
+          "Ajoelhei-me diante dela, e jurei realizar.",
+          "E agora, agora mesmo, neste exato segundo,",
+          "o ato se consumou.",
+          "Você não vai me pegar hoje. Talvez nunca.",
+          "Mas você não fracassou, porque agora todos nós fazemos parte de algo maior.",
+          "Eu agora... me retiro. Até, jacaré!",
+          "Acho que ele foi embora.",
+          "Ele nos chamou de... jacaré? O que é um jacaré?",
+          "Parece algum tipo de monstro!",
+          "Ele tá dizendo que, na verdade, nós somos os monstros?",
+          "Que ousadia!"
+        ]
+      },
+      "silentCues": [
+        {
+          "id": "heroes3_victory_lap_3__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            2291
+          ]
+        }
+      ],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360444,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_victory_lap",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/victory_lap.entities"
+          }
+        ],
+        "subtitleLine": 2283,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "heroes3_victory_lap_end",
+      "clips": [
+        {
+          "id": "heroes3_victory_lap_end_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 6.848,
+          "src": "audio/clips/heroes3_victory_lap_end_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "He hoped his tale of woe would move us. No. He flees, we follow, and apprehend. Simple."
+            ],
+            "pt-br": [
+              "Ele achou que a gente ia cair na história triste dele. Não. Ele foge, a gente segue, e captura. Simples."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_1__druid.wav",
+            "subtitleCueLines": [
+              2525
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.971,
+          "src": "audio/clips/heroes3_victory_lap_end_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I want my freedom back, and he's the key to it."
+            ],
+            "pt-br": [
+              "Quero minha liberdade de volta, e ele é a chave pra isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_2__warrior.wav",
+            "subtitleCueLines": [
+              2530
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.488646,
+          "src": "audio/clips/heroes3_victory_lap_end_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Seems like he's gone somewhere very strange."
+            ],
+            "pt-br": [
+              "Parece que ele foi para um lugar muito estranho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_3__wizard.wav",
+            "subtitleCueLines": [
+              2533
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_4__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.906667,
+          "src": "audio/clips/heroes3_victory_lap_end_4__druid.mp3",
+          "transcripts": {
+            "en": [
+              "Then we're also going somewhere very strange."
+            ],
+            "pt-br": [
+              "Então nós também vamos para um lugar muito estranho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_4__druid.wav",
+            "subtitleCueLines": [
+              2536
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_5__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.563521,
+          "src": "audio/clips/heroes3_victory_lap_end_5__bard.mp3",
+          "transcripts": {
+            "en": [
+              "There is a great song to be written about whatever comes next."
+            ],
+            "pt-br": [
+              "Vai dar uma ótima música sobre o que vier a seguir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_5__bard.wav",
+            "subtitleCueLines": [
+              2540
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_6__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.123667,
+          "src": "audio/clips/heroes3_victory_lap_end_6__thief.mp3",
+          "transcripts": {
+            "en": [
+              "But will it be a paean or a dirge?"
+            ],
+            "pt-br": [
+              "Mas será um hino ou uma lamentação?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_6__thief.wav",
+            "subtitleCueLines": [
+              2544
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_7__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.958292,
+          "src": "audio/clips/heroes3_victory_lap_end_7__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Depends how well we do, I guess."
+            ],
+            "pt-br": [
+              "Depende de como a gente se sair, acho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_7__warrior.wav",
+            "subtitleCueLines": [
+              2548
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_8__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 1.341333,
+          "src": "audio/clips/heroes3_victory_lap_end_8__druid.mp3",
+          "transcripts": {
+            "en": [
+              "Best not fail, then."
+            ],
+            "pt-br": [
+              "Melhor não fracassar, então."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_8__druid.wav",
+            "subtitleCueLines": [
+              2551
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_victory_lap_end_9__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.118292,
+          "src": "audio/clips/heroes3_victory_lap_end_9__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Best not fail!"
+            ],
+            "pt-br": [
+              "É melhor não fracassar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_victory_lap_end_9__wizard.wav",
+            "subtitleCueLines": [
+              2554
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "He hoped his tale of woe would move us. No. He flees, we follow, and apprehend. Simple.",
+          "I want my freedom back, and he's the key to it.",
+          "Seems like he's gone somewhere very strange.",
+          "Then we're also going somewhere very strange.",
+          "There is a great song to be written about whatever comes next.",
+          "But will it be a paean or a dirge?",
+          "Depends how well we do, I guess.",
+          "Best not fail, then.",
+          "Best not fail!"
+        ],
+        "pt-br": [
+          "Ele achou que a gente ia cair na história triste dele. Não. Ele foge, a gente segue, e captura. Simples.",
+          "Quero minha liberdade de volta, e ele é a chave pra isso.",
+          "Parece que ele foi para um lugar muito estranho.",
+          "Então nós também vamos para um lugar muito estranho.",
+          "Vai dar uma ótima música sobre o que vier a seguir.",
+          "Mas será um hino ou uma lamentação?",
+          "Depende de como a gente se sair, acho.",
+          "Melhor não fracassar, então.",
+          "É melhor não fracassar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360444,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes3_victory_lap_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/victory_lap.entities"
+          }
+        ],
+        "subtitleLine": 2524,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

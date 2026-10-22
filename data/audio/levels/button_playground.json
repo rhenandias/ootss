@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "level": "button_playground",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_bard_market_square",
+      "clips": [
+        {
+          "id": "hp_bard_market_square_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 5.265083,
+          "src": "audio/clips/hp_bard_market_square_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Ahh, the market square! I came here every few days in that first year."
+            ],
+            "pt-br": [
+              "Ahh, a praça do mercado! Eu vinha aqui a cada poucos dias naquele primeiro ano."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_bard_market_square_1__bard.wav",
+            "subtitleCueLines": [
+              7812
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_bard_market_square_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.91625,
+          "src": "audio/clips/hp_bard_market_square_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Did you meet interesting people?"
+            ],
+            "pt-br": [
+              "Você conheceu pessoas interessantes?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_bard_market_square_2__thief.wav",
+            "subtitleCueLines": [
+              7817
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_bard_market_square_3__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 2.961583,
+          "src": "audio/clips/hp_bard_market_square_3__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Many. And they were very helpful."
+            ],
+            "pt-br": [
+              "Muitas. E eram muito prestativos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_bard_market_square_3__bard.wav",
+            "subtitleCueLines": [
+              7820
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Ahh, the market square! I came here every few days in that first year.",
+          "Did you meet interesting people?",
+          "Many. And they were very helpful."
+        ],
+        "pt-br": [
+          "Ahh, a praça do mercado! Eu vinha aqui a cada poucos dias naquele primeiro ano.",
+          "Você conheceu pessoas interessantes?",
+          "Muitas. E eram muito prestativos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137346,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_bard_market_square",
+            "rule": "exact-reference",
+            "coordinates": [
+              15.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/button_playground.entities"
+          }
+        ],
+        "subtitleLine": 7811,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

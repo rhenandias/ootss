@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_tetratetrad",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_tetratetrad",
+      "clips": [
+        {
+          "id": "audiolog_sky_tetratetrad_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 87.968333,
+          "src": "audio/clips/audiolog_sky_tetratetrad_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "\"I like the way you're thinking,\" Lemur said --",
+              "but why stop there? We've found that symmetry does good things for us, so why stop at the partial symmetry of a two-by-four barbell?",
+              "\"Keep going!\" He prompted us to think about *full* symmetry: a 4-combiner of 4-combiners.",
+              "We would constuct 4 entire Warehouses, each like in size to this one;",
+              "and, just like the worlds combine in a cross pattern *here*,",
+              "that same cross pattern would occur again, writ large, and mix the 4 sub-facilities.",
+              "The magnitude of the leap was absurd, but Lemur was finally happy with the idea.",
+              "And we all had to admit, it just looked right. So, that's the way we went.",
+              "It was an incredibly difficult project that truly required all hands.",
+              "It did reinvigorate the group; many souls we’d not seen in decades re-emerged from obscurity, smiling wide.",
+              "As for myself, I had only just begun to design this very Warehouse in which we stand.",
+              "Even so, I and my assistants felt the need to participate. We worked sometimes here, sometimes there.",
+              "I hadn't seen anyone work so hard since the early days.",
+              "We were making good progress. Then, we hit a wall.",
+              "We'd thought we understood holography quite well, but the Holographic Principle still held surprises."
+            ],
+            "pt-br": [
+              "“Gosto do seu jeito de pensar”, disse Lemur —",
+              "mas por que parar aí? Descobrimos que a simetria nos faz bem, então por que parar na simetria parcial de um haltere de dois por quatro?",
+              "\"Continuem!\" Ele nos levou a pensar na simetria *completa*: um 4-Combinador de 4-Combinadores.",
+              "Construiríamos 4 Armazéns inteiros, cada um do tamanho deste;",
+              "e, assim como os mundos se combinam em um padrão de cruz *aqui*,",
+              "esse mesmo padrão em cruz se repetiria, em grande escala, e combinaria as 4 subinstalações.",
+              "O salto era de uma magnitude absurda, mas Lemur enfim estava feliz com a ideia.",
+              "E todos tivemos que admitir, parecia o certo. Então, seguimos por esse caminho.",
+              "Foi um projeto incrivelmente difícil que realmente exigiu todo mundo.",
+              "Isso realmente revigorou o grupo; muitas almas que não víamos havia décadas voltaram do anonimato, sorrindo de orelha a orelha.",
+              "Quanto a mim, tinha acabado de começar a projetar este mesmo Armazém onde estamos.",
+              "Mesmo assim, eu e meus assistentes sentimos a necessidade de participar. Trabalhávamos ora aqui, ora ali.",
+              "Eu não via ninguém trabalhar tão duro desde os primeiros dias.",
+              "Estávamos fazendo bons progressos. Então, chegamos a um impasse.",
+              "Achávamos que entendíamos muito bem a holografia, mas o Princípio Holográfico ainda reservava surpresas para nós."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_tetratetrad_1__acting.wav",
+            "subtitleCueLines": [
+              9474,
+              9478,
+              9483,
+              9487,
+              9491,
+              9495,
+              9499,
+              9503,
+              9507,
+              9511,
+              9516,
+              9520,
+              9525,
+              9529,
+              9533
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "\"I like the way you're thinking,\" Lemur said --",
+          "but why stop there? We've found that symmetry does good things for us, so why stop at the partial symmetry of a two-by-four barbell?",
+          "\"Keep going!\" He prompted us to think about *full* symmetry: a 4-combiner of 4-combiners.",
+          "We would constuct 4 entire Warehouses, each like in size to this one;",
+          "and, just like the worlds combine in a cross pattern *here*,",
+          "that same cross pattern would occur again, writ large, and mix the 4 sub-facilities.",
+          "The magnitude of the leap was absurd, but Lemur was finally happy with the idea.",
+          "And we all had to admit, it just looked right. So, that's the way we went.",
+          "It was an incredibly difficult project that truly required all hands.",
+          "It did reinvigorate the group; many souls we’d not seen in decades re-emerged from obscurity, smiling wide.",
+          "As for myself, I had only just begun to design this very Warehouse in which we stand.",
+          "Even so, I and my assistants felt the need to participate. We worked sometimes here, sometimes there.",
+          "I hadn't seen anyone work so hard since the early days.",
+          "We were making good progress. Then, we hit a wall.",
+          "We'd thought we understood holography quite well, but the Holographic Principle still held surprises."
+        ],
+        "pt-br": [
+          "“Gosto do seu jeito de pensar”, disse Lemur —",
+          "mas por que parar aí? Descobrimos que a simetria nos faz bem, então por que parar na simetria parcial de um haltere de dois por quatro?",
+          "\"Continuem!\" Ele nos levou a pensar na simetria *completa*: um 4-Combinador de 4-Combinadores.",
+          "Construiríamos 4 Armazéns inteiros, cada um do tamanho deste;",
+          "e, assim como os mundos se combinam em um padrão de cruz *aqui*,",
+          "esse mesmo padrão em cruz se repetiria, em grande escala, e combinaria as 4 subinstalações.",
+          "O salto era de uma magnitude absurda, mas Lemur enfim estava feliz com a ideia.",
+          "E todos tivemos que admitir, parecia o certo. Então, seguimos por esse caminho.",
+          "Foi um projeto incrivelmente difícil que realmente exigiu todo mundo.",
+          "Isso realmente revigorou o grupo; muitas almas que não víamos havia décadas voltaram do anonimato, sorrindo de orelha a orelha.",
+          "Quanto a mim, tinha acabado de começar a projetar este mesmo Armazém onde estamos.",
+          "Mesmo assim, eu e meus assistentes sentimos a necessidade de participar. Trabalhávamos ora aqui, ora ali.",
+          "Eu não via ninguém trabalhar tão duro desde os primeiros dias.",
+          "Estávamos fazendo bons progressos. Então, chegamos a um impasse.",
+          "Achávamos que entendíamos muito bem a holografia, mas o Princípio Holográfico ainda reservava surpresas para nós."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

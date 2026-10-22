@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "level": "submarine",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "double_agent_intro",
+      "clips": [
+        {
+          "id": "double_agent_intro_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.500833,
+          "src": "audio/clips/double_agent_intro_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Your friend the stranded Surveyor ... you'll be seeing her again soon."
+            ],
+            "pt-br": [
+              "Sua amiga, a navegante encalhada... você vai vê-la de novo em breve."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "double_agent_intro_1__boat.wav",
+            "subtitleCueLines": [
+              7369
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "double_agent_intro_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.341146,
+          "src": "audio/clips/double_agent_intro_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "She's in here? How, why?"
+            ],
+            "pt-br": [
+              "Ela está aí dentro? Como? Por quê?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "double_agent_intro_2__sailor.wav",
+            "subtitleCueLines": [
+              7373
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "double_agent_intro_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 7.336,
+          "src": "audio/clips/double_agent_intro_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "The iridescence admits her, like it did you. That's all we know about how and why.",
+              "But..."
+            ],
+            "pt-br": [
+              "A iridescência a admite, como admitiu você. Isso é tudo o que sabemos sobre como e por quê.",
+              "Mas..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "double_agent_intro_3__boat.wav",
+            "subtitleCueLines": [
+              7377,
+              7381
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Your friend the stranded Surveyor ... you'll be seeing her again soon.",
+          "She's in here? How, why?",
+          "The iridescence admits her, like it did you. That's all we know about how and why.",
+          "But..."
+        ],
+        "pt-br": [
+          "Sua amiga, a navegante encalhada... você vai vê-la de novo em breve.",
+          "Ela está aí dentro? Como? Por quê?",
+          "A iridescência a admite, como admitiu você. Isso é tudo o que sabemos sobre como e por quê.",
+          "Mas..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "double_agent_intro",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/submarine.entities"
+          }
+        ],
+        "subtitleLine": 7368,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "double_agent_intro_end",
+      "clips": [
+        {
+          "id": "double_agent_intro_end_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.813333,
+          "src": "audio/clips/double_agent_intro_end_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "But there's something the Guild knows about her that we need to tell you."
+            ],
+            "pt-br": [
+              "Mas há uma coisa que a Guilda sabe sobre ela e que precisamos te contar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "double_agent_intro_end_1__boat.wav",
+            "subtitleCueLines": [
+              7388
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "double_agent_intro_end_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.535292,
+          "src": "audio/clips/double_agent_intro_end_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh?"
+            ],
+            "pt-br": [
+              "Ah?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "double_agent_intro_end_2__sailor.wav",
+            "subtitleCueLines": [
+              7392
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "double_agent_intro_end_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.099958,
+          "src": "audio/clips/double_agent_intro_end_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "It's ... significant. I'm shocked they held it back this long."
+            ],
+            "pt-br": [
+              "É uma grande coisa. Fico chocado que tenham escondido isso tanto tempo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "double_agent_intro_end_3__boat.wav",
+            "subtitleCueLines": [
+              7395
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "But there's something the Guild knows about her that we need to tell you.",
+          "Oh?",
+          "It's ... significant. I'm shocked they held it back this long."
+        ],
+        "pt-br": [
+          "Mas há uma coisa que a Guilda sabe sobre ela e que precisamos te contar.",
+          "Ah?",
+          "É uma grande coisa. Fico chocado que tenham escondido isso tanto tempo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420432,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "double_agent_intro_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/submarine.entities"
+          }
+        ],
+        "subtitleLine": 7387,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

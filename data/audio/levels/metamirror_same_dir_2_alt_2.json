@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "level": "metamirror_same_dir_2_alt_2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mm_course",
+      "clips": [
+        {
+          "id": "mm_course_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 11.494667,
+          "src": "audio/clips/mm_course_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "We have many sequences, not just that first trial which is known to the public.",
+              "Initiates usually go through this one around age 16, to validate that they deserve promotion to Apprentice Mirrorwright."
+            ],
+            "pt-br": [
+              "Temos muitas sequências, não só aquele primeiro teste que o público conhece.",
+              "Os iniciados costumam passar por isso por volta dos 16 anos para provar que merecem promoção a Espelhista Aprendiz."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mm_course_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6845,
+              6849
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mm_course_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.030667,
+          "src": "audio/clips/mm_course_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "I'm honored to be the exception."
+            ],
+            "pt-br": [
+              "Fico honrado por ser a exceção."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mm_course_2__trader.wav",
+            "subtitleCueLines": [
+              6854
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mm_course_3__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 4.170667,
+          "src": "audio/clips/mm_course_3__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "No exception. They already promoted you to Apprentice Mirrorwright."
+            ],
+            "pt-br": [
+              "Não há exceção. Eles já o promoveram a Espelhista Aprendiz."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mm_course_3__trader_alt.wav",
+            "subtitleCueLines": [
+              6857
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We have many sequences, not just that first trial which is known to the public.",
+          "Initiates usually go through this one around age 16, to validate that they deserve promotion to Apprentice Mirrorwright.",
+          "I'm honored to be the exception.",
+          "No exception. They already promoted you to Apprentice Mirrorwright."
+        ],
+        "pt-br": [
+          "Temos muitas sequências, não só aquele primeiro teste que o público conhece.",
+          "Os iniciados costumam passar por isso por volta dos 16 anos para provar que merecem promoção a Espelhista Aprendiz.",
+          "Fico honrado por ser a exceção.",
+          "Não há exceção. Eles já o promoveram a Espelhista Aprendiz."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137604,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mm_course",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              -1.0,
+              0.0
+            ],
+            "source": "data-common/metamirror_same_dir_2_alt_2.entities"
+          }
+        ],
+        "subtitleLine": 6844,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_decay_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_decay_1",
+      "clips": [
+        {
+          "id": "audiolog_u_decay_1_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 30.394146,
+          "src": "audio/clips/audiolog_u_decay_1_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "The decay is eating into our Warehouses as though they were Swiss cheese.",
+              "And by studying that cheese, we hope to learn",
+              "how to protect the facilities we've built across these dozen decades, all seventy thousand of them,",
+              "so that the whole thing doesn't just shrivel and die.",
+              "So far a solution has eluded us. We're performing deep research in the background to figure this out.",
+              "And one day we may; meanwhile, we have to stay afloat: just slow the rot. Beat it back. Preserve."
+            ],
+            "pt-br": [
+              "A deterioração está corroendo nossos Armazéns como se fossem queijo suíço.",
+              "E, ao estudar esse queijo, esperamos aprender",
+              "a proteger as instalações que construímos ao longo dessas doze décadas, todas as setenta mil delas,",
+              "para que a coisa toda não simplesmente murche e morra.",
+              "Até agora, uma solução nos escapou. Estamos fazendo pesquisas profundas nos bastidores para descobrir isso.",
+              "Um dia talvez; enquanto isso, temos de nos manter à tona: só desacelerar a podridão. Rechaçá-la. Preservar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_decay_1_1__director.wav",
+            "subtitleCueLines": [
+              12455,
+              12459,
+              12463,
+              12468,
+              12472,
+              12477
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The decay is eating into our Warehouses as though they were Swiss cheese.",
+          "And by studying that cheese, we hope to learn",
+          "how to protect the facilities we've built across these dozen decades, all seventy thousand of them,",
+          "so that the whole thing doesn't just shrivel and die.",
+          "So far a solution has eluded us. We're performing deep research in the background to figure this out.",
+          "And one day we may; meanwhile, we have to stay afloat: just slow the rot. Beat it back. Preserve."
+        ],
+        "pt-br": [
+          "A deterioração está corroendo nossos Armazéns como se fossem queijo suíço.",
+          "E, ao estudar esse queijo, esperamos aprender",
+          "a proteger as instalações que construímos ao longo dessas doze décadas, todas as setenta mil delas,",
+          "para que a coisa toda não simplesmente murche e morra.",
+          "Até agora, uma solução nos escapou. Estamos fazendo pesquisas profundas nos bastidores para descobrir isso.",
+          "Um dia talvez; enquanto isso, temos de nos manter à tona: só desacelerar a podridão. Rechaçá-la. Preservar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

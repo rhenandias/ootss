@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "see_through",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_wizard_torus_6",
+      "clips": [
+        {
+          "id": "hp_wizard_torus_6_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 9.388292,
+          "src": "audio/clips/hp_wizard_torus_6_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Perhaps there is no limit!",
+              "I must learn to create one of these spaces, build an apparatus therein, experiment!"
+            ],
+            "pt-br": [
+              "Talvez não haja limite!",
+              "Preciso aprender a criar um desses espaços, montar um aparelho lá dentro, experimentar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_wizard_torus_6_1__wizard.wav",
+            "subtitleCueLines": [
+              8064,
+              8067
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Perhaps there is no limit!",
+          "I must learn to create one of these spaces, build an apparatus therein, experiment!"
+        ],
+        "pt-br": [
+          "Talvez não haja limite!",
+          "Preciso aprender a criar um desses espaços, montar um aparelho lá dentro, experimentar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137379,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_wizard_torus_6",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/see_through.entities"
+          }
+        ],
+        "subtitleLine": 8063,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

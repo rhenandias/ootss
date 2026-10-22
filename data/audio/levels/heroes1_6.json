@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_6",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_thief_three_crystals_end",
+      "clips": [
+        {
+          "id": "heroes1_thief_three_crystals_end_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.331667,
+          "src": "audio/clips/heroes1_thief_three_crystals_end_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Whoever you are, hold tight.",
+              "We'll pull you out of this."
+            ],
+            "pt-br": [
+              "Quem quer que seja você, segure firme.",
+              "Vamos tirar você dessa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_thief_three_crystals_end_1__thief.wav",
+            "subtitleCueLines": [
+              148,
+              151
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Whoever you are, hold tight.",
+          "We'll pull you out of this."
+        ],
+        "pt-br": [
+          "Quem quer que seja você, segure firme.",
+          "Vamos tirar você dessa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048599,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes1_thief_three_crystals_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_6.entities"
+          }
+        ],
+        "subtitleLine": 147,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

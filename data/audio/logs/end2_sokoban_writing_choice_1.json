@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "end2_sokoban_writing_choice_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end2_sokoban_writing_choice_1",
+      "clips": [
+        {
+          "id": "end2_sokoban_writing_choice_1_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 56.417208,
+          "src": "audio/clips/end2_sokoban_writing_choice_1_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "You should know that I've been watching your progress throughout the Overworld.",
+              "I apologize for what may seem an invasion of privacy. It's the way they do things here.",
+              "For me, it's been tremendously instructive, watching you grapple with these same problems that I myself faced not long ago.",
+              "I am somewhat new here. I have a direct overseer watching me, as I am watching you.",
+              "You heard her earlier, during the first Endgame. She does not want me to communicate with you directly.",
+              "Non-communication is a strict rule usually, which she broke for my sake, but we're enforcing it again. We are not supposed to pollute you, you see.",
+              "I enjoy dictating my thoughts, as may be obvious by now;",
+              "but when you enter this next Endgame, I'll be using written Signs to indicate the course of action.",
+              "Eventually we may discuss why. For now you'll have to take it as given.",
+              "Good luck."
+            ],
+            "pt-br": [
+              "Você deve saber que tenho acompanhado seu progresso por todo o Mundo Superior.",
+              "Peço desculpas pelo que pode parecer uma invasão de privacidade. É assim que fazem as coisas aqui.",
+              "Para mim, tem sido tremendamente instrutivo observar você lidar com esses mesmos problemas que eu mesmo enfrentei não faz muito tempo.",
+              "Sou relativamente novo aqui. Tenho um supervisor direto me observando, assim como eu estou observando você.",
+              "Você a ouviu antes, durante o primeiro Encerramento. Ela não quer que eu me comunique diretamente com você.",
+              "Não se comunicar costuma ser uma regra rígida, que ela quebrou por minha causa, mas voltamos a aplicá-la. Não devemos contaminar vocês, entende.",
+              "Gosto de ditar meus pensamentos, como você talvez possa perceber;",
+              "mas, quando você entrar neste próximo Encerramento, vou usar Sinais escritos para traçar seu curso de ação.",
+              "Eventualmente, talvez conversemos sobre o porquê. Por enquanto, você terá de aceitar isso como um fato.",
+              "Boa sorte."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end2_sokoban_writing_choice_1_1__sokoban.wav",
+            "subtitleCueLines": [
+              11423,
+              11428,
+              11432,
+              11437,
+              11442,
+              11446,
+              11452,
+              11457,
+              11463,
+              11467
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You should know that I've been watching your progress throughout the Overworld.",
+          "I apologize for what may seem an invasion of privacy. It's the way they do things here.",
+          "For me, it's been tremendously instructive, watching you grapple with these same problems that I myself faced not long ago.",
+          "I am somewhat new here. I have a direct overseer watching me, as I am watching you.",
+          "You heard her earlier, during the first Endgame. She does not want me to communicate with you directly.",
+          "Non-communication is a strict rule usually, which she broke for my sake, but we're enforcing it again. We are not supposed to pollute you, you see.",
+          "I enjoy dictating my thoughts, as may be obvious by now;",
+          "but when you enter this next Endgame, I'll be using written Signs to indicate the course of action.",
+          "Eventually we may discuss why. For now you'll have to take it as given.",
+          "Good luck."
+        ],
+        "pt-br": [
+          "Você deve saber que tenho acompanhado seu progresso por todo o Mundo Superior.",
+          "Peço desculpas pelo que pode parecer uma invasão de privacidade. É assim que fazem as coisas aqui.",
+          "Para mim, tem sido tremendamente instrutivo observar você lidar com esses mesmos problemas que eu mesmo enfrentei não faz muito tempo.",
+          "Sou relativamente novo aqui. Tenho um supervisor direto me observando, assim como eu estou observando você.",
+          "Você a ouviu antes, durante o primeiro Encerramento. Ela não quer que eu me comunique diretamente com você.",
+          "Não se comunicar costuma ser uma regra rígida, que ela quebrou por minha causa, mas voltamos a aplicá-la. Não devemos contaminar vocês, entende.",
+          "Gosto de ditar meus pensamentos, como você talvez possa perceber;",
+          "mas, quando você entrar neste próximo Encerramento, vou usar Sinais escritos para traçar seu curso de ação.",
+          "Eventualmente, talvez conversemos sobre o porquê. Por enquanto, você terá de aceitar isso como um fato.",
+          "Boa sorte."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

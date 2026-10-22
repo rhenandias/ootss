@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_s_tradition_of_our_people_part_2b",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_s_tradition_of_our_people_part_2b",
+      "clips": [
+        {
+          "id": "audiolog_s_tradition_of_our_people_part_2b_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 13.132667,
+          "src": "audio/clips/audiolog_s_tradition_of_our_people_part_2b_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Regarding your own recordings... normally they would be considered foreign objects",
+              "and would be automatically removed upon your exit.",
+              "But today, I'll allow it. They're nice. They help the place feel lived-in."
+            ],
+            "pt-br": [
+              "Quanto às suas próprias gravações... normalmente elas seriam consideradas objetos estranhos",
+              "e seriam removidas automaticamente quando você saísse.",
+              "Mas hoje, vou permitir. São legais. Deixam o lugar com cara de que alguém vive ali."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_s_tradition_of_our_people_part_2b_1__acting.wav",
+            "subtitleCueLines": [
+              10203,
+              10207,
+              10210
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Regarding your own recordings... normally they would be considered foreign objects",
+          "and would be automatically removed upon your exit.",
+          "But today, I'll allow it. They're nice. They help the place feel lived-in."
+        ],
+        "pt-br": [
+          "Quanto às suas próprias gravações... normalmente elas seriam consideradas objetos estranhos",
+          "e seriam removidas automaticamente quando você saísse.",
+          "Mas hoje, vou permitir. São legais. Deixam o lugar com cara de que alguém vive ali."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

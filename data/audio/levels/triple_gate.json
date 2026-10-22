@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "level": "triple_gate",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_triple_gate",
+      "clips": [
+        {
+          "id": "audiolog_di_triple_gate_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 27.603875,
+          "src": "audio/clips/audiolog_di_triple_gate_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here's Patrick's revision. The core idea is similar (teleporting a crystal out from beneath a Mirror),",
+              "but the reason why you do it is totally different;",
+              "and, here, you do it twice, which feels better",
+              "and helps to cement the idea in your mind.",
+              "Most importantly, unlike the original version, it's very obvious what route you're trying to take,",
+              "so the Player spends no time being confused about that.",
+              "He just knows that he has to get past the Gates somehow."
+            ],
+            "pt-br": [
+              "Aqui está a revisão de Patrick. A ideia central é parecida (teletransportar um Cristal para fora de baixo de um Espelho),",
+              "mas o motivo para fazer isso é totalmente diferente;",
+              "e, aqui, você faz isso duas vezes, o que fica melhor",
+              "e ajuda a fixar a ideia na sua cabeça.",
+              "Mais importante, ao contrário da versão original, fica muito óbvio qual rota você está tentando seguir,",
+              "então o Jogador não perde tempo ficando confuso com isso.",
+              "Ele só sabe que precisa passar pelos Portões de algum jeito."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_triple_gate_1__director.wav",
+            "subtitleCueLines": [
+              13357,
+              13362,
+              13366,
+              13370,
+              13374,
+              13379,
+              13383
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here's Patrick's revision. The core idea is similar (teleporting a crystal out from beneath a Mirror),",
+          "but the reason why you do it is totally different;",
+          "and, here, you do it twice, which feels better",
+          "and helps to cement the idea in your mind.",
+          "Most importantly, unlike the original version, it's very obvious what route you're trying to take,",
+          "so the Player spends no time being confused about that.",
+          "He just knows that he has to get past the Gates somehow."
+        ],
+        "pt-br": [
+          "Aqui está a revisão de Patrick. A ideia central é parecida (teletransportar um Cristal para fora de baixo de um Espelho),",
+          "mas o motivo para fazer isso é totalmente diferente;",
+          "e, aqui, você faz isso duas vezes, o que fica melhor",
+          "e ajuda a fixar a ideia na sua cabeça.",
+          "Mais importante, ao contrário da versão original, fica muito óbvio qual rota você está tentando seguir,",
+          "então o Jogador não perde tempo ficando confuso com isso.",
+          "Ele só sabe que precisa passar pelos Portões de algum jeito."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_triple_gate",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              2.0,
+              4.0
+            ],
+            "source": "data-common/triple_gate.entities"
+          }
+        ],
+        "subtitleLine": 13356,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

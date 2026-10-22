@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_gold_rooms",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_gold_rooms",
+      "clips": [
+        {
+          "id": "audiolog_g_gold_rooms_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 55.325104,
+          "src": "audio/clips/audiolog_g_gold_rooms_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Extravagant. But it has me thinking: much in this place is not what it appears.",
+              "For whoever could construct so vast a place as this --",
+              "who could reproduce these buildings, objects, natural environs in such number and variety --",
+              "surely conjuring a little gold would be of no great difficulty.",
+              "Gold, then, could scarcely be precious, yet here it's displayed as though it were.",
+              "Still, I am impressed, and maybe that's it: to dazzle the uninitiated.",
+              "I've caught glimpses of several such platforms. Perhaps there is some order to their distribution.",
+              "But this is the first I have managed to stand upon, and I have yet to engage with its central star.",
+              "So I've no idea yet of the function of these golden platforms, but it's time I found out."
+            ],
+            "pt-br": [
+              "Extravagante. Mas isso me faz pensar: muita coisa neste lugar não é o que parece.",
+              "Para quem quer que pudesse construir um lugar tão vasto quanto este...",
+              "quem pudesse reproduzir esses prédios, objetos, ambientes naturais em tanta quantidade e variedade...",
+              "certamente conjurar um pouco de ouro não seria grande dificuldade.",
+              "O ouro, então, mal poderia ser precioso, mas aqui ele é exibido como se fosse.",
+              "Ainda assim, estou impressionado, e talvez seja isso: deslumbrar os não iniciados.",
+              "Vi vislumbres de várias dessas plataformas. Talvez haja alguma ordem na distribuição delas.",
+              "Mas esta é a primeira sobre a qual consegui ficar, e ainda não interagi com sua estrela central.",
+              "Então não faço ideia da função dessas Plataformas Douradas, mas está na hora de descobrir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_gold_rooms_1__sokoban.wav",
+            "subtitleCueLines": [
+              3323,
+              3328,
+              3332,
+              3337,
+              3341,
+              3345,
+              3349,
+              3354,
+              3358
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Extravagant. But it has me thinking: much in this place is not what it appears.",
+          "For whoever could construct so vast a place as this --",
+          "who could reproduce these buildings, objects, natural environs in such number and variety --",
+          "surely conjuring a little gold would be of no great difficulty.",
+          "Gold, then, could scarcely be precious, yet here it's displayed as though it were.",
+          "Still, I am impressed, and maybe that's it: to dazzle the uninitiated.",
+          "I've caught glimpses of several such platforms. Perhaps there is some order to their distribution.",
+          "But this is the first I have managed to stand upon, and I have yet to engage with its central star.",
+          "So I've no idea yet of the function of these golden platforms, but it's time I found out."
+        ],
+        "pt-br": [
+          "Extravagante. Mas isso me faz pensar: muita coisa neste lugar não é o que parece.",
+          "Para quem quer que pudesse construir um lugar tão vasto quanto este...",
+          "quem pudesse reproduzir esses prédios, objetos, ambientes naturais em tanta quantidade e variedade...",
+          "certamente conjurar um pouco de ouro não seria grande dificuldade.",
+          "O ouro, então, mal poderia ser precioso, mas aqui ele é exibido como se fosse.",
+          "Ainda assim, estou impressionado, e talvez seja isso: deslumbrar os não iniciados.",
+          "Vi vislumbres de várias dessas plataformas. Talvez haja alguma ordem na distribuição delas.",
+          "Mas esta é a primeira sobre a qual consegui ficar, e ainda não interagi com sua estrela central.",
+          "Então não faço ideia da função dessas Plataformas Douradas, mas está na hora de descobrir."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

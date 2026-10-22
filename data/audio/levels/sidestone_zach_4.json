@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "level": "sidestone_zach_4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_transport_4",
+      "clips": [
+        {
+          "id": "mirror_transport_4_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.685458,
+          "src": "audio/clips/mirror_transport_4_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "They're not yours, so who owns the mirrors?"
+            ],
+            "pt-br": [
+              "Eles não são seus, então a quem pertencem os espelhos?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_transport_4_1__sailor.wav",
+            "subtitleCueLines": [
+              7347
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_transport_4_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 10.62,
+          "src": "audio/clips/mirror_transport_4_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "The ones back home are made by the Mirrorwrights.",
+              "But these -- the Mirrorwrights did not build the place we are now.",
+              "So the mirrors must not be theirs either."
+            ],
+            "pt-br": [
+              "Os de casa são feitos pelos Espelhistas.",
+              "Mas estes... os Espelhistas não construíram o lugar em que estamos agora.",
+              "Então os espelhos também não devem ser deles."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_transport_4_2__trader.wav",
+            "subtitleCueLines": [
+              7352,
+              7356,
+              7362
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "They're not yours, so who owns the mirrors?",
+          "The ones back home are made by the Mirrorwrights.",
+          "But these -- the Mirrorwrights did not build the place we are now.",
+          "So the mirrors must not be theirs either."
+        ],
+        "pt-br": [
+          "Eles não são seus, então a quem pertencem os espelhos?",
+          "Os de casa são feitos pelos Espelhistas.",
+          "Mas estes... os Espelhistas não construíram o lugar em que estamos agora.",
+          "Então os espelhos também não devem ser deles."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 3145730,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_transport_4",
+            "rule": "exact-reference",
+            "coordinates": [
+              24.0,
+              15.0,
+              0.0
+            ],
+            "source": "data-common/sidestone_zach_4.entities"
+          }
+        ],
+        "subtitleLine": 7346,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

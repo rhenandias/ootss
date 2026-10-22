@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_decay_4",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_decay_4",
+      "clips": [
+        {
+          "id": "audiolog_u_decay_4_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 77.409604,
+          "src": "audio/clips/audiolog_u_decay_4_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "We are reclusive these days. The Lifeboat Societies were already spare in their interactions --",
+              "this is baked into our cultures at their moments of founding.",
+              "The decay has made our Order ... even solitarier.",
+              "If we stay connected to some other party, they become part of our causal cluster for that interval;",
+              "the increased density of the enlarged cluster accelerates the decay.",
+              "It's so funny. In our physical Ensemble, look at the incredible",
+              "amount of stuff that exists without any trouble: all those galaxies you see when looking into the sky, and all the incredible space beyond.",
+              "However God built the ceiling of that cathedral is still a mystery; our Order's ceiling is lower, and lacks vaulting.",
+              "To slow the decay, we have severed connection not just with outsiders, but also internally --",
+              "for example, the creations of the Static and Dynamic Brigades are firewalled from each other.",
+              "Some went off to start a disjoint colony sending only rare and cryptic communications — a low-density restart.",
+              "I wish them well and hope someday to see what they have achieved.",
+              "Given this degree of isolation, you can understand why there was a kerfuffle",
+              "among the Preservation Crew when you just *showed up*.",
+              "But ... ... what they don't know won't hurt them."
+            ],
+            "pt-br": [
+              "Hoje em dia somos reclusos. As Sociedades Salva-Vidas já eram econômicas em suas interações...",
+              "isso está enraizado em nossas culturas desde a fundação delas.",
+              "A decadência tornou nossa Ordem... ainda mais solitária.",
+              "Se permanecermos conectados a alguma outra parte, ela se torna parte do nosso agrupamento causal por aquele intervalo;",
+              "a maior densidade do aglomerado ampliado acelera o decaimento.",
+              "É tão engraçado. Em nosso Conjunto físico, veja a quantidade incrível",
+              "quantidade de coisas que existem sem nenhum problema: todas aquelas galáxias que você vê ao olhar para o céu, e todo o incrível espaço além.",
+              "Como Deus construiu o teto daquela catedral continua um mistério; o teto da nossa Ordem é mais baixo e não tem abóbadas.",
+              "Para desacelerar a decadência, rompemos conexões não só com os de fora, mas também internamente:",
+              "por exemplo, as criações das Divisões Estáticas e Dinâmicas estão isoladas umas das outras.",
+              "Alguns foram embora para fundar uma colônia separada, enviando apenas comunicações raras e enigmáticas — um recomeço de baixa densidade.",
+              "Desejo boa sorte a eles e espero um dia ver o que fizeram.",
+              "Dado esse grau de isolamento, você entende por que houve um alvoroço",
+              "entre a Equipe de Preservação quando você simplesmente apareceu.",
+              "Mas... o que eles não sabem não vai prejudicá-los."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_decay_4_1__director.wav",
+            "subtitleCueLines": [
+              12590,
+              12595,
+              12600,
+              12604,
+              12609,
+              12613,
+              12619,
+              12625,
+              12630,
+              12634,
+              12639,
+              12644,
+              12648,
+              12653,
+              12657
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We are reclusive these days. The Lifeboat Societies were already spare in their interactions --",
+          "this is baked into our cultures at their moments of founding.",
+          "The decay has made our Order ... even solitarier.",
+          "If we stay connected to some other party, they become part of our causal cluster for that interval;",
+          "the increased density of the enlarged cluster accelerates the decay.",
+          "It's so funny. In our physical Ensemble, look at the incredible",
+          "amount of stuff that exists without any trouble: all those galaxies you see when looking into the sky, and all the incredible space beyond.",
+          "However God built the ceiling of that cathedral is still a mystery; our Order's ceiling is lower, and lacks vaulting.",
+          "To slow the decay, we have severed connection not just with outsiders, but also internally --",
+          "for example, the creations of the Static and Dynamic Brigades are firewalled from each other.",
+          "Some went off to start a disjoint colony sending only rare and cryptic communications — a low-density restart.",
+          "I wish them well and hope someday to see what they have achieved.",
+          "Given this degree of isolation, you can understand why there was a kerfuffle",
+          "among the Preservation Crew when you just *showed up*.",
+          "But ... ... what they don't know won't hurt them."
+        ],
+        "pt-br": [
+          "Hoje em dia somos reclusos. As Sociedades Salva-Vidas já eram econômicas em suas interações...",
+          "isso está enraizado em nossas culturas desde a fundação delas.",
+          "A decadência tornou nossa Ordem... ainda mais solitária.",
+          "Se permanecermos conectados a alguma outra parte, ela se torna parte do nosso agrupamento causal por aquele intervalo;",
+          "a maior densidade do aglomerado ampliado acelera o decaimento.",
+          "É tão engraçado. Em nosso Conjunto físico, veja a quantidade incrível",
+          "quantidade de coisas que existem sem nenhum problema: todas aquelas galáxias que você vê ao olhar para o céu, e todo o incrível espaço além.",
+          "Como Deus construiu o teto daquela catedral continua um mistério; o teto da nossa Ordem é mais baixo e não tem abóbadas.",
+          "Para desacelerar a decadência, rompemos conexões não só com os de fora, mas também internamente:",
+          "por exemplo, as criações das Divisões Estáticas e Dinâmicas estão isoladas umas das outras.",
+          "Alguns foram embora para fundar uma colônia separada, enviando apenas comunicações raras e enigmáticas — um recomeço de baixa densidade.",
+          "Desejo boa sorte a eles e espero um dia ver o que fizeram.",
+          "Dado esse grau de isolamento, você entende por que houve um alvoroço",
+          "entre a Equipe de Preservação quando você simplesmente apareceu.",
+          "Mas... o que eles não sabem não vai prejudicá-los."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_lifeboat_societies_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_lifeboat_societies_2",
+      "clips": [
+        {
+          "id": "audiolog_sky_lifeboat_societies_2_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.752687,
+          "src": "audio/clips/audiolog_sky_lifeboat_societies_2_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "So, what made you different from the other rich children?"
+            ],
+            "pt-br": [
+              "Então, o que fez você diferente das outras crianças ricas?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_lifeboat_societies_2_1__sokoban.wav",
+            "subtitleCueLines": [
+              9076
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_lifeboat_societies_2_2__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 73.786187,
+          "src": "audio/clips/audiolog_sky_lifeboat_societies_2_2__acting.mp3",
+          "transcripts": {
+            "en": [
+              "As I said, I thank God. Beliefs can keep you anchored. They have survival value.",
+              "They prevent the world becoming meaningless in your mind.",
+              "And when founding an organization that keeps a population afloat with its laws and mores,",
+              "beliefs provide enough structure to hold your vessel together, that it be not broken by the waves.",
+              "For Man in the state of primitive Nature, life is an onslaught of constraints and limitations.",
+              "You can barely survive, so long as you do this, then that, and that.",
+              "Perilous as this existence may be for any individual man,",
+              "the constraints form a container that protects humanity as a whole.",
+              "But in response to all the peril, we developed technology.",
+              "In mastering Nature, we removed the constraints. No more container. A turtle without its shell.",
+              "So you need to replace the shell. You need a boat with enough of a hull to stay above the water.",
+              "Only then can you think about sailing it somewhere.",
+              "Various new societies had different ideas how to accomplish this. Our Order is one such."
+            ],
+            "pt-br": [
+              "Como eu disse, agradeço a Deus. Crenças podem manter você ancorado. Elas têm valor de sobrevivência.",
+              "Elas impedem que o mundo se torne sem sentido na sua mente.",
+              "E ao fundar uma organização que sustenta uma população com suas leis e costumes,",
+              "as crenças fornecem estrutura suficiente para manter seu casco unido, para que ele não seja quebrado pelas ondas.",
+              "Para o Homem em seu estado natural primitivo, a vida é um ataque de restrições e limitações.",
+              "Você mal consegue sobreviver, contanto que faça isto, depois aquilo, e aquilo.",
+              "Por mais perigosa que essa existência seja para qualquer Homem individual,",
+              "as restrições formam um recipiente que protege a humanidade como um todo.",
+              "Mas em resposta a todos os perigos, desenvolvemos tecnologia.",
+              "Tendo dominado a Natureza, removemos as restrições. Sem mais recipiente. Uma tartaruga sem o casco.",
+              "Então você precisa substituir o casco. Você precisa de um barco com casco suficiente para ficar acima da água.",
+              "Só aí você pode pensar em navegar para algum lugar.",
+              "Várias sociedades novas tinham ideias diferentes de como fazer isso. Nossa Ordem é uma delas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_lifeboat_societies_2_2__acting.wav",
+            "subtitleCueLines": [
+              9080,
+              9086,
+              9090,
+              9095,
+              9100,
+              9105,
+              9109,
+              9113,
+              9117,
+              9121,
+              9125,
+              9130,
+              9133
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, what made you different from the other rich children?",
+          "As I said, I thank God. Beliefs can keep you anchored. They have survival value.",
+          "They prevent the world becoming meaningless in your mind.",
+          "And when founding an organization that keeps a population afloat with its laws and mores,",
+          "beliefs provide enough structure to hold your vessel together, that it be not broken by the waves.",
+          "For Man in the state of primitive Nature, life is an onslaught of constraints and limitations.",
+          "You can barely survive, so long as you do this, then that, and that.",
+          "Perilous as this existence may be for any individual man,",
+          "the constraints form a container that protects humanity as a whole.",
+          "But in response to all the peril, we developed technology.",
+          "In mastering Nature, we removed the constraints. No more container. A turtle without its shell.",
+          "So you need to replace the shell. You need a boat with enough of a hull to stay above the water.",
+          "Only then can you think about sailing it somewhere.",
+          "Various new societies had different ideas how to accomplish this. Our Order is one such."
+        ],
+        "pt-br": [
+          "Então, o que fez você diferente das outras crianças ricas?",
+          "Como eu disse, agradeço a Deus. Crenças podem manter você ancorado. Elas têm valor de sobrevivência.",
+          "Elas impedem que o mundo se torne sem sentido na sua mente.",
+          "E ao fundar uma organização que sustenta uma população com suas leis e costumes,",
+          "as crenças fornecem estrutura suficiente para manter seu casco unido, para que ele não seja quebrado pelas ondas.",
+          "Para o Homem em seu estado natural primitivo, a vida é um ataque de restrições e limitações.",
+          "Você mal consegue sobreviver, contanto que faça isto, depois aquilo, e aquilo.",
+          "Por mais perigosa que essa existência seja para qualquer Homem individual,",
+          "as restrições formam um recipiente que protege a humanidade como um todo.",
+          "Mas em resposta a todos os perigos, desenvolvemos tecnologia.",
+          "Tendo dominado a Natureza, removemos as restrições. Sem mais recipiente. Uma tartaruga sem o casco.",
+          "Então você precisa substituir o casco. Você precisa de um barco com casco suficiente para ficar acima da água.",
+          "Só aí você pode pensar em navegar para algum lugar.",
+          "Várias sociedades novas tinham ideias diferentes de como fazer isso. Nossa Ordem é uma delas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

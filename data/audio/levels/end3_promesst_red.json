@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "end3_promesst_red",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_queen_promesst_red",
+      "clips": [
+        {
+          "id": "end3_queen_promesst_red_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 4.910188,
+          "src": "audio/clips/end3_queen_promesst_red_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "I cannot account for it... but I have the strange sense that I've been here before."
+            ],
+            "pt-br": [
+              "Não consigo explicar... mas tenho a estranha sensação de que já estive aqui antes."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_queen_promesst_red_1__queen.wav",
+            "subtitleCueLines": [
+              11814
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I cannot account for it... but I have the strange sense that I've been here before."
+        ],
+        "pt-br": [
+          "Não consigo explicar... mas tenho a estranha sensação de que já estive aqui antes."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115345612,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "end3_queen_promesst_red",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.91845703125,
+              12.471429824829102,
+              -0.10000038146972656
+            ],
+            "source": "data-common/end3_promesst_red.entities"
+          }
+        ],
+        "subtitleLine": 11813,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

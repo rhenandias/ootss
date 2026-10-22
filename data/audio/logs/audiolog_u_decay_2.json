@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_decay_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_decay_2",
+      "clips": [
+        {
+          "id": "audiolog_u_decay_2_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 44.239125,
+          "src": "audio/clips/audiolog_u_decay_2_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "My primary task: discover what we don't yet understand",
+              "about the laws of the Ultimate Ensemble, and the related holography.",
+              "The audacity of the goal is invigorating to many.",
+              "It's our new tetratetrad, but better, because it involves the potential for discovery of new fundamental laws.",
+              "My team has made some strides -- small strides, but they represent",
+              "the first addition to that area of Natural Philosophy in 200 years.",
+              "We may learn to cleanse the decay. We may learn to build space made of stronger stuff.",
+              "In the meantime, we need to isolate and fortify the areas proximal to the rot, *this* Warehouse being one of the worst."
+            ],
+            "pt-br": [
+              "Minha tarefa principal: descobrir o que ainda não entendemos",
+              "sobre as leis do Conjunto Supremo, e a holografia relacionada.",
+              "A audácia do objetivo é revigorante para muitos.",
+              "É nossa nova Tetratétrade, mas melhor, porque envolve o potencial de descoberta de novas leis fundamentais.",
+              "Minha equipe avançou um pouco; pequenos avanços, mas que representam",
+              "a primeira contribuição àquela área da Filosofia Natural em 200 anos.",
+              "Talvez aprendamos a limpar a deterioração. Talvez aprendamos a construir espaço mais resistente.",
+              "Enquanto isso, precisamos isolar e fortificar as áreas próximas à podridão, sendo este Armazém um dos piores."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_decay_2_1__director.wav",
+            "subtitleCueLines": [
+              12485,
+              12489,
+              12493,
+              12497,
+              12502,
+              12506,
+              12511,
+              12515
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "My primary task: discover what we don't yet understand",
+          "about the laws of the Ultimate Ensemble, and the related holography.",
+          "The audacity of the goal is invigorating to many.",
+          "It's our new tetratetrad, but better, because it involves the potential for discovery of new fundamental laws.",
+          "My team has made some strides -- small strides, but they represent",
+          "the first addition to that area of Natural Philosophy in 200 years.",
+          "We may learn to cleanse the decay. We may learn to build space made of stronger stuff.",
+          "In the meantime, we need to isolate and fortify the areas proximal to the rot, *this* Warehouse being one of the worst."
+        ],
+        "pt-br": [
+          "Minha tarefa principal: descobrir o que ainda não entendemos",
+          "sobre as leis do Conjunto Supremo, e a holografia relacionada.",
+          "A audácia do objetivo é revigorante para muitos.",
+          "É nossa nova Tetratétrade, mas melhor, porque envolve o potencial de descoberta de novas leis fundamentais.",
+          "Minha equipe avançou um pouco; pequenos avanços, mas que representam",
+          "a primeira contribuição àquela área da Filosofia Natural em 200 anos.",
+          "Talvez aprendamos a limpar a deterioração. Talvez aprendamos a construir espaço mais resistente.",
+          "Enquanto isso, precisamos isolar e fortificar as áreas próximas à podridão, sendo este Armazém um dos piores."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

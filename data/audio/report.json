@@ -1,0 +1,7969 @@
+{
+  "schemaVersion": 1,
+  "summary": {
+    "mapLevels": 920,
+    "mapLevelsWithAudio": 219,
+    "levelsWithAudio": 235,
+    "worldAudioLogs": 71,
+    "worldMarkers": 69,
+    "worldTriggerMarkers": 11,
+    "movementTriggerMarkers": 9,
+    "unplacedAudioBlocks": 53,
+    "subtitleBlocks": 587,
+    "referencedBlocks": 567,
+    "unreferencedBlocks": 20,
+    "uniqueRecordings": 1412,
+    "silentCues": 8,
+    "missingRecordings": 1,
+    "referencesWithoutSubtitles": 15,
+    "decodeIssues": 0
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "sources": {
+    "packageSha256": "408aba3676925faea0c823f8c231e30844feffe9c32ae42644d273ef31863589",
+    "schemaSourceSha256": "0ae10a513dae25286fe93d0db4fa8a2df9a473bc07e1734e12bc1ad30166db1c"
+  },
+  "ordering": "Clips follow English subtitle cues; blocks follow subtitle file order. Conditional variants are listed, not simulated.",
+  "levels": {
+    "3d_intro_heroes": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "3d_intro_mirrors": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "3d_intro_mirrors"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "3d_intro_promesst_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "3d_intro_skipping": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "3d_intro_vanilla": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "3d_intro_heights",
+        "3d_intro_heights_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "3wc_into_forest_v7": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "3wcn_purple_goblin": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "3wcn_purple_mirror_skip": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "3wcn_shm_dragon_lily": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "3wcn_stonehenge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "4wc_dragon_cyan_s_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "4wcn_all_fast": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "a_wiz_out_of_water": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "accidentally_unlock_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "across_the_fence_old": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_across_the_fence_old"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "across_the_fence_vtrader_m_p": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_across_the_fence_vtrader_m_p"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "adjust_explorer_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "after_wings": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "aggro_maze": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "aggro_which0": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "air_skating_v6": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "airmail": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "ms_alone"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "all_out_goblin_war": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "vm_thief_priestess_5"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "all_together_now": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "all_together_now_reassembly_1",
+        "all_together_now_reassembly_2"
+      ],
+      "clips": 11,
+      "status": "audio"
+    },
+    "allocate_heroes_end3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_heroes_first"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "allocate_heroes_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_heroes_first"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "already_dropped_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "annoying_orange_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "another_stone_stopper": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "arcadia_surprise_big": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "arcadia_surprise_big2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "arcadiav2_big": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "archways_2_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "archways_4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "army_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "assassins_creed": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "automatic_door_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "baby_steps_line": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bad_aim_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_metamirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_movable_island": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_movable_island2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_must_stack4_fix": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_range3_with_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_range4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_range5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_range6": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_stack_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bard_triangle": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "base_jump": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "battle_royale_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "be_aggro_alt_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "beam_jail_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "beam_me_up_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "beam_rooms": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "beam_shatter": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "beam_shatter_start",
+        "beam_shatter_wish"
+      ],
+      "clips": 10,
+      "status": "audio"
+    },
+    "beam_sisters": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "before_wings": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "best_beam_colors": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_suit"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "binary_maze": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_torus_3"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "bitstring_small": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "blind_spot_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "blocking_issue": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "blue_revolution_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "boat_priest_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bon_voyage": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "boot_cycle_warrior": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "both_ways": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bothersome_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bottleneck": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bottom_adjust": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bottom_bridge_tall": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bottom_bridge_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "boxes_vs_crystals": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "break_send_lily_c": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "break_through_focused": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "breaking_bread": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "breath_skip": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_warrior_sailor_1"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "bridgey": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "vm_thief_priestess_1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "bridgey2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "vm_thief_priestess_2",
+        "vm_thief_priestess_2_mid"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "bridgey2b": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "vm_thief_priestess_3",
+        "vm_thief_priestess_3_mid"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "bridgey3_abstract_art": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "vm_thief_priestess_4",
+        "vm_thief_priestess_4_mid"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "buff_explorer": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bug_spray": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "sp_bard_takes_wand"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "busy_beaver": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "button_and_beam_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "button_clone_journey": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "button_playground": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_bard_market_square"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "button_shut_in": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "bypass_gates": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cancel_out": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "carry_lily": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "carry_simplified": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "3d_intro_carry",
+        "3d_intro_carry_actual_a",
+        "3d_intro_carry_actual_b",
+        "3d_intro_carry_end"
+      ],
+      "clips": 13,
+      "status": "audio"
+    },
+    "catch_and_drop": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "catch_and_throw": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "catching_fire_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "catching_up_v0": {
+      "onMap": false,
+      "references": 2,
+      "blocks": [
+        "audiolog_di_catching_up_v0",
+        "audiolog_di_catching_up_v0_part_2"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "catching_up_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_catching_up_v2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "chain_gang": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "chain_gang3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "chain_reaction": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "chart_a_course": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "chasm_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cleric_fly_intro3_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cleric_isles": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cliff_duo": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cliff_hopping": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "like_an_isle_2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "clone_adjust": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "clone_adjust_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "clone_adjust_two_rocks": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "clone_goblin": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "clone_maze": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "close_circuit": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "close_to_button": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "coax_a_lot": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "color_picker": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "come_closer": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "compactor_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_four_with_button_quad"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "connect_the_dots_v5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "thief_promesst_crystals"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "corner_loop": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "corner_trick_easier": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "crystal_bridges": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hw_second"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "crystal_island": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "crystal_logistics": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "crystal_rover_bridge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "crystal_rover_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "crystal_rover_rush": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "crystals_not_stones": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_crystals_not_stones"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "cyan_bridge_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cyan_counter_med3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cyan_overlap_intro_longer": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "cyan_torc_maze_vs": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "defender": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "delay_time_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "depositor_bard": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "depositor_thief": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "design_corner": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "design_fts": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "detachment": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "detonator": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hw_warrior_thief_dragons"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "diag_slide": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dipping_your_toes_in": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hw_first"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "ditching_cargo": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "do_not_want": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dont_push_the_button": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hw_warrior_going"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "doorstop": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "doorstop_reprise_easier": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_break": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_door": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_sided_skip": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_sideways": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_team": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_tempo": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "hp_bard_town",
+        "hp_bard_town_mid",
+        "hp_bard_town_mid2",
+        "hp_bard_town_end"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "double_the_fun": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_trouble": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "double_up": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dragon_bridge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dragon_compass": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dragon_drag": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dragon_garden": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dragon_on_the_wall": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dragons_layer": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "obf_many_drop",
+        "obf_many_drop_mid"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "dragonsweeper": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "drawbridge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "drop_off": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "drop_operation_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "drop_sokoban": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "drop_tool": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "drowner": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hw_warrior_goblins"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "druid_3d_beam": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "druid_and_dragon": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_warrior_and_druid_2",
+        "heroes3_warrior_and_druid_2_end"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "druid_metamirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "druid_multismash_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "druid_stone_p": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "druid_vertical_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "druids_stone_0_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_sailor_druid_1"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "druids_stone_2_v4": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "hs_sailor_druid_3",
+        "hs_sailor_druid_3_end"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "druids_stone_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_sailor_druid_2"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "dual_screen": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "duality_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "duality_condensed": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "dunk_tank_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "easy_reset_small": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "easy_situation_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "elevator_cyan": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "elevator_mechanic": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "elope": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "emergency_brake": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "en_root_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end1": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end1_dimension_0"
+      ],
+      "clips": 21,
+      "status": "audio"
+    },
+    "end2_clone_divergence": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end2_clone_divergence_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end2_heroes_1_2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "warrior_heroes1_call"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "end2_heroes_1_5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes1_5"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "end2_mirror1": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end2_mirror_3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_watcher_first"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "end2_mirror_4_islands_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end2_monster_connect": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end2_prism_hp": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end2_river_place": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_denoise_pool": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_heroes_1": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_thief_taunted"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "end3_mirror_1_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_mirror_2_alt2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_mirror_isles_second"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "end3_off_topic_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_off_topic_heroes": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_off_topic_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_pipeline_aesthetics": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_pipeline_cleanup": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_pipeline_cut": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_pipeline_design": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_pipeline_reorder": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_pipeline_setup": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_promesst_red": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_queen_promesst_red"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "end3_redundant_beams": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_reorder_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_reorder_skipping_fix": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "end3_skipping_1": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_skipping_1"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "end3_skipping_red": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "end3_boats"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "endpoint1_skipping": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "endpoint_gates": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "endpoint_holder3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "endpoint_holder4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "endpoint_maze": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "endpoint_object": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "endpoint_team": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "endpoint_weapon": {
+      "onMap": true,
+      "references": 7,
+      "blocks": [
+        "hp_endpoint_weapon",
+        "hp_endpoint_weapon_mid1",
+        "hp_endpoint_weapon_mid2",
+        "hp_endpoint_weapon_mid3",
+        "hp_endpoint_weapon_mid4",
+        "hp_endpoint_weapon_mid5",
+        "hp_endpoint_weapon_end"
+      ],
+      "clips": 18,
+      "status": "audio"
+    },
+    "endpoint_wrap_druid_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "env_corral": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "environment_art_background": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "environment_art_grid": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "environment_art_objects": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "erosion_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "escape_bridge": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "vm_thief_priestess_6"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "fail_to_mirror_sequence_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fall_reset_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "falling_blocker_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "falling_button": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "falling_down": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "falloff_4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "falloff_dragons": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "falloff_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "falloff_kill_goblins_v6": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "far_cl_no_walls_pit": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "far_river": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "far_wings": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "faster_than_stone": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fire_and_flip": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fire_from_above_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fire_stairs_part_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fire_stairs_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "first_diversions": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "first_flight": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fix_exploit": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fix_exploit_promesst_overworld": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "flame_wand": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "sp_warrior_takes_wand"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "flamestrike_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "flamethrower": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "flip_flop_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "floating_gardens": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "floating_orange_purple": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "floor_plan_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "floorhands_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fly_and_flip": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "forbidden_room": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "four_horsemen": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "frame_advance_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "frantic_factory_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "free_ride": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "friendly_nudges": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "sp_friendly_nudges"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "from_the_depths": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "front_side_bus2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "front_side_bus3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "frontier": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fun_house": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "fuse": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gate_shatter": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gated_twice_thief_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "beautiful_view_thief"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "gated_twice_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "beautiful_view_warrior"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "gatekeeping_v3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_bard_wizard_druid_pondering"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "gem_beam_placement": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gem_clg_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gem_pushers": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gem_slot_on_lily": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gem_transport": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "sp_gem_transport",
+        "sp_gem_transport_end"
+      ],
+      "clips": 8,
+      "status": "audio"
+    },
+    "gem_transport_2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "sp_gem_transport_2",
+        "sp_gem_transport_2_end"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "gem_trap": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gem_trap2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "get_through_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "get_through_depths": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "glass_beach": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "goblin_below_intro_same_z": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "goblin_express": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "goblin_hat_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "goblin_parity": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "goblin_parity_3d": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "goblin_two_rovers_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "going_up_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "green_crystal_rover": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "green_goblins": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "green_hat": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "green_metamirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "green_revolution": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "green_torq_mirror_vs4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "greenhouse": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "grid_hopping0": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "gully_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "half_journey_vh": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "half_tutorial": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hanoi_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hat_chain_vp": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hat_maker": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hat_tricks_0_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "height_chooser": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_height_chooser"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "height_chooser_v0": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_height_chooser_v0"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "help_drop": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "heroes1_1": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "warrior_heroes1_start_end",
+        "heroes_mouse"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "heroes1_10_inv_v4_b": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes1_wizard_array_end"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_11_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes1_warrior_wizard"
+      ],
+      "clips": 9,
+      "status": "audio"
+    },
+    "heroes1_12_v2_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes1_wizard_thief"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "heroes1_13_v2": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "heroes1_warrior_thief",
+        "heroes1_warrior_thief_mid0",
+        "heroes1_warrior_thief_mid",
+        "heroes1_warrior_thief_end"
+      ],
+      "clips": 19,
+      "status": "audio"
+    },
+    "heroes1_15": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes1_warrior_wizard_confused",
+        "heroes1_warrior_wizard_confused_mid"
+      ],
+      "clips": 10,
+      "status": "audio"
+    },
+    "heroes1_16_v3": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes_three_for_the_first_time_optional",
+        "heroes_three_for_the_first_time_optional_end"
+      ],
+      "clips": 9,
+      "status": "audio"
+    },
+    "heroes1_17": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes_three_for_the_first_time_mandatory",
+        "heroes_three_for_the_first_time_mandatory_end"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "heroes1_18": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes_three_for_the_second_time_mandatory",
+        "heroes_three_for_the_second_time_mandatory_end"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "heroes1_19_jail": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes_jail"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "heroes1_21_v3": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "heroes_jail2",
+        "heroes_jail2_mid",
+        "heroes_jail2_mid2",
+        "heroes_jail2_end"
+      ],
+      "clips": 23,
+      "status": "audio"
+    },
+    "heroes1_2_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "warrior_heroes1_call"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes_warrior_gate"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_4": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes_warrior_mistrust",
+        "heroes_warrior_where_is_tif"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "heroes1_4.5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "thief_first"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_5_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes1_5"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_6": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes1_thief_three_crystals_end"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_7": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_heroes_1_7"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_7.5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes1_wizard_1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes1_7_v2": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "heroes_tif_so_much_space",
+        "heroes_tif_lone_crystal",
+        "heroes_tif_return",
+        "audiolog_di_heroes_1_7_v2"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "heroes1_8_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes1_wizard_2",
+        "heroes1_wizard_2_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes1_9": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes1_wizard_three_crystals",
+        "heroes1_wizard_three_crystals_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_10": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_postmeetup_thief"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes2_10.5": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_wizard_per_turn_goblins",
+        "heroes2_wizard_per_turn_goblins_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_10a": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_warrior_monster_gate_2_optional_end"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes2_10a_intro": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_warrior_monster_gate_first",
+        "heroes2_warrior_monster_gate_first_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_11_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_warrior_goblins_vs_dragon",
+        "heroes2_warrior_goblins_vs_dragon_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_11_v2_easier": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_postmeetup_warrior"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes2_12_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_postmeetup_wizard",
+        "heroes2_postmeetup_wizard_mid"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_13": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "heroes2_14": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_wizard_priestess_first",
+        "heroes2_wizard_priestess_first_end"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "heroes2_15": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_warrior_priestess_first",
+        "heroes2_warrior_priestess_first_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_16v4": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_thief_priestess_second",
+        "heroes2_thief_priestess_crawler"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_17": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_wizard_and_priestess_alone_third",
+        "heroes2_wizard_and_priestess_alone_third_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_17_intro": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_wizard_and_priestess_alone_second"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes2_18": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "heroes2_thief_priestess_second_mid_warrior",
+        "heroes2_thief_priestess_second_mid_disgraced",
+        "heroes2_thief_priestess_second_mid_wizard",
+        "heroes2_thief_priestess_second_end"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "heroes2_2": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "heroes2_warrior_goblins_2",
+        "heroes2_warrior_goblins_2_mid",
+        "heroes2_warrior_goblins_2_mid_2",
+        "heroes2_warrior_goblins_2_end"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "heroes2_20": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_wizard_thief_priestess_goblins"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "heroes2_21b": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_thief_wizard_priestess_compartments",
+        "heroes2_thief_wizard_priestess_compartments_mid"
+      ],
+      "clips": 10,
+      "status": "audio"
+    },
+    "heroes2_22_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_four"
+      ],
+      "clips": 8,
+      "status": "audio"
+    },
+    "heroes2_2b": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_warrior_goblins_1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes2_3_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_wizard_goblins",
+        "heroes2_wizard_goblins_mid"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_3monster": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_warrior_3monster",
+        "heroes2_warrior_3monster_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_5.5v5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_thief_dragons_second"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes2_5_altE": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_warrior_dragon_intro",
+        "heroes2_warrior_dragon_intro_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_5_no_crystal": {
+      "onMap": true,
+      "references": 6,
+      "blocks": [
+        "heroes2_thief_dragons_intro",
+        "heroes2_thief_dragons_intro_2",
+        "heroes2_thief_dragons_intro_3",
+        "heroes2_thief_dragons_intro_4",
+        "heroes2_thief_dragons_intro_5",
+        "heroes2_thief_dragons_intro_6"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "heroes2_6_v3": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_thief_dragons_third",
+        "heroes2_thief_dragons_third_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_9": {
+      "onMap": true,
+      "references": 3,
+      "blocks": [
+        "heroes2_three_first",
+        "heroes2_three_first_mid",
+        "heroes2_three_first_end"
+      ],
+      "clips": 13,
+      "status": "audio"
+    },
+    "heroes2_reprise": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_warrior_priestess_second",
+        "heroes2_warrior_priestess_second_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes2_thief_goblin": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_thief_goblins",
+        "heroes2_thief_goblins_mid"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "heroes3_10": {
+      "onMap": true,
+      "references": 3,
+      "blocks": [
+        "heroes3_druid_thief_first",
+        "heroes3_druid_thief_crystal",
+        "heroes3_druid_thief_first_end"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "heroes3_11_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_warrior_and_druid_1"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "heroes3_13_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_druid_and_priestess_1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes3_14_v3": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_bard_and_druid_first",
+        "heroes3_bard_and_druid_first_end"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "heroes3_15_v4": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_wizard_and_druid_2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes3_16_v4_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_bard_and_druid_second"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes3_1_v3": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_bard_first",
+        "heroes3_bard_first_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes3_21_condensed": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_six"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "heroes3_2_v4": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_bard_second",
+        "heroes3_bard_second_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "heroes3_3_v2": {
+      "onMap": true,
+      "references": 3,
+      "blocks": [
+        "heroes3_bard_crystals_first",
+        "heroes3_bard_crystals_first_mid",
+        "heroes3_bard_crystals_first_end"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "heroes3_4": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_bard_two_goblins"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes3_5": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_bard_warrior_first",
+        "heroes3_bard_warrior_first_end"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "heroes3_6_v3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_bard_warrior_thief"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "heroes3_7_v4": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_bard_and_wizard",
+        "heroes3_bard_and_wizard_2"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "heroes3_8_thief": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_bard_thief_first",
+        "heroes3_bard_thief_mid"
+      ],
+      "clips": 8,
+      "status": "audio"
+    },
+    "heroes3_8_v3_alt3": {
+      "onMap": true,
+      "references": 3,
+      "blocks": [
+        "heroes3_bard_and_priestess",
+        "heroes3_bard_and_priestess_mid",
+        "heroes3_bard_and_priestess_end"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "heroes3_8_v4_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_bard_dragon_maze"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "heroes3_druid_a": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_four_with_dragon"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "heroes3_druid_b_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_druid_and_priestess_2"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "high_endpoint_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "high_horse": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "high_shelf_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "highway": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "holes": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hot_swap": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hover_corner_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hover_corner_4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "how_to_train_your_dragon": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hustle_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hyper_jump": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "hyper_jump_2c": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "i_beam_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ice_climbers": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "immobilize": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "implausible_bridge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "implausible_bridge_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "in_a_flash_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "in_a_flash_alt_back": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "in_the_way_alt_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "indirect_skip": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_warrior_sailor_2"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "indirect_skip_2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_warrior_sailor_3"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "indirect_skip_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "infinite_crystal_hack_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "infinite_looping_skipper0_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "infinite_looping_skipper_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "infinite_looping_skipper_far": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "infinite_looping_skipper_mirrored_ikaruga_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ingame_glyphs": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ingame_particles": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "into_the_water_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "intro": {
+      "onMap": false,
+      "references": 16,
+      "blocks": [
+        "intro_1",
+        "intro_before_teleporter",
+        "intro_queen_am_i_dead",
+        "intro_queen_callout_alt",
+        "intro_queen_foreign_script",
+        "intro_queen_sign",
+        "intro_queen_hosts_1",
+        "intro_queen_hosts_2",
+        "intro_queen_hosts_3",
+        "intro_queen_teleporter",
+        "audiolog_sky_10000_things",
+        "audiolog_sky_laws_of_form",
+        "audiolog_u_computation",
+        "paradise_lost_invocation_credits",
+        "paradise_lost_invocation_2",
+        "actor_credits"
+      ],
+      "clips": 27,
+      "status": "audio"
+    },
+    "invisible_hand": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "iodine_clock_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "island_friends": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_island_friends_1"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "island_hopping": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "its_a_tall_order": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "jenga_assorted": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "jenga_dispenser": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "jenga_easier": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "jenga_shortstack_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "juggalos": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "juggle": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "jump_the_fence_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "jump_to_pillar_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "kick": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "killer_wizard": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "landmines_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "laser_pointer": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "laser_stop_surprise": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "launch_and_collect": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "layered_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lazy_susan_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "learn_to_catch_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "learning_double": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_wizard_torus_2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "lemonade": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lemonade_tng_stages_towers_no_float": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lily_falls_intro_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lily_pull": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lily_pull_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lily_switch_p": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lily_two_cyan": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lily_wearing_intro": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_lily_wearing_intro"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "lilyruga_simpler": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "limited_offsets": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "limited_offsets_surprise_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "little_faith_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "loading_docks_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "lock_picky": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "long_platform_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "moment_alone_2",
+        "moment_alone_2_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "magic_rover": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "magic_shield": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_wizard_torus_4"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "magic_square": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_wizard_torus_3"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "magic_tower": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "magicians_assistant_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "magnitudes_v3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "magnitudes_intro"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "make_a_right": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "make_a_right_simpler": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "make_it_happen_v6": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "make_oneway": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "make_shoreline": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "make_sokoban": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "make_thief_goblin_maze_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "many_falls": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "matching_purple": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "hp_bard_purple",
+        "hp_bard_purple_crystal"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "mega_clone_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mega_merge_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_heroes_light_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_heroes_mirrors_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_heroes_stones_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_heroes_water_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_mirrors_stones_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_prom_skip_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_reflected_beams_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_demo_startup": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_heroes_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_intro_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_mirror_isles_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_promesst_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_skipping_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_skipping_b": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_double_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_goblin_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_heroes_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_mirror_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_prommest_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_skipping_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_beam_computation_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_crossroads_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_endless_skipping_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_endpoint_falling_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_gems_obstacles_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_lily_beam_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_mirror_obstacle_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_mirror_stone_reversion_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_mirrors_artifacts_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_mirrors_rivers_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_monsters_through_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_skipping_misc_beams_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_under_tricky_mirrors_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "meta_orange_purple": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "meta_orange_purple_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "metamirror_block_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "metamirror_c_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "metamirror_different_dir_2_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "metamirror_different_dir_3_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "metamirror_different_dir_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "metamirror_same_dir_2_alt_2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mm_course"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "metamirror_same_dir_3_alt_2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mm_merit"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "metamirror_same_dir_5_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mm_how"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "metamirror_same_dir_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mm_why"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "middle_smash": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mini_green_maze": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_wizard_torus_5"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_1": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_new_1_start"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_10_alt2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_double_mirrors"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_10_b_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_10_d": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_before_hm_3"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_11": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "clones_first_confusion"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "mirror_12": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "clones_triple_confusion"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "mirror_13": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "clones_working",
+        "clones_working_end"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "mirror_14": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "clones_merge"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "mirror_15": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_1"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "mirror_17": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_3"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_18": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_6"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_180": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_19": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "mirror_2",
+        "clones_early"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "mirror_20": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_21": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "mirror_deal_1",
+        "mirror_deal_1_end"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "mirror_22_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "mirror_deal_2",
+        "mirror_deal_2_end"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "mirror_3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_watcher_first"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "mirror_4": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_oracle_1"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "mirror_5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_oracle_2"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "mirror_6_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_oracle_3"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "mirror_7": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "mirror_oracle_4",
+        "mirror_oracle_4b"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "mirror_8_v5": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "mirror_pre_clones",
+        "mirror_pre_clones_end"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "mirror_carry_duo": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_clocks": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_crystal_rover": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_dweller": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_factory_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_flip_donut": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_hallway_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_motion": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_non_turner_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_pals": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_pals"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "mirror_prelude_v2_fix": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_promesst": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_rover_orange_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_sink": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_4"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mirror_stone_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_the_unmirrorable_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mirror_u": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "missile_command": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mission_impossible": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mobile_cover_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "monkey_in_the_midpoint": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "monster_drop": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "obf_monster_drop"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "monster_gate_in_water": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "monster_mover": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "monster_promesst_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "monster_spawn": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "monster_stack": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mosh_pit_small": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes2_wizard_and_priestess_alone_first"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "mountain_music": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "movable_button": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "movable_buttons": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "moving_a_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "moving_bridge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "moving_three_mirrors": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "moving_through_mirrors_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "multipurpose": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "multipush_for_me2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "mundane_mirror": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_stranger_before_hm_1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "musical_staircase_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "my_first_stack": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "narrow_passage": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "negative_space": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "new_cleric_fly": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "new_new_new_slam": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "new_way_mirror_later": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "no_charm": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "no_murder_weapon_0": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "no_murder_weapon_wizard": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "nowhere_to_smash_combo": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "numberlink_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ocean_blue": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "omnimirror_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "on_command": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "on_the_rocks": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "one_bird_two_stones": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_warrior_sailor_0"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "one_fire_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes2_one_fire_warrior_thief_optional",
+        "heroes2_one_fire_warrior_thief_optional_end"
+      ],
+      "clips": 8,
+      "status": "audio"
+    },
+    "one_floor_down_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "one_of_each": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "one_vs_three": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "oneway_beam": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "oneway_dragon_toast": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "open_monster": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_beam_deal": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_clm_s": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_cross": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_doubleback": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_doubledoubleback": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_floaty_reflect_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_gem_instant": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_mirror_walk_button": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_predicament": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_skip_place_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_snake": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_water_button_vdouble_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_water_button_vfour_alter": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_water_button_vslow": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "orange_wizard_intro": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_wizard_torus_1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "ortho": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ortho2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ortho3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "out_of_range_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "overworld": {
+      "onMap": false,
+      "references": 116,
+      "blocks": [
+        "sokoban_overworld",
+        "audiolog_g_possession",
+        "audiolog_g_gold_rooms",
+        "audiolog_g_how_many_gold_rooms",
+        "audiolog_g_world_selection_1",
+        "audiolog_g_world_selection_2",
+        "audiolog_g_world_selection_3",
+        "audiolog_g_musing_on_fast_travel",
+        "audiolog_g_substrate",
+        "audiolog_g_work_and_care",
+        "audiolog_g_no_eating",
+        "audiolog_g_musing_on_freezers_1",
+        "audiolog_g_far_from_home",
+        "audiolog_g_being_watched",
+        "audiolog_g_crisis",
+        "queen_og_ask",
+        "audiolog_sky_take_a_tour",
+        "audiolog_sky_lifeboat_societies_1",
+        "audiolog_sky_lifeboat_societies_2",
+        "audiolog_sky_lifeboat_societies_3",
+        "audiolog_sky_combiners",
+        "audiolog_sky_combiners_2",
+        "audiolog_sky_combiners_3",
+        "audiolog_sky_combiners_4",
+        "audiolog_sky_tetratetrad",
+        "audiolog_sky_why_so_big",
+        "audiolog_sky_why_so_big_3",
+        "audiolog_s_tradition_of_our_people_part_1",
+        "audiolog_s_tradition_of_our_people_part_2",
+        "audiolog_sky_play_of_form_1",
+        "audiolog_sky_play_of_form_1a",
+        "audiolog_sky_play_of_form_1b",
+        "audiolog_sky_10000_things",
+        "audiolog_s_tradition_of_our_people_part_3",
+        "audiolog_s_tradition_of_our_people_part_2b",
+        "audiolog_sky_invocation",
+        "audiolog_s_magistrate",
+        "audiolog_sky_wool",
+        "audiolog_sky_complexification_1",
+        "audiolog_sky_complexification_2",
+        "audiolog_sky_laws_of_form",
+        "audiolog_sky_play_of_form_2",
+        "audiolog_sky_play_of_form_2_surprise",
+        "audiolog_sky_play_of_form_3",
+        "end2_sokoban_writing_choice_1",
+        "end2_sokoban_writing_choice_2",
+        "end3_sokoban_writing_choice_1",
+        "end3_sokoban_writing_choice_2",
+        "end3_sokoban_writing_choice_3",
+        "end3_sokoban_writing_choice_4",
+        "end3_sokoban_writing_choice_5",
+        "end3_skipping_1",
+        "end3_boats",
+        "end3_queen_promesst_red",
+        "queen_og_heroes_entry",
+        "queen_og_heroes2",
+        "queen_og_wardrobe",
+        "queen_og_wardrobe_2",
+        "queen_og_first_green_beam",
+        "queen_og_first_orange_beam",
+        "queen_og_first_lily",
+        "queen_og_mirror_isles",
+        "queen_og_gold_room_first",
+        "audiolog_u_old_games",
+        "audiolog_u_games_inspirations",
+        "audiolog_u_wizard_mirror_worlds_connect",
+        "audiolog_u_tetratetrad_troubles_1",
+        "audiolog_u_tetratetrad_troubles_2",
+        "audiolog_u_tetratetrad_troubles_3",
+        "audiolog_u_decay_1",
+        "audiolog_u_decay_2",
+        "audiolog_u_decay_3",
+        "audiolog_u_decay_4",
+        "audiolog_u_decay_5",
+        "audiolog_u_chaos_1",
+        "audiolog_u_chaos_2",
+        "audiolog_di_catching_up_v0",
+        "audiolog_di_catching_up_v0_part_2",
+        "audiolog_di_catching_up_v2",
+        "audiolog_di_heroes_1_7",
+        "audiolog_di_heroes_1_7_v2",
+        "audiolog_di_strategic_stack",
+        "audiolog_di_triple_gate",
+        "audiolog_di_torcher",
+        "audiolog_di_quad_torch_v1",
+        "audiolog_di_quad_torch",
+        "audiolog_di_height_chooser",
+        "audiolog_di_height_chooser_v0",
+        "audiolog_di_push_down_a_lot",
+        "audiolog_di_push_down_a_lot_small",
+        "audiolog_di_across_the_fence_old",
+        "audiolog_di_across_the_fence_vtrader_m_p",
+        "audiolog_di_sender",
+        "audiolog_di_sender_simplified",
+        "audiolog_di_sender_simplified_v2",
+        "audiolog_di_worlds_collide_heroes_and_promesst",
+        "audiolog_di_worlds_collide_heroes_and_promesst_v2",
+        "audiolog_di_worlds_collide_heroes_and_promesst_v3",
+        "audiolog_di_worlds_collide_heroes_and_promesst_v4",
+        "audiolog_di_lily_wearing_intro",
+        "audiolog_di_tiger_lily_v2",
+        "audiolog_u_meeting",
+        "audiolog_u_computation",
+        "audiolog_u_boundary_matching_1",
+        "audiolog_u_boundary_matching_2",
+        "end3_heroes_first",
+        "end3_thief_taunted",
+        "end3_mirror_isles_first",
+        "end3_mirror_isles_second",
+        "end3_suit",
+        "coda",
+        "coda_scene_assembled",
+        "pre_coda_scene_assembled",
+        "psalm_139",
+        "psalm_139_part_2",
+        "audiolog_u_job_41_fragments"
+      ],
+      "clips": 228,
+      "status": "audio"
+    },
+    "overwrite": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pachinko": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pachinko_rescue_w": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "partial_pull": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pass_through_v2_same_z": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pat_on_the_back_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "peak_toggle": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "perch_3_rovers": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "personal_assistant_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pigeonhole_squished": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pillars": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pink_platforms": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "place_lily_pushstyle_v6": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "place_promesst_rooms": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "place_slot_4x4_pushstyle": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "place_to_stand": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "ms_alone_3"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "plus_signs_v3": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "sp_thief_takes_wand",
+        "sp_druid_takes_wand"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "pole_vault": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pool_pal_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "portable_stairs": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "prelude_priest_water_goblins_only": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_3d_goblin_pass": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_3d_intro_dragon_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_bottom_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_button_3d_revised": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_descent_simpler": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_traverse_e_fence": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_two_warriors_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_warrior_descent": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_water_back_goblin": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "priest_water_back_place_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "prisoners_dilemma_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "promesst1_streamlined": {
+      "onMap": true,
+      "references": 28,
+      "blocks": [
+        "promesst1_start",
+        "promesst1_lovely",
+        "promesst1_strong",
+        "promesst1_cart",
+        "promesst1_wrap",
+        "promesst1_destroy_rover",
+        "promesst1_egg",
+        "promesst1_red_beam_lower",
+        "promesst1_exiting_egg_room",
+        "promesst1_place_them",
+        "promesst1_wand_get",
+        "promesst1_end",
+        "promesst1_gemsuit_cannot_turn_1",
+        "promesst1_gemsuit_cannot_turn_2",
+        "promesst1_gemsuit_cannot_turn_3",
+        "promesst1_gemsuit_cannot_turn_4",
+        "promesst1_gemsuit_cannot_turn_5",
+        "promesst1_all_gems",
+        "promesst1_wand_strong",
+        "promesst1_unlock",
+        "promesst1_gems_amount1",
+        "promesst1_gems_amount2",
+        "promesst1_gems_amount3",
+        "promesst1_gems_amount4",
+        "promesst1_gems_amount5",
+        "promesst1_gems_amount6",
+        "promesst1_gems_amount7",
+        "promesst1_further_down"
+      ],
+      "clips": 29,
+      "status": "audio"
+    },
+    "promesst2.5_deeper": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "promesst2_streamlined": {
+      "onMap": true,
+      "references": 25,
+      "blocks": [
+        "promesst2_torc_get",
+        "promesst2_start",
+        "promesst2_feed_gems",
+        "promesst2_baby_dragon_very_hungry",
+        "promesst2_baby_will_eat_a",
+        "promesst2_baby_will_eat_b",
+        "promesst2_baby_will_eat_c",
+        "promesst2_baby_will_eat_d",
+        "promesst2_baby_impatient_a",
+        "promesst2_baby_impatient_b",
+        "promesst2_baby_impatient_c",
+        "promesst2_baby_impatient_d",
+        "promesst2_baby_eaten_amount_1",
+        "promesst2_baby_eaten_amount_2",
+        "promesst2_baby_eaten_amount_3",
+        "promesst2_baby_eaten_amount_4",
+        "promesst2_baby_eaten_amount_5",
+        "promesst2_buildings",
+        "promesst2_gold_room",
+        "promesst2_enjoying_torc",
+        "promesst2_baby_dragon_end",
+        "promesst2_keep_some_a",
+        "promesst2_keep_some_b",
+        "promesst2_keep_some_c",
+        "promesst2_keep_some_d"
+      ],
+      "clips": 25,
+      "status": "audio"
+    },
+    "promesst3_streamlined": {
+      "onMap": true,
+      "references": 15,
+      "blocks": [
+        "promesst3_prism_get",
+        "promesst3_start",
+        "promesst3_second_room",
+        "promesst3_gems_amount_1",
+        "promesst3_gems_amount_2",
+        "promesst3_gems_amount_3",
+        "promesst3_gems_amount_4",
+        "promesst3_gems_amount_5",
+        "promesst3_gems_amount_6",
+        "promesst3_gems_amount_7",
+        "promesst3_gems_amount_8",
+        "promesst3_end",
+        "promesst3_took_time_a",
+        "promesst3_took_time_b",
+        "promesst3_gold_room"
+      ],
+      "clips": 23,
+      "status": "audio"
+    },
+    "promesst_prelude_pushstyle": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "protrusions": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pugo": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pull_it_v4": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_sailor_thief_1"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "pull_line": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pull_skip_twins_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pull_teamwork_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pull_together": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pulling_near_orange_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pulling_pedestals": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_beam_intro_v2_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "sp_architecture"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "purple_clm_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_corner_gem": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_haze": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_heart": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_perpendicular": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_push_pal": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_wall_around_easier_vp": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "purple_wizard_maze": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "push_against": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "push_and_pull_zach": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "hw_warrior_thief",
+        "hw_warrior_thief_end"
+      ],
+      "clips": 5,
+      "status": "audio"
+    },
+    "push_down_a_lot": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_push_down_a_lot"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "push_down_a_lot_small": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_push_down_a_lot_small"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "push_down_chain": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "push_down_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "3d_intro_down",
+        "3d_intro_down_almost"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "pushback": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pushing_crystal_near_orange_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pushing_near_orange": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pushing_orange": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "pushy": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "put_down_roots_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "quad_torch": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_quad_torch"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "quad_torch_v1": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_quad_torch_v1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "quadrants": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "quadrants_follow_up": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "quadruple_skip": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "quick_redirect_v5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "vm_warrior_mirror_guy_1"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "raft_corners_2_small": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "raft_corners_4x4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "raft_corners_alt_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "reattachment": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "recycling": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "red_cross": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "red_handed": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "sp_thief_open_beam"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "red_rooms_v5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "red_yellow_alter_with_intro_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "reel_it_in": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "reflect_momentum": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "regular_mirror_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "remote_work": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "removal_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "repel": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "reroute_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "reset_mirror": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "reset_trio": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "retro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "retro_hooks": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "retvrn0": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ricochet_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "ride_together": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "right_hand_man": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "river_dictionary_alt_up": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "river_dictionary"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "river_exploit_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "river_maze_clear_tenacious_race_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "river_plinko_v2_actual": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "river_push_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "river_rates_button": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "river_rates_jagged": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "river_rotate_beams_gr": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rotating_cavalry_spaced": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rotator": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "rotator"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "rover_advance_c_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rover_impulse_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "sp_rover_mission",
+        "sp_rover_mission_end"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "rover_shift_p": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rover_water_purple_sequel_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rover_water_purple_v9": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rowboat": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rowboat_wizard_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rsmash": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "rubble_chain": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "run_the_clock_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "safe_returns": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "safety_gloves": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "save_for_later": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "security_checkpoints_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "see_no_evil": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "see_through": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_wizard_torus_6"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "seeing_red": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "self_teleporting": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sender": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_sender"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "sender_simplified": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_sender_simplified"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "sender_simplified_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_sender_simplified_v2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "short_ride_option_b": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "shower": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "shunt2_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sick_270_small": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "side_kick": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "side_slide_intro_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "side_sub_back": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "side_sub_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sidestone_zach_1": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sidestone_zach_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sidestone_zach_2_end2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sidestone_zach_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sidestone_zach_4": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "mirror_transport_4"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "sidetrack": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "simple_trap": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "simplify_skipping": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "simplify_wizard": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "simultaneous_x": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "simultaneous_x_surprise": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "single_out": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sink_together": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sister_staircase_harder": {
+      "onMap": true,
+      "references": 3,
+      "blocks": [
+        "3d_intro_staircase",
+        "3d_intro_staircase_mid",
+        "3d_intro_staircase_end"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "skip_or_sink_r": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_orange_block_c": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_orange_maze_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_orange_wall_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_purple_drop_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_stack_1": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_stack_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_stack_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skip_wand_v6": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skipping_cyan_precise_c_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skipping_near_beams_v2": {
+      "onMap": true,
+      "references": 3,
+      "blocks": [
+        "skipping_stones_start",
+        "skipping_stones_start_repeat",
+        "skipping_near_beams"
+      ],
+      "clips": 9,
+      "status": "audio"
+    },
+    "skipping_pals": {
+      "onMap": true,
+      "references": 23,
+      "blocks": [
+        "pals_start",
+        "pals_get_going",
+        "pals_good_luck",
+        "pals_two",
+        "pals_job_1",
+        "pals_job_2",
+        "pals_job_3",
+        "pals_job_4",
+        "pals_where_from_1",
+        "pals_where_from_2",
+        "pals_deadwaters",
+        "pals_interdict_1",
+        "pals_interdict_2",
+        "pals_asking_about_interdicts_1",
+        "pals_asking_about_interdicts_2",
+        "pals_borrie",
+        "pals_farguild",
+        "pals_meeting_vedessud",
+        "pals_rearrival_on_starting_island",
+        "pals_talk_to_vedessud_sailor",
+        "pals_talk_to_vedessud_surveyor",
+        "pals_sailors_swapped",
+        "pals_sailors_not_swapped"
+      ],
+      "clips": 74,
+      "status": "audio"
+    },
+    "skipping_promesst": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skipping_shores_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skipping_stones": {
+      "onMap": true,
+      "references": 45,
+      "blocks": [
+        "skipping_stones_start",
+        "skipping_stones_start_repeat",
+        "ssnew_pre_map",
+        "ssnew_interdiction_first",
+        "ssnew_traps",
+        "ssnew_what_do_i_do",
+        "ssnew_no_traps",
+        "ssnew_interdictions_secret",
+        "ssnew_interdictions_secret_2",
+        "ssnew_heading_west",
+        "ssnew_weather",
+        "skipping_stones_gold_room_impending",
+        "skipping_stones_shrine",
+        "ssnew_tacking",
+        "skipping_stones_whirlpool",
+        "ssnew_good_place",
+        "ssnew_good_place_2",
+        "ssnew_built_in_1",
+        "ssnew_built_in_2",
+        "ssnew_built_in_3",
+        "ssnew_please_disable_interdict",
+        "skipping_stones_return_no_impeller",
+        "skipping_stones_return_no_impeller_repeat",
+        "skipping_stones_approaching_impeller",
+        "ssnew_interdict_destroyed_treasures_0",
+        "ssnew_interdict_destroyed_treasures_n",
+        "skipping_stones_treasures_1",
+        "skipping_stones_treasures_2",
+        "skipping_stones_treasures_3",
+        "skipping_stones_treasures_4",
+        "skipping_stones_treasures_5",
+        "skipping_stones_treasures_6",
+        "skipping_stones_return_treasures_0",
+        "skipping_stones_done_treasures_0",
+        "skipping_stones_return_treasures_1",
+        "skipping_stones_done_treasures_1",
+        "skipping_stones_return_treasures_2_to_4",
+        "skipping_stones_done_treasures_2_to_4",
+        "skipping_stones_return_treasures_5",
+        "skipping_stones_done_treasures_5",
+        "skipping_stones_return_treasures_all",
+        "skipping_stones_done_treasures_all",
+        "skipping_stones_island_west_yes_treasures",
+        "skipping_stones_island_west_no_treasures",
+        "skipping_near_beams"
+      ],
+      "clips": 236,
+      "status": "audio"
+    },
+    "skipping_with_dragon": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skipping_wrapping_v3": {
+      "onMap": true,
+      "references": 3,
+      "blocks": [
+        "sp_wrapping_level_intro",
+        "sp_wrapping_level_intro_mid",
+        "sp_wrapping_level_intro_end"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "sky_double_intro0": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sky_double_intro1": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sky_druid_kill": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sky_druid_kill_tall_2_goblins": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sky_druid_maze": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sky_druid_one": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sky_druid_tree_ex": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "skybridge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "slide_rows": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "slot_machine_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "smartbomb_combo_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "smash_grid_4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "smash_grid_kill": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "smash_midskip_simpler4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "smash_or_dash_vs2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "snipperclips_0_square": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "snipperclips_diagonal": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "snipperclips_square": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sokobridge_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sombreros": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sp_crystal_tuto": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "special_move": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "spin_doctors_v3": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "spin_doctors",
+        "spin_doctors_end"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "spin_heroes": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "spin_heroes"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "spray_and_pray": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "spray_and_pray"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "sprint_skip0": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_warrior_sailor_4"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "square_dance": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stack_prelude_pushstyle": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stasis_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stay_lit": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "sticky": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stone_economy": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stone_rescue_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stone_stopper3_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stone_stopper5": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stone_stopper_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stones_below_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stones_not_crystals": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_stones_not_crystals"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "stones_prelude": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stonewalled": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stopper_topper_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "strategic_stack": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_strategic_stack"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "strong_monsters_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "stuck_up_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "submarine": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "double_agent_intro",
+        "double_agent_intro_end"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "submarine_far_away": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "sp_double_agent"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "sunk_cost_2_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "surfing_lesson_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "surrounded": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hw_warrior_surrounded"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "suspend_block_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "suspend_directions_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "suspend_heterogeneous": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "suspend_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "suspend_swapper_hard": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "swap_and_spin": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "swap_seats": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "swapwiz_harder": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "synchronized_swimmers": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "taking_the_lift": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tall_stack": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tandem": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "vm_thief_priestess_7"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "target_practice_gem": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "team_building_exercise": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tempered_glass_red": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "thats_my_ride": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "ms_alone_2",
+        "ms_alone_2_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "the_line_must_be_drawn_HERE": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "the_long_way": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "the_sky_is_falling_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "obf_many_drop_2"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "the_spiral": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "the_swappers": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "the_waterfall_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "there_and_back": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "thief_dragger_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "thief_stack": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "thief_through": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "thief_wand": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "sp_thief_takes_wand"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "thin_ice_rooms": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "three_artifacts_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "three_birds_push": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "through_intro": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_torus"
+      ],
+      "clips": 7,
+      "status": "audio"
+    },
+    "through_maze_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "through_push": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "sp_warrior_green_beam_end",
+        "hp_torus_2"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "through_sokoban": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "through_the_table_e": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "through_the_table_f": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "through_way": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tiger_lily_v2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_tiger_lily_v2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "time_tutorial": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tippy_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tippy_towers_1": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tippy_towers_4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "to_kill_a_goblin": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "vm_warrior_mirror_guy_2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "toggler00": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "top_green_purple_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "torc_blocked": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "torc_blocked_easier": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "torcher": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_torcher"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "torcoban_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "torus_bard": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "torus_blocks_alt_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "torus_goblins": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "torus_mirrors": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "trader_descend": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "like_an_isle"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "treadmill": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "trick_kills": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "trick_landing": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "trick_shot": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tricky_endpoint": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tricky_swappers_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "triple_gate": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_triple_gate"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "triple_skip": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "trust_falls": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "tug_boat": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "turn_control_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "warrior_lonely",
+        "warrior_lonely_end"
+      ],
+      "clips": 2,
+      "status": "audio"
+    },
+    "two_bounce_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "two_dragon_rooms": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "two_for_one": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "two_half_togglers": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "two_metamirrors": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "two_step": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "two_through_alt_2": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hp_wizard_torus_8"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "unblock_block_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "under_pressure": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "untrap": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "use_and_remove": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "useful_stone": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "vacuum": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "vert_mirror_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "vertical_promesst_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "vertical_unclone_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "victory_lap": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "heroes3_victory_lap",
+        "heroes3_victory_lap_end"
+      ],
+      "clips": 22,
+      "status": "audio"
+    },
+    "volcano_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "walk_into_fire": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "walk_it_over": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "walk_the_plank": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wall_sneak": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wand_reintro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wasteland": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "water_bender_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "watergate": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_warrior_sailor_5"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "weaklings_bard_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "who_you_gonna_call": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wide_ocean": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wider_ocean": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizard_and_druid_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_wizard_and_druid_optional"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "wizard_and_druid_alt_5": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "heroes3_wizard_and_druid_1"
+      ],
+      "clips": 3,
+      "status": "audio"
+    },
+    "wizard_finesse_1": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizard_finesse_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizard_finesse_3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizard_finesse_4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizard_jailbreak_v2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizard_mirror_intro": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizard_with_a_capital_w": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "hs_island_friends_2"
+      ],
+      "clips": 4,
+      "status": "audio"
+    },
+    "wizard_with_a_capital_w_2_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "hs_island_friends_3",
+        "hs_island_friends_3_end"
+      ],
+      "clips": 8,
+      "status": "audio"
+    },
+    "wizard_with_a_gun": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wizards_true_nature": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wolf_boat_carry": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "worlds_collide_alt": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "worlds_collide_MP_start"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "worlds_collide_heroes_and_mirrors_v3": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "worlds_collide_HM_start"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "worlds_collide_heroes_and_promesst": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_worlds_collide_heroes_and_promesst"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "worlds_collide_heroes_and_promesst_v2": {
+      "onMap": false,
+      "references": 1,
+      "blocks": [
+        "audiolog_di_worlds_collide_heroes_and_promesst_v2"
+      ],
+      "clips": 1,
+      "status": "audio"
+    },
+    "worlds_collide_heroes_and_promesst_v3": {
+      "onMap": false,
+      "references": 4,
+      "blocks": [
+        "worlds_collide_HP_start",
+        "worlds_collide_HP_end",
+        "worlds_collide_HP_monster_gates_open",
+        "audiolog_di_worlds_collide_heroes_and_promesst_v3"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "worlds_collide_heroes_and_promesst_v4": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "worlds_collide_HP_start",
+        "worlds_collide_HP_end",
+        "worlds_collide_HP_monster_gates_open",
+        "audiolog_di_worlds_collide_heroes_and_promesst_v4"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "worlds_collide_heroes_and_stones": {
+      "onMap": true,
+      "references": 4,
+      "blocks": [
+        "worlds_collide_HS_start",
+        "worlds_collide_HS_on_switch_to_thief",
+        "worlds_collide_HS_gates_opened_proximity",
+        "worlds_collide_HS_end_of_level"
+      ],
+      "clips": 13,
+      "status": "audio"
+    },
+    "worlds_collide_mirrors_and_stones_v2": {
+      "onMap": true,
+      "references": 2,
+      "blocks": [
+        "worlds_collide_MS_start",
+        "worlds_collide_MS_first_teleport"
+      ],
+      "clips": 8,
+      "status": "audio"
+    },
+    "worlds_collide_ps": {
+      "onMap": true,
+      "references": 1,
+      "blocks": [
+        "worlds_collide_SP_start"
+      ],
+      "clips": 6,
+      "status": "audio"
+    },
+    "wrap_music": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wrap_music_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wrapping_magic_mirror_2": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wrapping_mirror0": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wrapping_mirror0_relatively_prime": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wrapping_mirror_alt": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wrapping_mirror_red_v4": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "wrong_reset": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "yars_revenge_setup_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zach_lilies_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zachtronics": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zachtronics_identity": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zachtronics_or": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zachtronics_xor": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zap_bridge": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zap_bridge_perp": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zig_zag": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "zombie_graves_v3": {
+      "onMap": true,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    }
+  },
+  "decodeIssues": [],
+  "referencesWithoutSubtitles": [
+    {
+      "level": "mirror_12",
+      "source": "data-common/mirror_12.entities",
+      "entityId": 1048631,
+      "entityType": "Guy",
+      "field": "win_bark",
+      "value": "clones_triple_confusion_end"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519600,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_1"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519090,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_1"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519091,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_5"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519092,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_2"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519093,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_3"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 135373183,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_1"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 135373186,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_1"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 135373187,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_5"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 135373189,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_3"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 135373190,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_4"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519086,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_5"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519087,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_4"
+    },
+    {
+      "level": "overworld",
+      "source": "data-common/overworld.entities",
+      "entityId": 115519088,
+      "entityType": "Sign",
+      "field": "turn_away_bark",
+      "value": "queen_wishlist_1"
+    },
+    {
+      "level": "sidestone_zach_3",
+      "source": "data-common/sidestone_zach_3.entities",
+      "entityId": 3145730,
+      "entityType": "Guy",
+      "field": "initial_bark",
+      "value": "mirror_transport_3"
+    }
+  ],
+  "missingRecordings": {
+    "coda": [
+      {
+        "id": "coda_5__queen",
+        "speaker": "queen",
+        "chunks": [
+          "Is this... the afterlife?"
+        ]
+      }
+    ]
+  },
+  "silentCues": {
+    "heroes2_wizard_priestess_first": [
+      {
+        "id": "heroes2_wizard_priestess_first_2__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          1219
+        ]
+      },
+      {
+        "id": "heroes2_wizard_priestess_first_4__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          1227
+        ]
+      }
+    ],
+    "heroes3_bard_and_priestess": [
+      {
+        "id": "heroes3_bard_and_priestess_2__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          1860
+        ]
+      }
+    ],
+    "heroes3_victory_lap": [
+      {
+        "id": "heroes3_victory_lap_3__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          2291
+        ]
+      }
+    ],
+    "worlds_collide_HP_start": [
+      {
+        "id": "worlds_collide_HP_start_2__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          6692
+        ]
+      },
+      {
+        "id": "worlds_collide_HP_start_4__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          6699
+        ]
+      }
+    ],
+    "rotator": [
+      {
+        "id": "rotator_2__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          8647
+        ]
+      },
+      {
+        "id": "rotator_4__priestess",
+        "speaker": "priestess",
+        "chunks": [
+          "..."
+        ],
+        "cueLines": [
+          8657
+        ]
+      }
+    ]
+  },
+  "translationIssues": {
+    "audiolog_s_magistrate": {
+      "pt-br": "Clip identities differ from English"
+    },
+    "audiolog_sky_laws_of_form": {
+      "pt-br": "Clip identities differ from English"
+    },
+    "audiolog_sky_play_of_form_3": {
+      "pt-br": "Clip identities differ from English"
+    },
+    "all_together_now_reassembly_1": {
+      "pt-br": "Clip identities differ from English"
+    },
+    "paradise_lost_invocation_credits": {
+      "pt-br": "Clip has no transcript in paradise_lost_invocation_credits"
+    },
+    "paradise_lost_invocation_2": {
+      "pt-br": "Clip identities differ from English"
+    },
+    "actor_credits": {
+      "pt-br": "'actor_credits'"
+    }
+  },
+  "unreferencedBlocks": [
+    "end1_dimension_1",
+    "end1_dimension_2",
+    "end1_dimension_3",
+    "end1_dimension_4",
+    "heroes2_wizard_priestess_mid",
+    "heroes3_warrior_and_druid_transmutation",
+    "hp_wizard_be_aggro",
+    "hw_thief_wizard",
+    "mirror_3",
+    "mirror_4",
+    "mirror_after_clones_first",
+    "mirror_icy_start",
+    "moment_alone",
+    "more_than_mirror_guy",
+    "sp_help_drop",
+    "sp_warrior_shunt",
+    "sp_wizard_open_beam",
+    "vm_warrior_mirror_guy_2_end",
+    "vm_warrior_mirror_guy_3",
+    "vs_warrior_dragons"
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_13_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_warrior_thief",
+      "clips": [
+        {
+          "id": "heroes1_warrior_thief_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.226125,
+          "src": "audio/clips/heroes1_warrior_thief_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Tif! Are you all right?"
+            ],
+            "pt-br": [
+              "Tif! Você tá bem?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_1__warrior.wav",
+            "subtitleCueLines": [
+              263
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.779667,
+          "src": "audio/clips/heroes1_warrior_thief_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Of course, of course, shush, we've got to catch up to the Magistrate! Where's Izzy?"
+            ],
+            "pt-br": [
+              "Sim, claro, silêncio, temos que pegar o Magistrado! Cadê o Izzy?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_2__thief.wav",
+            "subtitleCueLines": [
+              266
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.269583,
+          "src": "audio/clips/heroes1_warrior_thief_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "He went the other way looking for you."
+            ],
+            "pt-br": [
+              "Ele foi pelo outro lado atrás de você."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_3__warrior.wav",
+            "subtitleCueLines": [
+              271
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_4__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.840333,
+          "src": "audio/clips/heroes1_warrior_thief_4__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Well, let's find him. Which other way?"
+            ],
+            "pt-br": [
+              "Vamos encontrar ele então. Qual caminho?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_4__thief.wav",
+            "subtitleCueLines": [
+              275
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.825667,
+          "src": "audio/clips/heroes1_warrior_thief_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Yeah... there are a lot of Other Ways in here."
+            ],
+            "pt-br": [
+              "É... tem muitos Caminhos por aqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_5__warrior.wav",
+            "subtitleCueLines": [
+              279
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Tif! Are you all right?",
+          "Of course, of course, shush, we've got to catch up to the Magistrate! Where's Izzy?",
+          "He went the other way looking for you.",
+          "Well, let's find him. Which other way?",
+          "Yeah... there are a lot of Other Ways in here."
+        ],
+        "pt-br": [
+          "Tif! Você tá bem?",
+          "Sim, claro, silêncio, temos que pegar o Magistrado! Cadê o Izzy?",
+          "Ele foi pelo outro lado atrás de você.",
+          "Vamos encontrar ele então. Qual caminho?",
+          "É... tem muitos Caminhos por aqui."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031889,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes1_warrior_thief",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_13_v2.entities"
+          }
+        ],
+        "subtitleLine": 262,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes1_warrior_thief_mid0",
+      "clips": [
+        {
+          "id": "heroes1_warrior_thief_mid0_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.492333,
+          "src": "audio/clips/heroes1_warrior_thief_mid0_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Even when we find Izzy again, then what? We just leave, no harm done?"
+            ],
+            "pt-br": [
+              "Mesmo quando a gente encontrar o Izzy de novo, e daí? É só ir embora, como se nada tivesse acontecido?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid0_1__warrior.wav",
+            "subtitleCueLines": [
+              288
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_mid0_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.978667,
+          "src": "audio/clips/heroes1_warrior_thief_mid0_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I know where Magistrate Reynard is headed. We've got to catch up."
+            ],
+            "pt-br": [
+              "Eu sei pra onde o Magistrado Reynard tá indo. A gente tem que alcançar ele."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid0_2__thief.wav",
+            "subtitleCueLines": [
+              292
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Even when we find Izzy again, then what? We just leave, no harm done?",
+          "I know where Magistrate Reynard is headed. We've got to catch up."
+        ],
+        "pt-br": [
+          "Mesmo quando a gente encontrar o Izzy de novo, e daí? É só ir embora, como se nada tivesse acontecido?",
+          "Eu sei pra onde o Magistrado Reynard tá indo. A gente tem que alcançar ele."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes1_warrior_thief_mid0",
+            "rule": "exact-reference",
+            "coordinates": [
+              -0.20420503616333008,
+              1.1492791175842285,
+              0.0016813278198242188
+            ],
+            "source": "data-common/heroes1_13_v2.entities"
+          }
+        ],
+        "subtitleLine": 287,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes1_warrior_thief_mid",
+      "clips": [
+        {
+          "id": "heroes1_warrior_thief_mid_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.694,
+          "src": "audio/clips/heroes1_warrior_thief_mid_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "We just need to keep headed East."
+            ],
+            "pt-br": [
+              "Só precisamos continuar indo para o Leste."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid_1__thief.wav",
+            "subtitleCueLines": [
+              300
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_mid_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.936646,
+          "src": "audio/clips/heroes1_warrior_thief_mid_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Oh. Okay. How do you know that?"
+            ],
+            "pt-br": [
+              "Ah. Ok. Como você sabe disso?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid_2__warrior.wav",
+            "subtitleCueLines": [
+              303
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_mid_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 6.257333,
+          "src": "audio/clips/heroes1_warrior_thief_mid_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "When he locked us up, he'd already donned his dustcoat. For *travel*. And, about his neck..."
+            ],
+            "pt-br": [
+              "Quando ele trancou a gente, já tinha vestido o guarda-pó. Estava preparado pra *viajar*. E, em volta do pescoço dele..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid_3__thief.wav",
+            "subtitleCueLines": [
+              306
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_mid_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.547333,
+          "src": "audio/clips/heroes1_warrior_thief_mid_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "You were eyeing his jewelry. Of course."
+            ],
+            "pt-br": [
+              "Você ficou de olho nas joias dele. É claro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid_4__warrior.wav",
+            "subtitleCueLines": [
+              311
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_mid_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 8.215,
+          "src": "audio/clips/heroes1_warrior_thief_mid_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Had your eyes been open, you'd have seen a distinctive, *recognizable* leather cord, three-strand plaited, oiled and blackened..."
+            ],
+            "pt-br": [
+              "Se estivesse de olhos abertos, teria visto uma corda de couro distinta, reconhecível, trançada com três tiras, untada e escurecida..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid_5__thief.wav",
+            "subtitleCueLines": [
+              315
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_mid_6__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.952333,
+          "src": "audio/clips/heroes1_warrior_thief_mid_6__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Oh! A key ... for a locker ... in The Crawler??"
+            ],
+            "pt-br": [
+              "Ah! Chave de um armário? Um armário na... Esteira?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid_6__warrior.wav",
+            "subtitleCueLines": [
+              321
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_mid_7__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.076521,
+          "src": "audio/clips/heroes1_warrior_thief_mid_7__thief.mp3",
+          "transcripts": {
+            "en": [
+              "The Crawler."
+            ],
+            "pt-br": [
+              "Na Esteira."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_mid_7__thief.wav",
+            "subtitleCueLines": [
+              325
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We just need to keep headed East.",
+          "Oh. Okay. How do you know that?",
+          "When he locked us up, he'd already donned his dustcoat. For *travel*. And, about his neck...",
+          "You were eyeing his jewelry. Of course.",
+          "Had your eyes been open, you'd have seen a distinctive, *recognizable* leather cord, three-strand plaited, oiled and blackened...",
+          "Oh! A key ... for a locker ... in The Crawler??",
+          "The Crawler."
+        ],
+        "pt-br": [
+          "Só precisamos continuar indo para o Leste.",
+          "Ah. Ok. Como você sabe disso?",
+          "Quando ele trancou a gente, já tinha vestido o guarda-pó. Estava preparado pra *viajar*. E, em volta do pescoço dele...",
+          "Você ficou de olho nas joias dele. É claro.",
+          "Se estivesse de olhos abertos, teria visto uma corda de couro distinta, reconhecível, trançada com três tiras, untada e escurecida...",
+          "Ah! Chave de um armário? Um armário na... Esteira?",
+          "Na Esteira."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914563,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes1_warrior_thief_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.90657901763916,
+              3.064883232116699,
+              0.0016813278198242188
+            ],
+            "source": "data-common/heroes1_13_v2.entities"
+          }
+        ],
+        "subtitleLine": 299,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes1_warrior_thief_end",
+      "clips": [
+        {
+          "id": "heroes1_warrior_thief_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.812604,
+          "src": "audio/clips/heroes1_warrior_thief_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Let's go get that stupid magistrate!"
+            ],
+            "pt-br": [
+              "Vamos atrás daquele Magistrado idiota."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_end_1__warrior.wav",
+            "subtitleCueLines": [
+              333
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_end_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.154812,
+          "src": "audio/clips/heroes1_warrior_thief_end_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Let's go get that ... I mean, he's not stupid though!"
+            ],
+            "pt-br": [
+              "Vamos atrás daquele... Quer dizer, ele não é idiota!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_end_2__thief.wav",
+            "subtitleCueLines": [
+              336
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_end_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.264104,
+          "src": "audio/clips/heroes1_warrior_thief_end_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I mean we don't like him!"
+            ],
+            "pt-br": [
+              "Digo, a gente não gosta dele!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_end_3__warrior.wav",
+            "subtitleCueLines": [
+              341
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_end_4__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.716,
+          "src": "audio/clips/heroes1_warrior_thief_end_4__thief.mp3",
+          "transcripts": {
+            "en": [
+              "He's got his charms!"
+            ],
+            "pt-br": [
+              "Ele tem seus encantos!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_end_4__thief.wav",
+            "subtitleCueLines": [
+              344
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_thief_end_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.274687,
+          "src": "audio/clips/heroes1_warrior_thief_end_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Oh my God."
+            ],
+            "pt-br": [
+              "Minha nossa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_thief_end_5__warrior.wav",
+            "subtitleCueLines": [
+              347
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Let's go get that stupid magistrate!",
+          "Let's go get that ... I mean, he's not stupid though!",
+          "I mean we don't like him!",
+          "He's got his charms!",
+          "Oh my God."
+        ],
+        "pt-br": [
+          "Vamos atrás daquele Magistrado idiota.",
+          "Vamos atrás daquele... Quer dizer, ele não é idiota!",
+          "Digo, a gente não gosta dele!",
+          "Ele tem seus encantos!",
+          "Minha nossa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031889,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes1_warrior_thief_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_13_v2.entities"
+          }
+        ],
+        "subtitleLine": 332,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

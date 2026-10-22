@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_complexification_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_complexification_2",
+      "clips": [
+        {
+          "id": "audiolog_sky_complexification_2_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 113.308333,
+          "src": "audio/clips/audiolog_sky_complexification_2_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Now if you want to visualize the blooming of possibility, it helps to consider that each world begins with *more* than one object.",
+              "For simplicity, to start, imagine each world just had *two* things.",
+              "One world has a Thief and a Goblin; another world has Gems and a Beam That Lets You Walk Through Walls.",
+              "We draw these relationships. For Thief we draw a dot, and Goblin is a dot,",
+              "and the interaction between Thief and Goblin is a line that connects them.",
+              "Same in the other world: a line connects Gem and Beam. I'll draw this out for you. It's only two lines so far; keep that number two in mind.",
+              "Now, we put all four of these objects, from both worlds, into the same place.",
+              "With the objects that were already old friends, nothing happens; we already saw how they work, and it stays the same.",
+              "But any two objects from *different* worlds, who have never met, want to play together now.",
+              "Here, we see four new interactions: Gem interacts with Thief, and also with Goblin; that's two more lines.",
+              "And Through Beam interacts with Thief, and also Goblin; that's two more lines as well.",
+              "I'll draw those in red. You don't have to go the other way, because Gem with Thief",
+              "is the same as Thief with Gem, at least for our purposes here.",
+              "So we started with just two lines. But now we have six lines,",
+              "without adding any new objects. We merely brought together things that we already had.",
+              "It is this moment of intercombining, and the resultant expansion,",
+              "that we watch carefully. It's the whole reason we build these Warehouses.",
+              "We're interested in this, because this is a basic aspect of Reality:",
+              "Reality is always combining the elements we *already have* and producing things *never before seen*."
+            ],
+            "pt-br": [
+              "Agora, se quiser visualizar o florescer da possibilidade, ajuda considerar que cada mundo começa com mais de um objeto.",
+              "Para simplificar, no começo, imagine que cada mundo tivesse só duas coisas.",
+              "Um mundo tem uma Ladra e um Goblin; outro mundo tem Gemas e um Feixe Atravessante que permite Andar Através de Paredes.",
+              "Desenhamos essas relações. Para Ladra desenhamos um ponto, e Goblin é um ponto,",
+              "e a interação entre Ladra e Goblin é uma linha que os conecta.",
+              "O mesmo no outro mundo: uma linha conecta Gema e Feixe. Vou desenhar isso para você. São só duas linhas até agora; guarde esse número dois em mente.",
+              "Agora, colocamos esses quatro objetos, dos dois mundos, no mesmo lugar.",
+              "Com os objetos que já eram velhos amigos, nada acontece; já vimos como funcionam, e isso não muda.",
+              "Mas quaisquer dois objetos de mundos diferentes, que nunca se encontraram, agora querem brincar juntos.",
+              "Aqui, vemos quatro novas interações: Gema interage com Ladra, e também com Goblin; isso são mais duas linhas.",
+              "E Feixe Atravessante interage com Ladra, e também com Goblin; isso também são mais duas linhas.",
+              "Vou desenhar essas em vermelho. Você não precisa ir pelo outro lado, porque Gema interagindo com Ladra",
+              "é o mesmo que Ladra interagindo com Gema, pelo menos para os nossos fins aqui.",
+              "Então começamos com apenas duas linhas. Mas agora temos seis linhas,",
+              "sem adicionar nenhum objeto novo. Apenas aproximamos coisas que já tínhamos.",
+              "É esse momento de intercombinação, e a expansão resultante,",
+              "que observamos com atenção. É justamente por isso que construímos estes Armazéns.",
+              "Nos interessamos por isso porque este é um aspecto básico da Realidade:",
+              "a Realidade está sempre combinando os elementos que já temos e produzindo coisas nunca antes vistas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_complexification_2_1__acting.wav",
+            "subtitleCueLines": [
+              10901,
+              10906,
+              10910,
+              10915,
+              10919,
+              10923,
+              10928,
+              10932,
+              10937,
+              10942,
+              10947,
+              10951,
+              10955,
+              10959,
+              10963,
+              10968,
+              10972,
+              10976,
+              10980
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Now if you want to visualize the blooming of possibility, it helps to consider that each world begins with *more* than one object.",
+          "For simplicity, to start, imagine each world just had *two* things.",
+          "One world has a Thief and a Goblin; another world has Gems and a Beam That Lets You Walk Through Walls.",
+          "We draw these relationships. For Thief we draw a dot, and Goblin is a dot,",
+          "and the interaction between Thief and Goblin is a line that connects them.",
+          "Same in the other world: a line connects Gem and Beam. I'll draw this out for you. It's only two lines so far; keep that number two in mind.",
+          "Now, we put all four of these objects, from both worlds, into the same place.",
+          "With the objects that were already old friends, nothing happens; we already saw how they work, and it stays the same.",
+          "But any two objects from *different* worlds, who have never met, want to play together now.",
+          "Here, we see four new interactions: Gem interacts with Thief, and also with Goblin; that's two more lines.",
+          "And Through Beam interacts with Thief, and also Goblin; that's two more lines as well.",
+          "I'll draw those in red. You don't have to go the other way, because Gem with Thief",
+          "is the same as Thief with Gem, at least for our purposes here.",
+          "So we started with just two lines. But now we have six lines,",
+          "without adding any new objects. We merely brought together things that we already had.",
+          "It is this moment of intercombining, and the resultant expansion,",
+          "that we watch carefully. It's the whole reason we build these Warehouses.",
+          "We're interested in this, because this is a basic aspect of Reality:",
+          "Reality is always combining the elements we *already have* and producing things *never before seen*."
+        ],
+        "pt-br": [
+          "Agora, se quiser visualizar o florescer da possibilidade, ajuda considerar que cada mundo começa com mais de um objeto.",
+          "Para simplificar, no começo, imagine que cada mundo tivesse só duas coisas.",
+          "Um mundo tem uma Ladra e um Goblin; outro mundo tem Gemas e um Feixe Atravessante que permite Andar Através de Paredes.",
+          "Desenhamos essas relações. Para Ladra desenhamos um ponto, e Goblin é um ponto,",
+          "e a interação entre Ladra e Goblin é uma linha que os conecta.",
+          "O mesmo no outro mundo: uma linha conecta Gema e Feixe. Vou desenhar isso para você. São só duas linhas até agora; guarde esse número dois em mente.",
+          "Agora, colocamos esses quatro objetos, dos dois mundos, no mesmo lugar.",
+          "Com os objetos que já eram velhos amigos, nada acontece; já vimos como funcionam, e isso não muda.",
+          "Mas quaisquer dois objetos de mundos diferentes, que nunca se encontraram, agora querem brincar juntos.",
+          "Aqui, vemos quatro novas interações: Gema interage com Ladra, e também com Goblin; isso são mais duas linhas.",
+          "E Feixe Atravessante interage com Ladra, e também com Goblin; isso também são mais duas linhas.",
+          "Vou desenhar essas em vermelho. Você não precisa ir pelo outro lado, porque Gema interagindo com Ladra",
+          "é o mesmo que Ladra interagindo com Gema, pelo menos para os nossos fins aqui.",
+          "Então começamos com apenas duas linhas. Mas agora temos seis linhas,",
+          "sem adicionar nenhum objeto novo. Apenas aproximamos coisas que já tínhamos.",
+          "É esse momento de intercombinação, e a expansão resultante,",
+          "que observamos com atenção. É justamente por isso que construímos estes Armazéns.",
+          "Nos interessamos por isso porque este é um aspecto básico da Realidade:",
+          "a Realidade está sempre combinando os elementos que já temos e produzindo coisas nunca antes vistas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

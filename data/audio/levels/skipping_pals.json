@@ -1,0 +1,2842 @@
+{
+  "schemaVersion": 1,
+  "level": "skipping_pals",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "pals_start",
+      "clips": [
+        {
+          "id": "pals_start_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.663792,
+          "src": "audio/clips/pals_start_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Thank you for answering my call!"
+            ],
+            "pt-br": [
+              "Agradeço por atender meu chamado!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_start_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              5470
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_start_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.831333,
+          "src": "audio/clips/pals_start_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It's what we do."
+            ],
+            "pt-br": [
+              "É o que fazemos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_start_2__sailor.wav",
+            "subtitleCueLines": [
+              5473
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_start_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.598667,
+          "src": "audio/clips/pals_start_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "If you'll check the map, I've located her Boat.",
+              "Look for the clearing in the fog to the East."
+            ],
+            "pt-br": [
+              "Se quiser conferir o mapa, eu avistei o barco dela.",
+              "Procure a área revelada a leste."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_start_3__boat.wav",
+            "subtitleCueLines": [
+              5476,
+              5480
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Thank you for answering my call!",
+          "It's what we do.",
+          "If you'll check the map, I've located her Boat.",
+          "Look for the clearing in the fog to the East."
+        ],
+        "pt-br": [
+          "Agradeço por atender meu chamado!",
+          "É o que fazemos.",
+          "Se quiser conferir o mapa, eu avistei o barco dela.",
+          "Procure a área revelada a leste."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 59769130,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "pals_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              49.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5469,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_get_going",
+      "clips": [
+        {
+          "id": "pals_get_going_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.956667,
+          "src": "audio/clips/pals_get_going_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Best get going! Those interdicts are stubborn and will not break themselves."
+            ],
+            "pt-br": [
+              "Melhor ir andando! Esses interditos são teimosos e não vão se quebrar sozinhos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_get_going_1__boat.wav",
+            "subtitleCueLines": [
+              5488
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Best get going! Those interdicts are stubborn and will not break themselves."
+        ],
+        "pt-br": [
+          "Melhor ir andando! Esses interditos são teimosos e não vão se quebrar sozinhos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "skipping_pals",
+            "rule": "related-story-namespace",
+            "namespace": "pals",
+            "supportingBlocks": [
+              "pals_asking_about_interdicts_1",
+              "pals_asking_about_interdicts_2",
+              "pals_borrie",
+              "pals_deadwaters",
+              "pals_farguild",
+              "pals_good_luck",
+              "pals_interdict_1",
+              "pals_interdict_2",
+              "pals_job_1",
+              "pals_job_2",
+              "pals_job_3",
+              "pals_job_4",
+              "pals_meeting_vedessud",
+              "pals_rearrival_on_starting_island",
+              "pals_start",
+              "pals_two",
+              "pals_where_from_1",
+              "pals_where_from_2"
+            ]
+          }
+        ],
+        "subtitleLine": 5487,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_good_luck",
+      "clips": [
+        {
+          "id": "pals_good_luck_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.018667,
+          "src": "audio/clips/pals_good_luck_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Good luck, eh."
+            ],
+            "pt-br": [
+              "Boa sorte, hein."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_good_luck_1__boat.wav",
+            "subtitleCueLines": [
+              5497
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_good_luck_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.560917,
+          "src": "audio/clips/pals_good_luck_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Thaaank you!"
+            ],
+            "pt-br": [
+              "Muuuito obrigada!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_good_luck_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5500
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Good luck, eh.",
+          "Thaaank you!"
+        ],
+        "pt-br": [
+          "Boa sorte, hein.",
+          "Muuuito obrigada!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343366,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "pals_good_luck",
+            "rule": "exact-reference",
+            "coordinates": [
+              18.07639503479004,
+              46.41053009033203,
+              -0.10000038146972656
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5496,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_two",
+      "clips": [
+        {
+          "id": "pals_two_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.526042,
+          "src": "audio/clips/pals_two_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "There are *two* interdicts this time. You'll have to hit them both.",
+              "I've spotted them on your map."
+            ],
+            "pt-br": [
+              "Desta vez são dois interditos. Você vai ter que atingir os dois.",
+              "Eu os vi no seu mapa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_two_1__boat.wav",
+            "subtitleCueLines": [
+              5508,
+              5513
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_two_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.156062,
+          "src": "audio/clips/pals_two_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Got it. Two!"
+            ],
+            "pt-br": [
+              "Entendi. Dois!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_two_2__sailor.wav",
+            "subtitleCueLines": [
+              5516
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_two_3__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.225833,
+          "src": "audio/clips/pals_two_3__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "What is the situation?"
+            ],
+            "pt-br": [
+              "Qual é a situação?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_two_3__sailor_alt.wav",
+            "subtitleCueLines": [
+              5519
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_two_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.771458,
+          "src": "audio/clips/pals_two_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Two interdicts. Not just one."
+            ],
+            "pt-br": [
+              "Dois interditos. Não só um."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_two_4__sailor.wav",
+            "subtitleCueLines": [
+              5524
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There are *two* interdicts this time. You'll have to hit them both.",
+          "I've spotted them on your map.",
+          "Got it. Two!",
+          "What is the situation?",
+          "Two interdicts. Not just one."
+        ],
+        "pt-br": [
+          "Desta vez são dois interditos. Você vai ter que atingir os dois.",
+          "Eu os vi no seu mapa.",
+          "Entendi. Dois!",
+          "Qual é a situação?",
+          "Dois interditos. Não só um."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372189,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_two",
+            "rule": "exact-reference",
+            "coordinates": [
+              38.0,
+              55.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5507,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_job_1",
+      "clips": [
+        {
+          "id": "pals_job_1_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.1775,
+          "src": "audio/clips/pals_job_1_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So, what do you do ... when you're not being ... locked down, I mean?"
+            ],
+            "pt-br": [
+              "Então, o que você faz... quando não está sendo... trancado, quero dizer?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_1_1__sailor.wav",
+            "subtitleCueLines": [
+              5533
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_1_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 8.64875,
+          "src": "audio/clips/pals_job_1_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Oh, I find new territories and survey them --",
+              "so Jackashores like you can face the danger and make the fame, I suppose."
+            ],
+            "pt-br": [
+              "Ah, eu encontro novos territórios e faço o levantamento topográfico...",
+              "para folgados como você enfrentarem o perigo e levarem a fama, eu acho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_1_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5539,
+              5544
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, what do you do ... when you're not being ... locked down, I mean?",
+          "Oh, I find new territories and survey them --",
+          "so Jackashores like you can face the danger and make the fame, I suppose."
+        ],
+        "pt-br": [
+          "Então, o que você faz... quando não está sendo... trancado, quero dizer?",
+          "Ah, eu encontro novos territórios e faço o levantamento topográfico...",
+          "para folgados como você enfrentarem o perigo e levarem a fama, eu acho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372193,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_job_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              50.0,
+              57.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5532,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_job_2",
+      "clips": [
+        {
+          "id": "pals_job_2_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.296667,
+          "src": "audio/clips/pals_job_2_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "You're doing well on land, so far! You never wanted to be a Sailor?"
+            ],
+            "pt-br": [
+              "Você está se saindo bem em terra até agora! Nunca quis ser marinheira?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_2_1__sailor.wav",
+            "subtitleCueLines": [
+              5554
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_2_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 8.449563,
+          "src": "audio/clips/pals_job_2_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Surveying suits me. I don't have to deal with anyone too important.",
+              "I'm not good at making friends, so. There is that too."
+            ],
+            "pt-br": [
+              "Topografia combina comigo. Não tenho que lidar com ninguém importante demais.",
+              "Também não sou boa em fazer amigos, então... Tem isso também."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_2_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5559,
+              5564
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You're doing well on land, so far! You never wanted to be a Sailor?",
+          "Surveying suits me. I don't have to deal with anyone too important.",
+          "I'm not good at making friends, so. There is that too."
+        ],
+        "pt-br": [
+          "Você está se saindo bem em terra até agora! Nunca quis ser marinheira?",
+          "Topografia combina comigo. Não tenho que lidar com ninguém importante demais.",
+          "Também não sou boa em fazer amigos, então... Tem isso também."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372194,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_job_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              55.0,
+              40.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5553,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_job_3",
+      "clips": [
+        {
+          "id": "pals_job_3_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 5.927333,
+          "src": "audio/clips/pals_job_3_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Also since I never haul valuables, there is no incentive to be attacked."
+            ],
+            "pt-br": [
+              "E como eu nunca transporto coisas de valor, não há incentivo para me atacarem."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_3_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              5572
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_3_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 5.197667,
+          "src": "audio/clips/pals_job_3_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "*We* don't get attacked! Not too often... there was that one time."
+            ],
+            "pt-br": [
+              "A gente não é atacado! Não tanto assim... teve aquela vez."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_3_2__sailor.wav",
+            "subtitleCueLines": [
+              5576
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_3_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.552333,
+          "src": "audio/clips/pals_job_3_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "And that other time."
+            ],
+            "pt-br": [
+              "E aquela outra vez."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_3_3__boat.wav",
+            "subtitleCueLines": [
+              5580
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_3_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.894625,
+          "src": "audio/clips/pals_job_3_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh yeeeeahhh... that other time!"
+            ],
+            "pt-br": [
+              "Ah, ééééé... aquela outra vez!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_3_4__sailor.wav",
+            "subtitleCueLines": [
+              5583
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Also since I never haul valuables, there is no incentive to be attacked.",
+          "*We* don't get attacked! Not too often... there was that one time.",
+          "And that other time.",
+          "Oh yeeeeahhh... that other time!"
+        ],
+        "pt-br": [
+          "E como eu nunca transporto coisas de valor, não há incentivo para me atacarem.",
+          "A gente não é atacado! Não tanto assim... teve aquela vez.",
+          "E aquela outra vez.",
+          "Ah, ééééé... aquela outra vez!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372195,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_job_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              50.0,
+              33.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5571,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_job_4",
+      "clips": [
+        {
+          "id": "pals_job_4_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.648167,
+          "src": "audio/clips/pals_job_4_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "And factually, we are *both* sailors."
+            ],
+            "pt-br": [
+              "E, na prática, nós duas somos marinheiras."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_4_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              5591
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_4_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.155667,
+          "src": "audio/clips/pals_job_4_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Sorry, yeah ... Footsailor, I'd meant ..."
+            ],
+            "pt-br": [
+              "Foi mal, é... Marinheiro a Pé, eu quis dizer..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_4_2__sailor.wav",
+            "subtitleCueLines": [
+              5594
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_4_3__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 4.083938,
+          "src": "audio/clips/pals_job_4_3__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I understand the colloquialism, but where I come from, it is uncommon."
+            ],
+            "pt-br": [
+              "Entendo a expressão, mas de onde venho, isso não é comum."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_4_3__sailor_alt.wav",
+            "subtitleCueLines": [
+              5598
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_job_4_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.281708,
+          "src": "audio/clips/pals_job_4_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "No offense meant!"
+            ],
+            "pt-br": [
+              "Sem ofensa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_job_4_4__sailor.wav",
+            "subtitleCueLines": [
+              5602
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "And factually, we are *both* sailors.",
+          "Sorry, yeah ... Footsailor, I'd meant ...",
+          "I understand the colloquialism, but where I come from, it is uncommon.",
+          "No offense meant!"
+        ],
+        "pt-br": [
+          "E, na prática, nós duas somos marinheiras.",
+          "Foi mal, é... Marinheiro a Pé, eu quis dizer...",
+          "Entendo a expressão, mas de onde venho, isso não é comum.",
+          "Sem ofensa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372196,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_job_4",
+            "rule": "exact-reference",
+            "coordinates": [
+              41.0,
+              39.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5590,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_where_from_1",
+      "clips": [
+        {
+          "id": "pals_where_from_1_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.616333,
+          "src": "audio/clips/pals_where_from_1_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So where *do* you come from? I'm guessing by your hair --"
+            ],
+            "pt-br": [
+              "Então de onde você vem? Imagino, pelo seu cabelo..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_where_from_1_1__sailor.wav",
+            "subtitleCueLines": [
+              5609
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_where_from_1_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 12.163813,
+          "src": "audio/clips/pals_where_from_1_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Yes, the Eastern Reaches, about as far as the Guild has ever mapped.",
+              "Six months' journey if the weather be kind,",
+              "even in a fast boat like mine. Or yours!"
+            ],
+            "pt-br": [
+              "É. Dos territórios orientais, tão longe quanto a Guilda já mapeou.",
+              "Viagem de seis meses se o tempo ajudar,",
+              "mesmo num barco rápido como o meu. Ou o seu!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_where_from_1_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5614,
+              5619,
+              5622
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So where *do* you come from? I'm guessing by your hair --",
+          "Yes, the Eastern Reaches, about as far as the Guild has ever mapped.",
+          "Six months' journey if the weather be kind,",
+          "even in a fast boat like mine. Or yours!"
+        ],
+        "pt-br": [
+          "Então de onde você vem? Imagino, pelo seu cabelo...",
+          "É. Dos territórios orientais, tão longe quanto a Guilda já mapeou.",
+          "Viagem de seis meses se o tempo ajudar,",
+          "mesmo num barco rápido como o meu. Ou o seu!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372211,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_where_from_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              23.0,
+              21.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5608,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_where_from_2",
+      "clips": [
+        {
+          "id": "pals_where_from_2_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.850667,
+          "src": "audio/clips/pals_where_from_2_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Eastern Reaches. How'd you get into the Guild, then?"
+            ],
+            "pt-br": [
+              "Confins Orientais. Então como você entrou para a Guilda?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_where_from_2_1__sailor.wav",
+            "subtitleCueLines": [
+              5631
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_where_from_2_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 21.093979,
+          "src": "audio/clips/pals_where_from_2_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Met a fellow. Diplomat from your Mainland. It is not uncommon for a paramour to be given a job; working up to Surveyor took demonstration of real skills.",
+              "He did all he could to put up with me, but he was relieved when I set out on my first voyage.",
+              "Good guy. Haven't seen him since."
+            ],
+            "pt-br": [
+              "Conheci um sujeito. Diplomata do seu continente. Não é incomum dar emprego a um amante; chegar a agrimensor exigiu demonstrar habilidades de verdade.",
+              "Ele fez o possível para me suportar, mas ficou aliviado quando parti na minha primeira viagem.",
+              "Um cara legal. Não o vejo desde então."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_where_from_2_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5636,
+              5642,
+              5647
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Eastern Reaches. How'd you get into the Guild, then?",
+          "Met a fellow. Diplomat from your Mainland. It is not uncommon for a paramour to be given a job; working up to Surveyor took demonstration of real skills.",
+          "He did all he could to put up with me, but he was relieved when I set out on my first voyage.",
+          "Good guy. Haven't seen him since."
+        ],
+        "pt-br": [
+          "Confins Orientais. Então como você entrou para a Guilda?",
+          "Conheci um sujeito. Diplomata do seu continente. Não é incomum dar emprego a um amante; chegar a agrimensor exigiu demonstrar habilidades de verdade.",
+          "Ele fez o possível para me suportar, mas ficou aliviado quando parti na minha primeira viagem.",
+          "Um cara legal. Não o vejo desde então."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372202,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_where_from_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              34.0,
+              17.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5630,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_deadwaters",
+      "clips": [
+        {
+          "id": "pals_deadwaters_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.032938,
+          "src": "audio/clips/pals_deadwaters_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So... have you seen the Deadwaters?"
+            ],
+            "pt-br": [
+              "Então... você viu as Águas Mortas?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_deadwaters_1__sailor.wav",
+            "subtitleCueLines": [
+              5654
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_deadwaters_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 32.146604,
+          "src": "audio/clips/pals_deadwaters_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Young guys would go out there on dares, make games of the danger. Usually they all came back.",
+              "But it is the times they do not that make the reputation.",
+              "I went along once, watched from afar. The water shines like polished onyx, dead flat for as far as you can see.",
+              "It stops stones dead in their tracks. They cannot skip. All that energy, just eaten."
+            ],
+            "pt-br": [
+              "Os rapazes iam até lá por desafio, faziam do perigo uma brincadeira. Geralmente todos voltavam.",
+              "Mas é quando não voltam que se cria a reputação.",
+              "Fui com eles uma vez, observei de longe. A água brilha como ônix polido, lisíssima até onde a vista alcança.",
+              "E paralisa as pedras no ato. Elas não conseguem quicar. Toda aquela energia, simplesmente devorada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_deadwaters_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5658,
+              5662,
+              5666,
+              5671
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_deadwaters_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.446146,
+          "src": "audio/clips/pals_deadwaters_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Sounds beautiful. Like the glassy eye of a beast of the Distant Sea."
+            ],
+            "pt-br": [
+              "Parece lindo. Como o olho vítreo de uma fera do Mar Distante."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_deadwaters_3__sailor.wav",
+            "subtitleCueLines": [
+              5676
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_deadwaters_4__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.904083,
+          "src": "audio/clips/pals_deadwaters_4__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "It is frightening. I have never gone back."
+            ],
+            "pt-br": [
+              "É assustador. Nunca mais voltei."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_deadwaters_4__sailor_alt.wav",
+            "subtitleCueLines": [
+              5680
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So... have you seen the Deadwaters?",
+          "Young guys would go out there on dares, make games of the danger. Usually they all came back.",
+          "But it is the times they do not that make the reputation.",
+          "I went along once, watched from afar. The water shines like polished onyx, dead flat for as far as you can see.",
+          "It stops stones dead in their tracks. They cannot skip. All that energy, just eaten.",
+          "Sounds beautiful. Like the glassy eye of a beast of the Distant Sea.",
+          "It is frightening. I have never gone back."
+        ],
+        "pt-br": [
+          "Então... você viu as Águas Mortas?",
+          "Os rapazes iam até lá por desafio, faziam do perigo uma brincadeira. Geralmente todos voltavam.",
+          "Mas é quando não voltam que se cria a reputação.",
+          "Fui com eles uma vez, observei de longe. A água brilha como ônix polido, lisíssima até onde a vista alcança.",
+          "E paralisa as pedras no ato. Elas não conseguem quicar. Toda aquela energia, simplesmente devorada.",
+          "Parece lindo. Como o olho vítreo de uma fera do Mar Distante.",
+          "É assustador. Nunca mais voltei."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372223,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_deadwaters",
+            "rule": "exact-reference",
+            "coordinates": [
+              38.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5653,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_interdict_1",
+      "clips": [
+        {
+          "id": "pals_interdict_1_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.557333,
+          "src": "audio/clips/pals_interdict_1_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "First interdict is broken. Good job."
+            ],
+            "pt-br": [
+              "O primeiro interdito foi quebrado. Bom trabalho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_interdict_1_1__boat.wav",
+            "subtitleCueLines": [
+              5687
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "First interdict is broken. Good job."
+        ],
+        "pt-br": [
+          "O primeiro interdito foi quebrado. Bom trabalho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343402,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "pals_interdict_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              34.93407440185547,
+              7.093514919281006,
+              0.12003517150878906
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5686,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_interdict_2",
+      "clips": [
+        {
+          "id": "pals_interdict_2_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.864,
+          "src": "audio/clips/pals_interdict_2_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Second interdict is done. Now, you two get back!"
+            ],
+            "pt-br": [
+              "O segundo interdito foi limpo. Agora, vocês duas voltem!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_interdict_2_1__boat.wav",
+            "subtitleCueLines": [
+              5695
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_interdict_2_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.771292,
+          "src": "audio/clips/pals_interdict_2_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Veddy, you cannot pick us up?"
+            ],
+            "pt-br": [
+              "Veddy, você não pode vir nos buscar?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_interdict_2_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5699
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_interdict_2_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.529,
+          "src": "audio/clips/pals_interdict_2_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "They can only go outward from where the interdicts --"
+            ],
+            "pt-br": [
+              "Eles só podem sair de onde os interditos..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_interdict_2_3__sailor.wav",
+            "subtitleCueLines": [
+              5702
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_interdict_2_4__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 9.247813,
+          "src": "audio/clips/pals_interdict_2_4__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Too much, too much talking. Yes, yes I see.",
+              "Veddy will wait for us."
+            ],
+            "pt-br": [
+              "Falando demais, falando demais. Sim, sim, já entendi.",
+              "Veddy vai esperar por nós."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_interdict_2_4__sailor_alt.wav",
+            "subtitleCueLines": [
+              5707,
+              5712
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Second interdict is done. Now, you two get back!",
+          "Veddy, you cannot pick us up?",
+          "They can only go outward from where the interdicts --",
+          "Too much, too much talking. Yes, yes I see.",
+          "Veddy will wait for us."
+        ],
+        "pt-br": [
+          "O segundo interdito foi limpo. Agora, vocês duas voltem!",
+          "Veddy, você não pode vir nos buscar?",
+          "Eles só podem sair de onde os interditos...",
+          "Falando demais, falando demais. Sim, sim, já entendi.",
+          "Veddy vai esperar por nós."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343403,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "pals_interdict_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              42.98145294189453,
+              23.06612205505371,
+              0.0040416717529296875
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5694,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_asking_about_interdicts_1",
+      "clips": [
+        {
+          "id": "pals_asking_about_interdicts_1_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.07,
+          "src": "audio/clips/pals_asking_about_interdicts_1_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Ask her. I want to see what she says."
+            ],
+            "pt-br": [
+              "Pergunte a ela. Quero ver o que ela diz."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_1_1__boat.wav",
+            "subtitleCueLines": [
+              5719
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_asking_about_interdicts_1_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.995292,
+          "src": "audio/clips/pals_asking_about_interdicts_1_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So... ... What do you make of these interdicts? Why here? Why now?"
+            ],
+            "pt-br": [
+              "Então... O que você acha desses interditos? Por que aqui? Por que agora?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_1_2__sailor.wav",
+            "subtitleCueLines": [
+              5723
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_asking_about_interdicts_1_3__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 3.38075,
+          "src": "audio/clips/pals_asking_about_interdicts_1_3__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Until you got here, all I *could* do was sit around and think about it."
+            ],
+            "pt-br": [
+              "Até você chegar aqui, tudo que eu podia fazer era ficar à toa e pensar nisso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_1_3__sailor_alt.wav",
+            "subtitleCueLines": [
+              5728
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Ask her. I want to see what she says.",
+          "So... ... What do you make of these interdicts? Why here? Why now?",
+          "Until you got here, all I *could* do was sit around and think about it."
+        ],
+        "pt-br": [
+          "Pergunte a ela. Quero ver o que ela diz.",
+          "Então... O que você acha desses interditos? Por que aqui? Por que agora?",
+          "Até você chegar aqui, tudo que eu podia fazer era ficar à toa e pensar nisso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372221,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_asking_about_interdicts_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              46.0,
+              0.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5718,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_asking_about_interdicts_2",
+      "clips": [
+        {
+          "id": "pals_asking_about_interdicts_2_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.280646,
+          "src": "audio/clips/pals_asking_about_interdicts_2_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Any conclusions?"
+            ],
+            "pt-br": [
+              "Alguma conclusão?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_2_1__sailor.wav",
+            "subtitleCueLines": [
+              5737
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_asking_about_interdicts_2_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 5.701229,
+          "src": "audio/clips/pals_asking_about_interdicts_2_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Perhaps they're just old tests, made during initial development of the technique, now forgotten?"
+            ],
+            "pt-br": [
+              "Talvez sejam só testes antigos da época em que a técnica estava sendo desenvolvida e que agora estão esquecidos?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_2_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5740
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_asking_about_interdicts_2_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.354146,
+          "src": "audio/clips/pals_asking_about_interdicts_2_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Wouldn't they be washed to sea by now, or else, piled over?"
+            ],
+            "pt-br": [
+              "Não teriam sido levados ao mar a esta altura, ou então cobertos de areia?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_2_3__sailor.wav",
+            "subtitleCueLines": [
+              5745
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_asking_about_interdicts_2_4__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.540875,
+          "src": "audio/clips/pals_asking_about_interdicts_2_4__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Perhaps they were, and newly uncovered."
+            ],
+            "pt-br": [
+              "Talvez estivessem, e tenham sido recém-expostos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_2_4__sailor_alt.wav",
+            "subtitleCueLines": [
+              5750
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_asking_about_interdicts_2_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.460667,
+          "src": "audio/clips/pals_asking_about_interdicts_2_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It feels implausible."
+            ],
+            "pt-br": [
+              "Parece pouco plausível."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_2_5__sailor.wav",
+            "subtitleCueLines": [
+              5753
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_asking_about_interdicts_2_6__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 4.751375,
+          "src": "audio/clips/pals_asking_about_interdicts_2_6__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Yeah, shh, Veddy! Shhh, Veddy, I'm trying to talk."
+            ],
+            "pt-br": [
+              "É, xiiu, Veddy! Xiiiu, Veddy, estou tentando falar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_asking_about_interdicts_2_6__sailor_alt.wav",
+            "subtitleCueLines": [
+              5756
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Any conclusions?",
+          "Perhaps they're just old tests, made during initial development of the technique, now forgotten?",
+          "Wouldn't they be washed to sea by now, or else, piled over?",
+          "Perhaps they were, and newly uncovered.",
+          "It feels implausible.",
+          "Yeah, shh, Veddy! Shhh, Veddy, I'm trying to talk."
+        ],
+        "pt-br": [
+          "Alguma conclusão?",
+          "Talvez sejam só testes antigos da época em que a técnica estava sendo desenvolvida e que agora estão esquecidos?",
+          "Não teriam sido levados ao mar a esta altura, ou então cobertos de areia?",
+          "Talvez estivessem, e tenham sido recém-expostos.",
+          "Parece pouco plausível.",
+          "É, xiiu, Veddy! Xiiiu, Veddy, estou tentando falar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372203,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_asking_about_interdicts_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              53.0,
+              15.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5736,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_borrie",
+      "clips": [
+        {
+          "id": "pals_borrie_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 3.092938,
+          "src": "audio/clips/pals_borrie_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Yeah, yeah, okay, okay Veddy, I will."
+            ],
+            "pt-br": [
+              "É, é, tá, tá, Veddy, eu vou."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_borrie_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              5764
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_borrie_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.726667,
+          "src": "audio/clips/pals_borrie_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "She calls her boat Veddy! Ought I call you Borrie from here out?"
+            ],
+            "pt-br": [
+              "Ela chama o barco dela de Veddy! Deveria eu te chamar de Borrie de agora em diante?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_borrie_2__sailor.wav",
+            "subtitleCueLines": [
+              5768
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_borrie_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.915375,
+          "src": "audio/clips/pals_borrie_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I've half a runner to take off without you, right this second. I can do that now!"
+            ],
+            "pt-br": [
+              "Estou quase partindo sem você, neste exato instante. Agora eu posso fazer isso!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_borrie_3__boat.wav",
+            "subtitleCueLines": [
+              5772
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_borrie_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.921437,
+          "src": "audio/clips/pals_borrie_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Thanks to my good work!"
+            ],
+            "pt-br": [
+              "Graças ao meu bom trabalho!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_borrie_4__sailor.wav",
+            "subtitleCueLines": [
+              5778
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_borrie_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.132667,
+          "src": "audio/clips/pals_borrie_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "On *my* guidance. And if you stick to doing what I tell you, we'll go far."
+            ],
+            "pt-br": [
+              "Sob a minha orientação. E, se continuar fazendo o que eu digo, iremos longe."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_borrie_5__boat.wav",
+            "subtitleCueLines": [
+              5781
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Yeah, yeah, okay, okay Veddy, I will.",
+          "She calls her boat Veddy! Ought I call you Borrie from here out?",
+          "I've half a runner to take off without you, right this second. I can do that now!",
+          "Thanks to my good work!",
+          "On *my* guidance. And if you stick to doing what I tell you, we'll go far."
+        ],
+        "pt-br": [
+          "É, é, tá, tá, Veddy, eu vou.",
+          "Ela chama o barco dela de Veddy! Deveria eu te chamar de Borrie de agora em diante?",
+          "Estou quase partindo sem você, neste exato instante. Agora eu posso fazer isso!",
+          "Graças ao meu bom trabalho!",
+          "Sob a minha orientação. E, se continuar fazendo o que eu digo, iremos longe."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 94372204,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_borrie",
+            "rule": "exact-reference",
+            "coordinates": [
+              62.0,
+              17.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5763,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_farguild",
+      "clips": [
+        {
+          "id": "pals_farguild_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 12.681812,
+          "src": "audio/clips/pals_farguild_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Veddy said we should trust you. So. You have heard the rumors",
+              "of the presumed entity that some call the Farguild,",
+              "for lack of a known name... an empire beyond the Deadwaters?"
+            ],
+            "pt-br": [
+              "Veddy disse que devíamos confiar em você. Então. Você ouviu rumores",
+              "sobre a suposta entidade que alguns chamam de Guilda de Longe,",
+              "por falta de um nome conhecido... um império além das Águas Mortas?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_farguild_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              5789,
+              5793,
+              5797
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_farguild_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.099771,
+          "src": "audio/clips/pals_farguild_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Of course! Borrie and I were just discussing the rumors."
+            ],
+            "pt-br": [
+              "Claro! Borrie e eu estávamos justamente falando dos rumores."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_farguild_2__sailor.wav",
+            "subtitleCueLines": [
+              5801
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_farguild_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 0.64825,
+          "src": "audio/clips/pals_farguild_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Hey!"
+            ],
+            "pt-br": [
+              "Ei!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_farguild_3__boat.wav",
+            "subtitleCueLines": [
+              5805
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_farguild_4__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 14.067354,
+          "src": "audio/clips/pals_farguild_4__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I am not merely surveying. I was sent here with secondary duties.",
+              "To look for evidence of a Farguild incursion. If these interdicts were stolen, we may now have that evidence."
+            ],
+            "pt-br": [
+              "Não estou apenas fazendo um levantamento. Fui enviado para cá com funções secundárias.",
+              "Procurar indícios de uma incursão da Guilda de Longe. Se esses interditos foram roubados, talvez agora tenhamos esses indícios."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_farguild_4__sailor_alt.wav",
+            "subtitleCueLines": [
+              5809,
+              5813
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Veddy said we should trust you. So. You have heard the rumors",
+          "of the presumed entity that some call the Farguild,",
+          "for lack of a known name... an empire beyond the Deadwaters?",
+          "Of course! Borrie and I were just discussing the rumors.",
+          "Hey!",
+          "I am not merely surveying. I was sent here with secondary duties.",
+          "To look for evidence of a Farguild incursion. If these interdicts were stolen, we may now have that evidence."
+        ],
+        "pt-br": [
+          "Veddy disse que devíamos confiar em você. Então. Você ouviu rumores",
+          "sobre a suposta entidade que alguns chamam de Guilda de Longe,",
+          "por falta de um nome conhecido... um império além das Águas Mortas?",
+          "Claro! Borrie e eu estávamos justamente falando dos rumores.",
+          "Ei!",
+          "Não estou apenas fazendo um levantamento. Fui enviado para cá com funções secundárias.",
+          "Procurar indícios de uma incursão da Guilda de Longe. Se esses interditos foram roubados, talvez agora tenhamos esses indícios."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 135266346,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_farguild",
+            "rule": "exact-reference",
+            "coordinates": [
+              68.0,
+              29.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          },
+          {
+            "entityId": 135266347,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_farguild",
+            "rule": "exact-reference",
+            "coordinates": [
+              69.0,
+              29.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          },
+          {
+            "entityId": 94372206,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "pals_farguild",
+            "rule": "exact-reference",
+            "coordinates": [
+              62.0,
+              29.0,
+              0.0
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5788,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_meeting_vedessud",
+      "clips": [
+        {
+          "id": "pals_meeting_vedessud_1__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 6.708312,
+          "src": "audio/clips/pals_meeting_vedessud_1__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Ahh! Long last! Here is my boat, Vedessud. Hey Veddy, did you miss me?"
+            ],
+            "pt-br": [
+              "Finalmente! Aqui está meu barco, Vedessud. Ei, Veddy, sentiu minha falta?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_meeting_vedessud_1__sailor_alt.wav",
+            "subtitleCueLines": [
+              5823
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_meeting_vedessud_2__vedessud",
+          "speaker": "vedessud",
+          "speakerName": "vedessud",
+          "duration": 16.085646,
+          "src": "audio/clips/pals_meeting_vedessud_2__vedessud.mp3",
+          "transcripts": {
+            "en": [
+              "You hardly shut up the whole time, but it's nice to see you again, in the flesh, as it were.",
+              "Pleased to meet you finally, Janaila. She's whispered about you a great deal, this past hour."
+            ],
+            "pt-br": [
+              "Você quase não calou a boca o tempo todo, mas é bom te ver de novo, em carne e osso, por assim dizer.",
+              "Prazer em conhecê-la enfim, Janaila. Ela falou muito de você nesta última hora."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_meeting_vedessud_2__vedessud.wav",
+            "subtitleCueLines": [
+              5827,
+              5833
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_meeting_vedessud_3__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.580938,
+          "src": "audio/clips/pals_meeting_vedessud_3__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Veddy! That sounded a little impolite."
+            ],
+            "pt-br": [
+              "Veddy! Isso pareceu um pouco grosseiro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_meeting_vedessud_3__sailor_alt.wav",
+            "subtitleCueLines": [
+              5839
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_meeting_vedessud_4__vedessud",
+          "speaker": "vedessud",
+          "speakerName": "vedessud",
+          "duration": 19.436937,
+          "src": "audio/clips/pals_meeting_vedessud_4__vedessud.mp3",
+          "transcripts": {
+            "en": [
+              "Oh, I apologize. I just meant ... she was telling me how good you are at solving problems!",
+              "She looks up to the Footsailors. But between you and me, I think she'd be an excellent Sailor herself."
+            ],
+            "pt-br": [
+              "Ah, peço desculpas. Só quis dizer... que ela estava me contando como você é boa em resolver problemas!",
+              "Ela admira as marinheiras a pé. Mas, cá entre nós, acho que ela seria uma excelente marinheira também."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_meeting_vedessud_4__vedessud.wav",
+            "subtitleCueLines": [
+              5842,
+              5847
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_meeting_vedessud_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.289521,
+          "src": "audio/clips/pals_meeting_vedessud_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Wouldn't have known she wasn't."
+            ],
+            "pt-br": [
+              "Não teria imaginado que ela não fosse."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_meeting_vedessud_5__sailor.wav",
+            "subtitleCueLines": [
+              5852
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_meeting_vedessud_6__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 3.418792,
+          "src": "audio/clips/pals_meeting_vedessud_6__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Veddy! You are making me embarrassed."
+            ],
+            "pt-br": [
+              "Veddy! Você está me deixando envergonhada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_meeting_vedessud_6__sailor_alt.wav",
+            "subtitleCueLines": [
+              5855
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Ahh! Long last! Here is my boat, Vedessud. Hey Veddy, did you miss me?",
+          "You hardly shut up the whole time, but it's nice to see you again, in the flesh, as it were.",
+          "Pleased to meet you finally, Janaila. She's whispered about you a great deal, this past hour.",
+          "Veddy! That sounded a little impolite.",
+          "Oh, I apologize. I just meant ... she was telling me how good you are at solving problems!",
+          "She looks up to the Footsailors. But between you and me, I think she'd be an excellent Sailor herself.",
+          "Wouldn't have known she wasn't.",
+          "Veddy! You are making me embarrassed."
+        ],
+        "pt-br": [
+          "Finalmente! Aqui está meu barco, Vedessud. Ei, Veddy, sentiu minha falta?",
+          "Você quase não calou a boca o tempo todo, mas é bom te ver de novo, em carne e osso, por assim dizer.",
+          "Prazer em conhecê-la enfim, Janaila. Ela falou muito de você nesta última hora.",
+          "Veddy! Isso pareceu um pouco grosseiro.",
+          "Ah, peço desculpas. Só quis dizer... que ela estava me contando como você é boa em resolver problemas!",
+          "Ela admira as marinheiras a pé. Mas, cá entre nós, acho que ela seria uma excelente marinheira também.",
+          "Não teria imaginado que ela não fosse.",
+          "Veddy! Você está me deixando envergonhada."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343400,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "pals_meeting_vedessud",
+            "rule": "exact-reference",
+            "coordinates": [
+              67.8511962890625,
+              46.4138298034668,
+              0.0341796875
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5822,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_rearrival_on_starting_island",
+      "clips": [
+        {
+          "id": "pals_rearrival_on_starting_island_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.930542,
+          "src": "audio/clips/pals_rearrival_on_starting_island_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Come talk to me, and let's get going!"
+            ],
+            "pt-br": [
+              "Venha falar comigo, e vamos andando!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_rearrival_on_starting_island_1__boat.wav",
+            "subtitleCueLines": [
+              5862
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Come talk to me, and let's get going!"
+        ],
+        "pt-br": [
+          "Venha falar comigo, e vamos andando!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343405,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "pals_rearrival_on_starting_island",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.231882095336914,
+              50.86063766479492,
+              -0.10000228881835938
+            ],
+            "source": "data-common/skipping_pals.entities"
+          }
+        ],
+        "subtitleLine": 5861,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_talk_to_vedessud_sailor",
+      "clips": [
+        {
+          "id": "pals_talk_to_vedessud_sailor_1__vedessud",
+          "speaker": "vedessud",
+          "speakerName": "vedessud",
+          "duration": 3.764833,
+          "src": "audio/clips/pals_talk_to_vedessud_sailor_1__vedessud.mp3",
+          "transcripts": {
+            "en": [
+              "Thanks for all your help! We're almost out of here!"
+            ],
+            "pt-br": [
+              "Obrigada por toda a ajuda! Estamos quase saindo daqui!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_talk_to_vedessud_sailor_1__vedessud.wav",
+            "subtitleCueLines": [
+              5870
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_talk_to_vedessud_sailor_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.776,
+          "src": "audio/clips/pals_talk_to_vedessud_sailor_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "All you need to do is come back to me now, and we'll be on our way!"
+            ],
+            "pt-br": [
+              "Tudo o que você precisa fazer é voltar até mim agora, e vamos embora!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_talk_to_vedessud_sailor_2__boat.wav",
+            "subtitleCueLines": [
+              5874
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Thanks for all your help! We're almost out of here!",
+          "All you need to do is come back to me now, and we'll be on our way!"
+        ],
+        "pt-br": [
+          "Obrigada por toda a ajuda! Estamos quase saindo daqui!",
+          "Tudo o que você precisa fazer é voltar até mim agora, e vamos embora!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "skipping_pals",
+            "rule": "related-story-namespace",
+            "namespace": "pals",
+            "supportingBlocks": [
+              "pals_asking_about_interdicts_1",
+              "pals_asking_about_interdicts_2",
+              "pals_borrie",
+              "pals_deadwaters",
+              "pals_farguild",
+              "pals_good_luck",
+              "pals_interdict_1",
+              "pals_interdict_2",
+              "pals_job_1",
+              "pals_job_2",
+              "pals_job_3",
+              "pals_job_4",
+              "pals_meeting_vedessud",
+              "pals_rearrival_on_starting_island",
+              "pals_start",
+              "pals_two",
+              "pals_where_from_1",
+              "pals_where_from_2"
+            ]
+          }
+        ],
+        "subtitleLine": 5869,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_talk_to_vedessud_surveyor",
+      "clips": [
+        {
+          "id": "pals_talk_to_vedessud_surveyor_1__vedessud",
+          "speaker": "vedessud",
+          "speakerName": "vedessud",
+          "duration": 10.393771,
+          "src": "audio/clips/pals_talk_to_vedessud_surveyor_1__vedessud.mp3",
+          "transcripts": {
+            "en": [
+              "I'm thankful we'll be out of here soon. Great new friends you've made!",
+              "Just help her back to her Boat, and we'll be on our way."
+            ],
+            "pt-br": [
+              "Fico grata por estarmos saindo daqui em breve. Ótimas novas amigas você fez!",
+              "É só ajudar ela a voltar para o barco, e vamos embora."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_talk_to_vedessud_surveyor_1__vedessud.wav",
+            "subtitleCueLines": [
+              5884,
+              5889
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm thankful we'll be out of here soon. Great new friends you've made!",
+          "Just help her back to her Boat, and we'll be on our way."
+        ],
+        "pt-br": [
+          "Fico grata por estarmos saindo daqui em breve. Ótimas novas amigas você fez!",
+          "É só ajudar ela a voltar para o barco, e vamos embora."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "skipping_pals",
+            "rule": "related-story-namespace",
+            "namespace": "pals",
+            "supportingBlocks": [
+              "pals_asking_about_interdicts_1",
+              "pals_asking_about_interdicts_2",
+              "pals_borrie",
+              "pals_deadwaters",
+              "pals_farguild",
+              "pals_good_luck",
+              "pals_interdict_1",
+              "pals_interdict_2",
+              "pals_job_1",
+              "pals_job_2",
+              "pals_job_3",
+              "pals_job_4",
+              "pals_meeting_vedessud",
+              "pals_rearrival_on_starting_island",
+              "pals_start",
+              "pals_two",
+              "pals_where_from_1",
+              "pals_where_from_2"
+            ]
+          }
+        ],
+        "subtitleLine": 5883,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_sailors_swapped",
+      "clips": [
+        {
+          "id": "pals_sailors_swapped_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.06,
+          "src": "audio/clips/pals_sailors_swapped_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Oh... what kind of joke is that deckrat putting up, now?"
+            ],
+            "pt-br": [
+              "Ah... que tipo de brincadeira esse rato de convés está aprontando agora?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_swapped_1__boat.wav",
+            "subtitleCueLines": [
+              5897
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_swapped_2__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 3.687562,
+          "src": "audio/clips/pals_sailors_swapped_2__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "It's fine, it's fine... we'll meet out at sea and do a hot swap."
+            ],
+            "pt-br": [
+              "Tá tudo bem, tá tudo bem... vamos nos encontrar no mar e fazer a troca rápida."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_swapped_2__sailor_alt.wav",
+            "subtitleCueLines": [
+              5901
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_swapped_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.812667,
+          "src": "audio/clips/pals_sailors_swapped_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "As if today weren't harrowing enough!"
+            ],
+            "pt-br": [
+              "Como se o dia já não estivesse terrível o suficiente!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_swapped_3__boat.wav",
+            "subtitleCueLines": [
+              5906
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_swapped_4__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 1.678625,
+          "src": "audio/clips/pals_sailors_swapped_4__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Thank you for rescuing us."
+            ],
+            "pt-br": [
+              "Agradeço por nos resgatar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_swapped_4__sailor_alt.wav",
+            "subtitleCueLines": [
+              5909
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_swapped_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 6.488,
+          "src": "audio/clips/pals_sailors_swapped_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You're welcome. As you saw, our success hinged on my ability to keep that rapscallion in line!"
+            ],
+            "pt-br": [
+              "De nada. Como você viu, nosso sucesso dependeu da minha capacidade de manter aquele patife na linha!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_swapped_5__boat.wav",
+            "subtitleCueLines": [
+              5912
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_swapped_6__sailor_alt",
+          "speaker": "sailor_alt",
+          "speakerName": "sailor_alt",
+          "duration": 2.465313,
+          "src": "audio/clips/pals_sailors_swapped_6__sailor_alt.mp3",
+          "transcripts": {
+            "en": [
+              "So shall it be logged."
+            ],
+            "pt-br": [
+              "Assim ficará registrado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_swapped_6__sailor_alt.wav",
+            "subtitleCueLines": [
+              5917
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Oh... what kind of joke is that deckrat putting up, now?",
+          "It's fine, it's fine... we'll meet out at sea and do a hot swap.",
+          "As if today weren't harrowing enough!",
+          "Thank you for rescuing us.",
+          "You're welcome. As you saw, our success hinged on my ability to keep that rapscallion in line!",
+          "So shall it be logged."
+        ],
+        "pt-br": [
+          "Ah... que tipo de brincadeira esse rato de convés está aprontando agora?",
+          "Tá tudo bem, tá tudo bem... vamos nos encontrar no mar e fazer a troca rápida.",
+          "Como se o dia já não estivesse terrível o suficiente!",
+          "Agradeço por nos resgatar.",
+          "De nada. Como você viu, nosso sucesso dependeu da minha capacidade de manter aquele patife na linha!",
+          "Assim ficará registrado."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "skipping_pals",
+            "rule": "related-story-namespace",
+            "namespace": "pals",
+            "supportingBlocks": [
+              "pals_asking_about_interdicts_1",
+              "pals_asking_about_interdicts_2",
+              "pals_borrie",
+              "pals_deadwaters",
+              "pals_farguild",
+              "pals_good_luck",
+              "pals_interdict_1",
+              "pals_interdict_2",
+              "pals_job_1",
+              "pals_job_2",
+              "pals_job_3",
+              "pals_job_4",
+              "pals_meeting_vedessud",
+              "pals_rearrival_on_starting_island",
+              "pals_start",
+              "pals_two",
+              "pals_where_from_1",
+              "pals_where_from_2"
+            ]
+          }
+        ],
+        "subtitleLine": 5896,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "pals_sailors_not_swapped",
+      "clips": [
+        {
+          "id": "pals_sailors_not_swapped_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.569167,
+          "src": "audio/clips/pals_sailors_not_swapped_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Another excellent day's work!"
+            ],
+            "pt-br": [
+              "Mais um bom dia de trabalho!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_not_swapped_1__sailor.wav",
+            "subtitleCueLines": [
+              5924
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_not_swapped_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 8.640542,
+          "src": "audio/clips/pals_sailors_not_swapped_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "She seems every bit as inventive and resourceful as you.",
+              "But under the surface, there's something odd..."
+            ],
+            "pt-br": [
+              "Ela parece tão inventiva e esperta quanto você.",
+              "Mas, por baixo da superfície, tem algo estranho..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_not_swapped_2__boat.wav",
+            "subtitleCueLines": [
+              5927,
+              5932
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_not_swapped_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.203,
+          "src": "audio/clips/pals_sailors_not_swapped_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Besides the hair, you mean?"
+            ],
+            "pt-br": [
+              "Além do cabelo, quer dizer?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_not_swapped_3__sailor.wav",
+            "subtitleCueLines": [
+              5936
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_not_swapped_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.008,
+          "src": "audio/clips/pals_sailors_not_swapped_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Besides the hair. We'll talk at sea.",
+              "Let's cruise."
+            ],
+            "pt-br": [
+              "Além do cabelo. Vamos falar disso no mar.",
+              "Vamos navegar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_not_swapped_4__boat.wav",
+            "subtitleCueLines": [
+              5939,
+              5943
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "pals_sailors_not_swapped_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.816146,
+          "src": "audio/clips/pals_sailors_not_swapped_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Let's cruise!"
+            ],
+            "pt-br": [
+              "Vamos navegar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "pals_sailors_not_swapped_5__sailor.wav",
+            "subtitleCueLines": [
+              5946
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Another excellent day's work!",
+          "She seems every bit as inventive and resourceful as you.",
+          "But under the surface, there's something odd...",
+          "Besides the hair, you mean?",
+          "Besides the hair. We'll talk at sea.",
+          "Let's cruise.",
+          "Let's cruise!"
+        ],
+        "pt-br": [
+          "Mais um bom dia de trabalho!",
+          "Ela parece tão inventiva e esperta quanto você.",
+          "Mas, por baixo da superfície, tem algo estranho...",
+          "Além do cabelo, quer dizer?",
+          "Além do cabelo. Vamos falar disso no mar.",
+          "Vamos navegar.",
+          "Vamos navegar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "skipping_pals",
+            "rule": "related-story-namespace",
+            "namespace": "pals",
+            "supportingBlocks": [
+              "pals_asking_about_interdicts_1",
+              "pals_asking_about_interdicts_2",
+              "pals_borrie",
+              "pals_deadwaters",
+              "pals_farguild",
+              "pals_good_luck",
+              "pals_interdict_1",
+              "pals_interdict_2",
+              "pals_job_1",
+              "pals_job_2",
+              "pals_job_3",
+              "pals_job_4",
+              "pals_meeting_vedessud",
+              "pals_rearrival_on_starting_island",
+              "pals_start",
+              "pals_two",
+              "pals_where_from_1",
+              "pals_where_from_2"
+            ]
+          }
+        ],
+        "subtitleLine": 5923,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

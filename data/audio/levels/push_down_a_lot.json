@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "level": "push_down_a_lot",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_push_down_a_lot",
+      "clips": [
+        {
+          "id": "audiolog_di_push_down_a_lot_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 69.333375,
+          "src": "audio/clips/audiolog_di_push_down_a_lot_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "The idea here is, you need to set up these stones so that, once you drop down,",
+              "you'll be able to push them onto the buttons ...",
+              "but due to tricky button positioning and the shape of the plateau,",
+              "it's difficult to see how to cover all the buttons at the same time.",
+              "This level is divided into two distinct parts,",
+              "a setup phase and a button-pushing phase;",
+              "this means it's mostly about pre-planning, because once you drop down, you can't change your crystal placement.",
+              "So, the level feels like a big mental maze where you are looking",
+              "at the shape of the plateau and what you can do with it.",
+              "I like this level a lot; it calls explicit attention to the process of solving a mental maze.",
+              "At the same time, though, you do mental mazes in a lot of puzzle games, so maybe this is not as special as we would like.",
+              "One thing to note about the maze design here:",
+              "it's mostly about whether you can push crystals away from the plateau or not.",
+              "In a few cases the answer is \"Yes, I can get the crystal out if I push it in front of this hole, then drop down into the hole,\"",
+              "but you can only use that trick once, so you have to detect",
+              "the button that cannot be reached in any other way."
+            ],
+            "pt-br": [
+              "A ideia aqui é: você precisa posicionar estas pedras de modo que, quando você descer,",
+              "vai conseguir empurrá-las até os botões...",
+              "mas, por causa da posição complicada dos botões e do formato do platô,",
+              "é difícil ver como cobrir todos os botões ao mesmo tempo.",
+              "Este nível é dividido em duas partes distintas,",
+              "uma fase de preparação e uma fase de apertar botões;",
+              "isso significa que ele é, em grande parte, sobre planejamento prévio, porque, depois que você desce, não pode mais mudar a posição do seu cristal.",
+              "Então, o nível parece um grande labirinto mental em que você está olhando",
+              "para o formato do platô e para o que pode fazer com ele.",
+              "Gosto muito deste nível; ele chama atenção de forma explícita para o processo de resolver um labirinto mental.",
+              "Ao mesmo tempo, porém, você faz labirintos mentais em muitos jogos de quebra-cabeça, então talvez isso não seja tão especial quanto gostaríamos.",
+              "Uma coisa a notar sobre o design do labirinto aqui:",
+              "é mais sobre se você conseguiria ou não empurrar cristais para fora do platô.",
+              "Em alguns casos, a resposta é: “Sim, eu consigo tirar o cristal se eu o empurrar para a frente deste buraco, e então descer no buraco”,",
+              "mas você só pode usar esse truque uma vez, então você precisa identificar",
+              "o botão que não pode ser alcançado de nenhuma outra forma."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_push_down_a_lot_1__director.wav",
+            "subtitleCueLines": [
+              13759,
+              13764,
+              13768,
+              13772,
+              13776,
+              13780,
+              13784,
+              13789,
+              13793,
+              13797,
+              13802,
+              13807,
+              13810,
+              13815,
+              13821,
+              13825
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The idea here is, you need to set up these stones so that, once you drop down,",
+          "you'll be able to push them onto the buttons ...",
+          "but due to tricky button positioning and the shape of the plateau,",
+          "it's difficult to see how to cover all the buttons at the same time.",
+          "This level is divided into two distinct parts,",
+          "a setup phase and a button-pushing phase;",
+          "this means it's mostly about pre-planning, because once you drop down, you can't change your crystal placement.",
+          "So, the level feels like a big mental maze where you are looking",
+          "at the shape of the plateau and what you can do with it.",
+          "I like this level a lot; it calls explicit attention to the process of solving a mental maze.",
+          "At the same time, though, you do mental mazes in a lot of puzzle games, so maybe this is not as special as we would like.",
+          "One thing to note about the maze design here:",
+          "it's mostly about whether you can push crystals away from the plateau or not.",
+          "In a few cases the answer is \"Yes, I can get the crystal out if I push it in front of this hole, then drop down into the hole,\"",
+          "but you can only use that trick once, so you have to detect",
+          "the button that cannot be reached in any other way."
+        ],
+        "pt-br": [
+          "A ideia aqui é: você precisa posicionar estas pedras de modo que, quando você descer,",
+          "vai conseguir empurrá-las até os botões...",
+          "mas, por causa da posição complicada dos botões e do formato do platô,",
+          "é difícil ver como cobrir todos os botões ao mesmo tempo.",
+          "Este nível é dividido em duas partes distintas,",
+          "uma fase de preparação e uma fase de apertar botões;",
+          "isso significa que ele é, em grande parte, sobre planejamento prévio, porque, depois que você desce, não pode mais mudar a posição do seu cristal.",
+          "Então, o nível parece um grande labirinto mental em que você está olhando",
+          "para o formato do platô e para o que pode fazer com ele.",
+          "Gosto muito deste nível; ele chama atenção de forma explícita para o processo de resolver um labirinto mental.",
+          "Ao mesmo tempo, porém, você faz labirintos mentais em muitos jogos de quebra-cabeça, então talvez isso não seja tão especial quanto gostaríamos.",
+          "Uma coisa a notar sobre o design do labirinto aqui:",
+          "é mais sobre se você conseguiria ou não empurrar cristais para fora do platô.",
+          "Em alguns casos, a resposta é: “Sim, eu consigo tirar o cristal se eu o empurrar para a frente deste buraco, e então descer no buraco”,",
+          "mas você só pode usar esse truque uma vez, então você precisa identificar",
+          "o botão que não pode ser alcançado de nenhuma outra forma."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_push_down_a_lot",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              21.0,
+              5.0
+            ],
+            "source": "data-common/push_down_a_lot.entities"
+          }
+        ],
+        "subtitleLine": 13758,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_computation",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_computation",
+      "clips": [
+        {
+          "id": "audiolog_u_computation_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 1.255354,
+          "src": "audio/clips/audiolog_u_computation_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Do you recognize this?"
+            ],
+            "pt-br": [
+              "Você reconhece isto?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_1__director.wav",
+            "subtitleCueLines": [
+              14498
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 11.080667,
+          "src": "audio/clips/audiolog_u_computation_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Ahh, the Clayson's Field. Though we only know it by still images in books and papers;",
+              "I've never seen this kind of smooth rendition. Beautiful!"
+            ],
+            "pt-br": [
+              "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
+              "Nunca vi uma representação tão fluida. Que beleza!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_2__sokoban.wav",
+            "subtitleCueLines": [
+              14502,
+              14507
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_3__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 16.735271,
+          "src": "audio/clips/audiolog_u_computation_3__director.mp3",
+          "transcripts": {
+            "en": [
+              "It's one of the simplest examples of running rules on repeated state --",
+              "where the starting state itself is just always zero.",
+              "Square it, add the two-dimensional constant for that position in the plane, and that's the new number, and repeat.",
+              "See how long your number survives, and color accordingly. And, you see ..."
+            ],
+            "pt-br": [
+              "É um dos exemplos mais simples de aplicar regras a um estado repetido...",
+              "em que o próprio estado inicial é sempre zero.",
+              "Eleve ao quadrado, some a constante bidimensional daquela posição no plano, e esse é o novo número; repita.",
+              "Veja quanto tempo seu número sobrevive, e pinte de acordo. E, veja só..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_3__director.wav",
+            "subtitleCueLines": [
+              14512,
+              14516,
+              14520,
+              14527
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_4__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.534542,
+          "src": "audio/clips/audiolog_u_computation_4__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Infinite detail. Incredible complexity."
+            ],
+            "pt-br": [
+              "Detalhe infinito. Complexidade incrível."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_4__sokoban.wav",
+            "subtitleCueLines": [
+              14531
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_5__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 24.525188,
+          "src": "audio/clips/audiolog_u_computation_5__director.mp3",
+          "transcripts": {
+            "en": [
+              "Glad you understand. I'll give you this to play with. The important thing to internalize --",
+              "and absorb over and over in an attempt to understand ever-more-deeply --",
+              "is that the math is so simple, obviously we don't put the complexity in there, ourselves.",
+              "That complexity and structure is just *already there* somehow. It's fundamental.",
+              "How about this one, have you seen it?"
+            ],
+            "pt-br": [
+              "Que bom que você entendeu. Vou te dar isso para brincar. O importante é internalizar...",
+              "e absorver repetidas vezes, numa tentativa de entender cada vez mais profundamente...",
+              "é que, como a matemática é tão simples, obviamente não colocamos a complexidade ali por conta própria.",
+              "Essa complexidade e estrutura simplesmente já estão ali de algum jeito. É algo fundamental.",
+              "Que tal este aqui, você já viu?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_5__director.wav",
+            "subtitleCueLines": [
+              14534,
+              14538,
+              14542,
+              14546,
+              14551
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_6__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.332667,
+          "src": "audio/clips/audiolog_u_computation_6__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "No, ... no idea what that is."
+            ],
+            "pt-br": [
+              "Não... não faço ideia do que é isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_6__sokoban.wav",
+            "subtitleCueLines": [
+              14555
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_computation_7__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 21.279438,
+          "src": "audio/clips/audiolog_u_computation_7__director.mp3",
+          "transcripts": {
+            "en": [
+              "I'll leave you to play with it. This one is called \"Life\",",
+              "named long ago, conceived as an analogy for biological cells reproducing and dying.",
+              "It's another example of applying simple rules, repeatedly, to initial world state.",
+              "This time the rules are exactly the same at every point in the space.",
+              "Experiment; see what you can figure out."
+            ],
+            "pt-br": [
+              "Vou deixar você brincar com ele. Este aqui se chama “Vida”,",
+              "batizado há muito tempo, concebido como uma analogia para células biológicas que se reproduzem e morrem.",
+              "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
+              "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
+              "Experimente; veja o que consegue descobrir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_computation_7__director.wav",
+            "subtitleCueLines": [
+              14558,
+              14562,
+              14566,
+              14570,
+              14574
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Do you recognize this?",
+          "Ahh, the Clayson's Field. Though we only know it by still images in books and papers;",
+          "I've never seen this kind of smooth rendition. Beautiful!",
+          "It's one of the simplest examples of running rules on repeated state --",
+          "where the starting state itself is just always zero.",
+          "Square it, add the two-dimensional constant for that position in the plane, and that's the new number, and repeat.",
+          "See how long your number survives, and color accordingly. And, you see ...",
+          "Infinite detail. Incredible complexity.",
+          "Glad you understand. I'll give you this to play with. The important thing to internalize --",
+          "and absorb over and over in an attempt to understand ever-more-deeply --",
+          "is that the math is so simple, obviously we don't put the complexity in there, ourselves.",
+          "That complexity and structure is just *already there* somehow. It's fundamental.",
+          "How about this one, have you seen it?",
+          "No, ... no idea what that is.",
+          "I'll leave you to play with it. This one is called \"Life\",",
+          "named long ago, conceived as an analogy for biological cells reproducing and dying.",
+          "It's another example of applying simple rules, repeatedly, to initial world state.",
+          "This time the rules are exactly the same at every point in the space.",
+          "Experiment; see what you can figure out."
+        ],
+        "pt-br": [
+          "Você reconhece isto?",
+          "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
+          "Nunca vi uma representação tão fluida. Que beleza!",
+          "É um dos exemplos mais simples de aplicar regras a um estado repetido...",
+          "em que o próprio estado inicial é sempre zero.",
+          "Eleve ao quadrado, some a constante bidimensional daquela posição no plano, e esse é o novo número; repita.",
+          "Veja quanto tempo seu número sobrevive, e pinte de acordo. E, veja só...",
+          "Detalhe infinito. Complexidade incrível.",
+          "Que bom que você entendeu. Vou te dar isso para brincar. O importante é internalizar...",
+          "e absorver repetidas vezes, numa tentativa de entender cada vez mais profundamente...",
+          "é que, como a matemática é tão simples, obviamente não colocamos a complexidade ali por conta própria.",
+          "Essa complexidade e estrutura simplesmente já estão ali de algum jeito. É algo fundamental.",
+          "Que tal este aqui, você já viu?",
+          "Não... não faço ideia do que é isso.",
+          "Vou deixar você brincar com ele. Este aqui se chama “Vida”,",
+          "batizado há muito tempo, concebido como uma analogia para células biológicas que se reproduzem e morrem.",
+          "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
+          "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
+          "Experimente; veja o que consegue descobrir."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

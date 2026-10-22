@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_decay_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_decay_3",
+      "clips": [
+        {
+          "id": "audiolog_u_decay_3_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 69.844521,
+          "src": "audio/clips/audiolog_u_decay_3_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "We know that our problems have to do with the connectedness of the whole --",
+              "the whole of all space configured by our Order, together, space which is causally intertwined by its connective arcs.",
+              "Somehow, the cross-correlation has become too dense.",
+              "Expanding the volume of the space doesn't help us any more -- diminishing returns,",
+              "like there is a kind of super-information, or super-causation, we don't yet understand.",
+              "Classical holography has an information density limit, that you measure in Planck-area units,",
+              "but here we face a tighter constraint -- something much worse, that kicks in for causally heterogeneous spaces.",
+              "Some think the bounds involve consciousness in some way, which I agree is possible,",
+              "given the way our projections interact with awareness via the Hook channels.",
+              "We've only just realized that fresh observers help with preservation:",
+              "those who have never before experienced a particular Warehouse,",
+              "when it's all new to them, somehow their activities strengthen the projections for a while.",
+              "So you, unexpected Visitor, have helped us a bit already,",
+              "and there are a few more Warehouses I'd like you to visit..."
+            ],
+            "pt-br": [
+              "Sabemos que nossos problemas têm a ver com a conectividade do todo...",
+              "de todo o espaço configurado pela nossa Ordem, em conjunto, espaço que está causalmente interligado por seus arcos conectivos.",
+              "De algum modo, a correlação cruzada ficou densa demais.",
+              "Expandir o volume do espaço já não nos ajuda mais: retorno decrescente,",
+              "como se existisse um tipo de superinformação, ou supercausalidade, que ainda não entendemos.",
+              "A holografia clássica tem um limite de densidade de informação, medido em unidades de área de Planck,",
+              "mas aqui enfrentamos uma restrição maior: algo muito pior, que entra em ação em espaços causalmente heterogêneos.",
+              "Alguns acham que os limites envolvem consciência de algum modo, o que, concordo, é possível,",
+              "dado o modo como nossas projeções interagem com a consciência por meio dos canais Hook.",
+              "Só agora descobrimos que observadores novos ajudam na preservação:",
+              "aqueles que nunca antes experimentaram um Armazém específico,",
+              "quando tudo é novo para eles, de algum modo as atividades deles fortalecem as projeções por um tempo.",
+              "Então você, Visitante inesperado, já nos ajudou um pouco,",
+              "e há mais alguns Armazéns que eu gostaria que você visitasse..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_decay_3_1__director.wav",
+            "subtitleCueLines": [
+              12524,
+              12528,
+              12533,
+              12537,
+              12542,
+              12547,
+              12551,
+              12555,
+              12560,
+              12564,
+              12569,
+              12573,
+              12578,
+              12582
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We know that our problems have to do with the connectedness of the whole --",
+          "the whole of all space configured by our Order, together, space which is causally intertwined by its connective arcs.",
+          "Somehow, the cross-correlation has become too dense.",
+          "Expanding the volume of the space doesn't help us any more -- diminishing returns,",
+          "like there is a kind of super-information, or super-causation, we don't yet understand.",
+          "Classical holography has an information density limit, that you measure in Planck-area units,",
+          "but here we face a tighter constraint -- something much worse, that kicks in for causally heterogeneous spaces.",
+          "Some think the bounds involve consciousness in some way, which I agree is possible,",
+          "given the way our projections interact with awareness via the Hook channels.",
+          "We've only just realized that fresh observers help with preservation:",
+          "those who have never before experienced a particular Warehouse,",
+          "when it's all new to them, somehow their activities strengthen the projections for a while.",
+          "So you, unexpected Visitor, have helped us a bit already,",
+          "and there are a few more Warehouses I'd like you to visit..."
+        ],
+        "pt-br": [
+          "Sabemos que nossos problemas têm a ver com a conectividade do todo...",
+          "de todo o espaço configurado pela nossa Ordem, em conjunto, espaço que está causalmente interligado por seus arcos conectivos.",
+          "De algum modo, a correlação cruzada ficou densa demais.",
+          "Expandir o volume do espaço já não nos ajuda mais: retorno decrescente,",
+          "como se existisse um tipo de superinformação, ou supercausalidade, que ainda não entendemos.",
+          "A holografia clássica tem um limite de densidade de informação, medido em unidades de área de Planck,",
+          "mas aqui enfrentamos uma restrição maior: algo muito pior, que entra em ação em espaços causalmente heterogêneos.",
+          "Alguns acham que os limites envolvem consciência de algum modo, o que, concordo, é possível,",
+          "dado o modo como nossas projeções interagem com a consciência por meio dos canais Hook.",
+          "Só agora descobrimos que observadores novos ajudam na preservação:",
+          "aqueles que nunca antes experimentaram um Armazém específico,",
+          "quando tudo é novo para eles, de algum modo as atividades deles fortalecem as projeções por um tempo.",
+          "Então você, Visitante inesperado, já nos ajudou um pouco,",
+          "e há mais alguns Armazéns que eu gostaria que você visitasse..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_heroes_and_promesst_v4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "worlds_collide_HP_start",
+      "clips": [
+        {
+          "id": "worlds_collide_HP_start_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 5.039917,
+          "src": "audio/clips/worlds_collide_HP_start_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Hello over there! Have you any idea about this ... red ... gate?"
+            ],
+            "pt-br": [
+              "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_start_1__gemsman.wav",
+            "subtitleCueLines": [
+              6687
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HP_start_3__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 4.102854,
+          "src": "audio/clips/worlds_collide_HP_start_3__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "It reminds me of something I know, but, it's also different..."
+            ],
+            "pt-br": [
+              "Ele me lembra algo que me é familiar, mas também é diferente..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_start_3__gemsman.wav",
+            "subtitleCueLines": [
+              6695
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HP_start_5__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 5.669229,
+          "src": "audio/clips/worlds_collide_HP_start_5__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
+            ],
+            "pt-br": [
+              "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_start_5__gemsman.wav",
+            "subtitleCueLines": [
+              6702
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hello over there! Have you any idea about this ... red ... gate?",
+          "...",
+          "It reminds me of something I know, but, it's also different...",
+          "...",
+          "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
+        ],
+        "pt-br": [
+          "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?",
+          "...",
+          "Ele me lembra algo que me é familiar, mas também é diferente...",
+          "...",
+          "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+        ]
+      },
+      "silentCues": [
+        {
+          "id": "worlds_collide_HP_start_2__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            6692
+          ]
+        },
+        {
+          "id": "worlds_collide_HP_start_4__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            6699
+          ]
+        }
+      ],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914566,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "worlds_collide_HP_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
+          }
+        ],
+        "subtitleLine": 6686,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_HP_end",
+      "clips": [
+        {
+          "id": "worlds_collide_HP_end_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.789208,
+          "src": "audio/clips/worlds_collide_HP_end_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "God, I hope I see her again."
+            ],
+            "pt-br": [
+              "Meu Deus, espero vê-la de novo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_end_1__gemsman.wav",
+            "subtitleCueLines": [
+              6712
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "God, I hope I see her again."
+        ],
+        "pt-br": [
+          "Meu Deus, espero vê-la de novo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914566,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "worlds_collide_HP_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              12.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
+          }
+        ],
+        "subtitleLine": 6711,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_HP_monster_gates_open",
+      "clips": [
+        {
+          "id": "worlds_collide_HP_monster_gates_open_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 0.905396,
+          "src": "audio/clips/worlds_collide_HP_monster_gates_open_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Amazing!"
+            ],
+            "pt-br": [
+              "Incrível!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_monster_gates_open_1__gemsman.wav",
+            "subtitleCueLines": [
+              6720
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Amazing!"
+        ],
+        "pt-br": [
+          "Incrível!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914679,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "worlds_collide_HP_monster_gates_open",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.000444412231445,
+              11.571497917175293,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
+          }
+        ],
+        "subtitleLine": 6719,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "audiolog_di_worlds_collide_heroes_and_promesst_v4",
+      "clips": [
+        {
+          "id": "audiolog_di_worlds_collide_heroes_and_promesst_v4_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 32.277458,
+          "src": "audio/clips/audiolog_di_worlds_collide_heroes_and_promesst_v4_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here we moved the location of the Power Socket, so that the Priestess can't push the two Goblins south,",
+              "fixing the exploit from the previous version.",
+              "We also made the third Goblin's area less of an enclosed room,",
+              "to avoid suggesting moves that are irrelevant, like displacing objects through",
+              "the longer stretch of wall that existed in that version of the level.",
+              "Perhaps this version of the level feels a couple rows too tall on the Heroes side,",
+              "but the Beamcaster side needs that space: you need two empty rows on the south to displace the Beamcaster back north."
+            ],
+            "pt-br": [
+              "Aqui mudamos a posição do encaixe de energia, impedindo a Sacerdotisa de empurrar os dois goblins para o sul,",
+              "corrigindo o ponto vulnerável da versão anterior.",
+              "Também deixamos a área do terceiro Goblin menos parecida com uma sala fechada,",
+              "para evitar sugerir movimentos irrelevantes, como deslocar objetos através de",
+              "o trecho mais longo de parede que existia naquela versão da fase.",
+              "Talvez esta versão da fase pareça ter algumas fileiras a mais do lado dos Heróis,",
+              "mas o lado do Lança-feixes precisa desse espaço: você precisa de duas fileiras vazias ao sul para deslocar o Lança-feixes de volta para o norte."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_worlds_collide_heroes_and_promesst_v4_1__director.wav",
+            "subtitleCueLines": [
+              14342,
+              14346,
+              14349,
+              14353,
+              14357,
+              14361,
+              14366
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here we moved the location of the Power Socket, so that the Priestess can't push the two Goblins south,",
+          "fixing the exploit from the previous version.",
+          "We also made the third Goblin's area less of an enclosed room,",
+          "to avoid suggesting moves that are irrelevant, like displacing objects through",
+          "the longer stretch of wall that existed in that version of the level.",
+          "Perhaps this version of the level feels a couple rows too tall on the Heroes side,",
+          "but the Beamcaster side needs that space: you need two empty rows on the south to displace the Beamcaster back north."
+        ],
+        "pt-br": [
+          "Aqui mudamos a posição do encaixe de energia, impedindo a Sacerdotisa de empurrar os dois goblins para o sul,",
+          "corrigindo o ponto vulnerável da versão anterior.",
+          "Também deixamos a área do terceiro Goblin menos parecida com uma sala fechada,",
+          "para evitar sugerir movimentos irrelevantes, como deslocar objetos através de",
+          "o trecho mais longo de parede que existia naquela versão da fase.",
+          "Talvez esta versão da fase pareça ter algumas fileiras a mais do lado dos Heróis,",
+          "mas o lado do Lança-feixes precisa desse espaço: você precisa de duas fileiras vazias ao sul para deslocar o Lança-feixes de volta para o norte."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914681,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_worlds_collide_heroes_and_promesst_v4",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
+          }
+        ],
+        "subtitleLine": 14341,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

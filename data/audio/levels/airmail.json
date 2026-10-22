@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "level": "airmail",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "ms_alone",
+      "clips": [
+        {
+          "id": "ms_alone_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 4.189333,
+          "src": "audio/clips/ms_alone_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Here's the thing about the mirrors: they'll make you feel alone."
+            ],
+            "pt-br": [
+              "O lance dos espelhos é este: eles vão fazer você se sentir sozinho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ms_alone_1__trader.wav",
+            "subtitleCueLines": [
+              7293
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ms_alone_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.121667,
+          "src": "audio/clips/ms_alone_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Alone? We're having a good time together, I thought."
+            ],
+            "pt-br": [
+              "Sozinho? Estávamos nos divertindo juntos, pensei."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ms_alone_2__sailor.wav",
+            "subtitleCueLines": [
+              7297
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here's the thing about the mirrors: they'll make you feel alone.",
+          "Alone? We're having a good time together, I thought."
+        ],
+        "pt-br": [
+          "O lance dos espelhos é este: eles vão fazer você se sentir sozinho.",
+          "Sozinho? Estávamos nos divertindo juntos, pensei."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 3145730,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "ms_alone",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              19.0,
+              0.0
+            ],
+            "source": "data-common/airmail.entities"
+          }
+        ],
+        "subtitleLine": 7292,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

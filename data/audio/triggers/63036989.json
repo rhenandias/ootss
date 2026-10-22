@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "queen_og_first_lily",
+    "audioKey": "63036989",
+    "triggerKind": "movement",
+    "blocks": [
+      "queen_og_first_lily"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      1.0137553215026855,
+      0.8583645820617676,
+      1.5538339614868164
+    ],
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 63036989,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "queen_og_first_lily",
+        "rule": "exact-reference",
+        "coordinates": [
+          78.98677062988281,
+          38.69783401489258,
+          -9.5367431640625e-05
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "queen_og_first_lily",
+      "clips": [
+        {
+          "id": "queen_og_first_lily_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 2.611521,
+          "src": "audio/clips/queen_og_first_lily_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Well, that was a cute ride."
+            ],
+            "pt-br": [
+              "Bom, foi um passeio divertido."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "queen_og_first_lily_1__queen.wav",
+            "subtitleCueLines": [
+              11973
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Well, that was a cute ride."
+        ],
+        "pt-br": [
+          "Bom, foi um passeio divertido."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

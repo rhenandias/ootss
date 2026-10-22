@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "level": "purple_beam_intro_v2_alt",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_architecture",
+      "clips": [
+        {
+          "id": "sp_architecture_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.905333,
+          "src": "audio/clips/sp_architecture_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "This architecture is strange. Makes you wonder who they were."
+            ],
+            "pt-br": [
+              "Essa arquitetura é estranha. Faz você se perguntar quem eles eram."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_architecture_1__sailor.wav",
+            "subtitleCueLines": [
+              7434
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_architecture_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.376333,
+          "src": "audio/clips/sp_architecture_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You should ask your friend."
+            ],
+            "pt-br": [
+              "Você deveria perguntar ao seu amigo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_architecture_2__boat.wav",
+            "subtitleCueLines": [
+              7439
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_architecture_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.606,
+          "src": "audio/clips/sp_architecture_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Yeah... Where's he gone to?"
+            ],
+            "pt-br": [
+              "É... Para onde ele foi?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_architecture_3__sailor.wav",
+            "subtitleCueLines": [
+              7443
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This architecture is strange. Makes you wonder who they were.",
+          "You should ask your friend.",
+          "Yeah... Where's he gone to?"
+        ],
+        "pt-br": [
+          "Essa arquitetura é estranha. Faz você se perguntar quem eles eram.",
+          "Você deveria perguntar ao seu amigo.",
+          "É... Para onde ele foi?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914824,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "sp_architecture",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              20.0,
+              0.0
+            ],
+            "source": "data-common/purple_beam_intro_v2_alt.entities"
+          }
+        ],
+        "subtitleLine": 7433,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "trader_descend",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "like_an_isle",
+      "clips": [
+        {
+          "id": "like_an_isle_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 7.204,
+          "src": "audio/clips/like_an_isle_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "It's like an isle. Just ... no water. Good thing about that: I can't drown."
+            ],
+            "pt-br": [
+              "É tipo uma ilha. Só... sem água. A boa notícia é que eu não posso me afogar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "like_an_isle_1__trader.wav",
+            "subtitleCueLines": [
+              8740
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It's like an isle. Just ... no water. Good thing about that: I can't drown."
+        ],
+        "pt-br": [
+          "É tipo uma ilha. Só... sem água. A boa notícia é que eu não posso me afogar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420430,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "like_an_isle",
+            "rule": "exact-reference",
+            "coordinates": [
+              -6.0,
+              1.0,
+              8.0
+            ],
+            "source": "data-common/trader_descend.entities"
+          }
+        ],
+        "subtitleLine": 8739,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

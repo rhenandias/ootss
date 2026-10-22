@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "level": "skipping_near_beams_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "skipping_stones_start",
+      "clips": [
+        {
+          "id": "skipping_stones_start_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.76175,
+          "src": "audio/clips/skipping_stones_start_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Are you all right, fleshy one?"
+            ],
+            "pt-br": [
+              "Você está bem, ser de carne?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_1__boat.wav",
+            "subtitleCueLines": [
+              3995
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 13.443125,
+          "src": "audio/clips/skipping_stones_start_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Banged my shoulder when you stopped so suddenly.",
+              "It's bruised, stiff, and annoying, like some people we know, but, nothing permanent.",
+              "And since my upper body took the impact, my legs feel *great*!"
+            ],
+            "pt-br": [
+              "Bati o ombro quando você parou tão de repente.",
+              "Está machucado, rígido e irritante, como certas pessoas que conhecemos, mas, nada permanente.",
+              "E como a parte de cima do corpo levou o impacto, minhas pernas estão ótimas!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_2__sailor.wav",
+            "subtitleCueLines": [
+              3999,
+              4002,
+              4008
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.426812,
+          "src": "audio/clips/skipping_stones_start_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Fortunate, as I cannot move at all. We'll need you to fetch that map over there."
+            ],
+            "pt-br": [
+              "Sorte sua, porque eu não consigo me mover. Vamos precisar que você busque aquele mapa ali."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_3__boat.wav",
+            "subtitleCueLines": [
+              4013
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.833604,
+          "src": "audio/clips/skipping_stones_start_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Fetch? Shall I also scratch my fleas and bark at the parcelier?"
+            ],
+            "pt-br": [
+              "Buscar? Então devo também coçar minhas pulgas e latir para o carteiro?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_4__sailor.wav",
+            "subtitleCueLines": [
+              4018
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.106896,
+          "src": "audio/clips/skipping_stones_start_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Do it how you do it, just get that map!"
+            ],
+            "pt-br": [
+              "Faça do seu jeito, só traga aquele mapa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_5__boat.wav",
+            "subtitleCueLines": [
+              4023
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Are you all right, fleshy one?",
+          "Banged my shoulder when you stopped so suddenly.",
+          "It's bruised, stiff, and annoying, like some people we know, but, nothing permanent.",
+          "And since my upper body took the impact, my legs feel *great*!",
+          "Fortunate, as I cannot move at all. We'll need you to fetch that map over there.",
+          "Fetch? Shall I also scratch my fleas and bark at the parcelier?",
+          "Do it how you do it, just get that map!"
+        ],
+        "pt-br": [
+          "Você está bem, ser de carne?",
+          "Bati o ombro quando você parou tão de repente.",
+          "Está machucado, rígido e irritante, como certas pessoas que conhecemos, mas, nada permanente.",
+          "E como a parte de cima do corpo levou o impacto, minhas pernas estão ótimas!",
+          "Sorte sua, porque eu não consigo me mover. Vamos precisar que você busque aquele mapa ali.",
+          "Buscar? Então devo também coçar minhas pulgas e latir para o carteiro?",
+          "Faça do seu jeito, só traga aquele mapa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914575,
+            "entityType": "Boat",
+            "field": "initial_talk_name",
+            "value": "skipping_stones_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              22.0,
+              36.0,
+              0.0
+            ],
+            "source": "data-common/skipping_near_beams_v2.entities"
+          }
+        ],
+        "subtitleLine": 3994,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "skipping_stones_start_repeat",
+      "clips": [
+        {
+          "id": "skipping_stones_start_repeat_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.242687,
+          "src": "audio/clips/skipping_stones_start_repeat_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "This is a complex chain of islands; your first step is getting that map!"
+            ],
+            "pt-br": [
+              "Esta é uma complexa cadeia de ilhas; seu primeiro passo é conseguir aquele mapa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_repeat_1__boat.wav",
+            "subtitleCueLines": [
+              4031
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is a complex chain of islands; your first step is getting that map!"
+        ],
+        "pt-br": [
+          "Esta é uma complexa cadeia de ilhas; seu primeiro passo é conseguir aquele mapa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914575,
+            "entityType": "Boat",
+            "field": "repeat_talk_name",
+            "value": "skipping_stones_start_repeat",
+            "rule": "exact-reference",
+            "coordinates": [
+              22.0,
+              36.0,
+              0.0
+            ],
+            "source": "data-common/skipping_near_beams_v2.entities"
+          }
+        ],
+        "subtitleLine": 4030,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "skipping_near_beams",
+      "clips": [
+        {
+          "id": "skipping_near_beams_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.842333,
+          "src": "audio/clips/skipping_near_beams_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "A bit more like home, for once."
+            ],
+            "pt-br": [
+              "Enfim me lembra um pouco mais de casa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_near_beams_1__sailor.wav",
+            "subtitleCueLines": [
+              7450
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_near_beams_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 12.874667,
+          "src": "audio/clips/skipping_near_beams_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Looking outward a ways, I even see rivers.",
+              "I warn you, though: you're in for a complex time,",
+              "somewhat like the archipelago with that first interdict, where we started this whole journey. It feels so long ago!"
+            ],
+            "pt-br": [
+              "Olhando mais ao longe, até vejo rios.",
+              "Mas eu te aviso: você vai passar por uma fase complexa,",
+              "bem parecida com o arquipélago com aquele primeiro interdito, onde começamos toda essa jornada. Parece que faz tanto tempo!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_near_beams_2__boat.wav",
+            "subtitleCueLines": [
+              7453,
+              7456,
+              7460
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_near_beams_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.807438,
+          "src": "audio/clips/skipping_near_beams_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I'm ready!"
+            ],
+            "pt-br": [
+              "Estou pronta!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_near_beams_3__sailor.wav",
+            "subtitleCueLines": [
+              7466
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A bit more like home, for once.",
+          "Looking outward a ways, I even see rivers.",
+          "I warn you, though: you're in for a complex time,",
+          "somewhat like the archipelago with that first interdict, where we started this whole journey. It feels so long ago!",
+          "I'm ready!"
+        ],
+        "pt-br": [
+          "Enfim me lembra um pouco mais de casa.",
+          "Olhando mais ao longe, até vejo rios.",
+          "Mas eu te aviso: você vai passar por uma fase complexa,",
+          "bem parecida com o arquipélago com aquele primeiro interdito, onde começamos toda essa jornada. Parece que faz tanto tempo!",
+          "Estou pronta!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137360,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "skipping_near_beams",
+            "rule": "exact-reference",
+            "coordinates": [
+              22.0,
+              39.0,
+              0.0
+            ],
+            "source": "data-common/skipping_near_beams_v2.entities"
+          }
+        ],
+        "subtitleLine": 7449,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

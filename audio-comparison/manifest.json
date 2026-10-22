@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "format": "MP3",
+  "channels": 1,
+  "sampleRate": 44100,
+  "reference": "96 kbps is copied from the current catalog; all lower bitrates are encoded directly from the original extracted WAV.",
+  "samples": [
+    {
+      "id": "warrior_heroes1_call_1__warrior",
+      "speaker": "Valens",
+      "duration": 13.911333,
+      "transcripts": {
+        "en": [
+          "This place is so huge. How am I going to find the others?",
+          "Tif! Isidore!",
+          "Seems I'm on my own for now. Let's go."
+        ],
+        "pt-br": [
+          "Esse lugar é enorme. Como vou encontrar os outros?",
+          "Tif! Isidore!",
+          "Acho que vou ter que continuar sozinho. Vamos."
+        ]
+      },
+      "sourceWav": "warrior_heroes1_call_1__warrior.wav",
+      "sourceSha256": "a5c7b618d2e8f0b041966babf109213e56cfc776aa4783824dd7e37e91dc7c03",
+      "variants": [
+        {
+          "bitrate": 96,
+          "src": "sample-01/96kbps.mp3",
+          "bytes": 167751,
+          "sha256": "3e7f1b1a75dc4a9350524e70409a662470568fd0f5310ac1a1eaa855d571c449"
+        },
+        {
+          "bitrate": 64,
+          "src": "sample-01/64kbps.mp3",
+          "bytes": 111848,
+          "sha256": "a038f2c95071a2282fb3756655856c172c5c822bab011a05eb68a06287300ea3"
+        },
+        {
+          "bitrate": 48,
+          "src": "sample-01/48kbps.mp3",
+          "bytes": 83923,
+          "sha256": "2e709fd990ca5ce8e1b632b3e0c5ba4dce525814821e59792948b767260324e6"
+        },
+        {
+          "bitrate": 32,
+          "src": "sample-01/32kbps.mp3",
+          "bytes": 56025,
+          "sha256": "2b6ee5b41dba7c05159b62e06abd279ea6c000b79323376d2e2f59278a07f2b9"
+        }
+      ]
+    },
+    {
+      "id": "heroes_jail2_mid2_1__wizard",
+      "speaker": "Wizard",
+      "duration": 11.0575,
+      "transcripts": {
+        "en": [
+          "If the King knew his head Magistrate's exceeding his charge,",
+          "crystalizing lesser nobles without rhyme nor reason...",
+          "he might consider it an emergency."
+        ],
+        "pt-br": [
+          "Se o Rei soubesse que seu Magistrado-chefe está extrapolando seu cargo,",
+          "cristalizando nobres de menor título sem motivo algum...",
+          "ele poderia tratar como uma emergência."
+        ]
+      },
+      "sourceWav": "heroes_jail2_mid2_1__wizard.wav",
+      "sourceSha256": "a389c1dccd8def13cb2318ff00cff8ea5a26bab34b176eb1968a74595f578ee6",
+      "variants": [
+        {
+          "bitrate": 96,
+          "src": "sample-02/96kbps.mp3",
+          "bytes": 133583,
+          "sha256": "f0ae63d7567996fe064d9417240375a8856075378caaee654090634040dbd873"
+        },
+        {
+          "bitrate": 64,
+          "src": "sample-02/64kbps.mp3",
+          "bytes": 89069,
+          "sha256": "d364752a263a4b84e102f189f82fabef08eda3ad91007148e77e13f0e202b10c"
+        },
+        {
+          "bitrate": 48,
+          "src": "sample-02/48kbps.mp3",
+          "bytes": 66839,
+          "sha256": "9225bd6aff8076c12f5365d713080dc5683c5a2e225362d06b48d2dec127a1a4"
+        },
+        {
+          "bitrate": 32,
+          "src": "sample-02/32kbps.mp3",
+          "bytes": 44635,
+          "sha256": "bcf03e4081be61d700e13c83acdc9301aeeffa497cdb3721bc12dceca29d62d2"
+        }
+      ]
+    },
+    {
+      "id": "heroes1_5_1__thief",
+      "speaker": "Thief",
+      "duration": 10.115,
+      "transcripts": {
+        "en": [
+          "Sometimes I feel like I'm being watched. It's creepy, but,",
+          "maybe a little nice? Someone cares about me!",
+          "Someone creepy cares about me..."
+        ],
+        "pt-br": [
+          "Às vezes sinto que estou sendo vigiada. É meio assustador, mas,",
+          "talvez um pouco bom? Alguém se preocupa comigo!",
+          "Alguém meio assustador se preocupa comigo..."
+        ]
+      },
+      "sourceWav": "heroes1_5_1__thief.wav",
+      "sourceSha256": "0b3db0e230efea0da3c2d3afe46db5fe25bfc005eac17fcd4519378bb7af60f9",
+      "variants": [
+        {
+          "bitrate": 96,
+          "src": "sample-03/96kbps.mp3",
+          "bytes": 122298,
+          "sha256": "4638bb87ee74ec9f866421e795a3c3281aadb5f6f57c4ae81d9523fee42da048"
+        },
+        {
+          "bitrate": 64,
+          "src": "sample-03/64kbps.mp3",
+          "bytes": 81546,
+          "sha256": "285eb590c13bdd54df4eaff0a2cbf2cc2a4927ce00670a5c3c2357339c177a31"
+        },
+        {
+          "bitrate": 48,
+          "src": "sample-03/48kbps.mp3",
+          "bytes": 61197,
+          "sha256": "2c7fa378f11d1dbf9022c2bd5b877b53488aecc73b533f9acceaa1f0cedb1f46"
+        },
+        {
+          "bitrate": 32,
+          "src": "sample-03/32kbps.mp3",
+          "bytes": 40874,
+          "sha256": "acf3b1d6d7b1371894b835f18bae19834c69c41910fdb3832540afa90dc26bac"
+        }
+      ]
+    },
+    {
+      "id": "intro_queen_callout_alt_1__queen",
+      "speaker": "Queen",
+      "duration": 9.327292,
+      "transcripts": {
+        "en": [
+          "Jackays! Conroe! Are you here?",
+          "Any loyal soldier, stand count!"
+        ],
+        "pt-br": [
+          "Jackays! Conroe! Cadê vocês?",
+          "Qualquer soldado leal, em posição!"
+        ]
+      },
+      "sourceWav": "intro_queen_callout_alt_1__queen.wav",
+      "sourceSha256": "b74a85847942b8a1f802278af14e1741741e29c5eb15fba7c9ff7844e2f2d772",
+      "variants": [
+        {
+          "bitrate": 96,
+          "src": "sample-04/96kbps.mp3",
+          "bytes": 112894,
+          "sha256": "4c3674f365a25cce058b5d54fd769d26e816868af1304b90a0f727f1f6891f9f"
+        },
+        {
+          "bitrate": 64,
+          "src": "sample-04/64kbps.mp3",
+          "bytes": 75276,
+          "sha256": "7c6154d5e3e06758c2a3803660a29abca8067a31dc5405d2f77f15f1d70ecce3"
+        },
+        {
+          "bitrate": 48,
+          "src": "sample-04/48kbps.mp3",
+          "bytes": 56495,
+          "sha256": "c53ee23a59a7d96d3d228e68edc79414d0ec27b9c5157254f23994ca1a3c2e5d"
+        },
+        {
+          "bitrate": 32,
+          "src": "sample-04/32kbps.mp3",
+          "bytes": 37739,
+          "sha256": "604c04865166719c68773daf596b6589fb2d2ffd88536bc01575c63ba1b7d42e"
+        }
+      ]
+    },
+    {
+      "id": "heroes_warrior_mistrust_4__magistrate",
+      "speaker": "Magistrate Reynard",
+      "duration": 13.759,
+      "transcripts": {
+        "en": [
+          "I'm not slimy, good sir Valens; I'm merely ... ulterior.",
+          "Come, Ratleigh. If you're to assume my duties here, I have much more to show you. Behind the scenes."
+        ],
+        "pt-br": [
+          "Não sou traiçoeiro, meu caro senhor Valens; apenas tenho... segundas intenções.",
+          "Venha, Ratleigh. Se vai assumir minhas funções aqui, tenho muito mais a lhe mostrar. Nos bastidores."
+        ]
+      },
+      "sourceWav": "heroes_warrior_mistrust_4__magistrate.wav",
+      "sourceSha256": "9d6059688961c3b6f54c9439de5067a9aadccce2de91a46ad226885ee0b69dc2",
+      "variants": [
+        {
+          "bitrate": 96,
+          "src": "sample-05/96kbps.mp3",
+          "bytes": 165870,
+          "sha256": "96df9df004b2f95ab14812e945d2965b9c8684ed4dccf6d2e1dbb02c51c773d8"
+        },
+        {
+          "bitrate": 64,
+          "src": "sample-05/64kbps.mp3",
+          "bytes": 110594,
+          "sha256": "80e2d5234165217464b7857497f1f67dc24912d579a7f78f0d1984a96bf0b26f"
+        },
+        {
+          "bitrate": 48,
+          "src": "sample-05/48kbps.mp3",
+          "bytes": 82983,
+          "sha256": "5b72c378402ba77d45f4ce4d6df62862b5d3ecca6a11f5350c659207a20a1d6b"
+        },
+        {
+          "bitrate": 32,
+          "src": "sample-05/32kbps.mp3",
+          "bytes": 55398,
+          "sha256": "b74b11e1ae5dbd7cfdce8f6b37e9db261a62b352887dd5b475b6b773e7695491"
+        }
+      ]
+    },
+    {
+      "id": "audiolog_sky_play_of_form_1a_5__acting",
+      "speaker": "Acting",
+      "duration": 15.296229,
+      "transcripts": {
+        "en": [
+          "You don't have to believe them. A decent fraction of the Order does not!",
+          "But your job for now, ignoring what anyone believes or doesn't believe,",
+          "is just to open your eyes *really wide* and just *see* it. Just see the phenomena."
+        ],
+        "pt-br": [
+          "Você não precisa acreditar nelas. Uma boa parte da Ordem não acredita!",
+          "Mas sua tarefa por enquanto, ignorando no que qualquer um acredita ou deixa de acreditar,",
+          "é simplesmente abrir bem os olhos de verdade e apenas ver isso. Apenas veja os fenômenos."
+        ]
+      },
+      "sourceWav": "audiolog_sky_play_of_form_1a_5__acting.wav",
+      "sourceSha256": "4b28e1fc8b5ae5a1189f738f507e6693e375518575a143be3d8aca6c88b6d978",
+      "variants": [
+        {
+          "bitrate": 96,
+          "src": "sample-06/96kbps.mp3",
+          "bytes": 184365,
+          "sha256": "74b1844ffa149dc33562de8db582bdfd3bd87da2d3f3a6ee6f8cf9730830a087"
+        },
+        {
+          "bitrate": 64,
+          "src": "sample-06/64kbps.mp3",
+          "bytes": 122924,
+          "sha256": "06725683a2f830162d9227cf2d9b5dc234ea38fcbd35b08d1a8649a21fa57160"
+        },
+        {
+          "bitrate": 48,
+          "src": "sample-06/48kbps.mp3",
+          "bytes": 92230,
+          "sha256": "8f673578c9817681b9deecc2a573577931e5a48af1296787a713b442ffd2efaf"
+        },
+        {
+          "bitrate": 32,
+          "src": "sample-06/32kbps.mp3",
+          "bytes": 61563,
+          "sha256": "57ec2580248beae2c6018abba912fc389343aa07c47b283e25ad21fe7e2fe4c5"
+        }
+      ]
+    },
+    {
+      "id": "audiolog_u_tetratetrad_troubles_3_1__director",
+      "speaker": "Director",
+      "duration": 17.437625,
+      "transcripts": {
+        "en": [
+          "The Tetratetrad was certainly not the best place for a Visitor's first exposure to our work -- too dense, too hard to follow --",
+          "but if they'd done a good ten or twenty other Warehouses first, they could work their way up to it.",
+          "For us, it was the brightest star in our crown. Or it would be, when finished."
+        ],
+        "pt-br": [
+          "O Tetratétrade certamente não era o melhor lugar para a primeira exposição de um Visitante ao nosso trabalho — denso demais, difícil demais de acompanhar —",
+          "mas, se eles tivessem feito dez ou vinte outros Armazéns antes, poderiam ir chegando até lá.",
+          "Para nós, era a estrela mais brilhante da nossa coroa. Ou seria, quando terminada."
+        ]
+      },
+      "sourceWav": "audiolog_u_tetratetrad_troubles_3_1__director.wav",
+      "sourceSha256": "30037e096fbc3cb6d62ebb4325966af165c3b6ccd286796f2404fcb64e63fd87",
+      "variants": [
+        {
+          "bitrate": 96,
+          "src": "sample-07/96kbps.mp3",
+          "bytes": 210069,
+          "sha256": "c730e67e46f701926a89b2b4bd43c87fdedf880d68fe2093ac12f95491ef87db"
+        },
+        {
+          "bitrate": 64,
+          "src": "sample-07/64kbps.mp3",
+          "bytes": 140060,
+          "sha256": "e5dfb27d01d633297295851606f6cd3cf6c36ac2054c1480d282de3122a14564"
+        },
+        {
+          "bitrate": 48,
+          "src": "sample-07/48kbps.mp3",
+          "bytes": 105082,
+          "sha256": "bc5a1e93dfb6fd123af0c6bd810fc74cfbb4e1ac4e8dc448081c8cc656b31529"
+        },
+        {
+          "bitrate": 32,
+          "src": "sample-07/32kbps.mp3",
+          "bytes": 70131,
+          "sha256": "f4d2e65ac8e832980f48ee41e42d6ffd81467171f303e80a51b1dcc97bae5703"
+        }
+      ]
+    }
+  ]
+}

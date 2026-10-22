@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_substrate",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_substrate",
+      "clips": [
+        {
+          "id": "audiolog_g_substrate_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 72.444458,
+          "src": "audio/clips/audiolog_g_substrate_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Speaking of which, another question is naturally raised: Where does this place exist, wherein I now stand?",
+              "I don't mean just this miniaturized version of the facility, but, really, the whole place.",
+              "Let's say we have a world A that has its particular laws of Nature, and another world B, which has its own, different, laws of Nature.",
+              "To create a place where people and objects from both A and B can interact,",
+              "well, it's clear the laws of Nature of A and B cannot be in direct conflict each withother.",
+              "But the space itself that contains this fusion -- what were its laws of Nature prior to the",
+              "introduction of A or B, when it was quiet and empty awaiting some contents to arrive?",
+              "The laws of Nature of such a place must have been compatible with both, perhaps a subset of A and B,",
+              "that can yet be built outward to meet A or B where necessary. Or else a superset of A and B,",
+              "that is then trimmed back?",
+              "How do you make such a substrate? Is there one substrate for all worlds,",
+              "or are there different substrates that manifest as needed?",
+              "I shall try to apprehend more."
+            ],
+            "pt-br": [
+              "Falando nisso, surge naturalmente outra pergunta: onde existe este lugar em que agora me encontro?",
+              "Não só esta versão miniaturizada da instalação, mas, na verdade, a instalação inteira.",
+              "Digamos que temos um mundo A com suas próprias leis da natureza, e outro mundo B, que tem as suas, leis da natureza diferentes.",
+              "Para criar um lugar onde pessoas e objetos de A e B possam interagir,",
+              "bem, é claro que as leis da Natureza de A e B não podem entrar em conflito direto uma com a outra.",
+              "Mas o próprio espaço que contém essa fusão, quais eram suas leis da natureza antes da",
+              "introdução de A ou B, quando estava quieto e vazio, esperando seu conteúdo?",
+              "As leis da natureza de tal lugar devem ter sido compatíveis com ambos, talvez um subconjunto de A e B,",
+              "que ainda assim pode ser expandido para se adaptar a A ou B onde necessário. Ou então um superconjunto de A e B,",
+              "que depois é aparado?",
+              "Como se faz tal substrato? Existe um único substrato para todos os mundos,",
+              "ou existem diferentes substratos que se manifestam conforme a necessidade?",
+              "Tentarei compreender mais."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_substrate_1__sokoban.wav",
+            "subtitleCueLines": [
+              3585,
+              3589,
+              3594,
+              3599,
+              3603,
+              3607,
+              3611,
+              3615,
+              3619,
+              3623,
+              3626,
+              3631,
+              3635
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Speaking of which, another question is naturally raised: Where does this place exist, wherein I now stand?",
+          "I don't mean just this miniaturized version of the facility, but, really, the whole place.",
+          "Let's say we have a world A that has its particular laws of Nature, and another world B, which has its own, different, laws of Nature.",
+          "To create a place where people and objects from both A and B can interact,",
+          "well, it's clear the laws of Nature of A and B cannot be in direct conflict each withother.",
+          "But the space itself that contains this fusion -- what were its laws of Nature prior to the",
+          "introduction of A or B, when it was quiet and empty awaiting some contents to arrive?",
+          "The laws of Nature of such a place must have been compatible with both, perhaps a subset of A and B,",
+          "that can yet be built outward to meet A or B where necessary. Or else a superset of A and B,",
+          "that is then trimmed back?",
+          "How do you make such a substrate? Is there one substrate for all worlds,",
+          "or are there different substrates that manifest as needed?",
+          "I shall try to apprehend more."
+        ],
+        "pt-br": [
+          "Falando nisso, surge naturalmente outra pergunta: onde existe este lugar em que agora me encontro?",
+          "Não só esta versão miniaturizada da instalação, mas, na verdade, a instalação inteira.",
+          "Digamos que temos um mundo A com suas próprias leis da natureza, e outro mundo B, que tem as suas, leis da natureza diferentes.",
+          "Para criar um lugar onde pessoas e objetos de A e B possam interagir,",
+          "bem, é claro que as leis da Natureza de A e B não podem entrar em conflito direto uma com a outra.",
+          "Mas o próprio espaço que contém essa fusão, quais eram suas leis da natureza antes da",
+          "introdução de A ou B, quando estava quieto e vazio, esperando seu conteúdo?",
+          "As leis da natureza de tal lugar devem ter sido compatíveis com ambos, talvez um subconjunto de A e B,",
+          "que ainda assim pode ser expandido para se adaptar a A ou B onde necessário. Ou então um superconjunto de A e B,",
+          "que depois é aparado?",
+          "Como se faz tal substrato? Existe um único substrato para todos os mundos,",
+          "ou existem diferentes substratos que se manifestam conforme a necessidade?",
+          "Tentarei compreender mais."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

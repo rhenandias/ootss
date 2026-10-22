@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "best_beam_colors",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_suit",
+      "clips": [
+        {
+          "id": "end3_suit_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 8.460333,
+          "src": "audio/clips/end3_suit_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I spent so long fixing up this suit... then, so long *in* the suit...",
+              "It'll be nice to be done for a bit."
+            ],
+            "pt-br": [
+              "Passei tanto tempo consertando este traje... depois, tanto tempo dentro dele...",
+              "Vai ser bom terminar por um tempo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_suit_1__gemsman.wav",
+            "subtitleCueLines": [
+              14851,
+              14856
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I spent so long fixing up this suit... then, so long *in* the suit...",
+          "It'll be nice to be done for a bit."
+        ],
+        "pt-br": [
+          "Passei tanto tempo consertando este traje... depois, tanto tempo dentro dele...",
+          "Vai ser bom terminar por um tempo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 112197682,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "end3_suit",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/best_beam_colors.entities"
+          }
+        ],
+        "subtitleLine": 14850,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

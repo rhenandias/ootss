@@ -1,0 +1,1654 @@
+{
+  "schemaVersion": 1,
+  "level": "promesst2_streamlined",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "promesst2_torc_get",
+      "clips": [
+        {
+          "id": "promesst2_torc_get_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.287667,
+          "src": "audio/clips/promesst2_torc_get_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "A lucite torc, to be worn about the neck."
+            ],
+            "pt-br": [
+              "Um torque de lucita, para ser usado no pescoço."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_torc_get_1__gemsman.wav",
+            "subtitleCueLines": [
+              2691
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A lucite torc, to be worn about the neck."
+        ],
+        "pt-br": [
+          "Um torque de lucita, para ser usado no pescoço."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343429,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst2_torc_get",
+            "rule": "exact-reference",
+            "coordinates": [
+              16.030929565429688,
+              3.0030388832092285,
+              -9.62955379486084
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2690,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_start",
+      "clips": [
+        {
+          "id": "promesst2_start_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 4.206375,
+          "src": "audio/clips/promesst2_start_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Get the gems. Get them all.",
+              "Get them all!!"
+            ],
+            "pt-br": [
+              "Peguem as gemas. Peguem todas.",
+              "Peguem todas!!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_start_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2775,
+              2779
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Get the gems. Get them all.",
+          "Get them all!!"
+        ],
+        "pt-br": [
+          "Peguem as gemas. Peguem todas.",
+          "Peguem todas!!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2774,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_feed_gems",
+      "clips": [
+        {
+          "id": "promesst2_feed_gems_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 11.447542,
+          "src": "audio/clips/promesst2_feed_gems_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Give gems to me now. More gems deeper.",
+              "Many more. Priceless. You get those. I get these."
+            ],
+            "pt-br": [
+              "Me deem as gemas agora. Mais gemas, mais fundo.",
+              "Muito mais. Incalculáveis. Você pega essas. Eu fico com estas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_feed_gems_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2786,
+              2791
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Give gems to me now. More gems deeper.",
+          "Many more. Priceless. You get those. I get these."
+        ],
+        "pt-br": [
+          "Me deem as gemas agora. Mais gemas, mais fundo.",
+          "Muito mais. Incalculáveis. Você pega essas. Eu fico com estas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048929,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "promesst2_feed_gems",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2785,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_dragon_very_hungry",
+      "clips": [
+        {
+          "id": "promesst2_baby_dragon_very_hungry_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 4.747562,
+          "src": "audio/clips/promesst2_baby_dragon_very_hungry_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Very hungry now. Give me all. All."
+            ],
+            "pt-br": [
+              "Muita fome agora. Me dê tudo. Tudo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_dragon_very_hungry_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2800
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Very hungry now. Give me all. All."
+        ],
+        "pt-br": [
+          "Muita fome agora. Me dê tudo. Tudo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2799,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_will_eat_a",
+      "clips": [
+        {
+          "id": "promesst2_baby_will_eat_a_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 2.739458,
+          "src": "audio/clips/promesst2_baby_will_eat_a_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Feed me now! Just a few."
+            ],
+            "pt-br": [
+              "Alimentem-me agora! Só algumas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_will_eat_a_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2809
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Feed me now! Just a few."
+        ],
+        "pt-br": [
+          "Alimentem-me agora! Só algumas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2808,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_will_eat_b",
+      "clips": [
+        {
+          "id": "promesst2_baby_will_eat_b_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 3.230146,
+          "src": "audio/clips/promesst2_baby_will_eat_b_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Feed me gems. Gems give life!"
+            ],
+            "pt-br": [
+              "Me alimentem com gemas. Gemas dão vida!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_will_eat_b_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2817
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Feed me gems. Gems give life!"
+        ],
+        "pt-br": [
+          "Me alimentem com gemas. Gemas dão vida!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2816,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_will_eat_c",
+      "clips": [
+        {
+          "id": "promesst2_baby_will_eat_c_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 4.915,
+          "src": "audio/clips/promesst2_baby_will_eat_c_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Hungry. Hungry! Give food. Give food."
+            ],
+            "pt-br": [
+              "Fome. Fome! Me dê comida. Me dê comida."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_will_eat_c_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2825
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hungry. Hungry! Give food. Give food."
+        ],
+        "pt-br": [
+          "Fome. Fome! Me dê comida. Me dê comida."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2824,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_will_eat_d",
+      "clips": [
+        {
+          "id": "promesst2_baby_will_eat_d_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 1.609896,
+          "src": "audio/clips/promesst2_baby_will_eat_d_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Feed me!"
+            ],
+            "pt-br": [
+              "Me alimentem!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_will_eat_d_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2833
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Feed me!"
+        ],
+        "pt-br": [
+          "Me alimentem!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2832,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_impatient_a",
+      "clips": [
+        {
+          "id": "promesst2_baby_impatient_a_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 1.942292,
+          "src": "audio/clips/promesst2_baby_impatient_a_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Find more foods."
+            ],
+            "pt-br": [
+              "Encontrem mais comidas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_impatient_a_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2840
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Find more foods."
+        ],
+        "pt-br": [
+          "Encontrem mais comidas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2839,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_impatient_b",
+      "clips": [
+        {
+          "id": "promesst2_baby_impatient_b_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 3.074,
+          "src": "audio/clips/promesst2_baby_impatient_b_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Get more gems. Get more foods!"
+            ],
+            "pt-br": [
+              "Arranjem mais gemas. Arranjem mais comidas!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_impatient_b_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2847
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Get more gems. Get more foods!"
+        ],
+        "pt-br": [
+          "Arranjem mais gemas. Arranjem mais comidas!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2846,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_impatient_c",
+      "clips": [
+        {
+          "id": "promesst2_baby_impatient_c_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 2.922083,
+          "src": "audio/clips/promesst2_baby_impatient_c_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Go get. Bring back."
+            ],
+            "pt-br": [
+              "Vão buscar. Tragam de volta."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_impatient_c_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2855
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Go get. Bring back."
+        ],
+        "pt-br": [
+          "Vão buscar. Tragam de volta."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2854,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_impatient_d",
+      "clips": [
+        {
+          "id": "promesst2_baby_impatient_d_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 3.550729,
+          "src": "audio/clips/promesst2_baby_impatient_d_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Search. Find. Bring."
+            ],
+            "pt-br": [
+              "Procurem. Encontrem. Tragam."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_impatient_d_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2862
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Search. Find. Bring."
+        ],
+        "pt-br": [
+          "Procurem. Encontrem. Tragam."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2861,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_eaten_amount_1",
+      "clips": [
+        {
+          "id": "promesst2_baby_eaten_amount_1_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 3.75025,
+          "src": "audio/clips/promesst2_baby_eaten_amount_1_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Tastes cold. Cold and good."
+            ],
+            "pt-br": [
+              "Tá fria. Fria e boa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_eaten_amount_1_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2869
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Tastes cold. Cold and good."
+        ],
+        "pt-br": [
+          "Tá fria. Fria e boa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2868,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_eaten_amount_2",
+      "clips": [
+        {
+          "id": "promesst2_baby_eaten_amount_2_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 2.386083,
+          "src": "audio/clips/promesst2_baby_eaten_amount_2_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Energy builds inside."
+            ],
+            "pt-br": [
+              "A energia se acumula dentro de mim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_eaten_amount_2_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2876
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Energy builds inside."
+        ],
+        "pt-br": [
+          "A energia se acumula dentro de mim."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2875,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_eaten_amount_3",
+      "clips": [
+        {
+          "id": "promesst2_baby_eaten_amount_3_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 2.983062,
+          "src": "audio/clips/promesst2_baby_eaten_amount_3_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "I feel my insides turning..."
+            ],
+            "pt-br": [
+              "Sinto minhas entranhas se mexendo..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_eaten_amount_3_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2883
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I feel my insides turning..."
+        ],
+        "pt-br": [
+          "Sinto minhas entranhas se mexendo..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2882,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_eaten_amount_4",
+      "clips": [
+        {
+          "id": "promesst2_baby_eaten_amount_4_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 3.138958,
+          "src": "audio/clips/promesst2_baby_eaten_amount_4_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "The cold light is growing."
+            ],
+            "pt-br": [
+              "A luz fria está crescendo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_eaten_amount_4_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2890
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The cold light is growing."
+        ],
+        "pt-br": [
+          "A luz fria está crescendo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2889,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_eaten_amount_5",
+      "clips": [
+        {
+          "id": "promesst2_baby_eaten_amount_5_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 2.220729,
+          "src": "audio/clips/promesst2_baby_eaten_amount_5_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Very close now..."
+            ],
+            "pt-br": [
+              "Estamos muito perto..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_eaten_amount_5_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2897
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Very close now..."
+        ],
+        "pt-br": [
+          "Estamos muito perto..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2896,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_buildings",
+      "clips": [
+        {
+          "id": "promesst2_buildings_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 11.308479,
+          "src": "audio/clips/promesst2_buildings_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "The amount of architecture is increasing as we go *down*...",
+              "The tomes said buildings were *rare* in pocket mines, and near the surface.",
+              "This mine is special..."
+            ],
+            "pt-br": [
+              "A quantidade de arquitetura está aumentando à medida que vamos descendo...",
+              "Os tomos diziam que construções eram raramente encontradas em bolsões minerais, e perto da superfície.",
+              "Esta mina é especial..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_buildings_1__gemsman.wav",
+            "subtitleCueLines": [
+              2904,
+              2909,
+              2914
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The amount of architecture is increasing as we go *down*...",
+          "The tomes said buildings were *rare* in pocket mines, and near the surface.",
+          "This mine is special..."
+        ],
+        "pt-br": [
+          "A quantidade de arquitetura está aumentando à medida que vamos descendo...",
+          "Os tomos diziam que construções eram raramente encontradas em bolsões minerais, e perto da superfície.",
+          "Esta mina é especial..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343419,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst2_buildings",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.847349166870117,
+              4.513209819793701,
+              -9.751092910766602
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2903,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_gold_room",
+      "clips": [
+        {
+          "id": "promesst2_gold_room_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.184583,
+          "src": "audio/clips/promesst2_gold_room_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "This place again..."
+            ],
+            "pt-br": [
+              "Esse lugar de novo..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_gold_room_1__gemsman.wav",
+            "subtitleCueLines": [
+              2922
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This place again..."
+        ],
+        "pt-br": [
+          "Esse lugar de novo..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343423,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst2_gold_room",
+            "rule": "exact-reference",
+            "coordinates": [
+              18.962818145751953,
+              14.071378707885742,
+              -10.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2921,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_enjoying_torc",
+      "clips": [
+        {
+          "id": "promesst2_enjoying_torc_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.467771,
+          "src": "audio/clips/promesst2_enjoying_torc_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Useful!",
+              "Wish I'd had this thing earlier."
+            ],
+            "pt-br": [
+              "Útil!",
+              "Queria ter tido isso antes."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_enjoying_torc_1__gemsman.wav",
+            "subtitleCueLines": [
+              2929,
+              2932
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Useful!",
+          "Wish I'd had this thing earlier."
+        ],
+        "pt-br": [
+          "Útil!",
+          "Queria ter tido isso antes."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343422,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst2_enjoying_torc",
+            "rule": "exact-reference",
+            "coordinates": [
+              20.98885726928711,
+              6.158177375793457,
+              -9.935851097106934
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2928,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_baby_dragon_end",
+      "clips": [
+        {
+          "id": "promesst2_baby_dragon_end_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 4.427437,
+          "src": "audio/clips/promesst2_baby_dragon_end_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Come with me. We have much work ahead of us."
+            ],
+            "pt-br": [
+              "Venha comigo. Temos muito trabalho a fazer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_baby_dragon_end_1__dragon.wav",
+            "subtitleCueLines": [
+              2941
+            ],
+            "explicitAudioReference": "promesst2_baby_dragon_end_1__dragon"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Come with me. We have much work ahead of us."
+        ],
+        "pt-br": [
+          "Venha comigo. Temos muito trabalho a fazer."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2938,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_keep_some_a",
+      "clips": [
+        {
+          "id": "promesst2_keep_some_a_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 7.139,
+          "src": "audio/clips/promesst2_keep_some_a_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "So hungry, but I will not eat.",
+              "Keep 9 foods until the end."
+            ],
+            "pt-br": [
+              "Muita fome, mas não vou comer.",
+              "Guarde 9 comidas até o fim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_keep_some_a_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2949,
+              2953
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So hungry, but I will not eat.",
+          "Keep 9 foods until the end."
+        ],
+        "pt-br": [
+          "Muita fome, mas não vou comer.",
+          "Guarde 9 comidas até o fim."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2948,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_keep_some_b",
+      "clips": [
+        {
+          "id": "promesst2_keep_some_b_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 8.5145,
+          "src": "audio/clips/promesst2_keep_some_b_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "All the foods we must have.",
+              "To get them, foods you need.",
+              "Keep 9 until we are done."
+            ],
+            "pt-br": [
+              "Todas as comidas que precisamos ter.",
+              "Para consegui-las, comidas você vai precisar.",
+              "Guarde 9 até terminarmos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_keep_some_b_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2961,
+              2965,
+              2969
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "All the foods we must have.",
+          "To get them, foods you need.",
+          "Keep 9 until we are done."
+        ],
+        "pt-br": [
+          "Todas as comidas que precisamos ter.",
+          "Para consegui-las, comidas você vai precisar.",
+          "Guarde 9 até terminarmos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2960,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_keep_some_c",
+      "clips": [
+        {
+          "id": "promesst2_keep_some_c_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 10.288854,
+          "src": "audio/clips/promesst2_keep_some_c_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Finding fresh foods. So very good.",
+              "But also I must wait. Temper hunger.",
+              "Keep 9 for now."
+            ],
+            "pt-br": [
+              "Encontrando comidas frescas. Muito bom.",
+              "Mas também preciso esperar. Conter a fome.",
+              "Guarde 9 por enquanto."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_keep_some_c_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2977,
+              2981,
+              2985
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Finding fresh foods. So very good.",
+          "But also I must wait. Temper hunger.",
+          "Keep 9 for now."
+        ],
+        "pt-br": [
+          "Encontrando comidas frescas. Muito bom.",
+          "Mas também preciso esperar. Conter a fome.",
+          "Guarde 9 por enquanto."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2976,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst2_keep_some_d",
+      "clips": [
+        {
+          "id": "promesst2_keep_some_d_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 8.455063,
+          "src": "audio/clips/promesst2_keep_some_d_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Tempting me. I can hardly stand it! But keep 9. Just a little longer."
+            ],
+            "pt-br": [
+              "Me tentando. Quase não aguento! Mas guarde 9. Só mais um pouco."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst2_keep_some_d_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2992
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Tempting me. I can hardly stand it! But keep 9. Just a little longer."
+        ],
+        "pt-br": [
+          "Me tentando. Quase não aguento! Mas guarde 9. Só mais um pouco."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst2",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/promesst2_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2991,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

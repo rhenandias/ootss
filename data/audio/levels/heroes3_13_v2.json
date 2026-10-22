@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_13_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_druid_and_priestess_1",
+      "clips": [
+        {
+          "id": "heroes3_druid_and_priestess_1_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 6.714875,
+          "src": "audio/clips/heroes3_druid_and_priestess_1_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "We have legends of her kind. Never sure what to believe.",
+              "I'll say only that I am uneasy."
+            ],
+            "pt-br": [
+              "Temos lendas sobre gente como ela. Nunca se sabe no que acreditar.",
+              "Só digo que estou inquieto."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_druid_and_priestess_1_1__druid.wav",
+            "subtitleCueLines": [
+              2179,
+              2184
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We have legends of her kind. Never sure what to believe.",
+          "I'll say only that I am uneasy."
+        ],
+        "pt-br": [
+          "Temos lendas sobre gente como ela. Nunca se sabe no que acreditar.",
+          "Só digo que estou inquieto."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048611,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_druid_and_priestess_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_13_v2.entities"
+          }
+        ],
+        "subtitleLine": 2178,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

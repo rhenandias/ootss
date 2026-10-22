@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_3monster",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_warrior_3monster",
+      "clips": [
+        {
+          "id": "heroes2_warrior_3monster_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 5.8185,
+          "src": "audio/clips/heroes2_warrior_3monster_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "As long as the King keeps up his end of the deal, and orders my Swordbinding dispelled, this will all have been worth it."
+            ],
+            "pt-br": [
+              "Contanto que o Rei cumpra sua parte do acordo, e mande desfazer meu vínculo com a espada, tudo isso vai ter valido a pena."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_3monster_1__warrior.wav",
+            "subtitleCueLines": [
+              1015
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "As long as the King keeps up his end of the deal, and orders my Swordbinding dispelled, this will all have been worth it."
+        ],
+        "pt-br": [
+          "Contanto que o Rei cumpra sua parte do acordo, e mande desfazer meu vínculo com a espada, tudo isso vai ter valido a pena."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 112197661,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_warrior_3monster",
+            "rule": "exact-reference",
+            "coordinates": [
+              -3.0,
+              -6.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_3monster.entities"
+          }
+        ],
+        "subtitleLine": 1014,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_3monster_end",
+      "clips": [
+        {
+          "id": "heroes2_warrior_3monster_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.161667,
+          "src": "audio/clips/heroes2_warrior_3monster_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Can't wait to deliver this guy directly to the King."
+            ],
+            "pt-br": [
+              "Mal posso esperar pra jogar esse cara aos pés do Rei."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_3monster_end_1__warrior.wav",
+            "subtitleCueLines": [
+              1025
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Can't wait to deliver this guy directly to the King."
+        ],
+        "pt-br": [
+          "Mal posso esperar pra jogar esse cara aos pés do Rei."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 112197661,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_warrior_3monster_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              -3.0,
+              -6.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_3monster.entities"
+          }
+        ],
+        "subtitleLine": 1024,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_15",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_warrior_wizard_confused",
+      "clips": [
+        {
+          "id": "heroes1_warrior_wizard_confused_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 8.009438,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "We were just giving him our estimate for the move -- as we'd agreed --",
+              "and slammo, he jails us. I still don't understand."
+            ],
+            "pt-br": [
+              "Estávamos só passando a ele o orçamento da mudança... como combinamos...",
+              "e pronto, ele nos prende. Ainda não entendo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_1__wizard.wav",
+            "subtitleCueLines": [
+              374,
+              378
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 5.271,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "It would've been a far bigger job than he'd told me at the banquet.",
+              "Did he think we were exaggerating, trying to overbill?"
+            ],
+            "pt-br": [
+              "Isso teria sido um trabalho muito maior do que ele me disse no banquete.",
+              "Ele achou que estávamos exagerando, tentando cobrar a mais?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_2__warrior.wav",
+            "subtitleCueLines": [
+              382,
+              386
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_3__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 1.459146,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_3__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Bit of an overreaction..."
+            ],
+            "pt-br": [
+              "Uma reação meio exagerada..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_3__wizard.wav",
+            "subtitleCueLines": [
+              390
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We were just giving him our estimate for the move -- as we'd agreed --",
+          "and slammo, he jails us. I still don't understand.",
+          "It would've been a far bigger job than he'd told me at the banquet.",
+          "Did he think we were exaggerating, trying to overbill?",
+          "Bit of an overreaction..."
+        ],
+        "pt-br": [
+          "Estávamos só passando a ele o orçamento da mudança... como combinamos...",
+          "e pronto, ele nos prende. Ainda não entendo.",
+          "Isso teria sido um trabalho muito maior do que ele me disse no banquete.",
+          "Ele achou que estávamos exagerando, tentando cobrar a mais?",
+          "Uma reação meio exagerada..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048594,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes1_warrior_wizard_confused",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_15.entities"
+          }
+        ],
+        "subtitleLine": 373,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes1_warrior_wizard_confused_mid",
+      "clips": [
+        {
+          "id": "heroes1_warrior_wizard_confused_mid_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.709333,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_mid_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "When he ordered his guards to seize us... Tif didn't seem surprised."
+            ],
+            "pt-br": [
+              "Quando ele mandou os guardas nos prenderem... a Tif não pareceu surpresa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_mid_1__warrior.wav",
+            "subtitleCueLines": [
+              397
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_mid_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.153854,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_mid_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Come to think ... did she look a bit sheepish to you?"
+            ],
+            "pt-br": [
+              "Pensando bem... ela parecia meio sem graça, não parecia?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_mid_2__wizard.wav",
+            "subtitleCueLines": [
+              401
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_mid_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.296667,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_mid_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Not *sheep*ish. Is there an animal more guilty than a sheep?"
+            ],
+            "pt-br": [
+              "Não exatamente sem graça. Que bicho fica com aquela cara de culpado?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_mid_3__warrior.wav",
+            "subtitleCueLines": [
+              405
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_mid_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 0.724542,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_mid_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "A dog."
+            ],
+            "pt-br": [
+              "Um cachorro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_mid_4__wizard.wav",
+            "subtitleCueLines": [
+              409
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_mid_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.912083,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_mid_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "A dog??"
+            ],
+            "pt-br": [
+              "Um cachorro??"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_mid_5__warrior.wav",
+            "subtitleCueLines": [
+              412
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_mid_6__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 5.727437,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_mid_6__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "A dog who dragged your big juicy leg of mutton off the table the moment you turned your back!"
+            ],
+            "pt-br": [
+              "É! Um cachorro com o rabo entre as pernas depois de roubar um belo pernil da mesa enquanto você não olhava!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_mid_6__wizard.wav",
+            "subtitleCueLines": [
+              416
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_warrior_wizard_confused_mid_7__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.160333,
+          "src": "audio/clips/heroes1_warrior_wizard_confused_mid_7__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Yeah. That's the look."
+            ],
+            "pt-br": [
+              "Isso. Era exatamente essa cara."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_warrior_wizard_confused_mid_7__warrior.wav",
+            "subtitleCueLines": [
+              420
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "When he ordered his guards to seize us... Tif didn't seem surprised.",
+          "Come to think ... did she look a bit sheepish to you?",
+          "Not *sheep*ish. Is there an animal more guilty than a sheep?",
+          "A dog.",
+          "A dog??",
+          "A dog who dragged your big juicy leg of mutton off the table the moment you turned your back!",
+          "Yeah. That's the look."
+        ],
+        "pt-br": [
+          "Quando ele mandou os guardas nos prenderem... a Tif não pareceu surpresa.",
+          "Pensando bem... ela parecia meio sem graça, não parecia?",
+          "Não exatamente sem graça. Que bicho fica com aquela cara de culpado?",
+          "Um cachorro.",
+          "Um cachorro??",
+          "É! Um cachorro com o rabo entre as pernas depois de roubar um belo pernil da mesa enquanto você não olhava!",
+          "Isso. Era exatamente essa cara."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes1_warrior_wizard_confused_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.85006856918335,
+              2.001840353012085,
+              0.980067253112793
+            ],
+            "source": "data-common/heroes1_15.entities"
+          },
+          {
+            "entityId": 115343364,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes1_warrior_wizard_confused_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.9510035514831543,
+              1.956726312637329,
+              0.682659387588501
+            ],
+            "source": "data-common/heroes1_15.entities"
+          }
+        ],
+        "subtitleLine": 396,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

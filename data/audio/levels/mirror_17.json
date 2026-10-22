@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_17",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_3",
+      "clips": [
+        {
+          "id": "mirror_stranger_3_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 20.264,
+          "src": "audio/clips/mirror_stranger_3_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "There I met a stranger, fair of complexion.",
+              "His mannerisms were odd, as though he'd set foot on many shores,",
+              "and come away carrying a bit of each.",
+              "His manner of dress presented him as a commoner, but everything he wore was oddly crisp."
+            ],
+            "pt-br": [
+              "Lá encontrei um estranho, de pele clara.",
+              "Os trejeitos dele eram estranhos, como se tivesse pisado em muitas praias,",
+              "e saído levando um pouco de cada.",
+              "Seu modo de vestir o fazia parecer um plebeu, mas tudo que usava era estranhamente impecável."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_3_1__trader.wav",
+            "subtitleCueLines": [
+              6372,
+              6375,
+              6379,
+              6382
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There I met a stranger, fair of complexion.",
+          "His mannerisms were odd, as though he'd set foot on many shores,",
+          "and come away carrying a bit of each.",
+          "His manner of dress presented him as a commoner, but everything he wore was oddly crisp."
+        ],
+        "pt-br": [
+          "Lá encontrei um estranho, de pele clara.",
+          "Os trejeitos dele eram estranhos, como se tivesse pisado em muitas praias,",
+          "e saído levando um pouco de cada.",
+          "Seu modo de vestir o fazia parecer um plebeu, mas tudo que usava era estranhamente impecável."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048651,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/mirror_17.entities"
+          }
+        ],
+        "subtitleLine": 6371,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_14",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "clones_merge",
+      "clips": [
+        {
+          "id": "clones_merge_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.232,
+          "src": "audio/clips/clones_merge_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "We need to focus."
+            ],
+            "pt-br": [
+              "Precisamos focar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_merge_1__trader.wav",
+            "subtitleCueLines": [
+              6278
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_merge_2__trader_clone_1",
+          "speaker": "trader_clone_1",
+          "speakerName": "trader_clone_1",
+          "duration": 1.598667,
+          "src": "audio/clips/clones_merge_2__trader_clone_1.mp3",
+          "transcripts": {
+            "en": [
+              "Not sure I can do this."
+            ],
+            "pt-br": [
+              "Não tenho certeza se consigo fazer isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_merge_2__trader_clone_1.wav",
+            "subtitleCueLines": [
+              6282
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_merge_3__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.607,
+          "src": "audio/clips/clones_merge_3__trader.mp3",
+          "transcripts": {
+            "en": [
+              "We will get through."
+            ],
+            "pt-br": [
+              "Vamos conseguir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_merge_3__trader.wav",
+            "subtitleCueLines": [
+              6286
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_merge_4__trader_clone_1",
+          "speaker": "trader_clone_1",
+          "speakerName": "trader_clone_1",
+          "duration": 1.945333,
+          "src": "audio/clips/clones_merge_4__trader_clone_1.mp3",
+          "transcripts": {
+            "en": [
+              "Not sure I want to get through."
+            ],
+            "pt-br": [
+              "Não tenho certeza se quero seguir em frente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_merge_4__trader_clone_1.wav",
+            "subtitleCueLines": [
+              6290
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We need to focus.",
+          "Not sure I can do this.",
+          "We will get through.",
+          "Not sure I want to get through."
+        ],
+        "pt-br": [
+          "Precisamos focar.",
+          "Não tenho certeza se consigo fazer isso.",
+          "Vamos conseguir.",
+          "Não tenho certeza se quero seguir em frente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048620,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "clones_merge",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/mirror_14.entities"
+          }
+        ],
+        "subtitleLine": 6277,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

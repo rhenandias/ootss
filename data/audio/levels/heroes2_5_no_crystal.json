@@ -1,0 +1,385 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_5_no_crystal",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_thief_dragons_intro",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_intro_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 8.678688,
+          "src": "audio/clips/heroes2_thief_dragons_intro_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Hey there boy-os, I don't suppose anyone ever keeps you as pets?",
+              "You could do all kinds of things! Warm the house, roast supper..."
+            ],
+            "pt-br": [
+              "E aí, garotos, será que alguém já tentou ter vocês de estimação?",
+              "Você poderia fazer de tudo! Aquecer a casa, assar o jantar..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_intro_1__thief.wav",
+            "subtitleCueLines": [
+              845,
+              851
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hey there boy-os, I don't suppose anyone ever keeps you as pets?",
+          "You could do all kinds of things! Warm the house, roast supper..."
+        ],
+        "pt-br": [
+          "E aí, garotos, será que alguém já tentou ter vocês de estimação?",
+          "Você poderia fazer de tudo! Aquecer a casa, assar o jantar..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048595,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_thief_dragons_intro",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_5_no_crystal.entities"
+          }
+        ],
+        "subtitleLine": 844,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "heroes2_thief_dragons_intro_2",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_intro_2_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.877667,
+          "src": "audio/clips/heroes2_thief_dragons_intro_2_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "keep the bath hot *well* into the night..."
+            ],
+            "pt-br": [
+              "manter o banho quente até altas horas da noite..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_intro_2_1__thief.wav",
+            "subtitleCueLines": [
+              859
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "keep the bath hot *well* into the night..."
+        ],
+        "pt-br": [
+          "manter o banho quente até altas horas da noite..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343365,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_dragons_intro_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.4075100421905518,
+              4.9623918533325195,
+              -0.0305023193359375
+            ],
+            "source": "data-common/heroes2_5_no_crystal.entities"
+          }
+        ],
+        "subtitleLine": 858,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_dragons_intro_3",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_intro_3_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.920979,
+          "src": "audio/clips/heroes2_thief_dragons_intro_3_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "dry the wash in half the time..."
+            ],
+            "pt-br": [
+              "secar a roupa na metade do tempo..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_intro_3_1__thief.wav",
+            "subtitleCueLines": [
+              866
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "dry the wash in half the time..."
+        ],
+        "pt-br": [
+          "secar a roupa na metade do tempo..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343363,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_dragons_intro_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.76483154296875,
+              1.9427261352539062,
+              -0.030504226684570312
+            ],
+            "source": "data-common/heroes2_5_no_crystal.entities"
+          }
+        ],
+        "subtitleLine": 865,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_dragons_intro_4",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_intro_4_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.461,
+          "src": "audio/clips/heroes2_thief_dragons_intro_4_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "warm my slippers..."
+            ],
+            "pt-br": [
+              "esquentar minhas pantufas..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_intro_4_1__thief.wav",
+            "subtitleCueLines": [
+              873
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "warm my slippers..."
+        ],
+        "pt-br": [
+          "esquentar minhas pantufas..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343364,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_dragons_intro_4",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.8171000480651855,
+              3.0325701236724854,
+              -0.0305023193359375
+            ],
+            "source": "data-common/heroes2_5_no_crystal.entities"
+          }
+        ],
+        "subtitleLine": 872,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_dragons_intro_5",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_intro_5_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.354333,
+          "src": "audio/clips/heroes2_thief_dragons_intro_5_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "scorch the weeds out between the paving stones..."
+            ],
+            "pt-br": [
+              "queimar o mato entre as pedras do calçamento..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_intro_5_1__thief.wav",
+            "subtitleCueLines": [
+              880
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "scorch the weeds out between the paving stones..."
+        ],
+        "pt-br": [
+          "queimar o mato entre as pedras do calçamento..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_dragons_intro_5",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.76483154296875,
+              4.930610656738281,
+              -0.030504226684570312
+            ],
+            "source": "data-common/heroes2_5_no_crystal.entities"
+          }
+        ],
+        "subtitleLine": 879,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_dragons_intro_6",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_intro_6_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.217667,
+          "src": "audio/clips/heroes2_thief_dragons_intro_6_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "And if anyone comes collecting debts... ... ..."
+            ],
+            "pt-br": [
+              "E se alguém vier cobrar dívidas..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_intro_6_1__thief.wav",
+            "subtitleCueLines": [
+              887
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "And if anyone comes collecting debts... ... ..."
+        ],
+        "pt-br": [
+          "E se alguém vier cobrar dívidas..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048595,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_thief_dragons_intro_6",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_5_no_crystal.entities"
+          }
+        ],
+        "subtitleLine": 886,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

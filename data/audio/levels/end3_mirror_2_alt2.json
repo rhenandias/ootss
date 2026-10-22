@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "end3_mirror_2_alt2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_mirror_isles_second",
+      "clips": [
+        {
+          "id": "end3_mirror_isles_second_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 3.253333,
+          "src": "audio/clips/end3_mirror_isles_second_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "I wonder how she'll react when she finds out I'm not dead."
+            ],
+            "pt-br": [
+              "Fico imaginando como ela vai reagir quando descobrir que eu não morri."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_mirror_isles_second_1__trader.wav",
+            "subtitleCueLines": [
+              14843
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I wonder how she'll react when she finds out I'm not dead."
+        ],
+        "pt-br": [
+          "Fico imaginando como ela vai reagir quando descobrir que eu não morri."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420420,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "end3_mirror_isles_second",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/end3_mirror_2_alt2.entities"
+          }
+        ],
+        "subtitleLine": 14842,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

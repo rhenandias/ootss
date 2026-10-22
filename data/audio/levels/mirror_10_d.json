@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_10_d",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_before_hm_3",
+      "clips": [
+        {
+          "id": "mirror_stranger_before_hm_3_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 28.809333,
+          "src": "audio/clips/mirror_stranger_before_hm_3_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Booking passage to the Mirror Isles, as a man with no official business, is, of course, unheard of.",
+              "But I have a fleet of my own. Easy enough to divert a merchantman, whose trades I may not live to see, anyway.",
+              "I charted in my mind the circuitous route we'd take to the Isles to avoid attention.",
+              "By the time the sun had peaked, I'd set the plan in motion."
+            ],
+            "pt-br": [
+              "Reservar uma passagem para as Ilhas de Espelhos, sem ter nenhum assunto oficial a tratar, é, claro, algo impensável.",
+              "Mas tenho minha própria frota. É fácil desviar um navio mercante, cujas transações talvez eu nem viva para ver, de todo modo.",
+              "Tracei na cabeça a rota sinuosa que tomaríamos até as Ilhas para não chamar atenção.",
+              "Quando o sol chegou ao ponto mais alto, eu já havia posto o plano em marcha."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_before_hm_3_1__trader.wav",
+            "subtitleCueLines": [
+              6511,
+              6516,
+              6522,
+              6526
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Booking passage to the Mirror Isles, as a man with no official business, is, of course, unheard of.",
+          "But I have a fleet of my own. Easy enough to divert a merchantman, whose trades I may not live to see, anyway.",
+          "I charted in my mind the circuitous route we'd take to the Isles to avoid attention.",
+          "By the time the sun had peaked, I'd set the plan in motion."
+        ],
+        "pt-br": [
+          "Reservar uma passagem para as Ilhas de Espelhos, sem ter nenhum assunto oficial a tratar, é, claro, algo impensável.",
+          "Mas tenho minha própria frota. É fácil desviar um navio mercante, cujas transações talvez eu nem viva para ver, de todo modo.",
+          "Tracei na cabeça a rota sinuosa que tomaríamos até as Ilhas para não chamar atenção.",
+          "Quando o sol chegou ao ponto mais alto, eu já havia posto o plano em marcha."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137604,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_before_hm_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              11.0,
+              10.0,
+              0.0
+            ],
+            "source": "data-common/mirror_10_d.entities"
+          }
+        ],
+        "subtitleLine": 6510,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

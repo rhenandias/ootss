@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "level": "connect_the_dots_v5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "thief_promesst_crystals",
+      "clips": [
+        {
+          "id": "thief_promesst_crystals_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.250521,
+          "src": "audio/clips/thief_promesst_crystals_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "So, where you come from, you don't have crystals such as these?"
+            ],
+            "pt-br": [
+              "Então no lugar de onde você vem não existem cristais assim?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "thief_promesst_crystals_1__thief.wav",
+            "subtitleCueLines": [
+              8776
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "thief_promesst_crystals_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 0.671333,
+          "src": "audio/clips/thief_promesst_crystals_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Not at all."
+            ],
+            "pt-br": [
+              "Nem um pouco."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "thief_promesst_crystals_2__gemsman.wav",
+            "subtitleCueLines": [
+              8780
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "thief_promesst_crystals_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.24,
+          "src": "audio/clips/thief_promesst_crystals_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "But you have gems. Gems aren't crystals?"
+            ],
+            "pt-br": [
+              "Mas vocês têm gemas. Gemas não são cristais?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "thief_promesst_crystals_3__thief.wav",
+            "subtitleCueLines": [
+              8783
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "thief_promesst_crystals_4__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 15.437333,
+          "src": "audio/clips/thief_promesst_crystals_4__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "They're different, I suppose. The gems have a specially-shaped internal lattice, it's part of what stops the beams.",
+              "It's also how the suit manipulates the gems: we slide the lattice.",
+              "These crystals of yours, they must have a different shape on the inside."
+            ],
+            "pt-br": [
+              "São diferentes, eu acho. As gemas têm uma estrutura interna de formato especial, é parte do que bloqueia os feixes.",
+              "É também assim que o traje manipula as gemas: a gente desliza a estrutura.",
+              "Esses seus cristais devem ter uma forma diferente por dentro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "thief_promesst_crystals_4__gemsman.wav",
+            "subtitleCueLines": [
+              8787,
+              8792,
+              8796
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "thief_promesst_crystals_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 7.098,
+          "src": "audio/clips/thief_promesst_crystals_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I just like the way they shine. The gems shine, the crystals shine.",
+              "Different from each other, each beautiful in its own way."
+            ],
+            "pt-br": [
+              "Eu só gosto de como eles brilham. As gemas brilham, os cristais brilham.",
+              "Diferentes entre si, cada um bonito à sua maneira."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "thief_promesst_crystals_5__thief.wav",
+            "subtitleCueLines": [
+              8801,
+              8805
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, where you come from, you don't have crystals such as these?",
+          "Not at all.",
+          "But you have gems. Gems aren't crystals?",
+          "They're different, I suppose. The gems have a specially-shaped internal lattice, it's part of what stops the beams.",
+          "It's also how the suit manipulates the gems: we slide the lattice.",
+          "These crystals of yours, they must have a different shape on the inside.",
+          "I just like the way they shine. The gems shine, the crystals shine.",
+          "Different from each other, each beautiful in its own way."
+        ],
+        "pt-br": [
+          "Então no lugar de onde você vem não existem cristais assim?",
+          "Nem um pouco.",
+          "Mas vocês têm gemas. Gemas não são cristais?",
+          "São diferentes, eu acho. As gemas têm uma estrutura interna de formato especial, é parte do que bloqueia os feixes.",
+          "É também assim que o traje manipula as gemas: a gente desliza a estrutura.",
+          "Esses seus cristais devem ter uma forma diferente por dentro.",
+          "Eu só gosto de como eles brilham. As gemas brilham, os cristais brilham.",
+          "Diferentes entre si, cada um bonito à sua maneira."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137797,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "thief_promesst_crystals",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              15.0,
+              1.0
+            ],
+            "source": "data-common/connect_the_dots_v5.entities"
+          }
+        ],
+        "subtitleLine": 8775,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

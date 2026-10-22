@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_why_so_big_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_why_so_big_3",
+      "clips": [
+        {
+          "id": "audiolog_sky_why_so_big_3_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 31.95,
+          "src": "audio/clips/audiolog_sky_why_so_big_3_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "This Warehouse is one of the more audacious of the 4-combiners.",
+              "The North and West worlds here are quite bold -- they import a large number of objects and behaviors",
+              "that serve as combination fuel.",
+              "In contrast, the worlds in the East and South only bring in a few objects and behaviors each,",
+              "which is more typical. But with the North and West, I was feeling frisky.",
+              "Getting together all those elements in the North was very difficult to eventuate... and took lavish expenditure, I must say."
+            ],
+            "pt-br": [
+              "Este Armazém é um dos mais ousados dos 4-Combinadores.",
+              "Os mundos do Norte e do Oeste aqui são bem ousados: eles importam um grande número de objetos e comportamentos",
+              "que servem de combustível para combinações.",
+              "Em contraste, os mundos do Leste e do Sul trazem apenas alguns objetos e comportamentos cada um,",
+              "o que é mais típico. Mas, com o Norte e o Oeste, eu estava animado.",
+              "Reunir todos esses elementos no Norte foi muito difícil de concretizar... e exigiu gastos generosos, devo dizer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_why_so_big_3_1__acting.wav",
+            "subtitleCueLines": [
+              9606,
+              9610,
+              9614,
+              9617,
+              9621,
+              9625
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This Warehouse is one of the more audacious of the 4-combiners.",
+          "The North and West worlds here are quite bold -- they import a large number of objects and behaviors",
+          "that serve as combination fuel.",
+          "In contrast, the worlds in the East and South only bring in a few objects and behaviors each,",
+          "which is more typical. But with the North and West, I was feeling frisky.",
+          "Getting together all those elements in the North was very difficult to eventuate... and took lavish expenditure, I must say."
+        ],
+        "pt-br": [
+          "Este Armazém é um dos mais ousados dos 4-Combinadores.",
+          "Os mundos do Norte e do Oeste aqui são bem ousados: eles importam um grande número de objetos e comportamentos",
+          "que servem de combustível para combinações.",
+          "Em contraste, os mundos do Leste e do Sul trazem apenas alguns objetos e comportamentos cada um,",
+          "o que é mais típico. Mas, com o Norte e o Oeste, eu estava animado.",
+          "Reunir todos esses elementos no Norte foi muito difícil de concretizar... e exigiu gastos generosos, devo dizer."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

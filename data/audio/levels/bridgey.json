@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "bridgey",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "vm_thief_priestess_1",
+      "clips": [
+        {
+          "id": "vm_thief_priestess_1_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 11.849333,
+          "src": "audio/clips/vm_thief_priestess_1_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "The Druid said Aiah was being held back at this old goblin fortress, but insisted he couldn't do anything about it.",
+              "He can't do anything?? He's the only guy who can petrify these jerks!"
+            ],
+            "pt-br": [
+              "O Druida disse que Aiah estava sendo mantida prisioneira naquela velha fortaleza goblin, mas insistiu que não podia fazer nada.",
+              "Ele não pode fazer nada?? Ele é o único sujeito que consegue petrificar esses babacas!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_thief_priestess_1_1__thief.wav",
+            "subtitleCueLines": [
+              8427,
+              8433
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The Druid said Aiah was being held back at this old goblin fortress, but insisted he couldn't do anything about it.",
+          "He can't do anything?? He's the only guy who can petrify these jerks!"
+        ],
+        "pt-br": [
+          "O Druida disse que Aiah estava sendo mantida prisioneira naquela velha fortaleza goblin, mas insistiu que não podia fazer nada.",
+          "Ele não pode fazer nada?? Ele é o único sujeito que consegue petrificar esses babacas!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914706,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "vm_thief_priestess_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/bridgey.entities"
+          }
+        ],
+        "subtitleLine": 8426,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

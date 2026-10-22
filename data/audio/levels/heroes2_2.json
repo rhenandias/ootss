@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_warrior_goblins_2",
+      "clips": [
+        {
+          "id": "heroes2_warrior_goblins_2_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.022333,
+          "src": "audio/clips/heroes2_warrior_goblins_2_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Was hoping that'd take me out, not further in."
+            ],
+            "pt-br": [
+              "Achei que isso ia me tirar daqui, não me levar mais pra dentro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_goblins_2_1__warrior.wav",
+            "subtitleCueLines": [
+              722
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Was hoping that'd take me out, not further in."
+        ],
+        "pt-br": [
+          "Achei que isso ia me tirar daqui, não me levar mais pra dentro."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048591,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_warrior_goblins_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_2.entities"
+          }
+        ],
+        "subtitleLine": 721,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_goblins_2_mid",
+      "clips": [
+        {
+          "id": "heroes2_warrior_goblins_2_mid_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.781667,
+          "src": "audio/clips/heroes2_warrior_goblins_2_mid_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "If I could still swing a sword, this would be a very different situation."
+            ],
+            "pt-br": [
+              "Se eu ainda pudesse empunhar uma espada, tudo seria diferente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_goblins_2_mid_1__warrior.wav",
+            "subtitleCueLines": [
+              730
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If I could still swing a sword, this would be a very different situation."
+        ],
+        "pt-br": [
+          "Se eu ainda pudesse empunhar uma espada, tudo seria diferente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_warrior_goblins_2_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.291796684265137,
+              1.862727165222168,
+              9.5367431640625e-07
+            ],
+            "source": "data-common/heroes2_2.entities"
+          }
+        ],
+        "subtitleLine": 729,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_goblins_2_mid_2",
+      "clips": [
+        {
+          "id": "heroes2_warrior_goblins_2_mid_2_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 7.729667,
+          "src": "audio/clips/heroes2_warrior_goblins_2_mid_2_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "If I'd a sword, we might've repelled those raiders, and they wouldn't have scattered the caravan.",
+              "And I wouldn't even be here."
+            ],
+            "pt-br": [
+              "Se eu tivesse uma espada, talvez a gente tivesse repelido aqueles saqueadores, e eles não teriam dispersado a Caravana.",
+              "E eu nem estaria aqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_goblins_2_mid_2_1__warrior.wav",
+            "subtitleCueLines": [
+              739,
+              745
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If I'd a sword, we might've repelled those raiders, and they wouldn't have scattered the caravan.",
+          "And I wouldn't even be here."
+        ],
+        "pt-br": [
+          "Se eu tivesse uma espada, talvez a gente tivesse repelido aqueles saqueadores, e eles não teriam dispersado a Caravana.",
+          "E eu nem estaria aqui."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343364,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_warrior_goblins_2_mid_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.6554594039917,
+              4.999685287475586,
+              9.5367431640625e-07
+            ],
+            "source": "data-common/heroes2_2.entities"
+          }
+        ],
+        "subtitleLine": 738,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_goblins_2_end",
+      "clips": [
+        {
+          "id": "heroes2_warrior_goblins_2_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.944521,
+          "src": "audio/clips/heroes2_warrior_goblins_2_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Thank God to be out of there!"
+            ],
+            "pt-br": [
+              "Finalmente saímos!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_goblins_2_end_1__warrior.wav",
+            "subtitleCueLines": [
+              753
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Thank God to be out of there!"
+        ],
+        "pt-br": [
+          "Finalmente saímos!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048591,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_warrior_goblins_2_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_2.entities"
+          }
+        ],
+        "subtitleLine": 752,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

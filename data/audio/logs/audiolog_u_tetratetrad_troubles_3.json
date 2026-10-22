@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_tetratetrad_troubles_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_tetratetrad_troubles_3",
+      "clips": [
+        {
+          "id": "audiolog_u_tetratetrad_troubles_3_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 17.437625,
+          "src": "audio/clips/audiolog_u_tetratetrad_troubles_3_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "The Tetratetrad was certainly not the best place for a Visitor's first exposure to our work -- too dense, too hard to follow --",
+              "but if they'd done a good ten or twenty other Warehouses first, they could work their way up to it.",
+              "For us, it was the brightest star in our crown. Or it would be, when finished."
+            ],
+            "pt-br": [
+              "O Tetratétrade certamente não era o melhor lugar para a primeira exposição de um Visitante ao nosso trabalho — denso demais, difícil demais de acompanhar —",
+              "mas, se eles tivessem feito dez ou vinte outros Armazéns antes, poderiam ir chegando até lá.",
+              "Para nós, era a estrela mais brilhante da nossa coroa. Ou seria, quando terminada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_tetratetrad_troubles_3_1__director.wav",
+            "subtitleCueLines": [
+              12436,
+              12442,
+              12447
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The Tetratetrad was certainly not the best place for a Visitor's first exposure to our work -- too dense, too hard to follow --",
+          "but if they'd done a good ten or twenty other Warehouses first, they could work their way up to it.",
+          "For us, it was the brightest star in our crown. Or it would be, when finished."
+        ],
+        "pt-br": [
+          "O Tetratétrade certamente não era o melhor lugar para a primeira exposição de um Visitante ao nosso trabalho — denso demais, difícil demais de acompanhar —",
+          "mas, se eles tivessem feito dez ou vinte outros Armazéns antes, poderiam ir chegando até lá.",
+          "Para nós, era a estrela mais brilhante da nossa coroa. Ou seria, quando terminada."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

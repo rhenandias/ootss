@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_lifeboat_societies_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_lifeboat_societies_1",
+      "clips": [
+        {
+          "id": "audiolog_sky_lifeboat_societies_1_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 134.237583,
+          "src": "audio/clips/audiolog_sky_lifeboat_societies_1_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "It's much easier to break things than to build them.",
+              "If, God forbid, you perform blind surgery on an organism, not caring what you cut, or how deeply,",
+              "then of course you're going to kill it. Random interventions are almost never beneficial.",
+              "So, what happens when, due to the rapid advances of technology,",
+              "the entire organism of your society undergoes change, after change, after change,",
+              "each coming as you've only started to feel the last?",
+              "It's impossible to imagine if you haven't been there.",
+              "Suddenly we're incredibly rich, but almost every way we employ these riches",
+              "becomes deleterious to our well-being, mental *and* physical.",
+              "Imagine the wealthy children of some businessman,",
+              "never had to work for anything in their lives,",
+              "they become snotty, presumptuous, useless, bored,",
+              "believing they are masters of their world with nothing above.",
+              "Nothing to look forward to, no belief in even the *possibility* of meaning that could guide their actions.",
+              "Because they think they're too smart to believe in meaning.",
+              "\"Maybe drugs will give me some reprieve,\" and we have oh *so* many drugs.",
+              "They set about destroying body, mind, and spirit in plausibly-deniable ways.",
+              "When that gets boring, well, why not toy with our weapons of incredible power;",
+              "turn them on anyone who looks at you askance. Maybe you'll feel better.",
+              "Technology keeps advancing, and soon provocations become unnecessary.",
+              "Someone was feeling bad today, so he set off a bomb or unleashed a disease",
+              "just to see a million souls squirm and die. To vent upon them his rage. His rage at being nothing.",
+              "There were enough such people to wreck our world;",
+              "too many of our contemporaries are not much better.",
+              "These were, and are, dangerous times, and I thank God that I've survived inaswell as I have.",
+              "Though it's not been without incident for me, either."
+            ],
+            "pt-br": [
+              "É muito mais fácil quebrar coisas do que construí-las.",
+              "Se, Deus nos livre, você fizer uma cirurgia às cegas em um organismo, sem se importar com o que corta, nem com a profundidade,",
+              "então, claro, você vai matá-lo. Intervenções aleatórias quase nunca ajudam.",
+              "Então, o que acontece quando, por causa dos rápidos avanços da tecnologia,",
+              "todo o organismo da sua sociedade passa por mudança, após mudança, após mudança,",
+              "cada uma chegando quando você mal começou a sentir a anterior?",
+              "É impossível imaginar se você não esteve lá.",
+              "De repente, somos incrivelmente ricos, mas quase toda maneira como usamos essas riquezas",
+              "é prejudicial ao nosso bem-estar, mental e físico.",
+              "Imagine os filhos ricos de algum empresário,",
+              "que nunca precisaram trabalhar por nada na vida,",
+              "eles ficam esnobes, presunçosos, inúteis, entediados,",
+              "acreditando que são donos do próprio mundo e que nada está acima deles.",
+              "Sem nada pelo que esperar, sem acreditar nem na possibilidade de significado que pudesse orientar suas ações.",
+              "Porque se acham inteligentes demais para acreditar que as coisas têm sentido.",
+              "\"Talvez as drogas me deem algum alívio\", e nós temos ah, tantas drogas.",
+              "Eles passam a destruir corpo, mente e espírito de maneiras plausivelmente negáveis.",
+              "Quando isso fica entediante, bem, por que não brincar com nossas armas de poder incrível;",
+              "aponte-as para quem olhar torto para você. Talvez você se sinta melhor.",
+              "A tecnologia continua avançando, e logo as provocações se tornam desnecessárias.",
+              "Alguém estava se sentindo mal hoje, então detonou uma bomba ou soltou uma doença",
+              "só para ver um milhão de almas se contorcerem e morrerem. Para descontar nelas sua raiva. Sua raiva de não ser nada.",
+              "Havia gente assim em quantidade suficiente para arruinar nosso mundo;",
+              "gente demais entre os nossos contemporâneos não é muito melhor.",
+              "Esses foram, e são, tempos perigosos, e agradeço a Deus por ter passado por eles tão bem quanto passei.",
+              "Embora isso não tenha sido sem incidentes para mim, também."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_lifeboat_societies_1_1__acting.wav",
+            "subtitleCueLines": [
+              8958,
+              8962,
+              8967,
+              8971,
+              8975,
+              8979,
+              8983,
+              8987,
+              8991,
+              8995,
+              8998,
+              9001,
+              9005,
+              9009,
+              9014,
+              9018,
+              9022,
+              9026,
+              9030,
+              9034,
+              9038,
+              9043,
+              9048,
+              9053,
+              9057,
+              9063
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_lifeboat_societies_1_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 4.027125,
+          "src": "audio/clips/audiolog_sky_lifeboat_societies_1_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "So, what made you different from the other rich children?"
+            ],
+            "pt-br": [
+              "Então, o que fez você diferente das outras crianças ricas?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_lifeboat_societies_1_2__sokoban.wav",
+            "subtitleCueLines": [
+              9067
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It's much easier to break things than to build them.",
+          "If, God forbid, you perform blind surgery on an organism, not caring what you cut, or how deeply,",
+          "then of course you're going to kill it. Random interventions are almost never beneficial.",
+          "So, what happens when, due to the rapid advances of technology,",
+          "the entire organism of your society undergoes change, after change, after change,",
+          "each coming as you've only started to feel the last?",
+          "It's impossible to imagine if you haven't been there.",
+          "Suddenly we're incredibly rich, but almost every way we employ these riches",
+          "becomes deleterious to our well-being, mental *and* physical.",
+          "Imagine the wealthy children of some businessman,",
+          "never had to work for anything in their lives,",
+          "they become snotty, presumptuous, useless, bored,",
+          "believing they are masters of their world with nothing above.",
+          "Nothing to look forward to, no belief in even the *possibility* of meaning that could guide their actions.",
+          "Because they think they're too smart to believe in meaning.",
+          "\"Maybe drugs will give me some reprieve,\" and we have oh *so* many drugs.",
+          "They set about destroying body, mind, and spirit in plausibly-deniable ways.",
+          "When that gets boring, well, why not toy with our weapons of incredible power;",
+          "turn them on anyone who looks at you askance. Maybe you'll feel better.",
+          "Technology keeps advancing, and soon provocations become unnecessary.",
+          "Someone was feeling bad today, so he set off a bomb or unleashed a disease",
+          "just to see a million souls squirm and die. To vent upon them his rage. His rage at being nothing.",
+          "There were enough such people to wreck our world;",
+          "too many of our contemporaries are not much better.",
+          "These were, and are, dangerous times, and I thank God that I've survived inaswell as I have.",
+          "Though it's not been without incident for me, either.",
+          "So, what made you different from the other rich children?"
+        ],
+        "pt-br": [
+          "É muito mais fácil quebrar coisas do que construí-las.",
+          "Se, Deus nos livre, você fizer uma cirurgia às cegas em um organismo, sem se importar com o que corta, nem com a profundidade,",
+          "então, claro, você vai matá-lo. Intervenções aleatórias quase nunca ajudam.",
+          "Então, o que acontece quando, por causa dos rápidos avanços da tecnologia,",
+          "todo o organismo da sua sociedade passa por mudança, após mudança, após mudança,",
+          "cada uma chegando quando você mal começou a sentir a anterior?",
+          "É impossível imaginar se você não esteve lá.",
+          "De repente, somos incrivelmente ricos, mas quase toda maneira como usamos essas riquezas",
+          "é prejudicial ao nosso bem-estar, mental e físico.",
+          "Imagine os filhos ricos de algum empresário,",
+          "que nunca precisaram trabalhar por nada na vida,",
+          "eles ficam esnobes, presunçosos, inúteis, entediados,",
+          "acreditando que são donos do próprio mundo e que nada está acima deles.",
+          "Sem nada pelo que esperar, sem acreditar nem na possibilidade de significado que pudesse orientar suas ações.",
+          "Porque se acham inteligentes demais para acreditar que as coisas têm sentido.",
+          "\"Talvez as drogas me deem algum alívio\", e nós temos ah, tantas drogas.",
+          "Eles passam a destruir corpo, mente e espírito de maneiras plausivelmente negáveis.",
+          "Quando isso fica entediante, bem, por que não brincar com nossas armas de poder incrível;",
+          "aponte-as para quem olhar torto para você. Talvez você se sinta melhor.",
+          "A tecnologia continua avançando, e logo as provocações se tornam desnecessárias.",
+          "Alguém estava se sentindo mal hoje, então detonou uma bomba ou soltou uma doença",
+          "só para ver um milhão de almas se contorcerem e morrerem. Para descontar nelas sua raiva. Sua raiva de não ser nada.",
+          "Havia gente assim em quantidade suficiente para arruinar nosso mundo;",
+          "gente demais entre os nossos contemporâneos não é muito melhor.",
+          "Esses foram, e são, tempos perigosos, e agradeço a Deus por ter passado por eles tão bem quanto passei.",
+          "Embora isso não tenha sido sem incidentes para mim, também.",
+          "Então, o que fez você diferente das outras crianças ricas?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

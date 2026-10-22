@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_8_v3_alt3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_and_priestess",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_priestess_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 5.717521,
+          "src": "audio/clips/heroes3_bard_and_priestess_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "I don't mean to be manipulative, not always, not in a *bad* way..."
+            ],
+            "pt-br": [
+              "Não tô dizendo isso pra manipular, nem sempre, nem de um jeito ruim..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_priestess_1__bard.wav",
+            "subtitleCueLines": [
+              1854
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I don't mean to be manipulative, not always, not in a *bad* way...",
+          "..."
+        ],
+        "pt-br": [
+          "Não tô dizendo isso pra manipular, nem sempre, nem de um jeito ruim...",
+          "..."
+        ]
+      },
+      "silentCues": [
+        {
+          "id": "heroes3_bard_and_priestess_2__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            1860
+          ]
+        }
+      ],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137567,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_and_priestess",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_8_v3_alt3.entities"
+          }
+        ],
+        "subtitleLine": 1853,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes3_bard_and_priestess_mid",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_priestess_mid_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 16.413667,
+          "src": "audio/clips/heroes3_bard_and_priestess_mid_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "... but over time, I caught glimpses. This person wants to be reached in this way. That person, that way.",
+              "When I get it *just* right ... they're happy for a minute.",
+              "Now ... this is just how I live."
+            ],
+            "pt-br": [
+              "... mas, com o tempo, comecei a perceber. Esta pessoa quer ser tocada de um jeito. Aquela, de outro.",
+              "Quando acerto em cheio... elas ficam felizes por um minuto.",
+              "Agora... é assim que eu vivo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_priestess_mid_1__bard.wav",
+            "subtitleCueLines": [
+              1867,
+              1873,
+              1877
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... but over time, I caught glimpses. This person wants to be reached in this way. That person, that way.",
+          "When I get it *just* right ... they're happy for a minute.",
+          "Now ... this is just how I live."
+        ],
+        "pt-br": [
+          "... mas, com o tempo, comecei a perceber. Esta pessoa quer ser tocada de um jeito. Aquela, de outro.",
+          "Quando acerto em cheio... elas ficam felizes por um minuto.",
+          "Agora... é assim que eu vivo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes3_bard_and_priestess_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.109539985656738,
+              4.169699668884277,
+              -9.5367431640625e-07
+            ],
+            "source": "data-common/heroes3_8_v3_alt3.entities"
+          }
+        ],
+        "subtitleLine": 1866,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes3_bard_and_priestess_end",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_priestess_end_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.646292,
+          "src": "audio/clips/heroes3_bard_and_priestess_end_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Thanks for talking. I feel a little better about it."
+            ],
+            "pt-br": [
+              "Valeu por conversar. Fiquei um pouco melhor quanto a isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_priestess_end_1__bard.wav",
+            "subtitleCueLines": [
+              1884
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Thanks for talking. I feel a little better about it."
+        ],
+        "pt-br": [
+          "Valeu por conversar. Fiquei um pouco melhor quanto a isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137567,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes3_bard_and_priestess_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_8_v3_alt3.entities"
+          }
+        ],
+        "subtitleLine": 1883,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

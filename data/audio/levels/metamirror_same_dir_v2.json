@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "metamirror_same_dir_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mm_why",
+      "clips": [
+        {
+          "id": "mm_why_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.328375,
+          "src": "audio/clips/mm_why_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Why are we here?"
+            ],
+            "pt-br": [
+              "Por que estamos aqui?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mm_why_1__trader.wav",
+            "subtitleCueLines": [
+              6826
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mm_why_2__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 5.517604,
+          "src": "audio/clips/mm_why_2__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "The Chiefs want you to see this sequence. They said you'll need these ideas where you're going."
+            ],
+            "pt-br": [
+              "Os chefes querem que você veja esta sequência. Disseram que você vai precisar dessas ideias pra onde está indo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mm_why_2__trader_alt.wav",
+            "subtitleCueLines": [
+              6829
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mm_why_3__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 3.625333,
+          "src": "audio/clips/mm_why_3__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Where I'm going? I've gone pretty far by now, I thought."
+            ],
+            "pt-br": [
+              "Pra onde eu vou? Já fui bem longe até aqui, pensei."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mm_why_3__trader.wav",
+            "subtitleCueLines": [
+              6834
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mm_why_4__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 0.627333,
+          "src": "audio/clips/mm_why_4__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Try it."
+            ],
+            "pt-br": [
+              "Tente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mm_why_4__trader_alt.wav",
+            "subtitleCueLines": [
+              6838
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Why are we here?",
+          "The Chiefs want you to see this sequence. They said you'll need these ideas where you're going.",
+          "Where I'm going? I've gone pretty far by now, I thought.",
+          "Try it."
+        ],
+        "pt-br": [
+          "Por que estamos aqui?",
+          "Os chefes querem que você veja esta sequência. Disseram que você vai precisar dessas ideias pra onde está indo.",
+          "Pra onde eu vou? Já fui bem longe até aqui, pensei.",
+          "Tente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048721,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mm_why",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/metamirror_same_dir_v2.entities"
+          }
+        ],
+        "subtitleLine": 6825,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_musing_on_fast_travel",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_musing_on_fast_travel",
+      "clips": [
+        {
+          "id": "audiolog_g_musing_on_fast_travel_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 46.639167,
+          "src": "audio/clips/audiolog_g_musing_on_fast_travel_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Quigley, this way of getting around is ... charming. I don't mind it.",
+              "Of course I have always enjoyed the binary partitioning",
+              "we use for National Transport (confusing though it may be to newcomers);",
+              "but the weakness of our scheme is that it manifests as a sequence of skips, which create a linear path, like a road.",
+              "Of course, we make a web of roads. But the underlying limitation into one dimension is still there.",
+              "Here, travel is free across two dimensions.",
+              "So. How do these transportation platforms work? Could we build these in our world too,",
+              "or do they function due to some enabling property in the basic nature of this place, absent in ours?",
+              "Speaking of which..."
+            ],
+            "pt-br": [
+              "Quigley, esse jeito de se mover é... fofo. Não me importo.",
+              "Claro que sempre gostei do esquema binário de partição",
+              "que usamos no Transporte Nacional (embora isso possa confundir os recém-chegados);",
+              "mas a fraqueza do nosso esquema é que ele se manifesta como uma sequência de saltos, que criam um caminho linear, como uma estrada.",
+              "Claro que fazemos uma rede de estradas. Mas a limitação básica a uma dimensão continua lá.",
+              "Aqui, a viagem é livre em duas dimensões.",
+              "Então. Como funcionam essas plataformas de transporte? Será que poderíamos fazer isso no nosso mundo também,",
+              "ou elas funcionam devido a alguma propriedade habilitadora na própria natureza básica deste lugar, que não existe no nosso?",
+              "Falando nisso..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_musing_on_fast_travel_1__sokoban.wav",
+            "subtitleCueLines": [
+              3544,
+              3548,
+              3552,
+              3556,
+              3561,
+              3566,
+              3569,
+              3573,
+              3578
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Quigley, this way of getting around is ... charming. I don't mind it.",
+          "Of course I have always enjoyed the binary partitioning",
+          "we use for National Transport (confusing though it may be to newcomers);",
+          "but the weakness of our scheme is that it manifests as a sequence of skips, which create a linear path, like a road.",
+          "Of course, we make a web of roads. But the underlying limitation into one dimension is still there.",
+          "Here, travel is free across two dimensions.",
+          "So. How do these transportation platforms work? Could we build these in our world too,",
+          "or do they function due to some enabling property in the basic nature of this place, absent in ours?",
+          "Speaking of which..."
+        ],
+        "pt-br": [
+          "Quigley, esse jeito de se mover é... fofo. Não me importo.",
+          "Claro que sempre gostei do esquema binário de partição",
+          "que usamos no Transporte Nacional (embora isso possa confundir os recém-chegados);",
+          "mas a fraqueza do nosso esquema é que ele se manifesta como uma sequência de saltos, que criam um caminho linear, como uma estrada.",
+          "Claro que fazemos uma rede de estradas. Mas a limitação básica a uma dimensão continua lá.",
+          "Aqui, a viagem é livre em duas dimensões.",
+          "Então. Como funcionam essas plataformas de transporte? Será que poderíamos fazer isso no nosso mundo também,",
+          "ou elas funcionam devido a alguma propriedade habilitadora na própria natureza básica deste lugar, que não existe no nosso?",
+          "Falando nisso..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

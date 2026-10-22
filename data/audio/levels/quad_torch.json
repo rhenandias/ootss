@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "level": "quad_torch",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_quad_torch",
+      "clips": [
+        {
+          "id": "audiolog_di_quad_torch_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 69.113062,
+          "src": "audio/clips/audiolog_di_quad_torch_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here we have another 7x7 chamber, but now it has a wall in the middle.",
+              "The wall takes up a little bit of slack space, but it also gives you another way",
+              "to cross the line of dragon breath when you want to.",
+              "This means the puzzle is less about crossing dragon breath,",
+              "and more about aiming and positioning the dragon.",
+              "You don't have to do a bunch of excess Sokobanning",
+              "to deal with the fact that you are crammed in.",
+              "The central column also helps solve the Goblin teleportation problem.",
+              "The Goblins on the east and south are set back,",
+              "so you can't teleport them into the chamber; if you wanted to teleport one Goblin to the other's spot,",
+              "as you could in the previous revision, you would have to place the Mirror where the central column is.",
+              "And of course you can't do that.",
+              "So, in this version, you do *finally* have to shoot fire in all 4 directions.",
+              "You could argue that the \"kill the final monster\" surprise here is a little off-topic,",
+              "but it does involve teleporting the dragon to the right place in the right orientation,",
+              "then escaping the cage, which is fun.",
+              "And it's tuned to be easier than the original version of the level."
+            ],
+            "pt-br": [
+              "Aqui temos mais uma câmara 7x7, mas agora ela tem uma parede no meio.",
+              "A parede ocupa um pouco do espaço livre, mas também lhe dá outra forma",
+              "de cruzar a linha do sopro do dragão quando você quiser.",
+              "Isso significa que o quebra-cabeça é menos sobre cruzar o sopro do dragão,",
+              "e mais sobre mirar e posicionar o dragão.",
+              "Você não precisa fazer um monte de excesso de Sokoban",
+              "para lidar com o fato de que você está espremido.",
+              "A coluna central também ajuda a resolver o problema de teletransporte dos goblins.",
+              "Os Goblins a leste e ao sul ficam recuados,",
+              "então você não pode teletransportá-los para dentro da câmara; se quisesse teletransportar um Goblin para o lugar do outro,",
+              "como podia na revisão anterior, você teria de colocar o espelho onde está a coluna central.",
+              "E é claro que você não pode fazer isso.",
+              "Então, nesta versão, você finalmente precisa soltar fogo nas 4 direções.",
+              "Você poderia argumentar que a “surpresa de matar o monstro final” aqui é um pouco fora de tema,",
+              "mas isso envolve teletransportar o dragão para o lugar certo na orientação certa,",
+              "e então escapar da jaula, o que é divertido.",
+              "E ela foi ajustada para ser mais fácil que a versão original do nível."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_quad_torch_1__director.wav",
+            "subtitleCueLines": [
+              13575,
+              13579,
+              13583,
+              13587,
+              13591,
+              13595,
+              13599,
+              13603,
+              13607,
+              13611,
+              13616,
+              13621,
+              13624,
+              13628,
+              13633,
+              13638,
+              13642
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here we have another 7x7 chamber, but now it has a wall in the middle.",
+          "The wall takes up a little bit of slack space, but it also gives you another way",
+          "to cross the line of dragon breath when you want to.",
+          "This means the puzzle is less about crossing dragon breath,",
+          "and more about aiming and positioning the dragon.",
+          "You don't have to do a bunch of excess Sokobanning",
+          "to deal with the fact that you are crammed in.",
+          "The central column also helps solve the Goblin teleportation problem.",
+          "The Goblins on the east and south are set back,",
+          "so you can't teleport them into the chamber; if you wanted to teleport one Goblin to the other's spot,",
+          "as you could in the previous revision, you would have to place the Mirror where the central column is.",
+          "And of course you can't do that.",
+          "So, in this version, you do *finally* have to shoot fire in all 4 directions.",
+          "You could argue that the \"kill the final monster\" surprise here is a little off-topic,",
+          "but it does involve teleporting the dragon to the right place in the right orientation,",
+          "then escaping the cage, which is fun.",
+          "And it's tuned to be easier than the original version of the level."
+        ],
+        "pt-br": [
+          "Aqui temos mais uma câmara 7x7, mas agora ela tem uma parede no meio.",
+          "A parede ocupa um pouco do espaço livre, mas também lhe dá outra forma",
+          "de cruzar a linha do sopro do dragão quando você quiser.",
+          "Isso significa que o quebra-cabeça é menos sobre cruzar o sopro do dragão,",
+          "e mais sobre mirar e posicionar o dragão.",
+          "Você não precisa fazer um monte de excesso de Sokoban",
+          "para lidar com o fato de que você está espremido.",
+          "A coluna central também ajuda a resolver o problema de teletransporte dos goblins.",
+          "Os Goblins a leste e ao sul ficam recuados,",
+          "então você não pode teletransportá-los para dentro da câmara; se quisesse teletransportar um Goblin para o lugar do outro,",
+          "como podia na revisão anterior, você teria de colocar o espelho onde está a coluna central.",
+          "E é claro que você não pode fazer isso.",
+          "Então, nesta versão, você finalmente precisa soltar fogo nas 4 direções.",
+          "Você poderia argumentar que a “surpresa de matar o monstro final” aqui é um pouco fora de tema,",
+          "mas isso envolve teletransportar o dragão para o lugar certo na orientação certa,",
+          "e então escapar da jaula, o que é divertido.",
+          "E ela foi ajustada para ser mais fácil que a versão original do nível."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914565,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_quad_torch",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/quad_torch.entities"
+          }
+        ],
+        "subtitleLine": 13574,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

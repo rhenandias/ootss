@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_6_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_thief_dragons_third",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_third_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.003667,
+          "src": "audio/clips/heroes2_thief_dragons_third_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Another crystal. Following the trail..."
+            ],
+            "pt-br": [
+              "Outro cristal. Seguindo a trilha..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_third_1__thief.wav",
+            "subtitleCueLines": [
+              908
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Another crystal. Following the trail..."
+        ],
+        "pt-br": [
+          "Outro cristal. Seguindo a trilha..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87032023,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_thief_dragons_third",
+            "rule": "exact-reference",
+            "coordinates": [
+              -1.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_6_v3.entities"
+          }
+        ],
+        "subtitleLine": 907,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_dragons_third_end",
+      "clips": [
+        {
+          "id": "heroes2_thief_dragons_third_end_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.345,
+          "src": "audio/clips/heroes2_thief_dragons_third_end_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Is that the crack of a teleport I hear? Izzy, is that you?"
+            ],
+            "pt-br": [
+              "É o estalo de um teletransporte que estou ouvindo? Izzy, é você?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_dragons_third_end_1__thief.wav",
+            "subtitleCueLines": [
+              916
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Is that the crack of a teleport I hear? Izzy, is that you?"
+        ],
+        "pt-br": [
+          "É o estalo de um teletransporte que estou ouvindo? Izzy, é você?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87032023,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_thief_dragons_third_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              -1.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_6_v3.entities"
+          }
+        ],
+        "subtitleLine": 915,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -17,6 +17,7 @@
 <meta property="og:locale" content="en_US" />
 
 <link href="js/lib//font-awesome/css/all.min.css" rel="stylesheet" />
+<link href="js/audio_catalog.css" rel="stylesheet" />
 
 <script src="js/lib//leaflet/leaflet.min.js"></script>
 <link href="js/lib//leaflet/leaflet.min.css" rel="stylesheet" />
@@ -472,6 +473,7 @@ html, body, #map { width:100%; height: 100%; margin: 0; padding: 0; overflow: hi
 
 <div id="alert" class="closed" tabindex="-1">Copied To Clipboard</div>
 
+<script src="js/audio_catalog.js"></script>
 <script>
 
 let localDataName = 'joricsOotSS';
@@ -542,6 +544,23 @@ let gridLayer = null;
 let areaCounters = {};
 
 let baseLayerName = '';
+let audioLogFeatures = [];
+let levelMarkers = [];
+const isWorldAudio = feature => ['Voice_Log', 'Audio_Trigger'].includes(feature?.properties?.type);
+const triggerStyles = {
+  movement: ['fa fa-shoe-prints', '#308577', 'Movement trigger'],
+  character: ['fa fa-comment', '#7662a1', 'Character dialogue'],
+  sign: ['fa fa-sign', '#42799b', 'Sign dialogue'],
+  object: ['fa fa-hand-pointer', '#42799b', 'Object dialogue'],
+  boat: ['fa fa-ship', '#42799b', 'Boat dialogue'],
+  checkpoint: ['fa fa-flag-checkered', '#42799b', 'Checkpoint dialogue'],
+  unlock: ['fa fa-unlock', '#42799b', 'Unlock dialogue'],
+  scripted: ['fa fa-bolt', '#b76e35', 'Scripted dialogue anchor'],
+};
+function worldAudioLabel(feature) {
+  return feature.properties.type === 'Audio_Trigger'
+    ? (triggerStyles[feature.properties.triggerKind] || triggerStyles.scripted)[2] : 'Audio log';
+}
 
 function getSolutionPlayerLink(name, solvable) {
   if (solvable) {
@@ -617,12 +636,25 @@ function getIconHTML(feature, size=48) {
   }
 
 
+  if (isWorldAudio(feature)) {
+    options.bg = '#a17b32';
+    options.class = 'fa fa-volume-up';
+    if (feature.properties.type === 'Audio_Trigger') {
+      const style = triggerStyles[feature.properties.triggerKind] || triggerStyles.scripted;
+      options.class = style[0];
+      options.bg = style[1];
+    }
+    title = '';
+  }
+
   let bg = options.bg || 'dimgrey';
   let fg = options.fg || 'white';
 
   let html = options.html || `<i class="${options.class}" style="color:${fg}"><span class="icon-text">${title}</span></i>`;
 
-  return `<span class="icon-base icon-${size}" style="color:${bg}">${html}</span><div class="marker-label">${feature.properties.name}</div>`;
+  const dialogueBadge = feature.properties.type === 'Level_Entry' && LevelAudio.hasLevel(feature.properties.name)
+    ? '<span class="level-dialogue-badge" role="img" aria-label="Dialogue available" title="Dialogue available"><i class="fa fa-comment" aria-hidden="true"></i></span>' : '';
+  return `<span class="icon-base icon-${size}" style="color:${bg}">${html}</span>${dialogueBadge}<div class="marker-label">${feature.properties.name}</div>`;
 }
 
 let baseIcon = (feature) => {
@@ -1029,6 +1061,11 @@ function updateLabels() {
 
   let name = baseLayerName;
   map.eachLayer(function(marker) {
+    if (isWorldAudio(marker?.feature)) {
+      const visible = audioLogOnCurrentMap(marker.feature);
+      if (marker._icon) marker._icon.style.display = visible ? '' : 'none';
+      if (!visible && marker.isPopupOpen()) marker.closePopup();
+    }
     if (marker?.feature?.properties.type == 'Area_Pin') {
       const [x,y,z] = marker.feature.geometry.coordinates;
       let base = name.replace('_64k','');
@@ -1044,13 +1081,17 @@ function baseLayerChange(name) {
   baseLayerName = name;
   updateLabels();
   updateCRS(name);
+  syncSearchLayer();
 }
 
-const getCoordinates = marker => marker.feature.geometry.coordinates.map(String).join(',');
+const getCoordinates = marker => marker.feature.geometry.coordinates
+  .map(value => String(Number(value.toFixed(2)))).join(',');
 
 function getTooltipTitle(marker) {
   let o = marker.feature.properties;
-  let title = `<b>${o.name}</b> in ${o.area} (${getCoordinates(marker)})`;
+  let title = isWorldAudio(marker.feature)
+    ? `<b>${worldAudioLabel(marker.feature)}</b>: ${o.name} (${getCoordinates(marker)})`
+    : `<b>${o.name}</b> in ${o.area} (${getCoordinates(marker)})`;
   return title;
 }
 
@@ -1072,6 +1113,7 @@ function youTubeId(url) {
 function openPopup(e) {
   const marker = e.target;
   let o = marker.feature.properties;
+  if (isWorldAudio(marker.feature)) return openAudioLogPopup(marker);
 
   let backlink = `<a class="copyable" href="${getMapURL(o.name)}" title="Click to copy link to clipboard"><i class="fa fa-link"></i></a>`;
   let header = `<div class="header"><b class="copyable" title="Click to copy name to clipboard">${o.name}</b></a> in ${o.area} (${getCoordinates(marker)}) ${backlink}</div>`;
@@ -1110,18 +1152,118 @@ function openPopup(e) {
   }
 
 
-  content += footer;
+  const hasAudio = LevelAudio.hasLevel(o.name);
+  content = hasAudio
+    ? `${header}<div class="level-popup-layout"><div class="level-popup-preview">${image}${footer}</div><div class="level-audio-panel"></div></div>`
+    : `${content}${footer}`;
 
   marker.unbindPopup();
-  marker.bindPopup(content, { offset: [0,5], maxWidth: 360, minWidth: 360 });
+  const popupWidth = Math.min(hasAudio ? 800 : 360, window.innerWidth - 64);
+  const popupContent = hasAudio ? document.createElement('div') : content;
+  if (hasAudio) popupContent.innerHTML = content;
+  marker.bindPopup(popupContent, { offset: [0,5], maxWidth: popupWidth, minWidth: popupWidth, maxHeight: hasAudio ? window.innerHeight - 160 : undefined, autoPanPaddingTopLeft: hasAudio ? [10, 70] : [5, 5], autoPanPaddingBottomRight: hasAudio ? [10, 35] : [5, 5] });
   marker.openPopup();
+  if (hasAudio) {
+    const popup = marker.getPopup();
+    LevelAudio.mount(popup.getElement().querySelector('.level-audio-panel'), o.name).then(() => {
+      if (popup.isOpen()) popup.update();
+    });
+  }
+}
+
+function audioLogOnCurrentMap(feature) {
+  const range = heightRanges[baseLayerName.replace('_64k', '')];
+  const z = feature.geometry.coordinates[2];
+  return !range || (z >= range[0] && z <= range[1]);
+}
+
+function openAudioLogPopup(marker) {
+  LevelAudio.close();
+  const properties = marker.feature.properties;
+  const name = properties.name;
+  const isTrigger = properties.type === 'Audio_Trigger';
+  const audioKey = isTrigger ? properties.audioKey : name;
+  const content = document.createElement('div');
+  content.className = 'audio-log-popup';
+  const header = document.createElement('div');
+  header.className = 'header';
+  const title = document.createElement('b');
+  title.textContent = name;
+  title.className = 'copyable';
+  header.append(title, document.createTextNode(` (${getCoordinates(marker)}) `));
+  const backlink = document.createElement('a');
+  backlink.className = 'copyable';
+  backlink.href = getMapURL(name);
+  backlink.title = 'Click to copy link to clipboard';
+  backlink.innerHTML = '<i class="fa fa-link"></i>';
+  header.append(backlink);
+  const panel = document.createElement('div');
+  panel.className = 'level-audio-panel';
+  content.append(header, panel);
+  const width = Math.min(420, window.innerWidth - 64);
+  marker.unbindPopup();
+  marker.bindPopup(content, {offset: [0,5], minWidth: width, maxWidth: width,
+    maxHeight: Math.max(180, window.innerHeight - 180),
+    autoPanPaddingTopLeft: [10, 70], autoPanPaddingBottomRight: [10, 35]});
+  marker.openPopup();
+  if (isTrigger ? LevelAudio.hasTrigger(audioKey) : LevelAudio.hasLog(name)) {
+    const popup = marker.getPopup();
+    LevelAudio.mount(panel, audioKey, isTrigger ? 'trigger' : 'log').then(() => {
+      if (popup.isOpen()) popup.update();
+    });
+  } else {
+    panel.textContent = 'This recording is not available yet.';
+  }
+}
+
+function applyDialogueFilter() {
+  for (const {marker, group} of levelMarkers) {
+    const visible = !settings.onlyLevelsWithDialogue || LevelAudio.hasLevel(marker.feature.properties.name);
+    if (visible) {
+      if (!layers[group].hasLayer(marker)) layers[group].addLayer(marker);
+    } else {
+      if (marker.isPopupOpen()) marker.closePopup();
+      layers[group].removeLayer(marker);
+    }
+  }
+  updateLabels();
+  syncSearchLayer();
+}
+
+function addDialogueFilter(layerControl) {
+  const container = L.DomUtil.create('div', 'dialogue-map-filter',
+    layerControl.getContainer().querySelector('.leaflet-control-layers-list'));
+  L.DomEvent.disableClickPropagation(container);
+  const label = document.createElement('label');
+  const checkbox = document.createElement('input');
+  checkbox.type = 'checkbox';
+  checkbox.id = 'dialogue-level-filter';
+  checkbox.checked = Boolean(settings.onlyLevelsWithDialogue);
+  const count = levelMarkers.filter(({marker}) => LevelAudio.hasLevel(marker.feature.properties.name)).length;
+  const text = document.createElement('span');
+  text.textContent = ` Only levels with dialogue (${count})`;
+  label.append(checkbox, text);
+  container.append(label);
+  checkbox.addEventListener('change', () => {
+    settings.onlyLevelsWithDialogue = checkbox.checked;
+    saveSettings();
+    applyDialogueFilter();
+  });
 }
 
 function syncSearchLayer() {
+  document.querySelectorAll('.layer-marker-count').forEach(label => {
+    const group = layers[label.dataset.layerId];
+    label.textContent = ` (${group.getLayers().filter(marker => marker instanceof L.Marker).length})`;
+  });
+  if (!searchLayer) return;
   searchLayer.clearLayers();
   for (const g of Object.values(layers)) {
     if (g.id === 'grid' || g.id=='areas' || !map.hasLayer(g)) continue;
-    g.eachLayer(l => { if (l instanceof L.Marker) searchLayer.addLayer(l); });
+    g.eachLayer(l => {
+      if (l instanceof L.Marker && (!isWorldAudio(l.feature)
+          || audioLogOnCurrentMap(l.feature))) searchLayer.addLayer(l);
+    });
   }
 }
 
@@ -1148,6 +1290,12 @@ function drawMap() {
 
   if (!settings.activeLayers) {
     settings.activeLayers = {'overworld_64k':true, 'overworld':true, 'areas': true};
+  }
+
+  if (!settings.audioLogsInitialized) {
+    settings.activeLayers.audio_logs = true;
+    settings.audioLogsInitialized = true;
+    saveSettings();
   }
 
   let crs = L.CRS.Simple;
@@ -1180,6 +1328,8 @@ function drawMap() {
 
   map.on('overlayremove', function(e) {
     delete settings.activeLayers[e.layer.id];
+    if (currentOpenMarker && e.layer.hasLayer(currentOpenMarker)) currentOpenMarker.closePopup();
+    syncSearchLayer();
     saveSettings();
   });
 
@@ -1265,11 +1415,13 @@ function drawMap() {
 
   fetch('data/markers.json').then(r=>r.json()).then(data=>{
 
+    data.features.push(...audioLogFeatures);
     console.log(`loaded ${data.features.length} features`);
 
 
     counters = {};
     layers = {};
+    levelMarkers = [];
 
 
     function getImageBounds(cellSize, iw,ih, dx, dy) {
@@ -1393,6 +1545,9 @@ function drawMap() {
 
       if (o.type == 'Level_Entry') {
         marker = customMarker(latlng, feature);
+      } else if (isWorldAudio(feature)) {
+        marker = customMarker(latlng, feature);
+        group = 'audio_logs';
       } else if (o.type == 'Area_Pin' ) {
         const f2 = featureLookup[o.entity_properties?.map_label_marker_id];
         if (f2) {
@@ -1415,6 +1570,7 @@ function drawMap() {
       })
 
       marker.on('popupclose', () => {
+        LevelAudio.close();
         currentOpenMarker = null;
         if (location.hash.length > 1) 
           history.replaceState(null, '', window.location.pathname + window.location.search);
@@ -1443,6 +1599,7 @@ function drawMap() {
       }
 
       marker.addTo(layers[group]);
+      if (o.type === 'Level_Entry') levelMarkers.push({marker, group});
 
     }
 
@@ -1458,7 +1615,7 @@ function drawMap() {
       Object.entries(layers).map(([name, layer]) => {
         const hasMarkers = layer.getLayers ? layer.getLayers().some(l => l instanceof L.Marker) : layer instanceof L.Marker;
         const count = layer.getLayers ? layer.getLayers().filter(l => l instanceof L.Marker).length : (layer instanceof L.Marker ? 1 : 0);
-        return [`${name}${hasMarkers ? ' ('+count+')' : ''}`, layer];
+        return [`${name === 'audio_logs' ? 'Audio logs & triggers' : name}${hasMarkers ? `<span class="layer-marker-count" data-layer-id="${name}"> (${count})</span>` : ''}`, layer];
       })
     );
 
@@ -1466,6 +1623,7 @@ function drawMap() {
     overlaysWithCounts = Object.fromEntries( Object.entries(overlaysWithCounts).sort((a, b) => a[0].localeCompare(b[0])) );
 
     let layercontrol = L.control.layers(baseLayers, overlaysWithCounts, {collapsed: true, position: 'bottomleft'}).addTo(map);
+    addDialogueFilter(layercontrol);
 
     searchLayer = L.layerGroup();
     syncSearchLayer();
@@ -1493,7 +1651,7 @@ function drawMap() {
 
 
     map.on('zoom overlayadd', updateLabels);
-    updateLabels();
+    applyDialogueFilter();
 
     // mini map
 
@@ -1682,7 +1840,7 @@ function drawMap() {
       if (isGalleryOpen()) {
         selectImage();
       } else {
-        if (currentOpenMarker) {
+        if (currentOpenMarker && !isWorldAudio(currentOpenMarker.feature)) {
           openGallery(currentOpenMarker.feature.properties.name);
         }
       }
@@ -1728,12 +1886,17 @@ window.onload = function() {
     'data/order.txt',
     'data/wt.txt',
     'data/Localization/en.json',
+    'data/audio/catalog.json',
+    'data/audio/voice_logs.geojson',
+    'data/audio/audio_triggers.geojson',
   ].map(url =>
     fetch(url).then(r => url.endsWith('.txt') ? r.text() : r.json())
   );
 
   Promise.all(promises).then(data => {
-    let [sol, yt, img, ord, wtd, lg] = data;
+    let [sol, yt, img, ord, wtd, lg, audioCatalog, voiceLogs, audioTriggers] = data;
+    audioLogFeatures = [...voiceLogs.features, ...audioTriggers.features].filter(f => f.properties.mapReady);
+    LevelAudio.setCatalog(audioCatalog);
 
     solutions = Object.fromEntries(sol.split('\n').map(s => s.trim().split(':', 2)).filter(([, v])=> v && v.length>=2));
     youtube = Object.fromEntries(yt.split('\n').map(s => s.trim().split(',', 2)).filter(([, v])=> v && v.length>=2));

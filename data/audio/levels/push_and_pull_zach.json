@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "level": "push_and_pull_zach",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hw_warrior_thief",
+      "clips": [
+        {
+          "id": "hw_warrior_thief_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 7.086938,
+          "src": "audio/clips/hw_warrior_thief_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "So I'm telling you, we'll bring some gourds on a big big cart,",
+              "we'll fill them with this 'water', bring the whole cartful back home, and we'll be rich."
+            ],
+            "pt-br": [
+              "Então estou te dizendo, a gente traz umas cabaças num carrinho bem, bem grande,",
+              "enche elas com essa 'água', traz o carrinho cheio de volta pra casa, e a gente vai ficar rico."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_1__thief.wav",
+            "subtitleCueLines": [
+              7180,
+              7186
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hw_warrior_thief_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 7.898833,
+          "src": "audio/clips/hw_warrior_thief_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Will the water stay stuck together when we get it back home?",
+              "I don't want to be standing next to a cartload of ... exploding water pellets."
+            ],
+            "pt-br": [
+              "Será que a água vai continuar toda junta quando chegar em casa?",
+              "Não quero ficar perto de um carrinho cheio de... pedrinhas de água explodindo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_2__warrior.wav",
+            "subtitleCueLines": [
+              7191,
+              7195
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hw_warrior_thief_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.102833,
+          "src": "audio/clips/hw_warrior_thief_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Hmmm, ummm. What if ... we had a *very* long rope ... ?"
+            ],
+            "pt-br": [
+              "Hmmm, ééé. E se tivéssemos uma corda muito comprida...?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_3__thief.wav",
+            "subtitleCueLines": [
+              7200
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So I'm telling you, we'll bring some gourds on a big big cart,",
+          "we'll fill them with this 'water', bring the whole cartful back home, and we'll be rich.",
+          "Will the water stay stuck together when we get it back home?",
+          "I don't want to be standing next to a cartload of ... exploding water pellets.",
+          "Hmmm, ummm. What if ... we had a *very* long rope ... ?"
+        ],
+        "pt-br": [
+          "Então estou te dizendo, a gente traz umas cabaças num carrinho bem, bem grande,",
+          "enche elas com essa 'água', traz o carrinho cheio de volta pra casa, e a gente vai ficar rico.",
+          "Será que a água vai continuar toda junta quando chegar em casa?",
+          "Não quero ficar perto de um carrinho cheio de... pedrinhas de água explodindo.",
+          "Hmmm, ééé. E se tivéssemos uma corda muito comprida...?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 39846055,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hw_warrior_thief",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/push_and_pull_zach.entities"
+          }
+        ],
+        "subtitleLine": 7179,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "hw_warrior_thief_end",
+      "clips": [
+        {
+          "id": "hw_warrior_thief_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.427021,
+          "src": "audio/clips/hw_warrior_thief_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Why exactly would people even buy this water?"
+            ],
+            "pt-br": [
+              "Por que exatamente as pessoas comprariam essa água?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_end_1__warrior.wav",
+            "subtitleCueLines": [
+              7208
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hw_warrior_thief_end_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 8.974333,
+          "src": "audio/clips/hw_warrior_thief_end_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "The idle rich buy weird stuff from distant lands all the time. And this is the weirdest!",
+              "Foreign, mysterious ... *maybe* dangerous... it sells itself!"
+            ],
+            "pt-br": [
+              "Os ricaços desocupados vivem comprando esquisitices de terras distantes. E esta é a mais esquisita de todas!",
+              "Exótica, misteriosa... talvez perigosa... ela se vende sozinha!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_end_2__thief.wav",
+            "subtitleCueLines": [
+              7211,
+              7216
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Why exactly would people even buy this water?",
+          "The idle rich buy weird stuff from distant lands all the time. And this is the weirdest!",
+          "Foreign, mysterious ... *maybe* dangerous... it sells itself!"
+        ],
+        "pt-br": [
+          "Por que exatamente as pessoas comprariam essa água?",
+          "Os ricaços desocupados vivem comprando esquisitices de terras distantes. E esta é a mais esquisita de todas!",
+          "Exótica, misteriosa... talvez perigosa... ela se vende sozinha!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 39846055,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "hw_warrior_thief_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/push_and_pull_zach.entities"
+          }
+        ],
+        "subtitleLine": 7207,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_15_v4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_wizard_and_druid_2",
+      "clips": [
+        {
+          "id": "heroes3_wizard_and_druid_2_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 18.610958,
+          "src": "audio/clips/heroes3_wizard_and_druid_2_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "But all forms contain their seeds within.",
+              "Our bodies still hold, in every mote of flesh, the full course of our slow transformation from lithic quietude to animal messiness.",
+              "To be transmuted is a sort of ... descent through corporeal memory."
+            ],
+            "pt-br": [
+              "Mas todas as formas trazem suas sementes dentro de si.",
+              "Nossos corpos ainda guardam, em cada partícula de carne, cada etapa da nossa lenta transformação da quietude lítica para a bagunça animal.",
+              "Passar pela transmutação é uma espécie de... mergulho na memória do corpo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_wizard_and_druid_2_1__druid.wav",
+            "subtitleCueLines": [
+              2147,
+              2150,
+              2155
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "But all forms contain their seeds within.",
+          "Our bodies still hold, in every mote of flesh, the full course of our slow transformation from lithic quietude to animal messiness.",
+          "To be transmuted is a sort of ... descent through corporeal memory."
+        ],
+        "pt-br": [
+          "Mas todas as formas trazem suas sementes dentro de si.",
+          "Nossos corpos ainda guardam, em cada partícula de carne, cada etapa da nossa lenta transformação da quietude lítica para a bagunça animal.",
+          "Passar pela transmutação é uma espécie de... mergulho na memória do corpo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420430,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_wizard_and_druid_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_15_v4.entities"
+          }
+        ],
+        "subtitleLine": 2146,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

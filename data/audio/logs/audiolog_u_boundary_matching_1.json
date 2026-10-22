@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_boundary_matching_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_boundary_matching_1",
+      "clips": [
+        {
+          "id": "audiolog_u_boundary_matching_1_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 12.101229,
+          "src": "audio/clips/audiolog_u_boundary_matching_1_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "... and that's how we travel to spaces that are far,",
+              "or completely disconnected -- like the worlds you see in this Warehouse.",
+              "Because the universe acts holographically -- as we first gleaned from the study of black holes --"
+            ],
+            "pt-br": [
+              "...e é assim que viajamos para espaços que estão longe,",
+              "ou completamente desconectados, como os mundos que você vê neste Armazém.",
+              "Porque o universo age holograficamente... como percebemos primeiro a partir do estudo dos buracos negros..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_1_1__director.wav",
+            "subtitleCueLines": [
+              14581,
+              14585,
+              14589
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_boundary_matching_1_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.850333,
+          "src": "audio/clips/audiolog_u_boundary_matching_1_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Yes, your Acting Director told me about those..."
+            ],
+            "pt-br": [
+              "Sim, sua Diretora Interina me contou sobre eles..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_1_2__sokoban.wav",
+            "subtitleCueLines": [
+              14594
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_boundary_matching_1_3__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 85.334479,
+          "src": "audio/clips/audiolog_u_boundary_matching_1_3__director.mp3",
+          "transcripts": {
+            "en": [
+              "I suspect you have them too, just haven't found them yet.",
+              "Anyway, the upshot is, everything inside a volume of space is determined by some information at the boundary.",
+              "The exact nature of that information is hard to explain, as it's all mixed up together.",
+              "But, if there's someplace you want to go, and you're able to duplicate the conditions on its boundary,",
+              "by changing the boundary of the place you're starting from, to match precisely --",
+              "then you can swap the two boundaries and all contents therein.",
+              "The *amount* of energy is proportional to the surface area,",
+              "but it's not really so much for smaller spaces. Not compared to what we have available, anyway.",
+              "Funny how this line of inquiry started; they were trying to resolve all these historical cases where it had been raining fish --",
+              "just fish falling from the sky, a natural phenomenon confirmed repeatedly,",
+              "including by reliable observers. No plausible explanation.",
+              "So a guy is thinking hard about how this could happen. He comes up with this boundary-swapping idea,",
+              "and, after years, gets it to work on tiny tiny things. He builds it up to handle macroscopic and eventually human-sized spaces.",
+              "And now we can travel.",
+              "But in the end he realized that boundary swapping couldn't explain the fish.",
+              "The boundary conditions would just have been too different; unmatchable.",
+              "So that's a mystery we never solved, and won't any time soon,",
+              "since the Earth as we knew it is now long gone..."
+            ],
+            "pt-br": [
+              "Suspeito que vocês também os tenham, só ainda não os encontraram.",
+              "Enfim, o resultado é que tudo dentro de um volume de espaço é determinado por alguma informação na fronteira.",
+              "A natureza exata dessa informação é difícil de explicar, porque está tudo misturado.",
+              "Mas, se houver algum lugar para onde você queira ir, e conseguir duplicar as condições na fronteira dele,",
+              "ao mudar a fronteira do lugar de onde você está partindo, de modo que as duas fronteiras coincidam exatamente,",
+              "então você pode trocar as duas fronteiras e todo o conteúdo nelas.",
+              "A quantidade de energia necessária é proporcional à área da superfície da fronteira,",
+              "mas isso não é realmente tanto para espaços menores. Pelo menos em comparação com o que temos disponível.",
+              "Engraçado como essa linha de investigação começou; eles estavam tentando esclarecer todos esses casos históricos em que choviam peixes:",
+              "só peixes caindo do céu, um fenômeno natural confirmado repetidas vezes,",
+              "inclusive por observadores confiáveis. Nenhuma explicação plausível.",
+              "Então um cara fica pensando muito em como isso poderia acontecer. Ele teoriza essa ideia de troca de fronteiras,",
+              "e, depois de anos, faz isso funcionar em coisas minúsculas. Ele amplia até conseguir lidar com espaços macroscópicos e, por fim, do tamanho de um ser humano.",
+              "E agora podemos viajar.",
+              "Mas, no fim, ele percebeu que a troca de fronteiras não explicava a chuva de peixes.",
+              "As fronteiras seriam simplesmente diferentes demais; incompatíveis.",
+              "Então esse é um mistério que nunca resolvemos, e não vamos resolver tão cedo,",
+              "já que a Terra como a conhecíamos já se foi há muito tempo..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_1_3__director.wav",
+            "subtitleCueLines": [
+              14598,
+              14602,
+              14607,
+              14611,
+              14616,
+              14621,
+              14625,
+              14630,
+              14634,
+              14640,
+              14644,
+              14648,
+              14652,
+              14657,
+              14660,
+              14664,
+              14668,
+              14672
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... and that's how we travel to spaces that are far,",
+          "or completely disconnected -- like the worlds you see in this Warehouse.",
+          "Because the universe acts holographically -- as we first gleaned from the study of black holes --",
+          "Yes, your Acting Director told me about those...",
+          "I suspect you have them too, just haven't found them yet.",
+          "Anyway, the upshot is, everything inside a volume of space is determined by some information at the boundary.",
+          "The exact nature of that information is hard to explain, as it's all mixed up together.",
+          "But, if there's someplace you want to go, and you're able to duplicate the conditions on its boundary,",
+          "by changing the boundary of the place you're starting from, to match precisely --",
+          "then you can swap the two boundaries and all contents therein.",
+          "The *amount* of energy is proportional to the surface area,",
+          "but it's not really so much for smaller spaces. Not compared to what we have available, anyway.",
+          "Funny how this line of inquiry started; they were trying to resolve all these historical cases where it had been raining fish --",
+          "just fish falling from the sky, a natural phenomenon confirmed repeatedly,",
+          "including by reliable observers. No plausible explanation.",
+          "So a guy is thinking hard about how this could happen. He comes up with this boundary-swapping idea,",
+          "and, after years, gets it to work on tiny tiny things. He builds it up to handle macroscopic and eventually human-sized spaces.",
+          "And now we can travel.",
+          "But in the end he realized that boundary swapping couldn't explain the fish.",
+          "The boundary conditions would just have been too different; unmatchable.",
+          "So that's a mystery we never solved, and won't any time soon,",
+          "since the Earth as we knew it is now long gone..."
+        ],
+        "pt-br": [
+          "...e é assim que viajamos para espaços que estão longe,",
+          "ou completamente desconectados, como os mundos que você vê neste Armazém.",
+          "Porque o universo age holograficamente... como percebemos primeiro a partir do estudo dos buracos negros...",
+          "Sim, sua Diretora Interina me contou sobre eles...",
+          "Suspeito que vocês também os tenham, só ainda não os encontraram.",
+          "Enfim, o resultado é que tudo dentro de um volume de espaço é determinado por alguma informação na fronteira.",
+          "A natureza exata dessa informação é difícil de explicar, porque está tudo misturado.",
+          "Mas, se houver algum lugar para onde você queira ir, e conseguir duplicar as condições na fronteira dele,",
+          "ao mudar a fronteira do lugar de onde você está partindo, de modo que as duas fronteiras coincidam exatamente,",
+          "então você pode trocar as duas fronteiras e todo o conteúdo nelas.",
+          "A quantidade de energia necessária é proporcional à área da superfície da fronteira,",
+          "mas isso não é realmente tanto para espaços menores. Pelo menos em comparação com o que temos disponível.",
+          "Engraçado como essa linha de investigação começou; eles estavam tentando esclarecer todos esses casos históricos em que choviam peixes:",
+          "só peixes caindo do céu, um fenômeno natural confirmado repetidas vezes,",
+          "inclusive por observadores confiáveis. Nenhuma explicação plausível.",
+          "Então um cara fica pensando muito em como isso poderia acontecer. Ele teoriza essa ideia de troca de fronteiras,",
+          "e, depois de anos, faz isso funcionar em coisas minúsculas. Ele amplia até conseguir lidar com espaços macroscópicos e, por fim, do tamanho de um ser humano.",
+          "E agora podemos viajar.",
+          "Mas, no fim, ele percebeu que a troca de fronteiras não explicava a chuva de peixes.",
+          "As fronteiras seriam simplesmente diferentes demais; incompatíveis.",
+          "Então esse é um mistério que nunca resolvemos, e não vamos resolver tão cedo,",
+          "já que a Terra como a conhecíamos já se foi há muito tempo..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,1287 @@
+{
+  "schemaVersion": 1,
+  "level": "promesst3_streamlined",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "promesst3_prism_get",
+      "clips": [
+        {
+          "id": "promesst3_prism_get_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.646333,
+          "src": "audio/clips/promesst3_prism_get_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "A triangular prism on a chain, worn as a pendant."
+            ],
+            "pt-br": [
+              "Um prisma triangular em uma corrente, usado como pingente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_prism_get_1__gemsman.wav",
+            "subtitleCueLines": [
+              2700
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A triangular prism on a chain, worn as a pendant."
+        ],
+        "pt-br": [
+          "Um prisma triangular em uma corrente, usado como pingente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343368,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst3_prism_get",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.948691368103027,
+              7.940536975860596,
+              0.07280731201171875
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2699,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_start",
+      "clips": [
+        {
+          "id": "promesst3_start_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 7.295417,
+          "src": "audio/clips/promesst3_start_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Such a wonder, that your people and ours overlap in spaces such as this."
+            ],
+            "pt-br": [
+              "Que maravilha que o povo de vocês e o nosso se sobreponham em espaços como este."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_start_1__dragon.wav",
+            "subtitleCueLines": [
+              3001
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_start_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 0.789583,
+          "src": "audio/clips/promesst3_start_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Overlap?"
+            ],
+            "pt-br": [
+              "Sobreponham?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_start_2__gemsman.wav",
+            "subtitleCueLines": [
+              3006
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_start_3__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 15.796563,
+          "src": "audio/clips/promesst3_start_3__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "You open mines, we extrude nidi. Sometimes these turn out to have been the same.",
+              "Our light crosses your light.",
+              "Your people used to know this!"
+            ],
+            "pt-br": [
+              "Vocês abrem minas, nós extrudamos nidi. Às vezes, descobrimos que eram a mesma coisa.",
+              "Nossa luz cruza a sua luz.",
+              "Seu povo costumava saber disso!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_start_3__dragon.wav",
+            "subtitleCueLines": [
+              3009,
+              3014,
+              3019
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Such a wonder, that your people and ours overlap in spaces such as this.",
+          "Overlap?",
+          "You open mines, we extrude nidi. Sometimes these turn out to have been the same.",
+          "Our light crosses your light.",
+          "Your people used to know this!"
+        ],
+        "pt-br": [
+          "Que maravilha que o povo de vocês e o nosso se sobreponham em espaços como este.",
+          "Sobreponham?",
+          "Vocês abrem minas, nós extrudamos nidi. Às vezes, descobrimos que eram a mesma coisa.",
+          "Nossa luz cruza a sua luz.",
+          "Seu povo costumava saber disso!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 112197664,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "promesst3_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              9.0,
+              10.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3000,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_second_room",
+      "clips": [
+        {
+          "id": "promesst3_second_room_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 8.490229,
+          "src": "audio/clips/promesst3_second_room_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "I can hear the others, far away and faint.",
+              "They thank you for hatching me and helping me grow."
+            ],
+            "pt-br": [
+              "Consigo ouvir os outros, bem longe, um som fraco.",
+              "Eles agradecem por você ter me chocado e me ajudado a crescer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_second_room_1__dragon.wav",
+            "subtitleCueLines": [
+              3027,
+              3031
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_second_room_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.871771,
+          "src": "audio/clips/promesst3_second_room_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I ... it was ... I was just going forward?"
+            ],
+            "pt-br": [
+              "Eu... foi... Eu só estava indo em frente?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_second_room_2__gemsman.wav",
+            "subtitleCueLines": [
+              3035
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_second_room_3__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 3.360646,
+          "src": "audio/clips/promesst3_second_room_3__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "We'll get you more gems. Don't worry."
+            ],
+            "pt-br": [
+              "Vamos te arranjar mais gemas. Não se preocupe."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_second_room_3__dragon.wav",
+            "subtitleCueLines": [
+              3039
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I can hear the others, far away and faint.",
+          "They thank you for hatching me and helping me grow.",
+          "I ... it was ... I was just going forward?",
+          "We'll get you more gems. Don't worry."
+        ],
+        "pt-br": [
+          "Consigo ouvir os outros, bem longe, um som fraco.",
+          "Eles agradecem por você ter me chocado e me ajudado a crescer.",
+          "Eu... foi... Eu só estava indo em frente?",
+          "Vamos te arranjar mais gemas. Não se preocupe."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343373,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst3_second_room",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.501046180725098,
+              9.019777297973633,
+              10.001075744628906
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3026,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_1",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_1_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 5.409063,
+          "src": "audio/clips/promesst3_gems_amount_1_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "I've no more use for these gems. Take all you want."
+            ],
+            "pt-br": [
+              "Não tenho mais utilidade para essas gemas. Pegue o quanto quiser."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_1_1__dragon.wav",
+            "subtitleCueLines": [
+              3047
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I've no more use for these gems. Take all you want."
+        ],
+        "pt-br": [
+          "Não tenho mais utilidade para essas gemas. Pegue o quanto quiser."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3046,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_2",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_2_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 6.402563,
+          "src": "audio/clips/promesst3_gems_amount_2_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "To think I so recently hungered for these chunks of mere matter."
+            ],
+            "pt-br": [
+              "E pensar que há tão pouco eu sentia fome por esses pedaços de mera matéria."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_2_1__dragon.wav",
+            "subtitleCueLines": [
+              3055
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "To think I so recently hungered for these chunks of mere matter."
+        ],
+        "pt-br": [
+          "E pensar que há tão pouco eu sentia fome por esses pedaços de mera matéria."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3054,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_3",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_3_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 15.911104,
+          "src": "audio/clips/promesst3_gems_amount_3_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Where oh where do you think your ancestors learned to make these artificial beam producers?",
+              "Hmph. At least my people have hygiene.",
+              "We don't throw our beams just everywhere."
+            ],
+            "pt-br": [
+              "Onde, onde você acha que seus ancestrais aprenderam a fazer esses emissores artificiais de Feixe?",
+              "Hum. Pelo menos meu povo tem higiene.",
+              "Nós não jogamos nossos feixes para todo lado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_3_1__dragon.wav",
+            "subtitleCueLines": [
+              3063,
+              3069,
+              3073
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Where oh where do you think your ancestors learned to make these artificial beam producers?",
+          "Hmph. At least my people have hygiene.",
+          "We don't throw our beams just everywhere."
+        ],
+        "pt-br": [
+          "Onde, onde você acha que seus ancestrais aprenderam a fazer esses emissores artificiais de Feixe?",
+          "Hum. Pelo menos meu povo tem higiene.",
+          "Nós não jogamos nossos feixes para todo lado."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3062,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_4",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_4_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 17.361292,
+          "src": "audio/clips/promesst3_gems_amount_4_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "We lost all contact with your people some time back --",
+              "Several lifetimes of one such as yourself.",
+              "Our people do not maintain a grudge about those times.",
+              "Do yours?"
+            ],
+            "pt-br": [
+              "Perdemos todo contato com seu povo há algum tempo...",
+              "Várias vidas de alguém como você.",
+              "Nosso povo não guarda rancor daqueles tempos.",
+              "E os seus?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_4_1__dragon.wav",
+            "subtitleCueLines": [
+              3081,
+              3085,
+              3088,
+              3092
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We lost all contact with your people some time back --",
+          "Several lifetimes of one such as yourself.",
+          "Our people do not maintain a grudge about those times.",
+          "Do yours?"
+        ],
+        "pt-br": [
+          "Perdemos todo contato com seu povo há algum tempo...",
+          "Várias vidas de alguém como você.",
+          "Nosso povo não guarda rancor daqueles tempos.",
+          "E os seus?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3080,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_5",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_5_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 8.761396,
+          "src": "audio/clips/promesst3_gems_amount_5_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "My role will be to seek more places where our volumes can superpose. Strengthen and enlarge."
+            ],
+            "pt-br": [
+              "Meu papel será buscar mais lugares onde nossos volumes possam se sobrepor. Fortalecer e ampliar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_5_1__dragon.wav",
+            "subtitleCueLines": [
+              3099
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "My role will be to seek more places where our volumes can superpose. Strengthen and enlarge."
+        ],
+        "pt-br": [
+          "Meu papel será buscar mais lugares onde nossos volumes possam se sobrepor. Fortalecer e ampliar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3098,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_6",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_6_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 14.351083,
+          "src": "audio/clips/promesst3_gems_amount_6_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Light. Your people think they know some things about light and the casting of beams.",
+              "And perhaps they do know a little. But to them I will bring *new* light."
+            ],
+            "pt-br": [
+              "Luz. Seu povo acha que sabe algumas coisas sobre a luz e o disparo de Feixes.",
+              "E talvez eles saibam um pouco. Mas eu lhes trarei uma nova luz."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_6_1__dragon.wav",
+            "subtitleCueLines": [
+              3108,
+              3112
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Light. Your people think they know some things about light and the casting of beams.",
+          "And perhaps they do know a little. But to them I will bring *new* light."
+        ],
+        "pt-br": [
+          "Luz. Seu povo acha que sabe algumas coisas sobre a luz e o disparo de Feixes.",
+          "E talvez eles saibam um pouco. Mas eu lhes trarei uma nova luz."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3107,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_7",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_7_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 22.749938,
+          "src": "audio/clips/promesst3_gems_amount_7_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Our plan was for me to return with you, an emissary.",
+              "Our light crosses your light.",
+              "But then, a deal was struck. Lavish expenditure.",
+              "You will not return directly home, not yet.",
+              "We will get you where you need to go next."
+            ],
+            "pt-br": [
+              "Nosso plano era que eu voltasse com você como emissário.",
+              "Nossa luz cruza a sua luz.",
+              "Mas então, um acordo foi selado. Uma despesa extravagante.",
+              "Você não voltará direto para casa, ainda não.",
+              "Vamos levá-lo até onde você precisa ir agora."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_7_1__dragon.wav",
+            "subtitleCueLines": [
+              3120,
+              3124,
+              3127,
+              3131,
+              3135
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Our plan was for me to return with you, an emissary.",
+          "Our light crosses your light.",
+          "But then, a deal was struck. Lavish expenditure.",
+          "You will not return directly home, not yet.",
+          "We will get you where you need to go next."
+        ],
+        "pt-br": [
+          "Nosso plano era que eu voltasse com você como emissário.",
+          "Nossa luz cruza a sua luz.",
+          "Mas então, um acordo foi selado. Uma despesa extravagante.",
+          "Você não voltará direto para casa, ainda não.",
+          "Vamos levá-lo até onde você precisa ir agora."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3119,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gems_amount_8",
+      "clips": [
+        {
+          "id": "promesst3_gems_amount_8_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 12.286417,
+          "src": "audio/clips/promesst3_gems_amount_8_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "You have done a good job here.",
+              "One final task, and you won't need me any more.",
+              "We'll re-meet later, I expect."
+            ],
+            "pt-br": [
+              "Você fez um bom trabalho aqui.",
+              "Uma última tarefa, e você não vai mais precisar de mim.",
+              "Vamos nos reencontrar depois, imagino."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gems_amount_8_1__dragon.wav",
+            "subtitleCueLines": [
+              3142,
+              3145,
+              3149
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You have done a good job here.",
+          "One final task, and you won't need me any more.",
+          "We'll re-meet later, I expect."
+        ],
+        "pt-br": [
+          "Você fez um bom trabalho aqui.",
+          "Uma última tarefa, e você não vai mais precisar de mim.",
+          "Vamos nos reencontrar depois, imagino."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3141,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_end",
+      "clips": [
+        {
+          "id": "promesst3_end_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 2.220229,
+          "src": "audio/clips/promesst3_end_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Until next time."
+            ],
+            "pt-br": [
+              "Até a próxima."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_end_1__dragon.wav",
+            "subtitleCueLines": [
+              3156
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_end_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.336625,
+          "src": "audio/clips/promesst3_end_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Until next time?"
+            ],
+            "pt-br": [
+              "Até a próxima?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_end_2__gemsman.wav",
+            "subtitleCueLines": [
+              3159
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Until next time.",
+          "Until next time?"
+        ],
+        "pt-br": [
+          "Até a próxima.",
+          "Até a próxima?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 112197664,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "promesst3_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              9.0,
+              10.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "outro_cutscene",
+            "value": "promesst3_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3155,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_took_time_a",
+      "clips": [
+        {
+          "id": "promesst3_took_time_a_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 2.246563,
+          "src": "audio/clips/promesst3_took_time_a_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Took you some time!"
+            ],
+            "pt-br": [
+              "Demorou, hein!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_took_time_a_1__dragon.wav",
+            "subtitleCueLines": [
+              3167
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_took_time_a_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.022896,
+          "src": "audio/clips/promesst3_took_time_a_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "That's your thanks?"
+            ],
+            "pt-br": [
+              "Essa é a sua gratidão?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_took_time_a_2__gemsman.wav",
+            "subtitleCueLines": [
+              3171
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_took_time_a_3__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 2.8915,
+          "src": "audio/clips/promesst3_took_time_a_3__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "I know you want to use me, out here."
+            ],
+            "pt-br": [
+              "Eu sei que você quer me usar, aqui fora."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_took_time_a_3__dragon.wav",
+            "subtitleCueLines": [
+              3175
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Took you some time!",
+          "That's your thanks?",
+          "I know you want to use me, out here."
+        ],
+        "pt-br": [
+          "Demorou, hein!",
+          "Essa é a sua gratidão?",
+          "Eu sei que você quer me usar, aqui fora."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343372,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst3_took_time_a",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.995492935180664,
+              8.063518524169922,
+              10.003390312194824
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3166,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_took_time_b",
+      "clips": [
+        {
+          "id": "promesst3_took_time_b_1__dragon",
+          "speaker": "dragon",
+          "speakerName": "dragon",
+          "duration": 1.9115,
+          "src": "audio/clips/promesst3_took_time_b_1__dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Took you some time."
+            ],
+            "pt-br": [
+              "Demorou, hein!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_took_time_b_1__dragon.wav",
+            "subtitleCueLines": [
+              3184
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst3_took_time_b_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.995667,
+          "src": "audio/clips/promesst3_took_time_b_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I just ... it was a lot."
+            ],
+            "pt-br": [
+              "Eu só... foi muita coisa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_took_time_b_2__gemsman.wav",
+            "subtitleCueLines": [
+              3188
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Took you some time.",
+          "I just ... it was a lot."
+        ],
+        "pt-br": [
+          "Demorou, hein!",
+          "Eu só... foi muita coisa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3183,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst3_gold_room",
+      "clips": [
+        {
+          "id": "promesst3_gold_room_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.719,
+          "src": "audio/clips/promesst3_gold_room_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "That's done, now. Whatever it was."
+            ],
+            "pt-br": [
+              "Isso já passou. Seja lá o que era."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst3_gold_room_1__gemsman.wav",
+            "subtitleCueLines": [
+              3196
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "That's done, now. Whatever it was."
+        ],
+        "pt-br": [
+          "Isso já passou. Seja lá o que era."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343370,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst3_gold_room",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.9486913681030273,
+              14.940536499023438,
+              0.07280731201171875
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst3",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              6.0,
+              10.0,
+              11.0
+            ],
+            "source": "data-common/promesst3_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 3195,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

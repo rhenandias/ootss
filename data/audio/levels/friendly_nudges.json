@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "level": "friendly_nudges",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_friendly_nudges",
+      "clips": [
+        {
+          "id": "sp_friendly_nudges_1__gemsman_alt",
+          "speaker": "gemsman_alt",
+          "speakerName": "gemsman_alt",
+          "duration": 2.888104,
+          "src": "audio/clips/sp_friendly_nudges_1__gemsman_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I'm honored you let me wear your Mark 2 suit."
+            ],
+            "pt-br": [
+              "Fico honrada por você me deixar usar sua roupa Mark 2."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_friendly_nudges_1__gemsman_alt.wav",
+            "subtitleCueLines": [
+              7689
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "sp_friendly_nudges_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.129688,
+          "src": "audio/clips/sp_friendly_nudges_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Try not to break it. Now, Let's see how good you are!"
+            ],
+            "pt-br": [
+              "Tente não quebrar. Agora, vamos ver como você é bom!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_friendly_nudges_2__gemsman.wav",
+            "subtitleCueLines": [
+              7694
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm honored you let me wear your Mark 2 suit.",
+          "Try not to break it. Now, Let's see how good you are!"
+        ],
+        "pt-br": [
+          "Fico honrada por você me deixar usar sua roupa Mark 2.",
+          "Tente não quebrar. Agora, vamos ver como você é bom!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137404,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "sp_friendly_nudges",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/friendly_nudges.entities"
+          }
+        ],
+        "subtitleLine": 7688,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

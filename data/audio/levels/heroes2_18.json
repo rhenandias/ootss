@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_18",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_thief_priestess_second_mid_warrior",
+      "clips": [
+        {
+          "id": "heroes2_thief_priestess_second_mid_warrior_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 11.865167,
+          "src": "audio/clips/heroes2_thief_priestess_second_mid_warrior_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Valens is incredibly strong. He said it's a trick, but the details are hard to talk about.",
+              "Said he was taught by an older fellow, another soldier.",
+              "Another disgraced soldier."
+            ],
+            "pt-br": [
+              "Valens é incrivelmente forte. Ele disse que é um truque, mas os detalhes são difíceis de explicar.",
+              "Disse que aprendeu com um homem mais velho, outro soldado.",
+              "Outro soldado desonrado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_priestess_second_mid_warrior_1__thief.wav",
+            "subtitleCueLines": [
+              1339,
+              1344,
+              1348
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Valens is incredibly strong. He said it's a trick, but the details are hard to talk about.",
+          "Said he was taught by an older fellow, another soldier.",
+          "Another disgraced soldier."
+        ],
+        "pt-br": [
+          "Valens é incrivelmente forte. Ele disse que é um truque, mas os detalhes são difíceis de explicar.",
+          "Disse que aprendeu com um homem mais velho, outro soldado.",
+          "Outro soldado desonrado."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048589,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_thief_priestess_second_mid_warrior",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_18.entities"
+          }
+        ],
+        "subtitleLine": 1338,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_priestess_second_mid_disgraced",
+      "clips": [
+        {
+          "id": "heroes2_thief_priestess_second_mid_disgraced_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.288604,
+          "src": "audio/clips/heroes2_thief_priestess_second_mid_disgraced_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Don't tell him I said \"disgraced\", haha!",
+              "They have some official term for it. A neutral term."
+            ],
+            "pt-br": [
+              "Não conta pra ele que eu disse “desonrado”, haha!",
+              "Eles usam um termo oficial pra isso. Um termo neutro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_priestess_second_mid_disgraced_1__thief.wav",
+            "subtitleCueLines": [
+              1355,
+              1359
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Don't tell him I said \"disgraced\", haha!",
+          "They have some official term for it. A neutral term."
+        ],
+        "pt-br": [
+          "Não conta pra ele que eu disse “desonrado”, haha!",
+          "Eles usam um termo oficial pra isso. Um termo neutro."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_priestess_second_mid_disgraced",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.105606079101562,
+              4.479879379272461,
+              0.021532058715820312
+            ],
+            "source": "data-common/heroes2_18.entities"
+          }
+        ],
+        "subtitleLine": 1354,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_priestess_second_mid_wizard",
+      "clips": [
+        {
+          "id": "heroes2_thief_priestess_second_mid_wizard_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 7.769667,
+          "src": "audio/clips/heroes2_thief_priestess_second_mid_wizard_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Izzy's swap powers are amazing. He got them in some kind of accident.",
+              "Great for moving heavy stuff, not so great for getting close to people."
+            ],
+            "pt-br": [
+              "Os poderes de troca do Izzy são incríveis. Foi por causa de um acidente.",
+              "São ótimos pra mover coisas pesadas, mas não ajudam muito a se aproximar das pessoas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_priestess_second_mid_wizard_1__thief.wav",
+            "subtitleCueLines": [
+              1367,
+              1371
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Izzy's swap powers are amazing. He got them in some kind of accident.",
+          "Great for moving heavy stuff, not so great for getting close to people."
+        ],
+        "pt-br": [
+          "Os poderes de troca do Izzy são incríveis. Foi por causa de um acidente.",
+          "São ótimos pra mover coisas pesadas, mas não ajudam muito a se aproximar das pessoas."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343365,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_priestess_second_mid_wizard",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.510453224182129,
+              1.1151976585388184,
+              0.021782875061035156
+            ],
+            "source": "data-common/heroes2_18.entities"
+          }
+        ],
+        "subtitleLine": 1366,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_priestess_second_end",
+      "clips": [
+        {
+          "id": "heroes2_thief_priestess_second_end_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.586333,
+          "src": "audio/clips/heroes2_thief_priestess_second_end_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I'm glad we had this time to talk!"
+            ],
+            "pt-br": [
+              "Que bom ter tido esse tempo pra conversar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_priestess_second_end_1__thief.wav",
+            "subtitleCueLines": [
+              1379
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'm glad we had this time to talk!"
+        ],
+        "pt-br": [
+          "Que bom ter tido esse tempo pra conversar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048589,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_thief_priestess_second_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_18.entities"
+          }
+        ],
+        "subtitleLine": 1378,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

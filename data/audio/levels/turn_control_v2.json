@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "turn_control_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "warrior_lonely",
+      "clips": [
+        {
+          "id": "warrior_lonely_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.388667,
+          "src": "audio/clips/warrior_lonely_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Oh God, I feel so ... lonely."
+            ],
+            "pt-br": [
+              "Oh, Deus, me sinto tão... sozinho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "warrior_lonely_1__warrior.wav",
+            "subtitleCueLines": [
+              8698
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Oh God, I feel so ... lonely."
+        ],
+        "pt-br": [
+          "Oh, Deus, me sinto tão... sozinho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46138199,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "warrior_lonely",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              22.0,
+              1.0
+            ],
+            "source": "data-common/turn_control_v2.entities"
+          }
+        ],
+        "subtitleLine": 8697,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "warrior_lonely_end",
+      "clips": [
+        {
+          "id": "warrior_lonely_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.770667,
+          "src": "audio/clips/warrior_lonely_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Just keep it moving, keep it moving."
+            ],
+            "pt-br": [
+              "Só continua andando, continua andando."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "warrior_lonely_end_1__warrior.wav",
+            "subtitleCueLines": [
+              8706
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Just keep it moving, keep it moving."
+        ],
+        "pt-br": [
+          "Só continua andando, continua andando."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46138199,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "warrior_lonely_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              22.0,
+              1.0
+            ],
+            "source": "data-common/turn_control_v2.entities"
+          }
+        ],
+        "subtitleLine": 8705,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

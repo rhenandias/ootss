@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_10000_things",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_10000_things",
+      "clips": [
+        {
+          "id": "audiolog_sky_10000_things_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 69.055125,
+          "src": "audio/clips/audiolog_sky_10000_things_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "There's an ancient book of our people -- it was reassembled from scraps, so never fully reliable --",
+              "but it describes the universe emerging from a fundamental whole underlying everything we see.",
+              "First, somehow, this whole, the Dao, gives rise to One.",
+              "We'll be simplistic for now and think of this as the Dao identifying itself.",
+              "This is deeply questionable, but we have to start somewhere. Anyway.",
+              "Then, the book says, One produces two, two produce three, and three produce all the ten thousand things --",
+              "all that we observe in Creation.",
+              "The text is mysterious and minimal; but combined with what we've already discussed,",
+              "you can guess the Order's angle.",
+              "Rather than just accepting the results of this creative process, can we look at it more closely?",
+              "Can we create a microscope to help us zoom in",
+              "and look at the Dao in all its particular details, to understand how this creative process works?",
+              "Some of us still think the answer is No."
+            ],
+            "pt-br": [
+              "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
+              "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
+              "Primeiro, de algum modo, esse todo, o Dao, dá origem ao Um.",
+              "Por enquanto, vamos ser simplistas e pensar nisso como o Dao se identificando.",
+              "Isso é profundamente questionável, mas temos de começar por algum lugar. Enfim.",
+              "Então, o livro diz que Um produz dois, dois produzem três, e três produzem as dez mil coisas...",
+              "tudo o que observamos na Criação.",
+              "O texto é misterioso e mínimo; mas, combinado com o que já discutimos,",
+              "você pode adivinhar o ângulo da Ordem.",
+              "Em vez de apenas aceitar os resultados desse processo criativo, podemos olhar para ele mais de perto?",
+              "Podemos criar um microscópio para nos ajudar a ampliar",
+              "e olhar o Dao em todos os seus detalhes, para entender como esse processo criativo funciona?",
+              "Alguns de nós ainda acham que a resposta é “Não”."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_10000_things_1__acting.wav",
+            "subtitleCueLines": [
+              10102,
+              10107,
+              10112,
+              10117,
+              10122,
+              10127,
+              10133,
+              10136,
+              10140,
+              10143,
+              10148,
+              10152,
+              10156
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_10000_things_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 3.892812,
+          "src": "audio/clips/audiolog_sky_10000_things_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "We have an idea that our universe began with an immense explosion."
+            ],
+            "pt-br": [
+              "Temos uma ideia de que nosso universo começou com uma explosão imensa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_10000_things_2__sokoban.wav",
+            "subtitleCueLines": [
+              10160
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_10000_things_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 23.884229,
+          "src": "audio/clips/audiolog_sky_10000_things_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "We did too, once. And, well, to physical appearances it somewhat did ... but when you look at underlying mechanisms, they are not so unstable.",
+              "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
+              "but, somewhere more fundamental. Any physical explosion is just a surface echo."
+            ],
+            "pt-br": [
+              "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
+              "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
+              "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_10000_things_3__acting.wav",
+            "subtitleCueLines": [
+              10165,
+              10170,
+              10175
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There's an ancient book of our people -- it was reassembled from scraps, so never fully reliable --",
+          "but it describes the universe emerging from a fundamental whole underlying everything we see.",
+          "First, somehow, this whole, the Dao, gives rise to One.",
+          "We'll be simplistic for now and think of this as the Dao identifying itself.",
+          "This is deeply questionable, but we have to start somewhere. Anyway.",
+          "Then, the book says, One produces two, two produce three, and three produce all the ten thousand things --",
+          "all that we observe in Creation.",
+          "The text is mysterious and minimal; but combined with what we've already discussed,",
+          "you can guess the Order's angle.",
+          "Rather than just accepting the results of this creative process, can we look at it more closely?",
+          "Can we create a microscope to help us zoom in",
+          "and look at the Dao in all its particular details, to understand how this creative process works?",
+          "Some of us still think the answer is No.",
+          "We have an idea that our universe began with an immense explosion.",
+          "We did too, once. And, well, to physical appearances it somewhat did ... but when you look at underlying mechanisms, they are not so unstable.",
+          "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
+          "but, somewhere more fundamental. Any physical explosion is just a surface echo."
+        ],
+        "pt-br": [
+          "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
+          "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
+          "Primeiro, de algum modo, esse todo, o Dao, dá origem ao Um.",
+          "Por enquanto, vamos ser simplistas e pensar nisso como o Dao se identificando.",
+          "Isso é profundamente questionável, mas temos de começar por algum lugar. Enfim.",
+          "Então, o livro diz que Um produz dois, dois produzem três, e três produzem as dez mil coisas...",
+          "tudo o que observamos na Criação.",
+          "O texto é misterioso e mínimo; mas, combinado com o que já discutimos,",
+          "você pode adivinhar o ângulo da Ordem.",
+          "Em vez de apenas aceitar os resultados desse processo criativo, podemos olhar para ele mais de perto?",
+          "Podemos criar um microscópio para nos ajudar a ampliar",
+          "e olhar o Dao em todos os seus detalhes, para entender como esse processo criativo funciona?",
+          "Alguns de nós ainda acham que a resposta é “Não”.",
+          "Temos uma ideia de que nosso universo começou com uma explosão imensa.",
+          "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
+          "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
+          "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

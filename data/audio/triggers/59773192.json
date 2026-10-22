@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "queen_og_ask",
+    "audioKey": "59773192",
+    "triggerKind": "character",
+    "blocks": [
+      "queen_og_ask"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 59773192,
+        "entityType": "Guy",
+        "field": "initial_bark",
+        "value": "queen_og_ask",
+        "rule": "exact-reference",
+        "coordinates": [
+          80.0,
+          71.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "queen_og_ask",
+      "clips": [
+        {
+          "id": "queen_og_ask_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 2.590271,
+          "src": "audio/clips/queen_og_ask_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "I suppose that was too much to ask."
+            ],
+            "pt-br": [
+              "Acho que pedi demais."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "queen_og_ask_1__queen.wav",
+            "subtitleCueLines": [
+              7013
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I suppose that was too much to ask."
+        ],
+        "pt-br": [
+          "Acho que pedi demais."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "gated_twice_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "beautiful_view_warrior",
+      "clips": [
+        {
+          "id": "beautiful_view_warrior_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.159167,
+          "src": "audio/clips/beautiful_view_warrior_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Beautiful view. I could get used to this."
+            ],
+            "pt-br": [
+              "Vista linda. Eu me acostumaria com isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "beautiful_view_warrior_1__warrior.wav",
+            "subtitleCueLines": [
+              8759
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Beautiful view. I could get used to this."
+        ],
+        "pt-br": [
+          "Vista linda. Eu me acostumaria com isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137649,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "beautiful_view_warrior",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              13.0,
+              5.0
+            ],
+            "source": "data-common/gated_twice_v2.entities"
+          }
+        ],
+        "subtitleLine": 8758,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

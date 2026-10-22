@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_12_v2_alt",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_wizard_thief",
+      "clips": [
+        {
+          "id": "heroes1_wizard_thief_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.10575,
+          "src": "audio/clips/heroes1_wizard_thief_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I told him we need to get out of this ... echoey lonely place, then head to the retrenchment."
+            ],
+            "pt-br": [
+              "Eu disse que a gente precisa sair desse... lugar solitário e ecoante, depois seguir para o entrincheiramento."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_thief_1__thief.wav",
+            "subtitleCueLines": [
+              354
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_wizard_thief_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 0.82725,
+          "src": "audio/clips/heroes1_wizard_thief_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "The where?"
+            ],
+            "pt-br": [
+              "Aonde?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_thief_2__wizard.wav",
+            "subtitleCueLines": [
+              359
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes1_wizard_thief_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 5.581875,
+          "src": "audio/clips/heroes1_wizard_thief_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "The passengers' retrenchment. For the Crawler.",
+              "*If* we get there before it leaves, we can stop him."
+            ],
+            "pt-br": [
+              "A retenção dos passageiros. Para a Esteira.",
+              "Se chegarmos antes da partida, podemos detê-lo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_thief_3__thief.wav",
+            "subtitleCueLines": [
+              362,
+              366
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I told him we need to get out of this ... echoey lonely place, then head to the retrenchment.",
+          "The where?",
+          "The passengers' retrenchment. For the Crawler.",
+          "*If* we get there before it leaves, we can stop him."
+        ],
+        "pt-br": [
+          "Eu disse que a gente precisa sair desse... lugar solitário e ecoante, depois seguir para o entrincheiramento.",
+          "Aonde?",
+          "A retenção dos passageiros. Para a Esteira.",
+          "Se chegarmos antes da partida, podemos detê-lo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031848,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes1_wizard_thief",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.0,
+              -1.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_12_v2_alt.entities"
+          }
+        ],
+        "subtitleLine": 353,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

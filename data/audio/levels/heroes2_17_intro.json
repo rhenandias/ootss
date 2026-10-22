@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_17_intro",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_wizard_and_priestess_alone_second",
+      "clips": [
+        {
+          "id": "heroes2_wizard_and_priestess_alone_second_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 21.442229,
+          "src": "audio/clips/heroes2_wizard_and_priestess_alone_second_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I just wonder if there's some mind behind the mind,",
+              "that uses such fumbles to redirect our lives, by injecting drama we think we don't want;",
+              "that hides itself away, cloaked in the guise of clumsiness.",
+              "A background mind that creates misadventures just to steer us where it wants us."
+            ],
+            "pt-br": [
+              "Eu só me pergunto se existe uma mente por trás da mente,",
+              "que usa esses deslizes para mudar o rumo de nossas vidas, inserindo um drama que achamos que não queremos;",
+              "que se mantém oculta, disfarçada de falta de jeito.",
+              "Uma mente nos bastidores que cria confusões só pra nos colocar onde quer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_and_priestess_alone_second_1__wizard.wav",
+            "subtitleCueLines": [
+              1443,
+              1448,
+              1452,
+              1456
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I just wonder if there's some mind behind the mind,",
+          "that uses such fumbles to redirect our lives, by injecting drama we think we don't want;",
+          "that hides itself away, cloaked in the guise of clumsiness.",
+          "A background mind that creates misadventures just to steer us where it wants us."
+        ],
+        "pt-br": [
+          "Eu só me pergunto se existe uma mente por trás da mente,",
+          "que usa esses deslizes para mudar o rumo de nossas vidas, inserindo um drama que achamos que não queremos;",
+          "que se mantém oculta, disfarçada de falta de jeito.",
+          "Uma mente nos bastidores que cria confusões só pra nos colocar onde quer."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048589,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_wizard_and_priestess_alone_second",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              3.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_17_intro.entities"
+          }
+        ],
+        "subtitleLine": 1442,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_decay_5",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_decay_5",
+      "clips": [
+        {
+          "id": "audiolog_u_decay_5_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 36.611271,
+          "src": "audio/clips/audiolog_u_decay_5_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Some say we should destroy our older Warehouses to make room for new creations.",
+              "I find the very idea distasteful! And, I don't think it would work.",
+              "Even should we denature everything here, down to ash ...",
+              "well, it is the case that innumerable specks of dust look interchangeable to us humans,",
+              "but God knows the history and personal character of each and every one.",
+              "The amount of information never goes down.",
+              "All that happens is, when you burn things, your personal ignorance goes up.",
+              "The apparent distance between you and God grows."
+            ],
+            "pt-br": [
+              "Alguns dizem que devemos destruir nossos Armazéns mais antigos para abrir espaço para novas criações.",
+              "Acho a própria ideia desagradável! E além disso, acho que não funcionaria.",
+              "Mesmo que desnaturalizássemos tudo aqui, até virar cinzas...",
+              "bem, acontece que inúmeras partículas de poeira parecem intercambiáveis a nós humanos,",
+              "mas Deus conhece a história e o caráter pessoal de cada um e de todos eles.",
+              "A quantidade de informação nunca diminui.",
+              "Tudo o que acontece é que, quando você queima coisas, a sua ignorância pessoal aumenta.",
+              "A distância aparente entre você e Deus cresce."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_decay_5_1__director.wav",
+            "subtitleCueLines": [
+              12665,
+              12669,
+              12673,
+              12677,
+              12682,
+              12687,
+              12690,
+              12694
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Some say we should destroy our older Warehouses to make room for new creations.",
+          "I find the very idea distasteful! And, I don't think it would work.",
+          "Even should we denature everything here, down to ash ...",
+          "well, it is the case that innumerable specks of dust look interchangeable to us humans,",
+          "but God knows the history and personal character of each and every one.",
+          "The amount of information never goes down.",
+          "All that happens is, when you burn things, your personal ignorance goes up.",
+          "The apparent distance between you and God grows."
+        ],
+        "pt-br": [
+          "Alguns dizem que devemos destruir nossos Armazéns mais antigos para abrir espaço para novas criações.",
+          "Acho a própria ideia desagradável! E além disso, acho que não funcionaria.",
+          "Mesmo que desnaturalizássemos tudo aqui, até virar cinzas...",
+          "bem, acontece que inúmeras partículas de poeira parecem intercambiáveis a nós humanos,",
+          "mas Deus conhece a história e o caráter pessoal de cada um e de todos eles.",
+          "A quantidade de informação nunca diminui.",
+          "Tudo o que acontece é que, quando você queima coisas, a sua ignorância pessoal aumenta.",
+          "A distância aparente entre você e Deus cresce."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

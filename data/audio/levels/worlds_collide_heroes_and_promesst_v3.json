@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_heroes_and_promesst_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "worlds_collide_HP_start",
+      "clips": [
+        {
+          "id": "worlds_collide_HP_start_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 5.039917,
+          "src": "audio/clips/worlds_collide_HP_start_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Hello over there! Have you any idea about this ... red ... gate?"
+            ],
+            "pt-br": [
+              "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_start_1__gemsman.wav",
+            "subtitleCueLines": [
+              6687
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HP_start_3__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 4.102854,
+          "src": "audio/clips/worlds_collide_HP_start_3__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "It reminds me of something I know, but, it's also different..."
+            ],
+            "pt-br": [
+              "Ele me lembra algo que me é familiar, mas também é diferente..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_start_3__gemsman.wav",
+            "subtitleCueLines": [
+              6695
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_HP_start_5__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 5.669229,
+          "src": "audio/clips/worlds_collide_HP_start_5__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
+            ],
+            "pt-br": [
+              "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_start_5__gemsman.wav",
+            "subtitleCueLines": [
+              6702
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hello over there! Have you any idea about this ... red ... gate?",
+          "...",
+          "It reminds me of something I know, but, it's also different...",
+          "...",
+          "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
+        ],
+        "pt-br": [
+          "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?",
+          "...",
+          "Ele me lembra algo que me é familiar, mas também é diferente...",
+          "...",
+          "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+        ]
+      },
+      "silentCues": [
+        {
+          "id": "worlds_collide_HP_start_2__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            6692
+          ]
+        },
+        {
+          "id": "worlds_collide_HP_start_4__priestess",
+          "speaker": "priestess",
+          "chunks": [
+            "..."
+          ],
+          "cueLines": [
+            6699
+          ]
+        }
+      ],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914566,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "worlds_collide_HP_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v3.entities"
+          }
+        ],
+        "subtitleLine": 6686,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_HP_end",
+      "clips": [
+        {
+          "id": "worlds_collide_HP_end_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.789208,
+          "src": "audio/clips/worlds_collide_HP_end_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "God, I hope I see her again."
+            ],
+            "pt-br": [
+              "Meu Deus, espero vê-la de novo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_end_1__gemsman.wav",
+            "subtitleCueLines": [
+              6712
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "God, I hope I see her again."
+        ],
+        "pt-br": [
+          "Meu Deus, espero vê-la de novo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914566,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "worlds_collide_HP_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v3.entities"
+          }
+        ],
+        "subtitleLine": 6711,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_HP_monster_gates_open",
+      "clips": [
+        {
+          "id": "worlds_collide_HP_monster_gates_open_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 0.905396,
+          "src": "audio/clips/worlds_collide_HP_monster_gates_open_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Amazing!"
+            ],
+            "pt-br": [
+              "Incrível!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_HP_monster_gates_open_1__gemsman.wav",
+            "subtitleCueLines": [
+              6720
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Amazing!"
+        ],
+        "pt-br": [
+          "Incrível!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914679,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "worlds_collide_HP_monster_gates_open",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.000444412231445,
+              11.571497917175293,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v3.entities"
+          }
+        ],
+        "subtitleLine": 6719,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "audiolog_di_worlds_collide_heroes_and_promesst_v3",
+      "clips": [
+        {
+          "id": "audiolog_di_worlds_collide_heroes_and_promesst_v3_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 70.223083,
+          "src": "audio/clips/audiolog_di_worlds_collide_heroes_and_promesst_v3_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "We continued to revise.",
+              "Here, we got rid of the Rocks on the Beamcaster side,",
+              "since they served no interesting purpose, except that you would displace one of them through the wall between the worlds --",
+              "for that purpose, we have placed a second Gem instead.",
+              "The fact that there are two Gems and only one socket",
+              "should immediately raise questions about what the second Gem is for.",
+              "Instead of 5 monsters, we cut it down to 3,",
+              "so the challenge is clearly to put all 3 together.",
+              "The Displacing is even more interesting now, since you have to use the Priestess herself",
+              "as additional mass to move the Goblin through the wall.",
+              "Unfortunately, though, there's a problem with this little Goblin room.",
+              "The intended solution is to displace him through the wall,",
+              "(after having moved the other Goblins north out of the way),",
+              "then south, east 1 square, and north, to make a 3-wide Goblin group.",
+              "But there's another solution, where you just push the two outer Goblins south by a square,",
+              "then zap the third guy through the wall to make a 3-wide group.",
+              "This isn't the worst exploit, since it's still the same basic idea,",
+              "but we wanted this level to require more use of the Strength Beam. So we fixed that in the next version..."
+            ],
+            "pt-br": [
+              "Continuamos revisando.",
+              "Aqui, nos livramos das Rochas no lado do Lança-feixes,",
+              "já que elas não serviam a nenhum propósito interessante, exceto que você deslocaria uma delas pela parede entre os mundos;",
+              "para esse propósito, colocamos uma segunda gema no lugar.",
+              "O fato de haver duas gemas e apenas um encaixe",
+              "já deveria levantar perguntas sobre para que serve a segunda gema.",
+              "Em vez de 5 monstros, reduzimos para 3,",
+              "então o desafio é claramente juntar os 3.",
+              "O deslocamento ficou ainda mais interessante agora, já que você precisa usar a própria Sacerdotisa",
+              "como massa adicional para mover o goblin através da parede.",
+              "Infelizmente, porém, há um problema com este pequeno cômodo dos goblins.",
+              "A solução pretendida é deslocá-lo através da parede,",
+              "(depois de ter movido os outros goblins para o norte, para fora do caminho),",
+              "depois para o sul, 1 casa a leste, e norte, para formar um grupo de goblins com 3 de largura.",
+              "Mas há outra solução, em que você simplesmente empurra os dois goblins das extremidades para o sul, uma casa,",
+              "depois teletransporta o terceiro cara pela parede para formar um grupo de 3 de largura.",
+              "Isso não é o pior ponto vulnerável, já que ainda é a mesma ideia básica,",
+              "mas queríamos que esta fase exigisse mais uso do Feixe de Força. Então corrigimos isso na versão seguinte..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_worlds_collide_heroes_and_promesst_v3_1__director.wav",
+            "subtitleCueLines": [
+              14265,
+              14268,
+              14272,
+              14277,
+              14281,
+              14285,
+              14289,
+              14293,
+              14297,
+              14301,
+              14305,
+              14309,
+              14313,
+              14317,
+              14321,
+              14325,
+              14329,
+              14333
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We continued to revise.",
+          "Here, we got rid of the Rocks on the Beamcaster side,",
+          "since they served no interesting purpose, except that you would displace one of them through the wall between the worlds --",
+          "for that purpose, we have placed a second Gem instead.",
+          "The fact that there are two Gems and only one socket",
+          "should immediately raise questions about what the second Gem is for.",
+          "Instead of 5 monsters, we cut it down to 3,",
+          "so the challenge is clearly to put all 3 together.",
+          "The Displacing is even more interesting now, since you have to use the Priestess herself",
+          "as additional mass to move the Goblin through the wall.",
+          "Unfortunately, though, there's a problem with this little Goblin room.",
+          "The intended solution is to displace him through the wall,",
+          "(after having moved the other Goblins north out of the way),",
+          "then south, east 1 square, and north, to make a 3-wide Goblin group.",
+          "But there's another solution, where you just push the two outer Goblins south by a square,",
+          "then zap the third guy through the wall to make a 3-wide group.",
+          "This isn't the worst exploit, since it's still the same basic idea,",
+          "but we wanted this level to require more use of the Strength Beam. So we fixed that in the next version..."
+        ],
+        "pt-br": [
+          "Continuamos revisando.",
+          "Aqui, nos livramos das Rochas no lado do Lança-feixes,",
+          "já que elas não serviam a nenhum propósito interessante, exceto que você deslocaria uma delas pela parede entre os mundos;",
+          "para esse propósito, colocamos uma segunda gema no lugar.",
+          "O fato de haver duas gemas e apenas um encaixe",
+          "já deveria levantar perguntas sobre para que serve a segunda gema.",
+          "Em vez de 5 monstros, reduzimos para 3,",
+          "então o desafio é claramente juntar os 3.",
+          "O deslocamento ficou ainda mais interessante agora, já que você precisa usar a própria Sacerdotisa",
+          "como massa adicional para mover o goblin através da parede.",
+          "Infelizmente, porém, há um problema com este pequeno cômodo dos goblins.",
+          "A solução pretendida é deslocá-lo através da parede,",
+          "(depois de ter movido os outros goblins para o norte, para fora do caminho),",
+          "depois para o sul, 1 casa a leste, e norte, para formar um grupo de goblins com 3 de largura.",
+          "Mas há outra solução, em que você simplesmente empurra os dois goblins das extremidades para o sul, uma casa,",
+          "depois teletransporta o terceiro cara pela parede para formar um grupo de 3 de largura.",
+          "Isso não é o pior ponto vulnerável, já que ainda é a mesma ideia básica,",
+          "mas queríamos que esta fase exigisse mais uso do Feixe de Força. Então corrigimos isso na versão seguinte..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914681,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_worlds_collide_heroes_and_promesst_v3",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              14.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_heroes_and_promesst_v3.entities"
+          }
+        ],
+        "subtitleLine": 14264,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

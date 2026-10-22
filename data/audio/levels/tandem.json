@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "tandem",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "vm_thief_priestess_7",
+      "clips": [
+        {
+          "id": "vm_thief_priestess_7_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.281333,
+          "src": "audio/clips/vm_thief_priestess_7_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "We're not quite out of this yet... But all we have to do is get across this bridge!"
+            ],
+            "pt-br": [
+              "Ainda não saímos totalmente dessa... Mas tudo o que precisamos fazer é atravessar essa ponte!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_thief_priestess_7_1__thief.wav",
+            "subtitleCueLines": [
+              8531
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "We're not quite out of this yet... But all we have to do is get across this bridge!"
+        ],
+        "pt-br": [
+          "Ainda não saímos totalmente dessa... Mas tudo o que precisamos fazer é atravessar essa ponte!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914706,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "vm_thief_priestess_7",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.0,
+              11.0,
+              5.0
+            ],
+            "source": "data-common/tandem.entities"
+          }
+        ],
+        "subtitleLine": 8530,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

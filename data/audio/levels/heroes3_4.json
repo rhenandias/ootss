@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_two_goblins",
+      "clips": [
+        {
+          "id": "heroes3_bard_two_goblins_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 2.796625,
+          "src": "audio/clips/heroes3_bard_two_goblins_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "I was hoping to find some *people* hereabouts."
+            ],
+            "pt-br": [
+              "Eu esperava encontrar umas pessoas por aqui."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_two_goblins_1__bard.wav",
+            "subtitleCueLines": [
+              1698
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I was hoping to find some *people* hereabouts."
+        ],
+        "pt-br": [
+          "Eu esperava encontrar umas pessoas por aqui."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048599,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_two_goblins",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_4.entities"
+          }
+        ],
+        "subtitleLine": 1697,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

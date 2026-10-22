@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "level": "pull_it_v4",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_sailor_thief_1",
+      "clips": [
+        {
+          "id": "hs_sailor_thief_1_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.803792,
+          "src": "audio/clips/hs_sailor_thief_1_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "You're great at pulling. I'm a bit jealous."
+            ],
+            "pt-br": [
+              "Você é muito bom em puxar. Estou um pouco com inveja."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_thief_1_1__sailor.wav",
+            "subtitleCueLines": [
+              8330
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_thief_1_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.314667,
+          "src": "audio/clips/hs_sailor_thief_1_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Thank you, new friend! But... pulling is complicated."
+            ],
+            "pt-br": [
+              "Obrigada, nova amiga! Mas... puxar é complicado."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_thief_1_2__thief.wav",
+            "subtitleCueLines": [
+              8333
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_thief_1_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.393667,
+          "src": "audio/clips/hs_sailor_thief_1_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh?"
+            ],
+            "pt-br": [
+              "Ah?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_thief_1_3__sailor.wav",
+            "subtitleCueLines": [
+              8336
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_thief_1_4__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 8.017333,
+          "src": "audio/clips/hs_sailor_thief_1_4__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Pushing is more straightforward, and you don't get surrounded and stuck.",
+              "The way you make the stones zoom forward, that's so neat! I wish *I* could do that."
+            ],
+            "pt-br": [
+              "Empurrar é mais simples, e você não fica preso sem saída.",
+              "O jeito que você faz as pedras dispararem, é tão legal! Queria que eu pudesse fazer isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_thief_1_4__thief.wav",
+            "subtitleCueLines": [
+              8339,
+              8344
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You're great at pulling. I'm a bit jealous.",
+          "Thank you, new friend! But... pulling is complicated.",
+          "Oh?",
+          "Pushing is more straightforward, and you don't get surrounded and stuck.",
+          "The way you make the stones zoom forward, that's so neat! I wish *I* could do that."
+        ],
+        "pt-br": [
+          "Você é muito bom em puxar. Estou um pouco com inveja.",
+          "Obrigada, nova amiga! Mas... puxar é complicado.",
+          "Ah?",
+          "Empurrar é mais simples, e você não fica preso sem saída.",
+          "O jeito que você faz as pedras dispararem, é tão legal! Queria que eu pudesse fazer isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360422,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_sailor_thief_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/pull_it_v4.entities"
+          }
+        ],
+        "subtitleLine": 8329,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

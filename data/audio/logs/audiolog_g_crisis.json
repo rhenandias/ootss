@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_g_crisis",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_g_crisis",
+      "clips": [
+        {
+          "id": "audiolog_g_crisis_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 124.072021,
+          "src": "audio/clips/audiolog_g_crisis_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Quigley,",
+              "I am starting to think --",
+              "I was assuming you were doing your best to follow me with a rescue team.",
+              "We made *careful* provision for this contingency and many others. Don't you remember?",
+              "But now I wonder. It has been a long time. With me gone, you are the head of the group,",
+              "the elite laboratory built around a world-altering invention.",
+              "Leamington was rash, you'd say. He barreled through before we could properly ensure his safety.",
+              "He is gone but will live nobly in our memories, while the fame and fortune go to us....",
+              "Perhaps there was no accident at all. Perhaps you shut the door with cold hands.",
+              "Or perhaps you just cannot get back. For reasons I cannot presently conceive.",
+              "I'm sure there are many difficulties. There are always many difficulties.",
+              "I will try to prevent myself from assuming the worst, but I am done assuming the best either;",
+              "clinging to hopes that never materialize -- it is not helping me move forward.",
+              "Goodbye, Quigley. From this point I assume that I shall never see you again.",
+              "Whatever is to be gained here, it is for me to discover on my own.",
+              "The team have all been great friends to me, even you, seemingly.",
+              "But I built my life from nothing once already, and I may yet carve out another life here.",
+              "For I've now seen signs of the caretakers of this Overworld.",
+              "A shimmer through the haze -- a shadowy figure in the distance, cloaked -- gone before I could reach that spot.",
+              "It has happened more than once. They are watching.",
+              "The people who dreamt up all this. People who seem interested in *me*.",
+              "They are just waiting for me to advance a few more steps.",
+              "And I'm about to do so."
+            ],
+            "pt-br": [
+              "Quigley,",
+              "Estou começando a pensar...",
+              "Eu estava supondo que você estava fazendo o possível para me seguir com uma equipe de resgate.",
+              "Fizemos provisões cuidadosas para essa contingência e muitas outras. Não se lembra?",
+              "Mas agora eu me pergunto. Faz muito tempo. Comigo fora, você é o líder do grupo,",
+              "o laboratório de elite construído em torno de uma invenção capaz de mudar o mundo.",
+              "Leamington foi imprudente, você diria. Ele avançou sem pensar antes que pudéssemos garantir a segurança dele adequadamente.",
+              "Ele se foi, mas viverá nobremente em nossas memórias, enquanto a fama e a fortuna ficam com a gente...",
+              "Talvez não tenha havido acidente algum. Talvez você tenha fechado a porta a sangue-frio.",
+              "Ou talvez você simplesmente não consiga voltar. Por razões que, no momento, não consigo conceber.",
+              "Sei que há muitas dificuldades. Sempre há muitas dificuldades.",
+              "Vou tentar não presumir o pior, mas também já cansei de presumir o melhor;",
+              "me agarrar a esperanças que nunca se concretizam... isso não está me ajudando a seguir em frente.",
+              "Adeus, Quigley. A partir daqui, vou presumir que nunca mais vou vê-lo.",
+              "Seja o que for que haja a ganhar aqui, sou eu quem vai descobrir sozinho.",
+              "A equipe tem sido toda muito amiga de mim, até você, ao que parece.",
+              "Mas eu já construí minha vida do nada uma vez, e ainda posso construir outra aqui.",
+              "Pois agora vi sinais dos zeladores deste Mundo Superior.",
+              "Um brilho através da névoa — uma figura sombria ao longe, envolta num manto — sumiu antes que eu pudesse chegar àquele ponto.",
+              "Isso aconteceu mais de uma vez. Estão me observando.",
+              "Pessoas que inventaram tudo isso. Pessoas que parecem interessadas em mim.",
+              "Elas estão só esperando eu avançar mais alguns passos.",
+              "E eu estou prestes a fazê-lo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_g_crisis_1__sokoban.wav",
+            "subtitleCueLines": [
+              3891,
+              3894,
+              3897,
+              3902,
+              3906,
+              3910,
+              3914,
+              3920,
+              3925,
+              3930,
+              3935,
+              3939,
+              3944,
+              3948,
+              3953,
+              3957,
+              3961,
+              3966,
+              3970,
+              3975,
+              3979,
+              3983,
+              3988
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Quigley,",
+          "I am starting to think --",
+          "I was assuming you were doing your best to follow me with a rescue team.",
+          "We made *careful* provision for this contingency and many others. Don't you remember?",
+          "But now I wonder. It has been a long time. With me gone, you are the head of the group,",
+          "the elite laboratory built around a world-altering invention.",
+          "Leamington was rash, you'd say. He barreled through before we could properly ensure his safety.",
+          "He is gone but will live nobly in our memories, while the fame and fortune go to us....",
+          "Perhaps there was no accident at all. Perhaps you shut the door with cold hands.",
+          "Or perhaps you just cannot get back. For reasons I cannot presently conceive.",
+          "I'm sure there are many difficulties. There are always many difficulties.",
+          "I will try to prevent myself from assuming the worst, but I am done assuming the best either;",
+          "clinging to hopes that never materialize -- it is not helping me move forward.",
+          "Goodbye, Quigley. From this point I assume that I shall never see you again.",
+          "Whatever is to be gained here, it is for me to discover on my own.",
+          "The team have all been great friends to me, even you, seemingly.",
+          "But I built my life from nothing once already, and I may yet carve out another life here.",
+          "For I've now seen signs of the caretakers of this Overworld.",
+          "A shimmer through the haze -- a shadowy figure in the distance, cloaked -- gone before I could reach that spot.",
+          "It has happened more than once. They are watching.",
+          "The people who dreamt up all this. People who seem interested in *me*.",
+          "They are just waiting for me to advance a few more steps.",
+          "And I'm about to do so."
+        ],
+        "pt-br": [
+          "Quigley,",
+          "Estou começando a pensar...",
+          "Eu estava supondo que você estava fazendo o possível para me seguir com uma equipe de resgate.",
+          "Fizemos provisões cuidadosas para essa contingência e muitas outras. Não se lembra?",
+          "Mas agora eu me pergunto. Faz muito tempo. Comigo fora, você é o líder do grupo,",
+          "o laboratório de elite construído em torno de uma invenção capaz de mudar o mundo.",
+          "Leamington foi imprudente, você diria. Ele avançou sem pensar antes que pudéssemos garantir a segurança dele adequadamente.",
+          "Ele se foi, mas viverá nobremente em nossas memórias, enquanto a fama e a fortuna ficam com a gente...",
+          "Talvez não tenha havido acidente algum. Talvez você tenha fechado a porta a sangue-frio.",
+          "Ou talvez você simplesmente não consiga voltar. Por razões que, no momento, não consigo conceber.",
+          "Sei que há muitas dificuldades. Sempre há muitas dificuldades.",
+          "Vou tentar não presumir o pior, mas também já cansei de presumir o melhor;",
+          "me agarrar a esperanças que nunca se concretizam... isso não está me ajudando a seguir em frente.",
+          "Adeus, Quigley. A partir daqui, vou presumir que nunca mais vou vê-lo.",
+          "Seja o que for que haja a ganhar aqui, sou eu quem vai descobrir sozinho.",
+          "A equipe tem sido toda muito amiga de mim, até você, ao que parece.",
+          "Mas eu já construí minha vida do nada uma vez, e ainda posso construir outra aqui.",
+          "Pois agora vi sinais dos zeladores deste Mundo Superior.",
+          "Um brilho através da névoa — uma figura sombria ao longe, envolta num manto — sumiu antes que eu pudesse chegar àquele ponto.",
+          "Isso aconteceu mais de uma vez. Estão me observando.",
+          "Pessoas que inventaram tudo isso. Pessoas que parecem interessadas em mim.",
+          "Elas estão só esperando eu avançar mais alguns passos.",
+          "E eu estou prestes a fazê-lo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

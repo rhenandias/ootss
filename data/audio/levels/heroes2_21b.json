@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_21b",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_thief_wizard_priestess_compartments",
+      "clips": [
+        {
+          "id": "heroes2_thief_wizard_priestess_compartments_1__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 9.308333,
+          "src": "audio/clips/heroes2_thief_wizard_priestess_compartments_1__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Observe, Ratleigh, how the complexities of this mechanism slow them,",
+              "giving us time to bait the final trap. Let us be off."
+            ],
+            "pt-br": [
+              "Observe, Ratleigh, como as complexidades deste mecanismo os atrasam,",
+              "nos dando tempo para preparar a armadilha final. Vamos andando."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_wizard_priestess_compartments_1__magistrate.wav",
+            "subtitleCueLines": [
+              1546,
+              1552
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_compartments_you__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 0.919312,
+          "src": "audio/clips/heroes2_compartments_you__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "You!"
+            ],
+            "pt-br": [
+              "Você!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_compartments_you__wizard.wav",
+            "subtitleCueLines": [
+              1556
+            ],
+            "explicitAudioReference": "heroes2_compartments_you__wizard"
+          }
+        },
+        {
+          "id": "heroes2_compartments_you__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 0.899875,
+          "src": "audio/clips/heroes2_compartments_you__thief.mp3",
+          "transcripts": {
+            "en": [
+              "You!"
+            ],
+            "pt-br": [
+              "Você!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_compartments_you__thief.wav",
+            "subtitleCueLines": [
+              1560
+            ],
+            "explicitAudioReference": "heroes2_compartments_you__thief"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "Observe, Ratleigh, how the complexities of this mechanism slow them,",
+          "giving us time to bait the final trap. Let us be off.",
+          "You!",
+          "You!"
+        ],
+        "pt-br": [
+          "Observe, Ratleigh, como as complexidades deste mecanismo os atrasam,",
+          "nos dando tempo para preparar a armadilha final. Vamos andando.",
+          "Você!",
+          "Você!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048600,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_thief_wizard_priestess_compartments",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_21b.entities"
+          }
+        ],
+        "subtitleLine": 1545,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_thief_wizard_priestess_compartments_mid",
+      "clips": [
+        {
+          "id": "heroes2_thief_wizard_priestess_compartments_mid_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.792667,
+          "src": "audio/clips/heroes2_thief_wizard_priestess_compartments_mid_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "These Goblins don't take orders. How's he getting them into all the right places?"
+            ],
+            "pt-br": [
+              "Esses Goblins não obedecem ordens. Como ele tá levando eles para todos os lugares certos?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_wizard_priestess_compartments_mid_1__thief.wav",
+            "subtitleCueLines": [
+              1567
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_thief_wizard_priestess_compartments_mid_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 4.775625,
+          "src": "audio/clips/heroes2_thief_wizard_priestess_compartments_mid_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I've heard tell of exotic women who can enthrall monsters and men..."
+            ],
+            "pt-br": [
+              "Já ouvi falar de mulheres exóticas que conseguem enfeitiçar monstros e homens..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_wizard_priestess_compartments_mid_2__wizard.wav",
+            "subtitleCueLines": [
+              1571
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_thief_wizard_priestess_compartments_mid_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.013,
+          "src": "audio/clips/heroes2_thief_wizard_priestess_compartments_mid_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Oh! May be he has one in his service!"
+            ],
+            "pt-br": [
+              "Ah! Talvez ele tenha uma a seu serviço!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_wizard_priestess_compartments_mid_3__thief.wav",
+            "subtitleCueLines": [
+              1575
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_thief_wizard_priestess_compartments_mid_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 6.044542,
+          "src": "audio/clips/heroes2_thief_wizard_priestess_compartments_mid_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Or perhaps he has absorbed that power himself, as he did with that ... crystallization."
+            ],
+            "pt-br": [
+              "Ou talvez ele tenha absorvido esse poder em si, como fez com aquela... cristalização."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_wizard_priestess_compartments_mid_4__wizard.wav",
+            "subtitleCueLines": [
+              1579
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes2_thief_wizard_priestess_compartments_mid_5__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 2.314396,
+          "src": "audio/clips/heroes2_thief_wizard_priestess_compartments_mid_5__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Wouldn't you like to know!"
+            ],
+            "pt-br": [
+              "Queria saber, não é?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_wizard_priestess_compartments_mid_5__magistrate.wav",
+            "subtitleCueLines": [
+              1583
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "all_heroes_thief_wizard_compartments",
+          "speaker": "all_heroes",
+          "speakerName": "all_heroes",
+          "duration": 1.024875,
+          "src": "audio/clips/all_heroes_thief_wizard_compartments.mp3",
+          "transcripts": {
+            "en": [
+              "You!"
+            ],
+            "pt-br": [
+              "Você!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "all_heroes_thief_wizard_compartments.wav",
+            "subtitleCueLines": [
+              1587
+            ],
+            "explicitAudioReference": "all_heroes_thief_wizard_compartments"
+          }
+        },
+        {
+          "id": "heroes2_thief_wizard_priestess_compartments_mid_7__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 1.306458,
+          "src": "audio/clips/heroes2_thief_wizard_priestess_compartments_mid_7__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "Be seeing you!"
+            ],
+            "pt-br": [
+              "Até mais!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_thief_wizard_priestess_compartments_mid_7__magistrate.wav",
+            "subtitleCueLines": [
+              1590
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "These Goblins don't take orders. How's he getting them into all the right places?",
+          "I've heard tell of exotic women who can enthrall monsters and men...",
+          "Oh! May be he has one in his service!",
+          "Or perhaps he has absorbed that power himself, as he did with that ... crystallization.",
+          "Wouldn't you like to know!",
+          "You!",
+          "Be seeing you!"
+        ],
+        "pt-br": [
+          "Esses Goblins não obedecem ordens. Como ele tá levando eles para todos os lugares certos?",
+          "Já ouvi falar de mulheres exóticas que conseguem enfeitiçar monstros e homens...",
+          "Ah! Talvez ele tenha uma a seu serviço!",
+          "Ou talvez ele tenha absorvido esse poder em si, como fez com aquela... cristalização.",
+          "Queria saber, não é?",
+          "Você!",
+          "Até mais!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_thief_wizard_priestess_compartments_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.091280460357666,
+              4.960123062133789,
+              0.21054649353027344
+            ],
+            "source": "data-common/heroes2_21b.entities"
+          }
+        ],
+        "subtitleLine": 1566,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

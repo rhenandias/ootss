@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_druid_a",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_four_with_dragon",
+      "clips": [
+        {
+          "id": "heroes3_four_with_dragon_1__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 15.873042,
+          "src": "audio/clips/heroes3_four_with_dragon_1__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "I learned my lesson with you, pesky wizard.",
+              "I've had my second-favorite son Ratleigh clear this area of anything you could possibly employ",
+              "to weasel past this faithful Guard Dragon.",
+              "Good resource management, Ratleigh."
+            ],
+            "pt-br": [
+              "Aprendi a lição com você, mago enxerido.",
+              "Fiz meu segundo filho favorito, Ratleigh, esvaziar esta área de tudo que você poderia usar",
+              "pra passar de fininho por esse fiel Dragão da Guarda.",
+              "Boa gestão de recursos, Ratleigh."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_four_with_dragon_1__magistrate.wav",
+            "subtitleCueLines": [
+              1949,
+              1953,
+              1958,
+              1961
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_four_with_dragon_2__ratleigh",
+          "speaker": "ratleigh",
+          "speakerName": "Ratleigh",
+          "duration": 1.44025,
+          "src": "audio/clips/heroes3_four_with_dragon_2__ratleigh.mp3",
+          "transcripts": {
+            "en": [
+              "Thank you s -"
+            ],
+            "pt-br": [
+              "Obrigado, s..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_four_with_dragon_2__ratleigh.wav",
+            "subtitleCueLines": [
+              1965
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_four_with_dragon_3__magistrate",
+          "speaker": "magistrate",
+          "speakerName": "Magistrate Reynard",
+          "duration": 16.520167,
+          "src": "audio/clips/heroes3_four_with_dragon_3__magistrate.mp3",
+          "transcripts": {
+            "en": [
+              "No time to discuss! Soon I must away, via my ... special transport.",
+              "We've a terrible paucity of time in which to finish impressing",
+              "all the great multitude of your new duties into your tiny little head.",
+              "Come along!"
+            ],
+            "pt-br": [
+              "Sem tempo pra conversa! Logo terei de partir, pelo meu... transporte especial.",
+              "Temos uma terrível falta de tempo pra terminar de impressionar",
+              "toda a enorme quantidade de novas funções na sua cabecinha.",
+              "Venha comigo!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_four_with_dragon_3__magistrate.wav",
+            "subtitleCueLines": [
+              1968,
+              1974,
+              1978,
+              1982
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I learned my lesson with you, pesky wizard.",
+          "I've had my second-favorite son Ratleigh clear this area of anything you could possibly employ",
+          "to weasel past this faithful Guard Dragon.",
+          "Good resource management, Ratleigh.",
+          "Thank you s -",
+          "No time to discuss! Soon I must away, via my ... special transport.",
+          "We've a terrible paucity of time in which to finish impressing",
+          "all the great multitude of your new duties into your tiny little head.",
+          "Come along!"
+        ],
+        "pt-br": [
+          "Aprendi a lição com você, mago enxerido.",
+          "Fiz meu segundo filho favorito, Ratleigh, esvaziar esta área de tudo que você poderia usar",
+          "pra passar de fininho por esse fiel Dragão da Guarda.",
+          "Boa gestão de recursos, Ratleigh.",
+          "Obrigado, s...",
+          "Sem tempo pra conversa! Logo terei de partir, pelo meu... transporte especial.",
+          "Temos uma terrível falta de tempo pra terminar de impressionar",
+          "toda a enorme quantidade de novas funções na sua cabecinha.",
+          "Venha comigo!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 90177543,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_four_with_dragon",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_druid_a.entities"
+          }
+        ],
+        "subtitleLine": 1948,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

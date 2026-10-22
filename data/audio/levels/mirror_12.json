@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_12",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "clones_triple_confusion",
+      "clips": [
+        {
+          "id": "clones_triple_confusion_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.977333,
+          "src": "audio/clips/clones_triple_confusion_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "I know it's hard, but we must press forward."
+            ],
+            "pt-br": [
+              "Eu sei que é difícil, mas precisamos seguir em frente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_triple_confusion_1__trader.wav",
+            "subtitleCueLines": [
+              6230
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_triple_confusion_2__trader_clone_1",
+          "speaker": "trader_clone_1",
+          "speakerName": "trader_clone_1",
+          "duration": 5.308,
+          "src": "audio/clips/clones_triple_confusion_2__trader_clone_1.mp3",
+          "transcripts": {
+            "en": [
+              "No no no. We must return at once to manage intake of the week's merchantman."
+            ],
+            "pt-br": [
+              "Não, não, não. Precisamos voltar já para cuidar da recepção do mercante da semana."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_triple_confusion_2__trader_clone_1.wav",
+            "subtitleCueLines": [
+              6234
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "clones_triple_confusion_3__trader_clone_2",
+          "speaker": "trader_clone_2",
+          "speakerName": "trader_clone_2",
+          "duration": 14.389646,
+          "src": "audio/clips/clones_triple_confusion_3__trader_clone_2.mp3",
+          "transcripts": {
+            "en": [
+              "Hassle, hassle. Wife doesn't care for me. Kid is sufficiently raised.",
+              "And these mirrors are cold.",
+              "Just leave to nowhere special -- become itinerant -- a life of freedom."
+            ],
+            "pt-br": [
+              "Burocracia, burocracia. A esposa não liga pra mim. O filho já está criado o suficiente.",
+              "E esses espelhos são frios.",
+              "Só ir para lugar nenhum em especial, virar itinerante, uma vida de liberdade."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "clones_triple_confusion_3__trader_clone_2.wav",
+            "subtitleCueLines": [
+              6239,
+              6244,
+              6248
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I know it's hard, but we must press forward.",
+          "No no no. We must return at once to manage intake of the week's merchantman.",
+          "Hassle, hassle. Wife doesn't care for me. Kid is sufficiently raised.",
+          "And these mirrors are cold.",
+          "Just leave to nowhere special -- become itinerant -- a life of freedom."
+        ],
+        "pt-br": [
+          "Eu sei que é difícil, mas precisamos seguir em frente.",
+          "Não, não, não. Precisamos voltar já para cuidar da recepção do mercante da semana.",
+          "Burocracia, burocracia. A esposa não liga pra mim. O filho já está criado o suficiente.",
+          "E esses espelhos são frios.",
+          "Só ir para lugar nenhum em especial, virar itinerante, uma vida de liberdade."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_proc_arg_string",
+            "value": "clones_triple_confusion",
+            "rule": "exact-reference",
+            "coordinates": [
+              -4.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/mirror_12.entities"
+          }
+        ],
+        "subtitleLine": 6229,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

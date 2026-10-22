@@ -1,0 +1,4185 @@
+{
+  "schemaVersion": 1,
+  "placedBlocks": 534,
+  "unplacedBlocks": [
+    {
+      "block": "heroes2_wizard_priestess_mid",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "heroes3_warrior_and_druid_transmutation",
+      "recordings": 3,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "intro_1",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_before_teleporter",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_g_musing_on_fast_travel",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "overworld"
+      ],
+      "reason": "outside-current-tiles"
+    },
+    {
+      "block": "audiolog_g_substrate",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "overworld"
+      ],
+      "reason": "outside-current-tiles"
+    },
+    {
+      "block": "mirror_3",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "mirror_4",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "mirror_after_clones_first",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "mirror_icy_start",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "intro_queen_am_i_dead",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_queen_callout_alt",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_queen_foreign_script",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_queen_sign",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_queen_hosts_1",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_queen_hosts_2",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_queen_hosts_3",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "intro_queen_teleporter",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "hw_thief_wizard",
+      "recordings": 2,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "sp_warrior_shunt",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "sp_help_drop",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "sp_wizard_open_beam",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "hp_wizard_be_aggro",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "vs_warrior_dragons",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "moment_alone",
+      "recordings": 2,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "more_than_mirror_guy",
+      "recordings": 3,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "vm_warrior_mirror_guy_2_end",
+      "recordings": 1,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "vm_warrior_mirror_guy_3",
+      "recordings": 5,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "end1_dimension_1",
+      "recordings": 9,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "end1_dimension_2",
+      "recordings": 6,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "end1_dimension_3",
+      "recordings": 8,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "end1_dimension_4",
+      "recordings": 9,
+      "sourceLevels": [],
+      "directSourceLevels": [],
+      "reason": "no-structured-reference"
+    },
+    {
+      "block": "audiolog_sky_play_of_form_2_surprise",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld"
+      ],
+      "directSourceLevels": [],
+      "reason": "namespace-without-spatial-anchor"
+    },
+    {
+      "block": "queen_og_mirror_isles",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld"
+      ],
+      "directSourceLevels": [],
+      "reason": "namespace-without-spatial-anchor"
+    },
+    {
+      "block": "audiolog_di_catching_up_v0",
+      "recordings": 1,
+      "sourceLevels": [
+        "catching_up_v0",
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "catching_up_v0"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_catching_up_v0_part_2",
+      "recordings": 1,
+      "sourceLevels": [
+        "catching_up_v0",
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "catching_up_v0"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_heroes_1_7",
+      "recordings": 1,
+      "sourceLevels": [
+        "heroes1_7",
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "heroes1_7"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_strategic_stack",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "strategic_stack"
+      ],
+      "directSourceLevels": [
+        "strategic_stack"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_torcher",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "torcher"
+      ],
+      "directSourceLevels": [
+        "torcher"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_quad_torch_v1",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "quad_torch_v1"
+      ],
+      "directSourceLevels": [
+        "quad_torch_v1"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_height_chooser",
+      "recordings": 1,
+      "sourceLevels": [
+        "height_chooser",
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "height_chooser"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_push_down_a_lot",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "push_down_a_lot"
+      ],
+      "directSourceLevels": [
+        "push_down_a_lot"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_across_the_fence_old",
+      "recordings": 1,
+      "sourceLevels": [
+        "across_the_fence_old",
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "across_the_fence_old"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_sender",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "sender"
+      ],
+      "directSourceLevels": [
+        "sender"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_sender_simplified",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "sender_simplified"
+      ],
+      "directSourceLevels": [
+        "sender_simplified"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_worlds_collide_heroes_and_promesst",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "worlds_collide_heroes_and_promesst"
+      ],
+      "directSourceLevels": [
+        "worlds_collide_heroes_and_promesst"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_worlds_collide_heroes_and_promesst_v2",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "worlds_collide_heroes_and_promesst_v2"
+      ],
+      "directSourceLevels": [
+        "worlds_collide_heroes_and_promesst_v2"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_worlds_collide_heroes_and_promesst_v3",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld",
+        "worlds_collide_heroes_and_promesst_v3"
+      ],
+      "directSourceLevels": [
+        "worlds_collide_heroes_and_promesst_v3"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "audiolog_di_lily_wearing_intro",
+      "recordings": 1,
+      "sourceLevels": [
+        "lily_wearing_intro",
+        "overworld"
+      ],
+      "directSourceLevels": [
+        "lily_wearing_intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "paradise_lost_invocation_credits",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "end3_mirror_isles_first",
+      "recordings": 1,
+      "sourceLevels": [
+        "overworld"
+      ],
+      "directSourceLevels": [],
+      "reason": "namespace-without-spatial-anchor"
+    },
+    {
+      "block": "paradise_lost_invocation_2",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    },
+    {
+      "block": "actor_credits",
+      "recordings": 1,
+      "sourceLevels": [
+        "intro"
+      ],
+      "directSourceLevels": [
+        "intro"
+      ],
+      "reason": "only-unmapped-levels"
+    }
+  ],
+  "excludedWorldAnchors": [
+    {
+      "block": "audiolog_g_musing_on_fast_travel",
+      "entityId": 115515423,
+      "reason": "outside-current-tiles",
+      "coordinates": [
+        57.0,
+        117.0,
+        89.0
+      ]
+    },
+    {
+      "block": "audiolog_g_substrate",
+      "entityId": 115515424,
+      "reason": "outside-current-tiles",
+      "coordinates": [
+        51.0,
+        113.0,
+        89.0
+      ]
+    }
+  ],
+  "locations": {
+    "3d_intro_carry": [
+      {
+        "kind": "level",
+        "level": "carry_simplified"
+      }
+    ],
+    "3d_intro_carry_actual_a": [
+      {
+        "kind": "level",
+        "level": "carry_simplified"
+      }
+    ],
+    "3d_intro_carry_actual_b": [
+      {
+        "kind": "level",
+        "level": "carry_simplified"
+      }
+    ],
+    "3d_intro_carry_end": [
+      {
+        "kind": "level",
+        "level": "carry_simplified"
+      }
+    ],
+    "3d_intro_down": [
+      {
+        "kind": "level",
+        "level": "push_down_v2"
+      }
+    ],
+    "3d_intro_down_almost": [
+      {
+        "kind": "level",
+        "level": "push_down_v2"
+      }
+    ],
+    "3d_intro_heights": [
+      {
+        "kind": "level",
+        "level": "3d_intro_vanilla"
+      }
+    ],
+    "3d_intro_heights_end": [
+      {
+        "kind": "level",
+        "level": "3d_intro_vanilla"
+      }
+    ],
+    "3d_intro_mirrors": [
+      {
+        "kind": "level",
+        "level": "3d_intro_mirrors"
+      }
+    ],
+    "3d_intro_staircase": [
+      {
+        "kind": "level",
+        "level": "sister_staircase_harder"
+      }
+    ],
+    "3d_intro_staircase_end": [
+      {
+        "kind": "level",
+        "level": "sister_staircase_harder"
+      }
+    ],
+    "3d_intro_staircase_mid": [
+      {
+        "kind": "level",
+        "level": "sister_staircase_harder"
+      }
+    ],
+    "all_together_now_reassembly_1": [
+      {
+        "kind": "level",
+        "level": "all_together_now"
+      }
+    ],
+    "all_together_now_reassembly_2": [
+      {
+        "kind": "level",
+        "level": "all_together_now"
+      }
+    ],
+    "audiolog_di_across_the_fence_vtrader_m_p": [
+      {
+        "kind": "level",
+        "level": "across_the_fence_vtrader_m_p"
+      }
+    ],
+    "audiolog_di_catching_up_v2": [
+      {
+        "kind": "level",
+        "level": "catching_up_v2"
+      }
+    ],
+    "audiolog_di_height_chooser_v0": [
+      {
+        "kind": "level",
+        "level": "height_chooser_v0"
+      }
+    ],
+    "audiolog_di_heroes_1_7_v2": [
+      {
+        "kind": "level",
+        "level": "heroes1_7_v2"
+      }
+    ],
+    "audiolog_di_push_down_a_lot_small": [
+      {
+        "kind": "level",
+        "level": "push_down_a_lot_small"
+      }
+    ],
+    "audiolog_di_quad_torch": [
+      {
+        "kind": "level",
+        "level": "quad_torch"
+      }
+    ],
+    "audiolog_di_sender_simplified_v2": [
+      {
+        "kind": "level",
+        "level": "sender_simplified_v2"
+      }
+    ],
+    "audiolog_di_tiger_lily_v2": [
+      {
+        "kind": "level",
+        "level": "tiger_lily_v2"
+      }
+    ],
+    "audiolog_di_triple_gate": [
+      {
+        "kind": "level",
+        "level": "triple_gate"
+      }
+    ],
+    "audiolog_di_worlds_collide_heroes_and_promesst_v4": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v4"
+      }
+    ],
+    "audiolog_g_being_watched": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115516460,
+        "coordinates": [
+          76.0,
+          18.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_crisis": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115570323,
+        "coordinates": [
+          -19.0,
+          145.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_far_from_home": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115514398,
+        "coordinates": [
+          126.0,
+          5.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_gold_rooms": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115514910,
+        "coordinates": [
+          96.0,
+          93.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_how_many_gold_rooms": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115515425,
+        "coordinates": [
+          54.0,
+          47.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_musing_on_freezers_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115516457,
+        "coordinates": [
+          62.0,
+          24.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_no_eating": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115512838,
+        "coordinates": [
+          103.0,
+          26.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_possession": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115512837,
+        "coordinates": [
+          73.0,
+          97.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_work_and_care": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115516972,
+        "coordinates": [
+          108.0,
+          66.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_world_selection_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115514392,
+        "coordinates": [
+          48.0,
+          111.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_world_selection_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115514393,
+        "coordinates": [
+          16.0,
+          110.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_g_world_selection_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115514394,
+        "coordinates": [
+          28.0,
+          122.0,
+          0.0
+        ]
+      }
+    ],
+    "audiolog_s_magistrate": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115591127,
+        "coordinates": [
+          120.0,
+          130.0,
+          36.0
+        ]
+      }
+    ],
+    "audiolog_s_tradition_of_our_people_part_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115512839,
+        "coordinates": [
+          80.0,
+          91.0,
+          35.0
+        ]
+      }
+    ],
+    "audiolog_s_tradition_of_our_people_part_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115512840,
+        "coordinates": [
+          85.0,
+          97.0,
+          36.0
+        ]
+      }
+    ],
+    "audiolog_s_tradition_of_our_people_part_2b": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115513879,
+        "coordinates": [
+          74.0,
+          97.0,
+          36.0
+        ]
+      }
+    ],
+    "audiolog_s_tradition_of_our_people_part_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115513355,
+        "coordinates": [
+          70.0,
+          95.0,
+          35.0
+        ]
+      }
+    ],
+    "audiolog_sky_10000_things": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115515943,
+        "coordinates": [
+          139.0,
+          77.0,
+          34.0
+        ]
+      }
+    ],
+    "audiolog_sky_combiners": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115564774,
+        "coordinates": [
+          21.0,
+          54.0,
+          36.0
+        ]
+      }
+    ],
+    "audiolog_sky_combiners_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115564775,
+        "coordinates": [
+          16.0,
+          53.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_combiners_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115564776,
+        "coordinates": [
+          28.0,
+          27.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_combiners_4": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115564777,
+        "coordinates": [
+          45.0,
+          28.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_complexification_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115595487,
+        "coordinates": [
+          122.0,
+          38.0,
+          25.0
+        ]
+      }
+    ],
+    "audiolog_sky_complexification_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115595488,
+        "coordinates": [
+          110.0,
+          21.0,
+          25.0
+        ]
+      }
+    ],
+    "audiolog_sky_invocation": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115513880,
+        "coordinates": [
+          -15.0,
+          141.0,
+          47.0
+        ]
+      }
+    ],
+    "audiolog_sky_laws_of_form": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115593617,
+        "coordinates": [
+          150.0,
+          118.0,
+          34.0
+        ]
+      }
+    ],
+    "audiolog_sky_lifeboat_societies_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115567266,
+        "coordinates": [
+          89.0,
+          31.0,
+          25.0
+        ]
+      }
+    ],
+    "audiolog_sky_lifeboat_societies_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115567265,
+        "coordinates": [
+          76.0,
+          25.0,
+          22.0
+        ]
+      }
+    ],
+    "audiolog_sky_lifeboat_societies_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115567264,
+        "coordinates": [
+          104.0,
+          19.0,
+          19.0
+        ]
+      }
+    ],
+    "audiolog_sky_play_of_form_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115599220,
+        "coordinates": [
+          29.0,
+          78.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_play_of_form_1a": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115605453,
+        "coordinates": [
+          16.0,
+          79.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_play_of_form_1b": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115599849,
+        "coordinates": [
+          14.0,
+          81.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_play_of_form_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115599221,
+        "coordinates": [
+          19.0,
+          86.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_play_of_form_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115599222,
+        "coordinates": [
+          29.0,
+          96.0,
+          37.0
+        ]
+      }
+    ],
+    "audiolog_sky_take_a_tour": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115515941,
+        "coordinates": [
+          86.0,
+          71.0,
+          33.0
+        ]
+      }
+    ],
+    "audiolog_sky_tetratetrad": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115564778,
+        "coordinates": [
+          39.0,
+          50.0,
+          38.0
+        ]
+      }
+    ],
+    "audiolog_sky_why_so_big": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115533787,
+        "coordinates": [
+          138.0,
+          56.0,
+          34.0
+        ]
+      }
+    ],
+    "audiolog_sky_why_so_big_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115533789,
+        "coordinates": [
+          122.0,
+          47.0,
+          33.0
+        ]
+      }
+    ],
+    "audiolog_sky_wool": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115568487,
+        "coordinates": [
+          89.0,
+          81.0,
+          33.0
+        ]
+      }
+    ],
+    "audiolog_u_boundary_matching_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115569712,
+        "coordinates": [
+          89.0,
+          41.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_boundary_matching_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115569713,
+        "coordinates": [
+          108.0,
+          42.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_chaos_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115566658,
+        "coordinates": [
+          -2.0,
+          52.0,
+          -22.0
+        ]
+      }
+    ],
+    "audiolog_u_chaos_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115566659,
+        "coordinates": [
+          6.0,
+          49.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_computation": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115567878,
+        "coordinates": [
+          120.0,
+          121.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_decay_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115592371,
+        "coordinates": [
+          23.0,
+          40.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_decay_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115592372,
+        "coordinates": [
+          46.0,
+          43.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_decay_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115592373,
+        "coordinates": [
+          34.0,
+          33.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_decay_4": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115592375,
+        "coordinates": [
+          34.0,
+          20.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_decay_5": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115592376,
+        "coordinates": [
+          43.0,
+          21.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_games_inspirations": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115564169,
+        "coordinates": [
+          57.0,
+          109.0,
+          -17.0
+        ]
+      }
+    ],
+    "audiolog_u_job_41_fragments": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115515940,
+        "coordinates": [
+          -21.0,
+          134.0,
+          -24.0
+        ]
+      }
+    ],
+    "audiolog_u_meeting": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 62969981,
+        "coordinates": [
+          76.0,
+          69.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_old_games": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115564168,
+        "coordinates": [
+          72.0,
+          107.0,
+          -18.0
+        ]
+      }
+    ],
+    "audiolog_u_tetratetrad_troubles_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115591747,
+        "coordinates": [
+          160.0,
+          95.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_tetratetrad_troubles_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115591748,
+        "coordinates": [
+          163.0,
+          132.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_tetratetrad_troubles_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115591751,
+        "coordinates": [
+          163.0,
+          149.0,
+          -21.0
+        ]
+      }
+    ],
+    "audiolog_u_wizard_mirror_worlds_connect": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115567879,
+        "coordinates": [
+          91.0,
+          81.0,
+          -21.0
+        ]
+      }
+    ],
+    "beam_shatter_start": [
+      {
+        "kind": "level",
+        "level": "beam_shatter"
+      }
+    ],
+    "beam_shatter_wish": [
+      {
+        "kind": "level",
+        "level": "beam_shatter"
+      }
+    ],
+    "beautiful_view_thief": [
+      {
+        "kind": "level",
+        "level": "gated_twice_thief_v2"
+      }
+    ],
+    "beautiful_view_warrior": [
+      {
+        "kind": "level",
+        "level": "gated_twice_v2"
+      }
+    ],
+    "clones_early": [
+      {
+        "kind": "level",
+        "level": "mirror_2"
+      }
+    ],
+    "clones_first_confusion": [
+      {
+        "kind": "level",
+        "level": "mirror_11"
+      }
+    ],
+    "clones_merge": [
+      {
+        "kind": "level",
+        "level": "mirror_14"
+      }
+    ],
+    "clones_triple_confusion": [
+      {
+        "kind": "level",
+        "level": "mirror_12"
+      }
+    ],
+    "clones_working": [
+      {
+        "kind": "level",
+        "level": "mirror_13"
+      }
+    ],
+    "clones_working_end": [
+      {
+        "kind": "level",
+        "level": "mirror_13"
+      }
+    ],
+    "coda": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115609827,
+        "coordinates": [
+          137.0,
+          133.0,
+          -21.0
+        ]
+      }
+    ],
+    "coda_scene_assembled": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115601709,
+        "coordinates": [
+          137.0,
+          134.0,
+          -21.0
+        ]
+      }
+    ],
+    "double_agent_intro": [
+      {
+        "kind": "level",
+        "level": "submarine"
+      }
+    ],
+    "double_agent_intro_end": [
+      {
+        "kind": "level",
+        "level": "submarine"
+      }
+    ],
+    "end1_dimension_0": [
+      {
+        "kind": "level",
+        "level": "end1"
+      }
+    ],
+    "end2_sokoban_writing_choice_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115534361,
+        "coordinates": [
+          -14.0,
+          147.0,
+          44.0
+        ]
+      }
+    ],
+    "end2_sokoban_writing_choice_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115534362,
+        "coordinates": [
+          -16.0,
+          147.0,
+          44.0
+        ]
+      }
+    ],
+    "end3_boats": [
+      {
+        "kind": "level",
+        "level": "end3_skipping_red"
+      }
+    ],
+    "end3_heroes_first": [
+      {
+        "kind": "level",
+        "level": "allocate_heroes_end3"
+      },
+      {
+        "kind": "level",
+        "level": "allocate_heroes_v2"
+      }
+    ],
+    "end3_mirror_isles_second": [
+      {
+        "kind": "level",
+        "level": "end3_mirror_2_alt2"
+      }
+    ],
+    "end3_queen_promesst_red": [
+      {
+        "kind": "level",
+        "level": "end3_promesst_red"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036985,
+        "coordinates": [
+          27.848291397094727,
+          71.38005065917969,
+          0.7048759460449219
+        ]
+      }
+    ],
+    "end3_skipping_1": [
+      {
+        "kind": "level",
+        "level": "end3_skipping_1"
+      }
+    ],
+    "end3_sokoban_writing_choice_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115534364,
+        "coordinates": [
+          -10.0,
+          138.0,
+          -24.0
+        ]
+      }
+    ],
+    "end3_sokoban_writing_choice_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115534365,
+        "coordinates": [
+          4.0,
+          128.0,
+          -24.0
+        ]
+      }
+    ],
+    "end3_sokoban_writing_choice_3": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115534368,
+        "coordinates": [
+          9.0,
+          107.0,
+          -24.0
+        ]
+      }
+    ],
+    "end3_sokoban_writing_choice_4": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115534371,
+        "coordinates": [
+          -5.0,
+          116.0,
+          -24.0
+        ]
+      }
+    ],
+    "end3_sokoban_writing_choice_5": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115534372,
+        "coordinates": [
+          -17.0,
+          129.0,
+          -24.0
+        ]
+      }
+    ],
+    "end3_suit": [
+      {
+        "kind": "level",
+        "level": "best_beam_colors"
+      }
+    ],
+    "end3_thief_taunted": [
+      {
+        "kind": "level",
+        "level": "end3_heroes_1"
+      }
+    ],
+    "heroes1_5": [
+      {
+        "kind": "level",
+        "level": "end2_heroes_1_5"
+      },
+      {
+        "kind": "level",
+        "level": "heroes1_5_v2"
+      }
+    ],
+    "heroes1_thief_three_crystals_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_6"
+      }
+    ],
+    "heroes1_warrior_thief": [
+      {
+        "kind": "level",
+        "level": "heroes1_13_v2"
+      }
+    ],
+    "heroes1_warrior_thief_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_13_v2"
+      }
+    ],
+    "heroes1_warrior_thief_mid": [
+      {
+        "kind": "level",
+        "level": "heroes1_13_v2"
+      }
+    ],
+    "heroes1_warrior_thief_mid0": [
+      {
+        "kind": "level",
+        "level": "heroes1_13_v2"
+      }
+    ],
+    "heroes1_warrior_wizard": [
+      {
+        "kind": "level",
+        "level": "heroes1_11_v2"
+      }
+    ],
+    "heroes1_warrior_wizard_confused": [
+      {
+        "kind": "level",
+        "level": "heroes1_15"
+      }
+    ],
+    "heroes1_warrior_wizard_confused_mid": [
+      {
+        "kind": "level",
+        "level": "heroes1_15"
+      }
+    ],
+    "heroes1_wizard_1": [
+      {
+        "kind": "level",
+        "level": "heroes1_7.5"
+      }
+    ],
+    "heroes1_wizard_2": [
+      {
+        "kind": "level",
+        "level": "heroes1_8_v2"
+      }
+    ],
+    "heroes1_wizard_2_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_8_v2"
+      }
+    ],
+    "heroes1_wizard_array_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_10_inv_v4_b"
+      }
+    ],
+    "heroes1_wizard_thief": [
+      {
+        "kind": "level",
+        "level": "heroes1_12_v2_alt"
+      }
+    ],
+    "heroes1_wizard_three_crystals": [
+      {
+        "kind": "level",
+        "level": "heroes1_9"
+      }
+    ],
+    "heroes1_wizard_three_crystals_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_9"
+      }
+    ],
+    "heroes2_four": [
+      {
+        "kind": "level",
+        "level": "heroes2_22_v2"
+      }
+    ],
+    "heroes2_one_fire_warrior_thief_optional": [
+      {
+        "kind": "level",
+        "level": "one_fire_v2"
+      }
+    ],
+    "heroes2_one_fire_warrior_thief_optional_end": [
+      {
+        "kind": "level",
+        "level": "one_fire_v2"
+      }
+    ],
+    "heroes2_postmeetup_thief": [
+      {
+        "kind": "level",
+        "level": "heroes2_10"
+      }
+    ],
+    "heroes2_postmeetup_warrior": [
+      {
+        "kind": "level",
+        "level": "heroes2_11_v2_easier"
+      }
+    ],
+    "heroes2_postmeetup_wizard": [
+      {
+        "kind": "level",
+        "level": "heroes2_12_v2"
+      }
+    ],
+    "heroes2_postmeetup_wizard_mid": [
+      {
+        "kind": "level",
+        "level": "heroes2_12_v2"
+      }
+    ],
+    "heroes2_thief_dragons_intro": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_no_crystal"
+      }
+    ],
+    "heroes2_thief_dragons_intro_2": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_no_crystal"
+      }
+    ],
+    "heroes2_thief_dragons_intro_3": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_no_crystal"
+      }
+    ],
+    "heroes2_thief_dragons_intro_4": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_no_crystal"
+      }
+    ],
+    "heroes2_thief_dragons_intro_5": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_no_crystal"
+      }
+    ],
+    "heroes2_thief_dragons_intro_6": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_no_crystal"
+      }
+    ],
+    "heroes2_thief_dragons_second": [
+      {
+        "kind": "level",
+        "level": "heroes2_5.5v5"
+      }
+    ],
+    "heroes2_thief_dragons_third": [
+      {
+        "kind": "level",
+        "level": "heroes2_6_v3"
+      }
+    ],
+    "heroes2_thief_dragons_third_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_6_v3"
+      }
+    ],
+    "heroes2_thief_goblins": [
+      {
+        "kind": "level",
+        "level": "heroes2_thief_goblin"
+      }
+    ],
+    "heroes2_thief_goblins_mid": [
+      {
+        "kind": "level",
+        "level": "heroes2_thief_goblin"
+      }
+    ],
+    "heroes2_thief_priestess_crawler": [
+      {
+        "kind": "level",
+        "level": "heroes2_16v4"
+      }
+    ],
+    "heroes2_thief_priestess_second": [
+      {
+        "kind": "level",
+        "level": "heroes2_16v4"
+      }
+    ],
+    "heroes2_thief_priestess_second_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_18"
+      }
+    ],
+    "heroes2_thief_priestess_second_mid_disgraced": [
+      {
+        "kind": "level",
+        "level": "heroes2_18"
+      }
+    ],
+    "heroes2_thief_priestess_second_mid_warrior": [
+      {
+        "kind": "level",
+        "level": "heroes2_18"
+      }
+    ],
+    "heroes2_thief_priestess_second_mid_wizard": [
+      {
+        "kind": "level",
+        "level": "heroes2_18"
+      }
+    ],
+    "heroes2_thief_wizard_priestess_compartments": [
+      {
+        "kind": "level",
+        "level": "heroes2_21b"
+      }
+    ],
+    "heroes2_thief_wizard_priestess_compartments_mid": [
+      {
+        "kind": "level",
+        "level": "heroes2_21b"
+      }
+    ],
+    "heroes2_three_first": [
+      {
+        "kind": "level",
+        "level": "heroes2_9"
+      }
+    ],
+    "heroes2_three_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_9"
+      }
+    ],
+    "heroes2_three_first_mid": [
+      {
+        "kind": "level",
+        "level": "heroes2_9"
+      }
+    ],
+    "heroes2_warrior_3monster": [
+      {
+        "kind": "level",
+        "level": "heroes2_3monster"
+      }
+    ],
+    "heroes2_warrior_3monster_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_3monster"
+      }
+    ],
+    "heroes2_warrior_dragon_intro": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_altE"
+      }
+    ],
+    "heroes2_warrior_dragon_intro_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_5_altE"
+      }
+    ],
+    "heroes2_warrior_goblins_1": [
+      {
+        "kind": "level",
+        "level": "heroes2_2b"
+      }
+    ],
+    "heroes2_warrior_goblins_2": [
+      {
+        "kind": "level",
+        "level": "heroes2_2"
+      }
+    ],
+    "heroes2_warrior_goblins_2_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_2"
+      }
+    ],
+    "heroes2_warrior_goblins_2_mid": [
+      {
+        "kind": "level",
+        "level": "heroes2_2"
+      }
+    ],
+    "heroes2_warrior_goblins_2_mid_2": [
+      {
+        "kind": "level",
+        "level": "heroes2_2"
+      }
+    ],
+    "heroes2_warrior_goblins_vs_dragon": [
+      {
+        "kind": "level",
+        "level": "heroes2_11_v2"
+      }
+    ],
+    "heroes2_warrior_goblins_vs_dragon_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_11_v2"
+      }
+    ],
+    "heroes2_warrior_monster_gate_2_optional_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_10a"
+      }
+    ],
+    "heroes2_warrior_monster_gate_first": [
+      {
+        "kind": "level",
+        "level": "heroes2_10a_intro"
+      }
+    ],
+    "heroes2_warrior_monster_gate_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_10a_intro"
+      }
+    ],
+    "heroes2_warrior_priestess_first": [
+      {
+        "kind": "level",
+        "level": "heroes2_15"
+      }
+    ],
+    "heroes2_warrior_priestess_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_15"
+      }
+    ],
+    "heroes2_warrior_priestess_second": [
+      {
+        "kind": "level",
+        "level": "heroes2_reprise"
+      }
+    ],
+    "heroes2_warrior_priestess_second_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_reprise"
+      }
+    ],
+    "heroes2_wizard_and_priestess_alone_first": [
+      {
+        "kind": "level",
+        "level": "mosh_pit_small"
+      }
+    ],
+    "heroes2_wizard_and_priestess_alone_second": [
+      {
+        "kind": "level",
+        "level": "heroes2_17_intro"
+      }
+    ],
+    "heroes2_wizard_and_priestess_alone_third": [
+      {
+        "kind": "level",
+        "level": "heroes2_17"
+      }
+    ],
+    "heroes2_wizard_and_priestess_alone_third_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_17"
+      }
+    ],
+    "heroes2_wizard_goblins": [
+      {
+        "kind": "level",
+        "level": "heroes2_3_v2"
+      }
+    ],
+    "heroes2_wizard_goblins_mid": [
+      {
+        "kind": "level",
+        "level": "heroes2_3_v2"
+      }
+    ],
+    "heroes2_wizard_per_turn_goblins": [
+      {
+        "kind": "level",
+        "level": "heroes2_10.5"
+      }
+    ],
+    "heroes2_wizard_per_turn_goblins_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_10.5"
+      }
+    ],
+    "heroes2_wizard_priestess_first": [
+      {
+        "kind": "level",
+        "level": "heroes2_14"
+      }
+    ],
+    "heroes2_wizard_priestess_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes2_14"
+      }
+    ],
+    "heroes2_wizard_thief_priestess_goblins": [
+      {
+        "kind": "level",
+        "level": "heroes2_20"
+      }
+    ],
+    "heroes3_bard_and_druid_first": [
+      {
+        "kind": "level",
+        "level": "heroes3_14_v3"
+      }
+    ],
+    "heroes3_bard_and_druid_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes3_14_v3"
+      }
+    ],
+    "heroes3_bard_and_druid_second": [
+      {
+        "kind": "level",
+        "level": "heroes3_16_v4_alt"
+      }
+    ],
+    "heroes3_bard_and_priestess": [
+      {
+        "kind": "level",
+        "level": "heroes3_8_v3_alt3"
+      }
+    ],
+    "heroes3_bard_and_priestess_end": [
+      {
+        "kind": "level",
+        "level": "heroes3_8_v3_alt3"
+      }
+    ],
+    "heroes3_bard_and_priestess_mid": [
+      {
+        "kind": "level",
+        "level": "heroes3_8_v3_alt3"
+      }
+    ],
+    "heroes3_bard_and_wizard": [
+      {
+        "kind": "level",
+        "level": "heroes3_7_v4"
+      }
+    ],
+    "heroes3_bard_and_wizard_2": [
+      {
+        "kind": "level",
+        "level": "heroes3_7_v4"
+      }
+    ],
+    "heroes3_bard_crystals_first": [
+      {
+        "kind": "level",
+        "level": "heroes3_3_v2"
+      }
+    ],
+    "heroes3_bard_crystals_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes3_3_v2"
+      }
+    ],
+    "heroes3_bard_crystals_first_mid": [
+      {
+        "kind": "level",
+        "level": "heroes3_3_v2"
+      }
+    ],
+    "heroes3_bard_dragon_maze": [
+      {
+        "kind": "level",
+        "level": "heroes3_8_v4_alt"
+      }
+    ],
+    "heroes3_bard_first": [
+      {
+        "kind": "level",
+        "level": "heroes3_1_v3"
+      }
+    ],
+    "heroes3_bard_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes3_1_v3"
+      }
+    ],
+    "heroes3_bard_second": [
+      {
+        "kind": "level",
+        "level": "heroes3_2_v4"
+      }
+    ],
+    "heroes3_bard_second_end": [
+      {
+        "kind": "level",
+        "level": "heroes3_2_v4"
+      }
+    ],
+    "heroes3_bard_thief_first": [
+      {
+        "kind": "level",
+        "level": "heroes3_8_thief"
+      }
+    ],
+    "heroes3_bard_thief_mid": [
+      {
+        "kind": "level",
+        "level": "heroes3_8_thief"
+      }
+    ],
+    "heroes3_bard_two_goblins": [
+      {
+        "kind": "level",
+        "level": "heroes3_4"
+      }
+    ],
+    "heroes3_bard_warrior_first": [
+      {
+        "kind": "level",
+        "level": "heroes3_5"
+      }
+    ],
+    "heroes3_bard_warrior_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes3_5"
+      }
+    ],
+    "heroes3_bard_warrior_thief": [
+      {
+        "kind": "level",
+        "level": "heroes3_6_v3"
+      }
+    ],
+    "heroes3_bard_wizard_druid_pondering": [
+      {
+        "kind": "level",
+        "level": "gatekeeping_v3"
+      }
+    ],
+    "heroes3_druid_and_priestess_1": [
+      {
+        "kind": "level",
+        "level": "heroes3_13_v2"
+      }
+    ],
+    "heroes3_druid_and_priestess_2": [
+      {
+        "kind": "level",
+        "level": "heroes3_druid_b_v2"
+      }
+    ],
+    "heroes3_druid_thief_crystal": [
+      {
+        "kind": "level",
+        "level": "heroes3_10"
+      }
+    ],
+    "heroes3_druid_thief_first": [
+      {
+        "kind": "level",
+        "level": "heroes3_10"
+      }
+    ],
+    "heroes3_druid_thief_first_end": [
+      {
+        "kind": "level",
+        "level": "heroes3_10"
+      }
+    ],
+    "heroes3_four_with_button_quad": [
+      {
+        "kind": "level",
+        "level": "compactor_v2"
+      }
+    ],
+    "heroes3_four_with_dragon": [
+      {
+        "kind": "level",
+        "level": "heroes3_druid_a"
+      }
+    ],
+    "heroes3_six": [
+      {
+        "kind": "level",
+        "level": "heroes3_21_condensed"
+      }
+    ],
+    "heroes3_victory_lap": [
+      {
+        "kind": "level",
+        "level": "victory_lap"
+      }
+    ],
+    "heroes3_victory_lap_end": [
+      {
+        "kind": "level",
+        "level": "victory_lap"
+      }
+    ],
+    "heroes3_warrior_and_druid_1": [
+      {
+        "kind": "level",
+        "level": "heroes3_11_v2"
+      }
+    ],
+    "heroes3_warrior_and_druid_2": [
+      {
+        "kind": "level",
+        "level": "druid_and_dragon"
+      }
+    ],
+    "heroes3_warrior_and_druid_2_end": [
+      {
+        "kind": "level",
+        "level": "druid_and_dragon"
+      }
+    ],
+    "heroes3_wizard_and_druid_1": [
+      {
+        "kind": "level",
+        "level": "wizard_and_druid_alt_5"
+      }
+    ],
+    "heroes3_wizard_and_druid_2": [
+      {
+        "kind": "level",
+        "level": "heroes3_15_v4"
+      }
+    ],
+    "heroes3_wizard_and_druid_optional": [
+      {
+        "kind": "level",
+        "level": "wizard_and_druid_alt"
+      }
+    ],
+    "heroes_jail": [
+      {
+        "kind": "level",
+        "level": "heroes1_19_jail"
+      }
+    ],
+    "heroes_jail2": [
+      {
+        "kind": "level",
+        "level": "heroes1_21_v3"
+      }
+    ],
+    "heroes_jail2_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_21_v3"
+      }
+    ],
+    "heroes_jail2_mid": [
+      {
+        "kind": "level",
+        "level": "heroes1_21_v3"
+      }
+    ],
+    "heroes_jail2_mid2": [
+      {
+        "kind": "level",
+        "level": "heroes1_21_v3"
+      }
+    ],
+    "heroes_mouse": [
+      {
+        "kind": "level",
+        "level": "heroes1_1"
+      }
+    ],
+    "heroes_three_for_the_first_time_mandatory": [
+      {
+        "kind": "level",
+        "level": "heroes1_17"
+      }
+    ],
+    "heroes_three_for_the_first_time_mandatory_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_17"
+      }
+    ],
+    "heroes_three_for_the_first_time_optional": [
+      {
+        "kind": "level",
+        "level": "heroes1_16_v3"
+      }
+    ],
+    "heroes_three_for_the_first_time_optional_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_16_v3"
+      }
+    ],
+    "heroes_three_for_the_second_time_mandatory": [
+      {
+        "kind": "level",
+        "level": "heroes1_18"
+      }
+    ],
+    "heroes_three_for_the_second_time_mandatory_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_18"
+      }
+    ],
+    "heroes_tif_lone_crystal": [
+      {
+        "kind": "level",
+        "level": "heroes1_7_v2"
+      }
+    ],
+    "heroes_tif_return": [
+      {
+        "kind": "level",
+        "level": "heroes1_7_v2"
+      }
+    ],
+    "heroes_tif_so_much_space": [
+      {
+        "kind": "level",
+        "level": "heroes1_7_v2"
+      }
+    ],
+    "heroes_warrior_gate": [
+      {
+        "kind": "level",
+        "level": "heroes1_3"
+      }
+    ],
+    "heroes_warrior_mistrust": [
+      {
+        "kind": "level",
+        "level": "heroes1_4"
+      }
+    ],
+    "heroes_warrior_where_is_tif": [
+      {
+        "kind": "level",
+        "level": "heroes1_4"
+      }
+    ],
+    "hp_bard_market_square": [
+      {
+        "kind": "level",
+        "level": "button_playground"
+      }
+    ],
+    "hp_bard_purple": [
+      {
+        "kind": "level",
+        "level": "matching_purple"
+      }
+    ],
+    "hp_bard_purple_crystal": [
+      {
+        "kind": "level",
+        "level": "matching_purple"
+      }
+    ],
+    "hp_bard_town": [
+      {
+        "kind": "level",
+        "level": "double_tempo"
+      }
+    ],
+    "hp_bard_town_end": [
+      {
+        "kind": "level",
+        "level": "double_tempo"
+      }
+    ],
+    "hp_bard_town_mid": [
+      {
+        "kind": "level",
+        "level": "double_tempo"
+      }
+    ],
+    "hp_bard_town_mid2": [
+      {
+        "kind": "level",
+        "level": "double_tempo"
+      }
+    ],
+    "hp_crystals_not_stones": [
+      {
+        "kind": "level",
+        "level": "crystals_not_stones"
+      }
+    ],
+    "hp_endpoint_weapon": [
+      {
+        "kind": "level",
+        "level": "endpoint_weapon"
+      }
+    ],
+    "hp_endpoint_weapon_end": [
+      {
+        "kind": "level",
+        "level": "endpoint_weapon"
+      }
+    ],
+    "hp_endpoint_weapon_mid1": [
+      {
+        "kind": "level",
+        "level": "endpoint_weapon"
+      }
+    ],
+    "hp_endpoint_weapon_mid2": [
+      {
+        "kind": "level",
+        "level": "endpoint_weapon"
+      }
+    ],
+    "hp_endpoint_weapon_mid3": [
+      {
+        "kind": "level",
+        "level": "endpoint_weapon"
+      }
+    ],
+    "hp_endpoint_weapon_mid4": [
+      {
+        "kind": "level",
+        "level": "endpoint_weapon"
+      }
+    ],
+    "hp_endpoint_weapon_mid5": [
+      {
+        "kind": "level",
+        "level": "endpoint_weapon"
+      }
+    ],
+    "hp_stones_not_crystals": [
+      {
+        "kind": "level",
+        "level": "stones_not_crystals"
+      }
+    ],
+    "hp_torus": [
+      {
+        "kind": "level",
+        "level": "through_intro"
+      }
+    ],
+    "hp_torus_2": [
+      {
+        "kind": "level",
+        "level": "through_push"
+      }
+    ],
+    "hp_torus_3": [
+      {
+        "kind": "level",
+        "level": "binary_maze"
+      }
+    ],
+    "hp_wizard_torus_1": [
+      {
+        "kind": "level",
+        "level": "orange_wizard_intro"
+      }
+    ],
+    "hp_wizard_torus_2": [
+      {
+        "kind": "level",
+        "level": "learning_double"
+      }
+    ],
+    "hp_wizard_torus_3": [
+      {
+        "kind": "level",
+        "level": "magic_square"
+      }
+    ],
+    "hp_wizard_torus_4": [
+      {
+        "kind": "level",
+        "level": "magic_shield"
+      }
+    ],
+    "hp_wizard_torus_5": [
+      {
+        "kind": "level",
+        "level": "mini_green_maze"
+      }
+    ],
+    "hp_wizard_torus_6": [
+      {
+        "kind": "level",
+        "level": "see_through"
+      }
+    ],
+    "hp_wizard_torus_8": [
+      {
+        "kind": "level",
+        "level": "two_through_alt_2"
+      }
+    ],
+    "hs_island_friends_1": [
+      {
+        "kind": "level",
+        "level": "island_friends"
+      }
+    ],
+    "hs_island_friends_2": [
+      {
+        "kind": "level",
+        "level": "wizard_with_a_capital_w"
+      }
+    ],
+    "hs_island_friends_3": [
+      {
+        "kind": "level",
+        "level": "wizard_with_a_capital_w_2_v2"
+      }
+    ],
+    "hs_island_friends_3_end": [
+      {
+        "kind": "level",
+        "level": "wizard_with_a_capital_w_2_v2"
+      }
+    ],
+    "hs_sailor_druid_1": [
+      {
+        "kind": "level",
+        "level": "druids_stone_0_v2"
+      }
+    ],
+    "hs_sailor_druid_2": [
+      {
+        "kind": "level",
+        "level": "druids_stone_alt"
+      }
+    ],
+    "hs_sailor_druid_3": [
+      {
+        "kind": "level",
+        "level": "druids_stone_2_v4"
+      }
+    ],
+    "hs_sailor_druid_3_end": [
+      {
+        "kind": "level",
+        "level": "druids_stone_2_v4"
+      }
+    ],
+    "hs_sailor_thief_1": [
+      {
+        "kind": "level",
+        "level": "pull_it_v4"
+      }
+    ],
+    "hs_warrior_sailor_0": [
+      {
+        "kind": "level",
+        "level": "one_bird_two_stones"
+      }
+    ],
+    "hs_warrior_sailor_1": [
+      {
+        "kind": "level",
+        "level": "breath_skip"
+      }
+    ],
+    "hs_warrior_sailor_2": [
+      {
+        "kind": "level",
+        "level": "indirect_skip"
+      }
+    ],
+    "hs_warrior_sailor_3": [
+      {
+        "kind": "level",
+        "level": "indirect_skip_2"
+      }
+    ],
+    "hs_warrior_sailor_4": [
+      {
+        "kind": "level",
+        "level": "sprint_skip0"
+      }
+    ],
+    "hs_warrior_sailor_5": [
+      {
+        "kind": "level",
+        "level": "watergate"
+      }
+    ],
+    "hw_first": [
+      {
+        "kind": "level",
+        "level": "dipping_your_toes_in"
+      }
+    ],
+    "hw_second": [
+      {
+        "kind": "level",
+        "level": "crystal_bridges"
+      }
+    ],
+    "hw_warrior_goblins": [
+      {
+        "kind": "level",
+        "level": "drowner"
+      }
+    ],
+    "hw_warrior_going": [
+      {
+        "kind": "level",
+        "level": "dont_push_the_button"
+      }
+    ],
+    "hw_warrior_surrounded": [
+      {
+        "kind": "level",
+        "level": "surrounded"
+      }
+    ],
+    "hw_warrior_thief": [
+      {
+        "kind": "level",
+        "level": "push_and_pull_zach"
+      }
+    ],
+    "hw_warrior_thief_dragons": [
+      {
+        "kind": "level",
+        "level": "detonator"
+      }
+    ],
+    "hw_warrior_thief_end": [
+      {
+        "kind": "level",
+        "level": "push_and_pull_zach"
+      }
+    ],
+    "like_an_isle": [
+      {
+        "kind": "level",
+        "level": "trader_descend"
+      }
+    ],
+    "like_an_isle_2": [
+      {
+        "kind": "level",
+        "level": "cliff_hopping"
+      }
+    ],
+    "magnitudes_intro": [
+      {
+        "kind": "level",
+        "level": "magnitudes_v3"
+      }
+    ],
+    "mirror_2": [
+      {
+        "kind": "level",
+        "level": "mirror_2"
+      }
+    ],
+    "mirror_deal_1": [
+      {
+        "kind": "level",
+        "level": "mirror_21"
+      }
+    ],
+    "mirror_deal_1_end": [
+      {
+        "kind": "level",
+        "level": "mirror_21"
+      }
+    ],
+    "mirror_deal_2": [
+      {
+        "kind": "level",
+        "level": "mirror_22_v2"
+      }
+    ],
+    "mirror_deal_2_end": [
+      {
+        "kind": "level",
+        "level": "mirror_22_v2"
+      }
+    ],
+    "mirror_new_1_start": [
+      {
+        "kind": "level",
+        "level": "mirror_1"
+      }
+    ],
+    "mirror_oracle_1": [
+      {
+        "kind": "level",
+        "level": "mirror_4"
+      }
+    ],
+    "mirror_oracle_2": [
+      {
+        "kind": "level",
+        "level": "mirror_5"
+      }
+    ],
+    "mirror_oracle_3": [
+      {
+        "kind": "level",
+        "level": "mirror_6_alt"
+      }
+    ],
+    "mirror_oracle_4": [
+      {
+        "kind": "level",
+        "level": "mirror_7"
+      }
+    ],
+    "mirror_oracle_4b": [
+      {
+        "kind": "level",
+        "level": "mirror_7"
+      }
+    ],
+    "mirror_pals": [
+      {
+        "kind": "level",
+        "level": "mirror_pals"
+      }
+    ],
+    "mirror_pre_clones": [
+      {
+        "kind": "level",
+        "level": "mirror_8_v5"
+      }
+    ],
+    "mirror_pre_clones_end": [
+      {
+        "kind": "level",
+        "level": "mirror_8_v5"
+      }
+    ],
+    "mirror_stranger_1": [
+      {
+        "kind": "level",
+        "level": "mirror_15"
+      }
+    ],
+    "mirror_stranger_2": [
+      {
+        "kind": "level",
+        "level": "mirror_19"
+      }
+    ],
+    "mirror_stranger_3": [
+      {
+        "kind": "level",
+        "level": "mirror_17"
+      }
+    ],
+    "mirror_stranger_4": [
+      {
+        "kind": "level",
+        "level": "mirror_sink"
+      }
+    ],
+    "mirror_stranger_6": [
+      {
+        "kind": "level",
+        "level": "mirror_18"
+      }
+    ],
+    "mirror_stranger_before_hm_1": [
+      {
+        "kind": "level",
+        "level": "mundane_mirror"
+      }
+    ],
+    "mirror_stranger_before_hm_3": [
+      {
+        "kind": "level",
+        "level": "mirror_10_d"
+      }
+    ],
+    "mirror_stranger_double_mirrors": [
+      {
+        "kind": "level",
+        "level": "mirror_10_alt2"
+      }
+    ],
+    "mirror_transport_4": [
+      {
+        "kind": "level",
+        "level": "sidestone_zach_4"
+      }
+    ],
+    "mirror_watcher_first": [
+      {
+        "kind": "level",
+        "level": "end2_mirror_3"
+      },
+      {
+        "kind": "level",
+        "level": "mirror_3"
+      }
+    ],
+    "mm_course": [
+      {
+        "kind": "level",
+        "level": "metamirror_same_dir_2_alt_2"
+      }
+    ],
+    "mm_how": [
+      {
+        "kind": "level",
+        "level": "metamirror_same_dir_5_alt"
+      }
+    ],
+    "mm_merit": [
+      {
+        "kind": "level",
+        "level": "metamirror_same_dir_3_alt_2"
+      }
+    ],
+    "mm_why": [
+      {
+        "kind": "level",
+        "level": "metamirror_same_dir_v2"
+      }
+    ],
+    "moment_alone_2": [
+      {
+        "kind": "level",
+        "level": "long_platform_v2"
+      }
+    ],
+    "moment_alone_2_end": [
+      {
+        "kind": "level",
+        "level": "long_platform_v2"
+      }
+    ],
+    "ms_alone": [
+      {
+        "kind": "level",
+        "level": "airmail"
+      }
+    ],
+    "ms_alone_2": [
+      {
+        "kind": "level",
+        "level": "thats_my_ride"
+      }
+    ],
+    "ms_alone_2_end": [
+      {
+        "kind": "level",
+        "level": "thats_my_ride"
+      }
+    ],
+    "ms_alone_3": [
+      {
+        "kind": "level",
+        "level": "place_to_stand"
+      }
+    ],
+    "obf_many_drop": [
+      {
+        "kind": "level",
+        "level": "dragons_layer"
+      }
+    ],
+    "obf_many_drop_2": [
+      {
+        "kind": "level",
+        "level": "the_sky_is_falling_v2"
+      }
+    ],
+    "obf_many_drop_mid": [
+      {
+        "kind": "level",
+        "level": "dragons_layer"
+      }
+    ],
+    "obf_monster_drop": [
+      {
+        "kind": "level",
+        "level": "monster_drop"
+      }
+    ],
+    "pals_asking_about_interdicts_1": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_asking_about_interdicts_2": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_borrie": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_deadwaters": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_farguild": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_get_going": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_good_luck": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_interdict_1": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_interdict_2": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_job_1": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_job_2": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_job_3": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_job_4": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_meeting_vedessud": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_rearrival_on_starting_island": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_sailors_not_swapped": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_sailors_swapped": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_start": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_talk_to_vedessud_sailor": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_talk_to_vedessud_surveyor": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_two": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_where_from_1": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_where_from_2": [
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pre_coda_scene_assembled": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115601708,
+        "coordinates": [
+          74.0,
+          71.0,
+          33.0
+        ]
+      }
+    ],
+    "promesst1_all_gems": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_cart": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_destroy_rover": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_egg": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_end": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_exiting_egg_room": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_further_down": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gems_amount1": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gems_amount2": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gems_amount3": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gems_amount4": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gems_amount5": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gems_amount6": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gems_amount7": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gemsuit_cannot_turn_1": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gemsuit_cannot_turn_2": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gemsuit_cannot_turn_3": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gemsuit_cannot_turn_4": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_gemsuit_cannot_turn_5": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_lovely": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_place_them": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_red_beam_lower": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_start": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_strong": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_unlock": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_wand_get": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_wand_strong": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst1_wrap": [
+      {
+        "kind": "level",
+        "level": "promesst1_streamlined"
+      }
+    ],
+    "promesst2_baby_dragon_end": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_dragon_very_hungry": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_eaten_amount_1": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_eaten_amount_2": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_eaten_amount_3": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_eaten_amount_4": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_eaten_amount_5": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_impatient_a": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_impatient_b": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_impatient_c": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_impatient_d": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_will_eat_a": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_will_eat_b": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_will_eat_c": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_baby_will_eat_d": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_buildings": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_enjoying_torc": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_feed_gems": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_gold_room": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_keep_some_a": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_keep_some_b": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_keep_some_c": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_keep_some_d": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_start": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst2_torc_get": [
+      {
+        "kind": "level",
+        "level": "promesst2_streamlined"
+      }
+    ],
+    "promesst3_end": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_1": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_2": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_3": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_4": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_5": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_6": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_7": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gems_amount_8": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_gold_room": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_prism_get": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_second_room": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_start": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_took_time_a": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "promesst3_took_time_b": [
+      {
+        "kind": "level",
+        "level": "promesst3_streamlined"
+      }
+    ],
+    "psalm_139": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 150996838,
+        "coordinates": [
+          81.0,
+          69.0,
+          -21.0
+        ]
+      }
+    ],
+    "psalm_139_part_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 62969982,
+        "coordinates": [
+          -10.0,
+          147.0,
+          -21.0
+        ]
+      }
+    ],
+    "queen_og_ask": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 59773192,
+        "coordinates": [
+          80.0,
+          71.0,
+          0.0
+        ]
+      }
+    ],
+    "queen_og_first_green_beam": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036987,
+        "coordinates": [
+          25.174362182617188,
+          107.5031509399414,
+          0.027601242065429688
+        ]
+      }
+    ],
+    "queen_og_first_lily": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036989,
+        "coordinates": [
+          78.98677062988281,
+          38.69783401489258,
+          -9.5367431640625e-05
+        ]
+      }
+    ],
+    "queen_og_first_orange_beam": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036988,
+        "coordinates": [
+          11.447787284851074,
+          104.54940795898438,
+          0.027601242065429688
+        ]
+      }
+    ],
+    "queen_og_gold_room_first": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036991,
+        "coordinates": [
+          96.05159759521484,
+          92.99176025390625,
+          0.08127403259277344
+        ]
+      }
+    ],
+    "queen_og_heroes2": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036984,
+        "coordinates": [
+          78.52819061279297,
+          105.52556610107422,
+          0.8877067565917969
+        ]
+      }
+    ],
+    "queen_og_heroes_entry": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036983,
+        "coordinates": [
+          80.05123901367188,
+          79.20914459228516,
+          0.8877067565917969
+        ]
+      }
+    ],
+    "queen_og_wardrobe": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 63036986,
+        "coordinates": [
+          77.94989013671875,
+          95.77153015136719,
+          0.5642719268798828
+        ]
+      }
+    ],
+    "queen_og_wardrobe_2": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115527844,
+        "coordinates": [
+          78.50141143798828,
+          99.94235229492188,
+          0.5642719268798828
+        ]
+      }
+    ],
+    "river_dictionary": [
+      {
+        "kind": "level",
+        "level": "river_dictionary_alt_up"
+      }
+    ],
+    "rotator": [
+      {
+        "kind": "level",
+        "level": "rotator"
+      }
+    ],
+    "skipping_near_beams": [
+      {
+        "kind": "level",
+        "level": "skipping_near_beams_v2"
+      },
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_approaching_impeller": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_done_treasures_0": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_done_treasures_1": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_done_treasures_2_to_4": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_done_treasures_5": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_done_treasures_all": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_gold_room_impending": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_island_west_no_treasures": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_island_west_yes_treasures": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_return_no_impeller": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_return_no_impeller_repeat": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_return_treasures_0": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_return_treasures_1": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_return_treasures_2_to_4": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_return_treasures_5": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_return_treasures_all": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_shrine": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_start": [
+      {
+        "kind": "level",
+        "level": "skipping_near_beams_v2"
+      },
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_start_repeat": [
+      {
+        "kind": "level",
+        "level": "skipping_near_beams_v2"
+      },
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_treasures_1": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_treasures_2": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_treasures_3": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_treasures_4": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_treasures_5": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_treasures_6": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "skipping_stones_whirlpool": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "sokoban_overworld": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 106978596,
+        "coordinates": [
+          81.0,
+          71.0,
+          0.0
+        ]
+      }
+    ],
+    "sp_architecture": [
+      {
+        "kind": "level",
+        "level": "purple_beam_intro_v2_alt"
+      }
+    ],
+    "sp_bard_takes_wand": [
+      {
+        "kind": "level",
+        "level": "bug_spray"
+      }
+    ],
+    "sp_double_agent": [
+      {
+        "kind": "level",
+        "level": "submarine_far_away"
+      }
+    ],
+    "sp_druid_takes_wand": [
+      {
+        "kind": "level",
+        "level": "plus_signs_v3"
+      }
+    ],
+    "sp_friendly_nudges": [
+      {
+        "kind": "level",
+        "level": "friendly_nudges"
+      }
+    ],
+    "sp_gem_transport": [
+      {
+        "kind": "level",
+        "level": "gem_transport"
+      }
+    ],
+    "sp_gem_transport_2": [
+      {
+        "kind": "level",
+        "level": "gem_transport_2"
+      }
+    ],
+    "sp_gem_transport_2_end": [
+      {
+        "kind": "level",
+        "level": "gem_transport_2"
+      }
+    ],
+    "sp_gem_transport_end": [
+      {
+        "kind": "level",
+        "level": "gem_transport"
+      }
+    ],
+    "sp_rover_mission": [
+      {
+        "kind": "level",
+        "level": "rover_impulse_v2"
+      }
+    ],
+    "sp_rover_mission_end": [
+      {
+        "kind": "level",
+        "level": "rover_impulse_v2"
+      }
+    ],
+    "sp_thief_open_beam": [
+      {
+        "kind": "level",
+        "level": "red_handed"
+      }
+    ],
+    "sp_thief_takes_wand": [
+      {
+        "kind": "level",
+        "level": "plus_signs_v3"
+      },
+      {
+        "kind": "level",
+        "level": "thief_wand"
+      }
+    ],
+    "sp_warrior_green_beam_end": [
+      {
+        "kind": "level",
+        "level": "through_push"
+      }
+    ],
+    "sp_warrior_takes_wand": [
+      {
+        "kind": "level",
+        "level": "flame_wand"
+      }
+    ],
+    "sp_wrapping_level_intro": [
+      {
+        "kind": "level",
+        "level": "skipping_wrapping_v3"
+      }
+    ],
+    "sp_wrapping_level_intro_end": [
+      {
+        "kind": "level",
+        "level": "skipping_wrapping_v3"
+      }
+    ],
+    "sp_wrapping_level_intro_mid": [
+      {
+        "kind": "level",
+        "level": "skipping_wrapping_v3"
+      }
+    ],
+    "spin_doctors": [
+      {
+        "kind": "level",
+        "level": "spin_doctors_v3"
+      }
+    ],
+    "spin_doctors_end": [
+      {
+        "kind": "level",
+        "level": "spin_doctors_v3"
+      }
+    ],
+    "spin_heroes": [
+      {
+        "kind": "level",
+        "level": "spin_heroes"
+      }
+    ],
+    "spray_and_pray": [
+      {
+        "kind": "level",
+        "level": "spray_and_pray"
+      }
+    ],
+    "ssnew_built_in_1": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_built_in_2": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_built_in_3": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_good_place": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_good_place_2": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_heading_west": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_interdict_destroyed_treasures_0": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_interdict_destroyed_treasures_n": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_interdiction_first": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_interdictions_secret": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_interdictions_secret_2": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_no_traps": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_please_disable_interdict": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_pre_map": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_tacking": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_traps": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_weather": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "ssnew_what_do_i_do": [
+      {
+        "kind": "level",
+        "level": "skipping_stones"
+      }
+    ],
+    "thief_first": [
+      {
+        "kind": "level",
+        "level": "heroes1_4.5"
+      }
+    ],
+    "thief_promesst_crystals": [
+      {
+        "kind": "level",
+        "level": "connect_the_dots_v5"
+      }
+    ],
+    "vm_thief_priestess_1": [
+      {
+        "kind": "level",
+        "level": "bridgey"
+      }
+    ],
+    "vm_thief_priestess_2": [
+      {
+        "kind": "level",
+        "level": "bridgey2"
+      }
+    ],
+    "vm_thief_priestess_2_mid": [
+      {
+        "kind": "level",
+        "level": "bridgey2"
+      }
+    ],
+    "vm_thief_priestess_3": [
+      {
+        "kind": "level",
+        "level": "bridgey2b"
+      }
+    ],
+    "vm_thief_priestess_3_mid": [
+      {
+        "kind": "level",
+        "level": "bridgey2b"
+      }
+    ],
+    "vm_thief_priestess_4": [
+      {
+        "kind": "level",
+        "level": "bridgey3_abstract_art"
+      }
+    ],
+    "vm_thief_priestess_4_mid": [
+      {
+        "kind": "level",
+        "level": "bridgey3_abstract_art"
+      }
+    ],
+    "vm_thief_priestess_5": [
+      {
+        "kind": "level",
+        "level": "all_out_goblin_war"
+      }
+    ],
+    "vm_thief_priestess_6": [
+      {
+        "kind": "level",
+        "level": "escape_bridge"
+      }
+    ],
+    "vm_thief_priestess_7": [
+      {
+        "kind": "level",
+        "level": "tandem"
+      }
+    ],
+    "vm_warrior_mirror_guy_1": [
+      {
+        "kind": "level",
+        "level": "quick_redirect_v5"
+      }
+    ],
+    "vm_warrior_mirror_guy_2": [
+      {
+        "kind": "level",
+        "level": "to_kill_a_goblin"
+      }
+    ],
+    "warrior_heroes1_call": [
+      {
+        "kind": "level",
+        "level": "end2_heroes_1_2"
+      },
+      {
+        "kind": "level",
+        "level": "heroes1_2_v2"
+      }
+    ],
+    "warrior_heroes1_start_end": [
+      {
+        "kind": "level",
+        "level": "heroes1_1"
+      }
+    ],
+    "warrior_lonely": [
+      {
+        "kind": "level",
+        "level": "turn_control_v2"
+      }
+    ],
+    "warrior_lonely_end": [
+      {
+        "kind": "level",
+        "level": "turn_control_v2"
+      }
+    ],
+    "worlds_collide_HM_start": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_mirrors_v3"
+      }
+    ],
+    "worlds_collide_HP_end": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v4"
+      }
+    ],
+    "worlds_collide_HP_monster_gates_open": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v4"
+      }
+    ],
+    "worlds_collide_HP_start": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v4"
+      }
+    ],
+    "worlds_collide_HS_end_of_level": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_stones"
+      }
+    ],
+    "worlds_collide_HS_gates_opened_proximity": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_stones"
+      }
+    ],
+    "worlds_collide_HS_on_switch_to_thief": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_stones"
+      }
+    ],
+    "worlds_collide_HS_start": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_stones"
+      }
+    ],
+    "worlds_collide_MP_start": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_alt"
+      }
+    ],
+    "worlds_collide_MS_first_teleport": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_mirrors_and_stones_v2"
+      }
+    ],
+    "worlds_collide_MS_start": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_mirrors_and_stones_v2"
+      }
+    ],
+    "worlds_collide_SP_start": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_ps"
+      }
+    ]
+  },
+  "englishWavsWithoutSubtitleClip": [
+    "audiolog_sky_play_of_form_3_1a__acting"
+  ]
+}

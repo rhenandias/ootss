@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "binary_maze",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_torus_3",
+      "clips": [
+        {
+          "id": "hp_torus_3_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.379437,
+          "src": "audio/clips/hp_torus_3_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "This doesn't look like a doughnut at all. May be Valens is having more luck."
+            ],
+            "pt-br": [
+              "Isso não parece nem um pouco uma rosquinha. Talvez Valens esteja com mais sorte."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_3_1__thief.wav",
+            "subtitleCueLines": [
+              7980
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This doesn't look like a doughnut at all. May be Valens is having more luck."
+        ],
+        "pt-br": [
+          "Isso não parece nem um pouco uma rosquinha. Talvez Valens esteja com mais sorte."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048664,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_torus_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/binary_maze.entities"
+          }
+        ],
+        "subtitleLine": 7979,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

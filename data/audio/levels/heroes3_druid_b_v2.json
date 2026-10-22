@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_druid_b_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_druid_and_priestess_2",
+      "clips": [
+        {
+          "id": "heroes3_druid_and_priestess_2_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.396333,
+          "src": "audio/clips/heroes3_druid_and_priestess_2_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "She's been with us a while. We wouldn't have gotten this far without her."
+            ],
+            "pt-br": [
+              "Ela está conosco há um tempo. Não teríamos chegado até aqui sem ela."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_druid_and_priestess_2_1__warrior.wav",
+            "subtitleCueLines": [
+              2192
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_druid_and_priestess_2_2__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.213854,
+          "src": "audio/clips/heroes3_druid_and_priestess_2_2__druid.mp3",
+          "transcripts": {
+            "en": [
+              "I don't doubt your word."
+            ],
+            "pt-br": [
+              "Não duvido da sua palavra."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_druid_and_priestess_2_2__druid.wav",
+            "subtitleCueLines": [
+              2197
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "She's been with us a while. We wouldn't have gotten this far without her.",
+          "I don't doubt your word."
+        ],
+        "pt-br": [
+          "Ela está conosco há um tempo. Não teríamos chegado até aqui sem ela.",
+          "Não duvido da sua palavra."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 90177539,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_druid_and_priestess_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_druid_b_v2.entities"
+          }
+        ],
+        "subtitleLine": 2191,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

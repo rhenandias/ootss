@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_16_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes_three_for_the_first_time_optional",
+      "clips": [
+        {
+          "id": "heroes_three_for_the_first_time_optional_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.761167,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Tif. Open the bag. What did you do?"
+            ],
+            "pt-br": [
+              "Tif. Abra a bolsa. O que você fez?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_1__warrior.wav",
+            "subtitleCueLines": [
+              427
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_optional_2__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.533563,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_2__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Well, you see, the Magistrate has been up to something."
+            ],
+            "pt-br": [
+              "Então, veja bem, o Magistrado tá aprontando alguma."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_2__thief.wav",
+            "subtitleCueLines": [
+              431
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_optional_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.231667,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Yeah, locking us up in his dungeon!"
+            ],
+            "pt-br": [
+              "É! Prendeu a gente na masmorra dele!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_3__warrior.wav",
+            "subtitleCueLines": [
+              435
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_optional_4__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 2.051271,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_4__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "That could have been a misunderstanding."
+            ],
+            "pt-br": [
+              "Pode ter sido um mal-entendido."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_4__wizard.wav",
+            "subtitleCueLines": [
+              438
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_optional_5__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 0.738,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_5__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Hardly!"
+            ],
+            "pt-br": [
+              "Duvido muito!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_5__warrior.wav",
+            "subtitleCueLines": [
+              441
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_optional_6__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 3.143,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_6__thief.mp3",
+          "transcripts": {
+            "en": [
+              "It's ... somewhat disturbing."
+            ],
+            "pt-br": [
+              "É... um tanto perturbador."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_6__thief.wav",
+            "subtitleCueLines": [
+              444
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Tif. Open the bag. What did you do?",
+          "Well, you see, the Magistrate has been up to something.",
+          "Yeah, locking us up in his dungeon!",
+          "That could have been a misunderstanding.",
+          "Hardly!",
+          "It's ... somewhat disturbing."
+        ],
+        "pt-br": [
+          "Tif. Abra a bolsa. O que você fez?",
+          "Então, veja bem, o Magistrado tá aprontando alguma.",
+          "É! Prendeu a gente na masmorra dele!",
+          "Pode ter sido um mal-entendido.",
+          "Duvido muito!",
+          "É... um tanto perturbador."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137434,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes_three_for_the_first_time_optional",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_16_v3.entities"
+          }
+        ],
+        "subtitleLine": 426,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes_three_for_the_first_time_optional_end",
+      "clips": [
+        {
+          "id": "heroes_three_for_the_first_time_optional_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 2.564479,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "So, Tif ... you *did* do something."
+            ],
+            "pt-br": [
+              "Então, Tif... você fez alguma coisa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_end_1__warrior.wav",
+            "subtitleCueLines": [
+              452
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_optional_end_2__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 3.694521,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_end_2__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "He locked us up ... because of you?"
+            ],
+            "pt-br": [
+              "Ele trancou a gente... por sua causa?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_end_2__wizard.wav",
+            "subtitleCueLines": [
+              455
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes_three_for_the_first_time_optional_end_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.47875,
+          "src": "audio/clips/heroes_three_for_the_first_time_optional_end_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "It's a bit like that."
+            ],
+            "pt-br": [
+              "É mais ou menos isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes_three_for_the_first_time_optional_end_3__thief.wav",
+            "subtitleCueLines": [
+              460
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, Tif ... you *did* do something.",
+          "He locked us up ... because of you?",
+          "It's a bit like that."
+        ],
+        "pt-br": [
+          "Então, Tif... você fez alguma coisa.",
+          "Ele trancou a gente... por sua causa?",
+          "É mais ou menos isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137434,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes_three_for_the_first_time_optional_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_16_v3.entities"
+          }
+        ],
+        "subtitleLine": 451,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

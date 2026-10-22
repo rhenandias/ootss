@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "level": "breath_skip",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_warrior_sailor_1",
+      "clips": [
+        {
+          "id": "hs_warrior_sailor_1_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.756333,
+          "src": "audio/clips/hs_warrior_sailor_1_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "So, your best friend is a 'boat'."
+            ],
+            "pt-br": [
+              "Então, seu melhor amigo é um “barco”."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_1_1__warrior.wav",
+            "subtitleCueLines": [
+              8207
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_1_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 5.950333,
+          "src": "audio/clips/hs_warrior_sailor_1_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Really, 'boat' is a casual term. He's a ship capable of crossing great oceans!"
+            ],
+            "pt-br": [
+              "Na verdade, \"barco\" é um termo informal. Ele é um navio capaz de cruzar grandes oceanos!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_1_2__sailor.wav",
+            "subtitleCueLines": [
+              8210
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_1_3__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.692833,
+          "src": "audio/clips/hs_warrior_sailor_1_3__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "But person-sized."
+            ],
+            "pt-br": [
+              "Mas do tamanho de uma pessoa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_1_3__warrior.wav",
+            "subtitleCueLines": [
+              8214
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_warrior_sailor_1_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 13.410333,
+          "src": "audio/clips/hs_warrior_sailor_1_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Well. Sized for me. And the all-important cargo. And, when needed, an extra few passengers for a day or two.",
+              "Certainly you'd never try to fit more people than that.",
+              "Except that one time..."
+            ],
+            "pt-br": [
+              "Bem, do meu tamanho. E a carga tão importante. E, quando necessário, mais alguns passageiros por um ou dois dias.",
+              "Com certeza você nunca tentaria colocar mais gente do que isso.",
+              "Tirando aquela vez..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_1_4__sailor.wav",
+            "subtitleCueLines": [
+              8217,
+              8222,
+              8226
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, your best friend is a 'boat'.",
+          "Really, 'boat' is a casual term. He's a ship capable of crossing great oceans!",
+          "But person-sized.",
+          "Well. Sized for me. And the all-important cargo. And, when needed, an extra few passengers for a day or two.",
+          "Certainly you'd never try to fit more people than that.",
+          "Except that one time..."
+        ],
+        "pt-br": [
+          "Então, seu melhor amigo é um “barco”.",
+          "Na verdade, \"barco\" é um termo informal. Ele é um navio capaz de cruzar grandes oceanos!",
+          "Mas do tamanho de uma pessoa.",
+          "Bem, do meu tamanho. E a carga tão importante. E, quando necessário, mais alguns passageiros por um ou dois dias.",
+          "Com certeza você nunca tentaria colocar mais gente do que isso.",
+          "Tirando aquela vez..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 29360264,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_warrior_sailor_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              19.0,
+              20.0,
+              0.0
+            ],
+            "source": "data-common/breath_skip.entities"
+          }
+        ],
+        "subtitleLine": 8206,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

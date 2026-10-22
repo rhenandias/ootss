@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_18",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_stranger_6",
+      "clips": [
+        {
+          "id": "mirror_stranger_6_1__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 23.908,
+          "src": "audio/clips/mirror_stranger_6_1__trader.mp3",
+          "transcripts": {
+            "en": [
+              "The stranger said that he possessed judgement refined at a level far exceeding the typical man.",
+              "He said that this refined judgement permitted him to plainly see that I was wounded in my spirit;",
+              "That some broken shard of me lay glinting in the sand of the Mirror Isles,",
+              "and that I would never be whole til I went back to reclaim it."
+            ],
+            "pt-br": [
+              "O estranho disse que possuía um julgamento refinado a um nível muito além do de um mortal comum.",
+              "Ele disse que esse discernimento refinado lhe permitia ver claramente que eu tinha uma ferida no espírito;",
+              "Que um fragmento partido de mim jazia reluzente na areia das Ilhas de Espelhos,",
+              "e que eu nunca seria inteiro até voltar para recuperá-lo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_stranger_6_1__trader.wav",
+            "subtitleCueLines": [
+              6422,
+              6426,
+              6431,
+              6435
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The stranger said that he possessed judgement refined at a level far exceeding the typical man.",
+          "He said that this refined judgement permitted him to plainly see that I was wounded in my spirit;",
+          "That some broken shard of me lay glinting in the sand of the Mirror Isles,",
+          "and that I would never be whole til I went back to reclaim it."
+        ],
+        "pt-br": [
+          "O estranho disse que possuía um julgamento refinado a um nível muito além do de um mortal comum.",
+          "Ele disse que esse discernimento refinado lhe permitia ver claramente que eu tinha uma ferida no espírito;",
+          "Que um fragmento partido de mim jazia reluzente na areia das Ilhas de Espelhos,",
+          "e que eu nunca seria inteiro até voltar para recuperá-lo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048628,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_stranger_6",
+            "rule": "exact-reference",
+            "coordinates": [
+              4.0,
+              7.0,
+              0.0
+            ],
+            "source": "data-common/mirror_18.entities"
+          }
+        ],
+        "subtitleLine": 6421,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

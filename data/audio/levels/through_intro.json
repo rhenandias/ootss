@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "level": "through_intro",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hp_torus",
+      "clips": [
+        {
+          "id": "hp_torus_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.383333,
+          "src": "audio/clips/hp_torus_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "So, what did Izzy say he was looking for?"
+            ],
+            "pt-br": [
+              "Então, o que o Izzy disse que estava procurando?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_1__thief.wav",
+            "subtitleCueLines": [
+              7937
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_torus_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 6.709021,
+          "src": "audio/clips/hp_torus_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Can't say I understood. He said, it's a place where the air, the open space, is not that big."
+            ],
+            "pt-br": [
+              "Não posso dizer que entendi. Ele disse que é um lugar onde o ar, o espaço aberto, não é tão grande."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_2__warrior.wav",
+            "subtitleCueLines": [
+              7940
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_torus_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.458,
+          "src": "audio/clips/hp_torus_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Like a cave? Or a small room?"
+            ],
+            "pt-br": [
+              "Como uma caverna? Ou um cômodo pequeno?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_3__thief.wav",
+            "subtitleCueLines": [
+              7945
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_torus_4__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 6.9345,
+          "src": "audio/clips/hp_torus_4__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Like the whole of everything is akin to a small room. He said, it turns around to itself like a doughnut."
+            ],
+            "pt-br": [
+              "Como se todo o universo fosse um cômodo pequeno. Ele disse que se volta sobre si mesmo como uma rosquinha."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_4__warrior.wav",
+            "subtitleCueLines": [
+              7948
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_torus_5__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.433333,
+          "src": "audio/clips/hp_torus_5__thief.mp3",
+          "transcripts": {
+            "en": [
+              "I like doughnuts!"
+            ],
+            "pt-br": [
+              "Eu gosto de rosquinhas!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_5__thief.wav",
+            "subtitleCueLines": [
+              7952
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_torus_6__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.357333,
+          "src": "audio/clips/hp_torus_6__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "We all like doughnuts."
+            ],
+            "pt-br": [
+              "Todo mundo gosta de rosquinhas."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_6__warrior.wav",
+            "subtitleCueLines": [
+              7955
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hp_torus_7__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 4.702667,
+          "src": "audio/clips/hp_torus_7__thief.mp3",
+          "transcripts": {
+            "en": [
+              "And I do quite well in curvy small rooms...! Even better if I've recently had a doughnut!"
+            ],
+            "pt-br": [
+              "E eu me saio muito bem em salinhas curvas...! Melhor ainda se acabei de comer uma rosquinha!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hp_torus_7__thief.wav",
+            "subtitleCueLines": [
+              7959
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, what did Izzy say he was looking for?",
+          "Can't say I understood. He said, it's a place where the air, the open space, is not that big.",
+          "Like a cave? Or a small room?",
+          "Like the whole of everything is akin to a small room. He said, it turns around to itself like a doughnut.",
+          "I like doughnuts!",
+          "We all like doughnuts.",
+          "And I do quite well in curvy small rooms...! Even better if I've recently had a doughnut!"
+        ],
+        "pt-br": [
+          "Então, o que o Izzy disse que estava procurando?",
+          "Não posso dizer que entendi. Ele disse que é um lugar onde o ar, o espaço aberto, não é tão grande.",
+          "Como uma caverna? Ou um cômodo pequeno?",
+          "Como se todo o universo fosse um cômodo pequeno. Ele disse que se volta sobre si mesmo como uma rosquinha.",
+          "Eu gosto de rosquinhas!",
+          "Todo mundo gosta de rosquinhas.",
+          "E eu me saio muito bem em salinhas curvas...! Melhor ainda se acabei de comer uma rosquinha!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048673,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hp_torus",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              -1.0,
+              0.0
+            ],
+            "source": "data-common/through_intro.entities"
+          }
+        ],
+        "subtitleLine": 7936,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

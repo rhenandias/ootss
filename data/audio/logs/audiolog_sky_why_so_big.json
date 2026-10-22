@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_why_so_big",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_why_so_big",
+      "clips": [
+        {
+          "id": "audiolog_sky_why_so_big_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 10.696,
+          "src": "audio/clips/audiolog_sky_why_so_big_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "... and if you're trying to achieve clarity, then, why's this place so big?",
+              "To be blunt, it was a disorienting place to land. Would have preferred something smaller!"
+            ],
+            "pt-br": [
+              "... e se você busca clareza, então, por que este lugar é tão grande?",
+              "Sinceramente, foi um lugar desorientador para pousar. Teria preferido algo menor!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_why_so_big_1__sokoban.wav",
+            "subtitleCueLines": [
+              9541,
+              9546
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_why_so_big_2__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 61.404208,
+          "src": "audio/clips/audiolog_sky_why_so_big_2__acting.mp3",
+          "transcripts": {
+            "en": [
+              "For a long time, every Warehouse we built was much smaller than this.",
+              "As we refined our art, they got bigger.",
+              "Even so, some Implementors today still like to keep it simple",
+              "and build places smaller, and more focused, than they *could* do.",
+              "But I think, if we're here to study our very prolific universe,",
+              "well, if you stay in the shallows, you won't learn to swim. Not as well. Not under harrowing circumstances.",
+              "You do have water that permits you to float, yeah? That metaphor makes sense to you?",
+              "Good. It's not a given... as you've seen, two of these worlds have no water at all.",
+              "Anyway, yes, this Warehouse is bigger than most. And it was pretty hard to make.",
+              "Even so, we left some things out. It could have been bigger, \"should\" have been bigger perhaps.",
+              "But this was the very limit of what I could do after 10 years of work.",
+              "Had I known it could be my last, I might have kept pushing."
+            ],
+            "pt-br": [
+              "Por muito tempo, todo Armazém que construíamos era muito menor que este.",
+              "À medida que refinávamos nossa arte, eles ficaram maiores.",
+              "Ainda assim, alguns Executores hoje ainda gostam de manter as coisas simples",
+              "e construir lugares menores e mais focados do que poderiam.",
+              "Mas acho que, se estamos aqui para estudar nosso universo tão prolífico,",
+              "bem, se você ficar nas águas rasas, não vai aprender a nadar. Não tão bem. Não em circunstâncias tão terríveis.",
+              "Você tem água que permite que flutue, certo? Essa metáfora faz sentido para você?",
+              "Ótimo. Não é algo garantido... como você viu, dois desses mundos não têm água alguma.",
+              "Enfim, sim, este Armazém é maior que a maioria. E foi bem difícil de fazer.",
+              "Ainda assim, deixamos algumas coisas de fora. Poderia ter sido maior, “deveria” ter sido maior, talvez.",
+              "Mas esse foi o limite exato do que consegui fazer depois de 10 anos de trabalho.",
+              "Se eu soubesse que talvez fosse o último, talvez tivesse insistido mais."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_why_so_big_2__acting.wav",
+            "subtitleCueLines": [
+              9551,
+              9555,
+              9558,
+              9562,
+              9566,
+              9570,
+              9575,
+              9581,
+              9585,
+              9589,
+              9594,
+              9598
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "... and if you're trying to achieve clarity, then, why's this place so big?",
+          "To be blunt, it was a disorienting place to land. Would have preferred something smaller!",
+          "For a long time, every Warehouse we built was much smaller than this.",
+          "As we refined our art, they got bigger.",
+          "Even so, some Implementors today still like to keep it simple",
+          "and build places smaller, and more focused, than they *could* do.",
+          "But I think, if we're here to study our very prolific universe,",
+          "well, if you stay in the shallows, you won't learn to swim. Not as well. Not under harrowing circumstances.",
+          "You do have water that permits you to float, yeah? That metaphor makes sense to you?",
+          "Good. It's not a given... as you've seen, two of these worlds have no water at all.",
+          "Anyway, yes, this Warehouse is bigger than most. And it was pretty hard to make.",
+          "Even so, we left some things out. It could have been bigger, \"should\" have been bigger perhaps.",
+          "But this was the very limit of what I could do after 10 years of work.",
+          "Had I known it could be my last, I might have kept pushing."
+        ],
+        "pt-br": [
+          "... e se você busca clareza, então, por que este lugar é tão grande?",
+          "Sinceramente, foi um lugar desorientador para pousar. Teria preferido algo menor!",
+          "Por muito tempo, todo Armazém que construíamos era muito menor que este.",
+          "À medida que refinávamos nossa arte, eles ficaram maiores.",
+          "Ainda assim, alguns Executores hoje ainda gostam de manter as coisas simples",
+          "e construir lugares menores e mais focados do que poderiam.",
+          "Mas acho que, se estamos aqui para estudar nosso universo tão prolífico,",
+          "bem, se você ficar nas águas rasas, não vai aprender a nadar. Não tão bem. Não em circunstâncias tão terríveis.",
+          "Você tem água que permite que flutue, certo? Essa metáfora faz sentido para você?",
+          "Ótimo. Não é algo garantido... como você viu, dois desses mundos não têm água alguma.",
+          "Enfim, sim, este Armazém é maior que a maioria. E foi bem difícil de fazer.",
+          "Ainda assim, deixamos algumas coisas de fora. Poderia ter sido maior, “deveria” ter sido maior, talvez.",
+          "Mas esse foi o limite exato do que consegui fazer depois de 10 anos de trabalho.",
+          "Se eu soubesse que talvez fosse o último, talvez tivesse insistido mais."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

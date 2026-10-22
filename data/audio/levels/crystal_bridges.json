@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "crystal_bridges",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hw_second",
+      "clips": [
+        {
+          "id": "hw_second_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 3.519167,
+          "src": "audio/clips/hw_second_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "What would happen if I ... fall into that stuff?"
+            ],
+            "pt-br": [
+              "O que aconteceria se eu... caísse nessa coisa?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_second_1__warrior.wav",
+            "subtitleCueLines": [
+              7171
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "What would happen if I ... fall into that stuff?"
+        ],
+        "pt-br": [
+          "O que aconteceria se eu... caísse nessa coisa?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137659,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hw_second",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              21.0,
+              0.0
+            ],
+            "source": "data-common/crystal_bridges.entities"
+          }
+        ],
+        "subtitleLine": 7170,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

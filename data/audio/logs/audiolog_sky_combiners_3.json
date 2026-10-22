@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_combiners_3",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_combiners_3",
+      "clips": [
+        {
+          "id": "audiolog_sky_combiners_3_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 61.364667,
+          "src": "audio/clips/audiolog_sky_combiners_3_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "So, celebrate. A more-ambitious Warehouse, of a scale heretofore unimagined!",
+              "What form should it take? We'd been in a rut of 4-combiners for a while, so a 5-combiner was the obvious next step.",
+              "But Lemur didn't like the idea. \"Too small,\" he said, and also, \"poor symmetry!\"",
+              "See, once we had gotten to 4-combiners we liked them a lot better than 3;",
+              "the 4-way symmetry splays itself nicely across a two-dimensional map,",
+              "and besides the practicality of that, it also *celebrates* the dimensional axes in a way.",
+              "Because the mathematics of space are so fundamental to what we do, 4-way symmetry feels good.",
+              "A 5-combiner doesn't flatten out nicely into that symmetry,",
+              "but a *6-combiner* would be nice because it expands into the third dimension,",
+              "so we now position one world in the positive and negative direction along each axis.",
+              "For these reasons, we did strongly consider a 6-combiner."
+            ],
+            "pt-br": [
+              "Então, celebrem. Um Armazém mais ambicioso, de uma escala jamais imaginada!",
+              "Que forma deveria ter? Já estávamos numa mesmice de 4-Combinadores há um tempo, então um 5-Combinador era o próximo passo óbvio.",
+              "Mas Lemur não gostou da ideia. “Pequeno demais”, disse ele, e também, “simetria ruim!”",
+              "Veja, assim que chegamos aos 4-Combinadores decidimos que gostávamos muito mais deles do que dos 3;",
+              "a simetria de 4 lados se espalha bem por um mapa bidimensional,",
+              "e além da praticidade disso, ela também *celebra* os eixos dimensionais de certo modo.",
+              "Como a matemática do espaço é fundamental para o que fazemos, a simetria de 4 lados parece certa.",
+              "Um 5-Combinador não se dispõe bem num plano com essa simetria,",
+              "mas um *6-Combinador* funcionaria bem porque se expande para a terceira dimensão,",
+              "então agora posicionamos um mundo na direção positiva e negativa ao longo de cada eixo.",
+              "Por esses motivos, consideramos seriamente um 6-Combinador."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_combiners_3_1__acting.wav",
+            "subtitleCueLines": [
+              9338,
+              9342,
+              9347,
+              9351,
+              9355,
+              9359,
+              9363,
+              9368,
+              9372,
+              9376,
+              9381
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, celebrate. A more-ambitious Warehouse, of a scale heretofore unimagined!",
+          "What form should it take? We'd been in a rut of 4-combiners for a while, so a 5-combiner was the obvious next step.",
+          "But Lemur didn't like the idea. \"Too small,\" he said, and also, \"poor symmetry!\"",
+          "See, once we had gotten to 4-combiners we liked them a lot better than 3;",
+          "the 4-way symmetry splays itself nicely across a two-dimensional map,",
+          "and besides the practicality of that, it also *celebrates* the dimensional axes in a way.",
+          "Because the mathematics of space are so fundamental to what we do, 4-way symmetry feels good.",
+          "A 5-combiner doesn't flatten out nicely into that symmetry,",
+          "but a *6-combiner* would be nice because it expands into the third dimension,",
+          "so we now position one world in the positive and negative direction along each axis.",
+          "For these reasons, we did strongly consider a 6-combiner."
+        ],
+        "pt-br": [
+          "Então, celebrem. Um Armazém mais ambicioso, de uma escala jamais imaginada!",
+          "Que forma deveria ter? Já estávamos numa mesmice de 4-Combinadores há um tempo, então um 5-Combinador era o próximo passo óbvio.",
+          "Mas Lemur não gostou da ideia. “Pequeno demais”, disse ele, e também, “simetria ruim!”",
+          "Veja, assim que chegamos aos 4-Combinadores decidimos que gostávamos muito mais deles do que dos 3;",
+          "a simetria de 4 lados se espalha bem por um mapa bidimensional,",
+          "e além da praticidade disso, ela também *celebra* os eixos dimensionais de certo modo.",
+          "Como a matemática do espaço é fundamental para o que fazemos, a simetria de 4 lados parece certa.",
+          "Um 5-Combinador não se dispõe bem num plano com essa simetria,",
+          "mas um *6-Combinador* funcionaria bem porque se expande para a terceira dimensão,",
+          "então agora posicionamos um mundo na direção positiva e negativa ao longo de cada eixo.",
+          "Por esses motivos, consideramos seriamente um 6-Combinador."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

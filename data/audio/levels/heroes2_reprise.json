@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_reprise",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_warrior_priestess_second",
+      "clips": [
+        {
+          "id": "heroes2_warrior_priestess_second_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 26.053667,
+          "src": "audio/clips/heroes2_warrior_priestess_second_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "If we catch Magistrate Reynard, the King will order my Swordbinding lifted.",
+              "And that will give me freedom to set my own path,",
+              "rather than just cowering, and accepting whatever scraps are left me.",
+              "Even if I never make my living by the sword again... it's the indignity of it, you know?",
+              "The deal with the King aside, I'd capture this snakeweasel just on principle. He's left enough wreckage behind him already."
+            ],
+            "pt-br": [
+              "Se pegarmos o Magistrado Reynard, o Rei mandará desfazer meu vínculo com a espada.",
+              "E isso me dará liberdade para escolher meu próprio caminho,",
+              "em vez de só me encolher e aceitar as migalhas que me deixam.",
+              "Mesmo que eu nunca mais ganhe a vida com a espada... é pela humilhação, sabe?",
+              "Mesmo sem o acordo com o Rei, eu pegaria esse crápula por uma questão de princípio. Ele já deixou estragos demais pelo caminho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_priestess_second_1__warrior.wav",
+            "subtitleCueLines": [
+              1270,
+              1275,
+              1279,
+              1283,
+              1288
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "If we catch Magistrate Reynard, the King will order my Swordbinding lifted.",
+          "And that will give me freedom to set my own path,",
+          "rather than just cowering, and accepting whatever scraps are left me.",
+          "Even if I never make my living by the sword again... it's the indignity of it, you know?",
+          "The deal with the King aside, I'd capture this snakeweasel just on principle. He's left enough wreckage behind him already."
+        ],
+        "pt-br": [
+          "Se pegarmos o Magistrado Reynard, o Rei mandará desfazer meu vínculo com a espada.",
+          "E isso me dará liberdade para escolher meu próprio caminho,",
+          "em vez de só me encolher e aceitar as migalhas que me deixam.",
+          "Mesmo que eu nunca mais ganhe a vida com a espada... é pela humilhação, sabe?",
+          "Mesmo sem o acordo com o Rei, eu pegaria esse crápula por uma questão de princípio. Ele já deixou estragos demais pelo caminho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420430,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_warrior_priestess_second",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_reprise.entities"
+          }
+        ],
+        "subtitleLine": 1269,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_warrior_priestess_second_end",
+      "clips": [
+        {
+          "id": "heroes2_warrior_priestess_second_end_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 4.145333,
+          "src": "audio/clips/heroes2_warrior_priestess_second_end_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "My meeting spot with my friend Tif is up ahead. You'll like her."
+            ],
+            "pt-br": [
+              "Meu ponto de encontro com minha amiga Tif é ali na frente. Você vai gostar dela."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_warrior_priestess_second_end_1__warrior.wav",
+            "subtitleCueLines": [
+              1298
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "My meeting spot with my friend Tif is up ahead. You'll like her."
+        ],
+        "pt-br": [
+          "Meu ponto de encontro com minha amiga Tif é ali na frente. Você vai gostar dela."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420430,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes2_warrior_priestess_second_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_reprise.entities"
+          }
+        ],
+        "subtitleLine": 1297,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

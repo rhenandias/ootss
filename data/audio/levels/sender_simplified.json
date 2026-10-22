@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "level": "sender_simplified",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_sender_simplified",
+      "clips": [
+        {
+          "id": "audiolog_di_sender_simplified_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 75.162688,
+          "src": "audio/clips/audiolog_di_sender_simplified_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "Here's another attempt at this level. Now there's only one character, who can go up and down at will.",
+              "I didn't want to add an Elevator, so I used a second Gate for you to go up and down,",
+              "which I felt was more on-theme... you raise an object with a Gate to get it to the plateau,",
+              "and later you raise a Goblin with the other Gate to make it disappear.",
+              "Ideally I'd have wanted to figure out how to do both of these raisings with one Gate, but I never did. So there are two Gates,",
+              "with weird geometry around them, and it's now very hard to read the level --",
+              "you need to do a bunch of Sokobanning to set up the final trick of the level, but this is very hard to visualize in advance.",
+              "You might think this is some kind of ideal of tight puzzle design, using objects for several different purposes;",
+              "for example you use the Gem to push the Goblin around and also to power the socket,",
+              "but in this case it just fogs up the core idea.",
+              "Compare this to the previous version, which had a vertical Gate",
+              "with no apparent function out in the middle of the floor --",
+              "You come into the level, and, obviously you are supposed to do something with that Gate, but what?",
+              "It gave you something very clear to notice and think about. And that's missing from this version."
+            ],
+            "pt-br": [
+              "Aqui vai outra tentativa desta fase. Agora há só um personagem, que pode subir e descer à vontade.",
+              "Eu não queria adicionar um Elevador, então usei um segundo Portão para você subir e descer,",
+              "o que achei mais temático... você ergue um objeto com um Portão para levá-lo ao platô,",
+              "e depois ergue um Goblin com o outro Portão para fazê-lo desaparecer.",
+              "Idealmente, eu gostaria de ter descoberto como fazer as duas elevações com um só Portão, mas nunca consegui. Então são dois Portões,",
+              "com uma geometria estranha ao redor deles, então agora a fase ficou muito difícil de interpretar:",
+              "você precisa fazer um monte de Sokobanning para preparar a jogada final da fase, mas isso é muito difícil de visualizar com antecedência.",
+              "Você pode pensar que isso é algum tipo de ideal de design de quebra-cabeça enxuto, usando objetos para vários propósitos diferentes;",
+              "por exemplo, você usa a Gema para empurrar o Goblin para lá e para cá e para energizar o encaixe,",
+              "mas, neste caso, isso só embaralha a ideia central.",
+              "Compare com a versão anterior, que tinha um Portão vertical",
+              "sem função aparente no meio do chão...",
+              "Você entra na fase e, obviamente, supõe-se que você faça alguma coisa com aquele Portão, mas o quê?",
+              "Ela dava algo muito claro para notar e pensar a respeito. E isso falta nesta versão."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_sender_simplified_1__director.wav",
+            "subtitleCueLines": [
+              14020,
+              14025,
+              14030,
+              14034,
+              14038,
+              14043,
+              14047,
+              14052,
+              14057,
+              14062,
+              14066,
+              14070,
+              14074,
+              14080
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Here's another attempt at this level. Now there's only one character, who can go up and down at will.",
+          "I didn't want to add an Elevator, so I used a second Gate for you to go up and down,",
+          "which I felt was more on-theme... you raise an object with a Gate to get it to the plateau,",
+          "and later you raise a Goblin with the other Gate to make it disappear.",
+          "Ideally I'd have wanted to figure out how to do both of these raisings with one Gate, but I never did. So there are two Gates,",
+          "with weird geometry around them, and it's now very hard to read the level --",
+          "you need to do a bunch of Sokobanning to set up the final trick of the level, but this is very hard to visualize in advance.",
+          "You might think this is some kind of ideal of tight puzzle design, using objects for several different purposes;",
+          "for example you use the Gem to push the Goblin around and also to power the socket,",
+          "but in this case it just fogs up the core idea.",
+          "Compare this to the previous version, which had a vertical Gate",
+          "with no apparent function out in the middle of the floor --",
+          "You come into the level, and, obviously you are supposed to do something with that Gate, but what?",
+          "It gave you something very clear to notice and think about. And that's missing from this version."
+        ],
+        "pt-br": [
+          "Aqui vai outra tentativa desta fase. Agora há só um personagem, que pode subir e descer à vontade.",
+          "Eu não queria adicionar um Elevador, então usei um segundo Portão para você subir e descer,",
+          "o que achei mais temático... você ergue um objeto com um Portão para levá-lo ao platô,",
+          "e depois ergue um Goblin com o outro Portão para fazê-lo desaparecer.",
+          "Idealmente, eu gostaria de ter descoberto como fazer as duas elevações com um só Portão, mas nunca consegui. Então são dois Portões,",
+          "com uma geometria estranha ao redor deles, então agora a fase ficou muito difícil de interpretar:",
+          "você precisa fazer um monte de Sokobanning para preparar a jogada final da fase, mas isso é muito difícil de visualizar com antecedência.",
+          "Você pode pensar que isso é algum tipo de ideal de design de quebra-cabeça enxuto, usando objetos para vários propósitos diferentes;",
+          "por exemplo, você usa a Gema para empurrar o Goblin para lá e para cá e para energizar o encaixe,",
+          "mas, neste caso, isso só embaralha a ideia central.",
+          "Compare com a versão anterior, que tinha um Portão vertical",
+          "sem função aparente no meio do chão...",
+          "Você entra na fase e, obviamente, supõe-se que você faça alguma coisa com aquele Portão, mas o quê?",
+          "Ela dava algo muito claro para notar e pensar a respeito. E isso falta nesta versão."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_sender_simplified",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              9.0,
+              0.0
+            ],
+            "source": "data-common/sender_simplified.entities"
+          }
+        ],
+        "subtitleLine": 14019,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

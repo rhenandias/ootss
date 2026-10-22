@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "level": "sender",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_di_sender",
+      "clips": [
+        {
+          "id": "audiolog_di_sender_1__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 23.755875,
+          "src": "audio/clips/audiolog_di_sender_1__director.mp3",
+          "transcripts": {
+            "en": [
+              "This one is about disappearing a Monster by teleporting it to infinity, in the vertical direction.",
+              "Which is a neat idea, but requires some contrivance to set up.",
+              "This first attempt is a little hard to read initially,",
+              "and is somewhat misleading because it places the Goblin",
+              "into a suspicious position, where you can teleport it directly onto the button --",
+              "which is not part of the solution."
+            ],
+            "pt-br": [
+              "Nesta aqui, é preciso fazer um Monstro desaparecer, teletransportando-o para o infinito, na direção vertical.",
+              "O que é uma ideia legal, mas exige uma certa artificialidade para montar.",
+              "Esta primeira tentativa é um pouco difícil de ler à primeira vista,",
+              "e é meio enganosa porque coloca o Goblin",
+              "numa posição suspeita, onde você pode teletransportá-lo direto para o botão,",
+              "o que não faz parte da solução."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_di_sender_1__director.wav",
+            "subtitleCueLines": [
+              13992,
+              13997,
+              14001,
+              14005,
+              14009,
+              14013
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This one is about disappearing a Monster by teleporting it to infinity, in the vertical direction.",
+          "Which is a neat idea, but requires some contrivance to set up.",
+          "This first attempt is a little hard to read initially,",
+          "and is somewhat misleading because it places the Goblin",
+          "into a suspicious position, where you can teleport it directly onto the button --",
+          "which is not part of the solution."
+        ],
+        "pt-br": [
+          "Nesta aqui, é preciso fazer um Monstro desaparecer, teletransportando-o para o infinito, na direção vertical.",
+          "O que é uma ideia legal, mas exige uma certa artificialidade para montar.",
+          "Esta primeira tentativa é um pouco difícil de ler à primeira vista,",
+          "e é meio enganosa porque coloca o Goblin",
+          "numa posição suspeita, onde você pode teletransportá-lo direto para o botão,",
+          "o que não faz parte da solução."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914562,
+            "entityType": "Voice_Log",
+            "field": "name",
+            "value": "audiolog_di_sender",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              11.0,
+              5.0
+            ],
+            "source": "data-common/sender.entities"
+          }
+        ],
+        "subtitleLine": 13991,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

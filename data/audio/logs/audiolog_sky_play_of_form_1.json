@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_sky_play_of_form_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_sky_play_of_form_1",
+      "clips": [
+        {
+          "id": "audiolog_sky_play_of_form_1_1__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 7.904562,
+          "src": "audio/clips/audiolog_sky_play_of_form_1_1__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Our Order was founded from the meeting of two old 'spiritual' traditions, together with a newer one that's more like your own Natural Philosophy."
+            ],
+            "pt-br": [
+              "Nossa Ordem foi fundada a partir do encontro de duas antigas tradições \"espirituais\", junto com uma mais nova, que se parece mais com a sua Filosofia Natural."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1_1__acting.wav",
+            "subtitleCueLines": [
+              9803
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1_2__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 2.576875,
+          "src": "audio/clips/audiolog_sky_play_of_form_1_2__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I'll enjoy hearing about that last one."
+            ],
+            "pt-br": [
+              "Vou gostar de ouvir sobre essa última."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1_2__sokoban.wav",
+            "subtitleCueLines": [
+              9809
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_sky_play_of_form_1_3__acting",
+          "speaker": "acting",
+          "speakerName": "acting",
+          "duration": 80.613125,
+          "src": "audio/clips/audiolog_sky_play_of_form_1_3__acting.mp3",
+          "transcripts": {
+            "en": [
+              "Let's start with the woo-woo, then! These traditions go back, say, three or four thousand years;",
+              "and they each shed a different light on a similar fundamental idea:",
+              "that the Universe is engaged in a Play of Form; a constant, effortless action, performed out of the sheer fullness of being.",
+              "A child becomes an adult becomes an old man, a wild storm whips through the trees, this nation goes to war with that nation:",
+              "all aspects of this play of form, of possibilities playing out.",
+              "The important idea to take into the rest of this discussion",
+              "is that the Universe *wants* to explore different forms;",
+              "it's not a dead and lifeless progression through time, but somehow abundant and surprise-generating.",
+              "Now, we get to the part that you'll like more: the methods of the understanding of Natural Law.",
+              "When our civilizations were young, we might have thought the laws were simple:",
+              "the sun rises at regular intervals, the tides cycle, objects fall downward and break.",
+              "But as our sciences advanced, we found that we could refine our notions of these laws,",
+              "making them successively more specific and accurate: the laws of physics, chemistry, astronomy, and so on."
+            ],
+            "pt-br": [
+              "Vamos começar pelas esotéricas, então! Essas tradições remontam, digamos, a três ou quatro mil anos;",
+              "e cada uma lança uma luz diferente sobre uma ideia fundamental parecida:",
+              "que o Universo está engajado em um Jogo de Forma; uma ação constante e sem esforço, realizada pela pura plenitude do ser.",
+              "Uma criança vira adulta, vira um velho, uma tempestade violenta varre as árvores, esta nação entra em guerra com aquela:",
+              "todos os aspectos desse jogo de forma, dessas possibilidades se desdobrando.",
+              "A ideia importante para levar para o restante desta discussão",
+              "é que o Universo quer explorar formas diferentes;",
+              "não é uma progressão morta e sem vida através do tempo, mas de algum modo abundante e geradora de surpresas.",
+              "Agora, chegamos à parte de que você vai gostar mais: os métodos de compreensão da Lei Natural.",
+              "Quando nossas civilizações eram jovens, talvez pensássemos que as leis eram simples:",
+              "o sol nasce em intervalos regulares, as marés mudam, objetos caem e quebram.",
+              "Mas, à medida que as ciências do nosso mundo avançaram, descobrimos que podíamos refinar nossa ideia dessas leis,",
+              "tornando-as cada vez mais específicas e precisas: as leis da física, da química, da astronomia e assim por diante."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_sky_play_of_form_1_3__acting.wav",
+            "subtitleCueLines": [
+              9813,
+              9819,
+              9823,
+              9828,
+              9833,
+              9837,
+              9841,
+              9845,
+              9850,
+              9856,
+              9860,
+              9864,
+              9868
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Our Order was founded from the meeting of two old 'spiritual' traditions, together with a newer one that's more like your own Natural Philosophy.",
+          "I'll enjoy hearing about that last one.",
+          "Let's start with the woo-woo, then! These traditions go back, say, three or four thousand years;",
+          "and they each shed a different light on a similar fundamental idea:",
+          "that the Universe is engaged in a Play of Form; a constant, effortless action, performed out of the sheer fullness of being.",
+          "A child becomes an adult becomes an old man, a wild storm whips through the trees, this nation goes to war with that nation:",
+          "all aspects of this play of form, of possibilities playing out.",
+          "The important idea to take into the rest of this discussion",
+          "is that the Universe *wants* to explore different forms;",
+          "it's not a dead and lifeless progression through time, but somehow abundant and surprise-generating.",
+          "Now, we get to the part that you'll like more: the methods of the understanding of Natural Law.",
+          "When our civilizations were young, we might have thought the laws were simple:",
+          "the sun rises at regular intervals, the tides cycle, objects fall downward and break.",
+          "But as our sciences advanced, we found that we could refine our notions of these laws,",
+          "making them successively more specific and accurate: the laws of physics, chemistry, astronomy, and so on."
+        ],
+        "pt-br": [
+          "Nossa Ordem foi fundada a partir do encontro de duas antigas tradições \"espirituais\", junto com uma mais nova, que se parece mais com a sua Filosofia Natural.",
+          "Vou gostar de ouvir sobre essa última.",
+          "Vamos começar pelas esotéricas, então! Essas tradições remontam, digamos, a três ou quatro mil anos;",
+          "e cada uma lança uma luz diferente sobre uma ideia fundamental parecida:",
+          "que o Universo está engajado em um Jogo de Forma; uma ação constante e sem esforço, realizada pela pura plenitude do ser.",
+          "Uma criança vira adulta, vira um velho, uma tempestade violenta varre as árvores, esta nação entra em guerra com aquela:",
+          "todos os aspectos desse jogo de forma, dessas possibilidades se desdobrando.",
+          "A ideia importante para levar para o restante desta discussão",
+          "é que o Universo quer explorar formas diferentes;",
+          "não é uma progressão morta e sem vida através do tempo, mas de algum modo abundante e geradora de surpresas.",
+          "Agora, chegamos à parte de que você vai gostar mais: os métodos de compreensão da Lei Natural.",
+          "Quando nossas civilizações eram jovens, talvez pensássemos que as leis eram simples:",
+          "o sol nasce em intervalos regulares, as marés mudam, objetos caem e quebram.",
+          "Mas, à medida que as ciências do nosso mundo avançaram, descobrimos que podíamos refinar nossa ideia dessas leis,",
+          "tornando-as cada vez mais específicas e precisas: as leis da física, da química, da astronomia e assim por diante."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

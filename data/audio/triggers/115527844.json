@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "queen_og_wardrobe_2",
+    "audioKey": "115527844",
+    "triggerKind": "movement",
+    "blocks": [
+      "queen_og_wardrobe_2"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      1.6372723579406738,
+      0.6615109443664551,
+      1.5538339614868164
+    ],
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 115527844,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "queen_og_wardrobe_2",
+        "rule": "exact-reference",
+        "coordinates": [
+          78.50141143798828,
+          99.94235229492188,
+          0.5642719268798828
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "queen_og_wardrobe_2",
+      "clips": [
+        {
+          "id": "queen_og_wardrobe_2_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 8.533667,
+          "src": "audio/clips/queen_og_wardrobe_2_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "The cloth feels smooth and well-tailored. And I feel like ... a new person."
+            ],
+            "pt-br": [
+              "O tecido parece suave e bem cortado. E eu me sinto... uma pessoa nova."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "queen_og_wardrobe_2_1__queen.wav",
+            "subtitleCueLines": [
+              11947
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The cloth feels smooth and well-tailored. And I feel like ... a new person."
+        ],
+        "pt-br": [
+          "O tecido parece suave e bem cortado. E eu me sinto... uma pessoa nova."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

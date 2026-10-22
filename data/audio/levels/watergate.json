@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "level": "watergate",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_warrior_sailor_5",
+      "clips": [
+        {
+          "id": "hs_warrior_sailor_5_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.831667,
+          "src": "audio/clips/hs_warrior_sailor_5_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "He seemed good. Hope I see him again."
+            ],
+            "pt-br": [
+              "Ele parecia ser legal. Espero vê-lo de novo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_warrior_sailor_5_1__sailor.wav",
+            "subtitleCueLines": [
+              8321
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "He seemed good. Hope I see him again."
+        ],
+        "pt-br": [
+          "Ele parecia ser legal. Espero vê-lo de novo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 59768840,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_warrior_sailor_5",
+            "rule": "exact-reference",
+            "coordinates": [
+              22.0,
+              18.0,
+              0.0
+            ],
+            "source": "data-common/watergate.entities"
+          }
+        ],
+        "subtitleLine": 8320,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

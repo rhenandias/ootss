@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "level": "plus_signs_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "sp_thief_takes_wand",
+      "clips": [
+        {
+          "id": "sp_thief_takes_wand_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.730771,
+          "src": "audio/clips/sp_thief_takes_wand_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Someone's left this shiny thing unattended!"
+            ],
+            "pt-br": [
+              "Alguém deixou essa coisa brilhante dando sopa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_thief_takes_wand_1__thief.wav",
+            "subtitleCueLines": [
+              7574
+            ],
+            "explicitAudioReference": "sp_thief_takes_wand_1__thief"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Someone's left this shiny thing unattended!"
+        ],
+        "pt-br": [
+          "Alguém deixou essa coisa brilhante dando sopa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "sp_thief_takes_wand",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.21989631652832,
+              -1.167067050933838,
+              0.2091197967529297
+            ],
+            "source": "data-common/plus_signs_v3.entities"
+          }
+        ],
+        "subtitleLine": 7571,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "sp_druid_takes_wand",
+      "clips": [
+        {
+          "id": "sp_druid_takes_wand_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 3.272,
+          "src": "audio/clips/sp_druid_takes_wand_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "I can be a mover, for once. Let's see how that feels."
+            ],
+            "pt-br": [
+              "Posso mover as coisas, pela primeira vez. Vamos ver como é."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "sp_druid_takes_wand_1__druid.wav",
+            "subtitleCueLines": [
+              7680
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I can be a mover, for once. Let's see how that feels."
+        ],
+        "pt-br": [
+          "Posso mover as coisas, pela primeira vez. Vamos ver como é."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "script_name",
+            "value": "sp_druid_takes_wand",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.21989631652832,
+              -1.167067050933838,
+              0.2091197967529297
+            ],
+            "source": "data-common/plus_signs_v3.entities"
+          }
+        ],
+        "subtitleLine": 7679,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

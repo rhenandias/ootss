@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "level": "mosh_pit_small",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_wizard_and_priestess_alone_first",
+      "clips": [
+        {
+          "id": "heroes2_wizard_and_priestess_alone_first_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 73.169125,
+          "src": "audio/clips/heroes2_wizard_and_priestess_alone_first_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Yes, we all fumble, we all trip, but have you ever noticed",
+              "that sometimes, we're clumsy in ways that are downright suspicious?",
+              "An example. You're holding a tray of carefully-arranged reagents, and, just as you've done a thousand times,",
+              "you're turning toward the workbench to tip some powders into a tincture --",
+              "the tray clatters to the floor.",
+              "Oh, that'll take hours to re-grind.",
+              "How hard could it have been just to keep the tray pinched firmly between thumb and fingers? Not hard at all, *obviously*. I do it all the time.",
+              "Suspicious.",
+              "Did some hidden part of me *want* to make a mess?",
+              "Or, have you ever -- the candles flickering romantically, the warmth of the air just so --",
+              "Well you didn't have to use the word \"donkey\", even if the sheen of her hairy, hairy legs --",
+              "*nice* hair, I mean, soft and lustrous --",
+              "\"donkey\", clumsy word, it didn't have to happen! It was like dropping the reagents, just like that."
+            ],
+            "pt-br": [
+              "Sim, todo mundo se atrapalha, todo mundo tropeça, mas você já reparou",
+              "que, às vezes, nosso jeito desastrado é pra lá de suspeito?",
+              "Um exemplo. Você segura uma bandeja de reagentes bem arrumadinhos, e, como já fez mil vezes,",
+              "se vira para a bancada para despejar uns pós numa tintura...",
+              "e a bandeja cai no chão com estrondo.",
+              "Ah, vai levar horas pra moer de novo.",
+              "Seria tão difícil manter a bandeja bem segura entre o polegar e os outros dedos? Nem um pouco, é claro. Faço isso o tempo todo.",
+              "Suspeito.",
+              "Será que alguma parte oculta de mim queria fazer bagunça?",
+              "Ou então, você já... as velas tremeluzindo de forma sugestiva, o calor do ar na medida certa...",
+              "Bom, você não precisava usar a palavra “burro”, mesmo que o brilho de suas pernas peludas, peludas...",
+              "cabelo bonito, quero dizer, macio e brilhante...",
+              "\"burro\", que palavra desajeitada, não precisava ter acontecido! Foi como deixar os reagentes cair, assim mesmo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_and_priestess_alone_first_1__wizard.wav",
+            "subtitleCueLines": [
+              1386,
+              1390,
+              1394,
+              1399,
+              1403,
+              1406,
+              1409,
+              1414,
+              1418,
+              1422,
+              1426,
+              1431,
+              1435
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Yes, we all fumble, we all trip, but have you ever noticed",
+          "that sometimes, we're clumsy in ways that are downright suspicious?",
+          "An example. You're holding a tray of carefully-arranged reagents, and, just as you've done a thousand times,",
+          "you're turning toward the workbench to tip some powders into a tincture --",
+          "the tray clatters to the floor.",
+          "Oh, that'll take hours to re-grind.",
+          "How hard could it have been just to keep the tray pinched firmly between thumb and fingers? Not hard at all, *obviously*. I do it all the time.",
+          "Suspicious.",
+          "Did some hidden part of me *want* to make a mess?",
+          "Or, have you ever -- the candles flickering romantically, the warmth of the air just so --",
+          "Well you didn't have to use the word \"donkey\", even if the sheen of her hairy, hairy legs --",
+          "*nice* hair, I mean, soft and lustrous --",
+          "\"donkey\", clumsy word, it didn't have to happen! It was like dropping the reagents, just like that."
+        ],
+        "pt-br": [
+          "Sim, todo mundo se atrapalha, todo mundo tropeça, mas você já reparou",
+          "que, às vezes, nosso jeito desastrado é pra lá de suspeito?",
+          "Um exemplo. Você segura uma bandeja de reagentes bem arrumadinhos, e, como já fez mil vezes,",
+          "se vira para a bancada para despejar uns pós numa tintura...",
+          "e a bandeja cai no chão com estrondo.",
+          "Ah, vai levar horas pra moer de novo.",
+          "Seria tão difícil manter a bandeja bem segura entre o polegar e os outros dedos? Nem um pouco, é claro. Faço isso o tempo todo.",
+          "Suspeito.",
+          "Será que alguma parte oculta de mim queria fazer bagunça?",
+          "Ou então, você já... as velas tremeluzindo de forma sugestiva, o calor do ar na medida certa...",
+          "Bom, você não precisava usar a palavra “burro”, mesmo que o brilho de suas pernas peludas, peludas...",
+          "cabelo bonito, quero dizer, macio e brilhante...",
+          "\"burro\", que palavra desajeitada, não precisava ter acontecido! Foi como deixar os reagentes cair, assim mesmo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420439,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_wizard_and_priestess_alone_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              5.0,
+              6.0,
+              0.0
+            ],
+            "source": "data-common/mosh_pit_small.entities"
+          }
+        ],
+        "subtitleLine": 1385,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

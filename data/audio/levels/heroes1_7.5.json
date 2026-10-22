@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes1_7.5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes1_wizard_1",
+      "clips": [
+        {
+          "id": "heroes1_wizard_1_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 6.628896,
+          "src": "audio/clips/heroes1_wizard_1_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Still don't understand how I got out of there --",
+              "some kind of intervention from afar --",
+              "First, I'll find the others."
+            ],
+            "pt-br": [
+              "Ainda não entendi como saí de lá...",
+              "algum tipo de intervenção à distância...",
+              "Primeiro, vou encontrar os outros."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes1_wizard_1_1__wizard.wav",
+            "subtitleCueLines": [
+              158,
+              163,
+              167
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Still don't understand how I got out of there --",
+          "some kind of intervention from afar --",
+          "First, I'll find the others."
+        ],
+        "pt-br": [
+          "Ainda não entendi como saí de lá...",
+          "algum tipo de intervenção à distância...",
+          "Primeiro, vou encontrar os outros."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137348,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes1_wizard_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "source": "data-common/heroes1_7.5.entities"
+          }
+        ],
+        "subtitleLine": 157,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

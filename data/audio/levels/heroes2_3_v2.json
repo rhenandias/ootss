@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_3_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_wizard_goblins",
+      "clips": [
+        {
+          "id": "heroes2_wizard_goblins_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 7.454854,
+          "src": "audio/clips/heroes2_wizard_goblins_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "I'd have thought the caravan's defenses would hold for longer, but,",
+              "I'm glad to still be alive, hale body, hale mind."
+            ],
+            "pt-br": [
+              "Achei que as defesas da caravana aguentariam mais, mas,",
+              "Estou feliz por estar vivo, corpo são, mente sã."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_goblins_1__wizard.wav",
+            "subtitleCueLines": [
+              800,
+              804
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'd have thought the caravan's defenses would hold for longer, but,",
+          "I'm glad to still be alive, hale body, hale mind."
+        ],
+        "pt-br": [
+          "Achei que as defesas da caravana aguentariam mais, mas,",
+          "Estou feliz por estar vivo, corpo são, mente sã."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87031899,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_wizard_goblins",
+            "rule": "exact-reference",
+            "coordinates": [
+              -2.0,
+              5.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_3_v2.entities"
+          }
+        ],
+        "subtitleLine": 799,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_wizard_goblins_mid",
+      "clips": [
+        {
+          "id": "heroes2_wizard_goblins_mid_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 6.483333,
+          "src": "audio/clips/heroes2_wizard_goblins_mid_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Don't know why they didn't like the word \"hale\".",
+              "\"Hale Heroes of Hauling\" sounds upscale and smart."
+            ],
+            "pt-br": [
+              "Não sei por que não gostaram da palavra “sadio”.",
+              "“Heróis Sadios do Transporte” parece chique e inteligente."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_wizard_goblins_mid_1__wizard.wav",
+            "subtitleCueLines": [
+              812,
+              816
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Don't know why they didn't like the word \"hale\".",
+          "\"Hale Heroes of Hauling\" sounds upscale and smart."
+        ],
+        "pt-br": [
+          "Não sei por que não gostaram da palavra “sadio”.",
+          "“Heróis Sadios do Transporte” parece chique e inteligente."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_wizard_goblins_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              -2.016543388366699,
+              -2.440023422241211,
+              0.027801513671875
+            ],
+            "source": "data-common/heroes2_3_v2.entities"
+          }
+        ],
+        "subtitleLine": 811,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

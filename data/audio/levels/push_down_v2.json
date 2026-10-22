@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "level": "push_down_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "3d_intro_down",
+      "clips": [
+        {
+          "id": "3d_intro_down_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 5.826333,
+          "src": "audio/clips/3d_intro_down_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Down. Gradually.",
+              "Yes. We like down, from here."
+            ],
+            "pt-br": [
+              "Desce. Aos poucos.",
+              "É. Daqui em diante, preferimos descer."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_down_1__sailor.wav",
+            "subtitleCueLines": [
+              7040,
+              7044
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Down. Gradually.",
+          "Yes. We like down, from here."
+        ],
+        "pt-br": [
+          "Desce. Aos poucos.",
+          "É. Daqui em diante, preferimos descer."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 95420419,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "3d_intro_down",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              20.0,
+              6.0
+            ],
+            "source": "data-common/push_down_v2.entities"
+          }
+        ],
+        "subtitleLine": 7039,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "3d_intro_down_almost",
+      "clips": [
+        {
+          "id": "3d_intro_down_almost_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.078083,
+          "src": "audio/clips/3d_intro_down_almost_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Almost there..."
+            ],
+            "pt-br": [
+              "Quase lá..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "3d_intro_down_almost_1__sailor.wav",
+            "subtitleCueLines": [
+              7051
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Almost there..."
+        ],
+        "pt-br": [
+          "Quase lá..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914564,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "3d_intro_down_almost",
+            "rule": "exact-reference",
+            "coordinates": [
+              13.988810539245605,
+              2.050391674041748,
+              1.9324607849121094
+            ],
+            "source": "data-common/push_down_v2.entities"
+          }
+        ],
+        "subtitleLine": 7050,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

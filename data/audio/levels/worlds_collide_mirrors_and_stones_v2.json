@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "level": "worlds_collide_mirrors_and_stones_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "worlds_collide_MS_start",
+      "clips": [
+        {
+          "id": "worlds_collide_MS_start_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.638458,
+          "src": "audio/clips/worlds_collide_MS_start_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Isn't this a situation."
+            ],
+            "pt-br": [
+              "Que situação, hein?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_start_1__sailor.wav",
+            "subtitleCueLines": [
+              6789
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MS_start_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.277333,
+          "src": "audio/clips/worlds_collide_MS_start_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "It looks enjoyable!"
+            ],
+            "pt-br": [
+              "Parece divertido!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_start_2__trader.wav",
+            "subtitleCueLines": [
+              6793
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MS_start_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.994667,
+          "src": "audio/clips/worlds_collide_MS_start_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It does, does it?"
+            ],
+            "pt-br": [
+              "Parece, né?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_start_3__sailor.wav",
+            "subtitleCueLines": [
+              6797
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MS_start_4__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 3.156,
+          "src": "audio/clips/worlds_collide_MS_start_4__trader.mp3",
+          "transcripts": {
+            "en": [
+              "I'm used to water being more ... placid."
+            ],
+            "pt-br": [
+              "Estou acostumado com a água sendo mais... serena."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_start_4__trader.wav",
+            "subtitleCueLines": [
+              6800
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MS_start_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.128583,
+          "src": "audio/clips/worlds_collide_MS_start_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Well, if you can placid me onto dry land, I'd appreciate."
+            ],
+            "pt-br": [
+              "Se você puder me levar tranquilamente até a terra firme, eu agradeço."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_start_5__sailor.wav",
+            "subtitleCueLines": [
+              6804
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Isn't this a situation.",
+          "It looks enjoyable!",
+          "It does, does it?",
+          "I'm used to water being more ... placid.",
+          "Well, if you can placid me onto dry land, I'd appreciate."
+        ],
+        "pt-br": [
+          "Que situação, hein?",
+          "Parece divertido!",
+          "Parece, né?",
+          "Estou acostumado com a água sendo mais... serena.",
+          "Se você puder me levar tranquilamente até a terra firme, eu agradeço."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 58720277,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "worlds_collide_MS_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              16.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/worlds_collide_mirrors_and_stones_v2.entities"
+          }
+        ],
+        "subtitleLine": 6788,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "worlds_collide_MS_first_teleport",
+      "clips": [
+        {
+          "id": "worlds_collide_MS_first_teleport_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.087813,
+          "src": "audio/clips/worlds_collide_MS_first_teleport_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Wow... you can do that?"
+            ],
+            "pt-br": [
+              "Uau... você pode fazer isso?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_first_teleport_1__sailor.wav",
+            "subtitleCueLines": [
+              6812
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MS_first_teleport_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 1.617333,
+          "src": "audio/clips/worlds_collide_MS_first_teleport_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "These mirrors can do that."
+            ],
+            "pt-br": [
+              "Esses espelhos podem fazer isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_first_teleport_2__trader.wav",
+            "subtitleCueLines": [
+              6816
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "worlds_collide_MS_first_teleport_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.022396,
+          "src": "audio/clips/worlds_collide_MS_first_teleport_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I'm impressed."
+            ],
+            "pt-br": [
+              "Estou impressionada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "worlds_collide_MS_first_teleport_3__sailor.wav",
+            "subtitleCueLines": [
+              6819
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Wow... you can do that?",
+          "These mirrors can do that.",
+          "I'm impressed."
+        ],
+        "pt-br": [
+          "Uau... você pode fazer isso?",
+          "Esses espelhos podem fazer isso.",
+          "Estou impressionada."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 62914736,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "worlds_collide_MS_first_teleport",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.074374675750732,
+              -6.054843425750732,
+              -1.9073486328125e-06
+            ],
+            "source": "data-common/worlds_collide_mirrors_and_stones_v2.entities"
+          }
+        ],
+        "subtitleLine": 6811,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

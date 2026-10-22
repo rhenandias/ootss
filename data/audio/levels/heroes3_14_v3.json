@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes3_14_v3",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes3_bard_and_druid_first",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_druid_first_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.866667,
+          "src": "audio/clips/heroes3_bard_and_druid_first_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "So, you're the performer I've been hearing about."
+            ],
+            "pt-br": [
+              "Então, você é a artista de quem tenho ouvido falar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_druid_first_1__druid.wav",
+            "subtitleCueLines": [
+              1809
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_druid_first_2__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 3.543708,
+          "src": "audio/clips/heroes3_bard_and_druid_first_2__bard.mp3",
+          "transcripts": {
+            "en": [
+              "And you're the famous Crystalmancer that I've been hearing about!"
+            ],
+            "pt-br": [
+              "E você é o famoso Cristalmante de quem tenho ouvido falar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_druid_first_2__bard.wav",
+            "subtitleCueLines": [
+              1813
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_druid_first_3__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 3.117333,
+          "src": "audio/clips/heroes3_bard_and_druid_first_3__druid.mp3",
+          "transcripts": {
+            "en": [
+              "We don't call ourselves that."
+            ],
+            "pt-br": [
+              "A gente não se chama assim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_druid_first_3__druid.wav",
+            "subtitleCueLines": [
+              1818
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "heroes3_bard_and_druid_first_4__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 2.169229,
+          "src": "audio/clips/heroes3_bard_and_druid_first_4__bard.mp3",
+          "transcripts": {
+            "en": [
+              "Nor does anyone!",
+              "I made it up."
+            ],
+            "pt-br": [
+              "Nem ninguém!",
+              "Fui eu que inventei."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_druid_first_4__bard.wav",
+            "subtitleCueLines": [
+              1822,
+              1826
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, you're the performer I've been hearing about.",
+          "And you're the famous Crystalmancer that I've been hearing about!",
+          "We don't call ourselves that.",
+          "Nor does anyone!",
+          "I made it up."
+        ],
+        "pt-br": [
+          "Então, você é a artista de quem tenho ouvido falar.",
+          "E você é o famoso Cristalmante de quem tenho ouvido falar!",
+          "A gente não se chama assim.",
+          "Nem ninguém!",
+          "Fui eu que inventei."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137594,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes3_bard_and_druid_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_14_v3.entities"
+          }
+        ],
+        "subtitleLine": 1808,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes3_bard_and_druid_first_end",
+      "clips": [
+        {
+          "id": "heroes3_bard_and_druid_first_end_1__bard",
+          "speaker": "bard",
+          "speakerName": "bard",
+          "duration": 4.372125,
+          "src": "audio/clips/heroes3_bard_and_druid_first_end_1__bard.mp3",
+          "transcripts": {
+            "en": [
+              "I don't call myself a 'performer'; it's more serious than that."
+            ],
+            "pt-br": [
+              "Não me considero um 'artista'; é algo mais sério que isso."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes3_bard_and_druid_first_end_1__bard.wav",
+            "subtitleCueLines": [
+              1834
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I don't call myself a 'performer'; it's more serious than that."
+        ],
+        "pt-br": [
+          "Não me considero um 'artista'; é algo mais sério que isso."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137594,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "heroes3_bard_and_druid_first_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              4.0,
+              0.0
+            ],
+            "source": "data-common/heroes3_14_v3.entities"
+          }
+        ],
+        "subtitleLine": 1833,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

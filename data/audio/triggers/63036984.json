@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "queen_og_heroes2",
+    "audioKey": "63036984",
+    "triggerKind": "movement",
+    "blocks": [
+      "queen_og_heroes2"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      4.648207187652588,
+      3.4373860359191895,
+      1.5538339614868164
+    ],
+    "barkFlags": 1,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 63036984,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "queen_og_heroes2",
+        "rule": "exact-reference",
+        "coordinates": [
+          78.52819061279297,
+          105.52556610107422,
+          0.8877067565917969
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "queen_og_heroes2",
+      "clips": [
+        {
+          "id": "queen_og_heroes2_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 1.961854,
+          "src": "audio/clips/queen_og_heroes2_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Subtle miasma..."
+            ],
+            "pt-br": [
+              "Um miasma sutil..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "queen_og_heroes2_1__queen.wav",
+            "subtitleCueLines": [
+              11932
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Subtle miasma..."
+        ],
+        "pt-br": [
+          "Um miasma sutil..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

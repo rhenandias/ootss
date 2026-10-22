@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "level": "heroes2_12_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "heroes2_postmeetup_wizard",
+      "clips": [
+        {
+          "id": "heroes2_postmeetup_wizard_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 28.510333,
+          "src": "audio/clips/heroes2_postmeetup_wizard_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Had I known that starting a moving company would lead me into the East,",
+              "surrounded by foul creatures, nary a book brought with me,",
+              "I'd have started some company about being sedentary, instead.",
+              "Like ... Guards. But, guards that never have any trouble.",
+              "Casual guards, for buildings where nobody goes,",
+              "small, no walking, we just sit there.",
+              "Warming our feet by the fire."
+            ],
+            "pt-br": [
+              "Se eu soubesse que abrir uma transportadora me levaria pro Leste,",
+              "cercado por criaturas nojentas, nem um livro trouxe comigo,",
+              "eu teria começado alguma empresa sobre ser sedentário, em vez disso.",
+              "Tipo... guardas. Mas guardas que nunca têm problema nenhum.",
+              "Guardas casuais, pra prédios onde ninguém vai,",
+              "pequenos, sem andar, a gente só ficaria sentado lá.",
+              "Esquentando os pés perto do fogo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_postmeetup_wizard_1__wizard.wav",
+            "subtitleCueLines": [
+              1068,
+              1073,
+              1077,
+              1081,
+              1085,
+              1089,
+              1093
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Had I known that starting a moving company would lead me into the East,",
+          "surrounded by foul creatures, nary a book brought with me,",
+          "I'd have started some company about being sedentary, instead.",
+          "Like ... Guards. But, guards that never have any trouble.",
+          "Casual guards, for buildings where nobody goes,",
+          "small, no walking, we just sit there.",
+          "Warming our feet by the fire."
+        ],
+        "pt-br": [
+          "Se eu soubesse que abrir uma transportadora me levaria pro Leste,",
+          "cercado por criaturas nojentas, nem um livro trouxe comigo,",
+          "eu teria começado alguma empresa sobre ser sedentário, em vez disso.",
+          "Tipo... guardas. Mas guardas que nunca têm problema nenhum.",
+          "Guardas casuais, pra prédios onde ninguém vai,",
+          "pequenos, sem andar, a gente só ficaria sentado lá.",
+          "Esquentando os pés perto do fogo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 87032060,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "heroes2_postmeetup_wizard",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.0,
+              -1.0,
+              0.0
+            ],
+            "source": "data-common/heroes2_12_v2.entities"
+          }
+        ],
+        "subtitleLine": 1067,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "heroes2_postmeetup_wizard_mid",
+      "clips": [
+        {
+          "id": "heroes2_postmeetup_wizard_mid_1__wizard",
+          "speaker": "wizard",
+          "speakerName": "wizard",
+          "duration": 4.445,
+          "src": "audio/clips/heroes2_postmeetup_wizard_mid_1__wizard.mp3",
+          "transcripts": {
+            "en": [
+              "Plenty of fires round here, I suppose. Not the sort I prefer, though."
+            ],
+            "pt-br": [
+              "Tem fogo de sobra por aqui, suponho. Mas não do tipo que eu prefiro."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "heroes2_postmeetup_wizard_mid_1__wizard.wav",
+            "subtitleCueLines": [
+              1101
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Plenty of fires round here, I suppose. Not the sort I prefer, though."
+        ],
+        "pt-br": [
+          "Tem fogo de sobra por aqui, suponho. Mas não do tipo que eu prefiro."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343362,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "heroes2_postmeetup_wizard_mid",
+            "rule": "exact-reference",
+            "coordinates": [
+              3.9622488021850586,
+              0.963371753692627,
+              0.6966495513916016
+            ],
+            "source": "data-common/heroes2_12_v2.entities"
+          }
+        ],
+        "subtitleLine": 1100,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

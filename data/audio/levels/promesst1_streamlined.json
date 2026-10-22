@@ -1,0 +1,1952 @@
+{
+  "schemaVersion": 1,
+  "level": "promesst1_streamlined",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "promesst1_start",
+      "clips": [
+        {
+          "id": "promesst1_start_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.822667,
+          "src": "audio/clips/promesst1_start_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Suit, don't fall apart on me down here."
+            ],
+            "pt-br": [
+              "Traje, não desmorone em mim aqui embaixo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_start_1__gemsman.wav",
+            "subtitleCueLines": [
+              2561
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Suit, don't fall apart on me down here."
+        ],
+        "pt-br": [
+          "Traje, não desmorone em mim aqui embaixo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 20971620,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "promesst1_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              8.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2560,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_lovely",
+      "clips": [
+        {
+          "id": "promesst1_lovely_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.157667,
+          "src": "audio/clips/promesst1_lovely_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "The shifter's working! Might really get somewhere."
+            ],
+            "pt-br": [
+              "Traje funcionando! Talvez eu realmente chegue a algum lugar."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_lovely_1__gemsman.wav",
+            "subtitleCueLines": [
+              2570
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The shifter's working! Might really get somewhere."
+        ],
+        "pt-br": [
+          "Traje funcionando! Talvez eu realmente chegue a algum lugar."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2569,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_strong",
+      "clips": [
+        {
+          "id": "promesst1_strong_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.248333,
+          "src": "audio/clips/promesst1_strong_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Feels pretty good!"
+            ],
+            "pt-br": [
+              "Tá até bom!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_strong_1__gemsman.wav",
+            "subtitleCueLines": [
+              2579
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Feels pretty good!"
+        ],
+        "pt-br": [
+          "Tá até bom!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2578,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_cart",
+      "clips": [
+        {
+          "id": "promesst1_cart_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 4.370208,
+          "src": "audio/clips/promesst1_cart_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Still grinding away! They really knew how to build stuff back then."
+            ],
+            "pt-br": [
+              "Essas máquinas ainda estão funcionando! Eles realmente sabiam construir as coisas naquela época."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_cart_1__gemsman.wav",
+            "subtitleCueLines": [
+              2587
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Still grinding away! They really knew how to build stuff back then."
+        ],
+        "pt-br": [
+          "Essas máquinas ainda estão funcionando! Eles realmente sabiam construir as coisas naquela época."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 62914578,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_cart",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.314979553222656,
+              15.952751159667969,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2586,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_wrap",
+      "clips": [
+        {
+          "id": "promesst1_wrap_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 6.103375,
+          "src": "audio/clips/promesst1_wrap_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Pocket size confirmed. It's manageable.",
+              "Next question: how deep does this go?"
+            ],
+            "pt-br": [
+              "Tamanho de bolsão confirmado. É gerenciável.",
+              "Próxima pergunta: qual é a profundidade?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_wrap_1__gemsman.wav",
+            "subtitleCueLines": [
+              2597,
+              2602
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Pocket size confirmed. It's manageable.",
+          "Next question: how deep does this go?"
+        ],
+        "pt-br": [
+          "Tamanho de bolsão confirmado. É gerenciável.",
+          "Próxima pergunta: qual é a profundidade?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 62914582,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_wrap",
+            "rule": "exact-reference",
+            "coordinates": [
+              0.5710477828979492,
+              8.460875511169434,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2596,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_destroy_rover",
+      "clips": [
+        {
+          "id": "promesst1_destroy_rover_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.459333,
+          "src": "audio/clips/promesst1_destroy_rover_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Justified. We'll learn to build new ones."
+            ],
+            "pt-br": [
+              "Justificado. Vamos aprender a construir novos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_destroy_rover_1__gemsman.wav",
+            "subtitleCueLines": [
+              2609
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Justified. We'll learn to build new ones."
+        ],
+        "pt-br": [
+          "Justificado. Vamos aprender a construir novos."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2608,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_egg",
+      "clips": [
+        {
+          "id": "promesst1_egg_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 9.692667,
+          "src": "audio/clips/promesst1_egg_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Mottled, polished ... iridescent? But ... what is it?",
+              "Does this have something to do with the Great Shutdown?"
+            ],
+            "pt-br": [
+              "Manchado, polido... iridescente? Mas... o que é isso?",
+              "Isso tem alguma coisa a ver com a Grande Desativação?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_egg_1__gemsman.wav",
+            "subtitleCueLines": [
+              2618,
+              2623
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Mottled, polished ... iridescent? But ... what is it?",
+          "Does this have something to do with the Great Shutdown?"
+        ],
+        "pt-br": [
+          "Manchado, polido... iridescente? Mas... o que é isso?",
+          "Isso tem alguma coisa a ver com a Grande Desativação?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 62914584,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_egg",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.926641464233398,
+              9.937248229980469,
+              -9.870977401733398
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2617,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_red_beam_lower",
+      "clips": [
+        {
+          "id": "promesst1_red_beam_lower_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.835333,
+          "src": "audio/clips/promesst1_red_beam_lower_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "More temple. Ever stranger."
+            ],
+            "pt-br": [
+              "Mais templo. Cada vez mais estranho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_red_beam_lower_1__gemsman.wav",
+            "subtitleCueLines": [
+              2632
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "More temple. Ever stranger."
+        ],
+        "pt-br": [
+          "Mais templo. Cada vez mais estranho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 62914583,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_red_beam_lower",
+            "rule": "exact-reference",
+            "coordinates": [
+              1.8851988315582275,
+              19.99358558654785,
+              -9.870977401733398
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2631,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_exiting_egg_room",
+      "clips": [
+        {
+          "id": "promesst1_exiting_egg_room_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 7.093333,
+          "src": "audio/clips/promesst1_exiting_egg_room_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Return with gems. Gems bring life!"
+            ],
+            "pt-br": [
+              "Volte com gemas. Gemas trazem vida!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_exiting_egg_room_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2641
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "promesst1_exiting_egg_room_2__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.947333,
+          "src": "audio/clips/promesst1_exiting_egg_room_2__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Uhh. The depths are getting to me."
+            ],
+            "pt-br": [
+              "Uhh. As profundezas estão me afetando."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_exiting_egg_room_2__gemsman.wav",
+            "subtitleCueLines": [
+              2646
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Return with gems. Gems bring life!",
+          "Uhh. The depths are getting to me."
+        ],
+        "pt-br": [
+          "Volte com gemas. Gemas trazem vida!",
+          "Uhh. As profundezas estão me afetando."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343363,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_exiting_egg_room",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.928954601287842,
+              20.79839324951172,
+              -9.98244857788086
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2640,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "promesst1_place_them",
+      "clips": [
+        {
+          "id": "promesst1_place_them_1__baby_dragon",
+          "speaker": "baby_dragon",
+          "speakerName": "baby_dragon",
+          "duration": 5.68,
+          "src": "audio/clips/promesst1_place_them_1__baby_dragon.mp3",
+          "transcripts": {
+            "en": [
+              "Place them. Place them!!"
+            ],
+            "pt-br": [
+              "Coloque. Coloque!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_place_them_1__baby_dragon.wav",
+            "subtitleCueLines": [
+              2654
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Place them. Place them!!"
+        ],
+        "pt-br": [
+          "Coloque. Coloque!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343364,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_place_them",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.928954601287842,
+              13.798392295837402,
+              -10.138427734375
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2653,
+        "subtitleHeader": ":::"
+      }
+    },
+    {
+      "id": "promesst1_wand_get",
+      "clips": [
+        {
+          "id": "promesst1_wand_get_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 6.763333,
+          "src": "audio/clips/promesst1_wand_get_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "A rod of alabaster, fixed onto a leather cuff.",
+              "Metallic fittings look to impart some function."
+            ],
+            "pt-br": [
+              "Uma haste de alabastro, fixada a uma braçadeira de couro.",
+              "Peças metálicas parecem conferir alguma função."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_wand_get_1__gemsman.wav",
+            "subtitleCueLines": [
+              2663,
+              2668
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "A rod of alabaster, fixed onto a leather cuff.",
+          "Metallic fittings look to impart some function."
+        ],
+        "pt-br": [
+          "Uma haste de alabastro, fixada a uma braçadeira de couro.",
+          "Peças metálicas parecem conferir alguma função."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343372,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_wand_get",
+            "rule": "exact-reference",
+            "coordinates": [
+              2.993131399154663,
+              12.991461753845215,
+              -9.963763236999512
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2662,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_end",
+      "clips": [
+        {
+          "id": "promesst1_end_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.45875,
+          "src": "audio/clips/promesst1_end_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "What's this?",
+              "What the..."
+            ],
+            "pt-br": [
+              "O que é isso?",
+              "Mas o que..."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_end_1__gemsman.wav",
+            "subtitleCueLines": [
+              2678,
+              2682
+            ],
+            "explicitAudioReference": "promesst1_end_1__gemsman"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "What's this?",
+          "What the..."
+        ],
+        "pt-br": [
+          "O que é isso?",
+          "Mas o que..."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "outro_cutscene",
+            "value": "promesst1_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2675,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gemsuit_cannot_turn_1",
+      "clips": [
+        {
+          "id": "promesst1_gemsuit_cannot_turn_1_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.702313,
+          "src": "audio/clips/promesst1_gemsuit_cannot_turn_1_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "The gemsuit's too bulky; can't turn without space."
+            ],
+            "pt-br": [
+              "O traje de gema é volumoso demais; não dá para virar sem espaço."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gemsuit_cannot_turn_1_1__gemsman.wav",
+            "subtitleCueLines": [
+              2709
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The gemsuit's too bulky; can't turn without space."
+        ],
+        "pt-br": [
+          "O traje de gema é volumoso demais; não dá para virar sem espaço."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2708,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gemsuit_cannot_turn_2",
+      "clips": [
+        {
+          "id": "promesst1_gemsuit_cannot_turn_2_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.472,
+          "src": "audio/clips/promesst1_gemsuit_cannot_turn_2_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Need space to turn!"
+            ],
+            "pt-br": [
+              "Preciso de espaço para virar!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gemsuit_cannot_turn_2_1__gemsman.wav",
+            "subtitleCueLines": [
+              2718
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Need space to turn!"
+        ],
+        "pt-br": [
+          "Preciso de espaço para virar!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2717,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gemsuit_cannot_turn_3",
+      "clips": [
+        {
+          "id": "promesst1_gemsuit_cannot_turn_3_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.403687,
+          "src": "audio/clips/promesst1_gemsuit_cannot_turn_3_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Suit's too bulky."
+            ],
+            "pt-br": [
+              "O traje é volumoso demais."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gemsuit_cannot_turn_3_1__gemsman.wav",
+            "subtitleCueLines": [
+              2726
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Suit's too bulky."
+        ],
+        "pt-br": [
+          "O traje é volumoso demais."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2725,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gemsuit_cannot_turn_4",
+      "clips": [
+        {
+          "id": "promesst1_gemsuit_cannot_turn_4_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 1.21,
+          "src": "audio/clips/promesst1_gemsuit_cannot_turn_4_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Dratted gemsuit."
+            ],
+            "pt-br": [
+              "Maldito traje de gema."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gemsuit_cannot_turn_4_1__gemsman.wav",
+            "subtitleCueLines": [
+              2734
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Dratted gemsuit."
+        ],
+        "pt-br": [
+          "Maldito traje de gema."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2733,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gemsuit_cannot_turn_5",
+      "clips": [
+        {
+          "id": "promesst1_gemsuit_cannot_turn_5_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.827,
+          "src": "audio/clips/promesst1_gemsuit_cannot_turn_5_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Suit, you bless me, and you curse me."
+            ],
+            "pt-br": [
+              "Traje, você me abençoa, e você me amaldiçoa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gemsuit_cannot_turn_5_1__gemsman.wav",
+            "subtitleCueLines": [
+              2742
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Suit, you bless me, and you curse me."
+        ],
+        "pt-br": [
+          "Traje, você me abençoa, e você me amaldiçoa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2741,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_all_gems",
+      "clips": [
+        {
+          "id": "promesst1_all_gems_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.710667,
+          "src": "audio/clips/promesst1_all_gems_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "That's the last one. Now to tidy up."
+            ],
+            "pt-br": [
+              "Esse foi o último. Agora é só arrumar tudo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_all_gems_1__gemsman.wav",
+            "subtitleCueLines": [
+              2751
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "That's the last one. Now to tidy up."
+        ],
+        "pt-br": [
+          "Esse foi o último. Agora é só arrumar tudo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2750,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_wand_strong",
+      "clips": [
+        {
+          "id": "promesst1_wand_strong_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.627833,
+          "src": "audio/clips/promesst1_wand_strong_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "This thing is so powerful. Why'd they bury it?"
+            ],
+            "pt-br": [
+              "Essa coisa é muito poderosa. Por que deixaram enterrada?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_wand_strong_1__gemsman.wav",
+            "subtitleCueLines": [
+              2759
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This thing is so powerful. Why'd they bury it?"
+        ],
+        "pt-br": [
+          "Essa coisa é muito poderosa. Por que deixaram enterrada?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343365,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_wand_strong",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.824895858764648,
+              23.959754943847656,
+              -9.870977401733398
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2758,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_unlock",
+      "clips": [
+        {
+          "id": "promesst1_unlock_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 4.795,
+          "src": "audio/clips/promesst1_unlock_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I feel something important just happened, but ... no idea what."
+            ],
+            "pt-br": [
+              "Sinto que algo importante acabou de acontecer, mas não faço ideia do quê."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_unlock_1__gemsman.wav",
+            "subtitleCueLines": [
+              2767
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I feel something important just happened, but ... no idea what."
+        ],
+        "pt-br": [
+          "Sinto que algo importante acabou de acontecer, mas não faço ideia do quê."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343366,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_unlock",
+            "rule": "exact-reference",
+            "coordinates": [
+              20.98518180847168,
+              2.021084785461426,
+              -9.977775573730469
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 2766,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount1",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount1_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 5.998,
+          "src": "audio/clips/promesst1_gems_amount1_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "As I'd hoped. They shut down in such a panic, they just left all the gems.",
+              "Good for me."
+            ],
+            "pt-br": [
+              "Como eu esperava. Eles fecharam tudo em tal pânico que deixaram todas as gemas.",
+              "Ótimo para mim."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount1_1__gemsman.wav",
+            "subtitleCueLines": [
+              11824,
+              11830
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "As I'd hoped. They shut down in such a panic, they just left all the gems.",
+          "Good for me."
+        ],
+        "pt-br": [
+          "Como eu esperava. Eles fecharam tudo em tal pânico que deixaram todas as gemas.",
+          "Ótimo para mim."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11823,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount2",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount2_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 6.461354,
+          "src": "audio/clips/promesst1_gems_amount2_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "So many gems in here.",
+              "Why'd they shut the mines down? What were they afraid of?"
+            ],
+            "pt-br": [
+              "Tantas joias aqui dentro.",
+              "Por que fecharam as minas? Do que estavam com medo?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount2_1__gemsman.wav",
+            "subtitleCueLines": [
+              11837,
+              11841
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So many gems in here.",
+          "Why'd they shut the mines down? What were they afraid of?"
+        ],
+        "pt-br": [
+          "Tantas joias aqui dentro.",
+          "Por que fecharam as minas? Do que estavam com medo?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11836,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount3",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount3_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 5.261,
+          "src": "audio/clips/promesst1_gems_amount3_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "It's not greed. These will be very valuable ... in research."
+            ],
+            "pt-br": [
+              "Não é ganância. Estas serão muito valiosas... para a pesquisa."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount3_1__gemsman.wav",
+            "subtitleCueLines": [
+              11849
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It's not greed. These will be very valuable ... in research."
+        ],
+        "pt-br": [
+          "Não é ganância. Estas serão muito valiosas... para a pesquisa."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11848,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount4",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount4_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 3.551167,
+          "src": "audio/clips/promesst1_gems_amount4_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "Well, I *will* sell some of these. But it's not greed."
+            ],
+            "pt-br": [
+              "Bem, eu vou vender algumas dessas. Mas não é ganância."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount4_1__gemsman.wav",
+            "subtitleCueLines": [
+              11859
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Well, I *will* sell some of these. But it's not greed."
+        ],
+        "pt-br": [
+          "Bem, eu vou vender algumas dessas. Mas não é ganância."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11858,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount5",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount5_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 7.587333,
+          "src": "audio/clips/promesst1_gems_amount5_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I *will* sell some of these, but it's to hire a staff, help with the research.",
+              "The proceeds will not be spent frivolously."
+            ],
+            "pt-br": [
+              "Eu vou vender algumas dessas, mas para contratar uma equipe, e ajudar na pesquisa.",
+              "Os lucros não serão gastos de forma fútil."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount5_1__gemsman.wav",
+            "subtitleCueLines": [
+              11868,
+              11874
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I *will* sell some of these, but it's to hire a staff, help with the research.",
+          "The proceeds will not be spent frivolously."
+        ],
+        "pt-br": [
+          "Eu vou vender algumas dessas, mas para contratar uma equipe, e ajudar na pesquisa.",
+          "Os lucros não serão gastos de forma fútil."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11867,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount6",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount6_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 14.395667,
+          "src": "audio/clips/promesst1_gems_amount6_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "The proceeds will not be spent frivolously.",
+              "Though ... I deserve some comfort too. For all my grit and toil.",
+              "It's hard to summon great ideas when the rent falls due and the wallet is empty."
+            ],
+            "pt-br": [
+              "Os lucros não serão gastos de forma fútil.",
+              "Embora... eu mereça algum conforto também. Depois de toda a minha garra e trabalho.",
+              "É difícil invocar grandes ideias quando o aluguel vence e a carteira está vazia."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount6_1__gemsman.wav",
+            "subtitleCueLines": [
+              11882,
+              11887,
+              11891
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "The proceeds will not be spent frivolously.",
+          "Though ... I deserve some comfort too. For all my grit and toil.",
+          "It's hard to summon great ideas when the rent falls due and the wallet is empty."
+        ],
+        "pt-br": [
+          "Os lucros não serão gastos de forma fútil.",
+          "Embora... eu mereça algum conforto também. Depois de toda a minha garra e trabalho.",
+          "É difícil invocar grandes ideias quando o aluguel vence e a carteira está vazia."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11881,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount7",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount7_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 2.074333,
+          "src": "audio/clips/promesst1_gems_amount7_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "It seems there's no stopping me!"
+            ],
+            "pt-br": [
+              "Parece que ninguém me segura!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount7_1__gemsman.wav",
+            "subtitleCueLines": [
+              11900
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It seems there's no stopping me!"
+        ],
+        "pt-br": [
+          "Parece que ninguém me segura!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11899,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_further_down",
+      "clips": [
+        {
+          "id": "promesst1_further_down_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 11.004667,
+          "src": "audio/clips/promesst1_further_down_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "There *should* be a way further down. Maybe that big round stone was placed to seal it?",
+              "And that high-mounted beamcaster unseals it somehow?"
+            ],
+            "pt-br": [
+              "Deve haver um caminho mais abaixo. Talvez essa grande pedra redonda tenha sido colocada para selá-lo?",
+              "E esse lança-feixes montado no alto o abre de algum jeito?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_further_down_1__gemsman.wav",
+            "subtitleCueLines": [
+              11908,
+              11913
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There *should* be a way further down. Maybe that big round stone was placed to seal it?",
+          "And that high-mounted beamcaster unseals it somehow?"
+        ],
+        "pt-br": [
+          "Deve haver um caminho mais abaixo. Talvez essa grande pedra redonda tenha sido colocada para selá-lo?",
+          "E esse lança-feixes montado no alto o abre de algum jeito?"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 115343370,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "promesst1_further_down",
+            "rule": "exact-reference",
+            "coordinates": [
+              6.926641464233398,
+              11.937248229980469,
+              -9.870977401733398
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          },
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11907,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

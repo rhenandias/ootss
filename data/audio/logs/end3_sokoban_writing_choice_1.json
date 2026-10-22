@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "end3_sokoban_writing_choice_1",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "end3_sokoban_writing_choice_1",
+      "clips": [
+        {
+          "id": "end3_sokoban_writing_choice_1_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 34.075792,
+          "src": "audio/clips/end3_sokoban_writing_choice_1_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "This representation of me, they call a 'hologram', though where I come from, the corresponding word indicates a mirage made only of light.",
+              "But as you can feel, this 'hologram' is solid. Once I've reached a certain rank I'll be taught the sciences that make it possible.",
+              "In this area, inert Signs are no longer sufficient for the level of communication we wish to provide.",
+              "The hologram will draw upon a wider variety of pre-written responses.",
+              "It is also a somewhat more-personal substitute for my presence.",
+              "Godspeed."
+            ],
+            "pt-br": [
+              "Essa representação de mim eles chamam de “holograma”, embora, de onde venho, a palavra correspondente se refira a uma miragem feita só de luz.",
+              "Mas, como você pode sentir, esse “holograma” é sólido. Quando eu alcançar uma certa patente vou aprender as ciências que tornam isso possível.",
+              "Nesta área, placas inertes já não bastam para o nível de comunicação que desejamos oferecer.",
+              "O holograma recorrerá a uma variedade maior de respostas pré-escritas.",
+              "Ele também é um substituto um pouco mais pessoal para a minha presença.",
+              "Boa jornada."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "end3_sokoban_writing_choice_1_1__sokoban.wav",
+            "subtitleCueLines": [
+              11500,
+              11505,
+              11510,
+              11515,
+              11519,
+              11523
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This representation of me, they call a 'hologram', though where I come from, the corresponding word indicates a mirage made only of light.",
+          "But as you can feel, this 'hologram' is solid. Once I've reached a certain rank I'll be taught the sciences that make it possible.",
+          "In this area, inert Signs are no longer sufficient for the level of communication we wish to provide.",
+          "The hologram will draw upon a wider variety of pre-written responses.",
+          "It is also a somewhat more-personal substitute for my presence.",
+          "Godspeed."
+        ],
+        "pt-br": [
+          "Essa representação de mim eles chamam de “holograma”, embora, de onde venho, a palavra correspondente se refira a uma miragem feita só de luz.",
+          "Mas, como você pode sentir, esse “holograma” é sólido. Quando eu alcançar uma certa patente vou aprender as ciências que tornam isso possível.",
+          "Nesta área, placas inertes já não bastam para o nível de comunicação que desejamos oferecer.",
+          "O holograma recorrerá a uma variedade maior de respostas pré-escritas.",
+          "Ele também é um substituto um pouco mais pessoal para a minha presença.",
+          "Boa jornada."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

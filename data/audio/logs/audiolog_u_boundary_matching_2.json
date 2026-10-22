@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "audiolog_u_boundary_matching_2",
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "audiolog_u_boundary_matching_2",
+      "clips": [
+        {
+          "id": "audiolog_u_boundary_matching_2_1__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 4.273667,
+          "src": "audio/clips/audiolog_u_boundary_matching_2_1__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "Am I to take it that this boundary business is how you *find* the worlds, as well?"
+            ],
+            "pt-br": [
+              "Devo entender que essa questão das fronteiras também é como vocês *encontram* os mundos?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_2_1__sokoban.wav",
+            "subtitleCueLines": [
+              14680
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_boundary_matching_2_2__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 2.779854,
+          "src": "audio/clips/audiolog_u_boundary_matching_2_2__director.mp3",
+          "transcripts": {
+            "en": [
+              "The full story is complicated, but that's part of it."
+            ],
+            "pt-br": [
+              "A história completa é complicada, mas essa é uma parte dela."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_2_2__director.wav",
+            "subtitleCueLines": [
+              14684
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_boundary_matching_2_3__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 12.849333,
+          "src": "audio/clips/audiolog_u_boundary_matching_2_3__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "These worlds are completely separated from yours; until you have been to your desired destination",
+              "at least once, you have no measurement of it. How do you know what boundary to match?"
+            ],
+            "pt-br": [
+              "Esses mundos são completamente separados do seu; até você ter visitado o destino desejado",
+              "pelo menos uma vez, você não tem nenhuma medição dele. Como sabe qual fronteira deve reproduzir?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_2_3__sokoban.wav",
+            "subtitleCueLines": [
+              14688,
+              14693
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_boundary_matching_2_4__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 51.440479,
+          "src": "audio/clips/audiolog_u_boundary_matching_2_4__director.mp3",
+          "transcripts": {
+            "en": [
+              "If you are content with a volume that's extremely small,",
+              "you can take a guess what a boundary might look like inside the destination you want,",
+              "and keep trying til you get something.",
+              "Maybe you fail quite a number of times, but suppose, eventually, you successfully get a swap.",
+              "Your boundary is so small, it can fit just a few particles,",
+              "but they act as an initial sensor. That sensor gives you some information.",
+              "With that information, you try a slightly bigger boundary.",
+              "If you don't quite get it right, try perturbing things a little, at random.",
+              "When you succeed with the slightly bigger boundary, send a slightly bigger sensor. You get slightly more information.",
+              "Keep repeating this until you fit inside the swapped space yourself.",
+              "It's complicated to describe the boundary conditions that actually matter.",
+              "Famously, you can't clone a quantum state, but here you don't need to, because a bunch of stuff cancels out."
+            ],
+            "pt-br": [
+              "Se você se contenta com um volume que é extremamente pequeno,",
+              "você pode tentar adivinhar como seria uma fronteira no destino que você quer,",
+              "e continuar tentando até conseguir algo.",
+              "Talvez você falhe muitas vezes, mas suponha que, por fim, consiga fazer uma troca.",
+              "Sua fronteira é tão pequena, que só cabem algumas partículas,",
+              "mas elas agem como um sensor inicial. Esse sensor lhe dá um pouco de informação.",
+              "Com essa informação, você tenta uma fronteira um pouco maior.",
+              "Se não acertar bem, tente alterar um pouco as coisas, ao acaso.",
+              "Quando conseguir com a fronteira um pouco maior, envie um sensor um pouco maior. Você obtém um pouco mais de informação.",
+              "Continue repetindo isso até você mesmo caber no espaço trocado.",
+              "É complicado descrever as condições de contorno que realmente importam.",
+              "É famoso que você não pode clonar um estado quântico, mas aqui você não precisa, porque um monte de coisas se cancela."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_2_4__director.wav",
+            "subtitleCueLines": [
+              14697,
+              14701,
+              14706,
+              14709,
+              14713,
+              14717,
+              14721,
+              14725,
+              14729,
+              14734,
+              14739,
+              14744
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_boundary_matching_2_5__sokoban",
+          "speaker": "sokoban",
+          "speakerName": "sokoban",
+          "duration": 5.223,
+          "src": "audio/clips/audiolog_u_boundary_matching_2_5__sokoban.mp3",
+          "transcripts": {
+            "en": [
+              "I'll keep that in mind, but first I shall need to learn about \"quantum states\"."
+            ],
+            "pt-br": [
+              "Vou guardar isso em mente, mas primeiro vou precisar aprender sobre esses “estados quânticos”."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_2_5__sokoban.wav",
+            "subtitleCueLines": [
+              14750
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "audiolog_u_boundary_matching_2_6__director",
+          "speaker": "director",
+          "speakerName": "director",
+          "duration": 20.010813,
+          "src": "audio/clips/audiolog_u_boundary_matching_2_6__director.mp3",
+          "transcripts": {
+            "en": [
+              "Sure. Anyway, what's important is not the boundary conditions at any one point, or even all the points.",
+              "Because, again, it's all mixed up. Holography. What matters is the aggregate value,",
+              "and this lets us get away with some things that would be impossible otherwise.",
+              "One might even think it was designed this way."
+            ],
+            "pt-br": [
+              "Claro. Enfim, o importante não são as condições de contorno em um único ponto, nem mesmo em todos os pontos.",
+              "Porque, de novo, está tudo misturado. Holografia. O que importa é o valor agregado,",
+              "e isso nos permite sair impunes de algumas coisas que, de outra forma, seriam impossíveis.",
+              "Poder-se-ia até pensar que isso foi projetado dessa forma."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "audiolog_u_boundary_matching_2_6__director.wav",
+            "subtitleCueLines": [
+              14754,
+              14760,
+              14764,
+              14768
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Am I to take it that this boundary business is how you *find* the worlds, as well?",
+          "The full story is complicated, but that's part of it.",
+          "These worlds are completely separated from yours; until you have been to your desired destination",
+          "at least once, you have no measurement of it. How do you know what boundary to match?",
+          "If you are content with a volume that's extremely small,",
+          "you can take a guess what a boundary might look like inside the destination you want,",
+          "and keep trying til you get something.",
+          "Maybe you fail quite a number of times, but suppose, eventually, you successfully get a swap.",
+          "Your boundary is so small, it can fit just a few particles,",
+          "but they act as an initial sensor. That sensor gives you some information.",
+          "With that information, you try a slightly bigger boundary.",
+          "If you don't quite get it right, try perturbing things a little, at random.",
+          "When you succeed with the slightly bigger boundary, send a slightly bigger sensor. You get slightly more information.",
+          "Keep repeating this until you fit inside the swapped space yourself.",
+          "It's complicated to describe the boundary conditions that actually matter.",
+          "Famously, you can't clone a quantum state, but here you don't need to, because a bunch of stuff cancels out.",
+          "I'll keep that in mind, but first I shall need to learn about \"quantum states\".",
+          "Sure. Anyway, what's important is not the boundary conditions at any one point, or even all the points.",
+          "Because, again, it's all mixed up. Holography. What matters is the aggregate value,",
+          "and this lets us get away with some things that would be impossible otherwise.",
+          "One might even think it was designed this way."
+        ],
+        "pt-br": [
+          "Devo entender que essa questão das fronteiras também é como vocês *encontram* os mundos?",
+          "A história completa é complicada, mas essa é uma parte dela.",
+          "Esses mundos são completamente separados do seu; até você ter visitado o destino desejado",
+          "pelo menos uma vez, você não tem nenhuma medição dele. Como sabe qual fronteira deve reproduzir?",
+          "Se você se contenta com um volume que é extremamente pequeno,",
+          "você pode tentar adivinhar como seria uma fronteira no destino que você quer,",
+          "e continuar tentando até conseguir algo.",
+          "Talvez você falhe muitas vezes, mas suponha que, por fim, consiga fazer uma troca.",
+          "Sua fronteira é tão pequena, que só cabem algumas partículas,",
+          "mas elas agem como um sensor inicial. Esse sensor lhe dá um pouco de informação.",
+          "Com essa informação, você tenta uma fronteira um pouco maior.",
+          "Se não acertar bem, tente alterar um pouco as coisas, ao acaso.",
+          "Quando conseguir com a fronteira um pouco maior, envie um sensor um pouco maior. Você obtém um pouco mais de informação.",
+          "Continue repetindo isso até você mesmo caber no espaço trocado.",
+          "É complicado descrever as condições de contorno que realmente importam.",
+          "É famoso que você não pode clonar um estado quântico, mas aqui você não precisa, porque um monte de coisas se cancela.",
+          "Vou guardar isso em mente, mas primeiro vou precisar aprender sobre esses “estados quânticos”.",
+          "Claro. Enfim, o importante não são as condições de contorno em um único ponto, nem mesmo em todos os pontos.",
+          "Porque, de novo, está tudo misturado. Holografia. O que importa é o valor agregado,",
+          "e isso nos permite sair impunes de algumas coisas que, de outra forma, seriam impossíveis.",
+          "Poder-se-ia até pensar que isso foi projetado dessa forma."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

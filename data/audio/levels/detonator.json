@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "level": "detonator",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hw_warrior_thief_dragons",
+      "clips": [
+        {
+          "id": "hw_warrior_thief_dragons_1__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 2.304,
+          "src": "audio/clips/hw_warrior_thief_dragons_1__thief.mp3",
+          "transcripts": {
+            "en": [
+              "Heyyy, dragon friends!"
+            ],
+            "pt-br": [
+              "Eiii, amigos dragões!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_dragons_1__thief.wav",
+            "subtitleCueLines": [
+              7280
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hw_warrior_thief_dragons_2__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 1.741854,
+          "src": "audio/clips/hw_warrior_thief_dragons_2__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "Dragon friends?"
+            ],
+            "pt-br": [
+              "Amigos dragões?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_dragons_2__warrior.wav",
+            "subtitleCueLines": [
+              7283
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hw_warrior_thief_dragons_3__thief",
+          "speaker": "thief",
+          "speakerName": "thief",
+          "duration": 1.342333,
+          "src": "audio/clips/hw_warrior_thief_dragons_3__thief.mp3",
+          "transcripts": {
+            "en": [
+              "They remind me of home!"
+            ],
+            "pt-br": [
+              "Eles me lembram de casa!"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hw_warrior_thief_dragons_3__thief.wav",
+            "subtitleCueLines": [
+              7286
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Heyyy, dragon friends!",
+          "Dragon friends?",
+          "They remind me of home!"
+        ],
+        "pt-br": [
+          "Eiii, amigos dragões!",
+          "Amigos dragões?",
+          "Eles me lembram de casa!"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 92274691,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hw_warrior_thief_dragons",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/detonator.entities"
+          }
+        ],
+        "subtitleLine": 7279,
+        "subtitleHeader": ":::"
+      }
+    }
+  ]
+}

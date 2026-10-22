@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "level": "mirror_8_v5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "mirror_pre_clones",
+      "clips": [
+        {
+          "id": "mirror_pre_clones_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 6.477083,
+          "src": "audio/clips/mirror_pre_clones_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "Well. We're finally here. Is it awkward?"
+            ],
+            "pt-br": [
+              "Bem. Finalmente chegamos. Ficou estranho?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_pre_clones_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6145
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_pre_clones_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 0.917208,
+          "src": "audio/clips/mirror_pre_clones_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "What's that?"
+            ],
+            "pt-br": [
+              "Como assim?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_pre_clones_2__trader.wav",
+            "subtitleCueLines": [
+              6149
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_pre_clones_3__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 2.345333,
+          "src": "audio/clips/mirror_pre_clones_3__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "This is where you panicked and fled the trial."
+            ],
+            "pt-br": [
+              "Foi aqui que você entrou em pânico e fugiu do teste."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_pre_clones_3__trader_alt.wav",
+            "subtitleCueLines": [
+              6153
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_pre_clones_4__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 3.022667,
+          "src": "audio/clips/mirror_pre_clones_4__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Oh. You know who I am?"
+            ],
+            "pt-br": [
+              "Ah. Você sabe quem eu sou?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_pre_clones_4__trader.wav",
+            "subtitleCueLines": [
+              6157
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_pre_clones_5__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 27.678958,
+          "src": "audio/clips/mirror_pre_clones_5__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I was in your cohort, back then. Same is same.",
+              "I was the next to run the trial, immediately after you.",
+              "When you'd failed, as they were leading you away, I read the contortions on your face, and they told me something.",
+              "They gave me a hint at the specific danger I would soon face. I steeled myself against that thing.",
+              "So, you helped me succeed."
+            ],
+            "pt-br": [
+              "Eu estava no seu grupo, naquela época. Mesma coisa é mesma coisa.",
+              "Fui o próximo a realizar o teste, logo depois de você.",
+              "Depois que você falhou, enquanto eu os via te levarem embora, eu li as contorções no seu rosto, e elas me disseram algo.",
+              "Me deram uma pista sobre o perigo específico que eu enfrentaria em breve. Eu me preparei para enfrentar aquilo.",
+              "Então, você me ajudou a conseguir."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_pre_clones_5__trader_alt.wav",
+            "subtitleCueLines": [
+              6160,
+              6165,
+              6169,
+              6174,
+              6180
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_pre_clones_6__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 2.289333,
+          "src": "audio/clips/mirror_pre_clones_6__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Congratulations, I suppose."
+            ],
+            "pt-br": [
+              "Parabéns, eu acho."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_pre_clones_6__trader.wav",
+            "subtitleCueLines": [
+              6183
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Well. We're finally here. Is it awkward?",
+          "What's that?",
+          "This is where you panicked and fled the trial.",
+          "Oh. You know who I am?",
+          "I was in your cohort, back then. Same is same.",
+          "I was the next to run the trial, immediately after you.",
+          "When you'd failed, as they were leading you away, I read the contortions on your face, and they told me something.",
+          "They gave me a hint at the specific danger I would soon face. I steeled myself against that thing.",
+          "So, you helped me succeed.",
+          "Congratulations, I suppose."
+        ],
+        "pt-br": [
+          "Bem. Finalmente chegamos. Ficou estranho?",
+          "Como assim?",
+          "Foi aqui que você entrou em pânico e fugiu do teste.",
+          "Ah. Você sabe quem eu sou?",
+          "Eu estava no seu grupo, naquela época. Mesma coisa é mesma coisa.",
+          "Fui o próximo a realizar o teste, logo depois de você.",
+          "Depois que você falhou, enquanto eu os via te levarem embora, eu li as contorções no seu rosto, e elas me disseram algo.",
+          "Me deram uma pista sobre o perigo específico que eu enfrentaria em breve. Eu me preparei para enfrentar aquilo.",
+          "Então, você me ajudou a conseguir.",
+          "Parabéns, eu acho."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048676,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_pre_clones",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              10.0,
+              0.0
+            ],
+            "source": "data-common/mirror_8_v5.entities"
+          }
+        ],
+        "subtitleLine": 6144,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "mirror_pre_clones_end",
+      "clips": [
+        {
+          "id": "mirror_pre_clones_end_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 2.242667,
+          "src": "audio/clips/mirror_pre_clones_end_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I'll leave you alone for this next part."
+            ],
+            "pt-br": [
+              "Vou deixar você a sós nesta próxima parte."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_pre_clones_end_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6191
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I'll leave you alone for this next part."
+        ],
+        "pt-br": [
+          "Vou deixar você a sós nesta próxima parte."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048676,
+            "entityType": "Guy",
+            "field": "win_bark",
+            "value": "mirror_pre_clones_end",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              10.0,
+              0.0
+            ],
+            "source": "data-common/mirror_8_v5.entities"
+          }
+        ],
+        "subtitleLine": 6190,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

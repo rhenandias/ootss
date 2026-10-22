@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "level": "quick_redirect_v5",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "vm_warrior_mirror_guy_1",
+      "clips": [
+        {
+          "id": "vm_warrior_mirror_guy_1_1__warrior",
+          "speaker": "warrior",
+          "speakerName": "Valens",
+          "duration": 9.523,
+          "src": "audio/clips/vm_warrior_mirror_guy_1_1__warrior.mp3",
+          "transcripts": {
+            "en": [
+              "I don't know, I like the mirror guy fine. I mean yeah, he's quiet sometimes.",
+              "Is that so wrong? One of *our* teammates has never said a word."
+            ],
+            "pt-br": [
+              "Não sei, eu gosto do cara do espelho. Quer dizer, sim, ele é quieto às vezes.",
+              "E isso é tão errado? Um dos *nossos* colegas nunca disse uma palavra."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "vm_warrior_mirror_guy_1_1__warrior.wav",
+            "subtitleCueLines": [
+              8858,
+              8863
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I don't know, I like the mirror guy fine. I mean yeah, he's quiet sometimes.",
+          "Is that so wrong? One of *our* teammates has never said a word."
+        ],
+        "pt-br": [
+          "Não sei, eu gosto do cara do espelho. Quer dizer, sim, ele é quieto às vezes.",
+          "E isso é tão errado? Um dos *nossos* colegas nunca disse uma palavra."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137682,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "vm_warrior_mirror_guy_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              17.0,
+              10.0,
+              12.0
+            ],
+            "source": "data-common/quick_redirect_v5.entities"
+          }
+        ],
+        "subtitleLine": 8857,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

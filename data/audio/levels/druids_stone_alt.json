@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "level": "druids_stone_alt",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+  },
+  "conversations": [
+    {
+      "id": "hs_sailor_druid_2",
+      "clips": [
+        {
+          "id": "hs_sailor_druid_2_1__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 6.423479,
+          "src": "audio/clips/hs_sailor_druid_2_1__druid.mp3",
+          "transcripts": {
+            "en": [
+              "So your spirit friend, he is a boat, but he wasn't *transmuted* into a boat?"
+            ],
+            "pt-br": [
+              "Então seu amigo espírito é um barco, mas não foi transmutado em um barco?"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_2_1__druid.wav",
+            "subtitleCueLines": [
+              8373
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_2_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 6.512667,
+          "src": "audio/clips/hs_sailor_druid_2_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "No, the boat was built with filaments threaded through the frame. He was bound into those filaments."
+            ],
+            "pt-br": [
+              "Não, o barco foi construído com filamentos passando pela estrutura. Ele foi ligado a esses filamentos."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_2_2__sailor.wav",
+            "subtitleCueLines": [
+              8377
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_2_3__druid",
+          "speaker": "druid",
+          "speakerName": "druid",
+          "duration": 2.141333,
+          "src": "audio/clips/hs_sailor_druid_2_3__druid.mp3",
+          "transcripts": {
+            "en": [
+              "Must be a very special kind of filament."
+            ],
+            "pt-br": [
+              "Deve ser um tipo muito especial de filamento."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_2_3__druid.wav",
+            "subtitleCueLines": [
+              8382
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "hs_sailor_druid_2_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.025875,
+          "src": "audio/clips/hs_sailor_druid_2_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Deepest secret."
+            ],
+            "pt-br": [
+              "Segredo mais profundo."
+            ]
+          },
+          "provenance": {
+            "sourceWav": "hs_sailor_druid_2_4__sailor.wav",
+            "subtitleCueLines": [
+              8385
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So your spirit friend, he is a boat, but he wasn't *transmuted* into a boat?",
+          "No, the boat was built with filaments threaded through the frame. He was bound into those filaments.",
+          "Must be a very special kind of filament.",
+          "Deepest secret."
+        ],
+        "pt-br": [
+          "Então seu amigo espírito é um barco, mas não foi transmutado em um barco?",
+          "Não, o barco foi construído com filamentos passando pela estrutura. Ele foi ligado a esses filamentos.",
+          "Deve ser um tipo muito especial de filamento.",
+          "Segredo mais profundo."
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 46137361,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "hs_sailor_druid_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              10.0,
+              13.0,
+              0.0
+            ],
+            "source": "data-common/druids_stone_alt.entities"
+          }
+        ],
+        "subtitleLine": 8372,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}
