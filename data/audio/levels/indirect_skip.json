@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "How is a 'boat' alive?"
             ],
+            "de": [
+              "Wie kann ein „Boot“ lebendig sein?"
+            ],
+            "es": [
+              "¿Cómo puede estar vivo un «barco»?"
+            ],
+            "fr": [
+              "Comment un bateau peut-il être vivant ?"
+            ],
+            "it": [
+              "Come fa una barca a essere viva?"
+            ],
+            "ja": [
+              "船は生きてるのか？"
+            ],
+            "ko": [
+              "배가 어떻게 살아 있는 거지?"
+            ],
             "pt-br": [
               "Como um barco está vivo?"
+            ],
+            "ru": [
+              "Как корабль может быть живым?"
+            ],
+            "s-cn": [
+              "“船”怎么会是活的？"
+            ],
+            "t-cn": [
+              "「船」怎麼會是活的？"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_2_1__warrior.wav",
             "subtitleCueLines": [
-              8234
+              8244
             ],
             "explicitAudioReference": null
           }
@@ -46,16 +82,52 @@
               "The boat is just his body. He himself is a spirit from ... an immaterial place.",
               "The Guild builds him a body, in return for his services."
             ],
+            "de": [
+              "Das Boot ist nur sein Körper. Er selbst ist ein Geist aus ... einer immateriellen Welt.",
+              "Die Gilde baut ihm einen Körper, und dafür übernimmt er Arbeiten für sie."
+            ],
+            "es": [
+              "El barco es solo su cuerpo. Él es un espíritu de... un lugar inmaterial.",
+              "El Gremio le construye un cuerpo a cambio de sus servicios."
+            ],
+            "fr": [
+              "Le bateau n'est que son corps. C'est un esprit venu d'un... endroit immatériel.",
+              "La Guilde lui a construit un corps, en échange de ses services."
+            ],
+            "it": [
+              "La barca è solo il suo corpo. È uno spirito di... un luogo immateriale.",
+              "La gilda gli costruisce un corpo, in cambio dei suoi servizi."
+            ],
+            "ja": [
+              "物質のない世界の幽霊が 船に宿ってるのさ。",
+              "アイツは体を求め、 ギルドはそれと引き換えに 仕事させてるんだ。"
+            ],
+            "ko": [
+              "그 배는 그냥 몸체일 뿐이야. 원래는... 비물질적인 곳에서 온 영혼이거든.",
+              "길드가 그 친구에게 몸을 마련해 주고, 그 대가로 그 친구는 일을 하는 거야."
+            ],
             "pt-br": [
               "O barco é só o corpo dele. Ele é um espírito de... um lugar imaterial.",
               "A guilda lhe constrói um corpo, em troca de seus serviços."
+            ],
+            "ru": [
+              "Корабль — это просто его тело. Он дух из... нематериального места.",
+              "Гильдия даёт ему тело в обмен на его услуги."
+            ],
+            "s-cn": [
+              "船只是他的身体。他是来自……非物质世界的灵体。",
+              "公会给他造了一副身体，作为交换，他替公会效力。"
+            ],
+            "t-cn": [
+              "船隻是他的身體。他是來自……非物質世界的靈體。",
+              "公會給他造了一副身體，作為交換，他替公會效力。"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_2_2__sailor.wav",
             "subtitleCueLines": [
-              8237,
-              8241
+              8247,
+              8251
             ],
             "explicitAudioReference": null
           }
@@ -70,14 +142,41 @@
             "en": [
               "Such as?"
             ],
+            "de": [
+              "Zum Beispiel?"
+            ],
+            "es": [
+              "¿Como cuáles?"
+            ],
+            "fr": [
+              "Qui sont... ?"
+            ],
+            "it": [
+              "Per esempio?"
+            ],
+            "ja": [
+              "たとえば？"
+            ],
+            "ko": [
+              "예를 들면?"
+            ],
             "pt-br": [
               "Como quais?"
+            ],
+            "ru": [
+              "Например?"
+            ],
+            "s-cn": [
+              "比如呢？"
+            ],
+            "t-cn": [
+              "比如呢？"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_2_3__warrior.wav",
             "subtitleCueLines": [
-              8245
+              8255
             ],
             "explicitAudioReference": null
           }
@@ -92,14 +191,41 @@
             "en": [
               "Seeing problems before they become problems. And piloting a ship that goes very, very, very fast."
             ],
+            "de": [
+              "Probleme erkennen, bevor sie zum Problem werden. Und ein Schiff steuern, das sehr, sehr, sehr schnell fährt."
+            ],
+            "es": [
+              "Ver los problemas antes de que se conviertan en un problema. Y pilotar un barco que va muy, muy, muy rápido."
+            ],
+            "fr": [
+              "Repérer les problèmes avant qu'ils n'en deviennent. Et piloter un navire qui va très, très, très vite."
+            ],
+            "it": [
+              "Individuare i problemi prima che diventino tali. Pilotare una nave che va molto, molto, molto veloce."
+            ],
+            "ja": [
+              "問題が起きる前に見抜くこと。 それから、すごく、すごく、すっごく 速い船を操ること。"
+            ],
+            "ko": [
+              "문제가 터지기 전에 미리 알아채는 거야. 그리고 아주, 아주, 아주 빠른 배를 조종하는 거지."
+            ],
             "pt-br": [
               "Enxergar problemas antes que virem um problema. E pilotar um navio que vai muito, muito, muito rápido."
+            ],
+            "ru": [
+              "Замечать проблемы до того, как они станут проблемой. И вести корабль очень, очень, очень быстро."
+            ],
+            "s-cn": [
+              "在出事之前先发现苗头。还有，驾驶一艘快得不得了的船。"
+            ],
+            "t-cn": [
+              "在出事之前先發現苗頭。還有，駕駛一艘快得不得了的船。"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_2_4__sailor.wav",
             "subtitleCueLines": [
-              8248
+              8258
             ],
             "explicitAudioReference": null
           }
@@ -115,16 +241,52 @@
               "We don't have those, but ... where I come from, vehicles are steered by people.",
               "You couldn't steer the 'boat' yourself?"
             ],
+            "de": [
+              "So etwas haben wir nicht, aber ... wo ich herkomme, werden Fahrzeuge von Menschen gesteuert.",
+              "Könntest du das „Boot“ nicht selbst steuern?"
+            ],
+            "es": [
+              "No tenemos nada parecido, pero... de donde yo vengo, los vehículos los conducen personas.",
+              "¿No podías pilotar el «barco» por tu cuenta?"
+            ],
+            "fr": [
+              "Nous n'avons pas de navires, mais... dans mon monde, ce sont les gens qui conduisent les véhicules.",
+              "Vous ne pourriez pas piloter le « bateau » vous-même ?"
+            ],
+            "it": [
+              "Noi non ne abbiamo, ma... da dove vengo io, i veicoli sono guidati dalle persone.",
+              "Non potevi pilotare tu la \"barca\"?"
+            ],
+            "ja": [
+              "俺のところに船はねえが… 乗り物は、人が操るもんだぞ。",
+              "自分で船を操れないのか？"
+            ],
+            "ko": [
+              "우리에겐 그런 건 없지만 ... 내가 살던 곳에서는 탈것을 사람이 조종해.",
+              "네가 직접 배를 조종할 수는 없었어?"
+            ],
             "pt-br": [
               "Não temos essas coisas, mas... de onde eu venho, os veículos são conduzidos por pessoas.",
               "Você não podia pilotar o barco por conta própria?"
+            ],
+            "ru": [
+              "У нас таких нет, но... там, откуда я родом, транспортом управляют люди.",
+              "А ты сама не могла бы управлять лодкой?"
+            ],
+            "s-cn": [
+              "我们没有这种船。不过……在我家乡，交通工具都是由人来驾驭的。",
+              "你不能自己驾驶那艘“船”吗？"
+            ],
+            "t-cn": [
+              "我們沒有這種船。不過……在我家鄉， 交通工具都是由人來駕馭的。",
+              "你不能自己駕駛那艘「船」嗎？"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_2_5__warrior.wav",
             "subtitleCueLines": [
-              8252,
-              8257
+              8262,
+              8267
             ],
             "explicitAudioReference": null
           }
@@ -139,14 +301,41 @@
             "en": [
               "On open ocean, yes. But threading isles and reefs at speed... I'm only human, good Sir."
             ],
+            "de": [
+              "Auf offener See schon. Aber mit hohem Tempo zwischen Inseln und Riffen hindurch ... Ich bin auch nur ein Mensch, mein Bester."
+            ],
+            "es": [
+              "En mar abierto, sí. Pero pasar entre islas y arrecifes a toda velocidad... Solo soy humana, buen señor."
+            ],
+            "fr": [
+              "En pleine mer, oui. Mais slalomer entre les îles et les récifs à toute vitesse... Je ne suis qu'humaine, mon bon monsieur."
+            ],
+            "it": [
+              "In mare aperto, sì. Ma sfrecciare tra isole e scogli... Sono solo un essere umano, mio buon signore."
+            ],
+            "ja": [
+              "外洋なら、そうですね。 でも島々やサンゴ礁の間を 高速で縫うとなると… 人間だから限界があるのさ。"
+            ],
+            "ko": [
+              "탁 트인 바다에서는 가능하지. 하지만 섬과 암초 사이를 빠르게 지나가려면... 나도 그저 사람일 뿐이라고."
+            ],
             "pt-br": [
-              "Em mar aberto, sim. Mas passar entre ilhas e recifes em alta velocidade... Sou apenas humano, meu bom senhor."
+              "Em mar aberto, sim. Mas passar entre ilhas e recifes em alta velocidade... Sou apenas humana, meu bom senhor."
+            ],
+            "ru": [
+              "В открытом океане — да. Но лавировать между островами и рифами на скорости... Я всего лишь человек, сударь."
+            ],
+            "s-cn": [
+              "在开阔海面上当然可以。可要我在岛屿和暗礁之间全速穿行…… 先生，我也只是个凡人啊。"
+            ],
+            "t-cn": [
+              "在開闊海面上當然可以。 可要我在島嶼和暗礁之間全速穿行…… 先生，我也只是個凡人啊。"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_2_6__sailor.wav",
             "subtitleCueLines": [
-              8260
+              8270
             ],
             "explicitAudioReference": null
           }
@@ -167,6 +356,66 @@
           "You couldn't steer the 'boat' yourself?",
           "On open ocean, yes. But threading isles and reefs at speed... I'm only human, good Sir."
         ],
+        "de": [
+          "Wie kann ein „Boot“ lebendig sein?",
+          "Das Boot ist nur sein Körper. Er selbst ist ein Geist aus ... einer immateriellen Welt.",
+          "Die Gilde baut ihm einen Körper, und dafür übernimmt er Arbeiten für sie.",
+          "Zum Beispiel?",
+          "Probleme erkennen, bevor sie zum Problem werden. Und ein Schiff steuern, das sehr, sehr, sehr schnell fährt.",
+          "So etwas haben wir nicht, aber ... wo ich herkomme, werden Fahrzeuge von Menschen gesteuert.",
+          "Könntest du das „Boot“ nicht selbst steuern?",
+          "Auf offener See schon. Aber mit hohem Tempo zwischen Inseln und Riffen hindurch ... Ich bin auch nur ein Mensch, mein Bester."
+        ],
+        "es": [
+          "¿Cómo puede estar vivo un «barco»?",
+          "El barco es solo su cuerpo. Él es un espíritu de... un lugar inmaterial.",
+          "El Gremio le construye un cuerpo a cambio de sus servicios.",
+          "¿Como cuáles?",
+          "Ver los problemas antes de que se conviertan en un problema. Y pilotar un barco que va muy, muy, muy rápido.",
+          "No tenemos nada parecido, pero... de donde yo vengo, los vehículos los conducen personas.",
+          "¿No podías pilotar el «barco» por tu cuenta?",
+          "En mar abierto, sí. Pero pasar entre islas y arrecifes a toda velocidad... Solo soy humana, buen señor."
+        ],
+        "fr": [
+          "Comment un bateau peut-il être vivant ?",
+          "Le bateau n'est que son corps. C'est un esprit venu d'un... endroit immatériel.",
+          "La Guilde lui a construit un corps, en échange de ses services.",
+          "Qui sont... ?",
+          "Repérer les problèmes avant qu'ils n'en deviennent. Et piloter un navire qui va très, très, très vite.",
+          "Nous n'avons pas de navires, mais... dans mon monde, ce sont les gens qui conduisent les véhicules.",
+          "Vous ne pourriez pas piloter le « bateau » vous-même ?",
+          "En pleine mer, oui. Mais slalomer entre les îles et les récifs à toute vitesse... Je ne suis qu'humaine, mon bon monsieur."
+        ],
+        "it": [
+          "Come fa una barca a essere viva?",
+          "La barca è solo il suo corpo. È uno spirito di... un luogo immateriale.",
+          "La gilda gli costruisce un corpo, in cambio dei suoi servizi.",
+          "Per esempio?",
+          "Individuare i problemi prima che diventino tali. Pilotare una nave che va molto, molto, molto veloce.",
+          "Noi non ne abbiamo, ma... da dove vengo io, i veicoli sono guidati dalle persone.",
+          "Non potevi pilotare tu la \"barca\"?",
+          "In mare aperto, sì. Ma sfrecciare tra isole e scogli... Sono solo un essere umano, mio buon signore."
+        ],
+        "ja": [
+          "船は生きてるのか？",
+          "物質のない世界の幽霊が 船に宿ってるのさ。",
+          "アイツは体を求め、 ギルドはそれと引き換えに 仕事させてるんだ。",
+          "たとえば？",
+          "問題が起きる前に見抜くこと。 それから、すごく、すごく、すっごく 速い船を操ること。",
+          "俺のところに船はねえが… 乗り物は、人が操るもんだぞ。",
+          "自分で船を操れないのか？",
+          "外洋なら、そうですね。 でも島々やサンゴ礁の間を 高速で縫うとなると… 人間だから限界があるのさ。"
+        ],
+        "ko": [
+          "배가 어떻게 살아 있는 거지?",
+          "그 배는 그냥 몸체일 뿐이야. 원래는... 비물질적인 곳에서 온 영혼이거든.",
+          "길드가 그 친구에게 몸을 마련해 주고, 그 대가로 그 친구는 일을 하는 거야.",
+          "예를 들면?",
+          "문제가 터지기 전에 미리 알아채는 거야. 그리고 아주, 아주, 아주 빠른 배를 조종하는 거지.",
+          "우리에겐 그런 건 없지만 ... 내가 살던 곳에서는 탈것을 사람이 조종해.",
+          "네가 직접 배를 조종할 수는 없었어?",
+          "탁 트인 바다에서는 가능하지. 하지만 섬과 암초 사이를 빠르게 지나가려면... 나도 그저 사람일 뿐이라고."
+        ],
         "pt-br": [
           "Como um barco está vivo?",
           "O barco é só o corpo dele. Ele é um espírito de... um lugar imaterial.",
@@ -175,7 +424,37 @@
           "Enxergar problemas antes que virem um problema. E pilotar um navio que vai muito, muito, muito rápido.",
           "Não temos essas coisas, mas... de onde eu venho, os veículos são conduzidos por pessoas.",
           "Você não podia pilotar o barco por conta própria?",
-          "Em mar aberto, sim. Mas passar entre ilhas e recifes em alta velocidade... Sou apenas humano, meu bom senhor."
+          "Em mar aberto, sim. Mas passar entre ilhas e recifes em alta velocidade... Sou apenas humana, meu bom senhor."
+        ],
+        "ru": [
+          "Как корабль может быть живым?",
+          "Корабль — это просто его тело. Он дух из... нематериального места.",
+          "Гильдия даёт ему тело в обмен на его услуги.",
+          "Например?",
+          "Замечать проблемы до того, как они станут проблемой. И вести корабль очень, очень, очень быстро.",
+          "У нас таких нет, но... там, откуда я родом, транспортом управляют люди.",
+          "А ты сама не могла бы управлять лодкой?",
+          "В открытом океане — да. Но лавировать между островами и рифами на скорости... Я всего лишь человек, сударь."
+        ],
+        "s-cn": [
+          "“船”怎么会是活的？",
+          "船只是他的身体。他是来自……非物质世界的灵体。",
+          "公会给他造了一副身体，作为交换，他替公会效力。",
+          "比如呢？",
+          "在出事之前先发现苗头。还有，驾驶一艘快得不得了的船。",
+          "我们没有这种船。不过……在我家乡，交通工具都是由人来驾驭的。",
+          "你不能自己驾驶那艘“船”吗？",
+          "在开阔海面上当然可以。可要我在岛屿和暗礁之间全速穿行…… 先生，我也只是个凡人啊。"
+        ],
+        "t-cn": [
+          "「船」怎麼會是活的？",
+          "船隻是他的身體。他是來自……非物質世界的靈體。",
+          "公會給他造了一副身體，作為交換，他替公會效力。",
+          "比如呢？",
+          "在出事之前先發現苗頭。還有，駕駛一艘快得不得了的船。",
+          "我們沒有這種船。不過……在我家鄉， 交通工具都是由人來駕馭的。",
+          "你不能自己駕駛那艘「船」嗎？",
+          "在開闊海面上當然可以。 可要我在島嶼和暗礁之間全速穿行…… 先生，我也只是個凡人啊。"
         ]
       },
       "silentCues": [],
@@ -197,7 +476,7 @@
             "source": "data-common/indirect_skip.entities"
           }
         ],
-        "subtitleLine": 8233,
+        "subtitleLine": 8243,
         "subtitleHeader": "::"
       }
     }

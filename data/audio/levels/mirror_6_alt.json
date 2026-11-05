@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Did she give you any details? How you will die, or when?"
             ],
+            "de": [
+              "Hat sie dir Näheres gesagt? Wie du sterben wirst oder wann?"
+            ],
+            "es": [
+              "¿Y te dio algún detalle? ¿Cómo ibas a morir, o cuándo?"
+            ],
+            "fr": [
+              "Vous a-t-elle donné des détails ? Comment vous allez mourir, ou quand ?"
+            ],
+            "it": [
+              "Ti ha dato qualche dettaglio? Come morirai, o quando?"
+            ],
+            "ja": [
+              "死に方まで聞かされたのか？"
+            ],
+            "ko": [
+              "구체적으로 말해 주던가? 어떻게 죽을지, 아니면 언제 죽을지?"
+            ],
             "pt-br": [
               "Ela deu algum detalhe? Como você vai morrer, ou quando?"
+            ],
+            "ru": [
+              "Она рассказала что-нибудь конкретное? Как ты умрёшь или когда?"
+            ],
+            "s-cn": [
+              "她给过你什么细节吗？ 你会怎么死，又或者什么时候死？"
+            ],
+            "t-cn": [
+              "她給過你什麼細節嗎？ 你會怎麼死，又或者什麼時候死？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_3_1__trader_alt.wav",
             "subtitleCueLines": [
-              6090
+              6100
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "She was very vague."
             ],
+            "de": [
+              "Sie hat sich sehr vage ausgedrückt."
+            ],
+            "es": [
+              "Fue muy imprecisa."
+            ],
+            "fr": [
+              "Elle est restée très vague."
+            ],
+            "it": [
+              "È stata molto vaga."
+            ],
+            "ja": [
+              "いや、かなり曖昧だった。"
+            ],
+            "ko": [
+              "아니, 아주 애매했어."
+            ],
             "pt-br": [
               "Ela foi bem vaga."
+            ],
+            "ru": [
+              "Её слова были очень туманны."
+            ],
+            "s-cn": [
+              "她说得很含糊。"
+            ],
+            "t-cn": [
+              "她說得很含糊。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_3_2__trader.wav",
             "subtitleCueLines": [
-              6095
+              6105
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "I'm told there are clues in the words. What did she say, exactly?"
             ],
+            "de": [
+              "Ich habe gehört, in der Wortwahl stecken Hinweise. Was genau hat sie gesagt?"
+            ],
+            "es": [
+              "Me han dicho que sus palabras a veces esconden pistas. ¿Qué dijo exactamente?"
+            ],
+            "fr": [
+              "Il paraît qu'il y a des indices dans les mots. Qu'a-t-elle dit, exactement ?"
+            ],
+            "it": [
+              "Dicono le parole nascondono indizi. Che cosa ha detto, esattamente?"
+            ],
+            "ja": [
+              "手がかりがあるかもしれない。 何と言われた？"
+            ],
+            "ko": [
+              "말 속에 단서가 숨어 있다고 하던데. 정확히 뭐라고 했는데?"
+            ],
             "pt-br": [
               "Disseram-me que há pistas nas palavras. O que ela disse, exatamente?"
+            ],
+            "ru": [
+              "Мне сказали, что в словах есть подсказки. Что именно она сказала?"
+            ],
+            "s-cn": [
+              "我听说线索往往就藏在措辞里。她当时原话怎么说？"
+            ],
+            "t-cn": [
+              "我聽說線索往往就藏在措辭裡。她當時原話怎麼說？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_3_3__trader_alt.wav",
             "subtitleCueLines": [
-              6098
+              6108
             ],
             "explicitAudioReference": null
           }
@@ -89,14 +179,41 @@
             "en": [
               "The words were: \"You will depart this world before the year is out. You must order your affairs.\""
             ],
+            "de": [
+              "Die Worte lauteten: „Du wirst diese Welt verlassen, noch bevor das Jahr vorüber ist. Du musst deine Angelegenheiten ordnen.“"
+            ],
+            "es": [
+              "Sus palabras fueron: «Partirás de este mundo antes de que acabe el año. Debes poner tus asuntos en orden»."
+            ],
+            "fr": [
+              "Ses mots exacts étaient : « Vous quitterez ce monde avant la fin de l'année. Mettez vos affaires en ordre. »"
+            ],
+            "it": [
+              "Le parole erano: \"Lascerai questo mondo prima che l'anno finisca. Devi mettere ordine nei tuoi affari.\""
+            ],
+            "ja": [
+              "「この年のうちに、 汝はこの世を去る。 身辺を整えよ」"
+            ],
+            "ko": [
+              "이렇게 말했지. \"당신은 올해가 가기 전에 이 세상을 떠나게 될 겁니다. 당신의 일들을 정리해 두셔야 합니다.\""
+            ],
             "pt-br": [
               "As palavras foram: “Você vai deixar este mundo antes do fim do ano. Precisa pôr sua vida em ordem.”"
+            ],
+            "ru": [
+              "Слова были такие: «Ты покинешь этот мир до конца года. Тебе нужно привести дела в порядок»."
+            ],
+            "s-cn": [
+              "她的原话是：“今年之内，你将离开这个世界。 你须将诸事安排妥当。”"
+            ],
+            "t-cn": [
+              "她的原話是： 「今年之內，你將離開這個世界。你須將諸事安排妥當。」"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_3_4__trader.wav",
             "subtitleCueLines": [
-              6102
+              6112
             ],
             "explicitAudioReference": null
           }
@@ -113,11 +230,65 @@
           "I'm told there are clues in the words. What did she say, exactly?",
           "The words were: \"You will depart this world before the year is out. You must order your affairs.\""
         ],
+        "de": [
+          "Hat sie dir Näheres gesagt? Wie du sterben wirst oder wann?",
+          "Sie hat sich sehr vage ausgedrückt.",
+          "Ich habe gehört, in der Wortwahl stecken Hinweise. Was genau hat sie gesagt?",
+          "Die Worte lauteten: „Du wirst diese Welt verlassen, noch bevor das Jahr vorüber ist. Du musst deine Angelegenheiten ordnen.“"
+        ],
+        "es": [
+          "¿Y te dio algún detalle? ¿Cómo ibas a morir, o cuándo?",
+          "Fue muy imprecisa.",
+          "Me han dicho que sus palabras a veces esconden pistas. ¿Qué dijo exactamente?",
+          "Sus palabras fueron: «Partirás de este mundo antes de que acabe el año. Debes poner tus asuntos en orden»."
+        ],
+        "fr": [
+          "Vous a-t-elle donné des détails ? Comment vous allez mourir, ou quand ?",
+          "Elle est restée très vague.",
+          "Il paraît qu'il y a des indices dans les mots. Qu'a-t-elle dit, exactement ?",
+          "Ses mots exacts étaient : « Vous quitterez ce monde avant la fin de l'année. Mettez vos affaires en ordre. »"
+        ],
+        "it": [
+          "Ti ha dato qualche dettaglio? Come morirai, o quando?",
+          "È stata molto vaga.",
+          "Dicono le parole nascondono indizi. Che cosa ha detto, esattamente?",
+          "Le parole erano: \"Lascerai questo mondo prima che l'anno finisca. Devi mettere ordine nei tuoi affari.\""
+        ],
+        "ja": [
+          "死に方まで聞かされたのか？",
+          "いや、かなり曖昧だった。",
+          "手がかりがあるかもしれない。 何と言われた？",
+          "「この年のうちに、 汝はこの世を去る。 身辺を整えよ」"
+        ],
+        "ko": [
+          "구체적으로 말해 주던가? 어떻게 죽을지, 아니면 언제 죽을지?",
+          "아니, 아주 애매했어.",
+          "말 속에 단서가 숨어 있다고 하던데. 정확히 뭐라고 했는데?",
+          "이렇게 말했지. \"당신은 올해가 가기 전에 이 세상을 떠나게 될 겁니다. 당신의 일들을 정리해 두셔야 합니다.\""
+        ],
         "pt-br": [
           "Ela deu algum detalhe? Como você vai morrer, ou quando?",
           "Ela foi bem vaga.",
           "Disseram-me que há pistas nas palavras. O que ela disse, exatamente?",
           "As palavras foram: “Você vai deixar este mundo antes do fim do ano. Precisa pôr sua vida em ordem.”"
+        ],
+        "ru": [
+          "Она рассказала что-нибудь конкретное? Как ты умрёшь или когда?",
+          "Её слова были очень туманны.",
+          "Мне сказали, что в словах есть подсказки. Что именно она сказала?",
+          "Слова были такие: «Ты покинешь этот мир до конца года. Тебе нужно привести дела в порядок»."
+        ],
+        "s-cn": [
+          "她给过你什么细节吗？ 你会怎么死，又或者什么时候死？",
+          "她说得很含糊。",
+          "我听说线索往往就藏在措辞里。她当时原话怎么说？",
+          "她的原话是：“今年之内，你将离开这个世界。 你须将诸事安排妥当。”"
+        ],
+        "t-cn": [
+          "她給過你什麼細節嗎？ 你會怎麼死，又或者什麼時候死？",
+          "她說得很含糊。",
+          "我聽說線索往往就藏在措辭裡。她當時原話怎麼說？",
+          "她的原話是： 「今年之內，你將離開這個世界。你須將諸事安排妥當。」"
         ]
       },
       "silentCues": [],
@@ -139,7 +310,7 @@
             "source": "data-common/mirror_6_alt.entities"
           }
         ],
-        "subtitleLine": 6089,
+        "subtitleLine": 6099,
         "subtitleHeader": "::"
       }
     }

@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Hello there, pals!",
               "We could all just get along nicely, couldn't we ... ?"
             ],
+            "de": [
+              "Hallöchen, Freunde!",
+              "Wir könnten uns doch alle gut vertragen, oder etwa nicht ... ?"
+            ],
+            "es": [
+              "¡Hola, amigos!",
+              "Podríamos llevarnos todos bien, ¿no...?"
+            ],
+            "fr": [
+              "Salut les amis !",
+              "On pourrait tous essayer de bien s'entendre, non... ?"
+            ],
+            "it": [
+              "Ciao amici!",
+              "Potremmo andare tutti d'amore e d'accordo, non credete...?"
+            ],
+            "ja": [
+              "やあみんな！",
+              "争う必要は ないんだよ…"
+            ],
+            "ko": [
+              "안녕, 친구들!",
+              "그냥 다 같이 사이좋게 지내면 안 될까...?"
+            ],
             "pt-br": [
               "Olá, amigos!",
               "A gente podia se dar bem, não podia...?"
+            ],
+            "ru": [
+              "Приветик, друзья!",
+              "Мы ведь могли бы просто жить дружно, правда?.."
+            ],
+            "s-cn": [
+              "你们好呀，小伙伴们！",
+              "我们大家完全可以和和气气地相处，对吧……？"
+            ],
+            "t-cn": [
+              "你們好呀，小夥伴們！",
+              "我們大家完全可以和和氣氣地相處，對吧……？"
             ]
           },
           "provenance": {
@@ -48,8 +93,35 @@
             "en": [
               "Witness, Ratleigh, the precarity in which our Heroine is now placed! Watch how she weaves."
             ],
+            "de": [
+              "Sieh, Ratleigh, in welch prekärer Lage unsere Heldin nun steckt! Beobachte, wie sie sich hindurchschlängelt."
+            ],
+            "es": [
+              "¡Contempla, Ratleigh, el aprieto en el que se encuentra ahora nuestra heroína! Mira cómo lo sortea."
+            ],
+            "fr": [
+              "Vois, Ratleigh, la situation précaire de notre héroïne ! Regarde comme elle louvoie."
+            ],
+            "it": [
+              "Osserva, Ratleigh, la precarietà in cui si trova ora la nostra eroina! Guarda come si destreggia."
+            ],
+            "ja": [
+              "見よ、ラトレイ。 我らが女英雄の置かれた、あの危地を！ どう切り抜けるか見ておけ。"
+            ],
+            "ko": [
+              "보거라, 래틀리, 우리의 여주인공이 얼마나 위태로운 처지인지! 어떻게 헤쳐 나가는지 보거라."
+            ],
             "pt-br": [
               "Veja, Ratleigh, a situação precária em que nossa heroína se encontra! Observe como ela ziguezagueia."
+            ],
+            "ru": [
+              "Узри, Рэтли, в каком шатком положении оказалась наша героиня! Смотри, как она лавирует."
+            ],
+            "s-cn": [
+              "见证吧，拉特利，我们的女英雄现在处境有多岌岌可危！ 看她如何左躲右闪。"
+            ],
+            "t-cn": [
+              "見證吧，拉特利，我們的女英雄現在處境有多岌岌可危！ 看她如何左躲右閃。"
             ]
           },
           "provenance": {
@@ -70,8 +142,35 @@
             "en": [
               "What does precar-"
             ],
+            "de": [
+              "Was bedeutet prekä-"
+            ],
+            "es": [
+              "¿Qué significa precar-?"
+            ],
+            "fr": [
+              "Qu'est-ce que ça veut dire précai—"
+            ],
+            "it": [
+              "Cosa significa precar..."
+            ],
+            "ja": [
+              "危地って、どういう――"
+            ],
+            "ko": [
+              "위태롭다는 게 무슨..."
+            ],
             "pt-br": [
               "O que significa precár-"
+            ],
+            "ru": [
+              "Что значит шат..."
+            ],
+            "s-cn": [
+              "什么叫岌岌可——"
+            ],
+            "t-cn": [
+              "什麼叫岌岌可——"
             ]
           },
           "provenance": {
@@ -92,8 +191,35 @@
             "en": [
               "Not now. Watch!"
             ],
+            "de": [
+              "Nicht jetzt. Schau zu!"
+            ],
+            "es": [
+              "Ahora no. ¡Mira!"
+            ],
+            "fr": [
+              "Pas maintenant. Regarde !"
+            ],
+            "it": [
+              "Non ora. Guarda!"
+            ],
+            "ja": [
+              "今は黙って見ろ！"
+            ],
+            "ko": [
+              "지금 말고. 잘 봐!"
+            ],
             "pt-br": [
               "Agora não. Observe!"
+            ],
+            "ru": [
+              "Не сейчас. Смотри!"
+            ],
+            "s-cn": [
+              "现在别问。看着！"
+            ],
+            "t-cn": [
+              "現在別問。看著！"
             ]
           },
           "provenance": {
@@ -117,12 +243,75 @@
           "What does precar-",
           "Not now. Watch!"
         ],
+        "de": [
+          "Hallöchen, Freunde!",
+          "Wir könnten uns doch alle gut vertragen, oder etwa nicht ... ?",
+          "Sieh, Ratleigh, in welch prekärer Lage unsere Heldin nun steckt! Beobachte, wie sie sich hindurchschlängelt.",
+          "Was bedeutet prekä-",
+          "Nicht jetzt. Schau zu!"
+        ],
+        "es": [
+          "¡Hola, amigos!",
+          "Podríamos llevarnos todos bien, ¿no...?",
+          "¡Contempla, Ratleigh, el aprieto en el que se encuentra ahora nuestra heroína! Mira cómo lo sortea.",
+          "¿Qué significa precar-?",
+          "Ahora no. ¡Mira!"
+        ],
+        "fr": [
+          "Salut les amis !",
+          "On pourrait tous essayer de bien s'entendre, non... ?",
+          "Vois, Ratleigh, la situation précaire de notre héroïne ! Regarde comme elle louvoie.",
+          "Qu'est-ce que ça veut dire précai—",
+          "Pas maintenant. Regarde !"
+        ],
+        "it": [
+          "Ciao amici!",
+          "Potremmo andare tutti d'amore e d'accordo, non credete...?",
+          "Osserva, Ratleigh, la precarietà in cui si trova ora la nostra eroina! Guarda come si destreggia.",
+          "Cosa significa precar...",
+          "Non ora. Guarda!"
+        ],
+        "ja": [
+          "やあみんな！",
+          "争う必要は ないんだよ…",
+          "見よ、ラトレイ。 我らが女英雄の置かれた、あの危地を！ どう切り抜けるか見ておけ。",
+          "危地って、どういう――",
+          "今は黙って見ろ！"
+        ],
+        "ko": [
+          "안녕, 친구들!",
+          "그냥 다 같이 사이좋게 지내면 안 될까...?",
+          "보거라, 래틀리, 우리의 여주인공이 얼마나 위태로운 처지인지! 어떻게 헤쳐 나가는지 보거라.",
+          "위태롭다는 게 무슨...",
+          "지금 말고. 잘 봐!"
+        ],
         "pt-br": [
           "Olá, amigos!",
           "A gente podia se dar bem, não podia...?",
           "Veja, Ratleigh, a situação precária em que nossa heroína se encontra! Observe como ela ziguezagueia.",
           "O que significa precár-",
           "Agora não. Observe!"
+        ],
+        "ru": [
+          "Приветик, друзья!",
+          "Мы ведь могли бы просто жить дружно, правда?..",
+          "Узри, Рэтли, в каком шатком положении оказалась наша героиня! Смотри, как она лавирует.",
+          "Что значит шат...",
+          "Не сейчас. Смотри!"
+        ],
+        "s-cn": [
+          "你们好呀，小伙伴们！",
+          "我们大家完全可以和和气气地相处，对吧……？",
+          "见证吧，拉特利，我们的女英雄现在处境有多岌岌可危！ 看她如何左躲右闪。",
+          "什么叫岌岌可——",
+          "现在别问。看着！"
+        ],
+        "t-cn": [
+          "你們好呀，小夥伴們！",
+          "我們大家完全可以和和氣氣地相處，對吧……？",
+          "見證吧，拉特利，我們的女英雄現在處境有多岌岌可危！ 看她如何左躲右閃。",
+          "什麼叫岌岌可——",
+          "現在別問。看著！"
         ]
       },
       "silentCues": [],
@@ -162,9 +351,45 @@
               "Those guards boasted that no foe could come within a day's march without being met in force.",
               "So how'd these Goblins get here? And why aren't they being repelled?"
             ],
+            "de": [
+              "Die Wachen haben geprahlt, dass kein Feind näher als einen Tagesmarsch herankommt, ohne dass ihm eine starke Truppe entgegentritt.",
+              "Wie sind diese Goblins dann hierhergekommen? Und warum werden sie nicht vertrieben?"
+            ],
+            "es": [
+              "Esos guardias presumían de que ningún enemigo podía acercarse a menos de una jornada de marcha sin toparse con una férrea resistencia.",
+              "Entonces, ¿cómo han llegado aquí estos goblins? ¿Y por qué no los están combatiendo?"
+            ],
+            "fr": [
+              "Ces gardes se sont vantés qu'aucun ennemi ne pouvait s'approcher à moins d'une journée de marche sans se heurter à une solide résistance.",
+              "Alors comment ces gobelins sont-ils arrivés ici, et pourquoi ne les repousse-t-on pas ?"
+            ],
+            "it": [
+              "Quelle guardie si vantavano che nessun nemico potesse arrivare a un giorno di marcia senza incontrare una resistenza massiccia.",
+              "Allora come hanno fatto i goblin ad arrivare fin qui? E perché nessuno li allontana?"
+            ],
+            "ja": [
+              "ゴブリンは近寄りすぎたら すぐに撃退するって 衛兵は言ってたのに…",
+              "なんでここで 放置されてるの？"
+            ],
+            "ko": [
+              "저 경비병들은 어떤 적이든 하루 행군 거리 안에 들어오면 대규모 병력으로 맞서겠다고 으스댔어.",
+              "그런데 이 고블린들은 어떻게 여기까지 온 거지? 왜 아무도 안 막은 건데?"
+            ],
             "pt-br": [
               "Aqueles guardas se gabavam de que inimigo algum chegava a um dia de marcha sem enfrentar uma tropa de peso.",
               "Então como esses Goblins chegaram aqui? E por que não estão sendo expulsos?"
+            ],
+            "ru": [
+              "Те стражники хвастались, что стоит врагу подойти на расстояние дневного перехода, как его встретят во всеоружии.",
+              "Так как же эти гоблины сюда попали, и почему их никто не отгоняет?"
+            ],
+            "s-cn": [
+              "那些卫兵曾夸口说，没有哪个敌人能在一天行程之内接近， 而不被大军迎头痛击。",
+              "那这些哥布林怎么跑到这来了？ 怎么就没人把它们击退呢？"
+            ],
+            "t-cn": [
+              "那些衛兵曾誇口說，沒有哪個敵人能在一天行程之內接近， 而不被大軍迎頭痛擊。",
+              "那這些哥布林怎麼跑到這來了？ 怎麼就沒人把它們擊退呢？"
             ]
           },
           "provenance": {
@@ -186,9 +411,45 @@
           "Those guards boasted that no foe could come within a day's march without being met in force.",
           "So how'd these Goblins get here? And why aren't they being repelled?"
         ],
+        "de": [
+          "Die Wachen haben geprahlt, dass kein Feind näher als einen Tagesmarsch herankommt, ohne dass ihm eine starke Truppe entgegentritt.",
+          "Wie sind diese Goblins dann hierhergekommen? Und warum werden sie nicht vertrieben?"
+        ],
+        "es": [
+          "Esos guardias presumían de que ningún enemigo podía acercarse a menos de una jornada de marcha sin toparse con una férrea resistencia.",
+          "Entonces, ¿cómo han llegado aquí estos goblins? ¿Y por qué no los están combatiendo?"
+        ],
+        "fr": [
+          "Ces gardes se sont vantés qu'aucun ennemi ne pouvait s'approcher à moins d'une journée de marche sans se heurter à une solide résistance.",
+          "Alors comment ces gobelins sont-ils arrivés ici, et pourquoi ne les repousse-t-on pas ?"
+        ],
+        "it": [
+          "Quelle guardie si vantavano che nessun nemico potesse arrivare a un giorno di marcia senza incontrare una resistenza massiccia.",
+          "Allora come hanno fatto i goblin ad arrivare fin qui? E perché nessuno li allontana?"
+        ],
+        "ja": [
+          "ゴブリンは近寄りすぎたら すぐに撃退するって 衛兵は言ってたのに…",
+          "なんでここで 放置されてるの？"
+        ],
+        "ko": [
+          "저 경비병들은 어떤 적이든 하루 행군 거리 안에 들어오면 대규모 병력으로 맞서겠다고 으스댔어.",
+          "그런데 이 고블린들은 어떻게 여기까지 온 거지? 왜 아무도 안 막은 건데?"
+        ],
         "pt-br": [
           "Aqueles guardas se gabavam de que inimigo algum chegava a um dia de marcha sem enfrentar uma tropa de peso.",
           "Então como esses Goblins chegaram aqui? E por que não estão sendo expulsos?"
+        ],
+        "ru": [
+          "Те стражники хвастались, что стоит врагу подойти на расстояние дневного перехода, как его встретят во всеоружии.",
+          "Так как же эти гоблины сюда попали, и почему их никто не отгоняет?"
+        ],
+        "s-cn": [
+          "那些卫兵曾夸口说，没有哪个敌人能在一天行程之内接近， 而不被大军迎头痛击。",
+          "那这些哥布林怎么跑到这来了？ 怎么就没人把它们击退呢？"
+        ],
+        "t-cn": [
+          "那些衛兵曾誇口說，沒有哪個敵人能在一天行程之內接近， 而不被大軍迎頭痛擊。",
+          "那這些哥布林怎麼跑到這來了？ 怎麼就沒人把它們擊退呢？"
         ]
       },
       "silentCues": [],

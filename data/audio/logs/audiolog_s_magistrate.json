@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_s_magistrate",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -19,12 +28,41 @@
             "en": [
               "... and though it feels uncouth to say outright, I must admit: the prospect of greatly prolonging my own life is ... quite a temptation."
             ],
-            "pt-br": []
+            "de": [
+              "... und auch wenn es mir ungehörig erscheint, das offen zu sagen, muss ich gestehen: Die Aussicht, mein Leben erheblich zu verlängern, ist ... durchaus verlockend."
+            ],
+            "es": [
+              "... y, aunque parezca poco delicado decirlo abiertamente, debo confesarlo: la posibilidad de prolongar mucho mi propia vida es... una gran tentación."
+            ],
+            "fr": [
+              "... et même s'il me semble inconvenant de le dire ouvertement, je dois l'avouer : la perspective de prolonger considérablement ma propre vie est... assez tentante."
+            ],
+            "it": [
+              "... e anche se sembra sconveniente dirlo apertamente, devo confessarlo: la prospettiva di prolungare di molto la mia vita è... una bella tentazione."
+            ],
+            "ja": [
+              "あけすけに言うのは、はしたない気もしますが、 認めざるを得ません。 自分の寿命を大幅に延ばせるというのは… 実に魅力的です。"
+            ],
+            "ko": [
+              "그리고 대놓고 말하기는 좀 상스럽지만, 고백해야겠어: 내 수명을 크게 늘릴 수 있다는 건 ... 꽤나 유혹적이야."
+            ],
+            "pt-br": [
+              "... e embora pareça indelicado dizer isso abertamente, devo confessar: a perspectiva de prolongar muito minha própria vida é... uma tentação e tanto."
+            ],
+            "ru": [
+              "... и хотя говорить об этом впрямую кажется неприличным, должен признаться: возможность значительно продлить собственную жизнь... весьма заманчива."
+            ],
+            "s-cn": [
+              "虽然这么直白地说有些不体面，但我得承认： 能让自己多活上许多年……确实很难不心动。"
+            ],
+            "t-cn": [
+              "雖然這麼直白地說有些不體面，但我得承認： 能讓自己多活上許多年……確實很難不心動。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_1__sokoban.wav",
             "subtitleCueLines": [
-              10364
+              10374
             ],
             "explicitAudioReference": null
           }
@@ -40,13 +78,52 @@
               "That's not surprising. But long-term, if you're here for inauthentic reasons, it'll become obvious...",
               "Oh. Look who we have here."
             ],
-            "pt-br": []
+            "de": [
+              "Das überrascht mich nicht. Aber wenn du aus Beweggründen hier bist, die nicht aufrichtig sind, wird sich das auf Dauer zeigen …",
+              "Oh. Wen haben wir denn da?"
+            ],
+            "es": [
+              "No me sorprende. Pero, a la larga, si estás aquí por motivos poco sinceros, se acabará notando...",
+              "Vaya. Mira a quién tenemos aquí."
+            ],
+            "fr": [
+              "Ce n'est pas surprenant. Mais à long terme, si vous êtes ici pour de mauvaises raisons, ça finira par se voir...",
+              "Oh. Tiens donc, qui voilà."
+            ],
+            "it": [
+              "Non mi sorprende. Ma alla lunga, se sei qui per motivi non sinceri, si noterà...",
+              "Oh. Guarda chi si vede."
+            ],
+            "ja": [
+              "無理もないわ。 でも、ここにいる理由がうわべだけなら、 長くいるうちに、分かってしまう…",
+              "あら、誰が来たかと思えば。"
+            ],
+            "ko": [
+              "놀랍지도 않네. 하지만 길게 보면, 네가 여기 온 이유가 진심이 아니라면, 결국 드러날 거야...",
+              "오. 이게 누구야."
+            ],
+            "pt-br": [
+              "Não me surpreende. Mas, a longo prazo, se você está aqui por motivos que não são genuínos, isso vai ficar óbvio...",
+              "Ah. Olha só quem está aqui."
+            ],
+            "ru": [
+              "Неудивительно. Но со временем, если тебя сюда привели неискренние побуждения, это станет очевидно...",
+              "О. Кто это тут у нас."
+            ],
+            "s-cn": [
+              "这不奇怪。不过，你要是带着别的心思来这里， 时间一长，自然会露出来……",
+              "哦，看看谁来了。"
+            ],
+            "t-cn": [
+              "這不奇怪。不過，你要是帶著別的心思來這裡， 時間一長，自然會露出來……",
+              "哦，看看誰來了。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_2__acting.wav",
             "subtitleCueLines": [
-              10369,
-              10375
+              10379,
+              10385
             ],
             "explicitAudioReference": null
           }
@@ -64,15 +141,74 @@
               "Attempting to mend connections that have broken, and so forth.",
               "Success is limited, but nonzero."
             ],
-            "pt-br": []
+            "de": [
+              "Endlich habe ich dich gefunden!",
+              "Wie gewünscht, habe ich am Vier-Vier gearbeitet.",
+              "Ich habe versucht, Verbindungen zu reparieren, die abgebrochen sind, und so weiter.",
+              "Der Erfolg ist begrenzt, aber nicht gleich null."
+            ],
+            "es": [
+              "¡Por fin te encontré!",
+              "Como me pediste, he estado trabajando en el cuatro-cuatro.",
+              "Intentando reparar conexiones interrumpidas, y todo eso.",
+              "El éxito es limitado, pero no nulo."
+            ],
+            "fr": [
+              "Enfin, je vous retrouve !",
+              "Comme demandé, j'ai travaillé sur le quatre-quatre.",
+              "J'essaie de réparer les connexions qui se sont rompues, et ainsi de suite.",
+              "Le succès est limité, mais non nul."
+            ],
+            "it": [
+              "Eccoti, finalmente!",
+              "Come mi hai chiesto, ho lavorato al quattro quattro.",
+              "Cercando di riparare i collegamenti che si sono rotti, e così via.",
+              "Il successo è limitato, ma non nullo."
+            ],
+            "ja": [
+              "やっと見つけたぞ！",
+              "頼まれた通り、 四四で作業している。",
+              "切れたつながりを直したりしてな。",
+              "成果は限定的だが ゼロではない。"
+            ],
+            "ko": [
+              "드디어 찾았군!",
+              "요청한 대로, 4-4에서 작업하고 있었지.",
+              "끊어진 연결들을 복구하려 애쓰는 등 이것저것 했어.",
+              "성과는 미미하지만, 전혀 없는 건 아니야."
+            ],
+            "pt-br": [
+              "Finalmente encontrei você!",
+              "Conforme pediu, estive trabalhando no quatro-quatro.",
+              "Tentando remendar conexões que se romperam e assim por diante.",
+              "O sucesso é limitado, mas não nulo."
+            ],
+            "ru": [
+              "Наконец-то нашёл!",
+              "Как меня и просили, я работал над четвёрками.",
+              "Пытаясь чинить разорванные связи и так далее.",
+              "Успех ограниченный, но не нулевой."
+            ],
+            "s-cn": [
+              "总算找到你了！",
+              "按你的吩咐，我一直在四乘四组合体中工作。",
+              "试着把断掉的连接接回去，诸如此类。",
+              "虽有进展，但十分有限。"
+            ],
+            "t-cn": [
+              "總算找到你了！",
+              "按你的吩咐，我一直在四乘四組合體中工作。",
+              "試著把斷掉的連接接回去，諸如此類。",
+              "雖有進展，但十分有限。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_1__magistrate.wav",
             "subtitleCueLines": [
-              10379,
-              10383,
-              10387,
-              10391
+              10389,
+              10393,
+              10397,
+              10401
             ],
             "explicitAudioReference": "audiolog_s_magistrate_1__magistrate"
           }
@@ -87,12 +223,41 @@
             "en": [
               "By the Book, you're the -- !"
             ],
-            "pt-br": []
+            "de": [
+              "Beim Buch, du bist der – !"
+            ],
+            "es": [
+              "¡Por el Libro! ¡Tú eres...!"
+            ],
+            "fr": [
+              "Par le Livre, vous êtes le— !"
+            ],
+            "it": [
+              "Per il Libro, tu sei il...!"
+            ],
+            "ja": [
+              "まさか、あなたは――！"
+            ],
+            "ko": [
+              "책이시여, 당신은...!"
+            ],
+            "pt-br": [
+              "Pelo Livro, você é o...!"
+            ],
+            "ru": [
+              "Клянусь книгой, ты!.."
+            ],
+            "s-cn": [
+              "圣典在上，你就是……！"
+            ],
+            "t-cn": [
+              "聖典在上，你就是……！"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_4__sokoban.wav",
             "subtitleCueLines": [
-              10394
+              10404
             ],
             "explicitAudioReference": null
           }
@@ -107,12 +272,41 @@
             "en": [
               "None other. In the flesh. In the spirit. In the *soul*! Pleased to meet me."
             ],
-            "pt-br": []
+            "de": [
+              "Kein anderer. Leibhaftig. Im Geiste. In der Seele! Erfreut, mich kennenzulernen."
+            ],
+            "es": [
+              "El mismísimo. En carne y hueso. En espíritu. ¡En alma! Encantado de conocerme."
+            ],
+            "fr": [
+              "Lui-même. En chair et en os. En esprit. Dans l'âme ! Ravi de me rencontrer."
+            ],
+            "it": [
+              "Nessun altro. In carne e ossa. In spirito. Nell'anima! Piacere di conoscermi."
+            ],
+            "ja": [
+              "いかにも。肉体も、精神も、 そして「魂」も本物だ！ 私に会えて光栄だろう。"
+            ],
+            "ko": [
+              "바로 그 사람이지. 육신으로도. 정신으로도. 영혼으로도! 날 만나서 반갑겠군."
+            ],
+            "pt-br": [
+              "Ninguém menos. Em carne e osso. Em espírito. Em alma! Prazer em me conhecer."
+            ],
+            "ru": [
+              "Никто иной. Во плоти. В духе. В душе! Рад встрече со мной."
+            ],
+            "s-cn": [
+              "正是在下。肉身俱在，心神俱在，连灵魂也在！ 见到我，荣幸吧。"
+            ],
+            "t-cn": [
+              "正是在下。肉身俱在，心神俱在， 連靈魂也在！見到我，榮幸吧。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_3__magistrate.wav",
             "subtitleCueLines": [
-              10398
+              10408
             ],
             "explicitAudioReference": "audiolog_s_magistrate_3__magistrate"
           }
@@ -127,12 +321,41 @@
             "en": [
               "How long --"
             ],
-            "pt-br": []
+            "de": [
+              "Wie lange –"
+            ],
+            "es": [
+              "¿Cuánto tiempo...?"
+            ],
+            "fr": [
+              "Depuis combien de temps—"
+            ],
+            "it": [
+              "Da quanto..."
+            ],
+            "ja": [
+              "どれくらい――"
+            ],
+            "ko": [
+              "얼마나..."
+            ],
+            "pt-br": [
+              "Quanto tempo..."
+            ],
+            "ru": [
+              "Сколько..."
+            ],
+            "s-cn": [
+              "你在这里多久——"
+            ],
+            "t-cn": [
+              "你在這裡多久——"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_6__sokoban.wav",
             "subtitleCueLines": [
-              10403
+              10413
             ],
             "explicitAudioReference": null
           }
@@ -149,14 +372,63 @@
               "You seem new.",
               "Are you the Doorstead Fellow?"
             ],
-            "pt-br": []
+            "de": [
+              "Gemessen an meiner Eigenzeit sind gut vierzehn Jahre vergangen. Aber ich bin noch immer derselbe Mann wie damals. Tief im Innern. Irgendwo.",
+              "Du wirkst neu hier.",
+              "Bist du der Torstätten-Gefährte?"
+            ],
+            "es": [
+              "Según mi tiempo, el correcto, han pasado unos buenos catorce años. Pero sigo siendo el mismo hombre que era. En el fondo. En algún rincón.",
+              "Pareces nuevo.",
+              "¿Eres el colega del umbral?"
+            ],
+            "fr": [
+              "À mon heure à moi, ça fait bien quatorze ans. Mais je suis toujours le même homme qu'avant. Au fond. Quelque part.",
+              "Vous avez l'air nouveau.",
+              "Vous êtes le type de la porte ?"
+            ],
+            "it": [
+              "Calcolando correttamente, sono passati ben quattordici anni. Ma sono ancora lo stesso uomo che ero. In fondo. Da qualche parte.",
+              "Sembri nuovo.",
+              "Sei il tizio della porta?"
+            ],
+            "ja": [
+              "私の時間では11年ほどだ。 だが私は今も昔と同じ。 根っこのところはな。",
+              "お前は新顔だな。",
+              "門の男か？"
+            ],
+            "ko": [
+              "내가 있던 시간 기준으로는, 족히 14년쯤 됐지. 하지만 난 여전히 그때의 나와 같은 사람이야. 마음 깊은 곳 어딘가에선.",
+              "당신은 처음 보는 얼굴인데.",
+              "당신이 그 '문 동료'인가?"
+            ],
+            "pt-br": [
+              "Pelo meu tempo próprio, já se passaram bons quatorze anos. Mas eu ainda sou o mesmo homem que era. Lá no fundo. Em algum lugar.",
+              "Você parece novo.",
+              "Você é o Companheiro da Porta?"
+            ],
+            "ru": [
+              "По моему времени прошло уже добрых четырнадцать лет. Но я всё тот же человек, каким был. Глубоко внутри. Где-то.",
+              "Ты кажешься новым.",
+              "Ты проходной коллега?"
+            ],
+            "s-cn": [
+              "按我自己经历的时间算，足足十四年了。 但我内心深处的某个角落，还是从前的我。",
+              "你看着像新来的。",
+              "你就是那位界门来客？"
+            ],
+            "t-cn": [
+              "按我自己經歷的時間算，足足十四年了。 但我內心深處的某個角落，還是從前的我。",
+              "你看著像新來的。",
+              "你就是那位界門來客？"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_5__magistrate.wav",
             "subtitleCueLines": [
-              10407,
-              10413,
-              10417
+              10417,
+              10423,
+              10427
             ],
             "explicitAudioReference": "audiolog_s_magistrate_5__magistrate"
           }
@@ -171,12 +443,41 @@
             "en": [
               "I -- you --"
             ],
-            "pt-br": []
+            "de": [
+              "Ich – du –"
+            ],
+            "es": [
+              "Yo... tú..."
+            ],
+            "fr": [
+              "Je... vous..."
+            ],
+            "it": [
+              "Io... tu..."
+            ],
+            "ja": [
+              "私は――あなたは――"
+            ],
+            "ko": [
+              "난... 당신이..."
+            ],
+            "pt-br": [
+              "Eu... você..."
+            ],
+            "ru": [
+              "Я... ты..."
+            ],
+            "s-cn": [
+              "我……你……"
+            ],
+            "t-cn": [
+              "我……你……"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_8__sokoban.wav",
             "subtitleCueLines": [
-              10421
+              10431
             ],
             "explicitAudioReference": null
           }
@@ -192,13 +493,52 @@
               "Outrageous how you just *showed up*, without an invitation.",
               "I at least had to be judged worthy of an invite. But, welcome."
             ],
-            "pt-br": []
+            "de": [
+              "Unerhört, wie du einfach aufgetaucht bist, ganz ohne Einladung.",
+              "Ich musste wenigstens erst einer Einladung für würdig befunden werden. Aber willkommen."
+            ],
+            "es": [
+              "Es indignante que aparezcas sin más, sin invitación.",
+              "Al menos a mí tuvieron que considerarme digno de una invitación. Pero bueno, bienvenido."
+            ],
+            "fr": [
+              "C'est scandaleux de vous être pointé comme ça, sans invitation.",
+              "Moi, au moins, j'ai été jugé digne d'une invitation. Mais bienvenue quand même."
+            ],
+            "it": [
+              "Assurdo che tu sia semplicemente sbucato qui, senza un invito.",
+              "Io invece dovevo essere ritenuto degno di un invito. Ma benvenuto."
+            ],
+            "ja": [
+              "招待もなく「現れた」とは けしからん。",
+              "私の時は審査があったというのに… まあ、歓迎しよう。"
+            ],
+            "ko": [
+              "초대도 없이 이렇게 불쑥 나타나다니 무례하기 짝이 없군.",
+              "난 적어도 초대받을 자격이 있는지 심사는 받았는데 말이지. 그래도 환영하지."
+            ],
+            "pt-br": [
+              "É um absurdo como você simplesmente apareceu, sem convite.",
+              "Eu pelo menos tive que ser julgado digno de um convite. Mas, seja bem-vindo."
+            ],
+            "ru": [
+              "Какой наглостью было просто так явиться, без приглашения.",
+              "Мне хотя бы пришлось заслужить приглашение. Но всё же добро пожаловать."
+            ],
+            "s-cn": [
+              "你竟然就这么不请自来，简直离谱。",
+              "我好歹还得先被判定符合标准，才能拿到邀请。不过，欢迎。"
+            ],
+            "t-cn": [
+              "你竟然就這麼不請自來，簡直離譜。",
+              "我好歹還得先被判定符合標準， 才能拿到邀請。不過，歡迎。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_7__magistrate.wav",
             "subtitleCueLines": [
-              10425,
-              10430
+              10435,
+              10440
             ],
             "explicitAudioReference": "audiolog_s_magistrate_7__magistrate"
           }
@@ -214,13 +554,52 @@
               "I've been looking into his dynamics as a possible lower-density substitution within the four-four.",
               "There is an option there. We should talk about it."
             ],
-            "pt-br": []
+            "de": [
+              "Ich habe seine Dynamik untersucht, da er im Vier-Vier womöglich als Ersatz mit geringerer Dichte infrage kommt.",
+              "Das wäre eine Möglichkeit. Wir sollten darüber reden."
+            ],
+            "es": [
+              "He estado estudiando sus dinámicas como posible sustituto de menor densidad dentro del cuatro-cuatro.",
+              "Hay una opción. Deberíamos hablar de ella."
+            ],
+            "fr": [
+              "J'examinais ses dynamiques comme possible substitution de faible densité dans le quatre-quatre.",
+              "Il y a là une opportunité. Nous devrions en parler."
+            ],
+            "it": [
+              "Stavo esaminando le sue dinamiche come possibile sostituto a minore densità all'interno del quattro quattro.",
+              "C'è un'opzione. Dovremmo parlarne."
+            ],
+            "ja": [
+              "四四での低密度な 代替候補として、 彼を調べていました。",
+              "方法について、 ご相談があるのですが。"
+            ],
+            "ko": [
+              "난 그 동역학을 4-4 내에서 밀도가 더 낮은 대체재로 쓸 수 있을지 검토하고 있었어.",
+              "한 가지 방법이 있어. 그 얘길 해봐야겠군."
+            ],
+            "pt-br": [
+              "Eu vinha estudando suas dinâmicas como possível substituição de menor densidade dentro do quatro-quatro.",
+              "Há uma opção aí. Precisamos conversar sobre isso."
+            ],
+            "ru": [
+              "Я изучал его устройство как возможную менее плотную замену в пределах «четыре-четыре».",
+              "Там есть вариант. Нам стоит это обсудить."
+            ],
+            "s-cn": [
+              "我一直在研究那位界门来客所在世界的规则， 想看看能不能把它纳入四乘四组合体， 替换掉其中一个世界，以降低整体互动密度。",
+              "这个方案有可行之处。我们该谈谈。"
+            ],
+            "t-cn": [
+              "我一直在研究那位界門來客所在世界的規則， 想看看能不能把它納入四乘四組合體， 替換掉其中一個世界，以降低整體互動密度。",
+              "這個方案有可行之處。我們該談談。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_7a__magistrate.wav",
             "subtitleCueLines": [
-              10434,
-              10439
+              10444,
+              10449
             ],
             "explicitAudioReference": "audiolog_s_magistrate_7a__magistrate"
           }
@@ -235,12 +614,41 @@
             "en": [
               "We'll discuss in confidence."
             ],
-            "pt-br": []
+            "de": [
+              "Wir besprechen das im Vertrauen."
+            ],
+            "es": [
+              "Lo hablaremos en confianza."
+            ],
+            "fr": [
+              "Nous en discuterons en toute confidentialité."
+            ],
+            "it": [
+              "Ne discuteremo in confidenza."
+            ],
+            "ja": [
+              "内密に話しましょう。"
+            ],
+            "ko": [
+              "우리끼리만 비밀리에 이야기하자고."
+            ],
+            "pt-br": [
+              "Vamos discutir em caráter confidencial."
+            ],
+            "ru": [
+              "Обсудим в доверительной обстановке."
+            ],
+            "s-cn": [
+              "这事私下谈。"
+            ],
+            "t-cn": [
+              "這事私下談。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_10__acting.wav",
             "subtitleCueLines": [
-              10443
+              10453
             ],
             "explicitAudioReference": null
           }
@@ -257,14 +665,63 @@
               "You'll surmise this means I have connected back to your home. Which I have.",
               "You can leave any time you want! From your diaries, it seems you're quite eager."
             ],
-            "pt-br": []
+            "de": [
+              "Voller Vertrauen.",
+              "Daraus wirst du schließen, dass ich wieder eine Verbindung zu deiner Heimat hergestellt habe. So ist es.",
+              "Du kannst gehen, wann immer du willst! Deinen Tagebüchern nach kannst du es kaum erwarten."
+            ],
+            "es": [
+              "Y con confianza.",
+              "Sacarás la conclusión de que esto implica que he vuelto a conectarme con tu hogar. Y así es.",
+              "¡Puedes irte cuando quieras! Por tus diarios, parece que estás deseando hacerlo."
+            ],
+            "fr": [
+              "Assurément.",
+              "Vous en déduirez que j'ai reconnecté votre foyer. Ce que j'ai effectivement fait.",
+              "Vous pouvez partir quand vous voulez ! D'après vos journaux, il semblerait que vous en ayez très envie."
+            ],
+            "it": [
+              "Con fiducia.",
+              "Capirai che questo significa che ti ho collegato di nuovo a casa tua. Cosa che ho fatto.",
+              "Puoi andartene quando vuoi! Dai tuoi diari, sembra che tu ne abbia molta voglia."
+            ],
+            "ja": [
+              "ええ。",
+              "これで私がお前の故郷と 再接続したと思ったか？ その通りだ。",
+              "さあいつでも帰りたまえ！ 日誌を見る限り 帰りたそうだったが。"
+            ],
+            "ko": [
+              "자신 있게 말이야.",
+              "이 말을 들으면 내가 당신의 고향과 다시 연결됐다고 짐작하겠지. 실제로 그렇고.",
+              "원한다면 언제든 떠날 수 있어! 그쪽 일지를 보면 꽤나 간절해 보이더군."
+            ],
+            "pt-br": [
+              "Com confiança.",
+              "Você vai deduzir que isso significa que eu conectei de volta à sua casa. O que fiz.",
+              "Você pode ir embora quando quiser! Pelos seus diários, parece que está bastante ansioso."
+            ],
+            "ru": [
+              "Несомненно.",
+              "Ты, наверное, решишь, что это значит, будто я уже соединил тебя с твоим домом. Так и есть.",
+              "Можешь уйти в любой момент! Судя по твоим дневникам, тебе этого очень хочется."
+            ],
+            "s-cn": [
+              "还得自信地谈。",
+              "你大概已经猜到了：这说明我重新连上了你的家乡。 没错，我已经连上了。",
+              "你随时都能走！从你的日志看，你也早就归心似箭了。"
+            ],
+            "t-cn": [
+              "還得自信地談。",
+              "你大概已經猜到了： 這說明我重新連上了你的家鄉。 沒錯，我已經連上了。",
+              "你隨時都能走！從你的日誌看， 你也早就歸心似箭了。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_9__magistrate.wav",
             "subtitleCueLines": [
-              10446,
-              10449,
-              10454
+              10456,
+              10459,
+              10464
             ],
             "explicitAudioReference": "audiolog_s_magistrate_9__magistrate"
           }
@@ -279,12 +736,41 @@
             "en": [
               "I'll discuss."
             ],
-            "pt-br": []
+            "de": [
+              "Ich werde es besprechen."
+            ],
+            "es": [
+              "Lo hablaré."
+            ],
+            "fr": [
+              "J'en discuterai."
+            ],
+            "it": [
+              "Ne parlerò."
+            ],
+            "ja": [
+              "話をさせてください。"
+            ],
+            "ko": [
+              "얘기해 보지."
+            ],
+            "pt-br": [
+              "Vou discutir."
+            ],
+            "ru": [
+              "Я обсужу."
+            ],
+            "s-cn": [
+              "我会和她商量。"
+            ],
+            "t-cn": [
+              "我會和她商量。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_12__sokoban.wav",
             "subtitleCueLines": [
-              10459
+              10469
             ],
             "explicitAudioReference": null
           }
@@ -299,12 +785,41 @@
             "en": [
               "In confidence, of course."
             ],
-            "pt-br": []
+            "de": [
+              "Im Vertrauen, natürlich."
+            ],
+            "es": [
+              "En confianza, por supuesto."
+            ],
+            "fr": [
+              "En toute confidentialité, bien sûr."
+            ],
+            "it": [
+              "In confidenza, naturalmente."
+            ],
+            "ja": [
+              "もちろん。内密に。"
+            ],
+            "ko": [
+              "물론. 비밀리에 얘기하자고."
+            ],
+            "pt-br": [
+              "Em confiança, claro."
+            ],
+            "ru": [
+              "Разумеется, в доверительной обстановке."
+            ],
+            "s-cn": [
+              "当然，要私下商量。"
+            ],
+            "t-cn": [
+              "當然，要私下商量。"
+            ]
           },
           "provenance": {
             "sourceWav": "audiolog_s_magistrate_11__magistrate.wav",
             "subtitleCueLines": [
-              10463
+              10473
             ],
             "explicitAudioReference": "audiolog_s_magistrate_11__magistrate"
           }
@@ -341,8 +856,164 @@
           "I'll discuss.",
           "In confidence, of course."
         ],
+        "de": [
+          "... und auch wenn es mir ungehörig erscheint, das offen zu sagen, muss ich gestehen: Die Aussicht, mein Leben erheblich zu verlängern, ist ... durchaus verlockend.",
+          "Das überrascht mich nicht. Aber wenn du aus Beweggründen hier bist, die nicht aufrichtig sind, wird sich das auf Dauer zeigen …",
+          "Oh. Wen haben wir denn da?",
+          "Endlich habe ich dich gefunden!",
+          "Wie gewünscht, habe ich am Vier-Vier gearbeitet.",
+          "Ich habe versucht, Verbindungen zu reparieren, die abgebrochen sind, und so weiter.",
+          "Der Erfolg ist begrenzt, aber nicht gleich null.",
+          "Beim Buch, du bist der – !",
+          "Kein anderer. Leibhaftig. Im Geiste. In der Seele! Erfreut, mich kennenzulernen.",
+          "Wie lange –",
+          "Gemessen an meiner Eigenzeit sind gut vierzehn Jahre vergangen. Aber ich bin noch immer derselbe Mann wie damals. Tief im Innern. Irgendwo.",
+          "Du wirkst neu hier.",
+          "Bist du der Torstätten-Gefährte?",
+          "Ich – du –",
+          "Unerhört, wie du einfach aufgetaucht bist, ganz ohne Einladung.",
+          "Ich musste wenigstens erst einer Einladung für würdig befunden werden. Aber willkommen.",
+          "Ich habe seine Dynamik untersucht, da er im Vier-Vier womöglich als Ersatz mit geringerer Dichte infrage kommt.",
+          "Das wäre eine Möglichkeit. Wir sollten darüber reden.",
+          "Wir besprechen das im Vertrauen.",
+          "Voller Vertrauen.",
+          "Daraus wirst du schließen, dass ich wieder eine Verbindung zu deiner Heimat hergestellt habe. So ist es.",
+          "Du kannst gehen, wann immer du willst! Deinen Tagebüchern nach kannst du es kaum erwarten.",
+          "Ich werde es besprechen.",
+          "Im Vertrauen, natürlich."
+        ],
+        "es": [
+          "... y, aunque parezca poco delicado decirlo abiertamente, debo confesarlo: la posibilidad de prolongar mucho mi propia vida es... una gran tentación.",
+          "No me sorprende. Pero, a la larga, si estás aquí por motivos poco sinceros, se acabará notando...",
+          "Vaya. Mira a quién tenemos aquí.",
+          "¡Por fin te encontré!",
+          "Como me pediste, he estado trabajando en el cuatro-cuatro.",
+          "Intentando reparar conexiones interrumpidas, y todo eso.",
+          "El éxito es limitado, pero no nulo.",
+          "¡Por el Libro! ¡Tú eres...!",
+          "El mismísimo. En carne y hueso. En espíritu. ¡En alma! Encantado de conocerme.",
+          "¿Cuánto tiempo...?",
+          "Según mi tiempo, el correcto, han pasado unos buenos catorce años. Pero sigo siendo el mismo hombre que era. En el fondo. En algún rincón.",
+          "Pareces nuevo.",
+          "¿Eres el colega del umbral?",
+          "Yo... tú...",
+          "Es indignante que aparezcas sin más, sin invitación.",
+          "Al menos a mí tuvieron que considerarme digno de una invitación. Pero bueno, bienvenido.",
+          "He estado estudiando sus dinámicas como posible sustituto de menor densidad dentro del cuatro-cuatro.",
+          "Hay una opción. Deberíamos hablar de ella.",
+          "Lo hablaremos en confianza.",
+          "Y con confianza.",
+          "Sacarás la conclusión de que esto implica que he vuelto a conectarme con tu hogar. Y así es.",
+          "¡Puedes irte cuando quieras! Por tus diarios, parece que estás deseando hacerlo.",
+          "Lo hablaré.",
+          "En confianza, por supuesto."
+        ],
+        "fr": [
+          "... et même s'il me semble inconvenant de le dire ouvertement, je dois l'avouer : la perspective de prolonger considérablement ma propre vie est... assez tentante.",
+          "Ce n'est pas surprenant. Mais à long terme, si vous êtes ici pour de mauvaises raisons, ça finira par se voir...",
+          "Oh. Tiens donc, qui voilà.",
+          "Enfin, je vous retrouve !",
+          "Comme demandé, j'ai travaillé sur le quatre-quatre.",
+          "J'essaie de réparer les connexions qui se sont rompues, et ainsi de suite.",
+          "Le succès est limité, mais non nul.",
+          "Par le Livre, vous êtes le— !",
+          "Lui-même. En chair et en os. En esprit. Dans l'âme ! Ravi de me rencontrer.",
+          "Depuis combien de temps—",
+          "À mon heure à moi, ça fait bien quatorze ans. Mais je suis toujours le même homme qu'avant. Au fond. Quelque part.",
+          "Vous avez l'air nouveau.",
+          "Vous êtes le type de la porte ?",
+          "Je... vous...",
+          "C'est scandaleux de vous être pointé comme ça, sans invitation.",
+          "Moi, au moins, j'ai été jugé digne d'une invitation. Mais bienvenue quand même.",
+          "J'examinais ses dynamiques comme possible substitution de faible densité dans le quatre-quatre.",
+          "Il y a là une opportunité. Nous devrions en parler.",
+          "Nous en discuterons en toute confidentialité.",
+          "Assurément.",
+          "Vous en déduirez que j'ai reconnecté votre foyer. Ce que j'ai effectivement fait.",
+          "Vous pouvez partir quand vous voulez ! D'après vos journaux, il semblerait que vous en ayez très envie.",
+          "J'en discuterai.",
+          "En toute confidentialité, bien sûr."
+        ],
+        "it": [
+          "... e anche se sembra sconveniente dirlo apertamente, devo confessarlo: la prospettiva di prolungare di molto la mia vita è... una bella tentazione.",
+          "Non mi sorprende. Ma alla lunga, se sei qui per motivi non sinceri, si noterà...",
+          "Oh. Guarda chi si vede.",
+          "Eccoti, finalmente!",
+          "Come mi hai chiesto, ho lavorato al quattro quattro.",
+          "Cercando di riparare i collegamenti che si sono rotti, e così via.",
+          "Il successo è limitato, ma non nullo.",
+          "Per il Libro, tu sei il...!",
+          "Nessun altro. In carne e ossa. In spirito. Nell'anima! Piacere di conoscermi.",
+          "Da quanto...",
+          "Calcolando correttamente, sono passati ben quattordici anni. Ma sono ancora lo stesso uomo che ero. In fondo. Da qualche parte.",
+          "Sembri nuovo.",
+          "Sei il tizio della porta?",
+          "Io... tu...",
+          "Assurdo che tu sia semplicemente sbucato qui, senza un invito.",
+          "Io invece dovevo essere ritenuto degno di un invito. Ma benvenuto.",
+          "Stavo esaminando le sue dinamiche come possibile sostituto a minore densità all'interno del quattro quattro.",
+          "C'è un'opzione. Dovremmo parlarne.",
+          "Ne discuteremo in confidenza.",
+          "Con fiducia.",
+          "Capirai che questo significa che ti ho collegato di nuovo a casa tua. Cosa che ho fatto.",
+          "Puoi andartene quando vuoi! Dai tuoi diari, sembra che tu ne abbia molta voglia.",
+          "Ne parlerò.",
+          "In confidenza, naturalmente."
+        ],
+        "ja": [
+          "あけすけに言うのは、はしたない気もしますが、 認めざるを得ません。 自分の寿命を大幅に延ばせるというのは… 実に魅力的です。",
+          "無理もないわ。 でも、ここにいる理由がうわべだけなら、 長くいるうちに、分かってしまう…",
+          "あら、誰が来たかと思えば。",
+          "やっと見つけたぞ！",
+          "頼まれた通り、 四四で作業している。",
+          "切れたつながりを直したりしてな。",
+          "成果は限定的だが ゼロではない。",
+          "まさか、あなたは――！",
+          "いかにも。肉体も、精神も、 そして「魂」も本物だ！ 私に会えて光栄だろう。",
+          "どれくらい――",
+          "私の時間では11年ほどだ。 だが私は今も昔と同じ。 根っこのところはな。",
+          "お前は新顔だな。",
+          "門の男か？",
+          "私は――あなたは――",
+          "招待もなく「現れた」とは けしからん。",
+          "私の時は審査があったというのに… まあ、歓迎しよう。",
+          "四四での低密度な 代替候補として、 彼を調べていました。",
+          "方法について、 ご相談があるのですが。",
+          "内密に話しましょう。",
+          "ええ。",
+          "これで私がお前の故郷と 再接続したと思ったか？ その通りだ。",
+          "さあいつでも帰りたまえ！ 日誌を見る限り 帰りたそうだったが。",
+          "話をさせてください。",
+          "もちろん。内密に。"
+        ],
+        "ko": [
+          "그리고 대놓고 말하기는 좀 상스럽지만, 고백해야겠어: 내 수명을 크게 늘릴 수 있다는 건 ... 꽤나 유혹적이야.",
+          "놀랍지도 않네. 하지만 길게 보면, 네가 여기 온 이유가 진심이 아니라면, 결국 드러날 거야...",
+          "오. 이게 누구야.",
+          "드디어 찾았군!",
+          "요청한 대로, 4-4에서 작업하고 있었지.",
+          "끊어진 연결들을 복구하려 애쓰는 등 이것저것 했어.",
+          "성과는 미미하지만, 전혀 없는 건 아니야.",
+          "책이시여, 당신은...!",
+          "바로 그 사람이지. 육신으로도. 정신으로도. 영혼으로도! 날 만나서 반갑겠군.",
+          "얼마나...",
+          "내가 있던 시간 기준으로는, 족히 14년쯤 됐지. 하지만 난 여전히 그때의 나와 같은 사람이야. 마음 깊은 곳 어딘가에선.",
+          "당신은 처음 보는 얼굴인데.",
+          "당신이 그 '문 동료'인가?",
+          "난... 당신이...",
+          "초대도 없이 이렇게 불쑥 나타나다니 무례하기 짝이 없군.",
+          "난 적어도 초대받을 자격이 있는지 심사는 받았는데 말이지. 그래도 환영하지.",
+          "난 그 동역학을 4-4 내에서 밀도가 더 낮은 대체재로 쓸 수 있을지 검토하고 있었어.",
+          "한 가지 방법이 있어. 그 얘길 해봐야겠군.",
+          "우리끼리만 비밀리에 이야기하자고.",
+          "자신 있게 말이야.",
+          "이 말을 들으면 내가 당신의 고향과 다시 연결됐다고 짐작하겠지. 실제로 그렇고.",
+          "원한다면 언제든 떠날 수 있어! 그쪽 일지를 보면 꽤나 간절해 보이더군.",
+          "얘기해 보지.",
+          "물론. 비밀리에 얘기하자고."
+        ],
         "pt-br": [
-          "E embora pareça indelicado dizer isso abertamente, devo confessar: a perspectiva de prolongar muito minha própria vida é... uma tentação e tanto.",
+          "... e embora pareça indelicado dizer isso abertamente, devo confessar: a perspectiva de prolongar muito minha própria vida é... uma tentação e tanto.",
           "Não me surpreende. Mas, a longo prazo, se você está aqui por motivos que não são genuínos, isso vai ficar óbvio...",
           "Ah. Olha só quem está aqui.",
           "Finalmente encontrei você!",
@@ -366,13 +1037,89 @@
           "Você pode ir embora quando quiser! Pelos seus diários, parece que está bastante ansioso.",
           "Vou discutir.",
           "Em confiança, claro."
+        ],
+        "ru": [
+          "... и хотя говорить об этом впрямую кажется неприличным, должен признаться: возможность значительно продлить собственную жизнь... весьма заманчива.",
+          "Неудивительно. Но со временем, если тебя сюда привели неискренние побуждения, это станет очевидно...",
+          "О. Кто это тут у нас.",
+          "Наконец-то нашёл!",
+          "Как меня и просили, я работал над четвёрками.",
+          "Пытаясь чинить разорванные связи и так далее.",
+          "Успех ограниченный, но не нулевой.",
+          "Клянусь книгой, ты!..",
+          "Никто иной. Во плоти. В духе. В душе! Рад встрече со мной.",
+          "Сколько...",
+          "По моему времени прошло уже добрых четырнадцать лет. Но я всё тот же человек, каким был. Глубоко внутри. Где-то.",
+          "Ты кажешься новым.",
+          "Ты проходной коллега?",
+          "Я... ты...",
+          "Какой наглостью было просто так явиться, без приглашения.",
+          "Мне хотя бы пришлось заслужить приглашение. Но всё же добро пожаловать.",
+          "Я изучал его устройство как возможную менее плотную замену в пределах «четыре-четыре».",
+          "Там есть вариант. Нам стоит это обсудить.",
+          "Обсудим в доверительной обстановке.",
+          "Несомненно.",
+          "Ты, наверное, решишь, что это значит, будто я уже соединил тебя с твоим домом. Так и есть.",
+          "Можешь уйти в любой момент! Судя по твоим дневникам, тебе этого очень хочется.",
+          "Я обсужу.",
+          "Разумеется, в доверительной обстановке."
+        ],
+        "s-cn": [
+          "虽然这么直白地说有些不体面，但我得承认： 能让自己多活上许多年……确实很难不心动。",
+          "这不奇怪。不过，你要是带着别的心思来这里， 时间一长，自然会露出来……",
+          "哦，看看谁来了。",
+          "总算找到你了！",
+          "按你的吩咐，我一直在四乘四组合体中工作。",
+          "试着把断掉的连接接回去，诸如此类。",
+          "虽有进展，但十分有限。",
+          "圣典在上，你就是……！",
+          "正是在下。肉身俱在，心神俱在，连灵魂也在！ 见到我，荣幸吧。",
+          "你在这里多久——",
+          "按我自己经历的时间算，足足十四年了。 但我内心深处的某个角落，还是从前的我。",
+          "你看着像新来的。",
+          "你就是那位界门来客？",
+          "我……你……",
+          "你竟然就这么不请自来，简直离谱。",
+          "我好歹还得先被判定符合标准，才能拿到邀请。不过，欢迎。",
+          "我一直在研究那位界门来客所在世界的规则， 想看看能不能把它纳入四乘四组合体， 替换掉其中一个世界，以降低整体互动密度。",
+          "这个方案有可行之处。我们该谈谈。",
+          "这事私下谈。",
+          "还得自信地谈。",
+          "你大概已经猜到了：这说明我重新连上了你的家乡。 没错，我已经连上了。",
+          "你随时都能走！从你的日志看，你也早就归心似箭了。",
+          "我会和她商量。",
+          "当然，要私下商量。"
+        ],
+        "t-cn": [
+          "雖然這麼直白地說有些不體面，但我得承認： 能讓自己多活上許多年……確實很難不心動。",
+          "這不奇怪。不過，你要是帶著別的心思來這裡， 時間一長，自然會露出來……",
+          "哦，看看誰來了。",
+          "總算找到你了！",
+          "按你的吩咐，我一直在四乘四組合體中工作。",
+          "試著把斷掉的連接接回去，諸如此類。",
+          "雖有進展，但十分有限。",
+          "聖典在上，你就是……！",
+          "正是在下。肉身俱在，心神俱在， 連靈魂也在！見到我，榮幸吧。",
+          "你在這裡多久——",
+          "按我自己經歷的時間算，足足十四年了。 但我內心深處的某個角落，還是從前的我。",
+          "你看著像新來的。",
+          "你就是那位界門來客？",
+          "我……你……",
+          "你竟然就這麼不請自來，簡直離譜。",
+          "我好歹還得先被判定符合標準， 才能拿到邀請。不過，歡迎。",
+          "我一直在研究那位界門來客所在世界的規則， 想看看能不能把它納入四乘四組合體， 替換掉其中一個世界，以降低整體互動密度。",
+          "這個方案有可行之處。我們該談談。",
+          "這事私下談。",
+          "還得自信地談。",
+          "你大概已經猜到了： 這說明我重新連上了你的家鄉。 沒錯，我已經連上了。",
+          "你隨時都能走！從你的日誌看， 你也早就歸心似箭了。",
+          "我會和她商量。",
+          "當然，要私下商量。"
         ]
       },
       "silentCues": [],
       "missingClips": [],
-      "translationIssues": {
-        "pt-br": "Clip identities differ from English"
-      }
+      "translationIssues": {}
     }
   ]
 }

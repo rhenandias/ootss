@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "A triangular prism on a chain, worn as a pendant."
             ],
+            "de": [
+              "Ein dreieckiges Prisma an einer Kette, als Anhänger getragen."
+            ],
+            "es": [
+              "Un prisma triangular con cadena, para llevarlo como colgante."
+            ],
+            "fr": [
+              "Un prisme triangulaire sur une chaîne, porté en pendentif."
+            ],
+            "it": [
+              "Un prisma triangolare su una catena, indossato come pendente."
+            ],
+            "ja": [
+              "プリズムの ペンダントだ。"
+            ],
+            "ko": [
+              "사슬에 매단 삼각형 프리즘으로, 펜던트처럼 착용해."
+            ],
             "pt-br": [
               "Um prisma triangular em uma corrente, usado como pingente."
+            ],
+            "ru": [
+              "Треугольная призма на цепочке, чтобы носить как подвеску."
+            ],
+            "s-cn": [
+              "链子上挂着三棱镜，可以当吊坠佩戴。"
+            ],
+            "t-cn": [
+              "鏈子上掛著三稜鏡，可以當吊墜佩戴。"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "A triangular prism on a chain, worn as a pendant."
         ],
+        "de": [
+          "Ein dreieckiges Prisma an einer Kette, als Anhänger getragen."
+        ],
+        "es": [
+          "Un prisma triangular con cadena, para llevarlo como colgante."
+        ],
+        "fr": [
+          "Un prisme triangulaire sur une chaîne, porté en pendentif."
+        ],
+        "it": [
+          "Un prisma triangolare su una catena, indossato come pendente."
+        ],
+        "ja": [
+          "プリズムの ペンダントだ。"
+        ],
+        "ko": [
+          "사슬에 매단 삼각형 프리즘으로, 펜던트처럼 착용해."
+        ],
         "pt-br": [
           "Um prisma triangular em uma corrente, usado como pingente."
+        ],
+        "ru": [
+          "Треугольная призма на цепочке, чтобы носить как подвеску."
+        ],
+        "s-cn": [
+          "链子上挂着三棱镜，可以当吊坠佩戴。"
+        ],
+        "t-cn": [
+          "鏈子上掛著三稜鏡，可以當吊墜佩戴。"
         ]
       },
       "silentCues": [],
@@ -97,8 +160,35 @@
             "en": [
               "Such a wonder, that your people and ours overlap in spaces such as this."
             ],
+            "de": [
+              "Welch ein Wunder, dass sich die Ziele deines und meines Volkes an Orten wie diesem überschneiden."
+            ],
+            "es": [
+              "¡Qué maravilla, que tu pueblo y el nuestro se solapen en espacios como este!"
+            ],
+            "fr": [
+              "Quelle merveille, que ton peuple et le nôtre se recoupent dans des endroits comme celui-ci."
+            ],
+            "it": [
+              "È una meraviglia, che il tuo popolo e il nostro si sovrappongano in spazi come questo."
+            ],
+            "ja": [
+              "こんなところで、 お前たちと我々が 重なるとはな。"
+            ],
+            "ko": [
+              "너희 종족과 우리 종족이 이런 공간에서 겹친다니 참으로 놀랍군."
+            ],
             "pt-br": [
               "Que maravilha que o povo de vocês e o nosso se sobreponham em espaços como este."
+            ],
+            "ru": [
+              "Такое чудо, что ваш народ и наш пересекаются в таких местах."
+            ],
+            "s-cn": [
+              "真是奇妙，你们与我们竟会在这样的空间里彼此交汇。"
+            ],
+            "t-cn": [
+              "真是奇妙，你們與我們竟會在這樣的空間裡彼此交匯。"
             ]
           },
           "provenance": {
@@ -119,8 +209,35 @@
             "en": [
               "Overlap?"
             ],
+            "de": [
+              "Überschneiden?"
+            ],
+            "es": [
+              "¿Que se solapen?"
+            ],
+            "fr": [
+              "Se recoupent ?"
+            ],
+            "it": [
+              "Si sovrappongano?"
+            ],
+            "ja": [
+              "重なる？"
+            ],
+            "ko": [
+              "겹친다고?"
+            ],
             "pt-br": [
               "Sobreponham?"
+            ],
+            "ru": [
+              "Пересекаются?"
+            ],
+            "s-cn": [
+              "交汇？"
+            ],
+            "t-cn": [
+              "交匯？"
             ]
           },
           "provenance": {
@@ -143,10 +260,55 @@
               "Our light crosses your light.",
               "Your people used to know this!"
             ],
+            "de": [
+              "Ihr öffnet Minen, wir extrudieren Nidi. Manchmal stellt sich heraus, dass beides dasselbe war.",
+              "Unser Licht kreuzt euer Licht.",
+              "Das hat dein Volk einst gewusst!"
+            ],
+            "es": [
+              "Vosotros abrís minas, nosotros extruimos nidos. A veces, resultaban ser lo mismo.",
+              "Nuestra luz cruza vuestra luz.",
+              "¡Tu pueblo antes sabía estas cosas!"
+            ],
+            "fr": [
+              "Vous creusez des mines, nous extrudons des nidi. Parfois, il s'avère qu'il s'agissait d'une seule et même chose.",
+              "Notre lumière croise votre lumière.",
+              "Ton peuple savait ça, autrefois !"
+            ],
+            "it": [
+              "Voi scavate miniere, noi estrudiamo nidi. A volte si scopre che erano la stessa cosa.",
+              "La nostra luce attraversa la vostra.",
+              "Il tuo popolo una volta lo sapeva!"
+            ],
+            "ja": [
+              "お前は採掘し、我らは巣を作る。 時に同じ場所で。",
+              "我らの光は交差したのだ。",
+              "お前たちも昔は知っていたぞ！"
+            ],
+            "ko": [
+              "너희들은 광산을 뚫고, 우리는 니디를 뽑아내지. 때로는 그 둘이 같은 것이기도 하더군.",
+              "우리의 빛은 너희의 빛과 교차하니까.",
+              "너희들은 예전부터 알았어야 해!"
+            ],
             "pt-br": [
               "Vocês abrem minas, nós extrudamos nidi. Às vezes, descobrimos que eram a mesma coisa.",
               "Nossa luz cruza a sua luz.",
               "Seu povo costumava saber disso!"
+            ],
+            "ru": [
+              "Вы роете шахты, мы выдавливаем ниди. Иногда оказывается, что это одно и то же.",
+              "Наш свет пересекается с вашим светом.",
+              "Ваш народ раньше это знал!"
+            ],
+            "s-cn": [
+              "你们开矿，我们筑巢；有时才发现，矿洞和巢穴原来就是同一处。",
+              "我们的光与你们的光交汇。",
+              "你们的族人以前是知道这些知识的！"
+            ],
+            "t-cn": [
+              "你們開礦，我們築巢；有時才發現， 礦洞和巢穴原來就是同一處。",
+              "我們的光與你們的光交匯。",
+              "你們的族人以前是知道這些知識的！"
             ]
           },
           "provenance": {
@@ -172,12 +334,75 @@
           "Our light crosses your light.",
           "Your people used to know this!"
         ],
+        "de": [
+          "Welch ein Wunder, dass sich die Ziele deines und meines Volkes an Orten wie diesem überschneiden.",
+          "Überschneiden?",
+          "Ihr öffnet Minen, wir extrudieren Nidi. Manchmal stellt sich heraus, dass beides dasselbe war.",
+          "Unser Licht kreuzt euer Licht.",
+          "Das hat dein Volk einst gewusst!"
+        ],
+        "es": [
+          "¡Qué maravilla, que tu pueblo y el nuestro se solapen en espacios como este!",
+          "¿Que se solapen?",
+          "Vosotros abrís minas, nosotros extruimos nidos. A veces, resultaban ser lo mismo.",
+          "Nuestra luz cruza vuestra luz.",
+          "¡Tu pueblo antes sabía estas cosas!"
+        ],
+        "fr": [
+          "Quelle merveille, que ton peuple et le nôtre se recoupent dans des endroits comme celui-ci.",
+          "Se recoupent ?",
+          "Vous creusez des mines, nous extrudons des nidi. Parfois, il s'avère qu'il s'agissait d'une seule et même chose.",
+          "Notre lumière croise votre lumière.",
+          "Ton peuple savait ça, autrefois !"
+        ],
+        "it": [
+          "È una meraviglia, che il tuo popolo e il nostro si sovrappongano in spazi come questo.",
+          "Si sovrappongano?",
+          "Voi scavate miniere, noi estrudiamo nidi. A volte si scopre che erano la stessa cosa.",
+          "La nostra luce attraversa la vostra.",
+          "Il tuo popolo una volta lo sapeva!"
+        ],
+        "ja": [
+          "こんなところで、 お前たちと我々が 重なるとはな。",
+          "重なる？",
+          "お前は採掘し、我らは巣を作る。 時に同じ場所で。",
+          "我らの光は交差したのだ。",
+          "お前たちも昔は知っていたぞ！"
+        ],
+        "ko": [
+          "너희 종족과 우리 종족이 이런 공간에서 겹친다니 참으로 놀랍군.",
+          "겹친다고?",
+          "너희들은 광산을 뚫고, 우리는 니디를 뽑아내지. 때로는 그 둘이 같은 것이기도 하더군.",
+          "우리의 빛은 너희의 빛과 교차하니까.",
+          "너희들은 예전부터 알았어야 해!"
+        ],
         "pt-br": [
           "Que maravilha que o povo de vocês e o nosso se sobreponham em espaços como este.",
           "Sobreponham?",
           "Vocês abrem minas, nós extrudamos nidi. Às vezes, descobrimos que eram a mesma coisa.",
           "Nossa luz cruza a sua luz.",
           "Seu povo costumava saber disso!"
+        ],
+        "ru": [
+          "Такое чудо, что ваш народ и наш пересекаются в таких местах.",
+          "Пересекаются?",
+          "Вы роете шахты, мы выдавливаем ниди. Иногда оказывается, что это одно и то же.",
+          "Наш свет пересекается с вашим светом.",
+          "Ваш народ раньше это знал!"
+        ],
+        "s-cn": [
+          "真是奇妙，你们与我们竟会在这样的空间里彼此交汇。",
+          "交汇？",
+          "你们开矿，我们筑巢；有时才发现，矿洞和巢穴原来就是同一处。",
+          "我们的光与你们的光交汇。",
+          "你们的族人以前是知道这些知识的！"
+        ],
+        "t-cn": [
+          "真是奇妙，你們與我們竟會在這樣的空間裡彼此交匯。",
+          "交匯？",
+          "你們開礦，我們築巢；有時才發現， 礦洞和巢穴原來就是同一處。",
+          "我們的光與你們的光交匯。",
+          "你們的族人以前是知道這些知識的！"
         ]
       },
       "silentCues": [],
@@ -230,9 +455,45 @@
               "I can hear the others, far away and faint.",
               "They thank you for hatching me and helping me grow."
             ],
+            "de": [
+              "Ich kann die anderen hören, weit entfernt und nur ganz schwach.",
+              "Sie danken dir, dass du mich zum Schlüpfen gebracht und mir beim Wachsen geholfen hast."
+            ],
+            "es": [
+              "Puedo oír a los demás, lejos y apagados.",
+              "Te dan las gracias por hacer que naciera y por ayudarme a crecer."
+            ],
+            "fr": [
+              "J'entends les autres, au loin et à peine.",
+              "Ils te remercient de m'avoir fait éclore et aidé à grandir."
+            ],
+            "it": [
+              "Riesco a sentire gli altri, lontani e fievoli.",
+              "Ti ringraziano per avermi fatto schiudere e per avermi aiutato a crescere."
+            ],
+            "ja": [
+              "遠くから、他の者の声が 聞こえる。",
+              "我をかえして育ててくれたことに 感謝している。"
+            ],
+            "ko": [
+              "저 멀리서 다른 이들의 목소리가 들려. 희미하게.",
+              "나를 깨어나게 하고 성장하도록 도와준 것에 감사하는 거다."
+            ],
             "pt-br": [
               "Consigo ouvir os outros, bem longe, um som fraco.",
               "Eles agradecem por você ter me chocado e me ajudado a crescer."
+            ],
+            "ru": [
+              "Я слышу других, далеко и едва-едва.",
+              "Они благодарят тебя за то, что ты вывел меня из яйца и помог мне вырасти."
+            ],
+            "s-cn": [
+              "我能听到其他同胞的声音，遥远而微弱。",
+              "他们感谢你孵化了我，还帮助我成长。"
+            ],
+            "t-cn": [
+              "我能聽到其他同胞的聲音，遙遠而微弱。",
+              "他們感謝你孵化了我，還幫助我成長。"
             ]
           },
           "provenance": {
@@ -254,8 +515,35 @@
             "en": [
               "I ... it was ... I was just going forward?"
             ],
+            "de": [
+              "Ich ... das war ... ich bin ja einfach nur weitergegangen?"
+            ],
+            "es": [
+              "Yo... fue... ¿yo solo seguí adelante?"
+            ],
+            "fr": [
+              "Je... c'était... j'avançais simplement ?"
+            ],
+            "it": [
+              "Io... è stato... stavo solo andando avanti?"
+            ],
+            "ja": [
+              "俺はただ… 前に進んでただけだ。"
+            ],
+            "ko": [
+              "저... 그게... 난 그냥 앞으로 나아갔을 뿐인데?"
+            ],
             "pt-br": [
               "Eu... foi... Eu só estava indo em frente?"
+            ],
+            "ru": [
+              "Я... это... я просто шёл вперёд?"
+            ],
+            "s-cn": [
+              "我……其实……我只是一路往前走而已吧？"
+            ],
+            "t-cn": [
+              "我……其實……我只是一路往前走而已吧？"
             ]
           },
           "provenance": {
@@ -276,8 +564,35 @@
             "en": [
               "We'll get you more gems. Don't worry."
             ],
+            "de": [
+              "Wir besorgen dir noch mehr Edelsteine. Keine Sorge."
+            ],
+            "es": [
+              "Te conseguiremos más gemas. No te preocupes."
+            ],
+            "fr": [
+              "Nous te trouverons d'autres gemmes. Ne t'en fais pas."
+            ],
+            "it": [
+              "Ti prenderemo altre gemme. Non preoccuparti."
+            ],
+            "ja": [
+              "安心しろ。 もっと宝石を集めてやる。"
+            ],
+            "ko": [
+              "보석을 더 구해줄 거다. 걱정 마."
+            ],
             "pt-br": [
               "Vamos te arranjar mais gemas. Não se preocupe."
+            ],
+            "ru": [
+              "Мы добудем тебе ещё самоцветов. Не волнуйся."
+            ],
+            "s-cn": [
+              "我们会帮你找到更多宝石。别担心。"
+            ],
+            "t-cn": [
+              "我們會幫你找到更多寶石。別擔心。"
             ]
           },
           "provenance": {
@@ -300,11 +615,65 @@
           "I ... it was ... I was just going forward?",
           "We'll get you more gems. Don't worry."
         ],
+        "de": [
+          "Ich kann die anderen hören, weit entfernt und nur ganz schwach.",
+          "Sie danken dir, dass du mich zum Schlüpfen gebracht und mir beim Wachsen geholfen hast.",
+          "Ich ... das war ... ich bin ja einfach nur weitergegangen?",
+          "Wir besorgen dir noch mehr Edelsteine. Keine Sorge."
+        ],
+        "es": [
+          "Puedo oír a los demás, lejos y apagados.",
+          "Te dan las gracias por hacer que naciera y por ayudarme a crecer.",
+          "Yo... fue... ¿yo solo seguí adelante?",
+          "Te conseguiremos más gemas. No te preocupes."
+        ],
+        "fr": [
+          "J'entends les autres, au loin et à peine.",
+          "Ils te remercient de m'avoir fait éclore et aidé à grandir.",
+          "Je... c'était... j'avançais simplement ?",
+          "Nous te trouverons d'autres gemmes. Ne t'en fais pas."
+        ],
+        "it": [
+          "Riesco a sentire gli altri, lontani e fievoli.",
+          "Ti ringraziano per avermi fatto schiudere e per avermi aiutato a crescere.",
+          "Io... è stato... stavo solo andando avanti?",
+          "Ti prenderemo altre gemme. Non preoccuparti."
+        ],
+        "ja": [
+          "遠くから、他の者の声が 聞こえる。",
+          "我をかえして育ててくれたことに 感謝している。",
+          "俺はただ… 前に進んでただけだ。",
+          "安心しろ。 もっと宝石を集めてやる。"
+        ],
+        "ko": [
+          "저 멀리서 다른 이들의 목소리가 들려. 희미하게.",
+          "나를 깨어나게 하고 성장하도록 도와준 것에 감사하는 거다.",
+          "저... 그게... 난 그냥 앞으로 나아갔을 뿐인데?",
+          "보석을 더 구해줄 거다. 걱정 마."
+        ],
         "pt-br": [
           "Consigo ouvir os outros, bem longe, um som fraco.",
           "Eles agradecem por você ter me chocado e me ajudado a crescer.",
           "Eu... foi... Eu só estava indo em frente?",
           "Vamos te arranjar mais gemas. Não se preocupe."
+        ],
+        "ru": [
+          "Я слышу других, далеко и едва-едва.",
+          "Они благодарят тебя за то, что ты вывел меня из яйца и помог мне вырасти.",
+          "Я... это... я просто шёл вперёд?",
+          "Мы добудем тебе ещё самоцветов. Не волнуйся."
+        ],
+        "s-cn": [
+          "我能听到其他同胞的声音，遥远而微弱。",
+          "他们感谢你孵化了我，还帮助我成长。",
+          "我……其实……我只是一路往前走而已吧？",
+          "我们会帮你找到更多宝石。别担心。"
+        ],
+        "t-cn": [
+          "我能聽到其他同胞的聲音，遙遠而微弱。",
+          "他們感謝你孵化了我，還幫助我成長。",
+          "我……其實……我只是一路往前走而已吧？",
+          "我們會幫你找到更多寶石。別擔心。"
         ]
       },
       "silentCues": [],
@@ -356,8 +725,35 @@
             "en": [
               "I've no more use for these gems. Take all you want."
             ],
+            "de": [
+              "Ich brauche diese Edelsteine nicht mehr. Nimm dir, so viele du willst."
+            ],
+            "es": [
+              "Ya no me sirven de nada estas gemas. Llévate las que quieras."
+            ],
+            "fr": [
+              "Je n'ai plus besoin de ces gemmes. Prends-en autant que tu veux."
+            ],
+            "it": [
+              "Non ho più bisogno di queste gemme. Prendine quante vuoi."
+            ],
+            "ja": [
+              "宝石はもう必要ない。 持っていくといい。"
+            ],
+            "ko": [
+              "이 보석들은 내게 더는 쓸모없어. 원하는 만큼 가져가."
+            ],
             "pt-br": [
               "Não tenho mais utilidade para essas gemas. Pegue o quanto quiser."
+            ],
+            "ru": [
+              "Мне больше не нужны эти самоцветы. Бери сколько хочешь."
+            ],
+            "s-cn": [
+              "这些宝石我已经用不着了。想拿多少拿多少。"
+            ],
+            "t-cn": [
+              "這些寶石我已經用不著了。想拿多少拿多少。"
             ]
           },
           "provenance": {
@@ -377,8 +773,35 @@
         "en": [
           "I've no more use for these gems. Take all you want."
         ],
+        "de": [
+          "Ich brauche diese Edelsteine nicht mehr. Nimm dir, so viele du willst."
+        ],
+        "es": [
+          "Ya no me sirven de nada estas gemas. Llévate las que quieras."
+        ],
+        "fr": [
+          "Je n'ai plus besoin de ces gemmes. Prends-en autant que tu veux."
+        ],
+        "it": [
+          "Non ho più bisogno di queste gemme. Prendine quante vuoi."
+        ],
+        "ja": [
+          "宝石はもう必要ない。 持っていくといい。"
+        ],
+        "ko": [
+          "이 보석들은 내게 더는 쓸모없어. 원하는 만큼 가져가."
+        ],
         "pt-br": [
           "Não tenho mais utilidade para essas gemas. Pegue o quanto quiser."
+        ],
+        "ru": [
+          "Мне больше не нужны эти самоцветы. Бери сколько хочешь."
+        ],
+        "s-cn": [
+          "这些宝石我已经用不着了。想拿多少拿多少。"
+        ],
+        "t-cn": [
+          "這些寶石我已經用不著了。想拿多少拿多少。"
         ]
       },
       "silentCues": [],
@@ -417,8 +840,35 @@
             "en": [
               "To think I so recently hungered for these chunks of mere matter."
             ],
+            "de": [
+              "Kaum zu glauben, dass ich noch vor Kurzem nach diesen Brocken bloßer Materie gehungert habe."
+            ],
+            "es": [
+              "Pensar que hace tan poco ansiaba estos trozos de mera materia."
+            ],
+            "fr": [
+              "Quand je pense que j'avais encore si récemment faim de ces simples morceaux de matière."
+            ],
+            "it": [
+              "Pensare che così di recente avevo fame di questi blocchi di mera materia."
+            ],
+            "ja": [
+              "こんなものを 我があれほど欲していたとはな。"
+            ],
+            "ko": [
+              "불과 얼마 전까지도 내가 이런 한낱 물질의 조각들을 갈망했다니 믿기지 않는군."
+            ],
             "pt-br": [
               "E pensar que há tão pouco eu sentia fome por esses pedaços de mera matéria."
+            ],
+            "ru": [
+              "Подумать только, совсем недавно я жаждал этих кусков простой материи."
+            ],
+            "s-cn": [
+              "想想我不久前还渴求这些凡俗的碎块。"
+            ],
+            "t-cn": [
+              "想想我不久前還渴求這些凡俗的碎塊。"
             ]
           },
           "provenance": {
@@ -438,8 +888,35 @@
         "en": [
           "To think I so recently hungered for these chunks of mere matter."
         ],
+        "de": [
+          "Kaum zu glauben, dass ich noch vor Kurzem nach diesen Brocken bloßer Materie gehungert habe."
+        ],
+        "es": [
+          "Pensar que hace tan poco ansiaba estos trozos de mera materia."
+        ],
+        "fr": [
+          "Quand je pense que j'avais encore si récemment faim de ces simples morceaux de matière."
+        ],
+        "it": [
+          "Pensare che così di recente avevo fame di questi blocchi di mera materia."
+        ],
+        "ja": [
+          "こんなものを 我があれほど欲していたとはな。"
+        ],
+        "ko": [
+          "불과 얼마 전까지도 내가 이런 한낱 물질의 조각들을 갈망했다니 믿기지 않는군."
+        ],
         "pt-br": [
           "E pensar que há tão pouco eu sentia fome por esses pedaços de mera matéria."
+        ],
+        "ru": [
+          "Подумать только, совсем недавно я жаждал этих кусков простой материи."
+        ],
+        "s-cn": [
+          "想想我不久前还渴求这些凡俗的碎块。"
+        ],
+        "t-cn": [
+          "想想我不久前還渴求這些凡俗的碎塊。"
         ]
       },
       "silentCues": [],
@@ -480,10 +957,55 @@
               "Hmph. At least my people have hygiene.",
               "We don't throw our beams just everywhere."
             ],
+            "de": [
+              "Wo, ach wo, haben eure Vorfahren wohl gelernt, wie man sie herstellt: diese künstlichen Strahlensender?",
+              "Hmpf. Wenigstens achtet mein Volk auf Hygiene.",
+              "Wir schleudern unsere Strahlen nicht einfach überallhin."
+            ],
+            "es": [
+              "¿Pero de dónde te crees que tus antepasados aprendieron a fabricar estos generadores de haz artificiales?",
+              "Hum. Al menos mi pueblo sí tiene higiene.",
+              "No soltamos nuestros haces por todas partes."
+            ],
+            "fr": [
+              "Mais où donc penses-tu que tes ancêtres ont appris à fabriquer ces émetteurs de faisceau artificiels ?",
+              "Hmph. Au moins, mon peuple a le sens de l'hygiène.",
+              "Nous ne jetons pas nos faisceaux n'importe où."
+            ],
+            "it": [
+              "Ma dove, oh dove credi che i tuoi antenati abbiano imparato a fare questi emettitori di raggio artificiali?",
+              "Mmf. Almeno il mio popolo ha un po' d'igiene.",
+              "Noi non spariamo i nostri raggi dappertutto."
+            ],
+            "ja": [
+              "お前の祖先は どこでこの光線装置の 作り方を学んだのだろうな？",
+              "ふん。少なくとも 我らは衛生的だ。",
+              "適当に光線を 置いたりなどしない。"
+            ],
+            "ko": [
+              "도대체 어디서 네 조상들이 이런 인공 빔 발사기를 만드는 법을 배웠다고 생각하지?",
+              "흥. 적어도 우리 부족은 위생을 지키지.",
+              "우린 아무 데나 빔을 쏘아대진 않아."
+            ],
             "pt-br": [
               "Onde, onde você acha que seus ancestrais aprenderam a fazer esses emissores artificiais de Feixe?",
               "Hum. Pelo menos meu povo tem higiene.",
               "Nós não jogamos nossos feixes para todo lado."
+            ],
+            "ru": [
+              "Как думаешь, где твои предки научились делать эти искусственные испускатели лучей?",
+              "Хм. По крайней мере, у моего народа есть гигиена.",
+              "Мы не раскидываем наши лучи кругом где попало."
+            ],
+            "s-cn": [
+              "说说看，你们的祖先究竟从哪里学会制造这些人造光束发射器的？",
+              "哼。至少我的族人还讲卫生。",
+              "我们不会把光束四处乱射。"
+            ],
+            "t-cn": [
+              "說說看， 你們的祖先究竟從哪裡學會製造這些人造光束發射器的？",
+              "哼。至少我的族人還講衛生。",
+              "我們不會把光束四處亂射。"
             ]
           },
           "provenance": {
@@ -507,10 +1029,55 @@
           "Hmph. At least my people have hygiene.",
           "We don't throw our beams just everywhere."
         ],
+        "de": [
+          "Wo, ach wo, haben eure Vorfahren wohl gelernt, wie man sie herstellt: diese künstlichen Strahlensender?",
+          "Hmpf. Wenigstens achtet mein Volk auf Hygiene.",
+          "Wir schleudern unsere Strahlen nicht einfach überallhin."
+        ],
+        "es": [
+          "¿Pero de dónde te crees que tus antepasados aprendieron a fabricar estos generadores de haz artificiales?",
+          "Hum. Al menos mi pueblo sí tiene higiene.",
+          "No soltamos nuestros haces por todas partes."
+        ],
+        "fr": [
+          "Mais où donc penses-tu que tes ancêtres ont appris à fabriquer ces émetteurs de faisceau artificiels ?",
+          "Hmph. Au moins, mon peuple a le sens de l'hygiène.",
+          "Nous ne jetons pas nos faisceaux n'importe où."
+        ],
+        "it": [
+          "Ma dove, oh dove credi che i tuoi antenati abbiano imparato a fare questi emettitori di raggio artificiali?",
+          "Mmf. Almeno il mio popolo ha un po' d'igiene.",
+          "Noi non spariamo i nostri raggi dappertutto."
+        ],
+        "ja": [
+          "お前の祖先は どこでこの光線装置の 作り方を学んだのだろうな？",
+          "ふん。少なくとも 我らは衛生的だ。",
+          "適当に光線を 置いたりなどしない。"
+        ],
+        "ko": [
+          "도대체 어디서 네 조상들이 이런 인공 빔 발사기를 만드는 법을 배웠다고 생각하지?",
+          "흥. 적어도 우리 부족은 위생을 지키지.",
+          "우린 아무 데나 빔을 쏘아대진 않아."
+        ],
         "pt-br": [
           "Onde, onde você acha que seus ancestrais aprenderam a fazer esses emissores artificiais de Feixe?",
           "Hum. Pelo menos meu povo tem higiene.",
           "Nós não jogamos nossos feixes para todo lado."
+        ],
+        "ru": [
+          "Как думаешь, где твои предки научились делать эти искусственные испускатели лучей?",
+          "Хм. По крайней мере, у моего народа есть гигиена.",
+          "Мы не раскидываем наши лучи кругом где попало."
+        ],
+        "s-cn": [
+          "说说看，你们的祖先究竟从哪里学会制造这些人造光束发射器的？",
+          "哼。至少我的族人还讲卫生。",
+          "我们不会把光束四处乱射。"
+        ],
+        "t-cn": [
+          "說說看， 你們的祖先究竟從哪裡學會製造這些人造光束發射器的？",
+          "哼。至少我的族人還講衛生。",
+          "我們不會把光束四處亂射。"
         ]
       },
       "silentCues": [],
@@ -552,11 +1119,65 @@
               "Our people do not maintain a grudge about those times.",
               "Do yours?"
             ],
+            "de": [
+              "Wir haben jeden Kontakt zu deinem Volk verloren, und zwar vor geraumer Zeit –",
+              "mehrere Lebensspannen für ein Wesen deiner Art.",
+              "Unser Volk hegt keinen Groll wegen jener Zeiten.",
+              "Und deins?"
+            ],
+            "es": [
+              "Perdimos todo contacto con vuestro pueblo hace tiempo...",
+              "Hace varias vidas de alguien como tú.",
+              "Nuestro pueblo no guarda rencor por aquellos tiempos.",
+              "¿El tuyo sí?"
+            ],
+            "fr": [
+              "Nous avons perdu tout contact avec ton peuple il y a quelque temps...",
+              "Plusieurs vies pour quelqu'un comme toi.",
+              "Notre peuple ne garde pas rancune de cette époque.",
+              "Et le tien ?"
+            ],
+            "it": [
+              "Abbiamo perso ogni contatto con il tuo popolo da qualche tempo...",
+              "Diverse vite per i vostri standard.",
+              "Il nostro popolo non coltiva rancore per quei tempi.",
+              "E il tuo?"
+            ],
+            "ja": [
+              "ずいぶん昔に お前たちとの 接触が完全に途絶えた――",
+              "お前たちで言う 何世代も前に。",
+              "だが我らは 恨んだりなどしない。",
+              "お前たちは、まだ恨んでいるのか？"
+            ],
+            "ko": [
+              "우린 꽤 오래전에 너희 종족과 완전히 교류가 끊겼지...",
+              "너와 같은 이의 수명으로 치면 몇 번의 생애가 지날 만큼.",
+              "우리 부족은 그 시절의 일에 원한을 품지 않아.",
+              "너희도 그러한가?"
+            ],
             "pt-br": [
               "Perdemos todo contato com seu povo há algum tempo...",
               "Várias vidas de alguém como você.",
               "Nosso povo não guarda rancor daqueles tempos.",
-              "E os seus?"
+              "E o seu?"
+            ],
+            "ru": [
+              "Мы утратили связь с вашим народом некоторое время назад...",
+              "Несколько таких жизней, как твоя.",
+              "У нашего народа не принято таить обиду за те времена.",
+              "А у вашего?"
+            ],
+            "s-cn": [
+              "很久以前，我们就与你们的族人彻底失去了联系……",
+              "按你们的寿命来算，那已经是好几代人以前的事了。",
+              "我们的族人并不记恨那段往事。",
+              "你们还记恨吗？"
+            ],
+            "t-cn": [
+              "很久以前，我們就與你們的族人徹底失去了聯繫……",
+              "按你們的壽命來算，那已經是好幾代人以前的事了。",
+              "我們的族人並不記恨那段往事。",
+              "你們還記恨嗎？"
             ]
           },
           "provenance": {
@@ -582,11 +1203,65 @@
           "Our people do not maintain a grudge about those times.",
           "Do yours?"
         ],
+        "de": [
+          "Wir haben jeden Kontakt zu deinem Volk verloren, und zwar vor geraumer Zeit –",
+          "mehrere Lebensspannen für ein Wesen deiner Art.",
+          "Unser Volk hegt keinen Groll wegen jener Zeiten.",
+          "Und deins?"
+        ],
+        "es": [
+          "Perdimos todo contacto con vuestro pueblo hace tiempo...",
+          "Hace varias vidas de alguien como tú.",
+          "Nuestro pueblo no guarda rencor por aquellos tiempos.",
+          "¿El tuyo sí?"
+        ],
+        "fr": [
+          "Nous avons perdu tout contact avec ton peuple il y a quelque temps...",
+          "Plusieurs vies pour quelqu'un comme toi.",
+          "Notre peuple ne garde pas rancune de cette époque.",
+          "Et le tien ?"
+        ],
+        "it": [
+          "Abbiamo perso ogni contatto con il tuo popolo da qualche tempo...",
+          "Diverse vite per i vostri standard.",
+          "Il nostro popolo non coltiva rancore per quei tempi.",
+          "E il tuo?"
+        ],
+        "ja": [
+          "ずいぶん昔に お前たちとの 接触が完全に途絶えた――",
+          "お前たちで言う 何世代も前に。",
+          "だが我らは 恨んだりなどしない。",
+          "お前たちは、まだ恨んでいるのか？"
+        ],
+        "ko": [
+          "우린 꽤 오래전에 너희 종족과 완전히 교류가 끊겼지...",
+          "너와 같은 이의 수명으로 치면 몇 번의 생애가 지날 만큼.",
+          "우리 부족은 그 시절의 일에 원한을 품지 않아.",
+          "너희도 그러한가?"
+        ],
         "pt-br": [
           "Perdemos todo contato com seu povo há algum tempo...",
           "Várias vidas de alguém como você.",
           "Nosso povo não guarda rancor daqueles tempos.",
-          "E os seus?"
+          "E o seu?"
+        ],
+        "ru": [
+          "Мы утратили связь с вашим народом некоторое время назад...",
+          "Несколько таких жизней, как твоя.",
+          "У нашего народа не принято таить обиду за те времена.",
+          "А у вашего?"
+        ],
+        "s-cn": [
+          "很久以前，我们就与你们的族人彻底失去了联系……",
+          "按你们的寿命来算，那已经是好几代人以前的事了。",
+          "我们的族人并不记恨那段往事。",
+          "你们还记恨吗？"
+        ],
+        "t-cn": [
+          "很久以前，我們就與你們的族人徹底失去了聯繫……",
+          "按你們的壽命來算，那已經是好幾代人以前的事了。",
+          "我們的族人並不記恨那段往事。",
+          "你們還記恨嗎？"
         ]
       },
       "silentCues": [],
@@ -625,8 +1300,35 @@
             "en": [
               "My role will be to seek more places where our volumes can superpose. Strengthen and enlarge."
             ],
+            "de": [
+              "Meine Aufgabe wird es sein, weitere Orte zu finden, an denen Überschneidungspunkte zwischen uns bestehen, und diese zu stärken und zu vergrößern."
+            ],
+            "es": [
+              "Mi función será buscar más lugares donde nuestros volúmenes puedan solaparse. Fortalecerlos y ampliarlos."
+            ],
+            "fr": [
+              "Mon rôle sera de chercher d'autres points de recoupement, les renforcer et les étendre."
+            ],
+            "it": [
+              "Il mio ruolo sarà cercare altri punti in cui i nostri volumi possano sovrapporsi. Rafforzare ed espandere."
+            ],
+            "ja": [
+              "我の役目は 重なる場所を見つけ出し、 さらに広めることだ。"
+            ],
+            "ko": [
+              "내 역할은 우리 공간이 겹칠 수 있는 곳을 더 찾아내는 거지. 그렇게 힘을 키우고 영역을 넓히는 거야."
+            ],
             "pt-br": [
               "Meu papel será buscar mais lugares onde nossos volumes possam se sobrepor. Fortalecer e ampliar."
+            ],
+            "ru": [
+              "Моей задачей будет искать новые места, где наши объёмы могут пересекаться. Укреплять и расширять."
+            ],
+            "s-cn": [
+              "我的职责，是去寻找更多你我两族空间交汇的地方， 让这些区域更稳固、更广阔。"
+            ],
+            "t-cn": [
+              "我的職責，是去尋找更多你我兩族空間交匯的地方， 讓這些區域更穩固、更廣闊。"
             ]
           },
           "provenance": {
@@ -646,8 +1348,35 @@
         "en": [
           "My role will be to seek more places where our volumes can superpose. Strengthen and enlarge."
         ],
+        "de": [
+          "Meine Aufgabe wird es sein, weitere Orte zu finden, an denen Überschneidungspunkte zwischen uns bestehen, und diese zu stärken und zu vergrößern."
+        ],
+        "es": [
+          "Mi función será buscar más lugares donde nuestros volúmenes puedan solaparse. Fortalecerlos y ampliarlos."
+        ],
+        "fr": [
+          "Mon rôle sera de chercher d'autres points de recoupement, les renforcer et les étendre."
+        ],
+        "it": [
+          "Il mio ruolo sarà cercare altri punti in cui i nostri volumi possano sovrapporsi. Rafforzare ed espandere."
+        ],
+        "ja": [
+          "我の役目は 重なる場所を見つけ出し、 さらに広めることだ。"
+        ],
+        "ko": [
+          "내 역할은 우리 공간이 겹칠 수 있는 곳을 더 찾아내는 거지. 그렇게 힘을 키우고 영역을 넓히는 거야."
+        ],
         "pt-br": [
           "Meu papel será buscar mais lugares onde nossos volumes possam se sobrepor. Fortalecer e ampliar."
+        ],
+        "ru": [
+          "Моей задачей будет искать новые места, где наши объёмы могут пересекаться. Укреплять и расширять."
+        ],
+        "s-cn": [
+          "我的职责，是去寻找更多你我两族空间交汇的地方， 让这些区域更稳固、更广阔。"
+        ],
+        "t-cn": [
+          "我的職責，是去尋找更多你我兩族空間交匯的地方， 讓這些區域更穩固、更廣闊。"
         ]
       },
       "silentCues": [],
@@ -687,9 +1416,45 @@
               "Light. Your people think they know some things about light and the casting of beams.",
               "And perhaps they do know a little. But to them I will bring *new* light."
             ],
+            "de": [
+              "Licht. Dein Volk glaubt, einiges über Licht zu wissen und darüber, wie man Strahlen aussendet.",
+              "Und vielleicht weiß es tatsächlich ein wenig. Aber ich werde ihm neues Licht bringen."
+            ],
+            "es": [
+              "La luz. Tu pueblo cree saber algunas cosas sobre la luz y el lanzamiento de haces.",
+              "Y quizá sepa algo. Pero yo le traeré una nueva luz."
+            ],
+            "fr": [
+              "La lumière. Ton peuple croit savoir certaines choses sur la lumière et sur l'émission des faisceaux.",
+              "Et peut-être en savent-ils un peu. Mais je leur apporterai un éclairage nouveau."
+            ],
+            "it": [
+              "Luce. Il tuo popolo crede di sapere qualcosa sulla luce e sulla proiezione dei raggi.",
+              "E forse qualcosa sanno. Ma io porterò loro una luce nuova."
+            ],
+            "ja": [
+              "お前たちは 光線について 知っているつもりだな？",
+              "知っているかもしれぬが、 我が新たな知見を 示してやれる。"
+            ],
+            "ko": [
+              "빛. 너희는 빛과 빔을 쏘는 일에 대해 아는 게 좀 있다고 생각하겠지.",
+              "어쩌면 조금은 알 수 있을지도. 하지만 난 그들에게 새로운 빛을 가져다줄 거다."
+            ],
             "pt-br": [
               "Luz. Seu povo acha que sabe algumas coisas sobre a luz e o disparo de Feixes.",
               "E talvez eles saibam um pouco. Mas eu lhes trarei uma nova luz."
+            ],
+            "ru": [
+              "Свет. Твой народ думает, что знает кое-что о свете и о посылке лучей.",
+              "Возможно, они и знают что-то. Но я принесу им новый свет."
+            ],
+            "s-cn": [
+              "光。你的族人自以为对光和光束投射的方式有所了解。",
+              "也许他们确实略懂一二。但我要为他们带去新的光。"
+            ],
+            "t-cn": [
+              "光。你的族人自以為對光和光束投射的方式有所了解。",
+              "也許他們確實略懂一二。但我要為他們帶去新的光。"
             ]
           },
           "provenance": {
@@ -711,9 +1476,45 @@
           "Light. Your people think they know some things about light and the casting of beams.",
           "And perhaps they do know a little. But to them I will bring *new* light."
         ],
+        "de": [
+          "Licht. Dein Volk glaubt, einiges über Licht zu wissen und darüber, wie man Strahlen aussendet.",
+          "Und vielleicht weiß es tatsächlich ein wenig. Aber ich werde ihm neues Licht bringen."
+        ],
+        "es": [
+          "La luz. Tu pueblo cree saber algunas cosas sobre la luz y el lanzamiento de haces.",
+          "Y quizá sepa algo. Pero yo le traeré una nueva luz."
+        ],
+        "fr": [
+          "La lumière. Ton peuple croit savoir certaines choses sur la lumière et sur l'émission des faisceaux.",
+          "Et peut-être en savent-ils un peu. Mais je leur apporterai un éclairage nouveau."
+        ],
+        "it": [
+          "Luce. Il tuo popolo crede di sapere qualcosa sulla luce e sulla proiezione dei raggi.",
+          "E forse qualcosa sanno. Ma io porterò loro una luce nuova."
+        ],
+        "ja": [
+          "お前たちは 光線について 知っているつもりだな？",
+          "知っているかもしれぬが、 我が新たな知見を 示してやれる。"
+        ],
+        "ko": [
+          "빛. 너희는 빛과 빔을 쏘는 일에 대해 아는 게 좀 있다고 생각하겠지.",
+          "어쩌면 조금은 알 수 있을지도. 하지만 난 그들에게 새로운 빛을 가져다줄 거다."
+        ],
         "pt-br": [
           "Luz. Seu povo acha que sabe algumas coisas sobre a luz e o disparo de Feixes.",
           "E talvez eles saibam um pouco. Mas eu lhes trarei uma nova luz."
+        ],
+        "ru": [
+          "Свет. Твой народ думает, что знает кое-что о свете и о посылке лучей.",
+          "Возможно, они и знают что-то. Но я принесу им новый свет."
+        ],
+        "s-cn": [
+          "光。你的族人自以为对光和光束投射的方式有所了解。",
+          "也许他们确实略懂一二。但我要为他们带去新的光。"
+        ],
+        "t-cn": [
+          "光。你的族人自以為對光和光束投射的方式有所了解。",
+          "也許他們確實略懂一二。但我要為他們帶去新的光。"
         ]
       },
       "silentCues": [],
@@ -756,12 +1557,75 @@
               "You will not return directly home, not yet.",
               "We will get you where you need to go next."
             ],
+            "de": [
+              "Unser Plan war, dass ich als Gesandter mit dir zurückkehre.",
+              "Unser Licht kreuzt euer Licht.",
+              "Doch dann ist ein Handel geschlossen worden. Ein enormer Mitteleinsatz.",
+              "Du wirst nicht direkt nach Hause zurückkehren, noch nicht.",
+              "Wir bringen dich dorthin, wo du als Nächstes hinmusst."
+            ],
+            "es": [
+              "Habíamos planeado que yo regresara con vosotros como emisario.",
+              "Nuestra luz cruza vuestra luz.",
+              "Pero entonces se llegó a un acuerdo. Un gasto desmesurado.",
+              "No volverás directamente a casa, todavía no.",
+              "Te llevaremos adonde tengas que ir después."
+            ],
+            "fr": [
+              "Nous avions prévu que je revienne avec toi comme émissaire.",
+              "Notre lumière croise votre lumière.",
+              "Mais ensuite, un accord a été conclu. Des dépenses somptuaires.",
+              "Tu ne rentreras pas directement chez toi, pas encore.",
+              "On t'emmènera là où tu dois aller ensuite."
+            ],
+            "it": [
+              "Il nostro piano era che io tornassi con te come emissario.",
+              "La nostra luce attraversa la vostra.",
+              "Ma poi, fu stretto un accordo. Una spesa ingente.",
+              "Non tornerai direttamente a casa, non ancora.",
+              "Ti porteremo dove devi andare dopo."
+            ],
+            "ja": [
+              "同胞は、我を使者として お前に同行させるつもりだった。",
+              "我らの光は交差しているからな。",
+              "だがお前に 長い旅が残っている。",
+              "お前に近づいて それがわかった。",
+              "行くべき場所へ 連れていってやろう。"
+            ],
+            "ko": [
+              "원래 계획은 내가 사절로서 너와 함께 돌아가는 거였지.",
+              "우리의 빛은 너희의 빛과 교차하니까.",
+              "하지만 그때, 거래가 성사됐어. 막대한 비용을 들였지.",
+              "곧장 집으로 돌아가지는 못할 거다, 아직은.",
+              "다음에 가야 할 곳까지 우리가 데려다주지."
+            ],
             "pt-br": [
               "Nosso plano era que eu voltasse com você como emissário.",
               "Nossa luz cruza a sua luz.",
               "Mas então, um acordo foi selado. Uma despesa extravagante.",
               "Você não voltará direto para casa, ainda não.",
               "Vamos levá-lo até onde você precisa ir agora."
+            ],
+            "ru": [
+              "Мы рассчитывали, что я вернусь с тобой как посланник.",
+              "Наш свет пересекается с вашим светом.",
+              "Но потом заключили сделку. Потратили баснословную сумму.",
+              "Ты не вернёшься прямо домой, пока нет.",
+              "Мы доставим тебя туда, куда тебе нужно двигаться дальше."
+            ],
+            "s-cn": [
+              "我们的计划，是让我作为使者，跟你一起回去。",
+              "我们的光与你们的光交汇。",
+              "可后来，双方达成了一笔交易。耗资不菲。",
+              "你不会直接回家，至少现在还不会。",
+              "我们会送你去下一个该去的地方。"
+            ],
+            "t-cn": [
+              "我們的計劃，是讓我作為使者，跟你一起回去。",
+              "我們的光與你們的光交匯。",
+              "可後來，雙方達成了一筆交易。耗資不菲。",
+              "你不會直接回家，至少現在還不會。",
+              "我們會送你去下一個該去的地方。"
             ]
           },
           "provenance": {
@@ -789,12 +1653,75 @@
           "You will not return directly home, not yet.",
           "We will get you where you need to go next."
         ],
+        "de": [
+          "Unser Plan war, dass ich als Gesandter mit dir zurückkehre.",
+          "Unser Licht kreuzt euer Licht.",
+          "Doch dann ist ein Handel geschlossen worden. Ein enormer Mitteleinsatz.",
+          "Du wirst nicht direkt nach Hause zurückkehren, noch nicht.",
+          "Wir bringen dich dorthin, wo du als Nächstes hinmusst."
+        ],
+        "es": [
+          "Habíamos planeado que yo regresara con vosotros como emisario.",
+          "Nuestra luz cruza vuestra luz.",
+          "Pero entonces se llegó a un acuerdo. Un gasto desmesurado.",
+          "No volverás directamente a casa, todavía no.",
+          "Te llevaremos adonde tengas que ir después."
+        ],
+        "fr": [
+          "Nous avions prévu que je revienne avec toi comme émissaire.",
+          "Notre lumière croise votre lumière.",
+          "Mais ensuite, un accord a été conclu. Des dépenses somptuaires.",
+          "Tu ne rentreras pas directement chez toi, pas encore.",
+          "On t'emmènera là où tu dois aller ensuite."
+        ],
+        "it": [
+          "Il nostro piano era che io tornassi con te come emissario.",
+          "La nostra luce attraversa la vostra.",
+          "Ma poi, fu stretto un accordo. Una spesa ingente.",
+          "Non tornerai direttamente a casa, non ancora.",
+          "Ti porteremo dove devi andare dopo."
+        ],
+        "ja": [
+          "同胞は、我を使者として お前に同行させるつもりだった。",
+          "我らの光は交差しているからな。",
+          "だがお前に 長い旅が残っている。",
+          "お前に近づいて それがわかった。",
+          "行くべき場所へ 連れていってやろう。"
+        ],
+        "ko": [
+          "원래 계획은 내가 사절로서 너와 함께 돌아가는 거였지.",
+          "우리의 빛은 너희의 빛과 교차하니까.",
+          "하지만 그때, 거래가 성사됐어. 막대한 비용을 들였지.",
+          "곧장 집으로 돌아가지는 못할 거다, 아직은.",
+          "다음에 가야 할 곳까지 우리가 데려다주지."
+        ],
         "pt-br": [
           "Nosso plano era que eu voltasse com você como emissário.",
           "Nossa luz cruza a sua luz.",
           "Mas então, um acordo foi selado. Uma despesa extravagante.",
           "Você não voltará direto para casa, ainda não.",
           "Vamos levá-lo até onde você precisa ir agora."
+        ],
+        "ru": [
+          "Мы рассчитывали, что я вернусь с тобой как посланник.",
+          "Наш свет пересекается с вашим светом.",
+          "Но потом заключили сделку. Потратили баснословную сумму.",
+          "Ты не вернёшься прямо домой, пока нет.",
+          "Мы доставим тебя туда, куда тебе нужно двигаться дальше."
+        ],
+        "s-cn": [
+          "我们的计划，是让我作为使者，跟你一起回去。",
+          "我们的光与你们的光交汇。",
+          "可后来，双方达成了一笔交易。耗资不菲。",
+          "你不会直接回家，至少现在还不会。",
+          "我们会送你去下一个该去的地方。"
+        ],
+        "t-cn": [
+          "我們的計劃，是讓我作為使者，跟你一起回去。",
+          "我們的光與你們的光交匯。",
+          "可後來，雙方達成了一筆交易。耗資不菲。",
+          "你不會直接回家，至少現在還不會。",
+          "我們會送你去下一個該去的地方。"
         ]
       },
       "silentCues": [],
@@ -835,10 +1762,55 @@
               "One final task, and you won't need me any more.",
               "We'll re-meet later, I expect."
             ],
+            "de": [
+              "Du hast hier gute Arbeit geleistet.",
+              "Noch eine letzte Aufgabe, dann brauchst du mich nicht mehr.",
+              "Wir werden uns später wohl wiederbegegnen."
+            ],
+            "es": [
+              "Has hecho un buen trabajo por aquí.",
+              "Una última tarea, y ya no me necesitarás más.",
+              "Volveremos a encontrarnos luego, supongo."
+            ],
+            "fr": [
+              "Tu as fait du bon travail ici.",
+              "Une dernière tâche, et tu n'auras plus besoin de moi.",
+              "On se reverra plus tard, je pense."
+            ],
+            "it": [
+              "Hai fatto un buon lavoro qui.",
+              "Un ultimo compito, e non avrai più bisogno di me.",
+              "Ci rincontreremo più tardi, immagino."
+            ],
+            "ja": [
+              "よくやった。",
+              "あと一仕事だ。 それが終われば 我の役目も終わる。",
+              "また会うだろう。"
+            ],
+            "ko": [
+              "여기선 잘해줬다.",
+              "마지막 한 가지 일만 끝내면 더는 내가 필요하지 않을 거다.",
+              "나중에 다시 만나게 되겠지."
+            ],
             "pt-br": [
               "Você fez um bom trabalho aqui.",
               "Uma última tarefa, e você não vai mais precisar de mim.",
               "Vamos nos reencontrar depois, imagino."
+            ],
+            "ru": [
+              "Ты хорошо справился здесь.",
+              "Одна последняя задача, и я тебе больше не понадоблюсь.",
+              "Думаю, позже мы ещё встретимся."
+            ],
+            "s-cn": [
+              "你在这里做得很好。",
+              "再完成最后一项任务，之后你就不再需要我了。",
+              "我想，我们以后还会再见。"
+            ],
+            "t-cn": [
+              "你在這裡做得很好。",
+              "再完成最後一項任務，之後你就不再需要我了。",
+              "我想，我們以後還會再見。"
             ]
           },
           "provenance": {
@@ -862,10 +1834,55 @@
           "One final task, and you won't need me any more.",
           "We'll re-meet later, I expect."
         ],
+        "de": [
+          "Du hast hier gute Arbeit geleistet.",
+          "Noch eine letzte Aufgabe, dann brauchst du mich nicht mehr.",
+          "Wir werden uns später wohl wiederbegegnen."
+        ],
+        "es": [
+          "Has hecho un buen trabajo por aquí.",
+          "Una última tarea, y ya no me necesitarás más.",
+          "Volveremos a encontrarnos luego, supongo."
+        ],
+        "fr": [
+          "Tu as fait du bon travail ici.",
+          "Une dernière tâche, et tu n'auras plus besoin de moi.",
+          "On se reverra plus tard, je pense."
+        ],
+        "it": [
+          "Hai fatto un buon lavoro qui.",
+          "Un ultimo compito, e non avrai più bisogno di me.",
+          "Ci rincontreremo più tardi, immagino."
+        ],
+        "ja": [
+          "よくやった。",
+          "あと一仕事だ。 それが終われば 我の役目も終わる。",
+          "また会うだろう。"
+        ],
+        "ko": [
+          "여기선 잘해줬다.",
+          "마지막 한 가지 일만 끝내면 더는 내가 필요하지 않을 거다.",
+          "나중에 다시 만나게 되겠지."
+        ],
         "pt-br": [
           "Você fez um bom trabalho aqui.",
           "Uma última tarefa, e você não vai mais precisar de mim.",
           "Vamos nos reencontrar depois, imagino."
+        ],
+        "ru": [
+          "Ты хорошо справился здесь.",
+          "Одна последняя задача, и я тебе больше не понадоблюсь.",
+          "Думаю, позже мы ещё встретимся."
+        ],
+        "s-cn": [
+          "你在这里做得很好。",
+          "再完成最后一项任务，之后你就不再需要我了。",
+          "我想，我们以后还会再见。"
+        ],
+        "t-cn": [
+          "你在這裡做得很好。",
+          "再完成最後一項任務，之後你就不再需要我了。",
+          "我想，我們以後還會再見。"
         ]
       },
       "silentCues": [],
@@ -904,8 +1921,35 @@
             "en": [
               "Until next time."
             ],
+            "de": [
+              "Bis zum nächsten Mal."
+            ],
+            "es": [
+              "Hasta la próxima."
+            ],
+            "fr": [
+              "À la prochaine."
+            ],
+            "it": [
+              "Alla prossima."
+            ],
+            "ja": [
+              "また次回。"
+            ],
+            "ko": [
+              "다음에 또 보자."
+            ],
             "pt-br": [
               "Até a próxima."
+            ],
+            "ru": [
+              "До следующего раза."
+            ],
+            "s-cn": [
+              "下次再会。"
+            ],
+            "t-cn": [
+              "下次再會。"
             ]
           },
           "provenance": {
@@ -926,8 +1970,35 @@
             "en": [
               "Until next time?"
             ],
+            "de": [
+              "Bis zum nächsten Mal?"
+            ],
+            "es": [
+              "¿Hasta la próxima?"
+            ],
+            "fr": [
+              "À la prochaine ?"
+            ],
+            "it": [
+              "Alla prossima?"
+            ],
+            "ja": [
+              "次回？"
+            ],
+            "ko": [
+              "다음에 또 본다고?"
+            ],
             "pt-br": [
               "Até a próxima?"
+            ],
+            "ru": [
+              "До следующего раза?"
+            ],
+            "s-cn": [
+              "下次……再会？"
+            ],
+            "t-cn": [
+              "下次……再會？"
             ]
           },
           "provenance": {
@@ -948,9 +2019,45 @@
           "Until next time.",
           "Until next time?"
         ],
+        "de": [
+          "Bis zum nächsten Mal.",
+          "Bis zum nächsten Mal?"
+        ],
+        "es": [
+          "Hasta la próxima.",
+          "¿Hasta la próxima?"
+        ],
+        "fr": [
+          "À la prochaine.",
+          "À la prochaine ?"
+        ],
+        "it": [
+          "Alla prossima.",
+          "Alla prossima?"
+        ],
+        "ja": [
+          "また次回。",
+          "次回？"
+        ],
+        "ko": [
+          "다음에 또 보자.",
+          "다음에 또 본다고?"
+        ],
         "pt-br": [
           "Até a próxima.",
           "Até a próxima?"
+        ],
+        "ru": [
+          "До следующего раза.",
+          "До следующего раза?"
+        ],
+        "s-cn": [
+          "下次再会。",
+          "下次……再会？"
+        ],
+        "t-cn": [
+          "下次再會。",
+          "下次……再會？"
         ]
       },
       "silentCues": [],
@@ -1015,8 +2122,35 @@
             "en": [
               "Took you some time!"
             ],
+            "de": [
+              "Hast dir ganz schön Zeit gelassen!"
+            ],
+            "es": [
+              "¡Has tardado un poco!"
+            ],
+            "fr": [
+              "Tu en as mis, du temps !"
+            ],
+            "it": [
+              "Ci hai messo un po'!"
+            ],
+            "ja": [
+              "遅かったな！"
+            ],
+            "ko": [
+              "꽤 오래 걸렸군!"
+            ],
             "pt-br": [
               "Demorou, hein!"
+            ],
+            "ru": [
+              "Тебе понадобилось время!"
+            ],
+            "s-cn": [
+              "你可来了！"
+            ],
+            "t-cn": [
+              "你可來了！"
             ]
           },
           "provenance": {
@@ -1037,8 +2171,35 @@
             "en": [
               "That's your thanks?"
             ],
+            "de": [
+              "Und das ist dein Dank?"
+            ],
+            "es": [
+              "¿Esa es tu forma de dar las gracias?"
+            ],
+            "fr": [
+              "C'est ça, tes remerciements ?"
+            ],
+            "it": [
+              "Questo sarebbe il tuo grazie?"
+            ],
+            "ja": [
+              "感謝の言葉は？"
+            ],
+            "ko": [
+              "고맙다는 소리가 고작 그거야?"
+            ],
             "pt-br": [
               "Essa é a sua gratidão?"
+            ],
+            "ru": [
+              "Это твоя благодарность?"
+            ],
+            "s-cn": [
+              "这就是你的感谢方式？"
+            ],
+            "t-cn": [
+              "這就是你的感謝方式？"
             ]
           },
           "provenance": {
@@ -1059,8 +2220,35 @@
             "en": [
               "I know you want to use me, out here."
             ],
+            "de": [
+              "Ich weiß doch, dass du mich benutzen willst, hier draußen."
+            ],
+            "es": [
+              "Sé que quieres usarme, aquí fuera."
+            ],
+            "fr": [
+              "Je sais que tu veux te servir de moi, là-dehors."
+            ],
+            "it": [
+              "So che vuoi usare me, qui fuori."
+            ],
+            "ja": [
+              "ここでは我が 必要なのだろう。"
+            ],
+            "ko": [
+              "여기서 날 이용하고 싶다는 거 알아."
+            ],
             "pt-br": [
               "Eu sei que você quer me usar, aqui fora."
+            ],
+            "ru": [
+              "Я знаю, ты хочешь воспользоваться мной, здесь, снаружи."
+            ],
+            "s-cn": [
+              "我知道你在外面还想用我的能力。"
+            ],
+            "t-cn": [
+              "我知道你在外面還想用我的能力。"
             ]
           },
           "provenance": {
@@ -1082,10 +2270,55 @@
           "That's your thanks?",
           "I know you want to use me, out here."
         ],
+        "de": [
+          "Hast dir ganz schön Zeit gelassen!",
+          "Und das ist dein Dank?",
+          "Ich weiß doch, dass du mich benutzen willst, hier draußen."
+        ],
+        "es": [
+          "¡Has tardado un poco!",
+          "¿Esa es tu forma de dar las gracias?",
+          "Sé que quieres usarme, aquí fuera."
+        ],
+        "fr": [
+          "Tu en as mis, du temps !",
+          "C'est ça, tes remerciements ?",
+          "Je sais que tu veux te servir de moi, là-dehors."
+        ],
+        "it": [
+          "Ci hai messo un po'!",
+          "Questo sarebbe il tuo grazie?",
+          "So che vuoi usare me, qui fuori."
+        ],
+        "ja": [
+          "遅かったな！",
+          "感謝の言葉は？",
+          "ここでは我が 必要なのだろう。"
+        ],
+        "ko": [
+          "꽤 오래 걸렸군!",
+          "고맙다는 소리가 고작 그거야?",
+          "여기서 날 이용하고 싶다는 거 알아."
+        ],
         "pt-br": [
           "Demorou, hein!",
           "Essa é a sua gratidão?",
           "Eu sei que você quer me usar, aqui fora."
+        ],
+        "ru": [
+          "Тебе понадобилось время!",
+          "Это твоя благодарность?",
+          "Я знаю, ты хочешь воспользоваться мной, здесь, снаружи."
+        ],
+        "s-cn": [
+          "你可来了！",
+          "这就是你的感谢方式？",
+          "我知道你在外面还想用我的能力。"
+        ],
+        "t-cn": [
+          "你可來了！",
+          "這就是你的感謝方式？",
+          "我知道你在外面還想用我的能力。"
         ]
       },
       "silentCues": [],
@@ -1137,8 +2370,35 @@
             "en": [
               "Took you some time."
             ],
+            "de": [
+              "Hast dir ganz schön Zeit gelassen!"
+            ],
+            "es": [
+              "¡Has tardado un poco!"
+            ],
+            "fr": [
+              "Tu en as mis, du temps !"
+            ],
+            "it": [
+              "Ci hai messo un po'!"
+            ],
+            "ja": [
+              "遅かったな！"
+            ],
+            "ko": [
+              "꽤 오래 걸렸군!"
+            ],
             "pt-br": [
               "Demorou, hein!"
+            ],
+            "ru": [
+              "Тебе понадобилось время!"
+            ],
+            "s-cn": [
+              "你可来了。"
+            ],
+            "t-cn": [
+              "你可來了。"
             ]
           },
           "provenance": {
@@ -1159,8 +2419,35 @@
             "en": [
               "I just ... it was a lot."
             ],
+            "de": [
+              "Ich ... das war einfach ziemlich viel."
+            ],
+            "es": [
+              "Es que... ha sido un montón."
+            ],
+            "fr": [
+              "C'est juste que... ça faisait beaucoup à digérer."
+            ],
+            "it": [
+              "Ci ho messo solo... era tanto."
+            ],
+            "ja": [
+              "色々… 大変だったんだ。"
+            ],
+            "ko": [
+              "난 그냥... 너무 많았어."
+            ],
             "pt-br": [
               "Eu só... foi muita coisa."
+            ],
+            "ru": [
+              "Я просто... это было слишком."
+            ],
+            "s-cn": [
+              "我只是……事情实在太多了。"
+            ],
+            "t-cn": [
+              "我只是……事情實在太多了。"
             ]
           },
           "provenance": {
@@ -1181,9 +2468,45 @@
           "Took you some time.",
           "I just ... it was a lot."
         ],
+        "de": [
+          "Hast dir ganz schön Zeit gelassen!",
+          "Ich ... das war einfach ziemlich viel."
+        ],
+        "es": [
+          "¡Has tardado un poco!",
+          "Es que... ha sido un montón."
+        ],
+        "fr": [
+          "Tu en as mis, du temps !",
+          "C'est juste que... ça faisait beaucoup à digérer."
+        ],
+        "it": [
+          "Ci hai messo un po'!",
+          "Ci ho messo solo... era tanto."
+        ],
+        "ja": [
+          "遅かったな！",
+          "色々… 大変だったんだ。"
+        ],
+        "ko": [
+          "꽤 오래 걸렸군!",
+          "난 그냥... 너무 많았어."
+        ],
         "pt-br": [
           "Demorou, hein!",
           "Eu só... foi muita coisa."
+        ],
+        "ru": [
+          "Тебе понадобилось время!",
+          "Я просто... это было слишком."
+        ],
+        "s-cn": [
+          "你可来了。",
+          "我只是……事情实在太多了。"
+        ],
+        "t-cn": [
+          "你可來了。",
+          "我只是……事情實在太多了。"
         ]
       },
       "silentCues": [],
@@ -1222,8 +2545,35 @@
             "en": [
               "That's done, now. Whatever it was."
             ],
+            "de": [
+              "Jetzt ist es vorbei. Was immer es auch war."
+            ],
+            "es": [
+              "Ya está. Fuera lo que fuera."
+            ],
+            "fr": [
+              "C'est fini, maintenant. Quoi que ça ait été."
+            ],
+            "it": [
+              "Ora è finito. Qualunque cosa fosse."
+            ],
+            "ja": [
+              "何はともあれ、 終わった。"
+            ],
+            "ko": [
+              "이제 끝났어. 그게 뭐였든."
+            ],
             "pt-br": [
               "Isso já passou. Seja lá o que era."
+            ],
+            "ru": [
+              "Теперь это позади. Что бы это ни было."
+            ],
+            "s-cn": [
+              "不管是什么事吧，反正总算完成了。"
+            ],
+            "t-cn": [
+              "不管是什麼事吧，反正總算完成了。"
             ]
           },
           "provenance": {
@@ -1243,8 +2593,35 @@
         "en": [
           "That's done, now. Whatever it was."
         ],
+        "de": [
+          "Jetzt ist es vorbei. Was immer es auch war."
+        ],
+        "es": [
+          "Ya está. Fuera lo que fuera."
+        ],
+        "fr": [
+          "C'est fini, maintenant. Quoi que ça ait été."
+        ],
+        "it": [
+          "Ora è finito. Qualunque cosa fosse."
+        ],
+        "ja": [
+          "何はともあれ、 終わった。"
+        ],
+        "ko": [
+          "이제 끝났어. 그게 뭐였든."
+        ],
         "pt-br": [
           "Isso já passou. Seja lá o que era."
+        ],
+        "ru": [
+          "Теперь это позади. Что бы это ни было."
+        ],
+        "s-cn": [
+          "不管是什么事吧，反正总算完成了。"
+        ],
+        "t-cn": [
+          "不管是什麼事吧，反正總算完成了。"
         ]
       },
       "silentCues": [],

@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_u_chaos_1",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -22,20 +31,74 @@
               "It's a plain fact that events in the world are too tragic to have been authored by a God who holds our well-being in mind;",
               "surely it is clear to you that what befalls us is shaped by chaos."
             ],
+            "de": [
+              "... aber trotzdem verstehe ich einfach nicht, wie du an einen gütigen Gott glauben kannst.",
+              "Dein Amtierender Direktor hat gesagt, das sei eine Überlebenstaktik, und das kann ich durchaus nachvollziehen. Aber du scheinst wirklich daran zu glauben.",
+              "Unbestreitbar sind die Geschehnisse in der Welt zu tragisch, als dass sie das Werk eines Gottes sein könnten, dem unser Wohlergehen am Herzen liegt;",
+              "dir muss doch klar sein, dass das Chaos bestimmt, was uns widerfährt."
+            ],
+            "es": [
+              "... pero, aun así, simplemente no entiendo cómo puedes creer en un Dios benévolo...",
+              "Tu directora en funciones dijo que es una táctica de supervivencia, y lo entiendo en buena medida. Pero parece que de verdad lo crees.",
+              "Es evidente que lo que ocurre en el mundo es demasiado trágico para ser obra de un dios que vele por nuestro bienestar;",
+              "seguro que ves con claridad que el caos determina lo que nos sucede."
+            ],
+            "fr": [
+              "... mais malgré tout, je ne comprends tout simplement pas comment vous pouvez croire en un Dieu...",
+              "Votre remplaçante a dit que c'est une tactique de survie, ce que je peux comprendre. Mais on dirait que vous y croyez vraiment.",
+              "C'est un fait, les événements de ce monde sont trop tragiques pour être l'œuvre d'un dieu soucieux de notre bien-être ;",
+              "vous devez bien voir que ce qui nous arrive est façonné par le chaos."
+            ],
+            "it": [
+              "... ma anche così, proprio non capisco come possiate credere in un Dio benevolo...",
+              "La tua Direttrice ad interim ha detto che è una tattica di sopravvivenza e lo capisco abbastanza bene. Ma sembra che ci crediate davvero.",
+              "È evidente che gli eventi del mondo sono troppo tragici per essere opera di un Dio che ha a cuore il nostro benessere.",
+              "Di certo ti sarà chiaro che ciò che ci accade è plasmato dal caos."
+            ],
+            "ja": [
+              "まったく理解できませんね。 あなたはどうして神なんか信じられるんです？",
+              "その「演技」は生存戦略だと言っていた。 たしかにその通りかもしれませんが…",
+              "この世界で起こることは、あまりに悲惨です。 私たちの幸福を願う神が作り出したとは思えない。 それは、明らかな事実です。",
+              "あちこちが混沌としている中で、 そこまでの知識量を持っていながら、 そんなものを信じられるなんて。"
+            ],
+            "ko": [
+              "... 하지만 그렇다 해도, 어떻게 자비로운 신을 믿을 수 있는지 전 이해가 안 됩니다...",
+              "당신의 대리가 그건 생존 전략이라고 말했죠. 그런 거라면 어느 정도 이해할 수 있지만, 당신은 진심으로 믿는 것 같아요.",
+              "세상에서 벌어지는 일들은 우리의 안녕을 바라는 신이 만들었다기엔 너무도 비극적이야.",
+              "우리에게 닥치는 일은 혼돈이 빚어 낸다는 게 너에게도 분명히 보일 텐데."
+            ],
             "pt-br": [
               "... mas, mesmo assim, simplesmente não entendo como você pode acreditar em um Deus benevolente...",
-              "Sua Diretora Interina disse que é uma tática de sobrevivência, e entendo isso até certo ponto. Mas parece que você acredita nisso *de verdade*.",
+              "Sua Diretora Interina disse que é uma tática de sobrevivência, e entendo isso até certo ponto. Mas parece que você acredita nisso de verdade.",
               "É um fato evidente que os acontecimentos do mundo são trágicos demais para terem sido obra de um Deus que se preocupa com nosso bem-estar;",
               "certamente está claro para você que o que nos acontece é moldado pelo caos."
+            ],
+            "ru": [
+              "... но даже так я просто не понимаю, как вы можете верить в благого Бога...",
+              "Ваша Исполняющая обязанности Директора сказала, что это тактика выживания, и я это неплохо понимаю. Но, похоже, вы по-настоящему в это верите.",
+              "Очевидно, что в мире происходит слишком много трагедий, чтобы всё это было замыслом Бога, заботящегося о нашем благе;",
+              "вам наверняка ясно, что происходящее с нами определяется хаосом."
+            ],
+            "s-cn": [
+              "……可即便如此，我还是不明白你怎么会信一位仁慈的神灵——",
+              "你的代理主管说这是一种求生策略， 这个说法我多少还能理解。可看起来，你是打心底相信它。",
+              "世上的种种事件如此悲惨， 绝不可能出自一位心系我们福祉的神灵之手，这是明摆着的事实；",
+              "你总该明白，左右我们遭遇的其实是混沌。"
+            ],
+            "t-cn": [
+              "……可即便如此，我還是不明白你怎麼會信一位仁慈的神靈——",
+              "你的代理主管說這是一種求生策略，這個說法我多少還能理解。 可看起來，你是打心底相信它。",
+              "世上的種種事件如此悲慘， 絕不可能出自一位心繫我們福祉的神靈之手， 這是明擺著的事實；",
+              "你總該明白，左右我們遭遇的其實是混沌。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_chaos_1_1__sokoban.wav",
             "subtitleCueLines": [
-              12701,
-              12705,
               12711,
-              12717
+              12715,
+              12721,
+              12727
             ],
             "explicitAudioReference": null
           }
@@ -51,16 +114,52 @@
               "You're an engineer; you try to understand the order in the world",
               "so you can exploit it to build complicated things; isn't that so?"
             ],
+            "de": [
+              "Du bist Ingenieur; du versuchst, die Ordnung der Welt zu verstehen,",
+              "um sie dir zunutze zu machen und komplizierte Dinge zu bauen; ist es nicht so?"
+            ],
+            "es": [
+              "Eres ingeniero; intentas comprender el orden del mundo",
+              "para poder aprovecharlo y construir cosas complejas; ¿no es así?"
+            ],
+            "fr": [
+              "Vous êtes ingénieur ; vous cherchez à comprendre l'ordre du monde",
+              "pour pouvoir l'exploiter et construire des choses complexes ; n'est-ce pas ?"
+            ],
+            "it": [
+              "Sei un ingegnere: cerchi di capire l'ordine del mondo",
+              "per poterlo sfruttare e costruire cose complicate. Non è così?"
+            ],
+            "ja": [
+              "ほら、その顔。君たちの世界では、 まだ情報処理の技術が そこまで進んでいないんだな？",
+              "だが、君は技術者だろう。 複雑なものを構築するために、 秩序を利用しているじゃないか。"
+            ],
+            "ko": [
+              "넌 기술자잖아. 세상의 질서를 이해하려고 애쓰는 건",
+              "그걸 활용해서 복잡한 걸 만들기 위해서지. 안 그래?"
+            ],
             "pt-br": [
               "Você é engenheiro; tenta entender a ordem do mundo",
               "para poder tirar proveito dela e construir coisas complicadas; não é isso?"
+            ],
+            "ru": [
+              "Ты инженер; ты пытаешься понять порядок, царящий в мире,",
+              "чтобы использовать его для создания сложных вещей; разве не так?"
+            ],
+            "s-cn": [
+              "你是工程师；你试图去理解这世界中的规律",
+              "好利用这些规律造出复杂的东西，是不是？"
+            ],
+            "t-cn": [
+              "你是工程師；你試圖去理解這世界中的規律",
+              "好利用這些規律造出複雜的東西，是不是？"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_chaos_1_2__director.wav",
             "subtitleCueLines": [
-              12721,
-              12725
+              12731,
+              12735
             ],
             "explicitAudioReference": null
           }
@@ -81,6 +180,60 @@
               "diseases wherein certain cells of the body randomly become corrupted, and turn upon the whole...",
               "No loving God would torture his children in this way."
             ],
+            "de": [
+              "Das ist wahr ... wir können Kausalzusammenhänge verfolgen,",
+              "solange die Systeme einfach sind, und ihre Regelmäßigkeit nutzen, um Ergebnisse vorherzusagen.",
+              "Das funktioniert bis zu einem gewissen Punkt. Jenseits davon greifen die Methoden des Ingenieurs nicht mehr.",
+              "Ergebnisse werden völlig unvorhersehbar. Was dem einzelnen Menschen widerfährt, hängt größtenteils vom Zufall ab.",
+              "Gewaltige, tödliche Stürme, die ganze Städte hinwegfegen, mitsamt ihren guten, unschuldigen Bewohnern;",
+              "Krankheiten, bei denen bestimmte Körperzellen zufällig entarten und sich gegen den gesamten Organismus wenden ...",
+              "Kein liebender Gott würde seine Kinder so quälen."
+            ],
+            "es": [
+              "Es cierto... podemos seguir las relaciones de causa y efecto",
+              "en sistemas sencillos, y valernos de su regularidad para predecir resultados.",
+              "Esto funciona hasta cierto punto. Más allá, el ingeniero pierde el control.",
+              "Los resultados se vuelven sumamente impredecibles. El destino de cada ser humano depende en gran medida del azar.",
+              "Tormentas inmensas y mortíferas que arrasan pueblos enteros de gente buena e inocente;",
+              "enfermedades en las que ciertas células del cuerpo se corrompen al azar y atacan al organismo entero...",
+              "Ningún dios bondadoso torturaría así a sus hijos."
+            ],
+            "fr": [
+              "C'est vrai... nous pouvons suivre les liens de cause à effet",
+              "dans des systèmes simples, et nous servir de leur régularité pour en prédire les résultats.",
+              "Cela fonctionne jusqu'à un certain point. Au-delà, l'ingénieur perd toute prise.",
+              "Les résultats deviennent tout à fait imprévisibles. Le destin de chaque être humain est largement façonné par le hasard.",
+              "D'immenses tempêtes meurtrières balaient des villes entières peuplées de gens bons et innocents ;",
+              "des maladies font que certaines cellules du corps se dérèglent au hasard et se retournent contre l'organisme...",
+              "Aucun dieu aimant ne torturerait ainsi ses enfants."
+            ],
+            "it": [
+              "È vero... possiamo seguire i nessi di causa ed effetto",
+              "nei sistemi semplici e sfruttare la regolarità di quei sistemi per prevedere i risultati.",
+              "Questo funziona fino a un certo punto. Oltre quel punto, l'ingegnere perde ogni presa.",
+              "I risultati diventano del tutto imprevedibili. Il destino dei singoli esseri umani è plasmato in gran parte dal caso.",
+              "Tempeste immense e letali, che spazzano via intere città di persone buone e innocenti;",
+              "malattie in cui alcune cellule del corpo si alterano per caso e aggrediscono l'intero organismo...",
+              "Nessun Dio amorevole torturerebbe così i suoi figli."
+            ],
+            "ja": [
+              "こんな無秩序で争いだらけの世界なのに… やっぱり意味がわからない。",
+              "そりゃあ、無数のランダムなものの中から 秩序を見つけて利用していますよ。",
+              "でも、それは運がいいからであって… 支配力を持っているのは、 「ランダムネス」の方ですから。",
+              "何が起こるか、極めて予測しづらくなります。 一人ひとりの運命も、 その大部分が偶然に左右されるのです。",
+              "善良で罪のない人々が暮らす町を、 丸ごと押し流し、命を奪う猛烈な嵐。",
+              "たぶん。今の私には、 あなたが言っていることを ぼんやり想像することしかできません。",
+              "さあ…"
+            ],
+            "ko": [
+              "그건 사실입니다... 인과관계를 따라갈 수는 있죠.",
+              "단순한 체계 안에서 그 체계의 규칙성을 이용해 결과를 예측할 수도 있어요.",
+              "어느 정도까지는 통하죠. 하지만 그 선을 넘으면 기술자도 손쓸 수 없습니다.",
+              "결과를 도무지 예측할 수 없게 되니까요. 인간 한 사람 한 사람의 운명은 대부분 우연에 따라 결정됩니다.",
+              "선량하고 무고한 이들이 사는 마을을 통째로 휩쓰는 거대하고 치명적인 폭풍.",
+              "몸속의 일부 세포가 우연히 변질되어, 온몸을 공격하는 질병...",
+              "사랑이 있는 신이라면 제 자식들을 이렇게 괴롭히지는 않겠죠."
+            ],
             "pt-br": [
               "É verdade... podemos acompanhar relações de causa e efeito",
               "em sistemas simples, e usar a regularidade desses sistemas para prever resultados.",
@@ -89,18 +242,45 @@
               "Tempestades imensas e mortais, que varrem cidades inteiras de pessoas boas e inocentes;",
               "doenças em que certas células do corpo se corrompem ao acaso, e se voltam contra o organismo...",
               "Nenhum Deus amoroso torturaria seus filhos dessa forma."
+            ],
+            "ru": [
+              "Это правда... мы можем проследить причинно-следственные связи",
+              "в простых системах и использовать их закономерности, чтобы предсказывать результаты.",
+              "Это работает до определённого предела. За ним инженер теряет почву под ногами.",
+              "Результаты становятся совершенно непредсказуемыми. Судьбы отдельных людей во многом зависят от случайности.",
+              "Чудовищные смертоносные бури сметают целые города, полные добрых и невинных людей;",
+              "болезни, при которых отдельные клетки тела случайно портятся и обращаются против организма...",
+              "Любящий Бог не стал бы так мучить своих детей."
+            ],
+            "s-cn": [
+              "确实……我们能够追溯简单系统中的因果关系，",
+              "并借助这些系统的规律预测结果。",
+              "不过，这套办法也有极限。 超出这个范围，工程师就无从下手了。",
+              "结果变得极难预测。 每个人的命运，在很大程度上都受随机性左右。",
+              "规模惊人、足以夺命的风暴， 把整座整座城镇连同善良无辜的人们一起卷走；",
+              "种种疾病让身体里某些细胞无端败坏，反过来攻击整个身体……",
+              "仁慈的神灵绝不会这样折磨自己的儿女。"
+            ],
+            "t-cn": [
+              "確實……我們能夠追溯簡單系統中的因果關係，",
+              "並藉助這些系統的規律預測結果。",
+              "不過，這套辦法也有極限。 超出這個範圍，工程師就無從下手了。",
+              "結果變得極難預測。 每個人的命運，在很大程度上都受隨機性左右。",
+              "規模驚人、足以奪命的風暴， 把整座整座城鎮連同善良無辜的人們一起捲走；",
+              "種種疾病讓身體裡某些細胞無端敗壞， 反過來攻擊整個身體……",
+              "仁慈的神靈絕不會這樣折磨自己的兒女。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_chaos_1_3__sokoban.wav",
             "subtitleCueLines": [
-              12730,
-              12734,
-              12739,
-              12743,
-              12748,
+              12740,
+              12744,
+              12749,
               12753,
-              12757
+              12758,
+              12763,
+              12767
             ],
             "explicitAudioReference": null
           }
@@ -118,20 +298,74 @@
               "and then you call this \"randomness\", meaning things that are arbitrary and have no meaning.",
               "I would say these are improper words..."
             ],
+            "de": [
+              "Du hast zuerst von „Chaos“ gesprochen – vielleicht im Sinne von Ursache und Wirkung,",
+              "die in zu vielen Schritten und zu schnell ablaufen, dass unsere menschlichen Gehirne nicht folgen können …",
+              "und dann nennst du es „Zufall“. Sprich, Dinge, die willkürlich sind und keinerlei Bedeutung haben.",
+              "Ich würde sagen, das sind unpassende Begriffe ..."
+            ],
+            "es": [
+              "Empezaste hablando del «caos»... quizá te referías a la relación causa-efecto",
+              "que avanza mediante demasiados pasos, demasiado rápido para que nuestros cerebros humanos puedan seguirlo...",
+              "y luego llamas a eso «aleatoriedad», en referencia a cosas arbitrarias y sin significado.",
+              "Yo diría que son palabras inadecuadas..."
+            ],
+            "fr": [
+              "Vous avez commencé par dire « chaos » – peut-être en parlant des relations de cause à effet",
+              "qui passent par trop d'étapes, trop vite pour que nos cerveaux humains puissent suivre –",
+              "puis vous appelez cela « hasard », en voulant dire des choses arbitraires et dépourvues de sens.",
+              "Je dirais que ces termes sont mal choisis..."
+            ],
+            "it": [
+              "Hai iniziato parlando di \"caos\"... forse intendendo causa ed effetto",
+              "che procede attraverso troppi passaggi, troppo in fretta perché i nostri cervelli umani possano seguirli,",
+              "e poi chiami questo \"casualità\", intendendo cose arbitrarie e prive di significato.",
+              "Direi che queste sono parole improprie..."
+            ],
+            "ja": [
+              "君は最初に「カオス」と言った。おそらく、 因果関係があまりにも多くの段階を経て",
+              "あまりにも速く進むから、 人間の脳では次に何が起きるか 予測できない、という意味だろう。",
+              "そのあとで、それを「ランダムネス」… つまり恣意的で意味のないものと呼んだ。",
+              "自分からすれば、 それは不適切な言葉だと思う。"
+            ],
+            "ko": [
+              "당신은 처음에 \"혼돈\"이라고 했지. 어쩌면 인과관계가",
+              "너무 많은 단계를 너무 빠르게 거치는 바람에 인간의 두뇌가 따라가기 어려운 걸 뜻했겠지.",
+              "그러고는 그걸 \"무작위성\"이라 불렀어. 임의적이고 의미가 없는 것들을 뜻하면서.",
+              "난 적절한 표현이 아니라고 생각해..."
+            ],
             "pt-br": [
               "Você começou dizendo “caos”... talvez querendo dizer causa e efeito",
               "que avança por etapas demais, rápido demais para nossos cérebros humanos acompanharem,",
               "e então você chama isso de “aleatoriedade”, querendo dizer coisas arbitrárias e sem significado.",
               "Eu diria que essas são palavras inadequadas..."
+            ],
+            "ru": [
+              "Сначала ты сказал «хаос» — возможно, имея в виду причинно-следственные связи,",
+              "которые проходят слишком много шагов, слишком быстро для нашего человеческого мозга, чтобы за ними уследить —",
+              "а потом называешь это «случайностью», то есть вещами произвольными и не имеющими смысла.",
+              "Я бы сказал, что это неверные слова..."
+            ],
+            "s-cn": [
+              "你开头说的是“混沌”——也许指的是一条因果链，",
+              "其中步骤太多、发展太快，快得让我们这些人类大脑跟不上——",
+              "于是你又把这些无法预测的变化称为“随机”， 仿佛它们任意发生、毫无意义。",
+              "我认为你这几个词用得不妥……"
+            ],
+            "t-cn": [
+              "你開頭說的是「混沌」—— 也許指的是一條因果鏈，",
+              "其中步驟太多、發展太快， 快得讓我們這些人類大腦跟不上——",
+              "於是你又把這些無法預測的變化稱為「隨機」， 仿佛它們任意發生、毫無意義。",
+              "我認為你這幾個詞用得不妥……"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_chaos_1_4__director.wav",
             "subtitleCueLines": [
-              12760,
-              12764,
-              12769,
-              12774
+              12770,
+              12774,
+              12779,
+              12784
             ],
             "explicitAudioReference": null
           }
@@ -161,9 +395,123 @@
           "and then you call this \"randomness\", meaning things that are arbitrary and have no meaning.",
           "I would say these are improper words..."
         ],
+        "de": [
+          "... aber trotzdem verstehe ich einfach nicht, wie du an einen gütigen Gott glauben kannst.",
+          "Dein Amtierender Direktor hat gesagt, das sei eine Überlebenstaktik, und das kann ich durchaus nachvollziehen. Aber du scheinst wirklich daran zu glauben.",
+          "Unbestreitbar sind die Geschehnisse in der Welt zu tragisch, als dass sie das Werk eines Gottes sein könnten, dem unser Wohlergehen am Herzen liegt;",
+          "dir muss doch klar sein, dass das Chaos bestimmt, was uns widerfährt.",
+          "Du bist Ingenieur; du versuchst, die Ordnung der Welt zu verstehen,",
+          "um sie dir zunutze zu machen und komplizierte Dinge zu bauen; ist es nicht so?",
+          "Das ist wahr ... wir können Kausalzusammenhänge verfolgen,",
+          "solange die Systeme einfach sind, und ihre Regelmäßigkeit nutzen, um Ergebnisse vorherzusagen.",
+          "Das funktioniert bis zu einem gewissen Punkt. Jenseits davon greifen die Methoden des Ingenieurs nicht mehr.",
+          "Ergebnisse werden völlig unvorhersehbar. Was dem einzelnen Menschen widerfährt, hängt größtenteils vom Zufall ab.",
+          "Gewaltige, tödliche Stürme, die ganze Städte hinwegfegen, mitsamt ihren guten, unschuldigen Bewohnern;",
+          "Krankheiten, bei denen bestimmte Körperzellen zufällig entarten und sich gegen den gesamten Organismus wenden ...",
+          "Kein liebender Gott würde seine Kinder so quälen.",
+          "Du hast zuerst von „Chaos“ gesprochen – vielleicht im Sinne von Ursache und Wirkung,",
+          "die in zu vielen Schritten und zu schnell ablaufen, dass unsere menschlichen Gehirne nicht folgen können …",
+          "und dann nennst du es „Zufall“. Sprich, Dinge, die willkürlich sind und keinerlei Bedeutung haben.",
+          "Ich würde sagen, das sind unpassende Begriffe ..."
+        ],
+        "es": [
+          "... pero, aun así, simplemente no entiendo cómo puedes creer en un Dios benévolo...",
+          "Tu directora en funciones dijo que es una táctica de supervivencia, y lo entiendo en buena medida. Pero parece que de verdad lo crees.",
+          "Es evidente que lo que ocurre en el mundo es demasiado trágico para ser obra de un dios que vele por nuestro bienestar;",
+          "seguro que ves con claridad que el caos determina lo que nos sucede.",
+          "Eres ingeniero; intentas comprender el orden del mundo",
+          "para poder aprovecharlo y construir cosas complejas; ¿no es así?",
+          "Es cierto... podemos seguir las relaciones de causa y efecto",
+          "en sistemas sencillos, y valernos de su regularidad para predecir resultados.",
+          "Esto funciona hasta cierto punto. Más allá, el ingeniero pierde el control.",
+          "Los resultados se vuelven sumamente impredecibles. El destino de cada ser humano depende en gran medida del azar.",
+          "Tormentas inmensas y mortíferas que arrasan pueblos enteros de gente buena e inocente;",
+          "enfermedades en las que ciertas células del cuerpo se corrompen al azar y atacan al organismo entero...",
+          "Ningún dios bondadoso torturaría así a sus hijos.",
+          "Empezaste hablando del «caos»... quizá te referías a la relación causa-efecto",
+          "que avanza mediante demasiados pasos, demasiado rápido para que nuestros cerebros humanos puedan seguirlo...",
+          "y luego llamas a eso «aleatoriedad», en referencia a cosas arbitrarias y sin significado.",
+          "Yo diría que son palabras inadecuadas..."
+        ],
+        "fr": [
+          "... mais malgré tout, je ne comprends tout simplement pas comment vous pouvez croire en un Dieu...",
+          "Votre remplaçante a dit que c'est une tactique de survie, ce que je peux comprendre. Mais on dirait que vous y croyez vraiment.",
+          "C'est un fait, les événements de ce monde sont trop tragiques pour être l'œuvre d'un dieu soucieux de notre bien-être ;",
+          "vous devez bien voir que ce qui nous arrive est façonné par le chaos.",
+          "Vous êtes ingénieur ; vous cherchez à comprendre l'ordre du monde",
+          "pour pouvoir l'exploiter et construire des choses complexes ; n'est-ce pas ?",
+          "C'est vrai... nous pouvons suivre les liens de cause à effet",
+          "dans des systèmes simples, et nous servir de leur régularité pour en prédire les résultats.",
+          "Cela fonctionne jusqu'à un certain point. Au-delà, l'ingénieur perd toute prise.",
+          "Les résultats deviennent tout à fait imprévisibles. Le destin de chaque être humain est largement façonné par le hasard.",
+          "D'immenses tempêtes meurtrières balaient des villes entières peuplées de gens bons et innocents ;",
+          "des maladies font que certaines cellules du corps se dérèglent au hasard et se retournent contre l'organisme...",
+          "Aucun dieu aimant ne torturerait ainsi ses enfants.",
+          "Vous avez commencé par dire « chaos » – peut-être en parlant des relations de cause à effet",
+          "qui passent par trop d'étapes, trop vite pour que nos cerveaux humains puissent suivre –",
+          "puis vous appelez cela « hasard », en voulant dire des choses arbitraires et dépourvues de sens.",
+          "Je dirais que ces termes sont mal choisis..."
+        ],
+        "it": [
+          "... ma anche così, proprio non capisco come possiate credere in un Dio benevolo...",
+          "La tua Direttrice ad interim ha detto che è una tattica di sopravvivenza e lo capisco abbastanza bene. Ma sembra che ci crediate davvero.",
+          "È evidente che gli eventi del mondo sono troppo tragici per essere opera di un Dio che ha a cuore il nostro benessere.",
+          "Di certo ti sarà chiaro che ciò che ci accade è plasmato dal caos.",
+          "Sei un ingegnere: cerchi di capire l'ordine del mondo",
+          "per poterlo sfruttare e costruire cose complicate. Non è così?",
+          "È vero... possiamo seguire i nessi di causa ed effetto",
+          "nei sistemi semplici e sfruttare la regolarità di quei sistemi per prevedere i risultati.",
+          "Questo funziona fino a un certo punto. Oltre quel punto, l'ingegnere perde ogni presa.",
+          "I risultati diventano del tutto imprevedibili. Il destino dei singoli esseri umani è plasmato in gran parte dal caso.",
+          "Tempeste immense e letali, che spazzano via intere città di persone buone e innocenti;",
+          "malattie in cui alcune cellule del corpo si alterano per caso e aggrediscono l'intero organismo...",
+          "Nessun Dio amorevole torturerebbe così i suoi figli.",
+          "Hai iniziato parlando di \"caos\"... forse intendendo causa ed effetto",
+          "che procede attraverso troppi passaggi, troppo in fretta perché i nostri cervelli umani possano seguirli,",
+          "e poi chiami questo \"casualità\", intendendo cose arbitrarie e prive di significato.",
+          "Direi che queste sono parole improprie..."
+        ],
+        "ja": [
+          "まったく理解できませんね。 あなたはどうして神なんか信じられるんです？",
+          "その「演技」は生存戦略だと言っていた。 たしかにその通りかもしれませんが…",
+          "この世界で起こることは、あまりに悲惨です。 私たちの幸福を願う神が作り出したとは思えない。 それは、明らかな事実です。",
+          "あちこちが混沌としている中で、 そこまでの知識量を持っていながら、 そんなものを信じられるなんて。",
+          "ほら、その顔。君たちの世界では、 まだ情報処理の技術が そこまで進んでいないんだな？",
+          "だが、君は技術者だろう。 複雑なものを構築するために、 秩序を利用しているじゃないか。",
+          "こんな無秩序で争いだらけの世界なのに… やっぱり意味がわからない。",
+          "そりゃあ、無数のランダムなものの中から 秩序を見つけて利用していますよ。",
+          "でも、それは運がいいからであって… 支配力を持っているのは、 「ランダムネス」の方ですから。",
+          "何が起こるか、極めて予測しづらくなります。 一人ひとりの運命も、 その大部分が偶然に左右されるのです。",
+          "善良で罪のない人々が暮らす町を、 丸ごと押し流し、命を奪う猛烈な嵐。",
+          "たぶん。今の私には、 あなたが言っていることを ぼんやり想像することしかできません。",
+          "さあ…",
+          "君は最初に「カオス」と言った。おそらく、 因果関係があまりにも多くの段階を経て",
+          "あまりにも速く進むから、 人間の脳では次に何が起きるか 予測できない、という意味だろう。",
+          "そのあとで、それを「ランダムネス」… つまり恣意的で意味のないものと呼んだ。",
+          "自分からすれば、 それは不適切な言葉だと思う。"
+        ],
+        "ko": [
+          "... 하지만 그렇다 해도, 어떻게 자비로운 신을 믿을 수 있는지 전 이해가 안 됩니다...",
+          "당신의 대리가 그건 생존 전략이라고 말했죠. 그런 거라면 어느 정도 이해할 수 있지만, 당신은 진심으로 믿는 것 같아요.",
+          "세상에서 벌어지는 일들은 우리의 안녕을 바라는 신이 만들었다기엔 너무도 비극적이야.",
+          "우리에게 닥치는 일은 혼돈이 빚어 낸다는 게 너에게도 분명히 보일 텐데.",
+          "넌 기술자잖아. 세상의 질서를 이해하려고 애쓰는 건",
+          "그걸 활용해서 복잡한 걸 만들기 위해서지. 안 그래?",
+          "그건 사실입니다... 인과관계를 따라갈 수는 있죠.",
+          "단순한 체계 안에서 그 체계의 규칙성을 이용해 결과를 예측할 수도 있어요.",
+          "어느 정도까지는 통하죠. 하지만 그 선을 넘으면 기술자도 손쓸 수 없습니다.",
+          "결과를 도무지 예측할 수 없게 되니까요. 인간 한 사람 한 사람의 운명은 대부분 우연에 따라 결정됩니다.",
+          "선량하고 무고한 이들이 사는 마을을 통째로 휩쓰는 거대하고 치명적인 폭풍.",
+          "몸속의 일부 세포가 우연히 변질되어, 온몸을 공격하는 질병...",
+          "사랑이 있는 신이라면 제 자식들을 이렇게 괴롭히지는 않겠죠.",
+          "당신은 처음에 \"혼돈\"이라고 했지. 어쩌면 인과관계가",
+          "너무 많은 단계를 너무 빠르게 거치는 바람에 인간의 두뇌가 따라가기 어려운 걸 뜻했겠지.",
+          "그러고는 그걸 \"무작위성\"이라 불렀어. 임의적이고 의미가 없는 것들을 뜻하면서.",
+          "난 적절한 표현이 아니라고 생각해..."
+        ],
         "pt-br": [
           "... mas, mesmo assim, simplesmente não entendo como você pode acreditar em um Deus benevolente...",
-          "Sua Diretora Interina disse que é uma tática de sobrevivência, e entendo isso até certo ponto. Mas parece que você acredita nisso *de verdade*.",
+          "Sua Diretora Interina disse que é uma tática de sobrevivência, e entendo isso até certo ponto. Mas parece que você acredita nisso de verdade.",
           "É um fato evidente que os acontecimentos do mundo são trágicos demais para terem sido obra de um Deus que se preocupa com nosso bem-estar;",
           "certamente está claro para você que o que nos acontece é moldado pelo caos.",
           "Você é engenheiro; tenta entender a ordem do mundo",
@@ -179,6 +527,63 @@
           "que avança por etapas demais, rápido demais para nossos cérebros humanos acompanharem,",
           "e então você chama isso de “aleatoriedade”, querendo dizer coisas arbitrárias e sem significado.",
           "Eu diria que essas são palavras inadequadas..."
+        ],
+        "ru": [
+          "... но даже так я просто не понимаю, как вы можете верить в благого Бога...",
+          "Ваша Исполняющая обязанности Директора сказала, что это тактика выживания, и я это неплохо понимаю. Но, похоже, вы по-настоящему в это верите.",
+          "Очевидно, что в мире происходит слишком много трагедий, чтобы всё это было замыслом Бога, заботящегося о нашем благе;",
+          "вам наверняка ясно, что происходящее с нами определяется хаосом.",
+          "Ты инженер; ты пытаешься понять порядок, царящий в мире,",
+          "чтобы использовать его для создания сложных вещей; разве не так?",
+          "Это правда... мы можем проследить причинно-следственные связи",
+          "в простых системах и использовать их закономерности, чтобы предсказывать результаты.",
+          "Это работает до определённого предела. За ним инженер теряет почву под ногами.",
+          "Результаты становятся совершенно непредсказуемыми. Судьбы отдельных людей во многом зависят от случайности.",
+          "Чудовищные смертоносные бури сметают целые города, полные добрых и невинных людей;",
+          "болезни, при которых отдельные клетки тела случайно портятся и обращаются против организма...",
+          "Любящий Бог не стал бы так мучить своих детей.",
+          "Сначала ты сказал «хаос» — возможно, имея в виду причинно-следственные связи,",
+          "которые проходят слишком много шагов, слишком быстро для нашего человеческого мозга, чтобы за ними уследить —",
+          "а потом называешь это «случайностью», то есть вещами произвольными и не имеющими смысла.",
+          "Я бы сказал, что это неверные слова..."
+        ],
+        "s-cn": [
+          "……可即便如此，我还是不明白你怎么会信一位仁慈的神灵——",
+          "你的代理主管说这是一种求生策略， 这个说法我多少还能理解。可看起来，你是打心底相信它。",
+          "世上的种种事件如此悲惨， 绝不可能出自一位心系我们福祉的神灵之手，这是明摆着的事实；",
+          "你总该明白，左右我们遭遇的其实是混沌。",
+          "你是工程师；你试图去理解这世界中的规律",
+          "好利用这些规律造出复杂的东西，是不是？",
+          "确实……我们能够追溯简单系统中的因果关系，",
+          "并借助这些系统的规律预测结果。",
+          "不过，这套办法也有极限。 超出这个范围，工程师就无从下手了。",
+          "结果变得极难预测。 每个人的命运，在很大程度上都受随机性左右。",
+          "规模惊人、足以夺命的风暴， 把整座整座城镇连同善良无辜的人们一起卷走；",
+          "种种疾病让身体里某些细胞无端败坏，反过来攻击整个身体……",
+          "仁慈的神灵绝不会这样折磨自己的儿女。",
+          "你开头说的是“混沌”——也许指的是一条因果链，",
+          "其中步骤太多、发展太快，快得让我们这些人类大脑跟不上——",
+          "于是你又把这些无法预测的变化称为“随机”， 仿佛它们任意发生、毫无意义。",
+          "我认为你这几个词用得不妥……"
+        ],
+        "t-cn": [
+          "……可即便如此，我還是不明白你怎麼會信一位仁慈的神靈——",
+          "你的代理主管說這是一種求生策略，這個說法我多少還能理解。 可看起來，你是打心底相信它。",
+          "世上的種種事件如此悲慘， 絕不可能出自一位心繫我們福祉的神靈之手， 這是明擺著的事實；",
+          "你總該明白，左右我們遭遇的其實是混沌。",
+          "你是工程師；你試圖去理解這世界中的規律",
+          "好利用這些規律造出複雜的東西，是不是？",
+          "確實……我們能夠追溯簡單系統中的因果關係，",
+          "並藉助這些系統的規律預測結果。",
+          "不過，這套辦法也有極限。 超出這個範圍，工程師就無從下手了。",
+          "結果變得極難預測。 每個人的命運，在很大程度上都受隨機性左右。",
+          "規模驚人、足以奪命的風暴， 把整座整座城鎮連同善良無辜的人們一起捲走；",
+          "種種疾病讓身體裡某些細胞無端敗壞， 反過來攻擊整個身體……",
+          "仁慈的神靈絕不會這樣折磨自己的兒女。",
+          "你開頭說的是「混沌」—— 也許指的是一條因果鏈，",
+          "其中步驟太多、發展太快， 快得讓我們這些人類大腦跟不上——",
+          "於是你又把這些無法預測的變化稱為「隨機」， 仿佛它們任意發生、毫無意義。",
+          "我認為你這幾個詞用得不妥……"
         ]
       },
       "silentCues": [],

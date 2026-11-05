@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "audio_trigger_115343381",
+    "audioKey": "skipping_stones_115343381",
+    "triggerKind": "movement",
+    "blocks": [
+      "skipping_stones_island_west_yes_treasures",
+      "skipping_stones_island_west_no_treasures"
+    ],
+    "scriptName": "bark_conditional",
+    "boxExtents": [
+      1.5648860931396484,
+      0.9784469604492188,
+      1.0
+    ],
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 115343381,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "skipping_stones_island_west",
+        "rule": "dialogue-namespace",
+        "coordinates": [
+          22.942190170288086,
+          55.47844696044922,
+          0.0
+        ]
+      },
+      {
+        "entityId": 115343381,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "skipping_stones_island_west",
+        "rule": "dialogue-namespace",
+        "coordinates": [
+          22.942190170288086,
+          55.47844696044922,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "skipping_stones_island_west_yes_treasures",
+      "clips": [
+        {
+          "id": "skipping_stones_island_west_yes_treasures_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.285417,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Hey! Just where are you going?"
+            ],
+            "de": [
+              "Hey! Wo willst du denn hin?"
+            ],
+            "es": [
+              "¡Eh! ¿A dónde vas?"
+            ],
+            "fr": [
+              "Hé ! Où est-ce que tu vas ?"
+            ],
+            "it": [
+              "Ehi! Dove vai?"
+            ],
+            "ja": [
+              "ちょっと、どこ行くんだい？"
+            ],
+            "ko": [
+              "이봐! 대체 어디 가는 거야?"
+            ],
+            "pt-br": [
+              "Ei! Aonde você está indo?"
+            ],
+            "ru": [
+              "Эй! Ты куда это?"
+            ],
+            "s-cn": [
+              "喂！你这是要上哪儿去？"
+            ],
+            "t-cn": [
+              "喂！你這是要上哪兒去？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_1__boat.wav",
+            "subtitleCueLines": [
+              5390
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.644604,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "This island over here looks interesting. And suspicious."
+            ],
+            "de": [
+              "Die Insel da drüben sieht interessant aus. Und verdächtig."
+            ],
+            "es": [
+              "Esta isla de ahí parece interesante. Y sospechosa."
+            ],
+            "fr": [
+              "Cette île-là a l'air intéressante. Et suspecte."
+            ],
+            "it": [
+              "Quell'isola laggiù sembra interessante. E sospetta."
+            ],
+            "ja": [
+              "あの島、なんだか面白そうだし、 なんだか怪しい。"
+            ],
+            "ko": [
+              "저기 있는 섬이 흥미로워 보여. 수상해 보이기도 하고!"
+            ],
+            "pt-br": [
+              "Essa ilha ali parece interessante. E suspeita."
+            ],
+            "ru": [
+              "Этот остров вон там выглядит интересно. И подозрительно."
+            ],
+            "s-cn": [
+              "这边这座岛看起来很有意思，也很可疑。"
+            ],
+            "t-cn": [
+              "這邊這座島看起來很有意思，也很可疑。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_2__sailor.wav",
+            "subtitleCueLines": [
+              5393
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.012,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "We. have. to. LEAVE!"
+            ],
+            "de": [
+              "Wir. müssen. hier. WEG!"
+            ],
+            "es": [
+              "Tenemos... que... ¡IRNOS!"
+            ],
+            "fr": [
+              "Il... faut... qu'on... PARTE !"
+            ],
+            "it": [
+              "Dobbiamo... andarcene... ORA!"
+            ],
+            "ja": [
+              "ここを出ないと…だろ！"
+            ],
+            "ko": [
+              "우리는... 당장... 떠나야... 해!"
+            ],
+            "pt-br": [
+              "A gente... tem... que... IR EMBORA!"
+            ],
+            "ru": [
+              "Нам... нужно... УХОДИТЬ!"
+            ],
+            "s-cn": [
+              "我们……必须……马上……离开！"
+            ],
+            "t-cn": [
+              "我們……必須……馬上……離開！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_3__boat.wav",
+            "subtitleCueLines": [
+              5398
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.917146,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "We. need. all. the TREASURES!"
+            ],
+            "de": [
+              "Wir. brauchen. alle. SCHÄTZE!"
+            ],
+            "es": [
+              "Tenemos... que... ¡CONSEGUIR TODOS... LOS TESOROS!"
+            ],
+            "fr": [
+              "Il... nous... faut... tous... les TRÉSORS !"
+            ],
+            "it": [
+              "Dobbiamo... prendere... tutti i TESORI!"
+            ],
+            "ja": [
+              "宝を全部集めないと…だろ！"
+            ],
+            "ko": [
+              "우리는... 모든... 보물을... 가져가야... 해!"
+            ],
+            "pt-br": [
+              "A gente... precisa... de... TODOS... os TESOUROS!"
+            ],
+            "ru": [
+              "Нам... нужны... ВСЕ СОКРОВИЩА!"
+            ],
+            "s-cn": [
+              "我们……必须……拿到……所有宝藏！"
+            ],
+            "t-cn": [
+              "我們……必須……拿到……所有寶藏！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_4__sailor.wav",
+            "subtitleCueLines": [
+              5402
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.570917,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Greed will kill us."
+            ],
+            "de": [
+              "Diese Gier bringt uns noch um."
+            ],
+            "es": [
+              "La codicia nos matará."
+            ],
+            "fr": [
+              "La cupidité nous tuera."
+            ],
+            "it": [
+              "L'avidità ci ucciderà."
+            ],
+            "ja": [
+              "欲張りは命取りだよ。"
+            ],
+            "ko": [
+              "탐욕은 우릴 죽일 거야."
+            ],
+            "pt-br": [
+              "A ganância vai nos matar."
+            ],
+            "ru": [
+              "Жадность нас убьет."
+            ],
+            "s-cn": [
+              "贪心会害死我们的。"
+            ],
+            "t-cn": [
+              "貪心會害死我們的。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_5__boat.wav",
+            "subtitleCueLines": [
+              5406
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 24.025,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Don't think of it as greed. Think of it as ... adventureness.",
+              "These treasures represent not just our future wealth. Not just our future *status*. (Think of the status!)",
+              "But also, they're remnants of an unknown people, a precious material record of some lost part of the world!",
+              "You don't want the precious knowledge contained within these treasures to be lost, do you?"
+            ],
+            "de": [
+              "Sieh das nicht als Gier an. Sondern eher als ... Abenteuertum.",
+              "Diese Schätze stehen nicht nur für unseren künftigen Reichtum. Nicht nur für unser künftiges Ansehen. (Denk an das Ansehen!)",
+              "Aber es sind auch Überreste eines unbekannten Volkes, kostbare Zeugnisse eines verschollenen Teils der Welt!",
+              "Du willst doch nicht, dass das kostbare Wissen, das in diesen Schätzen steckt, verloren geht, oder?"
+            ],
+            "es": [
+              "No lo entiendas como codicia. Entiéndelo como... afán aventurero.",
+              "Estos tesoros representan no solo nuestra futura riqueza. Ni solo nuestra futura posición social. (¡Piensa en la posición social!)",
+              "Sino que también son vestigios de un pueblo desconocido, un valioso testimonio material de algún rincón perdido del mundo.",
+              "No querrás que se pierda el precioso conocimiento encarnado en estos tesoros, ¿verdad?"
+            ],
+            "fr": [
+              "Ne pense pas à ça comme de la cupidité. C'est plutôt... un goût pour l'aventure.",
+              "Ces trésors ne représentent pas seulement notre fortune à venir. Ni même notre futur prestige. (Penses-y !)",
+              "Mais aussi les vestiges d'un peuple inconnu, un précieux témoignage matériel sur une région oubliée du monde !",
+              "Tu ne veux pas que les précieuses connaissances qu'incarnent ces trésors soient perdues, si ?"
+            ],
+            "it": [
+              "Non vederla come avidità. Vedila come... spirito d'avventura.",
+              "Questi tesori non rappresentano solo la nostra futura ricchezza. Né solo il nostro futuro prestigio. (Pensa al prestigio!)",
+              "Ma sono anche i resti di un popolo sconosciuto, una preziosa testimonianza materiale di una parte perduta del mondo!",
+              "Non vuoi che il prezioso sapere racchiuso in questi tesori vada perduto, vero?"
+            ],
+            "ja": [
+              "欲張りじゃないよ。 これは… 探究心さ。",
+              "このお宝は、お金になるだけじゃない。 地位だって手に入るんだよ。 どれだけ出世できるか、想像してみて！",
+              "それに、まだ知られていない人々が 残した品でもある。世界の失われた一部を 今に伝える、貴重な証拠なんだよ！",
+              "宝に隠された貴重な知識が 失われてしまったら 嫌だろ？"
+            ],
+            "ko": [
+              "탐욕이라고 생각하지 마. 모험심이라고 생각해.",
+              "이 보물들은 미래의 부만을 뜻하는 게 아니야. 미래의 지위만도 아니지. (하지만 그 지위를 생각해 봐!)",
+              "이건 알려지지 않은 이들이 남긴 흔적이자, 세상에서 사라진 무언가를 증언하는 귀중한 실물 기록이기도 하다고!",
+              "이 보물들에 담긴 소중한 지식이 사라지는 건 원치 않잖아?"
+            ],
+            "pt-br": [
+              "Não pense nisso como ganância. Pense nisso como... “aventureirismo”.",
+              "Estes tesouros não representam só nossa riqueza futura. Nem só nosso prestígio futuro. (Pense no prestígio!)",
+              "Mas também, são vestígios de um povo desconhecido, um registro material precioso de uma parte perdida do mundo!",
+              "Você não quer que o precioso conhecimento contido nesses tesouros se perca, quer?"
+            ],
+            "ru": [
+              "Не называй это жадностью. Назови это... жаждой приключений.",
+              "Эти сокровища — не просто наше будущее богатство. Не просто наш будущий статус. (Ты только подумай!)",
+              "Но это ещё и наследие неведомого народа, бесценные материальные свидетельства об утраченной части мира!",
+              "Ты же не хочешь, чтобы бесценные знания, заключенные в этих сокровищах, были утрачены, так ведь?"
+            ],
+            "s-cn": [
+              "别说这是贪心。这叫……冒险精神。",
+              "这些宝藏代表的，不只是我们将来的财富，也不只是地位。 （想想那得多风光！）",
+              "它们还是某个未知族群留下的遗物， 是这个世界一段失落历史的珍贵见证！",
+              "你总不希望这些宝物里藏着的珍贵学问就这么没了吧？"
+            ],
+            "t-cn": [
+              "別說這是貪心。這叫……冒險精神。",
+              "這些寶藏代表的，不只是我們將來的財富， 也不只是地位。（想想那得多風光！）",
+              "它們還是某個未知族群留下的遺物， 是這個世界一段失落歷史的珍貴見證！",
+              "你總不希望這些寶物裡藏著的珍貴學問就這麼沒了吧？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_6__sailor.wav",
+            "subtitleCueLines": [
+              5409,
+              5414,
+              5418,
+              5423
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_7__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.696,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_7__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I don't want the precious knowledge contained within *us* to be lost."
+            ],
+            "de": [
+              "Ich will nicht, dass das kostbare Wissen, das in uns steckt, verloren geht."
+            ],
+            "es": [
+              "No quiero que se pierda el precioso conocimiento encarnado en nosotros."
+            ],
+            "fr": [
+              "Je ne veux pas que les précieuses connaissances que nous possédons soient perdues."
+            ],
+            "it": [
+              "Non voglio che il prezioso sapere racchiuso in noi vada perduto."
+            ],
+            "ja": [
+              "僕たちの命も失いたくないよ。"
+            ],
+            "ko": [
+              "우리 안에 담긴 소중한 지식이 사라지는 건 원치 않아."
+            ],
+            "pt-br": [
+              "Não quero que o precioso conhecimento contido em nós se perca."
+            ],
+            "ru": [
+              "Я не хочу, чтобы бесценные знания, заключенные в нас, были утрачены."
+            ],
+            "s-cn": [
+              "我可不希望藏在我们体内的珍贵学问就此失传。"
+            ],
+            "t-cn": [
+              "我可不希望藏在我們體內的珍貴學問就此失傳。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_7__boat.wav",
+            "subtitleCueLines": [
+              5429
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_8__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.895,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_8__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I'll be back soon! Don't *go* anywhere."
+            ],
+            "de": [
+              "Ich bin gleich zurück! Bleib schön hier!"
+            ],
+            "es": [
+              "¡Vuelvo enseguida! No te vayas a ninguna parte."
+            ],
+            "fr": [
+              "Je reviens vite ! Ne bouge pas."
+            ],
+            "it": [
+              "Torno presto! Non andare da nessuna parte."
+            ],
+            "ja": [
+              "すぐ戻る！"
+            ],
+            "ko": [
+              "금방 돌아올게! 일단 아무 데도 가지 마."
+            ],
+            "pt-br": [
+              "Já volto! Não vá a lugar nenhum."
+            ],
+            "ru": [
+              "Я скоро вернусь! Никуда не уходи."
+            ],
+            "s-cn": [
+              "我很快回来！你可哪儿都别去。"
+            ],
+            "t-cn": [
+              "我很快回來！你可哪兒都別去。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_8__sailor.wav",
+            "subtitleCueLines": [
+              5433
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_yes_treasures_9__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.026729,
+          "src": "audio/clips/skipping_stones_island_west_yes_treasures_9__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Sigggghhhhhhh...."
+            ],
+            "de": [
+              "Seuuuuufzzzz ..."
+            ],
+            "es": [
+              "Ayyyyyyyyyy...."
+            ],
+            "fr": [
+              "Pffffffffff...."
+            ],
+            "it": [
+              "Uffffffffff..."
+            ],
+            "ja": [
+              "はああああ…"
+            ],
+            "ko": [
+              "하아아아아아..."
+            ],
+            "pt-br": [
+              "Aiiiiiiiiii..."
+            ],
+            "ru": [
+              "Эхххххххх..."
+            ],
+            "s-cn": [
+              "唉……"
+            ],
+            "t-cn": [
+              "唉……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_yes_treasures_9__boat.wav",
+            "subtitleCueLines": [
+              5437
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hey! Just where are you going?",
+          "This island over here looks interesting. And suspicious.",
+          "We. have. to. LEAVE!",
+          "We. need. all. the TREASURES!",
+          "Greed will kill us.",
+          "Don't think of it as greed. Think of it as ... adventureness.",
+          "These treasures represent not just our future wealth. Not just our future *status*. (Think of the status!)",
+          "But also, they're remnants of an unknown people, a precious material record of some lost part of the world!",
+          "You don't want the precious knowledge contained within these treasures to be lost, do you?",
+          "I don't want the precious knowledge contained within *us* to be lost.",
+          "I'll be back soon! Don't *go* anywhere.",
+          "Sigggghhhhhhh...."
+        ],
+        "de": [
+          "Hey! Wo willst du denn hin?",
+          "Die Insel da drüben sieht interessant aus. Und verdächtig.",
+          "Wir. müssen. hier. WEG!",
+          "Wir. brauchen. alle. SCHÄTZE!",
+          "Diese Gier bringt uns noch um.",
+          "Sieh das nicht als Gier an. Sondern eher als ... Abenteuertum.",
+          "Diese Schätze stehen nicht nur für unseren künftigen Reichtum. Nicht nur für unser künftiges Ansehen. (Denk an das Ansehen!)",
+          "Aber es sind auch Überreste eines unbekannten Volkes, kostbare Zeugnisse eines verschollenen Teils der Welt!",
+          "Du willst doch nicht, dass das kostbare Wissen, das in diesen Schätzen steckt, verloren geht, oder?",
+          "Ich will nicht, dass das kostbare Wissen, das in uns steckt, verloren geht.",
+          "Ich bin gleich zurück! Bleib schön hier!",
+          "Seuuuuufzzzz ..."
+        ],
+        "es": [
+          "¡Eh! ¿A dónde vas?",
+          "Esta isla de ahí parece interesante. Y sospechosa.",
+          "Tenemos... que... ¡IRNOS!",
+          "Tenemos... que... ¡CONSEGUIR TODOS... LOS TESOROS!",
+          "La codicia nos matará.",
+          "No lo entiendas como codicia. Entiéndelo como... afán aventurero.",
+          "Estos tesoros representan no solo nuestra futura riqueza. Ni solo nuestra futura posición social. (¡Piensa en la posición social!)",
+          "Sino que también son vestigios de un pueblo desconocido, un valioso testimonio material de algún rincón perdido del mundo.",
+          "No querrás que se pierda el precioso conocimiento encarnado en estos tesoros, ¿verdad?",
+          "No quiero que se pierda el precioso conocimiento encarnado en nosotros.",
+          "¡Vuelvo enseguida! No te vayas a ninguna parte.",
+          "Ayyyyyyyyyy...."
+        ],
+        "fr": [
+          "Hé ! Où est-ce que tu vas ?",
+          "Cette île-là a l'air intéressante. Et suspecte.",
+          "Il... faut... qu'on... PARTE !",
+          "Il... nous... faut... tous... les TRÉSORS !",
+          "La cupidité nous tuera.",
+          "Ne pense pas à ça comme de la cupidité. C'est plutôt... un goût pour l'aventure.",
+          "Ces trésors ne représentent pas seulement notre fortune à venir. Ni même notre futur prestige. (Penses-y !)",
+          "Mais aussi les vestiges d'un peuple inconnu, un précieux témoignage matériel sur une région oubliée du monde !",
+          "Tu ne veux pas que les précieuses connaissances qu'incarnent ces trésors soient perdues, si ?",
+          "Je ne veux pas que les précieuses connaissances que nous possédons soient perdues.",
+          "Je reviens vite ! Ne bouge pas.",
+          "Pffffffffff...."
+        ],
+        "it": [
+          "Ehi! Dove vai?",
+          "Quell'isola laggiù sembra interessante. E sospetta.",
+          "Dobbiamo... andarcene... ORA!",
+          "Dobbiamo... prendere... tutti i TESORI!",
+          "L'avidità ci ucciderà.",
+          "Non vederla come avidità. Vedila come... spirito d'avventura.",
+          "Questi tesori non rappresentano solo la nostra futura ricchezza. Né solo il nostro futuro prestigio. (Pensa al prestigio!)",
+          "Ma sono anche i resti di un popolo sconosciuto, una preziosa testimonianza materiale di una parte perduta del mondo!",
+          "Non vuoi che il prezioso sapere racchiuso in questi tesori vada perduto, vero?",
+          "Non voglio che il prezioso sapere racchiuso in noi vada perduto.",
+          "Torno presto! Non andare da nessuna parte.",
+          "Uffffffffff..."
+        ],
+        "ja": [
+          "ちょっと、どこ行くんだい？",
+          "あの島、なんだか面白そうだし、 なんだか怪しい。",
+          "ここを出ないと…だろ！",
+          "宝を全部集めないと…だろ！",
+          "欲張りは命取りだよ。",
+          "欲張りじゃないよ。 これは… 探究心さ。",
+          "このお宝は、お金になるだけじゃない。 地位だって手に入るんだよ。 どれだけ出世できるか、想像してみて！",
+          "それに、まだ知られていない人々が 残した品でもある。世界の失われた一部を 今に伝える、貴重な証拠なんだよ！",
+          "宝に隠された貴重な知識が 失われてしまったら 嫌だろ？",
+          "僕たちの命も失いたくないよ。",
+          "すぐ戻る！",
+          "はああああ…"
+        ],
+        "ko": [
+          "이봐! 대체 어디 가는 거야?",
+          "저기 있는 섬이 흥미로워 보여. 수상해 보이기도 하고!",
+          "우리는... 당장... 떠나야... 해!",
+          "우리는... 모든... 보물을... 가져가야... 해!",
+          "탐욕은 우릴 죽일 거야.",
+          "탐욕이라고 생각하지 마. 모험심이라고 생각해.",
+          "이 보물들은 미래의 부만을 뜻하는 게 아니야. 미래의 지위만도 아니지. (하지만 그 지위를 생각해 봐!)",
+          "이건 알려지지 않은 이들이 남긴 흔적이자, 세상에서 사라진 무언가를 증언하는 귀중한 실물 기록이기도 하다고!",
+          "이 보물들에 담긴 소중한 지식이 사라지는 건 원치 않잖아?",
+          "우리 안에 담긴 소중한 지식이 사라지는 건 원치 않아.",
+          "금방 돌아올게! 일단 아무 데도 가지 마.",
+          "하아아아아아..."
+        ],
+        "pt-br": [
+          "Ei! Aonde você está indo?",
+          "Essa ilha ali parece interessante. E suspeita.",
+          "A gente... tem... que... IR EMBORA!",
+          "A gente... precisa... de... TODOS... os TESOUROS!",
+          "A ganância vai nos matar.",
+          "Não pense nisso como ganância. Pense nisso como... “aventureirismo”.",
+          "Estes tesouros não representam só nossa riqueza futura. Nem só nosso prestígio futuro. (Pense no prestígio!)",
+          "Mas também, são vestígios de um povo desconhecido, um registro material precioso de uma parte perdida do mundo!",
+          "Você não quer que o precioso conhecimento contido nesses tesouros se perca, quer?",
+          "Não quero que o precioso conhecimento contido em nós se perca.",
+          "Já volto! Não vá a lugar nenhum.",
+          "Aiiiiiiiiii..."
+        ],
+        "ru": [
+          "Эй! Ты куда это?",
+          "Этот остров вон там выглядит интересно. И подозрительно.",
+          "Нам... нужно... УХОДИТЬ!",
+          "Нам... нужны... ВСЕ СОКРОВИЩА!",
+          "Жадность нас убьет.",
+          "Не называй это жадностью. Назови это... жаждой приключений.",
+          "Эти сокровища — не просто наше будущее богатство. Не просто наш будущий статус. (Ты только подумай!)",
+          "Но это ещё и наследие неведомого народа, бесценные материальные свидетельства об утраченной части мира!",
+          "Ты же не хочешь, чтобы бесценные знания, заключенные в этих сокровищах, были утрачены, так ведь?",
+          "Я не хочу, чтобы бесценные знания, заключенные в нас, были утрачены.",
+          "Я скоро вернусь! Никуда не уходи.",
+          "Эхххххххх..."
+        ],
+        "s-cn": [
+          "喂！你这是要上哪儿去？",
+          "这边这座岛看起来很有意思，也很可疑。",
+          "我们……必须……马上……离开！",
+          "我们……必须……拿到……所有宝藏！",
+          "贪心会害死我们的。",
+          "别说这是贪心。这叫……冒险精神。",
+          "这些宝藏代表的，不只是我们将来的财富，也不只是地位。 （想想那得多风光！）",
+          "它们还是某个未知族群留下的遗物， 是这个世界一段失落历史的珍贵见证！",
+          "你总不希望这些宝物里藏着的珍贵学问就这么没了吧？",
+          "我可不希望藏在我们体内的珍贵学问就此失传。",
+          "我很快回来！你可哪儿都别去。",
+          "唉……"
+        ],
+        "t-cn": [
+          "喂！你這是要上哪兒去？",
+          "這邊這座島看起來很有意思，也很可疑。",
+          "我們……必須……馬上……離開！",
+          "我們……必須……拿到……所有寶藏！",
+          "貪心會害死我們的。",
+          "別說這是貪心。這叫……冒險精神。",
+          "這些寶藏代表的，不只是我們將來的財富， 也不只是地位。（想想那得多風光！）",
+          "它們還是某個未知族群留下的遺物， 是這個世界一段失落歷史的珍貴見證！",
+          "你總不希望這些寶物裡藏著的珍貴學問就這麼沒了吧？",
+          "我可不希望藏在我們體內的珍貴學問就此失傳。",
+          "我很快回來！你可哪兒都別去。",
+          "唉……"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    },
+    {
+      "id": "skipping_stones_island_west_no_treasures",
+      "clips": [
+        {
+          "id": "skipping_stones_island_west_no_treasures_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.4125,
+          "src": "audio/clips/skipping_stones_island_west_no_treasures_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Hey! Just where are you going?"
+            ],
+            "de": [
+              "Hey! Wo willst du denn hin?"
+            ],
+            "es": [
+              "¡Eh! ¿A dónde vas?"
+            ],
+            "fr": [
+              "Hé ! Où est-ce que tu vas ?"
+            ],
+            "it": [
+              "Ehi! Dove vai?"
+            ],
+            "ja": [
+              "ちょっと、どこ行くんだい？"
+            ],
+            "ko": [
+              "이봐! 대체 어디 가는 거야?"
+            ],
+            "pt-br": [
+              "Ei! Aonde você está indo?"
+            ],
+            "ru": [
+              "Эй! Ты куда это?"
+            ],
+            "s-cn": [
+              "喂！你这是要上哪儿去？"
+            ],
+            "t-cn": [
+              "喂！你這是要上哪兒去？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_no_treasures_1__boat.wav",
+            "subtitleCueLines": [
+              5445
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_no_treasures_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.070042,
+          "src": "audio/clips/skipping_stones_island_west_no_treasures_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "This island over here looks interesting. I don't know."
+            ],
+            "de": [
+              "Die Insel da drüben sieht interessant aus. Ich bin mir nicht sicher."
+            ],
+            "es": [
+              "Esta isla de ahí parece interesante. No sé."
+            ],
+            "fr": [
+              "Cette île-là a l'air intéressante. Je ne sais pas."
+            ],
+            "it": [
+              "Quell'isola laggiù sembra interessante. Non so."
+            ],
+            "ja": [
+              "この島がどういうわけか 気になってさ。"
+            ],
+            "ko": [
+              "저기 있는 섬이 흥미로워 보이는데. 잘 모르겠네."
+            ],
+            "pt-br": [
+              "Essa ilha ali parece interessante. Não sei."
+            ],
+            "ru": [
+              "Этот остров вон там выглядит интересно. Не знаю."
+            ],
+            "s-cn": [
+              "这边这座岛看着挺有意思。我也说不上来。"
+            ],
+            "t-cn": [
+              "這邊這座島看著挺有意思。我也說不上來。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_no_treasures_2__sailor.wav",
+            "subtitleCueLines": [
+              5448
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_no_treasures_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.775417,
+          "src": "audio/clips/skipping_stones_island_west_no_treasures_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "We. have. to. LEAVE!"
+            ],
+            "de": [
+              "Wir. müssen. hier. WEG!"
+            ],
+            "es": [
+              "Tenemos... que... ¡IRNOS!"
+            ],
+            "fr": [
+              "Il... faut... qu'on... PARTE !"
+            ],
+            "it": [
+              "Dobbiamo... andarcene... ORA!"
+            ],
+            "ja": [
+              "ここを出ないと…だろ！"
+            ],
+            "ko": [
+              "우리는... 당장... 떠나야... 해!"
+            ],
+            "pt-br": [
+              "A gente... tem... que... IR EMBORA!"
+            ],
+            "ru": [
+              "Нам... нужно... УХОДИТЬ!"
+            ],
+            "s-cn": [
+              "我们……必须……马上……离开！"
+            ],
+            "t-cn": [
+              "我們……必須……馬上……離開！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_no_treasures_3__boat.wav",
+            "subtitleCueLines": [
+              5452
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_no_treasures_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.379,
+          "src": "audio/clips/skipping_stones_island_west_no_treasures_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I want to see what's over this way. If we leave now, we'll never know."
+            ],
+            "de": [
+              "Ich will sehen, was es in dieser Richtung gibt. Wenn wir jetzt ablegen, erfahren wir es nie."
+            ],
+            "es": [
+              "Quiero ver qué hay por aquí. Si nos vamos ahora, nunca lo sabremos."
+            ],
+            "fr": [
+              "Je veux voir ce qu'il y a par là. Si on part maintenant, on ne le saura jamais."
+            ],
+            "it": [
+              "Voglio vedere cosa c'è da questa parte. Se ce ne andiamo ora, non lo sapremo mai."
+            ],
+            "ja": [
+              "でも冒険したいんだよ！"
+            ],
+            "ko": [
+              "이쪽 너머에 뭐가 있는지 보고 싶어. 지금 떠나면, 영영 모를 거잖아."
+            ],
+            "pt-br": [
+              "Quero ver o que tem por ali. Se formos embora agora, nunca saberemos."
+            ],
+            "ru": [
+              "Хочу посмотреть, что там. Если уйдём сейчас, так и не узнаем."
+            ],
+            "s-cn": [
+              "我想看看这边过去有什么。要是现在就走，我们就永远不会知道了。"
+            ],
+            "t-cn": [
+              "我想看看這邊過去有什麼。 要是現在就走，我們就永遠不會知道了。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_no_treasures_4__sailor.wav",
+            "subtitleCueLines": [
+              5455
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_no_treasures_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.193375,
+          "src": "audio/clips/skipping_stones_island_west_no_treasures_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You have terrible priorities."
+            ],
+            "de": [
+              "Du setzt völlig falsche Prioritäten."
+            ],
+            "es": [
+              "Tienes unas prioridades terribles."
+            ],
+            "fr": [
+              "Tu as des priorités désastreuses."
+            ],
+            "it": [
+              "Hai delle priorità pessime."
+            ],
+            "ja": [
+              "どういう思考回路だ…"
+            ],
+            "ko": [
+              "너 우선순위가 최악이구나."
+            ],
+            "pt-br": [
+              "Você tem prioridades péssimas."
+            ],
+            "ru": [
+              "У тебя ужасные приоритеты."
+            ],
+            "s-cn": [
+              "你真是分不清轻重缓急。"
+            ],
+            "t-cn": [
+              "你真是分不清輕重緩急。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_no_treasures_5__boat.wav",
+            "subtitleCueLines": [
+              5459
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_island_west_no_treasures_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.138979,
+          "src": "audio/clips/skipping_stones_island_west_no_treasures_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "My terrible priorities are the very reason the Guild employs me!"
+            ],
+            "de": [
+              "Meine völlig falschen Prioritäten sind doch genau der Grund, warum die Gilde mich überhaupt angeheuert hat!"
+            ],
+            "es": [
+              "Mis prioridades terribles son la razón de que el Gremio me contratara, para empezar."
+            ],
+            "fr": [
+              "Ce sont mes priorités désastreuses qui font justement que la Guilde m'emploie !"
+            ],
+            "it": [
+              "Le mie priorità pessime sono proprio il motivo per cui la gilda mi ha assunto!"
+            ],
+            "ja": [
+              "この思考回路のおかげで ギルドに雇ってもらったんだろ！"
+            ],
+            "ko": [
+              "내 엉망인 우선순위 때문에 길드가 날 고용한 거지!"
+            ],
+            "pt-br": [
+              "Minhas prioridades péssimas são o motivo de a Guilda ter me contratado!"
+            ],
+            "ru": [
+              "Мои ужасные приоритеты и есть причина, по которой Гильдия вообще наняла меня!"
+            ],
+            "s-cn": [
+              "公会肯雇我，靠的正是我这股不分轻重、只管冒险的劲！"
+            ],
+            "t-cn": [
+              "公會肯僱我，靠的正是我這股不分輕重、只管冒險的勁！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_island_west_no_treasures_6__sailor.wav",
+            "subtitleCueLines": [
+              5462
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hey! Just where are you going?",
+          "This island over here looks interesting. I don't know.",
+          "We. have. to. LEAVE!",
+          "I want to see what's over this way. If we leave now, we'll never know.",
+          "You have terrible priorities.",
+          "My terrible priorities are the very reason the Guild employs me!"
+        ],
+        "de": [
+          "Hey! Wo willst du denn hin?",
+          "Die Insel da drüben sieht interessant aus. Ich bin mir nicht sicher.",
+          "Wir. müssen. hier. WEG!",
+          "Ich will sehen, was es in dieser Richtung gibt. Wenn wir jetzt ablegen, erfahren wir es nie.",
+          "Du setzt völlig falsche Prioritäten.",
+          "Meine völlig falschen Prioritäten sind doch genau der Grund, warum die Gilde mich überhaupt angeheuert hat!"
+        ],
+        "es": [
+          "¡Eh! ¿A dónde vas?",
+          "Esta isla de ahí parece interesante. No sé.",
+          "Tenemos... que... ¡IRNOS!",
+          "Quiero ver qué hay por aquí. Si nos vamos ahora, nunca lo sabremos.",
+          "Tienes unas prioridades terribles.",
+          "Mis prioridades terribles son la razón de que el Gremio me contratara, para empezar."
+        ],
+        "fr": [
+          "Hé ! Où est-ce que tu vas ?",
+          "Cette île-là a l'air intéressante. Je ne sais pas.",
+          "Il... faut... qu'on... PARTE !",
+          "Je veux voir ce qu'il y a par là. Si on part maintenant, on ne le saura jamais.",
+          "Tu as des priorités désastreuses.",
+          "Ce sont mes priorités désastreuses qui font justement que la Guilde m'emploie !"
+        ],
+        "it": [
+          "Ehi! Dove vai?",
+          "Quell'isola laggiù sembra interessante. Non so.",
+          "Dobbiamo... andarcene... ORA!",
+          "Voglio vedere cosa c'è da questa parte. Se ce ne andiamo ora, non lo sapremo mai.",
+          "Hai delle priorità pessime.",
+          "Le mie priorità pessime sono proprio il motivo per cui la gilda mi ha assunto!"
+        ],
+        "ja": [
+          "ちょっと、どこ行くんだい？",
+          "この島がどういうわけか 気になってさ。",
+          "ここを出ないと…だろ！",
+          "でも冒険したいんだよ！",
+          "どういう思考回路だ…",
+          "この思考回路のおかげで ギルドに雇ってもらったんだろ！"
+        ],
+        "ko": [
+          "이봐! 대체 어디 가는 거야?",
+          "저기 있는 섬이 흥미로워 보이는데. 잘 모르겠네.",
+          "우리는... 당장... 떠나야... 해!",
+          "이쪽 너머에 뭐가 있는지 보고 싶어. 지금 떠나면, 영영 모를 거잖아.",
+          "너 우선순위가 최악이구나.",
+          "내 엉망인 우선순위 때문에 길드가 날 고용한 거지!"
+        ],
+        "pt-br": [
+          "Ei! Aonde você está indo?",
+          "Essa ilha ali parece interessante. Não sei.",
+          "A gente... tem... que... IR EMBORA!",
+          "Quero ver o que tem por ali. Se formos embora agora, nunca saberemos.",
+          "Você tem prioridades péssimas.",
+          "Minhas prioridades péssimas são o motivo de a Guilda ter me contratado!"
+        ],
+        "ru": [
+          "Эй! Ты куда это?",
+          "Этот остров вон там выглядит интересно. Не знаю.",
+          "Нам... нужно... УХОДИТЬ!",
+          "Хочу посмотреть, что там. Если уйдём сейчас, так и не узнаем.",
+          "У тебя ужасные приоритеты.",
+          "Мои ужасные приоритеты и есть причина, по которой Гильдия вообще наняла меня!"
+        ],
+        "s-cn": [
+          "喂！你这是要上哪儿去？",
+          "这边这座岛看着挺有意思。我也说不上来。",
+          "我们……必须……马上……离开！",
+          "我想看看这边过去有什么。要是现在就走，我们就永远不会知道了。",
+          "你真是分不清轻重缓急。",
+          "公会肯雇我，靠的正是我这股不分轻重、只管冒险的劲！"
+        ],
+        "t-cn": [
+          "喂！你這是要上哪兒去？",
+          "這邊這座島看著挺有意思。我也說不上來。",
+          "我們……必須……馬上……離開！",
+          "我想看看這邊過去有什麼。 要是現在就走，我們就永遠不會知道了。",
+          "你真是分不清輕重緩急。",
+          "公會肯僱我，靠的正是我這股不分輕重、只管冒險的勁！"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

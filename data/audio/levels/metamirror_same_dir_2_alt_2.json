@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,16 +33,52 @@
               "We have many sequences, not just that first trial which is known to the public.",
               "Initiates usually go through this one around age 16, to validate that they deserve promotion to Apprentice Mirrorwright."
             ],
+            "de": [
+              "Wir haben viele Sequenzen, nicht nur jene erste Prüfung, die allgemein bekannt ist.",
+              "Novizen durchlaufen diese Sequenz meist mit etwa 16 Jahren, um zu zeigen, dass sie würdig sind, zum Spiegelwirker-Lehrling aufzusteigen."
+            ],
+            "es": [
+              "Tenemos muchas secuencias, no solo esa primera prueba que conoce todo el mundo.",
+              "Los iniciados suelen pasar por esta experiencia alrededor de los 16 años para ascender a aprendiz de espejista."
+            ],
+            "fr": [
+              "Nous avons de nombreuses séquences, pas seulement cette première épreuve connue du public.",
+              "Les initiés passent généralement par là vers 16 ans pour prouver qu'ils méritent d'être promus au rang d'apprenti forgemiroir."
+            ],
+            "it": [
+              "Abbiamo molte sequenze, non solo quella prima prova nota al pubblico.",
+              "Gli iniziati di solito seguono questa intorno ai 16 anni per dimostrare di meritare la promozione a Maestro degli specchi apprendista."
+            ],
+            "ja": [
+              "一連の課題にも、いろいろあるんだ。 世間に知られている、あの最初の試験だけじゃない。",
+              "入門者はたいてい、16歳頃にこれに挑む。 見習い鏡職人に昇格する資格があるか、 確かめるためにね。"
+            ],
+            "ko": [
+              "우리에겐 대중에게 알려진 첫 시련 말고도 여러 단계의 시련이 있어.",
+              "보통 입문자들은 16세쯤에 이 과정을 거쳐서 견습 거울공예인으로 승급하지."
+            ],
             "pt-br": [
               "Temos muitas sequências, não só aquele primeiro teste que o público conhece.",
               "Os iniciados costumam passar por isso por volta dos 16 anos para provar que merecem promoção a Espelhista Aprendiz."
+            ],
+            "ru": [
+              "У нас много серий испытаний, а не только то первое, о котором знают все.",
+              "Посвящённые обычно проходят его лет в 16, чтобы подтвердить, что заслуживают повышения до ученика зеркальщика."
+            ],
+            "s-cn": [
+              "我们有很多组试炼，不只有世人皆知的第一组。",
+              "初学者通常在十六岁左右接受这组试炼，以证明自己有资格晋升为镜匠学徒。"
+            ],
+            "t-cn": [
+              "我們有很多組試煉，不只有世人皆知的第一組。",
+              "初學者通常在十六歲左右接受這組試煉， 以證明自己有資格晉升為鏡匠學徒。"
             ]
           },
           "provenance": {
             "sourceWav": "mm_course_1__trader_alt.wav",
             "subtitleCueLines": [
-              6845,
-              6849
+              6855,
+              6859
             ],
             "explicitAudioReference": null
           }
@@ -48,14 +93,41 @@
             "en": [
               "I'm honored to be the exception."
             ],
+            "de": [
+              "Ich fühle mich geehrt, eine Ausnahme zu sein."
+            ],
+            "es": [
+              "Me honra ser la excepción."
+            ],
+            "fr": [
+              "Je suis honoré d'être l'exception."
+            ],
+            "it": [
+              "Mi onora essere l'eccezione."
+            ],
+            "ja": [
+              "例外として扱ってもらえるとは、光栄だ。"
+            ],
+            "ko": [
+              "예외로 인정받다니 영광이군."
+            ],
             "pt-br": [
               "Fico honrado por ser a exceção."
+            ],
+            "ru": [
+              "Для меня честь быть исключением."
+            ],
+            "s-cn": [
+              "能成为这个例外，我很荣幸。"
+            ],
+            "t-cn": [
+              "能成為這個例外，我很榮幸。"
             ]
           },
           "provenance": {
             "sourceWav": "mm_course_2__trader.wav",
             "subtitleCueLines": [
-              6854
+              6864
             ],
             "explicitAudioReference": null
           }
@@ -70,14 +142,41 @@
             "en": [
               "No exception. They already promoted you to Apprentice Mirrorwright."
             ],
+            "de": [
+              "Du bist keine Ausnahme. Sie haben dich bereits zum Spiegelwirker-Lehrling befördert."
+            ],
+            "es": [
+              "De excepción, nada. Ya te han ascendido a aprendiz de espejista."
+            ],
+            "fr": [
+              "Pas d'exception. Ils vous ont déjà promu au rang d'apprenti forgemiroir."
+            ],
+            "it": [
+              "Nessuna eccezione. Ti hanno già promosso a Maestro degli specchi apprendista."
+            ],
+            "ja": [
+              "例外じゃないよ。君はもう 見習い鏡職人に昇格している。"
+            ],
+            "ko": [
+              "예외가 아니야. 넌 이미 견습 거울공예인으로 승급했어."
+            ],
             "pt-br": [
               "Não há exceção. Eles já o promoveram a Espelhista Aprendiz."
+            ],
+            "ru": [
+              "Никакого исключения. Тебя уже повысили до ученика зеркальщика."
+            ],
+            "s-cn": [
+              "没有破例。你已经晋升为镜匠学徒了。"
+            ],
+            "t-cn": [
+              "沒有破例。你已經晉升為鏡匠學徒了。"
             ]
           },
           "provenance": {
             "sourceWav": "mm_course_3__trader_alt.wav",
             "subtitleCueLines": [
-              6857
+              6867
             ],
             "explicitAudioReference": null
           }
@@ -94,11 +193,65 @@
           "I'm honored to be the exception.",
           "No exception. They already promoted you to Apprentice Mirrorwright."
         ],
+        "de": [
+          "Wir haben viele Sequenzen, nicht nur jene erste Prüfung, die allgemein bekannt ist.",
+          "Novizen durchlaufen diese Sequenz meist mit etwa 16 Jahren, um zu zeigen, dass sie würdig sind, zum Spiegelwirker-Lehrling aufzusteigen.",
+          "Ich fühle mich geehrt, eine Ausnahme zu sein.",
+          "Du bist keine Ausnahme. Sie haben dich bereits zum Spiegelwirker-Lehrling befördert."
+        ],
+        "es": [
+          "Tenemos muchas secuencias, no solo esa primera prueba que conoce todo el mundo.",
+          "Los iniciados suelen pasar por esta experiencia alrededor de los 16 años para ascender a aprendiz de espejista.",
+          "Me honra ser la excepción.",
+          "De excepción, nada. Ya te han ascendido a aprendiz de espejista."
+        ],
+        "fr": [
+          "Nous avons de nombreuses séquences, pas seulement cette première épreuve connue du public.",
+          "Les initiés passent généralement par là vers 16 ans pour prouver qu'ils méritent d'être promus au rang d'apprenti forgemiroir.",
+          "Je suis honoré d'être l'exception.",
+          "Pas d'exception. Ils vous ont déjà promu au rang d'apprenti forgemiroir."
+        ],
+        "it": [
+          "Abbiamo molte sequenze, non solo quella prima prova nota al pubblico.",
+          "Gli iniziati di solito seguono questa intorno ai 16 anni per dimostrare di meritare la promozione a Maestro degli specchi apprendista.",
+          "Mi onora essere l'eccezione.",
+          "Nessuna eccezione. Ti hanno già promosso a Maestro degli specchi apprendista."
+        ],
+        "ja": [
+          "一連の課題にも、いろいろあるんだ。 世間に知られている、あの最初の試験だけじゃない。",
+          "入門者はたいてい、16歳頃にこれに挑む。 見習い鏡職人に昇格する資格があるか、 確かめるためにね。",
+          "例外として扱ってもらえるとは、光栄だ。",
+          "例外じゃないよ。君はもう 見習い鏡職人に昇格している。"
+        ],
+        "ko": [
+          "우리에겐 대중에게 알려진 첫 시련 말고도 여러 단계의 시련이 있어.",
+          "보통 입문자들은 16세쯤에 이 과정을 거쳐서 견습 거울공예인으로 승급하지.",
+          "예외로 인정받다니 영광이군.",
+          "예외가 아니야. 넌 이미 견습 거울공예인으로 승급했어."
+        ],
         "pt-br": [
           "Temos muitas sequências, não só aquele primeiro teste que o público conhece.",
           "Os iniciados costumam passar por isso por volta dos 16 anos para provar que merecem promoção a Espelhista Aprendiz.",
           "Fico honrado por ser a exceção.",
           "Não há exceção. Eles já o promoveram a Espelhista Aprendiz."
+        ],
+        "ru": [
+          "У нас много серий испытаний, а не только то первое, о котором знают все.",
+          "Посвящённые обычно проходят его лет в 16, чтобы подтвердить, что заслуживают повышения до ученика зеркальщика.",
+          "Для меня честь быть исключением.",
+          "Никакого исключения. Тебя уже повысили до ученика зеркальщика."
+        ],
+        "s-cn": [
+          "我们有很多组试炼，不只有世人皆知的第一组。",
+          "初学者通常在十六岁左右接受这组试炼，以证明自己有资格晋升为镜匠学徒。",
+          "能成为这个例外，我很荣幸。",
+          "没有破例。你已经晋升为镜匠学徒了。"
+        ],
+        "t-cn": [
+          "我們有很多組試煉，不只有世人皆知的第一組。",
+          "初學者通常在十六歲左右接受這組試煉， 以證明自己有資格晉升為鏡匠學徒。",
+          "能成為這個例外，我很榮幸。",
+          "沒有破例。你已經晉升為鏡匠學徒了。"
         ]
       },
       "silentCues": [],
@@ -120,7 +273,7 @@
             "source": "data-common/metamirror_same_dir_2_alt_2.entities"
           }
         ],
-        "subtitleLine": 6844,
+        "subtitleLine": 6854,
         "subtitleHeader": ":::"
       }
     }

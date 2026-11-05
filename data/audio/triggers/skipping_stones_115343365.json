@@ -1,0 +1,845 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "skipping_stones_whirlpool",
+    "audioKey": "skipping_stones_115343365",
+    "triggerKind": "movement",
+    "blocks": [
+      "skipping_stones_whirlpool"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      0.9837284088134766,
+      2.026721954345703,
+      1.0
+    ],
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 115343365,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "skipping_stones_whirlpool",
+        "rule": "exact-reference",
+        "coordinates": [
+          21.462316513061523,
+          17.47327995300293,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "skipping_stones_whirlpool",
+      "clips": [
+        {
+          "id": "skipping_stones_whirlpool_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.951708,
+          "src": "audio/clips/skipping_stones_whirlpool_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "It's time for me to bother you again, about *two* things this time."
+            ],
+            "de": [
+              "Es wird Zeit, dich wieder zu belästigen, diesmal wegen gleich zwei Dingen."
+            ],
+            "es": [
+              "Es hora de volver a importunarte, esta vez por dos cosas."
+            ],
+            "fr": [
+              "Il est temps que je t'embête à nouveau, à propos de deux choses cette fois."
+            ],
+            "it": [
+              "È ora che ti disturbi di nuovo, stavolta per due cose."
+            ],
+            "ja": [
+              "今回は 君に2つ教えてあげよう。"
+            ],
+            "ko": [
+              "이번엔 두 가지 일로 다시 널 귀찮게 해야겠군."
+            ],
+            "pt-br": [
+              "É hora de eu te incomodar de novo, desta vez por duas coisas."
+            ],
+            "ru": [
+              "Пора мне снова тебя побеспокоить на этот раз по двум поводам."
+            ],
+            "s-cn": [
+              "我又来烦你了。这次有两件事。"
+            ],
+            "t-cn": [
+              "我又來煩你了。這次有兩件事。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_1__boat.wav",
+            "subtitleCueLines": [
+              4442
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.436083,
+          "src": "audio/clips/skipping_stones_whirlpool_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh, do tell."
+            ],
+            "de": [
+              "Oh, um was geht es?"
+            ],
+            "es": [
+              "¿Ah, sí? Cuéntame."
+            ],
+            "fr": [
+              "Oh ? Vas-y, dis-moi."
+            ],
+            "it": [
+              "Oh, sentiamo."
+            ],
+            "ja": [
+              "ほう？なんだい？"
+            ],
+            "ko": [
+              "오, 말씀해 보실까?"
+            ],
+            "pt-br": [
+              "Ah, diga."
+            ],
+            "ru": [
+              "О, рассказывай."
+            ],
+            "s-cn": [
+              "哦？愿闻其详。"
+            ],
+            "t-cn": [
+              "哦？願聞其詳。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_2__sailor.wav",
+            "subtitleCueLines": [
+              4446
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 15.258083,
+          "src": "audio/clips/skipping_stones_whirlpool_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "First: that green island there is your target.",
+              "That circle is the interdict, right there!",
+              "Symbols drawn on rocks, placed in the grass.",
+              "Get there, kick a rock aside. Simple in theory.",
+              "Buuuuut...."
+            ],
+            "de": [
+              "Erstens: Die grüne Insel dort ist dein Ziel.",
+              "Dieser Kreis ist das Interdikt, genau da!",
+              "Symbole, gemalt auf Felsen, die im Gras liegen.",
+              "Gelang dorthin und tritt einen Stein beiseite. In der Theorie ganz einfach.",
+              "Aaaaaber ...."
+            ],
+            "es": [
+              "Primero: esa isla verde de ahí es tu objetivo.",
+              "¡Ese círculo es precisamente el veto, justo ahí!",
+              "Símbolos dibujados en rocas, colocados en la hierba.",
+              "Ve y aparta una roca de una patada. Una tarea sencilla, en teoría.",
+              "Peeeero...."
+            ],
+            "fr": [
+              "D'abord : cette île verte là-bas est ton objectif.",
+              "Ce cercle, c'est l'interdiction, juste là !",
+              "Des symboles tracés sur des rochers, placés dans l'herbe.",
+              "Tu dois aller là-bas et pousser un rocher. Facile, en théorie.",
+              "Maaaais...."
+            ],
+            "it": [
+              "Primo punto: quell'isola verde è il tuo obiettivo.",
+              "Quel cerchio è l'interdizione, proprio lì!",
+              "Simboli tracciati sui massi, disposti nell'erba.",
+              "Devi andare là e spostare un masso di lato. Semplice in teoria.",
+              "Maaaa..."
+            ],
+            "ja": [
+              "まず1つ目。あの緑の島へ 向かうべきだ。",
+              "あそこ！ あれが封印だ！",
+              "草に落ちてる石に 印が描かれてる。",
+              "行って石を蹴るだけでいい。",
+              "しかーし…"
+            ],
+            "ko": [
+              "첫째. 저기 보이는 초록색 섬이 네 목표야.",
+              "그 원이 금제야. 바로 저기 있어!",
+              "바위에 그려진 기호들이 풀밭에 놓여 있지.",
+              "거기 가서 바위를 하나 걷어차. 이론상으론 간단해.",
+              "하지만..."
+            ],
+            "pt-br": [
+              "Primeiro: aquela ilha verde ali é seu alvo.",
+              "Esse círculo é o interdito, ali mesmo!",
+              "Símbolos desenhados nas rochas, colocados na grama.",
+              "Chegue lá, afaste uma pedra. Simples na teoria.",
+              "Maaaass..."
+            ],
+            "ru": [
+              "Во-первых: тот зеленый остров там и есть твоя цель.",
+              "Этот круг — и есть запрет, прямо там!",
+              "Символы, нарисованные на камнях, разложены в траве.",
+              "Доберись туда, отодвинь камень. В теории все просто.",
+              "Но-о-о..."
+            ],
+            "s-cn": [
+              "第一，那边的绿岛就是你的目标。",
+              "那个圆圈就是阻航阵，就在那里！",
+              "那些符号画在石头上，石头就摆在草丛里。",
+              "走到那儿，随便踢开一块石头。理论上很简单。",
+              "可是……"
+            ],
+            "t-cn": [
+              "第一，那邊的綠島就是你的目標。",
+              "那個圓圈就是阻航陣，就在那裡！",
+              "那些符號畫在石頭上，石頭就擺在草叢裡。",
+              "走到那兒，隨便踢開一塊石頭。理論上很簡單。",
+              "可是……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_3__boat.wav",
+            "subtitleCueLines": [
+              4449,
+              4453,
+              4458,
+              4462,
+              4466
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.935354,
+          "src": "audio/clips/skipping_stones_whirlpool_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Yes?"
+            ],
+            "de": [
+              "Ja?"
+            ],
+            "es": [
+              "¿Sí?"
+            ],
+            "fr": [
+              "J'écoute."
+            ],
+            "it": [
+              "Sì?"
+            ],
+            "ja": [
+              "なんだい？"
+            ],
+            "ko": [
+              "음?"
+            ],
+            "pt-br": [
+              "Sim?"
+            ],
+            "ru": [
+              "Да?"
+            ],
+            "s-cn": [
+              "怎么了？"
+            ],
+            "t-cn": [
+              "怎麼了？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_4__sailor.wav",
+            "subtitleCueLines": [
+              4469
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 17.854208,
+          "src": "audio/clips/skipping_stones_whirlpool_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "The river doesn't skirt that isle; you'll have to keep tacking and come from the other side.",
+              "Which brings us to our *second* point. If you check your map...",
+              "you'll find this river feeds directly into the biggest mouth you've ever seen. Gigantic whirlpool!"
+            ],
+            "de": [
+              "Der Fluss führt nicht an dieser Insel vorbei; du musst weiter kreuzen und dich von der anderen Seite nähern.",
+              "Damit kommen wir zum zweiten Punkt. Wenn du auf deine Karte schaust ...",
+              "siehst du, wohin dieser Fluss fließt: direkt in den größten Schlund, den du je gesehen hast. Ein gigantischer Strudel!"
+            ],
+            "es": [
+              "El río no bordea esa isla; tendrás que seguir virando y llegar por el otro lado.",
+              "Lo cual nos lleva a nuestro segundo asunto. Si miras el mapa...",
+              "verás que este río termina justo en la desembocadura más grande que hayas visto jamás. ¡Un remolino gigantesco!"
+            ],
+            "fr": [
+              "La rivière ne contourne pas cette île ; il va falloir continuer à tirer des bords et arriver par l'autre côté.",
+              "Ce qui nous amène à mon deuxième point. Si tu regardes ta carte...",
+              "tu verras que cette rivière se jette directement dans le plus gros maëlstrom que tu aies jamais vu. Un tourbillon gigantesque !"
+            ],
+            "it": [
+              "Il fiume non costeggia l'isola: dovrai procedere a zig zag e arrivare dall'altro lato.",
+              "E questo ci porta al secondo punto. Se guardi la mappa...",
+              "scoprirai che questo fiume sfocia direttamente nella bocca più grande che tu abbia mai visto. Un vortice gigantesco!"
+            ],
+            "ja": [
+              "川は島の周りを流れてない。 向こう側から 行くしかない。",
+              "そして2つ目。 地図を見ると…",
+              "川は君が 見たこともないような 大渦に続いてる。"
+            ],
+            "ko": [
+              "강이 그 섬을 비켜 가지 않거든. 계속 바람을 안고 지그재그로 가면서 반대편으로 돌아가야 해.",
+              "그게 우리 두 번째 지점으로 이어지지. 네 지도를 보면...",
+              "이 강이 바로 네가 본 것 중 가장 커다란 소용돌이로 이어져 있어. 거대한 와류지."
+            ],
+            "pt-br": [
+              "O rio não contorna aquela ilha; você vai ter que continuar bordejando e vir pelo outro lado.",
+              "O que nos leva ao nosso segundo ponto. Se você conferir seu mapa...",
+              "vai ver que esse rio deságua direto na maior boca que você já viu. Um redemoinho gigantesco!"
+            ],
+            "ru": [
+              "Река не огибает тот остров; тебе придется продолжать лавировать и зайти с другой стороны.",
+              "Что подводит нас ко второму пункту. Если посмотришь на карту...",
+              "то увидишь, что эта река прямо впадает в самое большое устье, какое ты когда-либо видела. Гигантский водоворот!"
+            ],
+            "s-cn": [
+              "河道不经过那座岛旁边。你得继续逆风航行，从另一侧绕过去。",
+              "这就说到“第二”件事了。再看看地图……",
+              "你会发现，这条河会径直流进你这辈子见过的 最大一张“嘴”里——是一个巨型漩涡。"
+            ],
+            "t-cn": [
+              "河道不經過那座島旁邊。 你得繼續逆風航行，從另一側繞過去。",
+              "這就說到「第二」件事了。再看看地圖……",
+              "你會發現，這條河會徑直流進你這輩子見過的 最大一張「嘴」裡——是一個巨型漩渦。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_5__boat.wav",
+            "subtitleCueLines": [
+              4472,
+              4477,
+              4481
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.89075,
+          "src": "audio/clips/skipping_stones_whirlpool_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Biggest mouth that *I've* ever seen? You've seen bigger?"
+            ],
+            "de": [
+              "Den größten, den ich je gesehen habe? Du hast größere gesehen?"
+            ],
+            "es": [
+              "¿La más grande que yo haya visto jamás? ¿Acaso has visto tú una mayor?"
+            ],
+            "fr": [
+              "Le plus gros que j'aie jamais vue ? Toi, tu as vu pire ?"
+            ],
+            "it": [
+              "La più grande che io abbia mai visto? Perché, tu ne hai viste di più grandi?"
+            ],
+            "ja": [
+              "あんたはもっと 大きな渦を見たことが？"
+            ],
+            "ko": [
+              "내가 본 것 중에서? 넌 더 큰 것도 봤단 말이야?"
+            ],
+            "pt-br": [
+              "A maior boca que eu já vi? Você já viu maior?"
+            ],
+            "ru": [
+              "Самое большое устье, какое я когда-либо видела? Ты видел и побольше?"
+            ],
+            "s-cn": [
+              "我这辈子见过的最大的一张嘴？你还见过更大的？"
+            ],
+            "t-cn": [
+              "我這輩子見過的最大的一張嘴？ 你還見過更大的？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_6__sailor.wav",
+            "subtitleCueLines": [
+              4487
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_7__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 7.643021,
+          "src": "audio/clips/skipping_stones_whirlpool_7__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I get around.",
+              "If you are swallowed, there will be no way home for me. Think of me, please."
+            ],
+            "de": [
+              "Ich komme viel herum.",
+              "Wenn du verschlungen wirst, gibt es für mich keinen Weg mehr nach Hause. Denk also bitte an mich."
+            ],
+            "es": [
+              "Es que viajo bastante.",
+              "Si te traga, no tendré forma de volver a casa. Así que haz el favor de pensar en mí."
+            ],
+            "fr": [
+              "J'ai pas mal bourlingué.",
+              "Si le tourbillon t'avale, je n'aurai plus aucun moyen de rentrer chez moi. Alors pense à moi, s'il te plaît."
+            ],
+            "it": [
+              "Viaggio parecchio.",
+              "Se vieni inghiottita, non potrò tornare a casa. Quindi pensa a me, per favore."
+            ],
+            "ja": [
+              "まあね。",
+              "僕が飲まれたら 脱出できない。 だから僕のことを考えてくれ。"
+            ],
+            "ko": [
+              "난 여기저기 다니니까.",
+              "네가 삼켜지면, 나에겐 집으로 돌아갈 방법이 없어. 그러니 제발 나를 생각해 줘."
+            ],
+            "pt-br": [
+              "Eu ando por aí.",
+              "Se você for engolida, não haverá caminho de volta para mim. Pense em mim, por favor."
+            ],
+            "ru": [
+              "Я много где бываю.",
+              "Если тебя проглотят, мне не будет пути домой. Так что, пожалуйста, думай обо мне."
+            ],
+            "s-cn": [
+              "我见多识广。",
+              "你要是被吞进去，我就再也回不了家了。请考虑一下我的处境。"
+            ],
+            "t-cn": [
+              "我見多識廣。",
+              "你要是被吞進去，我就再也回不了家了。 請考慮一下我的處境。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_7__boat.wav",
+            "subtitleCueLines": [
+              4491,
+              4494
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_8__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.733729,
+          "src": "audio/clips/skipping_stones_whirlpool_8__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Thanks, boat. I'll figure something out."
+            ],
+            "de": [
+              "Danke, Boot. Mir fällt schon was ein."
+            ],
+            "es": [
+              "Gracias, barco. Ya me las apañaré."
+            ],
+            "fr": [
+              "Merci, navire. Je vais me débrouiller."
+            ],
+            "it": [
+              "Grazie, barca. Troverò una soluzione."
+            ],
+            "ja": [
+              "わかった。どうにかするよ。"
+            ],
+            "ko": [
+              "고마워, 배야. 어떻게든 해 볼게."
+            ],
+            "pt-br": [
+              "Valeu, barco. Vou dar um jeito."
+            ],
+            "ru": [
+              "Спасибо, Кораблик. Я что-нибудь придумаю."
+            ],
+            "s-cn": [
+              "谢了，船灵。我会想办法的。"
+            ],
+            "t-cn": [
+              "謝了，船靈。我會想辦法的。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_8__sailor.wav",
+            "subtitleCueLines": [
+              4500
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_9__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.687125,
+          "src": "audio/clips/skipping_stones_whirlpool_9__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You often do."
+            ],
+            "de": [
+              "Das tut es oft."
+            ],
+            "es": [
+              "Sueles hacerlo."
+            ],
+            "fr": [
+              "Tu y arrives souvent."
+            ],
+            "it": [
+              "Lo fai spesso."
+            ],
+            "ja": [
+              "君ならできる。"
+            ],
+            "ko": [
+              "넌 종종 그렇게 하지."
+            ],
+            "pt-br": [
+              "Você costuma dar."
+            ],
+            "ru": [
+              "Ты часто так и делаешь."
+            ],
+            "s-cn": [
+              "你经常能想出来。"
+            ],
+            "t-cn": [
+              "你經常能想出來。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_9__boat.wav",
+            "subtitleCueLines": [
+              4503
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_whirlpool_10__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.514792,
+          "src": "audio/clips/skipping_stones_whirlpool_10__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I *always* do!"
+            ],
+            "de": [
+              "Mir fällt immer was ein!"
+            ],
+            "es": [
+              "¡Siempre lo hago!"
+            ],
+            "fr": [
+              "J'y arrive toujours !"
+            ],
+            "it": [
+              "Lo faccio sempre!"
+            ],
+            "ja": [
+              "いつだってね！"
+            ],
+            "ko": [
+              "난 항상 그렇게 하는데!"
+            ],
+            "pt-br": [
+              "Eu sempre dou!"
+            ],
+            "ru": [
+              "Я всегда так и делаю!"
+            ],
+            "s-cn": [
+              "我每次都能！"
+            ],
+            "t-cn": [
+              "我每次都能！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_whirlpool_10__sailor.wav",
+            "subtitleCueLines": [
+              4506
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It's time for me to bother you again, about *two* things this time.",
+          "Oh, do tell.",
+          "First: that green island there is your target.",
+          "That circle is the interdict, right there!",
+          "Symbols drawn on rocks, placed in the grass.",
+          "Get there, kick a rock aside. Simple in theory.",
+          "Buuuuut....",
+          "Yes?",
+          "The river doesn't skirt that isle; you'll have to keep tacking and come from the other side.",
+          "Which brings us to our *second* point. If you check your map...",
+          "you'll find this river feeds directly into the biggest mouth you've ever seen. Gigantic whirlpool!",
+          "Biggest mouth that *I've* ever seen? You've seen bigger?",
+          "I get around.",
+          "If you are swallowed, there will be no way home for me. Think of me, please.",
+          "Thanks, boat. I'll figure something out.",
+          "You often do.",
+          "I *always* do!"
+        ],
+        "de": [
+          "Es wird Zeit, dich wieder zu belästigen, diesmal wegen gleich zwei Dingen.",
+          "Oh, um was geht es?",
+          "Erstens: Die grüne Insel dort ist dein Ziel.",
+          "Dieser Kreis ist das Interdikt, genau da!",
+          "Symbole, gemalt auf Felsen, die im Gras liegen.",
+          "Gelang dorthin und tritt einen Stein beiseite. In der Theorie ganz einfach.",
+          "Aaaaaber ....",
+          "Ja?",
+          "Der Fluss führt nicht an dieser Insel vorbei; du musst weiter kreuzen und dich von der anderen Seite nähern.",
+          "Damit kommen wir zum zweiten Punkt. Wenn du auf deine Karte schaust ...",
+          "siehst du, wohin dieser Fluss fließt: direkt in den größten Schlund, den du je gesehen hast. Ein gigantischer Strudel!",
+          "Den größten, den ich je gesehen habe? Du hast größere gesehen?",
+          "Ich komme viel herum.",
+          "Wenn du verschlungen wirst, gibt es für mich keinen Weg mehr nach Hause. Denk also bitte an mich.",
+          "Danke, Boot. Mir fällt schon was ein.",
+          "Das tut es oft.",
+          "Mir fällt immer was ein!"
+        ],
+        "es": [
+          "Es hora de volver a importunarte, esta vez por dos cosas.",
+          "¿Ah, sí? Cuéntame.",
+          "Primero: esa isla verde de ahí es tu objetivo.",
+          "¡Ese círculo es precisamente el veto, justo ahí!",
+          "Símbolos dibujados en rocas, colocados en la hierba.",
+          "Ve y aparta una roca de una patada. Una tarea sencilla, en teoría.",
+          "Peeeero....",
+          "¿Sí?",
+          "El río no bordea esa isla; tendrás que seguir virando y llegar por el otro lado.",
+          "Lo cual nos lleva a nuestro segundo asunto. Si miras el mapa...",
+          "verás que este río termina justo en la desembocadura más grande que hayas visto jamás. ¡Un remolino gigantesco!",
+          "¿La más grande que yo haya visto jamás? ¿Acaso has visto tú una mayor?",
+          "Es que viajo bastante.",
+          "Si te traga, no tendré forma de volver a casa. Así que haz el favor de pensar en mí.",
+          "Gracias, barco. Ya me las apañaré.",
+          "Sueles hacerlo.",
+          "¡Siempre lo hago!"
+        ],
+        "fr": [
+          "Il est temps que je t'embête à nouveau, à propos de deux choses cette fois.",
+          "Oh ? Vas-y, dis-moi.",
+          "D'abord : cette île verte là-bas est ton objectif.",
+          "Ce cercle, c'est l'interdiction, juste là !",
+          "Des symboles tracés sur des rochers, placés dans l'herbe.",
+          "Tu dois aller là-bas et pousser un rocher. Facile, en théorie.",
+          "Maaaais....",
+          "J'écoute.",
+          "La rivière ne contourne pas cette île ; il va falloir continuer à tirer des bords et arriver par l'autre côté.",
+          "Ce qui nous amène à mon deuxième point. Si tu regardes ta carte...",
+          "tu verras que cette rivière se jette directement dans le plus gros maëlstrom que tu aies jamais vu. Un tourbillon gigantesque !",
+          "Le plus gros que j'aie jamais vue ? Toi, tu as vu pire ?",
+          "J'ai pas mal bourlingué.",
+          "Si le tourbillon t'avale, je n'aurai plus aucun moyen de rentrer chez moi. Alors pense à moi, s'il te plaît.",
+          "Merci, navire. Je vais me débrouiller.",
+          "Tu y arrives souvent.",
+          "J'y arrive toujours !"
+        ],
+        "it": [
+          "È ora che ti disturbi di nuovo, stavolta per due cose.",
+          "Oh, sentiamo.",
+          "Primo punto: quell'isola verde è il tuo obiettivo.",
+          "Quel cerchio è l'interdizione, proprio lì!",
+          "Simboli tracciati sui massi, disposti nell'erba.",
+          "Devi andare là e spostare un masso di lato. Semplice in teoria.",
+          "Maaaa...",
+          "Sì?",
+          "Il fiume non costeggia l'isola: dovrai procedere a zig zag e arrivare dall'altro lato.",
+          "E questo ci porta al secondo punto. Se guardi la mappa...",
+          "scoprirai che questo fiume sfocia direttamente nella bocca più grande che tu abbia mai visto. Un vortice gigantesco!",
+          "La più grande che io abbia mai visto? Perché, tu ne hai viste di più grandi?",
+          "Viaggio parecchio.",
+          "Se vieni inghiottita, non potrò tornare a casa. Quindi pensa a me, per favore.",
+          "Grazie, barca. Troverò una soluzione.",
+          "Lo fai spesso.",
+          "Lo faccio sempre!"
+        ],
+        "ja": [
+          "今回は 君に2つ教えてあげよう。",
+          "ほう？なんだい？",
+          "まず1つ目。あの緑の島へ 向かうべきだ。",
+          "あそこ！ あれが封印だ！",
+          "草に落ちてる石に 印が描かれてる。",
+          "行って石を蹴るだけでいい。",
+          "しかーし…",
+          "なんだい？",
+          "川は島の周りを流れてない。 向こう側から 行くしかない。",
+          "そして2つ目。 地図を見ると…",
+          "川は君が 見たこともないような 大渦に続いてる。",
+          "あんたはもっと 大きな渦を見たことが？",
+          "まあね。",
+          "僕が飲まれたら 脱出できない。 だから僕のことを考えてくれ。",
+          "わかった。どうにかするよ。",
+          "君ならできる。",
+          "いつだってね！"
+        ],
+        "ko": [
+          "이번엔 두 가지 일로 다시 널 귀찮게 해야겠군.",
+          "오, 말씀해 보실까?",
+          "첫째. 저기 보이는 초록색 섬이 네 목표야.",
+          "그 원이 금제야. 바로 저기 있어!",
+          "바위에 그려진 기호들이 풀밭에 놓여 있지.",
+          "거기 가서 바위를 하나 걷어차. 이론상으론 간단해.",
+          "하지만...",
+          "음?",
+          "강이 그 섬을 비켜 가지 않거든. 계속 바람을 안고 지그재그로 가면서 반대편으로 돌아가야 해.",
+          "그게 우리 두 번째 지점으로 이어지지. 네 지도를 보면...",
+          "이 강이 바로 네가 본 것 중 가장 커다란 소용돌이로 이어져 있어. 거대한 와류지.",
+          "내가 본 것 중에서? 넌 더 큰 것도 봤단 말이야?",
+          "난 여기저기 다니니까.",
+          "네가 삼켜지면, 나에겐 집으로 돌아갈 방법이 없어. 그러니 제발 나를 생각해 줘.",
+          "고마워, 배야. 어떻게든 해 볼게.",
+          "넌 종종 그렇게 하지.",
+          "난 항상 그렇게 하는데!"
+        ],
+        "pt-br": [
+          "É hora de eu te incomodar de novo, desta vez por duas coisas.",
+          "Ah, diga.",
+          "Primeiro: aquela ilha verde ali é seu alvo.",
+          "Esse círculo é o interdito, ali mesmo!",
+          "Símbolos desenhados nas rochas, colocados na grama.",
+          "Chegue lá, afaste uma pedra. Simples na teoria.",
+          "Maaaass...",
+          "Sim?",
+          "O rio não contorna aquela ilha; você vai ter que continuar bordejando e vir pelo outro lado.",
+          "O que nos leva ao nosso segundo ponto. Se você conferir seu mapa...",
+          "vai ver que esse rio deságua direto na maior boca que você já viu. Um redemoinho gigantesco!",
+          "A maior boca que eu já vi? Você já viu maior?",
+          "Eu ando por aí.",
+          "Se você for engolida, não haverá caminho de volta para mim. Pense em mim, por favor.",
+          "Valeu, barco. Vou dar um jeito.",
+          "Você costuma dar.",
+          "Eu sempre dou!"
+        ],
+        "ru": [
+          "Пора мне снова тебя побеспокоить на этот раз по двум поводам.",
+          "О, рассказывай.",
+          "Во-первых: тот зеленый остров там и есть твоя цель.",
+          "Этот круг — и есть запрет, прямо там!",
+          "Символы, нарисованные на камнях, разложены в траве.",
+          "Доберись туда, отодвинь камень. В теории все просто.",
+          "Но-о-о...",
+          "Да?",
+          "Река не огибает тот остров; тебе придется продолжать лавировать и зайти с другой стороны.",
+          "Что подводит нас ко второму пункту. Если посмотришь на карту...",
+          "то увидишь, что эта река прямо впадает в самое большое устье, какое ты когда-либо видела. Гигантский водоворот!",
+          "Самое большое устье, какое я когда-либо видела? Ты видел и побольше?",
+          "Я много где бываю.",
+          "Если тебя проглотят, мне не будет пути домой. Так что, пожалуйста, думай обо мне.",
+          "Спасибо, Кораблик. Я что-нибудь придумаю.",
+          "Ты часто так и делаешь.",
+          "Я всегда так и делаю!"
+        ],
+        "s-cn": [
+          "我又来烦你了。这次有两件事。",
+          "哦？愿闻其详。",
+          "第一，那边的绿岛就是你的目标。",
+          "那个圆圈就是阻航阵，就在那里！",
+          "那些符号画在石头上，石头就摆在草丛里。",
+          "走到那儿，随便踢开一块石头。理论上很简单。",
+          "可是……",
+          "怎么了？",
+          "河道不经过那座岛旁边。你得继续逆风航行，从另一侧绕过去。",
+          "这就说到“第二”件事了。再看看地图……",
+          "你会发现，这条河会径直流进你这辈子见过的 最大一张“嘴”里——是一个巨型漩涡。",
+          "我这辈子见过的最大的一张嘴？你还见过更大的？",
+          "我见多识广。",
+          "你要是被吞进去，我就再也回不了家了。请考虑一下我的处境。",
+          "谢了，船灵。我会想办法的。",
+          "你经常能想出来。",
+          "我每次都能！"
+        ],
+        "t-cn": [
+          "我又來煩你了。這次有兩件事。",
+          "哦？願聞其詳。",
+          "第一，那邊的綠島就是你的目標。",
+          "那個圓圈就是阻航陣，就在那裡！",
+          "那些符號畫在石頭上，石頭就擺在草叢裡。",
+          "走到那兒，隨便踢開一塊石頭。理論上很簡單。",
+          "可是……",
+          "怎麼了？",
+          "河道不經過那座島旁邊。 你得繼續逆風航行，從另一側繞過去。",
+          "這就說到「第二」件事了。再看看地圖……",
+          "你會發現，這條河會徑直流進你這輩子見過的 最大一張「嘴」裡——是一個巨型漩渦。",
+          "我這輩子見過的最大的一張嘴？ 你還見過更大的？",
+          "我見多識廣。",
+          "你要是被吞進去，我就再也回不了家了。 請考慮一下我的處境。",
+          "謝了，船靈。我會想辦法的。",
+          "你經常能想出來。",
+          "我每次都能！"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Observe, Ratleigh, how the complexities of this mechanism slow them,",
               "giving us time to bait the final trap. Let us be off."
             ],
+            "de": [
+              "Sieh nur, Ratleigh: Dieser Mechanismus ist so komplex, dass er sie ausbremst,",
+              "was uns Zeit gibt, den Köder für die letzte Falle auszulegen. Lass uns aufbrechen."
+            ],
+            "es": [
+              "Observa, Ratleigh, cómo las complejidades de este mecanismo los ralentizan,",
+              "dándonos tiempo para cebar la trampa final. Vámonos."
+            ],
+            "fr": [
+              "Observe, Ratleigh, comme la complexité de ce mécanisme les ralentit,",
+              "nous donnant le temps de préparer le piège final. En route."
+            ],
+            "it": [
+              "Osserva, Ratleigh, come le complessità di questo meccanismo li rallentano,",
+              "dandoci il tempo di preparare la trappola finale. Andiamo."
+            ],
+            "ja": [
+              "見よ、ラトレイ。 ヤツらが複雑な機構に 足止めされている間――",
+              "最後の罠へ誘い込む。 行くぞ。"
+            ],
+            "ko": [
+              "봐, 래틀리, 이 복잡한 메커니즘이 저들을 늦추고 있군.",
+              "우리가 마지막 함정을 준비할 시간을 벌어주지. 가자."
+            ],
             "pt-br": [
               "Observe, Ratleigh, como as complexidades deste mecanismo os atrasam,",
               "nos dando tempo para preparar a armadilha final. Vamos andando."
+            ],
+            "ru": [
+              "Смотри, Рэтли, как сложность этого механизма замедляет их,",
+              "пока мы готовим последнюю ловушку. Пойдём."
+            ],
+            "s-cn": [
+              "看好了，拉特利，这套机关的复杂程度足以拖住他们，",
+              "够时间让我们布置最后的陷阱了。我们走吧。"
+            ],
+            "t-cn": [
+              "看好了，拉特利，這套機關的複雜程度足以拖住他們，",
+              "夠時間讓我們布置最後的陷阱了。我們走吧。"
             ]
           },
           "provenance": {
@@ -48,8 +93,35 @@
             "en": [
               "You!"
             ],
+            "de": [
+              "Du!"
+            ],
+            "es": [
+              "¡Tú!"
+            ],
+            "fr": [
+              "Vous !"
+            ],
+            "it": [
+              "Tu!"
+            ],
+            "ja": [
+              "お主！"
+            ],
+            "ko": [
+              "거기 있었군!"
+            ],
             "pt-br": [
               "Você!"
+            ],
+            "ru": [
+              "Ты!"
+            ],
+            "s-cn": [
+              "你！"
+            ],
+            "t-cn": [
+              "你！"
             ]
           },
           "provenance": {
@@ -70,8 +142,35 @@
             "en": [
               "You!"
             ],
+            "de": [
+              "Du!"
+            ],
+            "es": [
+              "¡Tú!"
+            ],
+            "fr": [
+              "Vous !"
+            ],
+            "it": [
+              "Tu!"
+            ],
+            "ja": [
+              "お前！"
+            ],
+            "ko": [
+              "거기 있었군!"
+            ],
             "pt-br": [
               "Você!"
+            ],
+            "ru": [
+              "Ты!"
+            ],
+            "s-cn": [
+              "你！"
+            ],
+            "t-cn": [
+              "你！"
             ]
           },
           "provenance": {
@@ -94,11 +193,65 @@
           "You!",
           "You!"
         ],
+        "de": [
+          "Sieh nur, Ratleigh: Dieser Mechanismus ist so komplex, dass er sie ausbremst,",
+          "was uns Zeit gibt, den Köder für die letzte Falle auszulegen. Lass uns aufbrechen.",
+          "Du!",
+          "Du!"
+        ],
+        "es": [
+          "Observa, Ratleigh, cómo las complejidades de este mecanismo los ralentizan,",
+          "dándonos tiempo para cebar la trampa final. Vámonos.",
+          "¡Tú!",
+          "¡Tú!"
+        ],
+        "fr": [
+          "Observe, Ratleigh, comme la complexité de ce mécanisme les ralentit,",
+          "nous donnant le temps de préparer le piège final. En route.",
+          "Vous !",
+          "Vous !"
+        ],
+        "it": [
+          "Osserva, Ratleigh, come le complessità di questo meccanismo li rallentano,",
+          "dandoci il tempo di preparare la trappola finale. Andiamo.",
+          "Tu!",
+          "Tu!"
+        ],
+        "ja": [
+          "見よ、ラトレイ。 ヤツらが複雑な機構に 足止めされている間――",
+          "最後の罠へ誘い込む。 行くぞ。",
+          "お主！",
+          "お前！"
+        ],
+        "ko": [
+          "봐, 래틀리, 이 복잡한 메커니즘이 저들을 늦추고 있군.",
+          "우리가 마지막 함정을 준비할 시간을 벌어주지. 가자.",
+          "거기 있었군!",
+          "거기 있었군!"
+        ],
         "pt-br": [
           "Observe, Ratleigh, como as complexidades deste mecanismo os atrasam,",
           "nos dando tempo para preparar a armadilha final. Vamos andando.",
           "Você!",
           "Você!"
+        ],
+        "ru": [
+          "Смотри, Рэтли, как сложность этого механизма замедляет их,",
+          "пока мы готовим последнюю ловушку. Пойдём.",
+          "Ты!",
+          "Ты!"
+        ],
+        "s-cn": [
+          "看好了，拉特利，这套机关的复杂程度足以拖住他们，",
+          "够时间让我们布置最后的陷阱了。我们走吧。",
+          "你！",
+          "你！"
+        ],
+        "t-cn": [
+          "看好了，拉特利，這套機關的複雜程度足以拖住他們，",
+          "夠時間讓我們布置最後的陷阱了。我們走吧。",
+          "你！",
+          "你！"
         ]
       },
       "silentCues": [],
@@ -137,8 +290,35 @@
             "en": [
               "These Goblins don't take orders. How's he getting them into all the right places?"
             ],
+            "de": [
+              "Diese Goblins lassen sich nichts befehlen. Wie kriegt er sie alle an die richtigen Stellen?"
+            ],
+            "es": [
+              "Estos goblins no obedecen órdenes. ¿Cómo los mete él en todos los sitios adecuados?"
+            ],
+            "fr": [
+              "Ces gobelins n'obéissent pas aux ordres. Comment réussit-il à les placer aux bons endroits ?"
+            ],
+            "it": [
+              "I goblin non prendono ordini da nessuno. Come fa a posizionarli al posto giusto?"
+            ],
+            "ja": [
+              "不機嫌なゴブリンたちを どうやって思い通りに 配置してるの？"
+            ],
+            "ko": [
+              "이 고블린들은 명령을 안 듣는데. 어떻게 전부 제자리에 데려다 놓은 거지?"
+            ],
             "pt-br": [
               "Esses Goblins não obedecem ordens. Como ele tá levando eles para todos os lugares certos?"
+            ],
+            "ru": [
+              "Эти гоблины не любят, когда им приказывают. Как он загоняет их во все нужные места?"
+            ],
+            "s-cn": [
+              "这些哥布林根本不听命令。他是怎么让它们各就各位的？"
+            ],
+            "t-cn": [
+              "這些哥布林根本不聽命令。 他是怎麼讓它們各就各位的？"
             ]
           },
           "provenance": {
@@ -159,8 +339,35 @@
             "en": [
               "I've heard tell of exotic women who can enthrall monsters and men..."
             ],
+            "de": [
+              "Ich habe von exotischen Frauen gehört, die Monster und Menschen in ihren Bann schlagen können ..."
+            ],
+            "es": [
+              "He oído hablar de mujeres exóticas que pueden subyugar monstruos y hombres..."
+            ],
+            "fr": [
+              "J'ai entendu parler de mystérieuses femmes capables de charmer monstres et hommes..."
+            ],
+            "it": [
+              "Ho sentito dire che esistono donne esotiche capaci di soggiogare mostri e uomini..."
+            ],
+            "ja": [
+              "怪物や人を魅了できる者たちが 存在するらしい…"
+            ],
+            "ko": [
+              "괴물들과 인간을 홀릴 수 있는 이국적인 여성들에 대한 얘길 들은 적이 있어..."
+            ],
             "pt-br": [
               "Já ouvi falar de mulheres exóticas que conseguem enfeitiçar monstros e homens..."
+            ],
+            "ru": [
+              "Я слышал о диковинных женщинах, что могут подчинять себе монстров и людей..."
+            ],
+            "s-cn": [
+              "我听说过一些异域来的女子，能让怪物和男人都为她们着迷……"
+            ],
+            "t-cn": [
+              "我聽說過一些異域來的女子， 能讓怪物和男人都為她們著迷……"
             ]
           },
           "provenance": {
@@ -181,8 +388,35 @@
             "en": [
               "Oh! May be he has one in his service!"
             ],
+            "de": [
+              "Oh! Vielleicht arbeitet ja eine davon für ihn!"
+            ],
+            "es": [
+              "¡Ah! ¡Quizá tenga una a su servicio!"
+            ],
+            "fr": [
+              "Oh ! Peut-être en a-t-il une à son service !"
+            ],
+            "it": [
+              "Oh! Forse ne ha una al suo servizio!"
+            ],
+            "ja": [
+              "そんな人を雇ったのかな？"
+            ],
+            "ko": [
+              "아! 어쩌면 그런 사람이 수하일 수도 있겠네!"
+            ],
             "pt-br": [
               "Ah! Talvez ele tenha uma a seu serviço!"
+            ],
+            "ru": [
+              "О! Может, у него такая на службе!"
+            ],
+            "s-cn": [
+              "哦！没准他手下就有这么一位！"
+            ],
+            "t-cn": [
+              "哦！沒準他手下就有這麼一位！"
             ]
           },
           "provenance": {
@@ -203,8 +437,35 @@
             "en": [
               "Or perhaps he has absorbed that power himself, as he did with that ... crystallization."
             ],
+            "de": [
+              "Oder vielleicht hat er sich diese Macht selbst angeeignet, wie bei dieser ... Kristallisierung."
+            ],
+            "es": [
+              "O quizá haya absorbido ese poder él mismo, como hizo con esa... cristalización."
+            ],
+            "fr": [
+              "Ou alors il a absorbé ce pouvoir, comme il l'a fait avec cette... cristallisation."
+            ],
+            "it": [
+              "Oppure forse ha assorbito quel potere lui stesso, come ha fatto con quella... cristallizzazione."
+            ],
+            "ja": [
+              "あるいは…結晶を作り出す力のように、 自ら取り込んだか。"
+            ],
+            "ko": [
+              "아니면 그 힘을 자기 것으로 흡수한 걸지도, 그... 수정화 때처럼."
+            ],
             "pt-br": [
               "Ou talvez ele tenha absorvido esse poder em si, como fez com aquela... cristalização."
+            ],
+            "ru": [
+              "Или, возможно, он впитал эту силу сам, как тогда с той... кристаллизацией."
+            ],
+            "s-cn": [
+              "也可能他自己吸收了那股力量， 就像之前获得那种…… 把人变成水晶的能力一样。"
+            ],
+            "t-cn": [
+              "也可能他自己吸收了那股力量， 就像之前獲得那種……把人變成水晶的能力一樣。"
             ]
           },
           "provenance": {
@@ -225,8 +486,35 @@
             "en": [
               "Wouldn't you like to know!"
             ],
+            "de": [
+              "Das wüsstet ihr wohl gern!"
+            ],
+            "es": [
+              "¡Cómo te gustaría saberlo!"
+            ],
+            "fr": [
+              "Vous aimeriez bien le savoir, hein !"
+            ],
+            "it": [
+              "Vorresti proprio saperlo, eh?"
+            ],
+            "ja": [
+              "知りたいか？"
+            ],
+            "ko": [
+              "궁금하겠지!"
+            ],
             "pt-br": [
               "Queria saber, não é?"
+            ],
+            "ru": [
+              "А тебе бы хотелось знать!"
+            ],
+            "s-cn": [
+              "你们想知道吧！"
+            ],
+            "t-cn": [
+              "你們想知道吧！"
             ]
           },
           "provenance": {
@@ -247,8 +535,35 @@
             "en": [
               "You!"
             ],
+            "de": [
+              "Du!"
+            ],
+            "es": [
+              "¡Tú!"
+            ],
+            "fr": [
+              "Vous !"
+            ],
+            "it": [
+              "Tu!"
+            ],
+            "ja": [
+              "お前！"
+            ],
+            "ko": [
+              "거기 있었군!"
+            ],
             "pt-br": [
               "Você!"
+            ],
+            "ru": [
+              "Ты!"
+            ],
+            "s-cn": [
+              "你！"
+            ],
+            "t-cn": [
+              "你！"
             ]
           },
           "provenance": {
@@ -269,8 +584,35 @@
             "en": [
               "Be seeing you!"
             ],
+            "de": [
+              "Man sieht sich!"
+            ],
+            "es": [
+              "¡Ya nos vemos!"
+            ],
+            "fr": [
+              "À la prochaine !"
+            ],
+            "it": [
+              "Ci si vede!"
+            ],
+            "ja": [
+              "またな！"
+            ],
+            "ko": [
+              "또 보세!"
+            ],
             "pt-br": [
               "Até mais!"
+            ],
+            "ru": [
+              "До встречи!"
+            ],
+            "s-cn": [
+              "回头见！"
+            ],
+            "t-cn": [
+              "回頭見！"
             ]
           },
           "provenance": {
@@ -296,6 +638,60 @@
           "You!",
           "Be seeing you!"
         ],
+        "de": [
+          "Diese Goblins lassen sich nichts befehlen. Wie kriegt er sie alle an die richtigen Stellen?",
+          "Ich habe von exotischen Frauen gehört, die Monster und Menschen in ihren Bann schlagen können ...",
+          "Oh! Vielleicht arbeitet ja eine davon für ihn!",
+          "Oder vielleicht hat er sich diese Macht selbst angeeignet, wie bei dieser ... Kristallisierung.",
+          "Das wüsstet ihr wohl gern!",
+          "Du!",
+          "Man sieht sich!"
+        ],
+        "es": [
+          "Estos goblins no obedecen órdenes. ¿Cómo los mete él en todos los sitios adecuados?",
+          "He oído hablar de mujeres exóticas que pueden subyugar monstruos y hombres...",
+          "¡Ah! ¡Quizá tenga una a su servicio!",
+          "O quizá haya absorbido ese poder él mismo, como hizo con esa... cristalización.",
+          "¡Cómo te gustaría saberlo!",
+          "¡Tú!",
+          "¡Ya nos vemos!"
+        ],
+        "fr": [
+          "Ces gobelins n'obéissent pas aux ordres. Comment réussit-il à les placer aux bons endroits ?",
+          "J'ai entendu parler de mystérieuses femmes capables de charmer monstres et hommes...",
+          "Oh ! Peut-être en a-t-il une à son service !",
+          "Ou alors il a absorbé ce pouvoir, comme il l'a fait avec cette... cristallisation.",
+          "Vous aimeriez bien le savoir, hein !",
+          "Vous !",
+          "À la prochaine !"
+        ],
+        "it": [
+          "I goblin non prendono ordini da nessuno. Come fa a posizionarli al posto giusto?",
+          "Ho sentito dire che esistono donne esotiche capaci di soggiogare mostri e uomini...",
+          "Oh! Forse ne ha una al suo servizio!",
+          "Oppure forse ha assorbito quel potere lui stesso, come ha fatto con quella... cristallizzazione.",
+          "Vorresti proprio saperlo, eh?",
+          "Tu!",
+          "Ci si vede!"
+        ],
+        "ja": [
+          "不機嫌なゴブリンたちを どうやって思い通りに 配置してるの？",
+          "怪物や人を魅了できる者たちが 存在するらしい…",
+          "そんな人を雇ったのかな？",
+          "あるいは…結晶を作り出す力のように、 自ら取り込んだか。",
+          "知りたいか？",
+          "お前！",
+          "またな！"
+        ],
+        "ko": [
+          "이 고블린들은 명령을 안 듣는데. 어떻게 전부 제자리에 데려다 놓은 거지?",
+          "괴물들과 인간을 홀릴 수 있는 이국적인 여성들에 대한 얘길 들은 적이 있어...",
+          "아! 어쩌면 그런 사람이 수하일 수도 있겠네!",
+          "아니면 그 힘을 자기 것으로 흡수한 걸지도, 그... 수정화 때처럼.",
+          "궁금하겠지!",
+          "거기 있었군!",
+          "또 보세!"
+        ],
         "pt-br": [
           "Esses Goblins não obedecem ordens. Como ele tá levando eles para todos os lugares certos?",
           "Já ouvi falar de mulheres exóticas que conseguem enfeitiçar monstros e homens...",
@@ -304,6 +700,33 @@
           "Queria saber, não é?",
           "Você!",
           "Até mais!"
+        ],
+        "ru": [
+          "Эти гоблины не любят, когда им приказывают. Как он загоняет их во все нужные места?",
+          "Я слышал о диковинных женщинах, что могут подчинять себе монстров и людей...",
+          "О! Может, у него такая на службе!",
+          "Или, возможно, он впитал эту силу сам, как тогда с той... кристаллизацией.",
+          "А тебе бы хотелось знать!",
+          "Ты!",
+          "До встречи!"
+        ],
+        "s-cn": [
+          "这些哥布林根本不听命令。他是怎么让它们各就各位的？",
+          "我听说过一些异域来的女子，能让怪物和男人都为她们着迷……",
+          "哦！没准他手下就有这么一位！",
+          "也可能他自己吸收了那股力量， 就像之前获得那种…… 把人变成水晶的能力一样。",
+          "你们想知道吧！",
+          "你！",
+          "回头见！"
+        ],
+        "t-cn": [
+          "這些哥布林根本不聽命令。 他是怎麼讓它們各就各位的？",
+          "我聽說過一些異域來的女子， 能讓怪物和男人都為她們著迷……",
+          "哦！沒準他手下就有這麼一位！",
+          "也可能他自己吸收了那股力量， 就像之前獲得那種……把人變成水晶的能力一樣。",
+          "你們想知道吧！",
+          "你！",
+          "回頭見！"
         ]
       },
       "silentCues": [],

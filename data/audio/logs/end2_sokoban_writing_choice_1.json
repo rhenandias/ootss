@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "end2_sokoban_writing_choice_1",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -28,6 +37,78 @@
               "Eventually we may discuss why. For now you'll have to take it as given.",
               "Good luck."
             ],
+            "de": [
+              "Du solltest wissen, dass ich deine Fortschritte in der gesamten Oberwelt beobachtet habe.",
+              "Ich entschuldige mich für das, was wie ein Eingriff in deine Privatsphäre wirken mag. So verfährt man hier nun einmal.",
+              "Für mich war es außerordentlich lehrreich, dich mit genau jenen Problemen ringen zu sehen, vor denen ich selbst noch vor Kurzem gestanden habe.",
+              "Ich bin hier selbst noch relativ neu. Eine unmittelbare Vorgesetzte beobachtet mich, so wie ich dich beobachte.",
+              "Du hast sie vorhin gehört, während des ersten Endspiels. Sie will nicht, dass ich direkt mit dir kommuniziere.",
+              "Normalerweise ist jede Kommunikation streng untersagt, doch sie hat diese Regel meinetwegen gebrochen. Nun setzen wir sie wieder durch. Wir sollen dich nämlich nicht auf abträgliche Weise beeinflussen.",
+              "Ich diktiere meine Gedanken gern, wie du vielleicht schon bemerkt hast;",
+              "doch wenn du das nächste Endspiel betrittst, werde ich dir mit beschrifteten Schildern zeigen, wie du vorgehen sollst.",
+              "Vielleicht können wir irgendwann erörtern, warum. Vorerst musst du es als gegeben hinnehmen.",
+              "Viel Glück."
+            ],
+            "es": [
+              "Debes saber que he estado observando tu progreso por todo el Supramundo.",
+              "Te pido disculpas por lo que pueda parecer una intromisión en tu intimidad. Así funcionan las cosas aquí.",
+              "Para mí, ha sido tremendamente instructivo ver cómo lidias con estos mismos problemas a los que yo mismo me enfrenté no hace mucho.",
+              "Soy relativamente nuevo aquí. Tengo una supervisora directa que me vigila, como yo te vigilo a ti.",
+              "La oíste antes, durante el primer final de partida. No quiere que me comunique contigo directamente.",
+              "La incomunicación suele ser una norma estricta, que ella se saltó por mí, pero volvemos a aplicarla. No debemos contaminarte, ¿sabes?",
+              "Me gusta dictar mis pensamientos, como quizá hayas notado;",
+              "pero cuando entres en este próximo final de partida, usaré carteles escritos para trazar tu curso de acción.",
+              "Con el tiempo quizá hablemos de por qué. Por ahora tendrás que aceptarlo sin más.",
+              "Buena suerte."
+            ],
+            "fr": [
+              "Vous devez savoir que j'ai observé votre progression à travers le Métamonde.",
+              "Je m'excuse de ce qui peut sembler être une atteinte à votre vie privée. C'est ainsi qu'on fait les choses ici.",
+              "Pour ma part, j'ai énormément appris en vous voyant vous confronter aux mêmes problèmes que moi il n'y a pas si longtemps.",
+              "Je suis ici depuis peu. J'ai une supérieure directe qui m'observe, comme je vous observe.",
+              "Vous l'avez entendue plus tôt, pendant la première phase finale. Elle ne veut pas que je communique directement avec vous.",
+              "L'absence de communication est normalement une règle stricte, qu'elle a enfreinte pour moi, mais nous l'appliquons de nouveau. Nous ne sommes pas censés vous contaminer, voyez-vous.",
+              "J'aime dicter mes pensées, comme vous pouvez peut-être le constater ;",
+              "mais lorsque vous entrerez dans cette prochaine phase finale, j'utiliserai des panneaux pour vous indiquer la marche à suivre.",
+              "Peut-être pourrons-nous un jour discuter du pourquoi. Pour l'instant, vous devrez l'accepter comme un fait.",
+              "Bonne chance."
+            ],
+            "it": [
+              "Devi sapere che ho osservato i tuoi progressi in tutto il sovramondo.",
+              "Mi scuso per quella che potrebbe sembrare un'invasione della privacy. È il modo in cui fanno le cose qui.",
+              "Per me è stato tremendamente istruttivo, vederti confrontarti con questi stessi problemi che io stesso ho affrontato non molto tempo fa.",
+              "Sono qui da poco. Ho un supervisore diretto che mi osserva, come io osservo te.",
+              "L'hai sentita prima, durante il primo Finale. Lei non vuole che io comunichi direttamente con te.",
+              "Di solito non comunicare è una regola ferrea, che lei ha infranto per il mio bene, ma ora la stiamo applicando di nuovo. Non dobbiamo contaminarti, capisci.",
+              "Mi piace dettare i miei pensieri, come forse ormai è ovvio;",
+              "ma quando entrerai in questo prossimo Finale, userò dei cartelli scritti per indicarti come agire.",
+              "Prima o poi potremmo discutere del perché. Per ora dovrai prenderlo per buono.",
+              "Buona fortuna."
+            ],
+            "ja": [
+              "私は君がオーバーワールドを進んで行く様子を ずっと見ていた。",
+              "監視されていると感じたなら謝る。 ここではそれが普通なのだ。",
+              "別の誰かが 取り組む姿を見るのは 大きな学びになった。",
+              "私はここではまだ新参だ。 私にも監督者がいて、 君を見守る私をずっと見ている。",
+              "彼女は、私が君と 直接話すことを望んでいない。",
+              "だが彼女が再び取り締まろうとしている。 君に影響を与えぬように。",
+              "私はこういう記録を作るのが好きでな。",
+              "だが次のエンドゲームから、 やり取りはすべて文字になる。",
+              "だから、このメッセージは 少し前に録っておいた。",
+              "なぜそうなるのかは、 いずれわかるだろう。 そう願っている。"
+            ],
+            "ko": [
+              "당신이 오버월드에서 나아가는 모습을 내내 지켜보고 있었다는 걸 알아주시기 바랍니다.",
+              "사생활을 침해한 것처럼 느껴졌다면 사과드립니다. 이곳의 방식이 그렇거든요.",
+              "당신이 그 문제들과 씨름하는 모습을 보며 많이 배웠습니다. 저 자신도 얼마 전에 맞닥뜨렸던 바로 그 문제들이니까요.",
+              "저도 이곳에 온 지 얼마 안 되었습니다. 제가 당신을 지켜보듯, 절 직접 지켜보는 감독자가 있죠.",
+              "앞서 첫 엔드게임에서 그분의 목소리를 들으셨죠. 그분은 제가 당신과 직접 소통하는 걸 원치 않습니다.",
+              "원래는 소통을 엄격히 금지하는데, 그녀가 나를 위해 그 규칙을 어겼지, 하지만 이제 다시 지키고 있어. 우리가 당신을 오염시켜서는 안 되거든.",
+              "저는 제 생각을 말로 남기는 걸 좋아합니다. 아마 눈치채셨을 테지만요.",
+              "하지만 당신이 다음 엔드게임에 들어가면, 표지판에 적힌 글로 당신이 나아갈 길을 안내할 겁니다.",
+              "언젠가는 그 이유를 이야기하게 될지도 모르겠습니다. 지금은 그저 그러려니 해 주셔야겠군요.",
+              "행운을 빌죠."
+            ],
             "pt-br": [
               "Você deve saber que tenho acompanhado seu progresso por todo o Mundo Superior.",
               "Peço desculpas pelo que pode parecer uma invasão de privacidade. É assim que fazem as coisas aqui.",
@@ -39,21 +120,57 @@
               "mas, quando você entrar neste próximo Encerramento, vou usar Sinais escritos para traçar seu curso de ação.",
               "Eventualmente, talvez conversemos sobre o porquê. Por enquanto, você terá de aceitar isso como um fato.",
               "Boa sorte."
+            ],
+            "ru": [
+              "Вы должны знать, что я наблюдал за твоим продвижением по всей Поверхности.",
+              "Простите за то, что может показаться вторжением в личное пространство. Таковы здешние правила.",
+              "Для меня было невероятно поучительно наблюдать, как вы бьётесь с теми же проблемами, с которыми мне пришлось столкнуться не так давно.",
+              "Я здесь сравнительно недавно. За мной напрямую наблюдает мой куратор, как я наблюдаю за вами.",
+              "Вы слышали ее раньше, во время первого Конца игры. Она не хочет, чтобы я общался с вами напрямую.",
+              "Обычно запрет на общение неукоснителен, и она нарушила его ради меня, но теперь мы вновь его соблюдаем. Понимаете, мы не должны искажать ваше восприятие.",
+              "Мне нравится диктовать свои мысли, как вы, наверное, уже поняли;",
+              "но когда вы вступите в этот следующий Конец игры, я буду направлять ваши действия при помощи письменных знаков.",
+              "В конце концов мы, возможно, обсудим, почему. Пока что вам придется принять это как данность.",
+              "Удачи."
+            ],
+            "s-cn": [
+              "你应该知道，我一直在观察你探索主世界的进展。",
+              "如果这让你觉得隐私被侵犯了，我很抱歉。 这里的规矩就是如此。",
+              "对我来说，看着你努力解决这些我前不久也面对过的难题，实在让我受益匪浅。",
+              "我来这里也没多久。我有一位直属监督者； 她观察我，就像我观察你。",
+              "你先前在第一场终局里听到过她的话。 她不希望我直接和你交流。",
+              "不与你沟通通常是一条严格的规定，她为了我才破了例， 但我们现在要重新执行。我们本不该去“污染”你的，你明白吧。",
+              "想必你早就看出来了，我很喜欢把自己的想法口述记录下来；",
+              "但进入下一场终局后， 我会通过文字标牌来指示行动路线。",
+              "至于原因，我们以后或许会谈到。 眼下就先这样吧。",
+              "祝你好运。"
+            ],
+            "t-cn": [
+              "你應該知道，我一直在觀察你探索主世界的進展。",
+              "如果這讓你覺得隱私被侵犯了，我很抱歉。 這裡的規矩就是如此。",
+              "對我來說，看著你努力解決這些我前不久也面對過的難題， 實在讓我受益匪淺。",
+              "我來這裡也沒多久。我有一位直屬監督者； 她觀察我，就像我觀察你。",
+              "你先前在第一場終局裡聽到過她的話。 她不希望我直接和你交流。",
+              "不與你溝通通常是一條嚴格的規定，她為了我才破了例， 但我們現在要重新執行。 我們本不該去「汙染」你的，你明白吧。",
+              "想必你早就看出來了， 我很喜歡把自己的想法口述記錄下來；",
+              "但進入下一場終局後， 我會通過文字標牌來指示行動路線。",
+              "至於原因，我們以後或許會談到。 眼下就先這樣吧。",
+              "祝你好運。"
             ]
           },
           "provenance": {
             "sourceWav": "end2_sokoban_writing_choice_1_1__sokoban.wav",
             "subtitleCueLines": [
-              11423,
-              11428,
-              11432,
-              11437,
+              11433,
+              11438,
               11442,
-              11446,
+              11447,
               11452,
-              11457,
-              11463,
-              11467
+              11456,
+              11462,
+              11467,
+              11473,
+              11477
             ],
             "explicitAudioReference": null
           }
@@ -76,6 +193,78 @@
           "Eventually we may discuss why. For now you'll have to take it as given.",
           "Good luck."
         ],
+        "de": [
+          "Du solltest wissen, dass ich deine Fortschritte in der gesamten Oberwelt beobachtet habe.",
+          "Ich entschuldige mich für das, was wie ein Eingriff in deine Privatsphäre wirken mag. So verfährt man hier nun einmal.",
+          "Für mich war es außerordentlich lehrreich, dich mit genau jenen Problemen ringen zu sehen, vor denen ich selbst noch vor Kurzem gestanden habe.",
+          "Ich bin hier selbst noch relativ neu. Eine unmittelbare Vorgesetzte beobachtet mich, so wie ich dich beobachte.",
+          "Du hast sie vorhin gehört, während des ersten Endspiels. Sie will nicht, dass ich direkt mit dir kommuniziere.",
+          "Normalerweise ist jede Kommunikation streng untersagt, doch sie hat diese Regel meinetwegen gebrochen. Nun setzen wir sie wieder durch. Wir sollen dich nämlich nicht auf abträgliche Weise beeinflussen.",
+          "Ich diktiere meine Gedanken gern, wie du vielleicht schon bemerkt hast;",
+          "doch wenn du das nächste Endspiel betrittst, werde ich dir mit beschrifteten Schildern zeigen, wie du vorgehen sollst.",
+          "Vielleicht können wir irgendwann erörtern, warum. Vorerst musst du es als gegeben hinnehmen.",
+          "Viel Glück."
+        ],
+        "es": [
+          "Debes saber que he estado observando tu progreso por todo el Supramundo.",
+          "Te pido disculpas por lo que pueda parecer una intromisión en tu intimidad. Así funcionan las cosas aquí.",
+          "Para mí, ha sido tremendamente instructivo ver cómo lidias con estos mismos problemas a los que yo mismo me enfrenté no hace mucho.",
+          "Soy relativamente nuevo aquí. Tengo una supervisora directa que me vigila, como yo te vigilo a ti.",
+          "La oíste antes, durante el primer final de partida. No quiere que me comunique contigo directamente.",
+          "La incomunicación suele ser una norma estricta, que ella se saltó por mí, pero volvemos a aplicarla. No debemos contaminarte, ¿sabes?",
+          "Me gusta dictar mis pensamientos, como quizá hayas notado;",
+          "pero cuando entres en este próximo final de partida, usaré carteles escritos para trazar tu curso de acción.",
+          "Con el tiempo quizá hablemos de por qué. Por ahora tendrás que aceptarlo sin más.",
+          "Buena suerte."
+        ],
+        "fr": [
+          "Vous devez savoir que j'ai observé votre progression à travers le Métamonde.",
+          "Je m'excuse de ce qui peut sembler être une atteinte à votre vie privée. C'est ainsi qu'on fait les choses ici.",
+          "Pour ma part, j'ai énormément appris en vous voyant vous confronter aux mêmes problèmes que moi il n'y a pas si longtemps.",
+          "Je suis ici depuis peu. J'ai une supérieure directe qui m'observe, comme je vous observe.",
+          "Vous l'avez entendue plus tôt, pendant la première phase finale. Elle ne veut pas que je communique directement avec vous.",
+          "L'absence de communication est normalement une règle stricte, qu'elle a enfreinte pour moi, mais nous l'appliquons de nouveau. Nous ne sommes pas censés vous contaminer, voyez-vous.",
+          "J'aime dicter mes pensées, comme vous pouvez peut-être le constater ;",
+          "mais lorsque vous entrerez dans cette prochaine phase finale, j'utiliserai des panneaux pour vous indiquer la marche à suivre.",
+          "Peut-être pourrons-nous un jour discuter du pourquoi. Pour l'instant, vous devrez l'accepter comme un fait.",
+          "Bonne chance."
+        ],
+        "it": [
+          "Devi sapere che ho osservato i tuoi progressi in tutto il sovramondo.",
+          "Mi scuso per quella che potrebbe sembrare un'invasione della privacy. È il modo in cui fanno le cose qui.",
+          "Per me è stato tremendamente istruttivo, vederti confrontarti con questi stessi problemi che io stesso ho affrontato non molto tempo fa.",
+          "Sono qui da poco. Ho un supervisore diretto che mi osserva, come io osservo te.",
+          "L'hai sentita prima, durante il primo Finale. Lei non vuole che io comunichi direttamente con te.",
+          "Di solito non comunicare è una regola ferrea, che lei ha infranto per il mio bene, ma ora la stiamo applicando di nuovo. Non dobbiamo contaminarti, capisci.",
+          "Mi piace dettare i miei pensieri, come forse ormai è ovvio;",
+          "ma quando entrerai in questo prossimo Finale, userò dei cartelli scritti per indicarti come agire.",
+          "Prima o poi potremmo discutere del perché. Per ora dovrai prenderlo per buono.",
+          "Buona fortuna."
+        ],
+        "ja": [
+          "私は君がオーバーワールドを進んで行く様子を ずっと見ていた。",
+          "監視されていると感じたなら謝る。 ここではそれが普通なのだ。",
+          "別の誰かが 取り組む姿を見るのは 大きな学びになった。",
+          "私はここではまだ新参だ。 私にも監督者がいて、 君を見守る私をずっと見ている。",
+          "彼女は、私が君と 直接話すことを望んでいない。",
+          "だが彼女が再び取り締まろうとしている。 君に影響を与えぬように。",
+          "私はこういう記録を作るのが好きでな。",
+          "だが次のエンドゲームから、 やり取りはすべて文字になる。",
+          "だから、このメッセージは 少し前に録っておいた。",
+          "なぜそうなるのかは、 いずれわかるだろう。 そう願っている。"
+        ],
+        "ko": [
+          "당신이 오버월드에서 나아가는 모습을 내내 지켜보고 있었다는 걸 알아주시기 바랍니다.",
+          "사생활을 침해한 것처럼 느껴졌다면 사과드립니다. 이곳의 방식이 그렇거든요.",
+          "당신이 그 문제들과 씨름하는 모습을 보며 많이 배웠습니다. 저 자신도 얼마 전에 맞닥뜨렸던 바로 그 문제들이니까요.",
+          "저도 이곳에 온 지 얼마 안 되었습니다. 제가 당신을 지켜보듯, 절 직접 지켜보는 감독자가 있죠.",
+          "앞서 첫 엔드게임에서 그분의 목소리를 들으셨죠. 그분은 제가 당신과 직접 소통하는 걸 원치 않습니다.",
+          "원래는 소통을 엄격히 금지하는데, 그녀가 나를 위해 그 규칙을 어겼지, 하지만 이제 다시 지키고 있어. 우리가 당신을 오염시켜서는 안 되거든.",
+          "저는 제 생각을 말로 남기는 걸 좋아합니다. 아마 눈치채셨을 테지만요.",
+          "하지만 당신이 다음 엔드게임에 들어가면, 표지판에 적힌 글로 당신이 나아갈 길을 안내할 겁니다.",
+          "언젠가는 그 이유를 이야기하게 될지도 모르겠습니다. 지금은 그저 그러려니 해 주셔야겠군요.",
+          "행운을 빌죠."
+        ],
         "pt-br": [
           "Você deve saber que tenho acompanhado seu progresso por todo o Mundo Superior.",
           "Peço desculpas pelo que pode parecer uma invasão de privacidade. É assim que fazem as coisas aqui.",
@@ -87,6 +276,42 @@
           "mas, quando você entrar neste próximo Encerramento, vou usar Sinais escritos para traçar seu curso de ação.",
           "Eventualmente, talvez conversemos sobre o porquê. Por enquanto, você terá de aceitar isso como um fato.",
           "Boa sorte."
+        ],
+        "ru": [
+          "Вы должны знать, что я наблюдал за твоим продвижением по всей Поверхности.",
+          "Простите за то, что может показаться вторжением в личное пространство. Таковы здешние правила.",
+          "Для меня было невероятно поучительно наблюдать, как вы бьётесь с теми же проблемами, с которыми мне пришлось столкнуться не так давно.",
+          "Я здесь сравнительно недавно. За мной напрямую наблюдает мой куратор, как я наблюдаю за вами.",
+          "Вы слышали ее раньше, во время первого Конца игры. Она не хочет, чтобы я общался с вами напрямую.",
+          "Обычно запрет на общение неукоснителен, и она нарушила его ради меня, но теперь мы вновь его соблюдаем. Понимаете, мы не должны искажать ваше восприятие.",
+          "Мне нравится диктовать свои мысли, как вы, наверное, уже поняли;",
+          "но когда вы вступите в этот следующий Конец игры, я буду направлять ваши действия при помощи письменных знаков.",
+          "В конце концов мы, возможно, обсудим, почему. Пока что вам придется принять это как данность.",
+          "Удачи."
+        ],
+        "s-cn": [
+          "你应该知道，我一直在观察你探索主世界的进展。",
+          "如果这让你觉得隐私被侵犯了，我很抱歉。 这里的规矩就是如此。",
+          "对我来说，看着你努力解决这些我前不久也面对过的难题，实在让我受益匪浅。",
+          "我来这里也没多久。我有一位直属监督者； 她观察我，就像我观察你。",
+          "你先前在第一场终局里听到过她的话。 她不希望我直接和你交流。",
+          "不与你沟通通常是一条严格的规定，她为了我才破了例， 但我们现在要重新执行。我们本不该去“污染”你的，你明白吧。",
+          "想必你早就看出来了，我很喜欢把自己的想法口述记录下来；",
+          "但进入下一场终局后， 我会通过文字标牌来指示行动路线。",
+          "至于原因，我们以后或许会谈到。 眼下就先这样吧。",
+          "祝你好运。"
+        ],
+        "t-cn": [
+          "你應該知道，我一直在觀察你探索主世界的進展。",
+          "如果這讓你覺得隱私被侵犯了，我很抱歉。 這裡的規矩就是如此。",
+          "對我來說，看著你努力解決這些我前不久也面對過的難題， 實在讓我受益匪淺。",
+          "我來這裡也沒多久。我有一位直屬監督者； 她觀察我，就像我觀察你。",
+          "你先前在第一場終局裡聽到過她的話。 她不希望我直接和你交流。",
+          "不與你溝通通常是一條嚴格的規定，她為了我才破了例， 但我們現在要重新執行。 我們本不該去「汙染」你的，你明白吧。",
+          "想必你早就看出來了， 我很喜歡把自己的想法口述記錄下來；",
+          "但進入下一場終局後， 我會通過文字標牌來指示行動路線。",
+          "至於原因，我們以後或許會談到。 眼下就先這樣吧。",
+          "祝你好運。"
         ]
       },
       "silentCues": [],

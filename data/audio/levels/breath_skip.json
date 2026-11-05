@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "So, your best friend is a 'boat'."
             ],
+            "de": [
+              "Dein bester Freund ist also ein „Boot“."
+            ],
+            "es": [
+              "Así que tu mejor amigo es un «barco»."
+            ],
+            "fr": [
+              "Alors comme ça, votre meilleur ami est un bateau."
+            ],
+            "it": [
+              "Allora, il tuo migliore amico è \"una barca\"."
+            ],
+            "ja": [
+              "仲間って船なのか？ どうなってる？"
+            ],
+            "ko": [
+              "그래서, 네 제일 친한 친구가 배라고?"
+            ],
             "pt-br": [
               "Então, seu melhor amigo é um “barco”."
+            ],
+            "ru": [
+              "Так твой лучший друг — это лодка."
+            ],
+            "s-cn": [
+              "这么说，你最好的朋友是条“船”。"
+            ],
+            "t-cn": [
+              "這麼說，你最好的朋友是條「船」。"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_1_1__warrior.wav",
             "subtitleCueLines": [
-              8207
+              8217
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "Really, 'boat' is a casual term. He's a ship capable of crossing great oceans!"
             ],
+            "de": [
+              "Also, „Boot“ sage ich nur so. Eigentlich ist er ein Schiff, das große Ozeane überqueren kann!"
+            ],
+            "es": [
+              "En realidad, «barco» es un término informal. ¡Es un navío capaz de cruzar grandes océanos!"
+            ],
+            "fr": [
+              "Le terme « bateau » ne lui fait pas honneur : c'est un navire capable de traverser des océans !"
+            ],
+            "it": [
+              "In realtà, \"barca\" è un termine generico. Lui è una nave capace di attraversare grandi oceani!"
+            ],
+            "ja": [
+              "大海原を渡れる 立派な船さ！"
+            ],
+            "ko": [
+              "음, 그냥 작은 배가 아니라, 큰 바다를 건널 수 있는 배야!"
+            ],
             "pt-br": [
-              "Na verdade, \"barco\" é um termo informal. Ele é um navio capaz de cruzar grandes oceanos!"
+              "Na verdade, “barco” é um termo informal. Ele é um navio capaz de cruzar grandes oceanos!"
+            ],
+            "ru": [
+              "Вообще-то «лодка» — это так, разговорное название. Он корабль, способный пересекать огромные океаны!"
+            ],
+            "s-cn": [
+              "说真的，“船”这词太过随意了。他可是能横渡大洋的大船！"
+            ],
+            "t-cn": [
+              "說真的，「船」這詞太過隨意了。 他可是能橫渡大洋的大船！"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_1_2__sailor.wav",
             "subtitleCueLines": [
-              8210
+              8220
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "But person-sized."
             ],
+            "de": [
+              "Aber nur menschengroß."
+            ],
+            "es": [
+              "Pero solo para una persona."
+            ],
+            "fr": [
+              "Mais à taille humaine."
+            ],
+            "it": [
+              "Ma a grandezza umana."
+            ],
+            "ja": [
+              "人と同じ大きさだが。"
+            ],
+            "ko": [
+              "하지만 사람 크기잖아."
+            ],
             "pt-br": [
               "Mas do tamanho de uma pessoa."
+            ],
+            "ru": [
+              "Но размером с человека."
+            ],
+            "s-cn": [
+              "可也就一人大小。"
+            ],
+            "t-cn": [
+              "可也就一人大小。"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_1_3__warrior.wav",
             "subtitleCueLines": [
-              8214
+              8224
             ],
             "explicitAudioReference": null
           }
@@ -91,18 +181,63 @@
               "Certainly you'd never try to fit more people than that.",
               "Except that one time..."
             ],
+            "de": [
+              "Na ja. Groß genug für mich. Und die überaus wichtige Fracht. Und bei Bedarf noch für ein paar Passagiere, für ein, zwei Tage.",
+              "Da würde man natürlich niemals versuchen, noch mehr Leute reinzuquetschen.",
+              "Bis auf das eine Mal ..."
+            ],
+            "es": [
+              "Sí, tiene el tamaño adecuado para mí. Y para la carga más importante. Y, cuando hace falta, para unos cuantos pasajeros más durante un día o dos.",
+              "Desde luego, a nadie se le ocurriría meter a más gente.",
+              "Salvo aquella vez..."
+            ],
+            "fr": [
+              "Enfin. À ma taille à moi. Plus notre précieuse cargaison. Et, si nécessaire, quelques éventuels passagers pour un jour ou deux.",
+              "Bien sûr, personne n'essaierait d'y faire rentrer plus de monde que ça.",
+              "Sauf cette fois-là..."
+            ],
+            "it": [
+              "Beh. Una grandezza adatta a me. E del carico, importantissimo. E, se necessario, di qualche passeggero in più per un giorno o due.",
+              "Di certo non proveresti mai a farci stare altra gente.",
+              "Tranne quella volta..."
+            ],
+            "ja": [
+              "あたしと貨物を 載せるには十分。",
+              "もちろん、それ以上の人数を 乗せようなんて思わないよ。",
+              "まあ、一度だけ例外はあったけど…"
+            ],
+            "ko": [
+              "그래, 내 크기에 맞춰진 거지. 그리고 가장 중요한 화물도. 필요하면 승객 몇 명쯤은 더 태울 수도 있고. 하루 이틀 정도는.",
+              "당연히 그보다 많은 사람을 태울 생각은 절대 안 하지.",
+              "그때 한 번만 빼고..."
+            ],
             "pt-br": [
               "Bem, do meu tamanho. E a carga tão importante. E, quando necessário, mais alguns passageiros por um ou dois dias.",
               "Com certeza você nunca tentaria colocar mais gente do que isso.",
               "Tirando aquela vez..."
+            ],
+            "ru": [
+              "Да, подходящего для меня размера. И для очень важного груза. И, когда нужно, ещё для нескольких пассажиров на день-два.",
+              "Разумеется, никто бы и не пытался втиснуть в него больше людей.",
+              "Кроме того случая..."
+            ],
+            "s-cn": [
+              "嗯，尺寸正适合我，还能装下那件至关重要的货物。 有需要的话，还能多载几个人，待上一两天。",
+              "当然，谁也不会想往里塞更多人。",
+              "除了那一回……"
+            ],
+            "t-cn": [
+              "嗯，尺寸正適合我，還能裝下那件至關重要的貨物。 有需要的話，還能多載幾個人，待上一兩天。",
+              "當然，誰也不會想往裡塞更多人。",
+              "除了那一回……"
             ]
           },
           "provenance": {
             "sourceWav": "hs_warrior_sailor_1_4__sailor.wav",
             "subtitleCueLines": [
-              8217,
-              8222,
-              8226
+              8227,
+              8232,
+              8236
             ],
             "explicitAudioReference": null
           }
@@ -121,13 +256,85 @@
           "Certainly you'd never try to fit more people than that.",
           "Except that one time..."
         ],
+        "de": [
+          "Dein bester Freund ist also ein „Boot“.",
+          "Also, „Boot“ sage ich nur so. Eigentlich ist er ein Schiff, das große Ozeane überqueren kann!",
+          "Aber nur menschengroß.",
+          "Na ja. Groß genug für mich. Und die überaus wichtige Fracht. Und bei Bedarf noch für ein paar Passagiere, für ein, zwei Tage.",
+          "Da würde man natürlich niemals versuchen, noch mehr Leute reinzuquetschen.",
+          "Bis auf das eine Mal ..."
+        ],
+        "es": [
+          "Así que tu mejor amigo es un «barco».",
+          "En realidad, «barco» es un término informal. ¡Es un navío capaz de cruzar grandes océanos!",
+          "Pero solo para una persona.",
+          "Sí, tiene el tamaño adecuado para mí. Y para la carga más importante. Y, cuando hace falta, para unos cuantos pasajeros más durante un día o dos.",
+          "Desde luego, a nadie se le ocurriría meter a más gente.",
+          "Salvo aquella vez..."
+        ],
+        "fr": [
+          "Alors comme ça, votre meilleur ami est un bateau.",
+          "Le terme « bateau » ne lui fait pas honneur : c'est un navire capable de traverser des océans !",
+          "Mais à taille humaine.",
+          "Enfin. À ma taille à moi. Plus notre précieuse cargaison. Et, si nécessaire, quelques éventuels passagers pour un jour ou deux.",
+          "Bien sûr, personne n'essaierait d'y faire rentrer plus de monde que ça.",
+          "Sauf cette fois-là..."
+        ],
+        "it": [
+          "Allora, il tuo migliore amico è \"una barca\".",
+          "In realtà, \"barca\" è un termine generico. Lui è una nave capace di attraversare grandi oceani!",
+          "Ma a grandezza umana.",
+          "Beh. Una grandezza adatta a me. E del carico, importantissimo. E, se necessario, di qualche passeggero in più per un giorno o due.",
+          "Di certo non proveresti mai a farci stare altra gente.",
+          "Tranne quella volta..."
+        ],
+        "ja": [
+          "仲間って船なのか？ どうなってる？",
+          "大海原を渡れる 立派な船さ！",
+          "人と同じ大きさだが。",
+          "あたしと貨物を 載せるには十分。",
+          "もちろん、それ以上の人数を 乗せようなんて思わないよ。",
+          "まあ、一度だけ例外はあったけど…"
+        ],
+        "ko": [
+          "그래서, 네 제일 친한 친구가 배라고?",
+          "음, 그냥 작은 배가 아니라, 큰 바다를 건널 수 있는 배야!",
+          "하지만 사람 크기잖아.",
+          "그래, 내 크기에 맞춰진 거지. 그리고 가장 중요한 화물도. 필요하면 승객 몇 명쯤은 더 태울 수도 있고. 하루 이틀 정도는.",
+          "당연히 그보다 많은 사람을 태울 생각은 절대 안 하지.",
+          "그때 한 번만 빼고..."
+        ],
         "pt-br": [
           "Então, seu melhor amigo é um “barco”.",
-          "Na verdade, \"barco\" é um termo informal. Ele é um navio capaz de cruzar grandes oceanos!",
+          "Na verdade, “barco” é um termo informal. Ele é um navio capaz de cruzar grandes oceanos!",
           "Mas do tamanho de uma pessoa.",
           "Bem, do meu tamanho. E a carga tão importante. E, quando necessário, mais alguns passageiros por um ou dois dias.",
           "Com certeza você nunca tentaria colocar mais gente do que isso.",
           "Tirando aquela vez..."
+        ],
+        "ru": [
+          "Так твой лучший друг — это лодка.",
+          "Вообще-то «лодка» — это так, разговорное название. Он корабль, способный пересекать огромные океаны!",
+          "Но размером с человека.",
+          "Да, подходящего для меня размера. И для очень важного груза. И, когда нужно, ещё для нескольких пассажиров на день-два.",
+          "Разумеется, никто бы и не пытался втиснуть в него больше людей.",
+          "Кроме того случая..."
+        ],
+        "s-cn": [
+          "这么说，你最好的朋友是条“船”。",
+          "说真的，“船”这词太过随意了。他可是能横渡大洋的大船！",
+          "可也就一人大小。",
+          "嗯，尺寸正适合我，还能装下那件至关重要的货物。 有需要的话，还能多载几个人，待上一两天。",
+          "当然，谁也不会想往里塞更多人。",
+          "除了那一回……"
+        ],
+        "t-cn": [
+          "這麼說，你最好的朋友是條「船」。",
+          "說真的，「船」這詞太過隨意了。 他可是能橫渡大洋的大船！",
+          "可也就一人大小。",
+          "嗯，尺寸正適合我，還能裝下那件至關重要的貨物。 有需要的話，還能多載幾個人，待上一兩天。",
+          "當然，誰也不會想往裡塞更多人。",
+          "除了那一回……"
         ]
       },
       "silentCues": [],
@@ -149,7 +356,7 @@
             "source": "data-common/breath_skip.entities"
           }
         ],
-        "subtitleLine": 8206,
+        "subtitleLine": 8216,
         "subtitleHeader": "::"
       }
     }

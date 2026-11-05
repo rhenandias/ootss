@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_u_decay_5",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -26,6 +35,66 @@
               "All that happens is, when you burn things, your personal ignorance goes up.",
               "The apparent distance between you and God grows."
             ],
+            "de": [
+              "Manche meinen, wir sollten unsere älteren Lagerhäuser zerstören, um Platz für neue Schöpfungen zu schaffen.",
+              "Schon die bloße Vorstellung ist mir zuwider! Und außerdem glaube ich nicht, dass es funktionieren würde.",
+              "Selbst wenn wir hier alles denaturieren würden, bis nichts als Asche bliebe ...",
+              "nun, es ist ja so: Wir Menschen sehen unzählige Staubkörnchen und halten sie für austauschbar,",
+              "doch Gott kennt die Geschichte und den individuellen Charakter jedes einzelnen Körnchens.",
+              "Die Informationsmenge nimmt niemals ab.",
+              "Wenn du Dinge verbrennst, wächst lediglich deine eigene Unwissenheit.",
+              "Der scheinbare Abstand zwischen dir und Gott wächst."
+            ],
+            "es": [
+              "Algunos dicen que deberíamos destruir nuestros almacenes más antiguos para dejar sitio a nuevas creaciones.",
+              "¡La sola idea me resulta desagradable! Y además, no creo que funcionara.",
+              "Incluso aunque desnaturalizáramos todo esto hasta reducirlo a cenizas...",
+              "bueno, el caso es que innumerables motas de polvo nos parecen intercambiables a los humanos,",
+              "pero Dios conoce la historia y el carácter personal de cada una de ellas.",
+              "La cantidad de información nunca disminuye.",
+              "Lo único que pasa es que, cuando quemas cosas, tu propia ignorancia aumenta.",
+              "La distancia aparente entre tú y Dios crece."
+            ],
+            "fr": [
+              "Certains disent qu'il faudrait détruire nos anciens entrepôts pour faire de la place à de nouvelles créations.",
+              "L'idée même me répugne ! Et puis, je ne pense pas que ça marcherait.",
+              "Même si nous dénaturions tout ici, jusqu'à tout réduire en cendres...",
+              "eh bien, il se trouve que d'innombrables grains de poussière nous paraissent interchangeables, à nous les humains,",
+              "mais Dieu connaît l'histoire et la personnalité de chacun d'entre eux.",
+              "La quantité d'information ne baisse jamais.",
+              "Tout ce qui se passe, quand vous brûlez des choses, c'est que votre ignorance personnelle augmente.",
+              "La distance apparente entre vous et Dieu grandit."
+            ],
+            "it": [
+              "Alcuni dicono che dovremmo distruggere i nostri depositi più vecchi per far posto a nuove creazioni.",
+              "Trovo ripugnante l'idea stessa! E poi, non credo che funzionerebbe.",
+              "Anche se denaturassimo tutto qui, fino alla cenere...",
+              "beh, è vero che innumerevoli granelli di polvere sembrano intercambiabili a noi esseri umani,",
+              "ma Dio conosce la storia e il carattere personale di ognuno e di ciascuno.",
+              "La quantità di informazioni non diminuisce mai.",
+              "Tutto quello che succede è che, quando bruci le cose, la tua ignoranza personale aumenta.",
+              "La distanza apparentetra te e Dio cresce."
+            ],
+            "ja": [
+              "古い創造物を破壊し、 新しい倉庫のための場所を 確保すべきだという者もいる。",
+              "私に言わせてみれば、不愉快極まりない！ 大体、そんなことをしても 解決にはならないと思うんだ。",
+              "ここにあるものをすべて、 灰になるまで焼き尽くしたとしても…",
+              "私たち人間には、無数の小さな塵など 見分けすらつかないだろう。",
+              "だが、神はひとつひとつが どんな歴史を持ち、どんな固有の性質を 持っているのかを知っておられる。",
+              "情報の総量が減ることはないんだよ。",
+              "何かを焼いてしまえば、 私たちの無知が増えるだけ。",
+              "そして自分と神との距離が またひとつ広がるということだ。"
+            ],
+            "ko": [
+              "어떤 이들은 오래된 창고들을 파괴해서 새로운 창조물들을 위한 자리를 마련하자고 해.",
+              "참으로 불쾌한 발상이지! 게다가 그게 먹힐 것 같지도 않아.",
+              "설령 여기 있는 모든 걸 변성시켜 재로 만든다 해도...",
+              "그러니까, 수많은 먼지 조각은 우리 인간 눈엔 다 똑같아 보이겠지만",
+              "신은 그 하나하나의 역사와 고유한 특성까지 다 알고 계시지.",
+              "정보의 총량은 절대 줄지 않아.",
+              "무언가를 태워 없앤다고 해도 네가 모르는 게 늘어날 뿐이야.",
+              "너와 신 사이의 겉보기 거리가 더 멀어질 뿐이지."
+            ],
             "pt-br": [
               "Alguns dizem que devemos destruir nossos Armazéns mais antigos para abrir espaço para novas criações.",
               "Acho a própria ideia desagradável! E além disso, acho que não funcionaria.",
@@ -35,19 +104,49 @@
               "A quantidade de informação nunca diminui.",
               "Tudo o que acontece é que, quando você queima coisas, a sua ignorância pessoal aumenta.",
               "A distância aparente entre você e Deus cresce."
+            ],
+            "ru": [
+              "Кое-кто говорит, что нужно уничтожить старые склады, чтобы освободить место для новых творений.",
+              "Сама эта идея мне отвратительна! И к тому же, не думаю, что это сработает.",
+              "Даже если мы уничтожим всё здесь в пепел...",
+              "что ж, дело в том, что бесчисленные пылинки кажутся нам, людям, взаимозаменяемыми,",
+              "но Бог знает историю и личный характер каждой без исключения.",
+              "Количество информации никогда не уменьшается.",
+              "А происходит лишь следующее: когда вы сжигаете что-то, возрастает ваше неведение.",
+              "Очевидное расстояние между вами и Богом растёт."
+            ],
+            "s-cn": [
+              "有人主张摧毁我们的旧仓库，给新造物腾出空间。",
+              "我觉得这个主意本身就令人反感！而且，我也不觉得那样管用。",
+              "即便我们把这里的一切都毁得只剩灰烬……",
+              "嗯，对我们人类来说，无数尘埃看上去彼此毫无区别，",
+              "可神灵知道每一粒的来历，也知道它们各自的性情。",
+              "信息总量永远不会减少。",
+              "焚毁事物，唯一增加的只是你自己的无知。",
+              "结果，你只会觉得自己离神灵越来越远。"
+            ],
+            "t-cn": [
+              "有人主張摧毀我們的舊倉庫，給新造物騰出空間。",
+              "我覺得這個主意本身就令人反感！ 而且，我也不覺得那樣管用。",
+              "即便我們把這裡的一切都毀得只剩灰燼……",
+              "嗯，對我們人類來說，無數塵埃看上去彼此毫無區別，",
+              "可神靈知道每一粒的來歷，也知道它們各自的性情。",
+              "信息總量永遠不會減少。",
+              "焚毀事物，唯一增加的只是你自己的無知。",
+              "結果，你只會覺得自己離神靈越來越遠。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_decay_5_1__director.wav",
             "subtitleCueLines": [
-              12665,
-              12669,
-              12673,
-              12677,
-              12682,
+              12675,
+              12679,
+              12683,
               12687,
-              12690,
-              12694
+              12692,
+              12697,
+              12700,
+              12704
             ],
             "explicitAudioReference": null
           }
@@ -68,6 +167,66 @@
           "All that happens is, when you burn things, your personal ignorance goes up.",
           "The apparent distance between you and God grows."
         ],
+        "de": [
+          "Manche meinen, wir sollten unsere älteren Lagerhäuser zerstören, um Platz für neue Schöpfungen zu schaffen.",
+          "Schon die bloße Vorstellung ist mir zuwider! Und außerdem glaube ich nicht, dass es funktionieren würde.",
+          "Selbst wenn wir hier alles denaturieren würden, bis nichts als Asche bliebe ...",
+          "nun, es ist ja so: Wir Menschen sehen unzählige Staubkörnchen und halten sie für austauschbar,",
+          "doch Gott kennt die Geschichte und den individuellen Charakter jedes einzelnen Körnchens.",
+          "Die Informationsmenge nimmt niemals ab.",
+          "Wenn du Dinge verbrennst, wächst lediglich deine eigene Unwissenheit.",
+          "Der scheinbare Abstand zwischen dir und Gott wächst."
+        ],
+        "es": [
+          "Algunos dicen que deberíamos destruir nuestros almacenes más antiguos para dejar sitio a nuevas creaciones.",
+          "¡La sola idea me resulta desagradable! Y además, no creo que funcionara.",
+          "Incluso aunque desnaturalizáramos todo esto hasta reducirlo a cenizas...",
+          "bueno, el caso es que innumerables motas de polvo nos parecen intercambiables a los humanos,",
+          "pero Dios conoce la historia y el carácter personal de cada una de ellas.",
+          "La cantidad de información nunca disminuye.",
+          "Lo único que pasa es que, cuando quemas cosas, tu propia ignorancia aumenta.",
+          "La distancia aparente entre tú y Dios crece."
+        ],
+        "fr": [
+          "Certains disent qu'il faudrait détruire nos anciens entrepôts pour faire de la place à de nouvelles créations.",
+          "L'idée même me répugne ! Et puis, je ne pense pas que ça marcherait.",
+          "Même si nous dénaturions tout ici, jusqu'à tout réduire en cendres...",
+          "eh bien, il se trouve que d'innombrables grains de poussière nous paraissent interchangeables, à nous les humains,",
+          "mais Dieu connaît l'histoire et la personnalité de chacun d'entre eux.",
+          "La quantité d'information ne baisse jamais.",
+          "Tout ce qui se passe, quand vous brûlez des choses, c'est que votre ignorance personnelle augmente.",
+          "La distance apparente entre vous et Dieu grandit."
+        ],
+        "it": [
+          "Alcuni dicono che dovremmo distruggere i nostri depositi più vecchi per far posto a nuove creazioni.",
+          "Trovo ripugnante l'idea stessa! E poi, non credo che funzionerebbe.",
+          "Anche se denaturassimo tutto qui, fino alla cenere...",
+          "beh, è vero che innumerevoli granelli di polvere sembrano intercambiabili a noi esseri umani,",
+          "ma Dio conosce la storia e il carattere personale di ognuno e di ciascuno.",
+          "La quantità di informazioni non diminuisce mai.",
+          "Tutto quello che succede è che, quando bruci le cose, la tua ignoranza personale aumenta.",
+          "La distanza apparentetra te e Dio cresce."
+        ],
+        "ja": [
+          "古い創造物を破壊し、 新しい倉庫のための場所を 確保すべきだという者もいる。",
+          "私に言わせてみれば、不愉快極まりない！ 大体、そんなことをしても 解決にはならないと思うんだ。",
+          "ここにあるものをすべて、 灰になるまで焼き尽くしたとしても…",
+          "私たち人間には、無数の小さな塵など 見分けすらつかないだろう。",
+          "だが、神はひとつひとつが どんな歴史を持ち、どんな固有の性質を 持っているのかを知っておられる。",
+          "情報の総量が減ることはないんだよ。",
+          "何かを焼いてしまえば、 私たちの無知が増えるだけ。",
+          "そして自分と神との距離が またひとつ広がるということだ。"
+        ],
+        "ko": [
+          "어떤 이들은 오래된 창고들을 파괴해서 새로운 창조물들을 위한 자리를 마련하자고 해.",
+          "참으로 불쾌한 발상이지! 게다가 그게 먹힐 것 같지도 않아.",
+          "설령 여기 있는 모든 걸 변성시켜 재로 만든다 해도...",
+          "그러니까, 수많은 먼지 조각은 우리 인간 눈엔 다 똑같아 보이겠지만",
+          "신은 그 하나하나의 역사와 고유한 특성까지 다 알고 계시지.",
+          "정보의 총량은 절대 줄지 않아.",
+          "무언가를 태워 없앤다고 해도 네가 모르는 게 늘어날 뿐이야.",
+          "너와 신 사이의 겉보기 거리가 더 멀어질 뿐이지."
+        ],
         "pt-br": [
           "Alguns dizem que devemos destruir nossos Armazéns mais antigos para abrir espaço para novas criações.",
           "Acho a própria ideia desagradável! E além disso, acho que não funcionaria.",
@@ -77,6 +236,36 @@
           "A quantidade de informação nunca diminui.",
           "Tudo o que acontece é que, quando você queima coisas, a sua ignorância pessoal aumenta.",
           "A distância aparente entre você e Deus cresce."
+        ],
+        "ru": [
+          "Кое-кто говорит, что нужно уничтожить старые склады, чтобы освободить место для новых творений.",
+          "Сама эта идея мне отвратительна! И к тому же, не думаю, что это сработает.",
+          "Даже если мы уничтожим всё здесь в пепел...",
+          "что ж, дело в том, что бесчисленные пылинки кажутся нам, людям, взаимозаменяемыми,",
+          "но Бог знает историю и личный характер каждой без исключения.",
+          "Количество информации никогда не уменьшается.",
+          "А происходит лишь следующее: когда вы сжигаете что-то, возрастает ваше неведение.",
+          "Очевидное расстояние между вами и Богом растёт."
+        ],
+        "s-cn": [
+          "有人主张摧毁我们的旧仓库，给新造物腾出空间。",
+          "我觉得这个主意本身就令人反感！而且，我也不觉得那样管用。",
+          "即便我们把这里的一切都毁得只剩灰烬……",
+          "嗯，对我们人类来说，无数尘埃看上去彼此毫无区别，",
+          "可神灵知道每一粒的来历，也知道它们各自的性情。",
+          "信息总量永远不会减少。",
+          "焚毁事物，唯一增加的只是你自己的无知。",
+          "结果，你只会觉得自己离神灵越来越远。"
+        ],
+        "t-cn": [
+          "有人主張摧毀我們的舊倉庫，給新造物騰出空間。",
+          "我覺得這個主意本身就令人反感！ 而且，我也不覺得那樣管用。",
+          "即便我們把這裡的一切都毀得只剩灰燼……",
+          "嗯，對我們人類來說，無數塵埃看上去彼此毫無區別，",
+          "可神靈知道每一粒的來歷，也知道它們各自的性情。",
+          "信息總量永遠不會減少。",
+          "焚毀事物，唯一增加的只是你自己的無知。",
+          "結果，你只會覺得自己離神靈越來越遠。"
         ]
       },
       "silentCues": [],

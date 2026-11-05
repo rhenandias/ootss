@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,16 +33,52 @@
               "Reminds me of that small town where I first arrived on my visit to the West.",
               "What was it called, again?"
             ],
+            "de": [
+              "Erinnert mich an die kleine Stadt, die damals meine erste Station war, als ich den Westen besucht habe.",
+              "Wie war noch gleich ihr Name?"
+            ],
+            "es": [
+              "Me recuerda a aquel pueblecito al que llegué al principio de mi visita al oeste.",
+              "¿Cómo se llamaba, a ver?"
+            ],
+            "fr": [
+              "Ça me rappelle cette petite ville où je suis arrivé au début de mon voyage dans l'ouest.",
+              "Comment s'appelait-elle déjà ?"
+            ],
+            "it": [
+              "Mi ricorda quella cittadina in cui approdai all'inizio del mio viaggio verso ovest.",
+              "Come è che si chiamava?"
+            ],
+            "ja": [
+              "初めて西を訪れた時の町を 思い出すわ。 何て名前だったっけ？",
+              "名前、何だったっけ？"
+            ],
+            "ko": [
+              "서쪽을 처음 방문했을 때 도착했던 작은 마을이 떠올라.",
+              "이름이 뭐였더라?"
+            ],
             "pt-br": [
               "Me lembra daquela cidadezinha onde cheguei primeiro quando visitei o oeste.",
               "Como era o nome mesmo?"
+            ],
+            "ru": [
+              "Напоминает мне городок, куда я попала, когда впервые приехала на запад.",
+              "Как же он назывался?"
+            ],
+            "s-cn": [
+              "这让我想起那座小镇，我第一次去西部时，最先抵达的就是那里。",
+              "它叫什么来着？"
+            ],
+            "t-cn": [
+              "這讓我想起那座小鎮，我第一次去西部時， 最先抵達的就是那裡。",
+              "它叫什麼來著？"
             ]
           },
           "provenance": {
             "sourceWav": "hp_bard_town_1__bard.wav",
             "subtitleCueLines": [
-              7771,
-              7776
+              7781,
+              7786
             ],
             "explicitAudioReference": null
           }
@@ -48,9 +93,45 @@
           "Reminds me of that small town where I first arrived on my visit to the West.",
           "What was it called, again?"
         ],
+        "de": [
+          "Erinnert mich an die kleine Stadt, die damals meine erste Station war, als ich den Westen besucht habe.",
+          "Wie war noch gleich ihr Name?"
+        ],
+        "es": [
+          "Me recuerda a aquel pueblecito al que llegué al principio de mi visita al oeste.",
+          "¿Cómo se llamaba, a ver?"
+        ],
+        "fr": [
+          "Ça me rappelle cette petite ville où je suis arrivé au début de mon voyage dans l'ouest.",
+          "Comment s'appelait-elle déjà ?"
+        ],
+        "it": [
+          "Mi ricorda quella cittadina in cui approdai all'inizio del mio viaggio verso ovest.",
+          "Come è che si chiamava?"
+        ],
+        "ja": [
+          "初めて西を訪れた時の町を 思い出すわ。 何て名前だったっけ？",
+          "名前、何だったっけ？"
+        ],
+        "ko": [
+          "서쪽을 처음 방문했을 때 도착했던 작은 마을이 떠올라.",
+          "이름이 뭐였더라?"
+        ],
         "pt-br": [
           "Me lembra daquela cidadezinha onde cheguei primeiro quando visitei o oeste.",
           "Como era o nome mesmo?"
+        ],
+        "ru": [
+          "Напоминает мне городок, куда я попала, когда впервые приехала на запад.",
+          "Как же он назывался?"
+        ],
+        "s-cn": [
+          "这让我想起那座小镇，我第一次去西部时，最先抵达的就是那里。",
+          "它叫什么来着？"
+        ],
+        "t-cn": [
+          "這讓我想起那座小鎮，我第一次去西部時， 最先抵達的就是那裡。",
+          "它叫什麼來著？"
         ]
       },
       "silentCues": [],
@@ -72,7 +153,7 @@
             "source": "data-common/double_tempo.entities"
           }
         ],
-        "subtitleLine": 7770,
+        "subtitleLine": 7780,
         "subtitleHeader": "::"
       }
     },
@@ -89,14 +170,41 @@
             "en": [
               "The memories drift like finest granules of dust through the air..."
             ],
+            "de": [
+              "Die Erinnerungen treiben wie feinste Staubkörner durch die Luft ..."
+            ],
+            "es": [
+              "Los recuerdos flotan como finísimos granos de polvo por el aire..."
+            ],
+            "fr": [
+              "Les souvenirs dérivent comme de très fins grains de poussière en suspension..."
+            ],
+            "it": [
+              "I ricordi fluttuano come finissimi granelli di polvere nell'aria..."
+            ],
+            "ja": [
+              "ルーシス・バイ・サブカ。 記憶が塵みたいに流れてく…"
+            ],
+            "ko": [
+              "기억이 아주 고운 먼지 입자처럼 공기 중에 흩날리는군..."
+            ],
             "pt-br": [
               "As memórias se espalham como finíssimos grãos de poeira pelo ar..."
+            ],
+            "ru": [
+              "Воспоминания плывут, как мельчайшие пылинки в воздухе..."
+            ],
+            "s-cn": [
+              "记忆如最细的尘埃颗粒， 在空气中飘散……"
+            ],
+            "t-cn": [
+              "記憶如最細的塵埃顆粒， 在空氣中飄散……"
             ]
           },
           "provenance": {
             "sourceWav": "hp_bard_town_mid_1__bard.wav",
             "subtitleCueLines": [
-              7783
+              7793
             ],
             "explicitAudioReference": null
           }
@@ -110,8 +218,35 @@
         "en": [
           "The memories drift like finest granules of dust through the air..."
         ],
+        "de": [
+          "Die Erinnerungen treiben wie feinste Staubkörner durch die Luft ..."
+        ],
+        "es": [
+          "Los recuerdos flotan como finísimos granos de polvo por el aire..."
+        ],
+        "fr": [
+          "Les souvenirs dérivent comme de très fins grains de poussière en suspension..."
+        ],
+        "it": [
+          "I ricordi fluttuano come finissimi granelli di polvere nell'aria..."
+        ],
+        "ja": [
+          "ルーシス・バイ・サブカ。 記憶が塵みたいに流れてく…"
+        ],
+        "ko": [
+          "기억이 아주 고운 먼지 입자처럼 공기 중에 흩날리는군..."
+        ],
         "pt-br": [
           "As memórias se espalham como finíssimos grãos de poeira pelo ar..."
+        ],
+        "ru": [
+          "Воспоминания плывут, как мельчайшие пылинки в воздухе..."
+        ],
+        "s-cn": [
+          "记忆如最细的尘埃颗粒， 在空气中飘散……"
+        ],
+        "t-cn": [
+          "記憶如最細的塵埃顆粒， 在空氣中飄散……"
         ]
       },
       "silentCues": [],
@@ -133,7 +268,7 @@
             "source": "data-common/double_tempo.entities"
           }
         ],
-        "subtitleLine": 7782,
+        "subtitleLine": 7792,
         "subtitleHeader": "::"
       }
     },
@@ -151,16 +286,52 @@
               "Those three years in the West were such a happy time.",
               "I was just learning to be an adult, to interact with all these strangers. How to make my way."
             ],
+            "de": [
+              "Diese drei Jahre im Westen waren eine so glückliche Zeit.",
+              "Damals musste ich erst lernen, erwachsen zu sein, mit all den fremden Menschen umzugehen und meinen eigenen Weg zu finden."
+            ],
+            "es": [
+              "Esos tres años en el Oeste fueron un tiempo tan feliz.",
+              "Estaba aprendiendo a ser adulta, a tratar con todos esos desconocidos, a buscarme la vida."
+            ],
+            "fr": [
+              "Ces trois années dans l'Ouest ont été une période si heureuse.",
+              "J'apprenais juste à être adulte, à interagir avec tous ces inconnus, à me faire ma place."
+            ],
+            "it": [
+              "Quei tre anni in occidente furono un periodo così felice.",
+              "Stavo appena imparando a essere adulto, a interagire con tutti questi sconosciuti. A trovare la mia strada."
+            ],
+            "ja": [
+              "西の地で過ごした3年間は 楽しかったわ。",
+              "大人になって、 知らない人と話せるようになって、 生きる方法を学んで…"
+            ],
+            "ko": [
+              "서쪽에서 보낸 그 3년은 정말 행복한 시간이었어.",
+              "난 막 어른이 되는 법을 배우고 있었지. 낯선 사람들과 어떻게 지내는지, 어떻게 살아가야 하는지에 대해서."
+            ],
             "pt-br": [
               "Aqueles três anos no oeste foram um tempo tão feliz.",
               "Eu estava aprendendo a ser adulta, a lidar com todos aqueles estranhos. A me virar."
+            ],
+            "ru": [
+              "Эти три года на Западе были таким счастливым временем.",
+              "Я только училась быть взрослой, общаться со всеми этими незнакомцами, прокладывать себе путь."
+            ],
+            "s-cn": [
+              "在西部的那三年，真是段快乐时光。",
+              "那时我才开始学着做个大人，学着和形形色色的陌生人打交道， 学着靠自己闯出一条路。"
+            ],
+            "t-cn": [
+              "在西部的那三年，真是段快樂時光。",
+              "那時我才開始學著做個大人， 學著和形形色色的陌生人打交道， 學著靠自己闖出一條路。"
             ]
           },
           "provenance": {
             "sourceWav": "hp_bard_town_mid2_1__bard.wav",
             "subtitleCueLines": [
-              7791,
-              7795
+              7801,
+              7805
             ],
             "explicitAudioReference": null
           }
@@ -175,9 +346,45 @@
           "Those three years in the West were such a happy time.",
           "I was just learning to be an adult, to interact with all these strangers. How to make my way."
         ],
+        "de": [
+          "Diese drei Jahre im Westen waren eine so glückliche Zeit.",
+          "Damals musste ich erst lernen, erwachsen zu sein, mit all den fremden Menschen umzugehen und meinen eigenen Weg zu finden."
+        ],
+        "es": [
+          "Esos tres años en el Oeste fueron un tiempo tan feliz.",
+          "Estaba aprendiendo a ser adulta, a tratar con todos esos desconocidos, a buscarme la vida."
+        ],
+        "fr": [
+          "Ces trois années dans l'Ouest ont été une période si heureuse.",
+          "J'apprenais juste à être adulte, à interagir avec tous ces inconnus, à me faire ma place."
+        ],
+        "it": [
+          "Quei tre anni in occidente furono un periodo così felice.",
+          "Stavo appena imparando a essere adulto, a interagire con tutti questi sconosciuti. A trovare la mia strada."
+        ],
+        "ja": [
+          "西の地で過ごした3年間は 楽しかったわ。",
+          "大人になって、 知らない人と話せるようになって、 生きる方法を学んで…"
+        ],
+        "ko": [
+          "서쪽에서 보낸 그 3년은 정말 행복한 시간이었어.",
+          "난 막 어른이 되는 법을 배우고 있었지. 낯선 사람들과 어떻게 지내는지, 어떻게 살아가야 하는지에 대해서."
+        ],
         "pt-br": [
           "Aqueles três anos no oeste foram um tempo tão feliz.",
           "Eu estava aprendendo a ser adulta, a lidar com todos aqueles estranhos. A me virar."
+        ],
+        "ru": [
+          "Эти три года на Западе были таким счастливым временем.",
+          "Я только училась быть взрослой, общаться со всеми этими незнакомцами, прокладывать себе путь."
+        ],
+        "s-cn": [
+          "在西部的那三年，真是段快乐时光。",
+          "那时我才开始学着做个大人，学着和形形色色的陌生人打交道， 学着靠自己闯出一条路。"
+        ],
+        "t-cn": [
+          "在西部的那三年，真是段快樂時光。",
+          "那時我才開始學著做個大人， 學著和形形色色的陌生人打交道， 學著靠自己闖出一條路。"
         ]
       },
       "silentCues": [],
@@ -199,7 +406,7 @@
             "source": "data-common/double_tempo.entities"
           }
         ],
-        "subtitleLine": 7790,
+        "subtitleLine": 7800,
         "subtitleHeader": "::"
       }
     },
@@ -216,14 +423,41 @@
             "en": [
               "The memories..."
             ],
+            "de": [
+              "Die Erinnerungen ..."
+            ],
+            "es": [
+              "Los recuerdos..."
+            ],
+            "fr": [
+              "Les souvenirs..."
+            ],
+            "it": [
+              "I ricordi..."
+            ],
+            "ja": [
+              "いい思い出だけど、 何か妙なものが 込み上げてくる。"
+            ],
+            "ko": [
+              "그 기억들이..."
+            ],
             "pt-br": [
               "As memórias..."
+            ],
+            "ru": [
+              "Воспоминания..."
+            ],
+            "s-cn": [
+              "那些记忆……"
+            ],
+            "t-cn": [
+              "那些記憶……"
             ]
           },
           "provenance": {
             "sourceWav": "hp_bard_town_end_1__bard.wav",
             "subtitleCueLines": [
-              7804
+              7814
             ],
             "explicitAudioReference": null
           }
@@ -237,8 +471,35 @@
         "en": [
           "The memories..."
         ],
+        "de": [
+          "Die Erinnerungen ..."
+        ],
+        "es": [
+          "Los recuerdos..."
+        ],
+        "fr": [
+          "Les souvenirs..."
+        ],
+        "it": [
+          "I ricordi..."
+        ],
+        "ja": [
+          "いい思い出だけど、 何か妙なものが 込み上げてくる。"
+        ],
+        "ko": [
+          "그 기억들이..."
+        ],
         "pt-br": [
           "As memórias..."
+        ],
+        "ru": [
+          "Воспоминания..."
+        ],
+        "s-cn": [
+          "那些记忆……"
+        ],
+        "t-cn": [
+          "那些記憶……"
         ]
       },
       "silentCues": [],
@@ -260,7 +521,7 @@
             "source": "data-common/double_tempo.entities"
           }
         ],
-        "subtitleLine": 7803,
+        "subtitleLine": 7813,
         "subtitleHeader": "::"
       }
     }

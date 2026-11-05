@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "A Guardsman told me they all saw incredible smoke coming from the mountains, last week."
             ],
+            "de": [
+              "Ein Gardist hat mir erzählt, sie hätten letzte Woche alle gewaltige Rauchwolken aus den Bergen aufsteigen sehen."
+            ],
+            "es": [
+              "Un guardia me dijo que todos vieron un humo increíble saliendo de las montañas la semana pasada."
+            ],
+            "fr": [
+              "Un garde m'a dit qu'ils ont tous vu un énorme nuage de fumée s'élever des montagnes la semaine dernière."
+            ],
+            "it": [
+              "Una guardia mi ha detto che tutti hanno visto un fumo incredibile salire dalle montagne, la settimana scorsa."
+            ],
+            "ja": [
+              "衛兵に聞いたんだけど 先週、山から煙が 上ったんだって。"
+            ],
+            "ko": [
+              "어떤 경비병이 지난주 산에서 엄청난 연기가 피어오르는 걸 봤다고 했어."
+            ],
             "pt-br": [
               "Um guarda me disse que todos viram uma fumaça incrível vindo das montanhas, na semana passada."
+            ],
+            "ru": [
+              "Стражник сказал мне, что на прошлой неделе все видели невероятный дым над горами."
+            ],
+            "s-cn": [
+              "有个卫兵告诉我，上周他们都看到山上冒出了浓得吓人的烟。"
+            ],
+            "t-cn": [
+              "有個衛兵告訴我， 上周他們都看到山上冒出了濃得嚇人的煙。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "There was a fire in the goblin caves? A huge accident? Or, -- maybe someone smoked them out intentionally..."
             ],
+            "de": [
+              "Hat es in den Goblinhöhlen gebrannt? Ein gewaltiger Unfall? Oder – vielleicht hat sie jemand absichtlich ausgeräuchert ..."
+            ],
+            "es": [
+              "¿Hubo un incendio en las cuevas de los goblins? ¿Un accidente enorme? O quizá alguien los ahuyentó a propósito..."
+            ],
+            "fr": [
+              "Il y a eu un incendie dans les cavernes des gobelins ? Un accident ? Ou bien... peut-être que quelqu'un les a délogés exprès..."
+            ],
+            "it": [
+              "C'è stato un incendio nelle caverne dei goblin? Un brutto incidente? Oppure... Forse qualcuno li ha fatti uscire apposta usando il fumo..."
+            ],
+            "ja": [
+              "ゴブリンの洞窟で火事？ 事故か？ あるいは追い出すために故意に…？"
+            ],
+            "ko": [
+              "고블린 동굴에서 불이 났다고? 큰 사고였나? 아니면... 누군가 일부러 연기로 몰아냈을지도..."
+            ],
             "pt-br": [
               "Houve um incêndio nas cavernas dos goblins? Um acidente enorme? Ou... talvez alguém tenha expulsado eles de lá de propósito..."
+            ],
+            "ru": [
+              "В пещерах гоблинов был пожар? Серьёзное происшествие? Или... может, их кто-то специально выкурил..."
+            ],
+            "s-cn": [
+              "哥布林洞穴着火了？一场大事故？还是…… 有人故意放烟把它们熏出来……"
+            ],
+            "t-cn": [
+              "哥布林洞穴著火了？一場大事故？ 還是……有人故意放煙把它們燻出來……"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Then how'd the dragons get here? They don't mind smoke."
             ],
+            "de": [
+              "Wie sind dann die Drachen hergekommen? Denen macht Rauch nichts aus."
+            ],
+            "es": [
+              "Entonces, ¿cómo llegaron aquí los dragones? No les molesta el humo."
+            ],
+            "fr": [
+              "Alors comment les dragons sont-ils arrivés ici ? La fumée ne les dérange pas."
+            ],
+            "it": [
+              "Allora come sono arrivati qui i draghi? Il fumo non li infastidisce."
+            ],
+            "ja": [
+              "ならなんでドラゴンがここに？ 煙なんて平気でしょ。"
+            ],
+            "ko": [
+              "그럼 드래곤들은 어떻게 여기 온 거야? 드래곤은 연기 따위 신경 쓰지 않잖아."
+            ],
             "pt-br": [
               "Então como os dragões chegaram aqui? Eles não se importam com fumaça."
+            ],
+            "ru": [
+              "Тогда как же сюда попали драконы? Дым их не пугает."
+            ],
+            "s-cn": [
+              "那龙是怎么到这儿来的？它们可不怕烟。"
+            ],
+            "t-cn": [
+              "那龍是怎麼到這兒來的？它們可不怕煙。"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Maybe the dragons made the smoke..."
             ],
+            "de": [
+              "Vielleicht haben die Drachen den Rauch verursacht ..."
+            ],
+            "es": [
+              "Tal vez los dragones provocaron el humo..."
+            ],
+            "fr": [
+              "Peut-être que ce sont les dragons qui ont fait la fumée..."
+            ],
+            "it": [
+              "Forse sono stati i draghi a provocare il fumo..."
+            ],
+            "ja": [
+              "こいつらが煙の原因かもな…"
+            ],
+            "ko": [
+              "어쩌면 드래곤들이 연기를 만든 걸지도..."
+            ],
             "pt-br": [
               "Talvez os dragões tenham feito a fumaça..."
+            ],
+            "ru": [
+              "Может, дым устроили драконы..."
+            ],
+            "s-cn": [
+              "也许烟就是龙弄出来的……"
+            ],
+            "t-cn": [
+              "也許煙就是龍弄出來的……"
             ]
           },
           "provenance": {
@@ -113,11 +230,65 @@
           "Then how'd the dragons get here? They don't mind smoke.",
           "Maybe the dragons made the smoke..."
         ],
+        "de": [
+          "Ein Gardist hat mir erzählt, sie hätten letzte Woche alle gewaltige Rauchwolken aus den Bergen aufsteigen sehen.",
+          "Hat es in den Goblinhöhlen gebrannt? Ein gewaltiger Unfall? Oder – vielleicht hat sie jemand absichtlich ausgeräuchert ...",
+          "Wie sind dann die Drachen hergekommen? Denen macht Rauch nichts aus.",
+          "Vielleicht haben die Drachen den Rauch verursacht ..."
+        ],
+        "es": [
+          "Un guardia me dijo que todos vieron un humo increíble saliendo de las montañas la semana pasada.",
+          "¿Hubo un incendio en las cuevas de los goblins? ¿Un accidente enorme? O quizá alguien los ahuyentó a propósito...",
+          "Entonces, ¿cómo llegaron aquí los dragones? No les molesta el humo.",
+          "Tal vez los dragones provocaron el humo..."
+        ],
+        "fr": [
+          "Un garde m'a dit qu'ils ont tous vu un énorme nuage de fumée s'élever des montagnes la semaine dernière.",
+          "Il y a eu un incendie dans les cavernes des gobelins ? Un accident ? Ou bien... peut-être que quelqu'un les a délogés exprès...",
+          "Alors comment les dragons sont-ils arrivés ici ? La fumée ne les dérange pas.",
+          "Peut-être que ce sont les dragons qui ont fait la fumée..."
+        ],
+        "it": [
+          "Una guardia mi ha detto che tutti hanno visto un fumo incredibile salire dalle montagne, la settimana scorsa.",
+          "C'è stato un incendio nelle caverne dei goblin? Un brutto incidente? Oppure... Forse qualcuno li ha fatti uscire apposta usando il fumo...",
+          "Allora come sono arrivati qui i draghi? Il fumo non li infastidisce.",
+          "Forse sono stati i draghi a provocare il fumo..."
+        ],
+        "ja": [
+          "衛兵に聞いたんだけど 先週、山から煙が 上ったんだって。",
+          "ゴブリンの洞窟で火事？ 事故か？ あるいは追い出すために故意に…？",
+          "ならなんでドラゴンがここに？ 煙なんて平気でしょ。",
+          "こいつらが煙の原因かもな…"
+        ],
+        "ko": [
+          "어떤 경비병이 지난주 산에서 엄청난 연기가 피어오르는 걸 봤다고 했어.",
+          "고블린 동굴에서 불이 났다고? 큰 사고였나? 아니면... 누군가 일부러 연기로 몰아냈을지도...",
+          "그럼 드래곤들은 어떻게 여기 온 거야? 드래곤은 연기 따위 신경 쓰지 않잖아.",
+          "어쩌면 드래곤들이 연기를 만든 걸지도..."
+        ],
         "pt-br": [
           "Um guarda me disse que todos viram uma fumaça incrível vindo das montanhas, na semana passada.",
           "Houve um incêndio nas cavernas dos goblins? Um acidente enorme? Ou... talvez alguém tenha expulsado eles de lá de propósito...",
           "Então como os dragões chegaram aqui? Eles não se importam com fumaça.",
           "Talvez os dragões tenham feito a fumaça..."
+        ],
+        "ru": [
+          "Стражник сказал мне, что на прошлой неделе все видели невероятный дым над горами.",
+          "В пещерах гоблинов был пожар? Серьёзное происшествие? Или... может, их кто-то специально выкурил...",
+          "Тогда как же сюда попали драконы? Дым их не пугает.",
+          "Может, дым устроили драконы..."
+        ],
+        "s-cn": [
+          "有个卫兵告诉我，上周他们都看到山上冒出了浓得吓人的烟。",
+          "哥布林洞穴着火了？一场大事故？还是…… 有人故意放烟把它们熏出来……",
+          "那龙是怎么到这儿来的？它们可不怕烟。",
+          "也许烟就是龙弄出来的……"
+        ],
+        "t-cn": [
+          "有個衛兵告訴我， 上周他們都看到山上冒出了濃得嚇人的煙。",
+          "哥布林洞穴著火了？一場大事故？ 還是……有人故意放煙把它們燻出來……",
+          "那龍是怎麼到這兒來的？它們可不怕煙。",
+          "也許煙就是龍弄出來的……"
         ]
       },
       "silentCues": [],

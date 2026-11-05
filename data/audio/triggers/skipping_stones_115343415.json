@@ -1,0 +1,869 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_built_in_2",
+    "audioKey": "skipping_stones_115343415",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_built_in_2"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 115343415,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_built_in_2",
+        "rule": "exact-reference",
+        "coordinates": [
+          7.0,
+          21.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_built_in_2",
+      "clips": [
+        {
+          "id": "ssnew_built_in_2_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.686896,
+          "src": "audio/clips/ssnew_built_in_2_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "It's built into the bones?"
+            ],
+            "de": [
+              "Das steckt ihm in den Knochen?"
+            ],
+            "es": [
+              "¿Integrado en sus huesos?"
+            ],
+            "fr": [
+              "Dans les... os ?"
+            ],
+            "it": [
+              "È costruito nelle ossa?"
+            ],
+            "ja": [
+              "造りって？"
+            ],
+            "ko": [
+              "뼛속부터?"
+            ],
+            "pt-br": [
+              "Está embutido nos ossos?"
+            ],
+            "ru": [
+              "Заложено в его основе?"
+            ],
+            "s-cn": [
+              "刻进龙骨？"
+            ],
+            "t-cn": [
+              "刻進龍骨？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_1__sailor.wav",
+            "subtitleCueLines": [
+              4575
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.567687,
+          "src": "audio/clips/ssnew_built_in_2_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "As you know, the way my runners pull us forward at such tremendous speeds --"
+            ],
+            "de": [
+              "Wie du weißt, ziehen uns meine Antriebe vorwärts, und das mit solch gewaltiger Geschwindigkeit –"
+            ],
+            "es": [
+              "Como sabes, la forma en que los impulsores nos impulsan a velocidades tan asombrosas..."
+            ],
+            "fr": [
+              "Comme tu le sais, la façon dont mes pales nous tirent vers l'avant à des vitesses aussi prodigieuses –"
+            ],
+            "it": [
+              "Come sai, il modo in cui le mie eliche ci tirano avanti a velocità così tremende..."
+            ],
+            "ja": [
+              "知っての通り、推進器が ものすごい速さで 僕たちを引っ張る仕組みは――"
+            ],
+            "ko": [
+              "알다시피, 내 추진기가 우리를 그렇게 엄청난 속도로 끌어당기는 원리는 말이지..."
+            ],
+            "pt-br": [
+              "Como você sabe, o modo como minhas hélices nos puxam para frente a velocidades tão tremendas..."
+            ],
+            "ru": [
+              "Как ты знаешь, мои движители тянут нас вперед с такой чудовищной скоростью —"
+            ],
+            "s-cn": [
+              "你也知道，我的推进器能以惊人的速度拉着我们前进，是因为……"
+            ],
+            "t-cn": [
+              "你也知道，我的推進器能以驚人的速度拉著我們前進， 是因為……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_2__boat.wav",
+            "subtitleCueLines": [
+              4578
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.306542,
+          "src": "audio/clips/ssnew_built_in_2_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "-- fashioned from the skipping stones, I know --"
+            ],
+            "de": [
+              "– aus Flitschersteinen gemacht, ich weiß –"
+            ],
+            "es": [
+              "... están forjados a partir de Piedras saltarinas, ya lo sé..."
+            ],
+            "fr": [
+              "– façonnées à partir de pierres de ricochet, je sais –"
+            ],
+            "it": [
+              "... forgiate dalle Pietre da lanciare, lo so..."
+            ],
+            "ja": [
+              "――飛び石から造られてる。 知ってるよ。"
+            ],
+            "ko": [
+              "...물수제비 돌로 만들어졌지. 알아..."
+            ],
+            "pt-br": [
+              "...feitas de Pedras Quicantes, eu sei..."
+            ],
+            "ru": [
+              "— сделанные из Скачущих камней, я знаю —"
+            ],
+            "s-cn": [
+              "……它们是用飞石造的，我知道……"
+            ],
+            "t-cn": [
+              "……它們是用飛石造的，我知道……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_3__sailor.wav",
+            "subtitleCueLines": [
+              4582
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.107854,
+          "src": "audio/clips/ssnew_built_in_2_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "-- carved with exquisite precision! --"
+            ],
+            "de": [
+              "– mit höchster Präzision gemeißelt! –"
+            ],
+            "es": [
+              "... ¡tallados con una precisión exquisita!"
+            ],
+            "fr": [
+              "– taillées avec une précision exquise ! –"
+            ],
+            "it": [
+              "... incise con una precisione straordinaria!..."
+            ],
+            "ja": [
+              "しかも精密に！"
+            ],
+            "ko": [
+              "...정교하게 조각되어 있고!"
+            ],
+            "pt-br": [
+              "...esculpidas com precisão requintada!..."
+            ],
+            "ru": [
+              "...выточенные с изысканной точностью!.."
+            ],
+            "s-cn": [
+              "……而且雕琢得极其精密！……"
+            ],
+            "t-cn": [
+              "……而且雕琢得極其精密！……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_4__boat.wav",
+            "subtitleCueLines": [
+              4586
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.135167,
+          "src": "audio/clips/ssnew_built_in_2_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "-- and you turn them to various angles --"
+            ],
+            "de": [
+              "– und du drehst sie in verschiedene Winkel –"
+            ],
+            "es": [
+              "... y los ajustas a distintos ángulos..."
+            ],
+            "fr": [
+              "– et tu les inclines selon divers angles –"
+            ],
+            "it": [
+              "... e tu le inclini in varie angolazioni..."
+            ],
+            "ja": [
+              "それを色んな角度に押すんだろ。"
+            ],
+            "ko": [
+              "...그걸 여러 각도로 돌려서..."
+            ],
+            "pt-br": [
+              "...e você as ajusta para vários ângulos..."
+            ],
+            "ru": [
+              "— а ты задаешь им разные углы —"
+            ],
+            "s-cn": [
+              "……你还会把它们转向不同的角度……"
+            ],
+            "t-cn": [
+              "……你還會把它們轉向不同的角度……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_5__sailor.wav",
+            "subtitleCueLines": [
+              4589
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_6__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 6.850708,
+          "src": "audio/clips/ssnew_built_in_2_6__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Yes, but I don’t move the runners directly. My force of will, such as it is, is insufficient for that --"
+            ],
+            "de": [
+              "Ja, aber ich bewege die Antriebe nicht direkt. Meine Willenskraft hat ihre Grenzen, dafür reicht sie nicht aus ..."
+            ],
+            "es": [
+              "Sí, pero yo no muevo los impulsores directamente. Mi fuerza de voluntad, por así decir, no basta para eso..."
+            ],
+            "fr": [
+              "Oui, mais je ne déplace pas directement les pales. Ma force de volonté, si tant est qu'elle existe, est insuffisante pour ça –"
+            ],
+            "it": [
+              "Sì, ma non muovo direttamente le eliche. La mia forza di volontà, per quel che è, non è sufficiente..."
+            ],
+            "ja": [
+              "けど、僕の意思だけでは 直接推進器を 動かせない。"
+            ],
+            "ko": [
+              "그래. 하지만 내가 추진기를 직접 움직이는 건 아니야. 내 의지력으로는 그걸 움직이기에 부족하지."
+            ],
+            "pt-br": [
+              "Sim, mas eu não movo as hélices diretamente. Minha força de vontade, como ela é, não é suficiente para isso..."
+            ],
+            "ru": [
+              "Да, но я не двигаю движители напрямую. Сила моей воли, какой бы она ни была, для этого недостаточна —"
+            ],
+            "s-cn": [
+              "对，但我并不直接操控推进器。我的意志力还没强到那个地步……"
+            ],
+            "t-cn": [
+              "對，但我並不直接操控推進器。 我的意志力還沒強到那個地步……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_6__boat.wav",
+            "subtitleCueLines": [
+              4592
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_7__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.311063,
+          "src": "audio/clips/ssnew_built_in_2_7__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I think you're *very* willful!"
+            ],
+            "de": [
+              "Ich finde, du bist sehr willensstark!"
+            ],
+            "es": [
+              "¡Creo que tienes mucho carácter!"
+            ],
+            "fr": [
+              "Moi, je trouve que tu n'en manques pas."
+            ],
+            "it": [
+              "Penso che tu sia molto testardo!"
+            ],
+            "ja": [
+              "波に逆らう 意思の強さがあるのに？"
+            ],
+            "ko": [
+              "넌 정말 고집이 세구나!"
+            ],
+            "pt-br": [
+              "Acho que você é muito teimoso!"
+            ],
+            "ru": [
+              "По-моему, ты очень своевольный!"
+            ],
+            "s-cn": [
+              "我看你倒是犟得很！"
+            ],
+            "t-cn": [
+              "我看你倒是犟得很！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_7__sailor.wav",
+            "subtitleCueLines": [
+              4597
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_8__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 10.106375,
+          "src": "audio/clips/ssnew_built_in_2_8__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Compared to yourself, a thimble per a dram.",
+              "My will acts on control struts made of a special *different* stone",
+              "that is quite sensitive and pliant..."
+            ],
+            "de": [
+              "Verglichen mit dir? Ein Fingerhut gegen ein Fass.",
+              "Meine Willenskraft wirkt auf Steuerstreben, die aus einem besonderen, anderen Stein bestehen,",
+              "der äußerst empfänglich und formbar ist ..."
+            ],
+            "es": [
+              "Comparado contigo, no te llego ni a la altura del betún.",
+              "Mi voluntad afecta a puntales de control de una piedra especial distinta",
+              "que es bastante sensible y maleable..."
+            ],
+            "fr": [
+              "Comparé à toi, la mienne tient dans un dé à coudre.",
+              "Bref, ma volonté agit sur de petites tiges de contrôle faites d'une pierre spéciale différente",
+              "qui est très sensible et souple..."
+            ],
+            "it": [
+              "In confronto a te, ne ho ben poca.",
+              "La mia forza di volontà agisce su elementi di comando fatti di una pietra speciale diversa",
+              "che è piuttosto sensibile e malleabile..."
+            ],
+            "ja": [
+              "君に比べれば、まだまださ。",
+              "僕が動かせるのは 特別な石でできた制御支柱のみ。",
+              "敏感で、しなやかな石だ…"
+            ],
+            "ko": [
+              "너에 비하면, 내 의지력은 별 거 아니지.",
+              "내 의지는 제어 버팀대에 작용하지. 특별한 다른 돌로 만들어진 건데,",
+              "그 돌은 아주 민감하고 유연해..."
+            ],
+            "pt-br": [
+              "Comparado a você, um dedal por uma dracma.",
+              "Minha vontade afeta suportes de controle de uma pedra especial diferente",
+              "que é bem sensível e maleável..."
+            ],
+            "ru": [
+              "По сравнению с тобой — что мышь перед горой.",
+              "Моя воля воздействует на управляющие стойки из особого другого камня,",
+              "который очень чувствителен и податлив..."
+            ],
+            "s-cn": [
+              "跟你比，我可就是小巫见大巫了。",
+              "我的意志作用在控制框架上，那是用另一种特殊石头做的，",
+              "那种石头非常敏感，也很柔顺……"
+            ],
+            "t-cn": [
+              "跟你比，我可就是小巫見大巫了。",
+              "我的意志作用在控制框架上， 那是用另一種特殊石頭做的，",
+              "那種石頭非常敏感，也很柔順……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_8__boat.wav",
+            "subtitleCueLines": [
+              4600,
+              4604,
+              4608
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_9__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 5.419021,
+          "src": "audio/clips/ssnew_built_in_2_9__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Ahh yeah, with the cables and bushings. I had to clean those, that one time."
+            ],
+            "de": [
+              "Ach jaaa, mit den Kabeln und Buchsen. Die musste ich damals mal sauber machen."
+            ],
+            "es": [
+              "Ah, sí, con los cables y los casquillos. Tuve que limpiarlos, aquella vez."
+            ],
+            "fr": [
+              "Ah oui, avec les câbles et les bagues. J'ai dû les nettoyer, l'autre jour."
+            ],
+            "it": [
+              "Ah sì, con cavi e cilindri. Ho dovuto pulirli, quella volta."
+            ],
+            "ja": [
+              "ああ、あれね。"
+            ],
+            "ko": [
+              "아, 맞아, 케이블이랑 부싱이 있었지. 그걸 청소해야 했거든. 그때 말이야."
+            ],
+            "pt-br": [
+              "Ahhh, é, com os cabos e as buchas. Tive que limpar isso, naquela vez."
+            ],
+            "ru": [
+              "А, да, тросы и втулки. Мне пришлось их чистить в тот раз."
+            ],
+            "s-cn": [
+              "啊，对，还有那些缆索和衬套。那回我还得清理它们呢。"
+            ],
+            "t-cn": [
+              "啊，對，還有那些纜索和襯套。 那回我還得清理它們呢。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_9__sailor.wav",
+            "subtitleCueLines": [
+              4611
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_10__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 9.112333,
+          "src": "audio/clips/ssnew_built_in_2_10__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Those struts have embedded scriers that constantly watch for interdiction marks;",
+              "One glimpse and the control struts lock rigid."
+            ],
+            "de": [
+              "In diese Streben sind Spähaugen eingelassen, die ständig nach Interdiktzeichen Ausschau halten;",
+              "Ein einziger Blick, und die Steuerstreben erstarren."
+            ],
+            "es": [
+              "Estos puntales tienen detectores incrustados que vigilan constantemente en busca de marcas de vetos;",
+              "a la menor señal, los puntales de control se bloquean rígidamente."
+            ],
+            "fr": [
+              "Ces tiges ont des scruteurs intégrés qui surveillent en permanence les marques d'interdiction ;",
+              "à la moindre détection, les tiges de contrôle se figent."
+            ],
+            "it": [
+              "Questi elementi hanno dei sistemi di controllo che cercano continuamente segni di interdizione:",
+              "Un'occhiata e gli elementi di comando si bloccano."
+            ],
+            "ja": [
+              "支柱には探知器が埋め込まれてて、 封印を常に探している。",
+              "そして見つかれば 制御支柱が固まる。"
+            ],
+            "ko": [
+              "그 버팀대들에는 금제 표식이 있는지 끊임없이 감시하는 감지 장치가 내장되어 있어.",
+              "한 번이라도 감지하면 제어 버팀대가 딱딱하게 잠겨 버리는 거야."
+            ],
+            "pt-br": [
+              "Esses suportes têm videntes embutidos que vigiam o tempo todo por marcas de interdição;",
+              "Um único vislumbre e os suportes de controle travam."
+            ],
+            "ru": [
+              "В эти стойки встроены сканеры, которые постоянно следят за метками запрета.",
+              "Один взгляд — и управляющие стойки застывают намертво."
+            ],
+            "s-cn": [
+              "这些框架里嵌着窥测器，会时刻监测是否有阻航标记；",
+              "只要监测到标记，控制框架就会立刻锁死。"
+            ],
+            "t-cn": [
+              "這些框架裡嵌著窺測器， 會時刻監測是否有阻航標記；",
+              "只要監測到標記，控制框架就會立刻鎖死。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_10__boat.wav",
+            "subtitleCueLines": [
+              4616,
+              4621
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_11__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.206125,
+          "src": "audio/clips/ssnew_built_in_2_11__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Self-sabotage."
+            ],
+            "de": [
+              "Selbstsabotage."
+            ],
+            "es": [
+              "Autosabotaje."
+            ],
+            "fr": [
+              "De l'auto-sabotage."
+            ],
+            "it": [
+              "Auto-sabotaggio."
+            ],
+            "ja": [
+              "自分を止めるってこと？"
+            ],
+            "ko": [
+              "자기 방해네."
+            ],
+            "pt-br": [
+              "Autossabotagem."
+            ],
+            "ru": [
+              "Самосаботаж."
+            ],
+            "s-cn": [
+              "自废武功。"
+            ],
+            "t-cn": [
+              "自廢武功。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_11__sailor.wav",
+            "subtitleCueLines": [
+              4624
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_2_12__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.025396,
+          "src": "audio/clips/ssnew_built_in_2_12__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Yes."
+            ],
+            "de": [
+              "Ja."
+            ],
+            "es": [
+              "Sí."
+            ],
+            "fr": [
+              "Tout à fait."
+            ],
+            "it": [
+              "Sì."
+            ],
+            "ja": [
+              "そうさ。"
+            ],
+            "ko": [
+              "맞아."
+            ],
+            "pt-br": [
+              "Sim."
+            ],
+            "ru": [
+              "Да."
+            ],
+            "s-cn": [
+              "对。"
+            ],
+            "t-cn": [
+              "對。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_2_12__boat.wav",
+            "subtitleCueLines": [
+              4627
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "It's built into the bones?",
+          "As you know, the way my runners pull us forward at such tremendous speeds --",
+          "-- fashioned from the skipping stones, I know --",
+          "-- carved with exquisite precision! --",
+          "-- and you turn them to various angles --",
+          "Yes, but I don’t move the runners directly. My force of will, such as it is, is insufficient for that --",
+          "I think you're *very* willful!",
+          "Compared to yourself, a thimble per a dram.",
+          "My will acts on control struts made of a special *different* stone",
+          "that is quite sensitive and pliant...",
+          "Ahh yeah, with the cables and bushings. I had to clean those, that one time.",
+          "Those struts have embedded scriers that constantly watch for interdiction marks;",
+          "One glimpse and the control struts lock rigid.",
+          "Self-sabotage.",
+          "Yes."
+        ],
+        "de": [
+          "Das steckt ihm in den Knochen?",
+          "Wie du weißt, ziehen uns meine Antriebe vorwärts, und das mit solch gewaltiger Geschwindigkeit –",
+          "– aus Flitschersteinen gemacht, ich weiß –",
+          "– mit höchster Präzision gemeißelt! –",
+          "– und du drehst sie in verschiedene Winkel –",
+          "Ja, aber ich bewege die Antriebe nicht direkt. Meine Willenskraft hat ihre Grenzen, dafür reicht sie nicht aus ...",
+          "Ich finde, du bist sehr willensstark!",
+          "Verglichen mit dir? Ein Fingerhut gegen ein Fass.",
+          "Meine Willenskraft wirkt auf Steuerstreben, die aus einem besonderen, anderen Stein bestehen,",
+          "der äußerst empfänglich und formbar ist ...",
+          "Ach jaaa, mit den Kabeln und Buchsen. Die musste ich damals mal sauber machen.",
+          "In diese Streben sind Spähaugen eingelassen, die ständig nach Interdiktzeichen Ausschau halten;",
+          "Ein einziger Blick, und die Steuerstreben erstarren.",
+          "Selbstsabotage.",
+          "Ja."
+        ],
+        "es": [
+          "¿Integrado en sus huesos?",
+          "Como sabes, la forma en que los impulsores nos impulsan a velocidades tan asombrosas...",
+          "... están forjados a partir de Piedras saltarinas, ya lo sé...",
+          "... ¡tallados con una precisión exquisita!",
+          "... y los ajustas a distintos ángulos...",
+          "Sí, pero yo no muevo los impulsores directamente. Mi fuerza de voluntad, por así decir, no basta para eso...",
+          "¡Creo que tienes mucho carácter!",
+          "Comparado contigo, no te llego ni a la altura del betún.",
+          "Mi voluntad afecta a puntales de control de una piedra especial distinta",
+          "que es bastante sensible y maleable...",
+          "Ah, sí, con los cables y los casquillos. Tuve que limpiarlos, aquella vez.",
+          "Estos puntales tienen detectores incrustados que vigilan constantemente en busca de marcas de vetos;",
+          "a la menor señal, los puntales de control se bloquean rígidamente.",
+          "Autosabotaje.",
+          "Sí."
+        ],
+        "fr": [
+          "Dans les... os ?",
+          "Comme tu le sais, la façon dont mes pales nous tirent vers l'avant à des vitesses aussi prodigieuses –",
+          "– façonnées à partir de pierres de ricochet, je sais –",
+          "– taillées avec une précision exquise ! –",
+          "– et tu les inclines selon divers angles –",
+          "Oui, mais je ne déplace pas directement les pales. Ma force de volonté, si tant est qu'elle existe, est insuffisante pour ça –",
+          "Moi, je trouve que tu n'en manques pas.",
+          "Comparé à toi, la mienne tient dans un dé à coudre.",
+          "Bref, ma volonté agit sur de petites tiges de contrôle faites d'une pierre spéciale différente",
+          "qui est très sensible et souple...",
+          "Ah oui, avec les câbles et les bagues. J'ai dû les nettoyer, l'autre jour.",
+          "Ces tiges ont des scruteurs intégrés qui surveillent en permanence les marques d'interdiction ;",
+          "à la moindre détection, les tiges de contrôle se figent.",
+          "De l'auto-sabotage.",
+          "Tout à fait."
+        ],
+        "it": [
+          "È costruito nelle ossa?",
+          "Come sai, il modo in cui le mie eliche ci tirano avanti a velocità così tremende...",
+          "... forgiate dalle Pietre da lanciare, lo so...",
+          "... incise con una precisione straordinaria!...",
+          "... e tu le inclini in varie angolazioni...",
+          "Sì, ma non muovo direttamente le eliche. La mia forza di volontà, per quel che è, non è sufficiente...",
+          "Penso che tu sia molto testardo!",
+          "In confronto a te, ne ho ben poca.",
+          "La mia forza di volontà agisce su elementi di comando fatti di una pietra speciale diversa",
+          "che è piuttosto sensibile e malleabile...",
+          "Ah sì, con cavi e cilindri. Ho dovuto pulirli, quella volta.",
+          "Questi elementi hanno dei sistemi di controllo che cercano continuamente segni di interdizione:",
+          "Un'occhiata e gli elementi di comando si bloccano.",
+          "Auto-sabotaggio.",
+          "Sì."
+        ],
+        "ja": [
+          "造りって？",
+          "知っての通り、推進器が ものすごい速さで 僕たちを引っ張る仕組みは――",
+          "――飛び石から造られてる。 知ってるよ。",
+          "しかも精密に！",
+          "それを色んな角度に押すんだろ。",
+          "けど、僕の意思だけでは 直接推進器を 動かせない。",
+          "波に逆らう 意思の強さがあるのに？",
+          "君に比べれば、まだまださ。",
+          "僕が動かせるのは 特別な石でできた制御支柱のみ。",
+          "敏感で、しなやかな石だ…",
+          "ああ、あれね。",
+          "支柱には探知器が埋め込まれてて、 封印を常に探している。",
+          "そして見つかれば 制御支柱が固まる。",
+          "自分を止めるってこと？",
+          "そうさ。"
+        ],
+        "ko": [
+          "뼛속부터?",
+          "알다시피, 내 추진기가 우리를 그렇게 엄청난 속도로 끌어당기는 원리는 말이지...",
+          "...물수제비 돌로 만들어졌지. 알아...",
+          "...정교하게 조각되어 있고!",
+          "...그걸 여러 각도로 돌려서...",
+          "그래. 하지만 내가 추진기를 직접 움직이는 건 아니야. 내 의지력으로는 그걸 움직이기에 부족하지.",
+          "넌 정말 고집이 세구나!",
+          "너에 비하면, 내 의지력은 별 거 아니지.",
+          "내 의지는 제어 버팀대에 작용하지. 특별한 다른 돌로 만들어진 건데,",
+          "그 돌은 아주 민감하고 유연해...",
+          "아, 맞아, 케이블이랑 부싱이 있었지. 그걸 청소해야 했거든. 그때 말이야.",
+          "그 버팀대들에는 금제 표식이 있는지 끊임없이 감시하는 감지 장치가 내장되어 있어.",
+          "한 번이라도 감지하면 제어 버팀대가 딱딱하게 잠겨 버리는 거야.",
+          "자기 방해네.",
+          "맞아."
+        ],
+        "pt-br": [
+          "Está embutido nos ossos?",
+          "Como você sabe, o modo como minhas hélices nos puxam para frente a velocidades tão tremendas...",
+          "...feitas de Pedras Quicantes, eu sei...",
+          "...esculpidas com precisão requintada!...",
+          "...e você as ajusta para vários ângulos...",
+          "Sim, mas eu não movo as hélices diretamente. Minha força de vontade, como ela é, não é suficiente para isso...",
+          "Acho que você é muito teimoso!",
+          "Comparado a você, um dedal por uma dracma.",
+          "Minha vontade afeta suportes de controle de uma pedra especial diferente",
+          "que é bem sensível e maleável...",
+          "Ahhh, é, com os cabos e as buchas. Tive que limpar isso, naquela vez.",
+          "Esses suportes têm videntes embutidos que vigiam o tempo todo por marcas de interdição;",
+          "Um único vislumbre e os suportes de controle travam.",
+          "Autossabotagem.",
+          "Sim."
+        ],
+        "ru": [
+          "Заложено в его основе?",
+          "Как ты знаешь, мои движители тянут нас вперед с такой чудовищной скоростью —",
+          "— сделанные из Скачущих камней, я знаю —",
+          "...выточенные с изысканной точностью!..",
+          "— а ты задаешь им разные углы —",
+          "Да, но я не двигаю движители напрямую. Сила моей воли, какой бы она ни была, для этого недостаточна —",
+          "По-моему, ты очень своевольный!",
+          "По сравнению с тобой — что мышь перед горой.",
+          "Моя воля воздействует на управляющие стойки из особого другого камня,",
+          "который очень чувствителен и податлив...",
+          "А, да, тросы и втулки. Мне пришлось их чистить в тот раз.",
+          "В эти стойки встроены сканеры, которые постоянно следят за метками запрета.",
+          "Один взгляд — и управляющие стойки застывают намертво.",
+          "Самосаботаж.",
+          "Да."
+        ],
+        "s-cn": [
+          "刻进龙骨？",
+          "你也知道，我的推进器能以惊人的速度拉着我们前进，是因为……",
+          "……它们是用飞石造的，我知道……",
+          "……而且雕琢得极其精密！……",
+          "……你还会把它们转向不同的角度……",
+          "对，但我并不直接操控推进器。我的意志力还没强到那个地步……",
+          "我看你倒是犟得很！",
+          "跟你比，我可就是小巫见大巫了。",
+          "我的意志作用在控制框架上，那是用另一种特殊石头做的，",
+          "那种石头非常敏感，也很柔顺……",
+          "啊，对，还有那些缆索和衬套。那回我还得清理它们呢。",
+          "这些框架里嵌着窥测器，会时刻监测是否有阻航标记；",
+          "只要监测到标记，控制框架就会立刻锁死。",
+          "自废武功。",
+          "对。"
+        ],
+        "t-cn": [
+          "刻進龍骨？",
+          "你也知道，我的推進器能以驚人的速度拉著我們前進， 是因為……",
+          "……它們是用飛石造的，我知道……",
+          "……而且雕琢得極其精密！……",
+          "……你還會把它們轉向不同的角度……",
+          "對，但我並不直接操控推進器。 我的意志力還沒強到那個地步……",
+          "我看你倒是犟得很！",
+          "跟你比，我可就是小巫見大巫了。",
+          "我的意志作用在控制框架上， 那是用另一種特殊石頭做的，",
+          "那種石頭非常敏感，也很柔順……",
+          "啊，對，還有那些纜索和襯套。 那回我還得清理它們呢。",
+          "這些框架裡嵌著窺測器， 會時刻監測是否有阻航標記；",
+          "只要監測到標記，控制框架就會立刻鎖死。",
+          "自廢武功。",
+          "對。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

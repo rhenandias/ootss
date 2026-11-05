@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "You want to take him back West, to answer for his crimes there.",
               "But I must take him East, to answer for his crimes against us. This constitutes a problem."
             ],
+            "de": [
+              "Du willst ihn zurück in den Westen bringen, damit er sich dort für seine Verbrechen verantwortet.",
+              "Aber ich muss ihn in den Osten bringen, damit er sich für seine Verbrechen gegen uns verantwortet. Das stellt ein Problem dar."
+            ],
+            "es": [
+              "Quieres llevarlo de vuelta al oeste, para que responda por sus crímenes allí.",
+              "Pero yo debo llevarlo al este, para que responda por sus crímenes contra nosotros. Esto supone un problema."
+            ],
+            "fr": [
+              "Vous voulez le ramener à l'Ouest, pour qu'il y réponde de ses crimes.",
+              "Mais je dois l'emmener à l'Est, pour qu'il réponde de ses crimes contre nous. Cela pose problème."
+            ],
+            "it": [
+              "Vuoi riportarlo a ovest, a rispondere dei crimini che ha commesso là.",
+              "Ma io devo portarlo a est, a rispondere dei crimini commessi contro di noi. Questo costituisce un problema."
+            ],
+            "ja": [
+              "お前は西へ連れ戻し、 あちらでの罪を償わせたいのだな。",
+              "だが、俺は東へ連れ帰り、 我らへの罪を償わせねばならない。 これは問題だ。"
+            ],
+            "ko": [
+              "당신은 그자를 서쪽으로 데려가서 거기서 저지른 죄를 묻고 싶겠지.",
+              "하지만 난 그자를 동쪽으로 데려가서, 우리에게 저지른 죄를 물어야 해. 이거 문제가 되겠네."
+            ],
             "pt-br": [
               "Você quer levá-lo de volta para o oeste, para responder pelos crimes que cometeu lá.",
               "Mas eu devo levá-lo para o Leste, para responder pelos crimes contra nós. Isso é um problema."
+            ],
+            "ru": [
+              "Ты хочешь вернуть его на запад, чтобы он ответил за тамошние преступления.",
+              "Но я должен доставить его на восток, чтобы он ответил за преступления против нас. В этом и загвоздка."
+            ],
+            "s-cn": [
+              "你想把他带回西边，让他在那里为他的罪行受审。",
+              "可我得带他去东边，让他为他对我们所犯的罪行付出代价。 这就成了个问题。"
+            ],
+            "t-cn": [
+              "你想把他帶回西邊，讓他在那裡為他的罪行受審。",
+              "可我得帶他去東邊， 讓他為他對我們所犯的罪行付出代價。 這就成了個問題。"
             ]
           },
           "provenance": {
@@ -48,8 +93,35 @@
             "en": [
               "First, we catch him. Then we can have a problem."
             ],
+            "de": [
+              "Erst müssen wir ihn erwischen. Danach ist immer noch Zeit für Probleme."
+            ],
+            "es": [
+              "Primero, lo atraparemos. Luego tendremos un problema."
+            ],
+            "fr": [
+              "D'abord, on le capture. Ensuite, on aura un problème."
+            ],
+            "it": [
+              "Prima lo prendiamo. Poi potremo avere un problema."
+            ],
+            "ja": [
+              "まずは捕まえる。 問題は、それからでいい。"
+            ],
+            "ko": [
+              "우선 잡기부터 하자고. 문제는 그다음에 생겨도 되니까."
+            ],
             "pt-br": [
               "Primeiro, a gente captura ele. Depois a gente pode ter um problema."
+            ],
+            "ru": [
+              "Сначала мы его поймаем. А потом уже будем иметь проблему."
+            ],
+            "s-cn": [
+              "我们先抓住他吧。有什么分歧，到时候再说。"
+            ],
+            "t-cn": [
+              "我們先抓住他吧。有什麼分歧，到時候再說。"
             ]
           },
           "provenance": {
@@ -71,10 +143,55 @@
           "But I must take him East, to answer for his crimes against us. This constitutes a problem.",
           "First, we catch him. Then we can have a problem."
         ],
+        "de": [
+          "Du willst ihn zurück in den Westen bringen, damit er sich dort für seine Verbrechen verantwortet.",
+          "Aber ich muss ihn in den Osten bringen, damit er sich für seine Verbrechen gegen uns verantwortet. Das stellt ein Problem dar.",
+          "Erst müssen wir ihn erwischen. Danach ist immer noch Zeit für Probleme."
+        ],
+        "es": [
+          "Quieres llevarlo de vuelta al oeste, para que responda por sus crímenes allí.",
+          "Pero yo debo llevarlo al este, para que responda por sus crímenes contra nosotros. Esto supone un problema.",
+          "Primero, lo atraparemos. Luego tendremos un problema."
+        ],
+        "fr": [
+          "Vous voulez le ramener à l'Ouest, pour qu'il y réponde de ses crimes.",
+          "Mais je dois l'emmener à l'Est, pour qu'il réponde de ses crimes contre nous. Cela pose problème.",
+          "D'abord, on le capture. Ensuite, on aura un problème."
+        ],
+        "it": [
+          "Vuoi riportarlo a ovest, a rispondere dei crimini che ha commesso là.",
+          "Ma io devo portarlo a est, a rispondere dei crimini commessi contro di noi. Questo costituisce un problema.",
+          "Prima lo prendiamo. Poi potremo avere un problema."
+        ],
+        "ja": [
+          "お前は西へ連れ戻し、 あちらでの罪を償わせたいのだな。",
+          "だが、俺は東へ連れ帰り、 我らへの罪を償わせねばならない。 これは問題だ。",
+          "まずは捕まえる。 問題は、それからでいい。"
+        ],
+        "ko": [
+          "당신은 그자를 서쪽으로 데려가서 거기서 저지른 죄를 묻고 싶겠지.",
+          "하지만 난 그자를 동쪽으로 데려가서, 우리에게 저지른 죄를 물어야 해. 이거 문제가 되겠네.",
+          "우선 잡기부터 하자고. 문제는 그다음에 생겨도 되니까."
+        ],
         "pt-br": [
           "Você quer levá-lo de volta para o oeste, para responder pelos crimes que cometeu lá.",
           "Mas eu devo levá-lo para o Leste, para responder pelos crimes contra nós. Isso é um problema.",
           "Primeiro, a gente captura ele. Depois a gente pode ter um problema."
+        ],
+        "ru": [
+          "Ты хочешь вернуть его на запад, чтобы он ответил за тамошние преступления.",
+          "Но я должен доставить его на восток, чтобы он ответил за преступления против нас. В этом и загвоздка.",
+          "Сначала мы его поймаем. А потом уже будем иметь проблему."
+        ],
+        "s-cn": [
+          "你想把他带回西边，让他在那里为他的罪行受审。",
+          "可我得带他去东边，让他为他对我们所犯的罪行付出代价。 这就成了个问题。",
+          "我们先抓住他吧。有什么分歧，到时候再说。"
+        ],
+        "t-cn": [
+          "你想把他帶回西邊，讓他在那裡為他的罪行受審。",
+          "可我得帶他去東邊， 讓他為他對我們所犯的罪行付出代價。 這就成了個問題。",
+          "我們先抓住他吧。有什麼分歧，到時候再說。"
         ]
       },
       "silentCues": [],
@@ -114,9 +231,45 @@
               "... as evidenced by the seeds being smaller than those of a common apple.",
               "If they are not, transmutation of this plant may only be performed in a private setting."
             ],
+            "de": [
+              "... wie sich an den Samen zeigt: Sie sind kleiner als die eines gewöhnlichen Apfels.",
+              "Ist das nicht der Fall, darf die Transmutation dieser Pflanze nur im privaten Rahmen erfolgen."
+            ],
+            "es": [
+              "... como demuestra el hecho de que las semillas sean más pequeñas que las de una manzana común.",
+              "Si no lo son, la transmutación de esta planta solo podrá realizarse en privado."
+            ],
+            "fr": [
+              "... comme en témoignent les pépins, plus petits que ceux d'une pomme ordinaire.",
+              "Si ce n'est pas le cas, la transmutation de cette plante ne peut s'effectuer qu'en privé."
+            ],
+            "it": [
+              "... come dimostrano i semi, più piccoli di quelli di una mela comune.",
+              "Se non lo sono, la trasmutazione di questa pianta può essere effettuata solo in privato."
+            ],
+            "ja": [
+              "…種が普通のリンゴの種より小さいことからも、 それは明らかだ。",
+              "そうでなければ、この植物の変成は 人目のない場所でしか行えない。"
+            ],
+            "ko": [
+              "... 씨앗이 일반적인 사과의 씨앗보다 작다는 점이 그 증거야.",
+              "그렇지 않다면, 이 식물의 변성은 남의 눈에 띄지 않는 곳에서만 수행할 수 있지."
+            ],
             "pt-br": [
               "... como mostram as sementes menores que as de uma maçã comum.",
               "Se não forem, a transmutação desta planta só poderá ser realizada em um local privado."
+            ],
+            "ru": [
+              "... о чём свидетельствуют семена, которые мельче, чем у обычного яблока.",
+              "В противном случае трансмутацию этого растения можно проводить лишь без посторонних."
+            ],
+            "s-cn": [
+              "……证据就是，它的种子比普通苹果的还要小。",
+              "如果不是这样，对这种植物的转化就只能私下进行。"
+            ],
+            "t-cn": [
+              "……證據就是，它的種子比普通蘋果的還要小。",
+              "如果不是這樣， 對這種植物的轉化就只能私下進行。"
             ]
           },
           "provenance": {
@@ -138,8 +291,35 @@
             "en": [
               "Sounds ... complicated."
             ],
+            "de": [
+              "Klingt ... kompliziert."
+            ],
+            "es": [
+              "Suena... complicado."
+            ],
+            "fr": [
+              "Ça a l'air... compliqué."
+            ],
+            "it": [
+              "Sembra... complicato."
+            ],
+            "ja": [
+              "なんか…面倒くさそうだな。"
+            ],
+            "ko": [
+              "복잡한... 얘기 같네."
+            ],
             "pt-br": [
               "Parece... complicado."
+            ],
+            "ru": [
+              "Звучит... сложно."
+            ],
+            "s-cn": [
+              "听起来……挺复杂的。"
+            ],
+            "t-cn": [
+              "聽起來……挺複雜的。"
             ]
           },
           "provenance": {
@@ -160,8 +340,35 @@
             "en": [
               "I have an eye to make some changes, when I ascend to the Circle of Elders."
             ],
+            "de": [
+              "Ich habe vor, einiges zu ändern, sobald ich in den Kreis der Ältesten aufsteige."
+            ],
+            "es": [
+              "Tengo intención de hacer algunos cambios cuando llegue al Círculo de Ancianos."
+            ],
+            "fr": [
+              "Je compte apporter quelques changements quand j'intégrerai le Cercle des anciens."
+            ],
+            "it": [
+              "Ho intenzione di cambiare un po' le cose, quando entrerò nel Circolo degli anziani."
+            ],
+            "ja": [
+              "長老会の一員となったら、 いくつか改めたいと考えている。"
+            ],
+            "ko": [
+              "원로회에 들어가면 몇 가지를 바꿔볼 생각이네."
+            ],
             "pt-br": [
               "Pretendo fazer algumas mudanças, quando eu chegar ao Círculo dos Anciãos."
+            ],
+            "ru": [
+              "Я намереваюсь кое-что изменить, когда войду в Круг старейшин."
+            ],
+            "s-cn": [
+              "等我跻身长老团，我打算做些改革。"
+            ],
+            "t-cn": [
+              "等我躋身長老團，我打算做些改革。"
             ]
           },
           "provenance": {
@@ -184,11 +391,65 @@
           "Sounds ... complicated.",
           "I have an eye to make some changes, when I ascend to the Circle of Elders."
         ],
+        "de": [
+          "... wie sich an den Samen zeigt: Sie sind kleiner als die eines gewöhnlichen Apfels.",
+          "Ist das nicht der Fall, darf die Transmutation dieser Pflanze nur im privaten Rahmen erfolgen.",
+          "Klingt ... kompliziert.",
+          "Ich habe vor, einiges zu ändern, sobald ich in den Kreis der Ältesten aufsteige."
+        ],
+        "es": [
+          "... como demuestra el hecho de que las semillas sean más pequeñas que las de una manzana común.",
+          "Si no lo son, la transmutación de esta planta solo podrá realizarse en privado.",
+          "Suena... complicado.",
+          "Tengo intención de hacer algunos cambios cuando llegue al Círculo de Ancianos."
+        ],
+        "fr": [
+          "... comme en témoignent les pépins, plus petits que ceux d'une pomme ordinaire.",
+          "Si ce n'est pas le cas, la transmutation de cette plante ne peut s'effectuer qu'en privé.",
+          "Ça a l'air... compliqué.",
+          "Je compte apporter quelques changements quand j'intégrerai le Cercle des anciens."
+        ],
+        "it": [
+          "... come dimostrano i semi, più piccoli di quelli di una mela comune.",
+          "Se non lo sono, la trasmutazione di questa pianta può essere effettuata solo in privato.",
+          "Sembra... complicato.",
+          "Ho intenzione di cambiare un po' le cose, quando entrerò nel Circolo degli anziani."
+        ],
+        "ja": [
+          "…種が普通のリンゴの種より小さいことからも、 それは明らかだ。",
+          "そうでなければ、この植物の変成は 人目のない場所でしか行えない。",
+          "なんか…面倒くさそうだな。",
+          "長老会の一員となったら、 いくつか改めたいと考えている。"
+        ],
+        "ko": [
+          "... 씨앗이 일반적인 사과의 씨앗보다 작다는 점이 그 증거야.",
+          "그렇지 않다면, 이 식물의 변성은 남의 눈에 띄지 않는 곳에서만 수행할 수 있지.",
+          "복잡한... 얘기 같네.",
+          "원로회에 들어가면 몇 가지를 바꿔볼 생각이네."
+        ],
         "pt-br": [
           "... como mostram as sementes menores que as de uma maçã comum.",
           "Se não forem, a transmutação desta planta só poderá ser realizada em um local privado.",
           "Parece... complicado.",
           "Pretendo fazer algumas mudanças, quando eu chegar ao Círculo dos Anciãos."
+        ],
+        "ru": [
+          "... о чём свидетельствуют семена, которые мельче, чем у обычного яблока.",
+          "В противном случае трансмутацию этого растения можно проводить лишь без посторонних.",
+          "Звучит... сложно.",
+          "Я намереваюсь кое-что изменить, когда войду в Круг старейшин."
+        ],
+        "s-cn": [
+          "……证据就是，它的种子比普通苹果的还要小。",
+          "如果不是这样，对这种植物的转化就只能私下进行。",
+          "听起来……挺复杂的。",
+          "等我跻身长老团，我打算做些改革。"
+        ],
+        "t-cn": [
+          "……證據就是，它的種子比普通蘋果的還要小。",
+          "如果不是這樣， 對這種植物的轉化就只能私下進行。",
+          "聽起來……挺複雜的。",
+          "等我躋身長老團，我打算做些改革。"
         ]
       },
       "silentCues": [],

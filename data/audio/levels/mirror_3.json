@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Keeping busy?"
             ],
+            "de": [
+              "Na, gut beschäftigt?"
+            ],
+            "es": [
+              "¿Cómo andas?"
+            ],
+            "fr": [
+              "On s'affaire ?"
+            ],
+            "it": [
+              "Si lavora?"
+            ],
+            "ja": [
+              "忙しくしてるか？"
+            ],
+            "ko": [
+              "바쁘게 지내나?"
+            ],
             "pt-br": [
               "Mantendo-se ocupado?"
+            ],
+            "ru": [
+              "Не скучаешь?"
+            ],
+            "s-cn": [
+              "忙着呢？"
+            ],
+            "t-cn": [
+              "忙著呢？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_watcher_first_1__trader_alt.wav",
             "subtitleCueLines": [
-              6011
+              6021
             ],
             "explicitAudioReference": null
           }
@@ -46,16 +82,52 @@
               "Keeping busy.",
               "I'd been wondering when I would be met."
             ],
+            "de": [
+              "Schwer beschäftigt.",
+              "Ich habe mich schon gefragt, wann mich jemand in Empfang nimmt."
+            ],
+            "es": [
+              "Pues ando con mucho que hacer.",
+              "Me preguntaba cuándo vendrían a recibirme."
+            ],
+            "fr": [
+              "On s'affaire.",
+              "Je me demandais quand quelqu'un viendrait à ma rencontre."
+            ],
+            "it": [
+              "Si lavora.",
+              "Mi chiedevo quando qualcuno mi sarebbe venuto incontro."
+            ],
+            "ja": [
+              "忙しくしている。",
+              "君たちのギルドは まだ存在するんだな。"
+            ],
+            "ko": [
+              "바쁘게 지내지.",
+              "언제쯤 누가 날 만나러 올까 궁금했어."
+            ],
             "pt-br": [
               "Mantendo-se ocupado.",
               "Eu estava me perguntando quando alguém viria me receber."
+            ],
+            "ru": [
+              "Не скучаю.",
+              "Я уже гадал, когда меня встретят."
+            ],
+            "s-cn": [
+              "忙着呢。",
+              "我一直在想，什么时候会有人来见我。"
+            ],
+            "t-cn": [
+              "忙著呢。",
+              "我一直在想，什麼時候會有人來見我。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_watcher_first_2__trader.wav",
             "subtitleCueLines": [
-              6015,
-              6018
+              6025,
+              6028
             ],
             "explicitAudioReference": null
           }
@@ -72,18 +144,63 @@
               "Well. I'm here to state that we are unoffended by your presence.",
               "You may run the trial as you see fit. I'm here to help."
             ],
+            "de": [
+              "Es sind seltsame Zeiten. Wir haben uns bedeckt gehalten.",
+              "Nun. Ich bin hier, um dir mitzuteilen, dass uns deine Anwesenheit nicht stört.",
+              "Du darfst die Prüfung angehen, wie du es für richtig hältst. Ich bin hier, um dir zu helfen."
+            ],
+            "es": [
+              "Últimamente hemos estado tranquilos. Son tiempos extraños.",
+              "Pues muy bien, vengo a declarar oficialmente que aceptamos tu presencia aquí.",
+              "Eres libre de llevar a cabo la prueba como mejor te parezca. Estoy aquí para ayudar."
+            ],
+            "fr": [
+              "Nous nous faisons discrets, ces derniers temps. Nous vivons une drôle d'époque.",
+              "Bref, je suis ici pour déclarer officiellement que nous acceptons votre présence ici.",
+              "Vous êtes libre de mener l'épreuve comme bon vous semble. Je suis ici pour vous aider."
+            ],
+            "it": [
+              "Ultimamente non ci facciamo sentire. Sono tempi strani.",
+              "Comunque, sono qui per dire che la tua presenza non ci offende.",
+              "Puoi svolgere la prova come meglio credi. Sono qui per aiutarti."
+            ],
+            "ja": [
+              "しばらく身を隠していただけだ。",
+              "ともかく、正式に 君の滞在を認めると 伝えに来た。",
+              "好きなように 試練を受けていい。"
+            ],
+            "ko": [
+              "요즘은 조용히 지내고 있어. 시절이 뒤숭숭해서.",
+              "어쨌든, 공식적으로 말하자면 우린 당신이 여기 있는 걸 불쾌하게 여기지 않아.",
+              "시련은 원하는 대로 자유롭게 진행하면 돼. 도움이 필요하다면 날 찾아와."
+            ],
             "pt-br": [
               "São tempos estranhos. Temos mantido a discrição.",
               "Enfim, estou aqui para informar que não nos ofendemos com sua presença.",
               "Você está livre para realizar o teste como bem entender. Estou aqui para ajudar."
+            ],
+            "ru": [
+              "Странные настали времена. Мы затаились.",
+              "В общем, я здесь, чтобы официально заявить: мы принимаем твоё присутствие здесь.",
+              "Ты волен проводить испытание так, как сочтёшь нужным. Я здесь, чтобы помочь."
+            ],
+            "s-cn": [
+              "如今时局诡异。 我们一直保持低调。",
+              "嗯。我来是想说明，我们对你的 到来并无不悦。",
+              "你可以按自己的方式进行试炼。 我会在这里帮你。"
+            ],
+            "t-cn": [
+              "如今時局詭異。 我們一直保持低調。",
+              "嗯。我來是想說明，我們對你的 到來並無不悅。",
+              "你可以按自己的方式進行試煉。 我會在這裡幫你。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_watcher_first_3__trader_alt.wav",
             "subtitleCueLines": [
-              6022,
-              6027,
-              6032
+              6032,
+              6037,
+              6042
             ],
             "explicitAudioReference": null
           }
@@ -102,6 +219,54 @@
           "Well. I'm here to state that we are unoffended by your presence.",
           "You may run the trial as you see fit. I'm here to help."
         ],
+        "de": [
+          "Na, gut beschäftigt?",
+          "Schwer beschäftigt.",
+          "Ich habe mich schon gefragt, wann mich jemand in Empfang nimmt.",
+          "Es sind seltsame Zeiten. Wir haben uns bedeckt gehalten.",
+          "Nun. Ich bin hier, um dir mitzuteilen, dass uns deine Anwesenheit nicht stört.",
+          "Du darfst die Prüfung angehen, wie du es für richtig hältst. Ich bin hier, um dir zu helfen."
+        ],
+        "es": [
+          "¿Cómo andas?",
+          "Pues ando con mucho que hacer.",
+          "Me preguntaba cuándo vendrían a recibirme.",
+          "Últimamente hemos estado tranquilos. Son tiempos extraños.",
+          "Pues muy bien, vengo a declarar oficialmente que aceptamos tu presencia aquí.",
+          "Eres libre de llevar a cabo la prueba como mejor te parezca. Estoy aquí para ayudar."
+        ],
+        "fr": [
+          "On s'affaire ?",
+          "On s'affaire.",
+          "Je me demandais quand quelqu'un viendrait à ma rencontre.",
+          "Nous nous faisons discrets, ces derniers temps. Nous vivons une drôle d'époque.",
+          "Bref, je suis ici pour déclarer officiellement que nous acceptons votre présence ici.",
+          "Vous êtes libre de mener l'épreuve comme bon vous semble. Je suis ici pour vous aider."
+        ],
+        "it": [
+          "Si lavora?",
+          "Si lavora.",
+          "Mi chiedevo quando qualcuno mi sarebbe venuto incontro.",
+          "Ultimamente non ci facciamo sentire. Sono tempi strani.",
+          "Comunque, sono qui per dire che la tua presenza non ci offende.",
+          "Puoi svolgere la prova come meglio credi. Sono qui per aiutarti."
+        ],
+        "ja": [
+          "忙しくしてるか？",
+          "忙しくしている。",
+          "君たちのギルドは まだ存在するんだな。",
+          "しばらく身を隠していただけだ。",
+          "ともかく、正式に 君の滞在を認めると 伝えに来た。",
+          "好きなように 試練を受けていい。"
+        ],
+        "ko": [
+          "바쁘게 지내나?",
+          "바쁘게 지내지.",
+          "언제쯤 누가 날 만나러 올까 궁금했어.",
+          "요즘은 조용히 지내고 있어. 시절이 뒤숭숭해서.",
+          "어쨌든, 공식적으로 말하자면 우린 당신이 여기 있는 걸 불쾌하게 여기지 않아.",
+          "시련은 원하는 대로 자유롭게 진행하면 돼. 도움이 필요하다면 날 찾아와."
+        ],
         "pt-br": [
           "Mantendo-se ocupado?",
           "Mantendo-se ocupado.",
@@ -109,6 +274,30 @@
           "São tempos estranhos. Temos mantido a discrição.",
           "Enfim, estou aqui para informar que não nos ofendemos com sua presença.",
           "Você está livre para realizar o teste como bem entender. Estou aqui para ajudar."
+        ],
+        "ru": [
+          "Не скучаешь?",
+          "Не скучаю.",
+          "Я уже гадал, когда меня встретят.",
+          "Странные настали времена. Мы затаились.",
+          "В общем, я здесь, чтобы официально заявить: мы принимаем твоё присутствие здесь.",
+          "Ты волен проводить испытание так, как сочтёшь нужным. Я здесь, чтобы помочь."
+        ],
+        "s-cn": [
+          "忙着呢？",
+          "忙着呢。",
+          "我一直在想，什么时候会有人来见我。",
+          "如今时局诡异。 我们一直保持低调。",
+          "嗯。我来是想说明，我们对你的 到来并无不悦。",
+          "你可以按自己的方式进行试炼。 我会在这里帮你。"
+        ],
+        "t-cn": [
+          "忙著呢？",
+          "忙著呢。",
+          "我一直在想，什麼時候會有人來見我。",
+          "如今時局詭異。 我們一直保持低調。",
+          "嗯。我來是想說明，我們對你的 到來並無不悅。",
+          "你可以按自己的方式進行試煉。 我會在這裡幫你。"
         ]
       },
       "silentCues": [],
@@ -130,7 +319,7 @@
             "source": "data-common/mirror_3.entities"
           }
         ],
-        "subtitleLine": 6010,
+        "subtitleLine": 6020,
         "subtitleHeader": "::"
       }
     }

@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -30,6 +39,66 @@
               "this makes the blocking crystals feel less intentional, and more random.",
               "Also, the Player will probably wonder if he is supposed to use the Double beam for something besides exiting the level (but he isn't)."
             ],
+            "de": [
+              "Wir haben dieses Level mehrfach überarbeitet und dabei jedes Mal vereinfacht.",
+              "Hier ist die ursprüngliche Version. Auf der linken Seite",
+              "haben wir einen Vorwand für die Präsenz des Stärkestrahls – er braucht ihn, um an den Versetzer zu kommen –",
+              "während der Stärkestrahl eigentlich nur da ist, damit die Priesterin Dinge schieben kann.",
+              "Im Idealfall ist es spannend und macht Spaß, mit der Priesterin die Monster zu schieben, aber hier ist das eher mühsam,",
+              "weil es mehrere Lösungen gibt, die alle etwas schwer zu erkennen sind;",
+              "dadurch wirken die blockierenden Kristalle weniger gezielt platziert und eher zufällig verteilt.",
+              "Außerdem fragt sich der Spieler vermutlich, ob er mit dem Doppelstrahl noch etwas anderes tun soll, als nur das Level zu verlassen (das soll er aber nicht)."
+            ],
+            "es": [
+              "Este nivel pasó por varias revisiones y cada vez se fue volviendo más simple.",
+              "Aquí está la versión inicial, donde en el lado izquierdo",
+              "tenemos una excusa para que esté ahí el haz de fuerza... lo necesita para conseguir el desplazador...",
+              "mientras que el haz de fuerza está ahí realmente para que la Sacerdotisa pueda empujar cosas.",
+              "Idealmente, que la Sacerdotisa empuje a los monstruos sería interesante, pero aquí resulta algo pesado",
+              "porque hay varias soluciones y todas son un poco difíciles de ver;",
+              "esto hace que los cristales de bloqueo parezcan menos intencionados y más aleatorios.",
+              "Además, el jugador probablemente se preguntará si se supone que debe usar el doble haz para algo más que salir del nivel (pero no)."
+            ],
+            "fr": [
+              "Ce niveau a connu un certain nombre de révisions, en étant simplifié à chaque fois.",
+              "Voici la version initiale, où sur le côté gauche,",
+              "nous avons une excuse pour que le faisceau de force soit là – il en a besoin pour obtenir le déplaceur –",
+              "alors qu'en réalité, le faisceau de force est là pour que la Prêtresse puisse pousser des choses.",
+              "En théorie, faire pousser les monstres par la Prêtresse devrait être intéressant et amusant, mais ici, c'est un peu laborieux",
+              "parce qu'il existe plusieurs solutions, et elles sont toutes un peu difficiles à voir ;",
+              "cela donne l'impression que les cristaux bloquants sont placés au hasard, et non de façon délibérée.",
+              "En plus, le joueur se demandera probablement s'il est censé utiliser le double faisceau pour autre chose que sortir du niveau (mais ce n'est pas le cas)."
+            ],
+            "it": [
+              "Questo livello ha attraversato una serie revisioni, in cui è stato semplificato ogni volta.",
+              "Ecco la versione iniziale, dove sul lato sinistro,",
+              "abbiamo una giustificazione per il raggio di forza... gli serve per ottenere il dislocatore...",
+              "mentre in realtà il raggio di Forza è lì perché la sacerdotessa possa spostare le cose.",
+              "Idealmente, la sacerdotessa che spinge i mostri dovrebbe essere interessante e divertente, ma qui è un po' una faticaccia",
+              "perché ci sono più soluzioni, e sono tutte un po' difficili da vedere.",
+              "Questo fa sembrare i cristalli di blocco meno intenzionali e più casuali.",
+              "Inoltre, il giocatore probabilmente si chiederà se dovrebbe usare il doppio raggio per qualcosa oltre a uscire dal livello (ma non è così)."
+            ],
+            "ja": [
+              "このステージは何度も改訂され、 その度にシンプル化されている。",
+              "これが初期のもので、 左側を見てみると、",
+              "置き換えの杖を手に入れるために 使うという、ストロングビームを 配置する口実がある。",
+              "その一方で、実際の目的は、 女司祭が物を押せるようにするために ストロングビームが置いてあるんだ。",
+              "モンスターを押す仕組みの方が 面白味があり理想的ではあるが、 ここではかなり骨の折れる作業になる。",
+              "というのも、複数のルートがあるからだ。 障害物になっているクリスタルは、",
+              "その位置が意図的ではなく、 より無作為なものに感じるだろう。",
+              "さらに、ダブルビームを脱出以外の 用途で使うべきかと悩むかもしれないが 実際はそうじゃない。"
+            ],
+            "ko": [
+              "이 레벨도 여러 차례 수정하면서 매번 더 단순하게 만들었지.",
+              "이게 초기 버전이야. 왼쪽을 보면",
+              "강화 빔이 있어야 할 명분은 있어. 변위기를 가져오려면 필요하니까.",
+              "하지만 강화 빔의 진짜 용도는 사제가 물건을 밀 수 있게 하려는 거야.",
+              "이상적으로는 사제가 괴물을 미는 과정 자체가 흥미롭고 재밌어야 하겠지만 여기서는 좀 지루한 편이지.",
+              "해법은 여러 가지인데, 모두 조금씩 알아보기 어렵기 때문이야.",
+              "그래서 길을 막는 수정이 의도적으로 느껴지기보다 다소 무작위처럼 느껴지거든.",
+              "그리고 플레이어는 이중 빔을 레벨을 나가는 것 외의 용도로 써야 하는지 고민하게 될 거야. 실제로는 아니지."
+            ],
             "pt-br": [
               "Esta fase passou por várias revisões, ficando mais simples a cada vez.",
               "Aqui está a versão inicial, em que, no lado esquerdo,",
@@ -39,19 +108,49 @@
               "porque há várias soluções, e todas são um pouco difíceis de enxergar;",
               "isso faz com que os cristais de bloqueio pareçam menos intencionais e mais aleatórios.",
               "Além disso, o jogador provavelmente vai se perguntar se deveria usar o Feixe Duplo para algo além de sair da fase (mas não deveria)."
+            ],
+            "ru": [
+              "Этот уровень прошёл через несколько переработок, каждый раз упрощаясь.",
+              "Вот первоначальная версия, где с левой стороны,",
+              "у нас объясняется, зачем там нужен луч силы — он нужен, чтобы получить смещатель —",
+              "хотя на самом деле луч силы там для того, чтобы Жрица могла двигать предметы.",
+              "В идеале, толкать монстров Жрицей было бы интересно и весело, но здесь это скорее утомляет",
+              "потому, что решений несколько, и все они не слишком очевидны;",
+              "из-за этого блокирующие кристаллы кажутся менее осмысленными и более случайными.",
+              "Кроме того, игрок, вероятно, задумается, нужно ли использовать двойной луч для чего-то, кроме выхода из уровня (но нет)."
+            ],
+            "s-cn": [
+              "这一关经历了多次修改，每次都在简化。",
+              "这是最初的版本，先看关卡左侧：",
+              "力量光束有理由登场……他需要借助光束拿到位移器……",
+              "可力量光束真正的作用，其实是让女祭司能够推动物体。",
+              "照理说，让女祭司推动怪物应该既有意思又好玩，可这里做起来却很麻烦，",
+              "因为解法不止一种，而且每一种都有点难看出来；",
+              "这就让那些用来阻挡的水晶显得不像是有意安排的，倒像是随手一摆。",
+              "此外，你还会怀疑双倍光束除了用来离开关卡， 是否另有用途（其实并没有）。"
+            ],
+            "t-cn": [
+              "這一關經歷了多次修改，每次都在簡化。",
+              "這是最初的版本，先看關卡左側：",
+              "力量光束有理由登場…… 他需要藉助光束拿到位移器……",
+              "可力量光束真正的作用， 其實是讓女祭司能夠推動物體。",
+              "照理說，讓女祭司推動怪物應該既有意思又好玩， 可這裡做起來卻很麻煩，",
+              "因為解法不止一種，而且每一種都有點難看出來；",
+              "這就讓那些用來阻擋的水晶顯得不像是有意安排的， 倒像是隨手一擺。",
+              "此外，你還會懷疑雙倍光束除了用來離開關卡， 是否另有用途（其實並沒有）。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_di_worlds_collide_heroes_and_promesst_1__director.wav",
             "subtitleCueLines": [
-              14195,
-              14199,
-              14203,
-              14207,
-              14211,
-              14216,
-              14220,
-              14224
+              14205,
+              14209,
+              14213,
+              14217,
+              14221,
+              14226,
+              14230,
+              14234
             ],
             "explicitAudioReference": null
           }
@@ -72,6 +171,66 @@
           "this makes the blocking crystals feel less intentional, and more random.",
           "Also, the Player will probably wonder if he is supposed to use the Double beam for something besides exiting the level (but he isn't)."
         ],
+        "de": [
+          "Wir haben dieses Level mehrfach überarbeitet und dabei jedes Mal vereinfacht.",
+          "Hier ist die ursprüngliche Version. Auf der linken Seite",
+          "haben wir einen Vorwand für die Präsenz des Stärkestrahls – er braucht ihn, um an den Versetzer zu kommen –",
+          "während der Stärkestrahl eigentlich nur da ist, damit die Priesterin Dinge schieben kann.",
+          "Im Idealfall ist es spannend und macht Spaß, mit der Priesterin die Monster zu schieben, aber hier ist das eher mühsam,",
+          "weil es mehrere Lösungen gibt, die alle etwas schwer zu erkennen sind;",
+          "dadurch wirken die blockierenden Kristalle weniger gezielt platziert und eher zufällig verteilt.",
+          "Außerdem fragt sich der Spieler vermutlich, ob er mit dem Doppelstrahl noch etwas anderes tun soll, als nur das Level zu verlassen (das soll er aber nicht)."
+        ],
+        "es": [
+          "Este nivel pasó por varias revisiones y cada vez se fue volviendo más simple.",
+          "Aquí está la versión inicial, donde en el lado izquierdo",
+          "tenemos una excusa para que esté ahí el haz de fuerza... lo necesita para conseguir el desplazador...",
+          "mientras que el haz de fuerza está ahí realmente para que la Sacerdotisa pueda empujar cosas.",
+          "Idealmente, que la Sacerdotisa empuje a los monstruos sería interesante, pero aquí resulta algo pesado",
+          "porque hay varias soluciones y todas son un poco difíciles de ver;",
+          "esto hace que los cristales de bloqueo parezcan menos intencionados y más aleatorios.",
+          "Además, el jugador probablemente se preguntará si se supone que debe usar el doble haz para algo más que salir del nivel (pero no)."
+        ],
+        "fr": [
+          "Ce niveau a connu un certain nombre de révisions, en étant simplifié à chaque fois.",
+          "Voici la version initiale, où sur le côté gauche,",
+          "nous avons une excuse pour que le faisceau de force soit là – il en a besoin pour obtenir le déplaceur –",
+          "alors qu'en réalité, le faisceau de force est là pour que la Prêtresse puisse pousser des choses.",
+          "En théorie, faire pousser les monstres par la Prêtresse devrait être intéressant et amusant, mais ici, c'est un peu laborieux",
+          "parce qu'il existe plusieurs solutions, et elles sont toutes un peu difficiles à voir ;",
+          "cela donne l'impression que les cristaux bloquants sont placés au hasard, et non de façon délibérée.",
+          "En plus, le joueur se demandera probablement s'il est censé utiliser le double faisceau pour autre chose que sortir du niveau (mais ce n'est pas le cas)."
+        ],
+        "it": [
+          "Questo livello ha attraversato una serie revisioni, in cui è stato semplificato ogni volta.",
+          "Ecco la versione iniziale, dove sul lato sinistro,",
+          "abbiamo una giustificazione per il raggio di forza... gli serve per ottenere il dislocatore...",
+          "mentre in realtà il raggio di Forza è lì perché la sacerdotessa possa spostare le cose.",
+          "Idealmente, la sacerdotessa che spinge i mostri dovrebbe essere interessante e divertente, ma qui è un po' una faticaccia",
+          "perché ci sono più soluzioni, e sono tutte un po' difficili da vedere.",
+          "Questo fa sembrare i cristalli di blocco meno intenzionali e più casuali.",
+          "Inoltre, il giocatore probabilmente si chiederà se dovrebbe usare il doppio raggio per qualcosa oltre a uscire dal livello (ma non è così)."
+        ],
+        "ja": [
+          "このステージは何度も改訂され、 その度にシンプル化されている。",
+          "これが初期のもので、 左側を見てみると、",
+          "置き換えの杖を手に入れるために 使うという、ストロングビームを 配置する口実がある。",
+          "その一方で、実際の目的は、 女司祭が物を押せるようにするために ストロングビームが置いてあるんだ。",
+          "モンスターを押す仕組みの方が 面白味があり理想的ではあるが、 ここではかなり骨の折れる作業になる。",
+          "というのも、複数のルートがあるからだ。 障害物になっているクリスタルは、",
+          "その位置が意図的ではなく、 より無作為なものに感じるだろう。",
+          "さらに、ダブルビームを脱出以外の 用途で使うべきかと悩むかもしれないが 実際はそうじゃない。"
+        ],
+        "ko": [
+          "이 레벨도 여러 차례 수정하면서 매번 더 단순하게 만들었지.",
+          "이게 초기 버전이야. 왼쪽을 보면",
+          "강화 빔이 있어야 할 명분은 있어. 변위기를 가져오려면 필요하니까.",
+          "하지만 강화 빔의 진짜 용도는 사제가 물건을 밀 수 있게 하려는 거야.",
+          "이상적으로는 사제가 괴물을 미는 과정 자체가 흥미롭고 재밌어야 하겠지만 여기서는 좀 지루한 편이지.",
+          "해법은 여러 가지인데, 모두 조금씩 알아보기 어렵기 때문이야.",
+          "그래서 길을 막는 수정이 의도적으로 느껴지기보다 다소 무작위처럼 느껴지거든.",
+          "그리고 플레이어는 이중 빔을 레벨을 나가는 것 외의 용도로 써야 하는지 고민하게 될 거야. 실제로는 아니지."
+        ],
         "pt-br": [
           "Esta fase passou por várias revisões, ficando mais simples a cada vez.",
           "Aqui está a versão inicial, em que, no lado esquerdo,",
@@ -81,6 +240,36 @@
           "porque há várias soluções, e todas são um pouco difíceis de enxergar;",
           "isso faz com que os cristais de bloqueio pareçam menos intencionais e mais aleatórios.",
           "Além disso, o jogador provavelmente vai se perguntar se deveria usar o Feixe Duplo para algo além de sair da fase (mas não deveria)."
+        ],
+        "ru": [
+          "Этот уровень прошёл через несколько переработок, каждый раз упрощаясь.",
+          "Вот первоначальная версия, где с левой стороны,",
+          "у нас объясняется, зачем там нужен луч силы — он нужен, чтобы получить смещатель —",
+          "хотя на самом деле луч силы там для того, чтобы Жрица могла двигать предметы.",
+          "В идеале, толкать монстров Жрицей было бы интересно и весело, но здесь это скорее утомляет",
+          "потому, что решений несколько, и все они не слишком очевидны;",
+          "из-за этого блокирующие кристаллы кажутся менее осмысленными и более случайными.",
+          "Кроме того, игрок, вероятно, задумается, нужно ли использовать двойной луч для чего-то, кроме выхода из уровня (но нет)."
+        ],
+        "s-cn": [
+          "这一关经历了多次修改，每次都在简化。",
+          "这是最初的版本，先看关卡左侧：",
+          "力量光束有理由登场……他需要借助光束拿到位移器……",
+          "可力量光束真正的作用，其实是让女祭司能够推动物体。",
+          "照理说，让女祭司推动怪物应该既有意思又好玩，可这里做起来却很麻烦，",
+          "因为解法不止一种，而且每一种都有点难看出来；",
+          "这就让那些用来阻挡的水晶显得不像是有意安排的，倒像是随手一摆。",
+          "此外，你还会怀疑双倍光束除了用来离开关卡， 是否另有用途（其实并没有）。"
+        ],
+        "t-cn": [
+          "這一關經歷了多次修改，每次都在簡化。",
+          "這是最初的版本，先看關卡左側：",
+          "力量光束有理由登場…… 他需要藉助光束拿到位移器……",
+          "可力量光束真正的作用， 其實是讓女祭司能夠推動物體。",
+          "照理說，讓女祭司推動怪物應該既有意思又好玩， 可這裡做起來卻很麻煩，",
+          "因為解法不止一種，而且每一種都有點難看出來；",
+          "這就讓那些用來阻擋的水晶顯得不像是有意安排的， 倒像是隨手一擺。",
+          "此外，你還會懷疑雙倍光束除了用來離開關卡， 是否另有用途（其實並沒有）。"
         ]
       },
       "silentCues": [],
@@ -102,7 +291,7 @@
             "source": "data-common/worlds_collide_heroes_and_promesst.entities"
           }
         ],
-        "subtitleLine": 14194,
+        "subtitleLine": 14204,
         "subtitleHeader": ":::"
       }
     }

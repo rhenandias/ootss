@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Suit, don't fall apart on me down here."
             ],
+            "de": [
+              "Anzug, mach mir hier unten bloß nicht schlapp."
+            ],
+            "es": [
+              "Traje, no me falles aquí abajo."
+            ],
+            "fr": [
+              "Chère combinaison, ne me lâche pas là-dessous."
+            ],
+            "it": [
+              "Tuta, non mi cadere a pezzi quaggiù."
+            ],
+            "ja": [
+              "スーツ、ここで 壊れないでくれよ。"
+            ],
+            "ko": [
+              "작업복아, 여기서 나를 버리지 말아 줘 ."
+            ],
             "pt-br": [
               "Traje, não desmorone em mim aqui embaixo."
+            ],
+            "ru": [
+              "Костюм, только не подведи меня здесь, внизу."
+            ],
+            "s-cn": [
+              "采晶服，你可别偏偏在地下坏掉啊。"
+            ],
+            "t-cn": [
+              "採晶服，你可別偏偏在地下壞掉啊。"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "Suit, don't fall apart on me down here."
         ],
+        "de": [
+          "Anzug, mach mir hier unten bloß nicht schlapp."
+        ],
+        "es": [
+          "Traje, no me falles aquí abajo."
+        ],
+        "fr": [
+          "Chère combinaison, ne me lâche pas là-dessous."
+        ],
+        "it": [
+          "Tuta, non mi cadere a pezzi quaggiù."
+        ],
+        "ja": [
+          "スーツ、ここで 壊れないでくれよ。"
+        ],
+        "ko": [
+          "작업복아, 여기서 나를 버리지 말아 줘 ."
+        ],
         "pt-br": [
           "Traje, não desmorone em mim aqui embaixo."
+        ],
+        "ru": [
+          "Костюм, только не подведи меня здесь, внизу."
+        ],
+        "s-cn": [
+          "采晶服，你可别偏偏在地下坏掉啊。"
+        ],
+        "t-cn": [
+          "採晶服，你可別偏偏在地下壞掉啊。"
         ]
       },
       "silentCues": [],
@@ -97,8 +160,35 @@
             "en": [
               "The shifter's working! Might really get somewhere."
             ],
+            "de": [
+              "Der Wandler funktioniert! Vielleicht komme ich wirklich voran."
+            ],
+            "es": [
+              "¡El traje funciona! Puede que de verdad lleguemos a alguna parte."
+            ],
+            "fr": [
+              "Le transpositeur fonctionne. C'est plutôt bien parti."
+            ],
+            "it": [
+              "Il dispositivo funziona! Potremmo davvero andare lontano."
+            ],
+            "ja": [
+              "スーツが機能してる。 これなら行けそうだ。"
+            ],
+            "ko": [
+              "변환 장치가 잘 작동하고 있어! 정말 성과가 있을지도 몰라."
+            ],
             "pt-br": [
               "Traje funcionando! Talvez eu realmente chegue a algum lugar."
+            ],
+            "ru": [
+              "Костюм работает. Может, и правда продвинемся."
+            ],
+            "s-cn": [
+              "缩放装置起作用了！也许真能干点什么。"
+            ],
+            "t-cn": [
+              "縮放裝置起作用了！也許真能幹點什麼。"
             ]
           },
           "provenance": {
@@ -118,8 +208,35 @@
         "en": [
           "The shifter's working! Might really get somewhere."
         ],
+        "de": [
+          "Der Wandler funktioniert! Vielleicht komme ich wirklich voran."
+        ],
+        "es": [
+          "¡El traje funciona! Puede que de verdad lleguemos a alguna parte."
+        ],
+        "fr": [
+          "Le transpositeur fonctionne. C'est plutôt bien parti."
+        ],
+        "it": [
+          "Il dispositivo funziona! Potremmo davvero andare lontano."
+        ],
+        "ja": [
+          "スーツが機能してる。 これなら行けそうだ。"
+        ],
+        "ko": [
+          "변환 장치가 잘 작동하고 있어! 정말 성과가 있을지도 몰라."
+        ],
         "pt-br": [
           "Traje funcionando! Talvez eu realmente chegue a algum lugar."
+        ],
+        "ru": [
+          "Костюм работает. Может, и правда продвинемся."
+        ],
+        "s-cn": [
+          "缩放装置起作用了！也许真能干点什么。"
+        ],
+        "t-cn": [
+          "縮放裝置起作用了！也許真能幹點什麼。"
         ]
       },
       "silentCues": [],
@@ -158,8 +275,35 @@
             "en": [
               "Feels pretty good!"
             ],
+            "de": [
+              "Fühlt sich echt gut an!"
+            ],
+            "es": [
+              "¡La sensación es bastante buena!"
+            ],
+            "fr": [
+              "Ça me paraît pas mal !"
+            ],
+            "it": [
+              "Mi sento benissimo!"
+            ],
+            "ja": [
+              "いい感じだ！"
+            ],
+            "ko": [
+              "꽤 괜찮은데!"
+            ],
             "pt-br": [
               "Tá até bom!"
+            ],
+            "ru": [
+              "Очень даже неплохо!"
+            ],
+            "s-cn": [
+              "感觉还不错！"
+            ],
+            "t-cn": [
+              "感覺還不錯！"
             ]
           },
           "provenance": {
@@ -179,8 +323,35 @@
         "en": [
           "Feels pretty good!"
         ],
+        "de": [
+          "Fühlt sich echt gut an!"
+        ],
+        "es": [
+          "¡La sensación es bastante buena!"
+        ],
+        "fr": [
+          "Ça me paraît pas mal !"
+        ],
+        "it": [
+          "Mi sento benissimo!"
+        ],
+        "ja": [
+          "いい感じだ！"
+        ],
+        "ko": [
+          "꽤 괜찮은데!"
+        ],
         "pt-br": [
           "Tá até bom!"
+        ],
+        "ru": [
+          "Очень даже неплохо!"
+        ],
+        "s-cn": [
+          "感觉还不错！"
+        ],
+        "t-cn": [
+          "感覺還不錯！"
         ]
       },
       "silentCues": [],
@@ -219,8 +390,35 @@
             "en": [
               "Still grinding away! They really knew how to build stuff back then."
             ],
+            "de": [
+              "Die funktionieren immer noch! Damals haben sie echt gewusst, wie man Sachen baut."
+            ],
+            "es": [
+              "¡Esto sigue funcionando! De verdad sabían construir cosas en aquel entonces."
+            ],
+            "fr": [
+              "Ça tourne encore ! Ils savaient vraiment ce qu'ils faisaient, à l'époque."
+            ],
+            "it": [
+              "Macinano ancora! Sapevano davvero costruire le cose, allora."
+            ],
+            "ja": [
+              "まだ動いてる！ 昔の技術は 大したものだ。"
+            ],
+            "ko": [
+              "아직도 계속 돌아가잖아! 옛날엔 정말 물건을 잘 만들었다니까."
+            ],
             "pt-br": [
               "Essas máquinas ainda estão funcionando! Eles realmente sabiam construir as coisas naquela época."
+            ],
+            "ru": [
+              "Они всё ещё скрипят! Умели же строить в те времена."
+            ],
+            "s-cn": [
+              "机器居然还在运转！那个年代的人造东西是真的厉害。"
+            ],
+            "t-cn": [
+              "機器居然還在運轉！ 那個年代的人造東西是真的厲害。"
             ]
           },
           "provenance": {
@@ -240,8 +438,35 @@
         "en": [
           "Still grinding away! They really knew how to build stuff back then."
         ],
+        "de": [
+          "Die funktionieren immer noch! Damals haben sie echt gewusst, wie man Sachen baut."
+        ],
+        "es": [
+          "¡Esto sigue funcionando! De verdad sabían construir cosas en aquel entonces."
+        ],
+        "fr": [
+          "Ça tourne encore ! Ils savaient vraiment ce qu'ils faisaient, à l'époque."
+        ],
+        "it": [
+          "Macinano ancora! Sapevano davvero costruire le cose, allora."
+        ],
+        "ja": [
+          "まだ動いてる！ 昔の技術は 大したものだ。"
+        ],
+        "ko": [
+          "아직도 계속 돌아가잖아! 옛날엔 정말 물건을 잘 만들었다니까."
+        ],
         "pt-br": [
           "Essas máquinas ainda estão funcionando! Eles realmente sabiam construir as coisas naquela época."
+        ],
+        "ru": [
+          "Они всё ещё скрипят! Умели же строить в те времена."
+        ],
+        "s-cn": [
+          "机器居然还在运转！那个年代的人造东西是真的厉害。"
+        ],
+        "t-cn": [
+          "機器居然還在運轉！ 那個年代的人造東西是真的厲害。"
         ]
       },
       "silentCues": [],
@@ -294,9 +519,45 @@
               "Pocket size confirmed. It's manageable.",
               "Next question: how deep does this go?"
             ],
+            "de": [
+              "Taschengröße bestätigt. Das ist machbar.",
+              "Nächste Frage: Wie tief geht es hier runter?"
+            ],
+            "es": [
+              "Tamaño de la dimensión de bolsillo confirmado. Es manejable.",
+              "Siguiente pregunta: ¿a qué profundidad llega esto?"
+            ],
+            "fr": [
+              "Taille de la poche confirmée. C'est gérable.",
+              "Question suivante : jusqu'où ça descend ?"
+            ],
+            "it": [
+              "Confermato: dimensione sacca. Si può gestire.",
+              "Prossima domanda: quanto è profonda?"
+            ],
+            "ja": [
+              "携帯サイズ。 これなら扱える。",
+              "さて…どこまで続いてる？"
+            ],
+            "ko": [
+              "구덩이 크기 확인. 이 정도면 감당할 수 있어.",
+              "다음 문제는 이게 대체 얼마나 깊이 이어져 있느냐인데?"
+            ],
             "pt-br": [
               "Tamanho de bolsão confirmado. É gerenciável.",
               "Próxima pergunta: qual é a profundidade?"
+            ],
+            "ru": [
+              "Размер тайника подтверждён. Вполне по силам.",
+              "Следующий вопрос: насколько глубоко он уходит?"
+            ],
+            "s-cn": [
+              "口袋矿的大小已确认。可以应付。",
+              "下一个问题：这里到底有多深？"
+            ],
+            "t-cn": [
+              "口袋礦的大小已確認。可以應付。",
+              "下一個問題：這裡到底有多深？"
             ]
           },
           "provenance": {
@@ -318,9 +579,45 @@
           "Pocket size confirmed. It's manageable.",
           "Next question: how deep does this go?"
         ],
+        "de": [
+          "Taschengröße bestätigt. Das ist machbar.",
+          "Nächste Frage: Wie tief geht es hier runter?"
+        ],
+        "es": [
+          "Tamaño de la dimensión de bolsillo confirmado. Es manejable.",
+          "Siguiente pregunta: ¿a qué profundidad llega esto?"
+        ],
+        "fr": [
+          "Taille de la poche confirmée. C'est gérable.",
+          "Question suivante : jusqu'où ça descend ?"
+        ],
+        "it": [
+          "Confermato: dimensione sacca. Si può gestire.",
+          "Prossima domanda: quanto è profonda?"
+        ],
+        "ja": [
+          "携帯サイズ。 これなら扱える。",
+          "さて…どこまで続いてる？"
+        ],
+        "ko": [
+          "구덩이 크기 확인. 이 정도면 감당할 수 있어.",
+          "다음 문제는 이게 대체 얼마나 깊이 이어져 있느냐인데?"
+        ],
         "pt-br": [
           "Tamanho de bolsão confirmado. É gerenciável.",
           "Próxima pergunta: qual é a profundidade?"
+        ],
+        "ru": [
+          "Размер тайника подтверждён. Вполне по силам.",
+          "Следующий вопрос: насколько глубоко он уходит?"
+        ],
+        "s-cn": [
+          "口袋矿的大小已确认。可以应付。",
+          "下一个问题：这里到底有多深？"
+        ],
+        "t-cn": [
+          "口袋礦的大小已確認。可以應付。",
+          "下一個問題：這裡到底有多深？"
         ]
       },
       "silentCues": [],
@@ -372,8 +669,35 @@
             "en": [
               "Justified. We'll learn to build new ones."
             ],
+            "de": [
+              "Das ist schon gerechtfertigt. Wir werden lernen, neue zu bauen."
+            ],
+            "es": [
+              "Valdrá la pena. Aprenderemos a construir otros nuevos otra vez."
+            ],
+            "fr": [
+              "La fin justifie les moyens. On apprendra à en construire de nouveaux."
+            ],
+            "it": [
+              "Ne varrà la pena. Impareremo a costruirne di nuove."
+            ],
+            "ja": [
+              "問題ない。 新しく造ればいいからな。"
+            ],
+            "ko": [
+              "그럴 만한 이유는 있어. 우리도 새 걸 만드는 법을 배우게 될 테니까."
+            ],
             "pt-br": [
               "Justificado. Vamos aprender a construir novos."
+            ],
+            "ru": [
+              "Это себя оправдает. Мы ещё научимся делать новые."
+            ],
+            "s-cn": [
+              "值得。我们总会学会怎么造新的。"
+            ],
+            "t-cn": [
+              "值得。我們總會學會怎麼造新的。"
             ]
           },
           "provenance": {
@@ -393,8 +717,35 @@
         "en": [
           "Justified. We'll learn to build new ones."
         ],
+        "de": [
+          "Das ist schon gerechtfertigt. Wir werden lernen, neue zu bauen."
+        ],
+        "es": [
+          "Valdrá la pena. Aprenderemos a construir otros nuevos otra vez."
+        ],
+        "fr": [
+          "La fin justifie les moyens. On apprendra à en construire de nouveaux."
+        ],
+        "it": [
+          "Ne varrà la pena. Impareremo a costruirne di nuove."
+        ],
+        "ja": [
+          "問題ない。 新しく造ればいいからな。"
+        ],
+        "ko": [
+          "그럴 만한 이유는 있어. 우리도 새 걸 만드는 법을 배우게 될 테니까."
+        ],
         "pt-br": [
           "Justificado. Vamos aprender a construir novos."
+        ],
+        "ru": [
+          "Это себя оправдает. Мы ещё научимся делать новые."
+        ],
+        "s-cn": [
+          "值得。我们总会学会怎么造新的。"
+        ],
+        "t-cn": [
+          "值得。我們總會學會怎麼造新的。"
         ]
       },
       "silentCues": [],
@@ -434,9 +785,45 @@
               "Mottled, polished ... iridescent? But ... what is it?",
               "Does this have something to do with the Great Shutdown?"
             ],
+            "de": [
+              "Gesprenkelt, poliert ... schillernd? Aber ... was ist das?",
+              "Hat das etwas zu tun mit der Großen Abschaltung?"
+            ],
+            "es": [
+              "Moteado, pulido... ¿iridiscente? Pero... ¿qué es?",
+              "¿Esto tiene algo que ver con el Gran Apagón?"
+            ],
+            "fr": [
+              "Marbré, poli... irisé ? Mais... qu'est-ce que c'est ?",
+              "Est-ce que cela a un rapport avec le Grand Arrêt ?"
+            ],
+            "it": [
+              "Maculato, levigato... iridescente? Ma... cos'è?",
+              "Ha qualcosa a che fare con il Grande arresto?"
+            ],
+            "ja": [
+              "これはまるで…雪花石膏？ だがなんだ？ 昔はこれを巡って 争ってたのか？",
+              "あの大停止と、何か関係があるのか？"
+            ],
+            "ko": [
+              "얼룩덜룩하고, 매끈하고... 무지갯빛인가? 그런데... 이게 뭐지?",
+              "이게 대정지 사태와 무슨 관련이 있는 거야?"
+            ],
             "pt-br": [
               "Manchado, polido... iridescente? Mas... o que é isso?",
               "Isso tem alguma coisa a ver com a Grande Desativação?"
+            ],
+            "ru": [
+              "Пятнистое, отполированное... переливчатое? Но... что это?",
+              "Это как-то связано с Великим отключением?"
+            ],
+            "s-cn": [
+              "斑驳，光滑……泛着虹彩？可……这到底是什么？",
+              "这和大停摆有什么关系吗？"
+            ],
+            "t-cn": [
+              "斑駁，光滑……泛著虹彩？可……這到底是什麼？",
+              "這和大停擺有什麼關係嗎？"
             ]
           },
           "provenance": {
@@ -458,9 +845,45 @@
           "Mottled, polished ... iridescent? But ... what is it?",
           "Does this have something to do with the Great Shutdown?"
         ],
+        "de": [
+          "Gesprenkelt, poliert ... schillernd? Aber ... was ist das?",
+          "Hat das etwas zu tun mit der Großen Abschaltung?"
+        ],
+        "es": [
+          "Moteado, pulido... ¿iridiscente? Pero... ¿qué es?",
+          "¿Esto tiene algo que ver con el Gran Apagón?"
+        ],
+        "fr": [
+          "Marbré, poli... irisé ? Mais... qu'est-ce que c'est ?",
+          "Est-ce que cela a un rapport avec le Grand Arrêt ?"
+        ],
+        "it": [
+          "Maculato, levigato... iridescente? Ma... cos'è?",
+          "Ha qualcosa a che fare con il Grande arresto?"
+        ],
+        "ja": [
+          "これはまるで…雪花石膏？ だがなんだ？ 昔はこれを巡って 争ってたのか？",
+          "あの大停止と、何か関係があるのか？"
+        ],
+        "ko": [
+          "얼룩덜룩하고, 매끈하고... 무지갯빛인가? 그런데... 이게 뭐지?",
+          "이게 대정지 사태와 무슨 관련이 있는 거야?"
+        ],
         "pt-br": [
           "Manchado, polido... iridescente? Mas... o que é isso?",
           "Isso tem alguma coisa a ver com a Grande Desativação?"
+        ],
+        "ru": [
+          "Пятнистое, отполированное... переливчатое? Но... что это?",
+          "Это как-то связано с Великим отключением?"
+        ],
+        "s-cn": [
+          "斑驳，光滑……泛着虹彩？可……这到底是什么？",
+          "这和大停摆有什么关系吗？"
+        ],
+        "t-cn": [
+          "斑駁，光滑……泛著虹彩？可……這到底是什麼？",
+          "這和大停擺有什麼關係嗎？"
         ]
       },
       "silentCues": [],
@@ -512,8 +935,35 @@
             "en": [
               "More temple. Ever stranger."
             ],
+            "de": [
+              "Noch mehr Tempel. Immer seltsamer."
+            ],
+            "es": [
+              "Más templo. Cada vez más raro."
+            ],
+            "fr": [
+              "Encore un temple. De plus en plus étrange."
+            ],
+            "it": [
+              "Altro tempio. Sempre più strano."
+            ],
+            "ja": [
+              "また神殿。 ますます奇妙だ。"
+            ],
+            "ko": [
+              "사원이 더 있네. 점점 더 이상해지는걸."
+            ],
             "pt-br": [
               "Mais templo. Cada vez mais estranho."
+            ],
+            "ru": [
+              "Очередной храм. Всё страннее."
+            ],
+            "s-cn": [
+              "又是神殿。越来越奇怪了。"
+            ],
+            "t-cn": [
+              "又是神殿。越來越奇怪了。"
             ]
           },
           "provenance": {
@@ -533,8 +983,35 @@
         "en": [
           "More temple. Ever stranger."
         ],
+        "de": [
+          "Noch mehr Tempel. Immer seltsamer."
+        ],
+        "es": [
+          "Más templo. Cada vez más raro."
+        ],
+        "fr": [
+          "Encore un temple. De plus en plus étrange."
+        ],
+        "it": [
+          "Altro tempio. Sempre più strano."
+        ],
+        "ja": [
+          "また神殿。 ますます奇妙だ。"
+        ],
+        "ko": [
+          "사원이 더 있네. 점점 더 이상해지는걸."
+        ],
         "pt-br": [
           "Mais templo. Cada vez mais estranho."
+        ],
+        "ru": [
+          "Очередной храм. Всё страннее."
+        ],
+        "s-cn": [
+          "又是神殿。越来越奇怪了。"
+        ],
+        "t-cn": [
+          "又是神殿。越來越奇怪了。"
         ]
       },
       "silentCues": [],
@@ -586,8 +1063,35 @@
             "en": [
               "Return with gems. Gems bring life!"
             ],
+            "de": [
+              "Komm mit Edelsteinen zurück. Edelsteine bringen Leben!"
+            ],
+            "es": [
+              "Regresa con gemas. ¡Las gemas dan vida!"
+            ],
+            "fr": [
+              "Reviens avec les gemmes. Les gemmes apportent la vie !"
+            ],
+            "it": [
+              "Torna con gemme. Le gemme portano vita!"
+            ],
+            "ja": [
+              "宝石を持ってこい。 宝石は命！"
+            ],
+            "ko": [
+              "보석을 가지고 돌아가자. 보석은 삶을 풍요롭게 하지!"
+            ],
             "pt-br": [
               "Volte com gemas. Gemas trazem vida!"
+            ],
+            "ru": [
+              "Возвращайся с самоцветами. Самоцветы несут жизнь!"
+            ],
+            "s-cn": [
+              "带宝石回来。宝石带来生命！"
+            ],
+            "t-cn": [
+              "帶寶石回來。寶石帶來生命！"
             ]
           },
           "provenance": {
@@ -608,8 +1112,35 @@
             "en": [
               "Uhh. The depths are getting to me."
             ],
+            "de": [
+              "Äh. Die Tiefe setzt mir langsam zu."
+            ],
+            "es": [
+              "Uhh. Las profundidades me están afectando."
+            ],
+            "fr": [
+              "Euh... La profondeur me monte à la tête."
+            ],
+            "it": [
+              "Ehm. Le profondità mi stanno dando alla testa."
+            ],
+            "ja": [
+              "うっ…深く進みすぎて 幻聴を…"
+            ],
+            "ko": [
+              "으으. 이렇게 깊이 내려오니 못 견디겠군."
+            ],
             "pt-br": [
               "Uhh. As profundezas estão me afetando."
+            ],
+            "ru": [
+              "Эээ. Глубины уже действуют мне на нервы."
+            ],
+            "s-cn": [
+              "呃……一定是待在地底太久，脑子都有点不清楚了。"
+            ],
+            "t-cn": [
+              "呃……一定是待在地底太久，腦子都有點不清楚了。"
             ]
           },
           "provenance": {
@@ -630,9 +1161,45 @@
           "Return with gems. Gems bring life!",
           "Uhh. The depths are getting to me."
         ],
+        "de": [
+          "Komm mit Edelsteinen zurück. Edelsteine bringen Leben!",
+          "Äh. Die Tiefe setzt mir langsam zu."
+        ],
+        "es": [
+          "Regresa con gemas. ¡Las gemas dan vida!",
+          "Uhh. Las profundidades me están afectando."
+        ],
+        "fr": [
+          "Reviens avec les gemmes. Les gemmes apportent la vie !",
+          "Euh... La profondeur me monte à la tête."
+        ],
+        "it": [
+          "Torna con gemme. Le gemme portano vita!",
+          "Ehm. Le profondità mi stanno dando alla testa."
+        ],
+        "ja": [
+          "宝石を持ってこい。 宝石は命！",
+          "うっ…深く進みすぎて 幻聴を…"
+        ],
+        "ko": [
+          "보석을 가지고 돌아가자. 보석은 삶을 풍요롭게 하지!",
+          "으으. 이렇게 깊이 내려오니 못 견디겠군."
+        ],
         "pt-br": [
           "Volte com gemas. Gemas trazem vida!",
           "Uhh. As profundezas estão me afetando."
+        ],
+        "ru": [
+          "Возвращайся с самоцветами. Самоцветы несут жизнь!",
+          "Эээ. Глубины уже действуют мне на нервы."
+        ],
+        "s-cn": [
+          "带宝石回来。宝石带来生命！",
+          "呃……一定是待在地底太久，脑子都有点不清楚了。"
+        ],
+        "t-cn": [
+          "帶寶石回來。寶石帶來生命！",
+          "呃……一定是待在地底太久，腦子都有點不清楚了。"
         ]
       },
       "silentCues": [],
@@ -684,8 +1251,35 @@
             "en": [
               "Place them. Place them!!"
             ],
+            "de": [
+              "Leg sie hin. Leg sie hin!!"
+            ],
+            "es": [
+              "Colócalas. ¡Colócalas!"
+            ],
+            "fr": [
+              "Pose-les. Pose-les !!"
+            ],
+            "it": [
+              "Mettile. Mettile!"
+            ],
+            "ja": [
+              "置け。 置け！！"
+            ],
+            "ko": [
+              "그걸 놔. 놓으라고!!"
+            ],
             "pt-br": [
               "Coloque. Coloque!"
+            ],
+            "ru": [
+              "Расставь их. Расставь их!!"
+            ],
+            "s-cn": [
+              "放上去。快放上去！！"
+            ],
+            "t-cn": [
+              "放上去。快放上去！！"
             ]
           },
           "provenance": {
@@ -705,8 +1299,35 @@
         "en": [
           "Place them. Place them!!"
         ],
+        "de": [
+          "Leg sie hin. Leg sie hin!!"
+        ],
+        "es": [
+          "Colócalas. ¡Colócalas!"
+        ],
+        "fr": [
+          "Pose-les. Pose-les !!"
+        ],
+        "it": [
+          "Mettile. Mettile!"
+        ],
+        "ja": [
+          "置け。 置け！！"
+        ],
+        "ko": [
+          "그걸 놔. 놓으라고!!"
+        ],
         "pt-br": [
           "Coloque. Coloque!"
+        ],
+        "ru": [
+          "Расставь их. Расставь их!!"
+        ],
+        "s-cn": [
+          "放上去。快放上去！！"
+        ],
+        "t-cn": [
+          "放上去。快放上去！！"
         ]
       },
       "silentCues": [],
@@ -759,9 +1380,45 @@
               "A rod of alabaster, fixed onto a leather cuff.",
               "Metallic fittings look to impart some function."
             ],
+            "de": [
+              "Ein Stab aus Alabaster, an einer Ledermanschette befestigt.",
+              "Die Metallbeschläge sind wohl dazu da, dem Ganzen eine Funktion zu geben."
+            ],
+            "es": [
+              "Una varilla de alabastro, fijada a un brazalete de cuero.",
+              "Los herrajes metálicos parecen aportar alguna función."
+            ],
+            "fr": [
+              "Une baguette d'albâtre, fixée sur un bracelet de cuir.",
+              "Les ornements métalliques semblent remplir une fonction."
+            ],
+            "it": [
+              "Un bastone di alabastro, fisso su un bracciale di cuoio.",
+              "Gli ornamenti metallici sembrano avere qualche funzione."
+            ],
+            "ja": [
+              "革の腕輪に、 雪花石膏の棒が付いてる。",
+              "金属の装飾にも 仕掛けがありそうだ。"
+            ],
+            "ko": [
+              "가죽 커프에 설화 석고 막대가 고정되어 있어.",
+              "금속 부품들이 어떤 기능을 하는 것 같아."
+            ],
             "pt-br": [
               "Uma haste de alabastro, fixada a uma braçadeira de couro.",
               "Peças metálicas parecem conferir alguma função."
+            ],
+            "ru": [
+              "Алебастровый стержень, закреплённый на кожаной манжете.",
+              "Металлические детали, похоже, выполняют какую-то функцию."
+            ],
+            "s-cn": [
+              "一根雪花石膏短杖，固定在一个皮质护腕上。",
+              "金属配件看起来有某种用途。"
+            ],
+            "t-cn": [
+              "一根雪花石膏短杖，固定在一個皮質護腕上。",
+              "金屬配件看起來有某種用途。"
             ]
           },
           "provenance": {
@@ -783,9 +1440,45 @@
           "A rod of alabaster, fixed onto a leather cuff.",
           "Metallic fittings look to impart some function."
         ],
+        "de": [
+          "Ein Stab aus Alabaster, an einer Ledermanschette befestigt.",
+          "Die Metallbeschläge sind wohl dazu da, dem Ganzen eine Funktion zu geben."
+        ],
+        "es": [
+          "Una varilla de alabastro, fijada a un brazalete de cuero.",
+          "Los herrajes metálicos parecen aportar alguna función."
+        ],
+        "fr": [
+          "Une baguette d'albâtre, fixée sur un bracelet de cuir.",
+          "Les ornements métalliques semblent remplir une fonction."
+        ],
+        "it": [
+          "Un bastone di alabastro, fisso su un bracciale di cuoio.",
+          "Gli ornamenti metallici sembrano avere qualche funzione."
+        ],
+        "ja": [
+          "革の腕輪に、 雪花石膏の棒が付いてる。",
+          "金属の装飾にも 仕掛けがありそうだ。"
+        ],
+        "ko": [
+          "가죽 커프에 설화 석고 막대가 고정되어 있어.",
+          "금속 부품들이 어떤 기능을 하는 것 같아."
+        ],
         "pt-br": [
           "Uma haste de alabastro, fixada a uma braçadeira de couro.",
           "Peças metálicas parecem conferir alguma função."
+        ],
+        "ru": [
+          "Алебастровый стержень, закреплённый на кожаной манжете.",
+          "Металлические детали, похоже, выполняют какую-то функцию."
+        ],
+        "s-cn": [
+          "一根雪花石膏短杖，固定在一个皮质护腕上。",
+          "金属配件看起来有某种用途。"
+        ],
+        "t-cn": [
+          "一根雪花石膏短杖，固定在一個皮質護腕上。",
+          "金屬配件看起來有某種用途。"
         ]
       },
       "silentCues": [],
@@ -838,9 +1531,45 @@
               "What's this?",
               "What the..."
             ],
+            "de": [
+              "Was ist das?",
+              "Was zum ..."
+            ],
+            "es": [
+              "¿Qué es esto?",
+              "¿Qué...?"
+            ],
+            "fr": [
+              "C'est quoi, ça ?",
+              "Qu'est-ce que..."
+            ],
+            "it": [
+              "Cos'è questo?",
+              "Ma che..."
+            ],
+            "ja": [
+              "なんだ？",
+              "これは…"
+            ],
+            "ko": [
+              "이게 뭐지?",
+              "이게 무슨..."
+            ],
             "pt-br": [
               "O que é isso?",
               "Mas o que..."
+            ],
+            "ru": [
+              "Что это?",
+              "Что за..."
+            ],
+            "s-cn": [
+              "这是什么？",
+              "搞什么……"
+            ],
+            "t-cn": [
+              "這是什麼？",
+              "搞什麼……"
             ]
           },
           "provenance": {
@@ -862,9 +1591,45 @@
           "What's this?",
           "What the..."
         ],
+        "de": [
+          "Was ist das?",
+          "Was zum ..."
+        ],
+        "es": [
+          "¿Qué es esto?",
+          "¿Qué...?"
+        ],
+        "fr": [
+          "C'est quoi, ça ?",
+          "Qu'est-ce que..."
+        ],
+        "it": [
+          "Cos'è questo?",
+          "Ma che..."
+        ],
+        "ja": [
+          "なんだ？",
+          "これは…"
+        ],
+        "ko": [
+          "이게 뭐지?",
+          "이게 무슨..."
+        ],
         "pt-br": [
           "O que é isso?",
           "Mas o que..."
+        ],
+        "ru": [
+          "Что это?",
+          "Что за..."
+        ],
+        "s-cn": [
+          "这是什么？",
+          "搞什么……"
+        ],
+        "t-cn": [
+          "這是什麼？",
+          "搞什麼……"
         ]
       },
       "silentCues": [],
@@ -916,8 +1681,35 @@
             "en": [
               "The gemsuit's too bulky; can't turn without space."
             ],
+            "de": [
+              "Der Edelsteinanzug ist zu sperrig; ohne Platz kann ich mich nicht drehen."
+            ],
+            "es": [
+              "El traje de gemas es demasiado voluminoso; no puedo girarme sin tener espacio."
+            ],
+            "fr": [
+              "La combinaison est trop encombrante ; il me faut plus de place pour pouvoir tourner."
+            ],
+            "it": [
+              "La tuta di gemme è troppo ingombrante; non posso girarmi senza spazio."
+            ],
+            "ja": [
+              "スーツが大きすぎて 狭いと身動きできない。"
+            ],
+            "ko": [
+              "보석 작업복의 부피가 너무 커서, 공간이 없으면 돌아설 수 없어."
+            ],
             "pt-br": [
               "O traje de gema é volumoso demais; não dá para virar sem espaço."
+            ],
+            "ru": [
+              "Самоцветный костюм слишком громоздкий; в узком месте не повернуться."
+            ],
+            "s-cn": [
+              "采晶服太笨重，没有空间就转不了身。"
+            ],
+            "t-cn": [
+              "採晶服太笨重，沒有空間就轉不了身。"
             ]
           },
           "provenance": {
@@ -937,8 +1729,35 @@
         "en": [
           "The gemsuit's too bulky; can't turn without space."
         ],
+        "de": [
+          "Der Edelsteinanzug ist zu sperrig; ohne Platz kann ich mich nicht drehen."
+        ],
+        "es": [
+          "El traje de gemas es demasiado voluminoso; no puedo girarme sin tener espacio."
+        ],
+        "fr": [
+          "La combinaison est trop encombrante ; il me faut plus de place pour pouvoir tourner."
+        ],
+        "it": [
+          "La tuta di gemme è troppo ingombrante; non posso girarmi senza spazio."
+        ],
+        "ja": [
+          "スーツが大きすぎて 狭いと身動きできない。"
+        ],
+        "ko": [
+          "보석 작업복의 부피가 너무 커서, 공간이 없으면 돌아설 수 없어."
+        ],
         "pt-br": [
           "O traje de gema é volumoso demais; não dá para virar sem espaço."
+        ],
+        "ru": [
+          "Самоцветный костюм слишком громоздкий; в узком месте не повернуться."
+        ],
+        "s-cn": [
+          "采晶服太笨重，没有空间就转不了身。"
+        ],
+        "t-cn": [
+          "採晶服太笨重，沒有空間就轉不了身。"
         ]
       },
       "silentCues": [],
@@ -977,8 +1796,35 @@
             "en": [
               "Need space to turn!"
             ],
+            "de": [
+              "Ich brauche Platz zum Drehen!"
+            ],
+            "es": [
+              "¡Necesito espacio para girarme!"
+            ],
+            "fr": [
+              "Je n'ai pas la place de tourner !"
+            ],
+            "it": [
+              "Mi serve spazio per girarmi!"
+            ],
+            "ja": [
+              "狭くて回れない！"
+            ],
+            "ko": [
+              "돌아설 공간이 필요해!"
+            ],
             "pt-br": [
               "Preciso de espaço para virar!"
+            ],
+            "ru": [
+              "Нужно место, чтобы повернуться!"
+            ],
+            "s-cn": [
+              "得腾出空间转身！"
+            ],
+            "t-cn": [
+              "得騰出空間轉身！"
             ]
           },
           "provenance": {
@@ -998,8 +1844,35 @@
         "en": [
           "Need space to turn!"
         ],
+        "de": [
+          "Ich brauche Platz zum Drehen!"
+        ],
+        "es": [
+          "¡Necesito espacio para girarme!"
+        ],
+        "fr": [
+          "Je n'ai pas la place de tourner !"
+        ],
+        "it": [
+          "Mi serve spazio per girarmi!"
+        ],
+        "ja": [
+          "狭くて回れない！"
+        ],
+        "ko": [
+          "돌아설 공간이 필요해!"
+        ],
         "pt-br": [
           "Preciso de espaço para virar!"
+        ],
+        "ru": [
+          "Нужно место, чтобы повернуться!"
+        ],
+        "s-cn": [
+          "得腾出空间转身！"
+        ],
+        "t-cn": [
+          "得騰出空間轉身！"
         ]
       },
       "silentCues": [],
@@ -1038,8 +1911,35 @@
             "en": [
               "Suit's too bulky."
             ],
+            "de": [
+              "Der Edelsteinanzug ist zu sperrig."
+            ],
+            "es": [
+              "El traje es demasiado voluminoso."
+            ],
+            "fr": [
+              "La combinaison est trop grosse."
+            ],
+            "it": [
+              "La tuta è troppo ingombrante."
+            ],
+            "ja": [
+              "スーツが大きすぎる。"
+            ],
+            "ko": [
+              "작업복의 부피가 너무 커."
+            ],
             "pt-br": [
               "O traje é volumoso demais."
+            ],
+            "ru": [
+              "Костюм слишком громоздкий."
+            ],
+            "s-cn": [
+              "这身采晶服太笨重了。"
+            ],
+            "t-cn": [
+              "這身採晶服太笨重了。"
             ]
           },
           "provenance": {
@@ -1059,8 +1959,35 @@
         "en": [
           "Suit's too bulky."
         ],
+        "de": [
+          "Der Edelsteinanzug ist zu sperrig."
+        ],
+        "es": [
+          "El traje es demasiado voluminoso."
+        ],
+        "fr": [
+          "La combinaison est trop grosse."
+        ],
+        "it": [
+          "La tuta è troppo ingombrante."
+        ],
+        "ja": [
+          "スーツが大きすぎる。"
+        ],
+        "ko": [
+          "작업복의 부피가 너무 커."
+        ],
         "pt-br": [
           "O traje é volumoso demais."
+        ],
+        "ru": [
+          "Костюм слишком громоздкий."
+        ],
+        "s-cn": [
+          "这身采晶服太笨重了。"
+        ],
+        "t-cn": [
+          "這身採晶服太笨重了。"
         ]
       },
       "silentCues": [],
@@ -1099,8 +2026,35 @@
             "en": [
               "Dratted gemsuit."
             ],
+            "de": [
+              "Verflixter Edelsteinanzug."
+            ],
+            "es": [
+              "Maldito traje de gemas."
+            ],
+            "fr": [
+              "Maudite combinaison."
+            ],
+            "it": [
+              "Maledetta tuta di gemme."
+            ],
+            "ja": [
+              "スーツが邪魔だ。"
+            ],
+            "ko": [
+              "망할 보석 작업복."
+            ],
             "pt-br": [
               "Maldito traje de gema."
+            ],
+            "ru": [
+              "Проклятый самоцветный костюм."
+            ],
+            "s-cn": [
+              "该死的采晶服。"
+            ],
+            "t-cn": [
+              "該死的採晶服。"
             ]
           },
           "provenance": {
@@ -1120,8 +2074,35 @@
         "en": [
           "Dratted gemsuit."
         ],
+        "de": [
+          "Verflixter Edelsteinanzug."
+        ],
+        "es": [
+          "Maldito traje de gemas."
+        ],
+        "fr": [
+          "Maudite combinaison."
+        ],
+        "it": [
+          "Maledetta tuta di gemme."
+        ],
+        "ja": [
+          "スーツが邪魔だ。"
+        ],
+        "ko": [
+          "망할 보석 작업복."
+        ],
         "pt-br": [
           "Maldito traje de gema."
+        ],
+        "ru": [
+          "Проклятый самоцветный костюм."
+        ],
+        "s-cn": [
+          "该死的采晶服。"
+        ],
+        "t-cn": [
+          "該死的採晶服。"
         ]
       },
       "silentCues": [],
@@ -1160,8 +2141,35 @@
             "en": [
               "Suit, you bless me, and you curse me."
             ],
+            "de": [
+              "Anzug, du bist Segen und Fluch zugleich."
+            ],
+            "es": [
+              "Traje, eres una bendición y a la vez una maldición."
+            ],
+            "fr": [
+              "Satanée combinaison ! Tu me protèges et tu me maudis."
+            ],
+            "it": [
+              "Tuta, mi benedici, e mi maledici."
+            ],
+            "ja": [
+              "スーツは便利で、 不便だな。"
+            ],
+            "ko": [
+              "작업복, 너는 나를 축복하면서도 저주하는구나."
+            ],
             "pt-br": [
               "Traje, você me abençoa, e você me amaldiçoa."
+            ],
+            "ru": [
+              "Костюм, ты и моё благословение, и моё проклятье."
+            ],
+            "s-cn": [
+              "采晶服啊，你是福也是祸。"
+            ],
+            "t-cn": [
+              "採晶服啊，你是福也是禍。"
             ]
           },
           "provenance": {
@@ -1181,8 +2189,35 @@
         "en": [
           "Suit, you bless me, and you curse me."
         ],
+        "de": [
+          "Anzug, du bist Segen und Fluch zugleich."
+        ],
+        "es": [
+          "Traje, eres una bendición y a la vez una maldición."
+        ],
+        "fr": [
+          "Satanée combinaison ! Tu me protèges et tu me maudis."
+        ],
+        "it": [
+          "Tuta, mi benedici, e mi maledici."
+        ],
+        "ja": [
+          "スーツは便利で、 不便だな。"
+        ],
+        "ko": [
+          "작업복, 너는 나를 축복하면서도 저주하는구나."
+        ],
         "pt-br": [
           "Traje, você me abençoa, e você me amaldiçoa."
+        ],
+        "ru": [
+          "Костюм, ты и моё благословение, и моё проклятье."
+        ],
+        "s-cn": [
+          "采晶服啊，你是福也是祸。"
+        ],
+        "t-cn": [
+          "採晶服啊，你是福也是禍。"
         ]
       },
       "silentCues": [],
@@ -1221,8 +2256,35 @@
             "en": [
               "That's the last one. Now to tidy up."
             ],
+            "de": [
+              "Das war der letzte. Jetzt noch aufräumen."
+            ],
+            "es": [
+              "Es la última. Ahora hay que recogerlo todo."
+            ],
+            "fr": [
+              "C'est la dernière. Il n'y a plus qu'à ranger."
+            ],
+            "it": [
+              "È l'ultimo. Ora a mettere tutto in ordine."
+            ],
+            "ja": [
+              "これで最後。 片づけよう。"
+            ],
+            "ko": [
+              "마지막이군. 이제 정리하자."
+            ],
             "pt-br": [
               "Esse foi o último. Agora é só arrumar tudo."
+            ],
+            "ru": [
+              "Это последний. Теперь бы прибраться."
+            ],
+            "s-cn": [
+              "最后一颗了。现在收拾收拾。"
+            ],
+            "t-cn": [
+              "最後一顆了。現在收拾收拾。"
             ]
           },
           "provenance": {
@@ -1242,8 +2304,35 @@
         "en": [
           "That's the last one. Now to tidy up."
         ],
+        "de": [
+          "Das war der letzte. Jetzt noch aufräumen."
+        ],
+        "es": [
+          "Es la última. Ahora hay que recogerlo todo."
+        ],
+        "fr": [
+          "C'est la dernière. Il n'y a plus qu'à ranger."
+        ],
+        "it": [
+          "È l'ultimo. Ora a mettere tutto in ordine."
+        ],
+        "ja": [
+          "これで最後。 片づけよう。"
+        ],
+        "ko": [
+          "마지막이군. 이제 정리하자."
+        ],
         "pt-br": [
           "Esse foi o último. Agora é só arrumar tudo."
+        ],
+        "ru": [
+          "Это последний. Теперь бы прибраться."
+        ],
+        "s-cn": [
+          "最后一颗了。现在收拾收拾。"
+        ],
+        "t-cn": [
+          "最後一顆了。現在收拾收拾。"
         ]
       },
       "silentCues": [],
@@ -1282,8 +2371,35 @@
             "en": [
               "This thing is so powerful. Why'd they bury it?"
             ],
+            "de": [
+              "Dieses Ding ist so mächtig. Warum haben sie es vergraben?"
+            ],
+            "es": [
+              "Esto es muy poderoso. ¿Por qué lo enterrarían?"
+            ],
+            "fr": [
+              "Ce truc est si puissant. Pourquoi l'avoir enterré ?"
+            ],
+            "it": [
+              "Questo oggetto è potentissimo. Perché l'hanno sepolto?"
+            ],
+            "ja": [
+              "こんな強力なものを なぜ埋めたんだ？"
+            ],
+            "ko": [
+              "이거 엄청나게 강력하네. 왜 이걸 파묻어 둔 거지?"
+            ],
             "pt-br": [
               "Essa coisa é muito poderosa. Por que deixaram enterrada?"
+            ],
+            "ru": [
+              "Эта штука такая мощная. Почему её закопали?"
+            ],
+            "s-cn": [
+              "这东西威力这么强。他们为什么把它埋在这里？"
+            ],
+            "t-cn": [
+              "這東西威力這麼強。他們為什麼把它埋在這裡？"
             ]
           },
           "provenance": {
@@ -1303,8 +2419,35 @@
         "en": [
           "This thing is so powerful. Why'd they bury it?"
         ],
+        "de": [
+          "Dieses Ding ist so mächtig. Warum haben sie es vergraben?"
+        ],
+        "es": [
+          "Esto es muy poderoso. ¿Por qué lo enterrarían?"
+        ],
+        "fr": [
+          "Ce truc est si puissant. Pourquoi l'avoir enterré ?"
+        ],
+        "it": [
+          "Questo oggetto è potentissimo. Perché l'hanno sepolto?"
+        ],
+        "ja": [
+          "こんな強力なものを なぜ埋めたんだ？"
+        ],
+        "ko": [
+          "이거 엄청나게 강력하네. 왜 이걸 파묻어 둔 거지?"
+        ],
         "pt-br": [
           "Essa coisa é muito poderosa. Por que deixaram enterrada?"
+        ],
+        "ru": [
+          "Эта штука такая мощная. Почему её закопали?"
+        ],
+        "s-cn": [
+          "这东西威力这么强。他们为什么把它埋在这里？"
+        ],
+        "t-cn": [
+          "這東西威力這麼強。他們為什麼把它埋在這裡？"
         ]
       },
       "silentCues": [],
@@ -1356,8 +2499,35 @@
             "en": [
               "I feel something important just happened, but ... no idea what."
             ],
+            "de": [
+              "Ich habe das Gefühl, da ist gerade etwas Wichtiges passiert, aber ... keine Ahnung, was."
+            ],
+            "es": [
+              "Siento que acaba de pasar algo importante, pero no tengo ni idea de qué es."
+            ],
+            "fr": [
+              "Je sens qu'il vient de se passer quelque chose d'important... mais je ne sais pas quoi."
+            ],
+            "it": [
+              "Ho la sensazione che sia appena successo qualcosa di importante, ma non ho idea di cosa."
+            ],
+            "ja": [
+              "重要なことが起きた 気がするが、なんだ？"
+            ],
+            "ko": [
+              "방금 중요한 일이 일어난 것 같은데, 무슨 일인지는 모르겠어."
+            ],
             "pt-br": [
               "Sinto que algo importante acabou de acontecer, mas não faço ideia do quê."
+            ],
+            "ru": [
+              "Кажется, только что произошло что-то важное, но я не имею ни малейшего понятия, что."
+            ],
+            "s-cn": [
+              "总觉得刚才发生了什么重要的事，但说不上来。"
+            ],
+            "t-cn": [
+              "總覺得剛才發生了什麼重要的事，但說不上來。"
             ]
           },
           "provenance": {
@@ -1377,8 +2547,35 @@
         "en": [
           "I feel something important just happened, but ... no idea what."
         ],
+        "de": [
+          "Ich habe das Gefühl, da ist gerade etwas Wichtiges passiert, aber ... keine Ahnung, was."
+        ],
+        "es": [
+          "Siento que acaba de pasar algo importante, pero no tengo ni idea de qué es."
+        ],
+        "fr": [
+          "Je sens qu'il vient de se passer quelque chose d'important... mais je ne sais pas quoi."
+        ],
+        "it": [
+          "Ho la sensazione che sia appena successo qualcosa di importante, ma non ho idea di cosa."
+        ],
+        "ja": [
+          "重要なことが起きた 気がするが、なんだ？"
+        ],
+        "ko": [
+          "방금 중요한 일이 일어난 것 같은데, 무슨 일인지는 모르겠어."
+        ],
         "pt-br": [
           "Sinto que algo importante acabou de acontecer, mas não faço ideia do quê."
+        ],
+        "ru": [
+          "Кажется, только что произошло что-то важное, но я не имею ни малейшего понятия, что."
+        ],
+        "s-cn": [
+          "总觉得刚才发生了什么重要的事，但说不上来。"
+        ],
+        "t-cn": [
+          "總覺得剛才發生了什麼重要的事，但說不上來。"
         ]
       },
       "silentCues": [],
@@ -1431,16 +2628,52 @@
               "As I'd hoped. They shut down in such a panic, they just left all the gems.",
               "Good for me."
             ],
+            "de": [
+              "Wie erhofft. Sie haben in solcher Panik dichtgemacht, dass sie einfach alle Edelsteine zurückgelassen haben.",
+              "Gut für mich."
+            ],
+            "es": [
+              "Como esperaba. Cerraron con tal pánico que dejaron todas las gemas.",
+              "Pero me viene bien."
+            ],
+            "fr": [
+              "Comme je l'espérais. Ils ont plié boutique dans une telle panique qu'ils ont abandonné toutes les gemmes.",
+              "Tant mieux pour moi."
+            ],
+            "it": [
+              "Come speravo. Hanno chiuso tutto nel panico, lasciando lì tutte le gemme.",
+              "Per me va bene."
+            ],
+            "ja": [
+              "思った通りだ。 慌てて閉鎖して 宝石を全部置き去りにしてる。",
+              "好都合だ。"
+            ],
+            "ko": [
+              "바라던 대로야. 엄청 당황한 나머지, 보석을 전부 두고 갔네.",
+              "나에겐 좋은 일이지."
+            ],
             "pt-br": [
               "Como eu esperava. Eles fecharam tudo em tal pânico que deixaram todas as gemas.",
               "Ótimo para mim."
+            ],
+            "ru": [
+              "Как я и надеялся. Они закрылись в такой панике, что просто оставили все самоцветы.",
+              "Это хорошо для меня."
+            ],
+            "s-cn": [
+              "果然不出所料。他们停工时慌成一团，所有宝石都没来得及带走。",
+              "倒是便宜我了。"
+            ],
+            "t-cn": [
+              "果然不出所料。 他們停工時慌成一團，所有寶石都沒來得及帶走。",
+              "倒是便宜我了。"
             ]
           },
           "provenance": {
             "sourceWav": "promesst1_gems_amount1_1__gemsman.wav",
             "subtitleCueLines": [
-              11824,
-              11830
+              11834,
+              11840
             ],
             "explicitAudioReference": null
           }
@@ -1455,9 +2688,45 @@
           "As I'd hoped. They shut down in such a panic, they just left all the gems.",
           "Good for me."
         ],
+        "de": [
+          "Wie erhofft. Sie haben in solcher Panik dichtgemacht, dass sie einfach alle Edelsteine zurückgelassen haben.",
+          "Gut für mich."
+        ],
+        "es": [
+          "Como esperaba. Cerraron con tal pánico que dejaron todas las gemas.",
+          "Pero me viene bien."
+        ],
+        "fr": [
+          "Comme je l'espérais. Ils ont plié boutique dans une telle panique qu'ils ont abandonné toutes les gemmes.",
+          "Tant mieux pour moi."
+        ],
+        "it": [
+          "Come speravo. Hanno chiuso tutto nel panico, lasciando lì tutte le gemme.",
+          "Per me va bene."
+        ],
+        "ja": [
+          "思った通りだ。 慌てて閉鎖して 宝石を全部置き去りにしてる。",
+          "好都合だ。"
+        ],
+        "ko": [
+          "바라던 대로야. 엄청 당황한 나머지, 보석을 전부 두고 갔네.",
+          "나에겐 좋은 일이지."
+        ],
         "pt-br": [
           "Como eu esperava. Eles fecharam tudo em tal pânico que deixaram todas as gemas.",
           "Ótimo para mim."
+        ],
+        "ru": [
+          "Как я и надеялся. Они закрылись в такой панике, что просто оставили все самоцветы.",
+          "Это хорошо для меня."
+        ],
+        "s-cn": [
+          "果然不出所料。他们停工时慌成一团，所有宝石都没来得及带走。",
+          "倒是便宜我了。"
+        ],
+        "t-cn": [
+          "果然不出所料。 他們停工時慌成一團，所有寶石都沒來得及帶走。",
+          "倒是便宜我了。"
         ]
       },
       "silentCues": [],
@@ -1479,7 +2748,7 @@
             "source": "data-common/promesst1_streamlined.entities"
           }
         ],
-        "subtitleLine": 11823,
+        "subtitleLine": 11833,
         "subtitleHeader": "::"
       }
     },
@@ -1497,16 +2766,52 @@
               "So many gems in here.",
               "Why'd they shut the mines down? What were they afraid of?"
             ],
+            "de": [
+              "Hier sind so viele Edelsteine.",
+              "Warum haben sie die Minen geschlossen? Wovor hatten sie Angst?"
+            ],
+            "es": [
+              "Cuántas gemas hay aquí.",
+              "¿Por qué cerraron las minas? ¿De qué tenían miedo?"
+            ],
+            "fr": [
+              "Il y a tellement de gemmes ici.",
+              "Pourquoi ont-ils fermé les mines ? De quoi avaient-ils peur ?"
+            ],
+            "it": [
+              "Quante gemme qui dentro.",
+              "Perché hanno chiuso le miniere? Di cosa avevano paura?"
+            ],
+            "ja": [
+              "宝石だけじゃなく、 大量の知識まで捨てられた…",
+              "なぜ鉱山を閉鎖した？ 何を恐れたんだ？"
+            ],
+            "ko": [
+              "여긴 보석이 정말 많네.",
+              "왜 광산을 폐쇄했을까? 무엇을 두려워했던 거지?"
+            ],
             "pt-br": [
-              "Tantas joias aqui dentro.",
+              "Tantas gemas aqui dentro.",
               "Por que fecharam as minas? Do que estavam com medo?"
+            ],
+            "ru": [
+              "Сколько здесь самоцветов.",
+              "Почему они закрыли шахты? Чего они боялись?"
+            ],
+            "s-cn": [
+              "这里居然有这么多宝石。",
+              "他们为什么关闭矿井？究竟在怕什么？"
+            ],
+            "t-cn": [
+              "這裡居然有這麼多寶石。",
+              "他們為什麼關閉礦井？究竟在怕什麼？"
             ]
           },
           "provenance": {
             "sourceWav": "promesst1_gems_amount2_1__gemsman.wav",
             "subtitleCueLines": [
-              11837,
-              11841
+              11847,
+              11851
             ],
             "explicitAudioReference": null
           }
@@ -1521,9 +2826,45 @@
           "So many gems in here.",
           "Why'd they shut the mines down? What were they afraid of?"
         ],
+        "de": [
+          "Hier sind so viele Edelsteine.",
+          "Warum haben sie die Minen geschlossen? Wovor hatten sie Angst?"
+        ],
+        "es": [
+          "Cuántas gemas hay aquí.",
+          "¿Por qué cerraron las minas? ¿De qué tenían miedo?"
+        ],
+        "fr": [
+          "Il y a tellement de gemmes ici.",
+          "Pourquoi ont-ils fermé les mines ? De quoi avaient-ils peur ?"
+        ],
+        "it": [
+          "Quante gemme qui dentro.",
+          "Perché hanno chiuso le miniere? Di cosa avevano paura?"
+        ],
+        "ja": [
+          "宝石だけじゃなく、 大量の知識まで捨てられた…",
+          "なぜ鉱山を閉鎖した？ 何を恐れたんだ？"
+        ],
+        "ko": [
+          "여긴 보석이 정말 많네.",
+          "왜 광산을 폐쇄했을까? 무엇을 두려워했던 거지?"
+        ],
         "pt-br": [
-          "Tantas joias aqui dentro.",
+          "Tantas gemas aqui dentro.",
           "Por que fecharam as minas? Do que estavam com medo?"
+        ],
+        "ru": [
+          "Сколько здесь самоцветов.",
+          "Почему они закрыли шахты? Чего они боялись?"
+        ],
+        "s-cn": [
+          "这里居然有这么多宝石。",
+          "他们为什么关闭矿井？究竟在怕什么？"
+        ],
+        "t-cn": [
+          "這裡居然有這麼多寶石。",
+          "他們為什麼關閉礦井？究竟在怕什麼？"
         ]
       },
       "silentCues": [],
@@ -1545,7 +2886,7 @@
             "source": "data-common/promesst1_streamlined.entities"
           }
         ],
-        "subtitleLine": 11836,
+        "subtitleLine": 11846,
         "subtitleHeader": "::"
       }
     },
@@ -1562,73 +2903,39 @@
             "en": [
               "It's not greed. These will be very valuable ... in research."
             ],
+            "de": [
+              "Das ist keine Gier. Die werden noch sehr wertvoll sein ... für die Forschung."
+            ],
+            "es": [
+              "No es cuestión de codicia. Estas serán muy valiosas... para la investigación."
+            ],
+            "fr": [
+              "Ce n'est pas de la cupidité. Elles seront très précieuses... pour la recherche."
+            ],
+            "it": [
+              "Non è avidità. Queste saranno molto preziose... per la ricerca."
+            ],
+            "ja": [
+              "欲張ってるわけじゃない。 これは研究に…とても役立つ。"
+            ],
+            "ko": [
+              "탐욕 때문이 아니야. 이건... 아주 귀중한 거라고. 연구에 있어서 말이야."
+            ],
             "pt-br": [
               "Não é ganância. Estas serão muito valiosas... para a pesquisa."
+            ],
+            "ru": [
+              "Это не жадность. Они будут очень ценны... для исследований."
+            ],
+            "s-cn": [
+              "我可不是贪心。这些宝石会很有价值……我是说，对研究很有价值。"
+            ],
+            "t-cn": [
+              "我可不是貪心。這些寶石會很有價值…… 我是說，對研究很有價值。"
             ]
           },
           "provenance": {
             "sourceWav": "promesst1_gems_amount3_1__gemsman.wav",
-            "subtitleCueLines": [
-              11849
-            ],
-            "explicitAudioReference": null
-          }
-        }
-      ],
-      "clipOrdering": {
-        "source": "subtitle-cue-order",
-        "filenameCheck": "agrees"
-      },
-      "transcripts": {
-        "en": [
-          "It's not greed. These will be very valuable ... in research."
-        ],
-        "pt-br": [
-          "Não é ganância. Estas serão muito valiosas... para a pesquisa."
-        ]
-      },
-      "silentCues": [],
-      "missingClips": [],
-      "translationIssues": {},
-      "provenance": {
-        "entities": [
-          {
-            "entityId": 51380225,
-            "entityType": "Settings",
-            "field": "story_tag",
-            "value": "promesst1",
-            "rule": "dialogue-namespace",
-            "coordinates": [
-              12.0,
-              11.0,
-              0.0
-            ],
-            "source": "data-common/promesst1_streamlined.entities"
-          }
-        ],
-        "subtitleLine": 11848,
-        "subtitleHeader": "::"
-      }
-    },
-    {
-      "id": "promesst1_gems_amount4",
-      "clips": [
-        {
-          "id": "promesst1_gems_amount4_1__gemsman",
-          "speaker": "gemsman",
-          "speakerName": "gemsman",
-          "duration": 3.551167,
-          "src": "audio/clips/promesst1_gems_amount4_1__gemsman.mp3",
-          "transcripts": {
-            "en": [
-              "Well, I *will* sell some of these. But it's not greed."
-            ],
-            "pt-br": [
-              "Bem, eu vou vender algumas dessas. Mas não é ganância."
-            ]
-          },
-          "provenance": {
-            "sourceWav": "promesst1_gems_amount4_1__gemsman.wav",
             "subtitleCueLines": [
               11859
             ],
@@ -1642,10 +2949,37 @@
       },
       "transcripts": {
         "en": [
-          "Well, I *will* sell some of these. But it's not greed."
+          "It's not greed. These will be very valuable ... in research."
+        ],
+        "de": [
+          "Das ist keine Gier. Die werden noch sehr wertvoll sein ... für die Forschung."
+        ],
+        "es": [
+          "No es cuestión de codicia. Estas serán muy valiosas... para la investigación."
+        ],
+        "fr": [
+          "Ce n'est pas de la cupidité. Elles seront très précieuses... pour la recherche."
+        ],
+        "it": [
+          "Non è avidità. Queste saranno molto preziose... per la ricerca."
+        ],
+        "ja": [
+          "欲張ってるわけじゃない。 これは研究に…とても役立つ。"
+        ],
+        "ko": [
+          "탐욕 때문이 아니야. 이건... 아주 귀중한 거라고. 연구에 있어서 말이야."
         ],
         "pt-br": [
-          "Bem, eu vou vender algumas dessas. Mas não é ganância."
+          "Não é ganância. Estas serão muito valiosas... para a pesquisa."
+        ],
+        "ru": [
+          "Это не жадность. Они будут очень ценны... для исследований."
+        ],
+        "s-cn": [
+          "我可不是贪心。这些宝石会很有价值……我是说，对研究很有价值。"
+        ],
+        "t-cn": [
+          "我可不是貪心。這些寶石會很有價值…… 我是說，對研究很有價值。"
         ]
       },
       "silentCues": [],
@@ -1672,29 +3006,53 @@
       }
     },
     {
-      "id": "promesst1_gems_amount5",
+      "id": "promesst1_gems_amount4",
       "clips": [
         {
-          "id": "promesst1_gems_amount5_1__gemsman",
+          "id": "promesst1_gems_amount4_1__gemsman",
           "speaker": "gemsman",
           "speakerName": "gemsman",
-          "duration": 7.587333,
-          "src": "audio/clips/promesst1_gems_amount5_1__gemsman.mp3",
+          "duration": 3.551167,
+          "src": "audio/clips/promesst1_gems_amount4_1__gemsman.mp3",
           "transcripts": {
             "en": [
-              "I *will* sell some of these, but it's to hire a staff, help with the research.",
-              "The proceeds will not be spent frivolously."
+              "Well, I *will* sell some of these. But it's not greed."
+            ],
+            "de": [
+              "Na ja, ich werde einige davon verkaufen. Aber das ist keine Gier."
+            ],
+            "es": [
+              "Bueno, sí que voy a vender algunas. Pero no es por codicia."
+            ],
+            "fr": [
+              "Enfin, je vais quand même en vendre quelques-unes. Mais ce n'est pas par cupidité."
+            ],
+            "it": [
+              "Beh, ne venderò qualcuna. Ma non è avidità."
+            ],
+            "ja": [
+              "まあ、いくつかは売るが。 でも欲じゃない。"
+            ],
+            "ko": [
+              "뭐, 이 중 일부를 팔긴 할 거야. 하지만 그건 탐욕 때문이 아니지."
             ],
             "pt-br": [
-              "Eu vou vender algumas dessas, mas para contratar uma equipe, e ajudar na pesquisa.",
-              "Os lucros não serão gastos de forma fútil."
+              "Bem, eu vou vender algumas dessas. Mas não é ganância."
+            ],
+            "ru": [
+              "Что ж, я всё-таки продам часть из них. Но это не жадность."
+            ],
+            "s-cn": [
+              "好吧，我确实会卖掉一部分。但这不是贪心。"
+            ],
+            "t-cn": [
+              "好吧，我確實會賣掉一部分。但這不是貪心。"
             ]
           },
           "provenance": {
-            "sourceWav": "promesst1_gems_amount5_1__gemsman.wav",
+            "sourceWav": "promesst1_gems_amount4_1__gemsman.wav",
             "subtitleCueLines": [
-              11868,
-              11874
+              11869
             ],
             "explicitAudioReference": null
           }
@@ -1706,12 +3064,37 @@
       },
       "transcripts": {
         "en": [
-          "I *will* sell some of these, but it's to hire a staff, help with the research.",
-          "The proceeds will not be spent frivolously."
+          "Well, I *will* sell some of these. But it's not greed."
+        ],
+        "de": [
+          "Na ja, ich werde einige davon verkaufen. Aber das ist keine Gier."
+        ],
+        "es": [
+          "Bueno, sí que voy a vender algunas. Pero no es por codicia."
+        ],
+        "fr": [
+          "Enfin, je vais quand même en vendre quelques-unes. Mais ce n'est pas par cupidité."
+        ],
+        "it": [
+          "Beh, ne venderò qualcuna. Ma non è avidità."
+        ],
+        "ja": [
+          "まあ、いくつかは売るが。 でも欲じゃない。"
+        ],
+        "ko": [
+          "뭐, 이 중 일부를 팔긴 할 거야. 하지만 그건 탐욕 때문이 아니지."
         ],
         "pt-br": [
-          "Eu vou vender algumas dessas, mas para contratar uma equipe, e ajudar na pesquisa.",
-          "Os lucros não serão gastos de forma fútil."
+          "Bem, eu vou vender algumas dessas. Mas não é ganância."
+        ],
+        "ru": [
+          "Что ж, я всё-таки продам часть из них. Но это не жадность."
+        ],
+        "s-cn": [
+          "好吧，我确实会卖掉一部分。但这不是贪心。"
+        ],
+        "t-cn": [
+          "好吧，我確實會賣掉一部分。但這不是貪心。"
         ]
       },
       "silentCues": [],
@@ -1733,7 +3116,145 @@
             "source": "data-common/promesst1_streamlined.entities"
           }
         ],
-        "subtitleLine": 11867,
+        "subtitleLine": 11868,
+        "subtitleHeader": "::"
+      }
+    },
+    {
+      "id": "promesst1_gems_amount5",
+      "clips": [
+        {
+          "id": "promesst1_gems_amount5_1__gemsman",
+          "speaker": "gemsman",
+          "speakerName": "gemsman",
+          "duration": 7.587333,
+          "src": "audio/clips/promesst1_gems_amount5_1__gemsman.mp3",
+          "transcripts": {
+            "en": [
+              "I *will* sell some of these, but it's to hire a staff, help with the research.",
+              "The proceeds will not be spent frivolously."
+            ],
+            "de": [
+              "Ich werde einige davon verkaufen, aber nur, um Mitarbeiter einzustellen, die bei der Forschung helfen.",
+              "Die Einnahmen werden nicht leichtfertig verprasst."
+            ],
+            "es": [
+              "Sí que voy a vender algunas, pero es para contratar personal, una ayuda para la investigación.",
+              "Los beneficios no me los voy a gastar con frivolidad."
+            ],
+            "fr": [
+              "Je vais en vendre quelques-unes, mais pour embaucher du personnel, aider à la recherche.",
+              "Le profit ne sera pas dépensé à la légère."
+            ],
+            "it": [
+              "Ne venderò qualcuna, ma per assumere personale, aiutare con la ricerca.",
+              "I proventi non saranno spesi con leggerezza."
+            ],
+            "ja": [
+              "いくつか売るが、 人を雇って 研究を進めるためだ。",
+              "手に入った金を 無駄遣いはしない。"
+            ],
+            "ko": [
+              "이 중 일부를 팔긴 할 거야. 연구를 도울 직원을 고용해야 하니까.",
+              "이 수익은 허투루 쓰지 않겠어."
+            ],
+            "pt-br": [
+              "Eu vou vender algumas dessas, mas para contratar uma equipe, e ajudar na pesquisa.",
+              "Os lucros não serão gastos de forma fútil."
+            ],
+            "ru": [
+              "Я всё-таки продам часть из них, но чтобы нанять людей, помочь с исследованиями.",
+              "Выручка не будет потрачена попусту."
+            ],
+            "s-cn": [
+              "我确实会卖掉一部分，可那是为了雇些人手，协助研究。",
+              "这笔收益，我绝不会乱花。"
+            ],
+            "t-cn": [
+              "我確實會賣掉一部分，可那是為了僱些人手，協助研究。",
+              "這筆收益，我絕不會亂花。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "promesst1_gems_amount5_1__gemsman.wav",
+            "subtitleCueLines": [
+              11878,
+              11884
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I *will* sell some of these, but it's to hire a staff, help with the research.",
+          "The proceeds will not be spent frivolously."
+        ],
+        "de": [
+          "Ich werde einige davon verkaufen, aber nur, um Mitarbeiter einzustellen, die bei der Forschung helfen.",
+          "Die Einnahmen werden nicht leichtfertig verprasst."
+        ],
+        "es": [
+          "Sí que voy a vender algunas, pero es para contratar personal, una ayuda para la investigación.",
+          "Los beneficios no me los voy a gastar con frivolidad."
+        ],
+        "fr": [
+          "Je vais en vendre quelques-unes, mais pour embaucher du personnel, aider à la recherche.",
+          "Le profit ne sera pas dépensé à la légère."
+        ],
+        "it": [
+          "Ne venderò qualcuna, ma per assumere personale, aiutare con la ricerca.",
+          "I proventi non saranno spesi con leggerezza."
+        ],
+        "ja": [
+          "いくつか売るが、 人を雇って 研究を進めるためだ。",
+          "手に入った金を 無駄遣いはしない。"
+        ],
+        "ko": [
+          "이 중 일부를 팔긴 할 거야. 연구를 도울 직원을 고용해야 하니까.",
+          "이 수익은 허투루 쓰지 않겠어."
+        ],
+        "pt-br": [
+          "Eu vou vender algumas dessas, mas para contratar uma equipe, e ajudar na pesquisa.",
+          "Os lucros não serão gastos de forma fútil."
+        ],
+        "ru": [
+          "Я всё-таки продам часть из них, но чтобы нанять людей, помочь с исследованиями.",
+          "Выручка не будет потрачена попусту."
+        ],
+        "s-cn": [
+          "我确实会卖掉一部分，可那是为了雇些人手，协助研究。",
+          "这笔收益，我绝不会乱花。"
+        ],
+        "t-cn": [
+          "我確實會賣掉一部分，可那是為了僱些人手，協助研究。",
+          "這筆收益，我絕不會亂花。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 51380225,
+            "entityType": "Settings",
+            "field": "story_tag",
+            "value": "promesst1",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              12.0,
+              11.0,
+              0.0
+            ],
+            "source": "data-common/promesst1_streamlined.entities"
+          }
+        ],
+        "subtitleLine": 11877,
         "subtitleHeader": "::"
       }
     },
@@ -1752,18 +3273,63 @@
               "Though ... I deserve some comfort too. For all my grit and toil.",
               "It's hard to summon great ideas when the rent falls due and the wallet is empty."
             ],
+            "de": [
+              "Die Einnahmen werden nicht leichtfertig verprasst.",
+              "Aber ... ein wenig Komfort habe ich auch verdient. Ich habe mich durchgebissen und geschuftet.",
+              "Auf große Ideen kommt man nur schwer, wenn die Miete fällig wird und der Geldbeutel leer ist."
+            ],
+            "es": [
+              "Los beneficios no me los voy a gastar con frivolidad.",
+              "Aunque... también merezco un poco de comodidad. Después de tanta entereza y tanto trabajo.",
+              "Es difícil concebir grandes ideas cuando vence el alquiler y la bolsa se queda vacía."
+            ],
+            "fr": [
+              "Le profit ne sera pas dépensé à la légère.",
+              "Même si j'ai bien droit à un peu de confort, moi aussi. Après tout mon labeur et ma ténacité.",
+              "Difficile d'avoir de grandes idées quand le loyer est dû et que le portefeuille est vide."
+            ],
+            "it": [
+              "I proventi non saranno spesi con leggerezza.",
+              "Sebbene... anch'io meriti un po' di comodità. Per tutta la mia tenacia e fatica.",
+              "Difficile evocare grandi idee quando c'è da pagare l'affitto e il portafoglio è vuoto."
+            ],
+            "ja": [
+              "手に入った金を 無駄遣いはしない。",
+              "まあこれだけ苦労したから、 少しはいい思いしてもいいだろ。",
+              "税の支払いが迫って 財布が空じゃ 頭が働かない。"
+            ],
+            "ko": [
+              "이 수익은 허투루 쓰지 않겠어.",
+              "그래도... 나도 조금은 편안할 자격이 있죠. 그간의 고생과 노고를 생각하면.",
+              "집세 납부 기한이 다가오고 있는데 지갑이 텅 비었을 때는 대단한 생각이 떠오르기 어렵지."
+            ],
             "pt-br": [
               "Os lucros não serão gastos de forma fútil.",
               "Embora... eu mereça algum conforto também. Depois de toda a minha garra e trabalho.",
               "É difícil invocar grandes ideias quando o aluguel vence e a carteira está vazia."
+            ],
+            "ru": [
+              "Выручка не будет потрачена попусту.",
+              "Хотя... и я заслуживаю немного удобства. После всего моего упорства и труда.",
+              "Трудно рождать великие идеи, когда наступает срок уплаты аренды, а кошелёк пуст."
+            ],
+            "s-cn": [
+              "这笔收益，我绝不会乱花。",
+              "不过我也该享点福。毕竟吃了这么多苦，出了这么多力。",
+              "该交房租时，口袋却空空的，哪还有心思琢磨好点子。"
+            ],
+            "t-cn": [
+              "這筆收益，我絕不會亂花。",
+              "不過我也該享點福。畢竟吃了這麼多苦， 出了這麼多力。",
+              "該交房租時，口袋卻空空的，哪還有心思琢磨好點子。"
             ]
           },
           "provenance": {
             "sourceWav": "promesst1_gems_amount6_1__gemsman.wav",
             "subtitleCueLines": [
-              11882,
-              11887,
-              11891
+              11892,
+              11897,
+              11901
             ],
             "explicitAudioReference": null
           }
@@ -1779,10 +3345,55 @@
           "Though ... I deserve some comfort too. For all my grit and toil.",
           "It's hard to summon great ideas when the rent falls due and the wallet is empty."
         ],
+        "de": [
+          "Die Einnahmen werden nicht leichtfertig verprasst.",
+          "Aber ... ein wenig Komfort habe ich auch verdient. Ich habe mich durchgebissen und geschuftet.",
+          "Auf große Ideen kommt man nur schwer, wenn die Miete fällig wird und der Geldbeutel leer ist."
+        ],
+        "es": [
+          "Los beneficios no me los voy a gastar con frivolidad.",
+          "Aunque... también merezco un poco de comodidad. Después de tanta entereza y tanto trabajo.",
+          "Es difícil concebir grandes ideas cuando vence el alquiler y la bolsa se queda vacía."
+        ],
+        "fr": [
+          "Le profit ne sera pas dépensé à la légère.",
+          "Même si j'ai bien droit à un peu de confort, moi aussi. Après tout mon labeur et ma ténacité.",
+          "Difficile d'avoir de grandes idées quand le loyer est dû et que le portefeuille est vide."
+        ],
+        "it": [
+          "I proventi non saranno spesi con leggerezza.",
+          "Sebbene... anch'io meriti un po' di comodità. Per tutta la mia tenacia e fatica.",
+          "Difficile evocare grandi idee quando c'è da pagare l'affitto e il portafoglio è vuoto."
+        ],
+        "ja": [
+          "手に入った金を 無駄遣いはしない。",
+          "まあこれだけ苦労したから、 少しはいい思いしてもいいだろ。",
+          "税の支払いが迫って 財布が空じゃ 頭が働かない。"
+        ],
+        "ko": [
+          "이 수익은 허투루 쓰지 않겠어.",
+          "그래도... 나도 조금은 편안할 자격이 있죠. 그간의 고생과 노고를 생각하면.",
+          "집세 납부 기한이 다가오고 있는데 지갑이 텅 비었을 때는 대단한 생각이 떠오르기 어렵지."
+        ],
         "pt-br": [
           "Os lucros não serão gastos de forma fútil.",
           "Embora... eu mereça algum conforto também. Depois de toda a minha garra e trabalho.",
           "É difícil invocar grandes ideias quando o aluguel vence e a carteira está vazia."
+        ],
+        "ru": [
+          "Выручка не будет потрачена попусту.",
+          "Хотя... и я заслуживаю немного удобства. После всего моего упорства и труда.",
+          "Трудно рождать великие идеи, когда наступает срок уплаты аренды, а кошелёк пуст."
+        ],
+        "s-cn": [
+          "这笔收益，我绝不会乱花。",
+          "不过我也该享点福。毕竟吃了这么多苦，出了这么多力。",
+          "该交房租时，口袋却空空的，哪还有心思琢磨好点子。"
+        ],
+        "t-cn": [
+          "這筆收益，我絕不會亂花。",
+          "不過我也該享點福。畢竟吃了這麼多苦， 出了這麼多力。",
+          "該交房租時，口袋卻空空的，哪還有心思琢磨好點子。"
         ]
       },
       "silentCues": [],
@@ -1804,7 +3415,7 @@
             "source": "data-common/promesst1_streamlined.entities"
           }
         ],
-        "subtitleLine": 11881,
+        "subtitleLine": 11891,
         "subtitleHeader": "::"
       }
     },
@@ -1821,14 +3432,41 @@
             "en": [
               "It seems there's no stopping me!"
             ],
+            "de": [
+              "Mich scheint nichts mehr aufhalten zu können!"
+            ],
+            "es": [
+              "¡Parece que nada me detendrá!"
+            ],
+            "fr": [
+              "Plus rien ne peut m'arrêter, on dirait !"
+            ],
+            "it": [
+              "Sembra che niente possa fermarmi!"
+            ],
+            "ja": [
+              "この杖があれば無敵だ！"
+            ],
+            "ko": [
+              "아무도 날 막을 수 없을 것 같아!"
+            ],
             "pt-br": [
               "Parece que ninguém me segura!"
+            ],
+            "ru": [
+              "Кажется, меня ничто не остановит!"
+            ],
+            "s-cn": [
+              "看来谁也拦不住我了！"
+            ],
+            "t-cn": [
+              "看來誰也攔不住我了！"
             ]
           },
           "provenance": {
             "sourceWav": "promesst1_gems_amount7_1__gemsman.wav",
             "subtitleCueLines": [
-              11900
+              11910
             ],
             "explicitAudioReference": null
           }
@@ -1842,8 +3480,35 @@
         "en": [
           "It seems there's no stopping me!"
         ],
+        "de": [
+          "Mich scheint nichts mehr aufhalten zu können!"
+        ],
+        "es": [
+          "¡Parece que nada me detendrá!"
+        ],
+        "fr": [
+          "Plus rien ne peut m'arrêter, on dirait !"
+        ],
+        "it": [
+          "Sembra che niente possa fermarmi!"
+        ],
+        "ja": [
+          "この杖があれば無敵だ！"
+        ],
+        "ko": [
+          "아무도 날 막을 수 없을 것 같아!"
+        ],
         "pt-br": [
           "Parece que ninguém me segura!"
+        ],
+        "ru": [
+          "Кажется, меня ничто не остановит!"
+        ],
+        "s-cn": [
+          "看来谁也拦不住我了！"
+        ],
+        "t-cn": [
+          "看來誰也攔不住我了！"
         ]
       },
       "silentCues": [],
@@ -1865,7 +3530,7 @@
             "source": "data-common/promesst1_streamlined.entities"
           }
         ],
-        "subtitleLine": 11899,
+        "subtitleLine": 11909,
         "subtitleHeader": "::"
       }
     },
@@ -1883,16 +3548,52 @@
               "There *should* be a way further down. Maybe that big round stone was placed to seal it?",
               "And that high-mounted beamcaster unseals it somehow?"
             ],
+            "de": [
+              "Es sollte einen Weg weiter hinab geben. Vielleicht hat man ihn mit dem großen runden Stein versiegelt?",
+              "Und mit dem Strahlenwerfer dort oben lässt sich die Versiegelung irgendwie lösen?"
+            ],
+            "es": [
+              "Debería haber un camino más abajo. ¿Quizá habrán colocado esa gran piedra redonda para sellarlo?",
+              "¿Y ese proyector de haces montado en lo alto anulará el sellado de alguna manera?"
+            ],
+            "fr": [
+              "Il devrait y avoir un passage plus bas. Peut-être que cette grosse pierre ronde a été placée pour le sceller ?",
+              "Et ce projecteur fixé en hauteur le déverrouille d'une manière ou d'une autre ?"
+            ],
+            "it": [
+              "Dovrebbe esserci una strada per andare più in basso. Forse quella grande pietra tonda è stata messa per sigillarla?",
+              "E quel lanciaraggio montato in alto la sblocca in qualche modo?"
+            ],
+            "ja": [
+              "もっと下へ行く道があるはずだ。 あの大きな石で塞いだのか？",
+              "上にある光線で 開けられるのか？"
+            ],
+            "ko": [
+              "더 아래로 가는 길이 분명 있을 텐데. 혹시 저 커다랗고 둥근 돌로 막아 놓은 건가?",
+              "그리고 저 높은 곳의 빔캐스터가 어떻게든 그 봉인을 푸는 걸까?"
+            ],
             "pt-br": [
               "Deve haver um caminho mais abaixo. Talvez essa grande pedra redonda tenha sido colocada para selá-lo?",
               "E esse lança-feixes montado no alto o abre de algum jeito?"
+            ],
+            "ru": [
+              "Там должен быть проход дальше вниз. Может, тот большой круглый камень положили, чтобы запечатать его?",
+              "А тот высоко закреплённый лучемет как-то его распечатывает?"
+            ],
+            "s-cn": [
+              "这里应该还有路通往更深处。也许那块大圆石就是用来封住入口的？",
+              "高处那台光束发射器，是不是能把这条封住的通道打开？"
+            ],
+            "t-cn": [
+              "這裡應該還有路通往更深處。 也許那塊大圓石就是用來封住入口的？",
+              "高處那臺光束發射器， 是不是能把這條封住的通道打開？"
             ]
           },
           "provenance": {
             "sourceWav": "promesst1_further_down_1__gemsman.wav",
             "subtitleCueLines": [
-              11908,
-              11913
+              11918,
+              11923
             ],
             "explicitAudioReference": null
           }
@@ -1907,9 +3608,45 @@
           "There *should* be a way further down. Maybe that big round stone was placed to seal it?",
           "And that high-mounted beamcaster unseals it somehow?"
         ],
+        "de": [
+          "Es sollte einen Weg weiter hinab geben. Vielleicht hat man ihn mit dem großen runden Stein versiegelt?",
+          "Und mit dem Strahlenwerfer dort oben lässt sich die Versiegelung irgendwie lösen?"
+        ],
+        "es": [
+          "Debería haber un camino más abajo. ¿Quizá habrán colocado esa gran piedra redonda para sellarlo?",
+          "¿Y ese proyector de haces montado en lo alto anulará el sellado de alguna manera?"
+        ],
+        "fr": [
+          "Il devrait y avoir un passage plus bas. Peut-être que cette grosse pierre ronde a été placée pour le sceller ?",
+          "Et ce projecteur fixé en hauteur le déverrouille d'une manière ou d'une autre ?"
+        ],
+        "it": [
+          "Dovrebbe esserci una strada per andare più in basso. Forse quella grande pietra tonda è stata messa per sigillarla?",
+          "E quel lanciaraggio montato in alto la sblocca in qualche modo?"
+        ],
+        "ja": [
+          "もっと下へ行く道があるはずだ。 あの大きな石で塞いだのか？",
+          "上にある光線で 開けられるのか？"
+        ],
+        "ko": [
+          "더 아래로 가는 길이 분명 있을 텐데. 혹시 저 커다랗고 둥근 돌로 막아 놓은 건가?",
+          "그리고 저 높은 곳의 빔캐스터가 어떻게든 그 봉인을 푸는 걸까?"
+        ],
         "pt-br": [
           "Deve haver um caminho mais abaixo. Talvez essa grande pedra redonda tenha sido colocada para selá-lo?",
           "E esse lança-feixes montado no alto o abre de algum jeito?"
+        ],
+        "ru": [
+          "Там должен быть проход дальше вниз. Может, тот большой круглый камень положили, чтобы запечатать его?",
+          "А тот высоко закреплённый лучемет как-то его распечатывает?"
+        ],
+        "s-cn": [
+          "这里应该还有路通往更深处。也许那块大圆石就是用来封住入口的？",
+          "高处那台光束发射器，是不是能把这条封住的通道打开？"
+        ],
+        "t-cn": [
+          "這裡應該還有路通往更深處。 也許那塊大圓石就是用來封住入口的？",
+          "高處那臺光束發射器， 是不是能把這條封住的通道打開？"
         ]
       },
       "silentCues": [],
@@ -1944,7 +3681,7 @@
             "source": "data-common/promesst1_streamlined.entities"
           }
         ],
-        "subtitleLine": 11907,
+        "subtitleLine": 11917,
         "subtitleHeader": "::"
       }
     }

@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "end3_sokoban_writing_choice_3",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,22 +32,85 @@
               "Did I anticipate all that you may try? Did I miss any situation that should have been met with a customized response?",
               "Am I good enough to guide you through, or will I step on your toes mid-dance?"
             ],
+            "de": [
+              "Du nimmst diesen Ort als eine Reihe von Herausforderungen wahr, die eigens für dich vorbereitet worden sind,",
+              "und das ist er auch; doch zugleich ist er eine Prüfung für mich.",
+              "Wie gut konnte ich mich durch die Antworten meines Hologramms verständlich machen?",
+              "Habe ich alles vorausgesehen, was du versuchen könntest? Habe ich eine Situation übersehen, die eine maßgeschneiderte Reaktion erfordert hätte?",
+              "Bin ich gut genug, dich hindurchzuführen, oder trete ich dir mitten im Tanz auf die Füße?"
+            ],
+            "es": [
+              "Ves este lugar como una serie de desafíos preparados para ti,",
+              "y lo es; pero también es una prueba para mí.",
+              "¿Cómo de bien he logrado comunicarte mis respuestas mediante el holograma?",
+              "¿Me anticipé a todo lo que podrías intentar? ¿Me dejé alguna situación que mereciera su propia respuesta personalizada?",
+              "¿Soy lo bastante bueno para guiarte o te pisaré los pies en mitad del baile?"
+            ],
+            "fr": [
+              "Vous voyez cet endroit comme une série de défis préparés pour vous,",
+              "et c'est le cas ; mais c'est aussi une épreuve pour moi.",
+              "Dans quelle mesure ai-je bien communiqué grâce aux réponses de mon hologramme ?",
+              "Ai-je anticipé tout ce que vous pourriez essayer ? Ai-je oublié une situation qui aurait dû avoir sa propre réponse personnalisée ?",
+              "Suis-je assez bon pour vous guider, ou vais-je vous marcher sur les pieds en plein milieu de la danse ?"
+            ],
+            "it": [
+              "Tu vedi questo posto come una serie di sfide preparate per te,",
+              "ed è così; ma è anche una prova per me.",
+              "Quanto bene ho comunicato attraverso le risposte del mio ologramma?",
+              "Ho previsto tutto ciò che potresti provare? Mi è sfuggita qualche situazione che avrebbe dovuto avere una risposta personalizzata?",
+              "Sono abbastanza bravo da guidarti attraverso tutto questo o ti pesterò i piedi a metà danza?"
+            ],
+            "ja": [
+              "君には、この場所が 自分のために用意された、 一連の課題に見えているだろう。",
+              "この場所は 君への試練でありながら、 私への試験でもある。",
+              "事前に用意した返答で、 うまく意思を伝えられたか？",
+              "君の行動を先読みして、 必要な返答を用意できたか？",
+              "君を最後まで導けるのか？ 途中で邪魔をしてしまわないか？"
+            ],
+            "ko": [
+              "당신은 이곳을 자신을 위해 준비된 일련의 도전으로 보고 있겠지만,",
+              "실제로 그렇기도 하지; 하지만 나를 위한 시험이기도 해.",
+              "제 홀로그램의 답변으로 얼마나 잘 의사를 전달했을까요?",
+              "당신이 시도할 만한 일을 모두 예상했을까요? 그 상황만의 답변이 필요한 경우를 하나라도 놓치지는 않았을까요?",
+              "제가 당신을 끝까지 잘 이끌 수 있을까요? 춤을 추다가 중간에 당신의 발을 밟아 버리진 않을까요?"
+            ],
             "pt-br": [
               "Você vê este lugar como uma série de desafios preparados para você,",
               "e é; mas também é um teste para mim.",
               "Quão bem eu me comuniquei por meio das respostas do meu holograma?",
               "Será que antecipei tudo o que você pode tentar? Será que deixei passar alguma situação que deveria ter recebido sua própria resposta personalizada?",
               "Sou bom o bastante para te guiar por aqui, ou vou pisar no seu pé no meio da dança?"
+            ],
+            "ru": [
+              "Вы видите в этом месте череду испытаний, подготовленных для вас,",
+              "и так оно и есть; но для меня это тоже испытание.",
+              "Насколько хорошо я донёс мысль через ответы моей голограммы?",
+              "Предусмотрел ли я все, что вы можете попробовать? Не упустил ли я какую-то ситуацию, для которой нужен был свой особый ответ?",
+              "Достаточно ли я хорош, чтобы провести вас через это? Не отдавлю ли вам ноги посреди танца?"
+            ],
+            "s-cn": [
+              "你把这个地方看作 为你准备好的一连串挑战，",
+              "它的确如此；但它对我而言也是一场考验。",
+              "我的全息投影给你的回应，有没有把意思说清楚？",
+              "我是否预料到了你的每一种尝试？ 是否漏掉了哪种情况，本该为它准备专门的回应？",
+              "我真有能力引导你顺利通过吗？ 还是会像个蹩脚的舞伴，半途踩到你的脚？"
+            ],
+            "t-cn": [
+              "你把這個地方看作 為你準備好的一連串挑戰，",
+              "它的確如此；但它對我而言也是一場考驗。",
+              "我的全息投影給你的回應，有沒有把意思說清楚？",
+              "我是否預料到了你的每一種嘗試？ 是否漏掉了哪種情況，本該為它準備專門的回應？",
+              "我真有能力引導你順利通過嗎？ 還是會像個蹩腳的舞伴，半途踩到你的腳？"
             ]
           },
           "provenance": {
             "sourceWav": "end3_sokoban_writing_choice_3_1__sokoban.wav",
             "subtitleCueLines": [
-              11607,
-              11611,
-              11614,
-              11619,
-              11624
+              11617,
+              11621,
+              11624,
+              11629,
+              11634
             ],
             "explicitAudioReference": null
           }
@@ -56,12 +128,75 @@
           "Did I anticipate all that you may try? Did I miss any situation that should have been met with a customized response?",
           "Am I good enough to guide you through, or will I step on your toes mid-dance?"
         ],
+        "de": [
+          "Du nimmst diesen Ort als eine Reihe von Herausforderungen wahr, die eigens für dich vorbereitet worden sind,",
+          "und das ist er auch; doch zugleich ist er eine Prüfung für mich.",
+          "Wie gut konnte ich mich durch die Antworten meines Hologramms verständlich machen?",
+          "Habe ich alles vorausgesehen, was du versuchen könntest? Habe ich eine Situation übersehen, die eine maßgeschneiderte Reaktion erfordert hätte?",
+          "Bin ich gut genug, dich hindurchzuführen, oder trete ich dir mitten im Tanz auf die Füße?"
+        ],
+        "es": [
+          "Ves este lugar como una serie de desafíos preparados para ti,",
+          "y lo es; pero también es una prueba para mí.",
+          "¿Cómo de bien he logrado comunicarte mis respuestas mediante el holograma?",
+          "¿Me anticipé a todo lo que podrías intentar? ¿Me dejé alguna situación que mereciera su propia respuesta personalizada?",
+          "¿Soy lo bastante bueno para guiarte o te pisaré los pies en mitad del baile?"
+        ],
+        "fr": [
+          "Vous voyez cet endroit comme une série de défis préparés pour vous,",
+          "et c'est le cas ; mais c'est aussi une épreuve pour moi.",
+          "Dans quelle mesure ai-je bien communiqué grâce aux réponses de mon hologramme ?",
+          "Ai-je anticipé tout ce que vous pourriez essayer ? Ai-je oublié une situation qui aurait dû avoir sa propre réponse personnalisée ?",
+          "Suis-je assez bon pour vous guider, ou vais-je vous marcher sur les pieds en plein milieu de la danse ?"
+        ],
+        "it": [
+          "Tu vedi questo posto come una serie di sfide preparate per te,",
+          "ed è così; ma è anche una prova per me.",
+          "Quanto bene ho comunicato attraverso le risposte del mio ologramma?",
+          "Ho previsto tutto ciò che potresti provare? Mi è sfuggita qualche situazione che avrebbe dovuto avere una risposta personalizzata?",
+          "Sono abbastanza bravo da guidarti attraverso tutto questo o ti pesterò i piedi a metà danza?"
+        ],
+        "ja": [
+          "君には、この場所が 自分のために用意された、 一連の課題に見えているだろう。",
+          "この場所は 君への試練でありながら、 私への試験でもある。",
+          "事前に用意した返答で、 うまく意思を伝えられたか？",
+          "君の行動を先読みして、 必要な返答を用意できたか？",
+          "君を最後まで導けるのか？ 途中で邪魔をしてしまわないか？"
+        ],
+        "ko": [
+          "당신은 이곳을 자신을 위해 준비된 일련의 도전으로 보고 있겠지만,",
+          "실제로 그렇기도 하지; 하지만 나를 위한 시험이기도 해.",
+          "제 홀로그램의 답변으로 얼마나 잘 의사를 전달했을까요?",
+          "당신이 시도할 만한 일을 모두 예상했을까요? 그 상황만의 답변이 필요한 경우를 하나라도 놓치지는 않았을까요?",
+          "제가 당신을 끝까지 잘 이끌 수 있을까요? 춤을 추다가 중간에 당신의 발을 밟아 버리진 않을까요?"
+        ],
         "pt-br": [
           "Você vê este lugar como uma série de desafios preparados para você,",
           "e é; mas também é um teste para mim.",
           "Quão bem eu me comuniquei por meio das respostas do meu holograma?",
           "Será que antecipei tudo o que você pode tentar? Será que deixei passar alguma situação que deveria ter recebido sua própria resposta personalizada?",
           "Sou bom o bastante para te guiar por aqui, ou vou pisar no seu pé no meio da dança?"
+        ],
+        "ru": [
+          "Вы видите в этом месте череду испытаний, подготовленных для вас,",
+          "и так оно и есть; но для меня это тоже испытание.",
+          "Насколько хорошо я донёс мысль через ответы моей голограммы?",
+          "Предусмотрел ли я все, что вы можете попробовать? Не упустил ли я какую-то ситуацию, для которой нужен был свой особый ответ?",
+          "Достаточно ли я хорош, чтобы провести вас через это? Не отдавлю ли вам ноги посреди танца?"
+        ],
+        "s-cn": [
+          "你把这个地方看作 为你准备好的一连串挑战，",
+          "它的确如此；但它对我而言也是一场考验。",
+          "我的全息投影给你的回应，有没有把意思说清楚？",
+          "我是否预料到了你的每一种尝试？ 是否漏掉了哪种情况，本该为它准备专门的回应？",
+          "我真有能力引导你顺利通过吗？ 还是会像个蹩脚的舞伴，半途踩到你的脚？"
+        ],
+        "t-cn": [
+          "你把這個地方看作 為你準備好的一連串挑戰，",
+          "它的確如此；但它對我而言也是一場考驗。",
+          "我的全息投影給你的回應，有沒有把意思說清楚？",
+          "我是否預料到了你的每一種嘗試？ 是否漏掉了哪種情況，本該為它準備專門的回應？",
+          "我真有能力引導你順利通過嗎？ 還是會像個蹩腳的舞伴，半途踩到你的腳？"
         ]
       },
       "silentCues": [],

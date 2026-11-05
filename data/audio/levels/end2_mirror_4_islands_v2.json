@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "level": "end2_mirror_4_islands_v2",
+  "conversationOrdering": {
+    "source": "subtitle-block-order",
+    "narrativeOrderVerified": false
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "mirror_oracle_1",
+      "clips": [
+        {
+          "id": "mirror_oracle_1_1__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 2.387333,
+          "src": "audio/clips/mirror_oracle_1_1__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "So, why did you come?"
+            ],
+            "de": [
+              "Also, warum bist du gekommen?"
+            ],
+            "es": [
+              "Entonces, ¿por qué has venido?"
+            ],
+            "fr": [
+              "Alors, qu'est-ce qui vous a amené ici ?"
+            ],
+            "it": [
+              "Allora, perché sei venuto?"
+            ],
+            "ja": [
+              "なぜここに来た？"
+            ],
+            "ko": [
+              "그래서, 당신은 왜 왔지?"
+            ],
+            "pt-br": [
+              "Então, por que você veio?"
+            ],
+            "ru": [
+              "Так зачем ты пришёл?"
+            ],
+            "s-cn": [
+              "那么，你为什么来？"
+            ],
+            "t-cn": [
+              "那麼，你為什麼來？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_1_1__trader_alt.wav",
+            "subtitleCueLines": [
+              6050
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_1_2__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 7.072,
+          "src": "audio/clips/mirror_oracle_1_2__trader.mp3",
+          "transcripts": {
+            "en": [
+              "This is an unswept corner of my life. I always wondered 'what if', you know?"
+            ],
+            "de": [
+              "Das ist eine Ecke meines Lebens, die ich nie ausgekehrt habe. Ich habe mich immer gefragt: „Was wäre, wenn?“ Du weißt schon."
+            ],
+            "es": [
+              "Este es un rincón de mi vida que me quedaba por barrer. Siempre me he preguntado: «¿y si...?», ya sabes."
+            ],
+            "fr": [
+              "C'est un recoin de ma vie où je n'ai pas encore fait le ménage. Je me suis toujours demandé « et si », vous voyez ?"
+            ],
+            "it": [
+              "Questo è un angolo della mia vita inesplorato. Mi sono sempre chiesto: \"e se...?\", capisci?"
+            ],
+            "ja": [
+              "私はもうすぐ死ぬ。 ここは私の心残り… 「もしも」の世界だ。"
+            ],
+            "ko": [
+              "내 인생엔 아직 정리되지 않은 구석이 남아 있어. 항상 '만약에'라는 생각이 들었지. 무슨 말인지 알지?"
+            ],
+            "pt-br": [
+              "Este é um canto esquecido da minha vida. Sempre me perguntei “e se”, sabe?"
+            ],
+            "ru": [
+              "Это неприбранный уголок моей жизни. Я всегда думал: «А что, если», понимаешь?"
+            ],
+            "s-cn": [
+              "这算是我人生里一处没收拾干净的角落。我总忍不住想， “要是当初……”你懂吧？"
+            ],
+            "t-cn": [
+              "這算是我人生裡一處沒收拾乾淨的角落。 我總忍不住想，「要是當初……」你懂吧？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_1_2__trader.wav",
+            "subtitleCueLines": [
+              6053
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_1_3__trader_alt",
+          "speaker": "trader_alt",
+          "speakerName": "trader_alt",
+          "duration": 9.188,
+          "src": "audio/clips/mirror_oracle_1_3__trader_alt.mp3",
+          "transcripts": {
+            "en": [
+              "I *do* know. But, it's very unusual that you're here without sanction.",
+              "You must have gone to some lengths. What's the urgency?"
+            ],
+            "de": [
+              "Das weiß ich sehr wohl. Aber es ist sehr ungewöhnlich, dass du ohne Erlaubnis hier bist.",
+              "Du musst einiges auf dich genommen haben. Warum die Eile?"
+            ],
+            "es": [
+              "Sí que lo sé. Pero es muy inusual que estés aquí sin autorización.",
+              "Debes de haber hecho lo imposible por venir. ¿A qué viene tanta urgencia?"
+            ],
+            "fr": [
+              "Je vois. Mais votre présence ici sans autorisation est très inhabituelle.",
+              "Vous avez dû vous donner bien du mal. Pourquoi cette urgence ?"
+            ],
+            "it": [
+              "Lo so. Ma è molto insolito che tu sia qui senza autorizzazione.",
+              "Devi aver fatto parecchi sforzi. Perché tanta urgenza?"
+            ],
+            "ja": [
+              "知っているよ。でも、許可もなく ここにいるのは、とても珍しいことだ。",
+              "そうか。"
+            ],
+            "ko": [
+              "알고는 있어. 하지만 허락도 없이 네가 여기 온 건 아주 이례적인 일이야.",
+              "꽤 애를 썼겠군. 뭐가 그리 급하지?"
+            ],
+            "pt-br": [
+              "Eu sei. Mas é muito incomum você estar aqui sem autorização.",
+              "Deve ter se esforçado bastante. Qual é a urgência?"
+            ],
+            "ru": [
+              "Я знаю. Но то, что ты здесь без разрешения, очень необычно.",
+              "Должно быть, пришлось немало потрудиться. К чему такая спешка?"
+            ],
+            "s-cn": [
+              "我确实懂。不过，你在未经许可的情况下来到这儿，这很不寻常。",
+              "你一定是费了不少周折。 到底有什么急事？"
+            ],
+            "t-cn": [
+              "我確實懂。不過，你在未經許可的情況下來到這兒，這很不尋常。",
+              "你一定是費了不少周折。 到底有什麼急事？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_1_3__trader_alt.wav",
+            "subtitleCueLines": [
+              6057,
+              6061
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "mirror_oracle_1_4__trader",
+          "speaker": "trader",
+          "speakerName": "trader",
+          "duration": 6.195542,
+          "src": "audio/clips/mirror_oracle_1_4__trader.mp3",
+          "transcripts": {
+            "en": [
+              "Well. You see. I'm going to die soon. And I want to know."
+            ],
+            "de": [
+              "Nun. Es ist so. Ich werde bald sterben. Und ich will es wissen."
+            ],
+            "es": [
+              "Bueno. Verás. Voy a morir pronto. Y quiero saber."
+            ],
+            "fr": [
+              "Eh bien... Je vais bientôt mourir. Et je veux savoir."
+            ],
+            "it": [
+              "Beh. Vedi. Morirò presto. E voglio sapere."
+            ],
+            "ja": [
+              "そうだね。実は、 私はもうじき死ぬ。 だから、知りたいんだ。"
+            ],
+            "ko": [
+              "음. 그러니까. 난 곧 죽어. 그래서 알고 싶어."
+            ],
+            "pt-br": [
+              "Bem. Veja só. Vou morrer em breve. E quero saber."
+            ],
+            "ru": [
+              "Что ж. Видишь ли. Я скоро умру. И я хочу знать."
+            ],
+            "s-cn": [
+              "嗯，是这样。 我很快就要死了。 而我想弄明白。"
+            ],
+            "t-cn": [
+              "嗯，是這樣。 我很快就要死了。 而我想弄明白。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "mirror_oracle_1_4__trader.wav",
+            "subtitleCueLines": [
+              6065
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, why did you come?",
+          "This is an unswept corner of my life. I always wondered 'what if', you know?",
+          "I *do* know. But, it's very unusual that you're here without sanction.",
+          "You must have gone to some lengths. What's the urgency?",
+          "Well. You see. I'm going to die soon. And I want to know."
+        ],
+        "de": [
+          "Also, warum bist du gekommen?",
+          "Das ist eine Ecke meines Lebens, die ich nie ausgekehrt habe. Ich habe mich immer gefragt: „Was wäre, wenn?“ Du weißt schon.",
+          "Das weiß ich sehr wohl. Aber es ist sehr ungewöhnlich, dass du ohne Erlaubnis hier bist.",
+          "Du musst einiges auf dich genommen haben. Warum die Eile?",
+          "Nun. Es ist so. Ich werde bald sterben. Und ich will es wissen."
+        ],
+        "es": [
+          "Entonces, ¿por qué has venido?",
+          "Este es un rincón de mi vida que me quedaba por barrer. Siempre me he preguntado: «¿y si...?», ya sabes.",
+          "Sí que lo sé. Pero es muy inusual que estés aquí sin autorización.",
+          "Debes de haber hecho lo imposible por venir. ¿A qué viene tanta urgencia?",
+          "Bueno. Verás. Voy a morir pronto. Y quiero saber."
+        ],
+        "fr": [
+          "Alors, qu'est-ce qui vous a amené ici ?",
+          "C'est un recoin de ma vie où je n'ai pas encore fait le ménage. Je me suis toujours demandé « et si », vous voyez ?",
+          "Je vois. Mais votre présence ici sans autorisation est très inhabituelle.",
+          "Vous avez dû vous donner bien du mal. Pourquoi cette urgence ?",
+          "Eh bien... Je vais bientôt mourir. Et je veux savoir."
+        ],
+        "it": [
+          "Allora, perché sei venuto?",
+          "Questo è un angolo della mia vita inesplorato. Mi sono sempre chiesto: \"e se...?\", capisci?",
+          "Lo so. Ma è molto insolito che tu sia qui senza autorizzazione.",
+          "Devi aver fatto parecchi sforzi. Perché tanta urgenza?",
+          "Beh. Vedi. Morirò presto. E voglio sapere."
+        ],
+        "ja": [
+          "なぜここに来た？",
+          "私はもうすぐ死ぬ。 ここは私の心残り… 「もしも」の世界だ。",
+          "知っているよ。でも、許可もなく ここにいるのは、とても珍しいことだ。",
+          "そうか。",
+          "そうだね。実は、 私はもうじき死ぬ。 だから、知りたいんだ。"
+        ],
+        "ko": [
+          "그래서, 당신은 왜 왔지?",
+          "내 인생엔 아직 정리되지 않은 구석이 남아 있어. 항상 '만약에'라는 생각이 들었지. 무슨 말인지 알지?",
+          "알고는 있어. 하지만 허락도 없이 네가 여기 온 건 아주 이례적인 일이야.",
+          "꽤 애를 썼겠군. 뭐가 그리 급하지?",
+          "음. 그러니까. 난 곧 죽어. 그래서 알고 싶어."
+        ],
+        "pt-br": [
+          "Então, por que você veio?",
+          "Este é um canto esquecido da minha vida. Sempre me perguntei “e se”, sabe?",
+          "Eu sei. Mas é muito incomum você estar aqui sem autorização.",
+          "Deve ter se esforçado bastante. Qual é a urgência?",
+          "Bem. Veja só. Vou morrer em breve. E quero saber."
+        ],
+        "ru": [
+          "Так зачем ты пришёл?",
+          "Это неприбранный уголок моей жизни. Я всегда думал: «А что, если», понимаешь?",
+          "Я знаю. Но то, что ты здесь без разрешения, очень необычно.",
+          "Должно быть, пришлось немало потрудиться. К чему такая спешка?",
+          "Что ж. Видишь ли. Я скоро умру. И я хочу знать."
+        ],
+        "s-cn": [
+          "那么，你为什么来？",
+          "这算是我人生里一处没收拾干净的角落。我总忍不住想， “要是当初……”你懂吧？",
+          "我确实懂。不过，你在未经许可的情况下来到这儿，这很不寻常。",
+          "你一定是费了不少周折。 到底有什么急事？",
+          "嗯，是这样。 我很快就要死了。 而我想弄明白。"
+        ],
+        "t-cn": [
+          "那麼，你為什麼來？",
+          "這算是我人生裡一處沒收拾乾淨的角落。 我總忍不住想，「要是當初……」你懂吧？",
+          "我確實懂。不過，你在未經許可的情況下來到這兒，這很不尋常。",
+          "你一定是費了不少周折。 到底有什麼急事？",
+          "嗯，是這樣。 我很快就要死了。 而我想弄明白。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {},
+      "provenance": {
+        "entities": [
+          {
+            "entityId": 1048667,
+            "entityType": "Guy",
+            "field": "initial_bark",
+            "value": "mirror_oracle_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              8.0,
+              1.0,
+              0.0
+            ],
+            "source": "data-common/end2_mirror_4_islands_v2.entities"
+          }
+        ],
+        "subtitleLine": 6049,
+        "subtitleHeader": "::"
+      }
+    }
+  ]
+}

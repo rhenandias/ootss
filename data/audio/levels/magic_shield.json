@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -26,20 +35,74 @@
               "And the way that turning, so it can loop through the crystal, reduces the speed of energy;",
               "the slowdown saps potency."
             ],
+            "de": [
+              "... doch die Stärke der Magie ist seit jeher begrenzt, und zwar durch Widersprüche, die ihr innezuwohnen scheinen:",
+              "Zum einen muss die Energie einen Kreislauf durchlaufen, durch ein Medium wie etwa einen Kristall, um sich zu nennenswerter Stärke aufzubauen ...",
+              "Zum anderen muss sie dabei ihre Richtung ändern, um den Kristall im Kreis zu durchlaufen, und das verringert ihre Geschwindigkeit;",
+              "die Verlangsamung raubt ihr die Wirkkraft."
+            ],
+            "es": [
+              "... pero el poder de la magia siempre se ha visto limitado por conflictos aparentemente inherentes:",
+              "la necesidad de que la energía circule a través de un medio como el cristal para poder acumularse hasta alcanzar una magnitud considerable...",
+              "y cómo el giro necesario para que circule por el cristal reduce la velocidad de la energía;",
+              "esa ralentización le resta potencia."
+            ],
+            "fr": [
+              "... mais la puissance de la magie a toujours été limitée par des conflits apparemment inhérents :",
+              "la nécessité pour l'énergie de circuler en boucle, à travers un support comme le cristal, afin de s'accumuler jusqu'à atteindre une intensité suffisante...",
+              "et le fait que le changement de direction, nécessaire pour faire une boucle à travers le cristal, ralentisse l'énergie ;",
+              "ce qui résulte en une perte de puissance."
+            ],
+            "it": [
+              "... ma la forza della magia è sempre stata limitata da conflitti apparentemente intrinseci:",
+              "la necessità che l'energia circoli, attraverso un mezzo come il cristallo, per accumularsi fino a raggiungere un'intensità adeguata...",
+              "E il modo in cui la deviazione, necessaria per farla passare di nuovo nel cristallo, riduce la velocità dell'energia;",
+              "il rallentamento ne prosciuga la potenza."
+            ],
+            "ja": [
+              "じゃが魔法は昔から 矛盾によって制限されてきた。",
+              "力を蓄えるには クリスタルのような媒介を通して エネルギーを循環させる必要がある…",
+              "そしてエネルギーは曲がる時 速度を落とし…",
+              "その減速で力も弱まる。"
+            ],
+            "ko": [
+              "... 하지만 마법의 힘은 언제나 본질적인 듯한 모순들에 제한받아 왔지.",
+              "에너지를 충분히 증폭하려면 수정 같은 매질을 통해 에너지가 순환해야 하는데...",
+              "수정을 통과해 순환하도록 에너지의 방향을 꺾으면, 그 속도가 느려진다는 점이지.",
+              "속도가 느려지면서 위력도 약해지고."
+            ],
             "pt-br": [
-              "... mas a força da magia sempre foi limitada por conflitos aparentemente inerentes:",
+              "... Mas a força da magia sempre foi limitada por conflitos aparentemente inerentes:",
               "a necessidade de a energia passar por ciclos, por um meio como o cristal, para poder se acumular até uma magnitude decente...",
               "E como fazer a energia mudar de direção para circular pelo cristal reduz a velocidade dela;",
               "a desaceleração drena a potência."
+            ],
+            "ru": [
+              "... но силу магии всегда ограничивали противоречия, казалось бы, неотъемлемые:",
+              "потребность энергии циркулировать, проходя через среду вроде кристалла, чтобы накапливаться до значительной величины...",
+              "И то, как поворот, позволяющий энергии пройти по петле через кристалл, снижает скорость её движения;",
+              "а это замедление ослабляет её силу."
+            ],
+            "s-cn": [
+              "……但魔法的力量 一直受制于 那些似乎与生俱来的矛盾：",
+              "能量必须通过水晶之类的介质循环，才能不断叠加、达到相当可观的程度……",
+              "可要让能量在水晶中循环，就得让它转弯，而转弯又会降低能量的速度；",
+              "一减速，威力便会流失。"
+            ],
+            "t-cn": [
+              "……但魔法的力量 一直受制於 那些似乎與生俱來的矛盾：",
+              "能量必須通過水晶之類的介質循環， 才能不斷疊加、達到相當可觀的程度……",
+              "可要讓能量在水晶中循環，就得讓它轉彎， 而轉彎又會降低能量的速度；",
+              "一減速，威力便會流失。"
             ]
           },
           "provenance": {
             "sourceWav": "hp_wizard_torus_4_1__wizard.wav",
             "subtitleCueLines": [
-              8029,
-              8035,
-              8040,
-              8045
+              8039,
+              8045,
+              8050,
+              8055
             ],
             "explicitAudioReference": null
           }
@@ -56,11 +119,65 @@
           "And the way that turning, so it can loop through the crystal, reduces the speed of energy;",
           "the slowdown saps potency."
         ],
+        "de": [
+          "... doch die Stärke der Magie ist seit jeher begrenzt, und zwar durch Widersprüche, die ihr innezuwohnen scheinen:",
+          "Zum einen muss die Energie einen Kreislauf durchlaufen, durch ein Medium wie etwa einen Kristall, um sich zu nennenswerter Stärke aufzubauen ...",
+          "Zum anderen muss sie dabei ihre Richtung ändern, um den Kristall im Kreis zu durchlaufen, und das verringert ihre Geschwindigkeit;",
+          "die Verlangsamung raubt ihr die Wirkkraft."
+        ],
+        "es": [
+          "... pero el poder de la magia siempre se ha visto limitado por conflictos aparentemente inherentes:",
+          "la necesidad de que la energía circule a través de un medio como el cristal para poder acumularse hasta alcanzar una magnitud considerable...",
+          "y cómo el giro necesario para que circule por el cristal reduce la velocidad de la energía;",
+          "esa ralentización le resta potencia."
+        ],
+        "fr": [
+          "... mais la puissance de la magie a toujours été limitée par des conflits apparemment inhérents :",
+          "la nécessité pour l'énergie de circuler en boucle, à travers un support comme le cristal, afin de s'accumuler jusqu'à atteindre une intensité suffisante...",
+          "et le fait que le changement de direction, nécessaire pour faire une boucle à travers le cristal, ralentisse l'énergie ;",
+          "ce qui résulte en une perte de puissance."
+        ],
+        "it": [
+          "... ma la forza della magia è sempre stata limitata da conflitti apparentemente intrinseci:",
+          "la necessità che l'energia circoli, attraverso un mezzo come il cristallo, per accumularsi fino a raggiungere un'intensità adeguata...",
+          "E il modo in cui la deviazione, necessaria per farla passare di nuovo nel cristallo, riduce la velocità dell'energia;",
+          "il rallentamento ne prosciuga la potenza."
+        ],
+        "ja": [
+          "じゃが魔法は昔から 矛盾によって制限されてきた。",
+          "力を蓄えるには クリスタルのような媒介を通して エネルギーを循環させる必要がある…",
+          "そしてエネルギーは曲がる時 速度を落とし…",
+          "その減速で力も弱まる。"
+        ],
+        "ko": [
+          "... 하지만 마법의 힘은 언제나 본질적인 듯한 모순들에 제한받아 왔지.",
+          "에너지를 충분히 증폭하려면 수정 같은 매질을 통해 에너지가 순환해야 하는데...",
+          "수정을 통과해 순환하도록 에너지의 방향을 꺾으면, 그 속도가 느려진다는 점이지.",
+          "속도가 느려지면서 위력도 약해지고."
+        ],
         "pt-br": [
-          "... mas a força da magia sempre foi limitada por conflitos aparentemente inerentes:",
+          "... Mas a força da magia sempre foi limitada por conflitos aparentemente inerentes:",
           "a necessidade de a energia passar por ciclos, por um meio como o cristal, para poder se acumular até uma magnitude decente...",
           "E como fazer a energia mudar de direção para circular pelo cristal reduz a velocidade dela;",
           "a desaceleração drena a potência."
+        ],
+        "ru": [
+          "... но силу магии всегда ограничивали противоречия, казалось бы, неотъемлемые:",
+          "потребность энергии циркулировать, проходя через среду вроде кристалла, чтобы накапливаться до значительной величины...",
+          "И то, как поворот, позволяющий энергии пройти по петле через кристалл, снижает скорость её движения;",
+          "а это замедление ослабляет её силу."
+        ],
+        "s-cn": [
+          "……但魔法的力量 一直受制于 那些似乎与生俱来的矛盾：",
+          "能量必须通过水晶之类的介质循环，才能不断叠加、达到相当可观的程度……",
+          "可要让能量在水晶中循环，就得让它转弯，而转弯又会降低能量的速度；",
+          "一减速，威力便会流失。"
+        ],
+        "t-cn": [
+          "……但魔法的力量 一直受制於 那些似乎與生俱來的矛盾：",
+          "能量必須通過水晶之類的介質循環， 才能不斷疊加、達到相當可觀的程度……",
+          "可要讓能量在水晶中循環，就得讓它轉彎， 而轉彎又會降低能量的速度；",
+          "一減速，威力便會流失。"
         ]
       },
       "silentCues": [],
@@ -82,7 +199,7 @@
             "source": "data-common/magic_shield.entities"
           }
         ],
-        "subtitleLine": 8028,
+        "subtitleLine": 8038,
         "subtitleHeader": "::"
       }
     }

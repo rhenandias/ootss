@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Isn't this a situation."
             ],
+            "de": [
+              "Das nenn ich mal eine Lage."
+            ],
+            "es": [
+              "Vaya situación."
+            ],
+            "fr": [
+              "Quelle drôle de situation."
+            ],
+            "it": [
+              "Che situazione, non c'è che dire."
+            ],
+            "ja": [
+              "こりゃまた大変だ。"
+            ],
+            "ko": [
+              "정말 난감한 상황이군."
+            ],
             "pt-br": [
               "Que situação, hein?"
+            ],
+            "ru": [
+              "Ну и ситуация."
+            ],
+            "s-cn": [
+              "这场面可真够有意思。"
+            ],
+            "t-cn": [
+              "這場面可真夠有意思。"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_start_1__sailor.wav",
             "subtitleCueLines": [
-              6789
+              6799
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "It looks enjoyable!"
             ],
+            "de": [
+              "Sieht nach Spaß aus!"
+            ],
+            "es": [
+              "¡Parece divertido!"
+            ],
+            "fr": [
+              "Ça a l'air amusant !"
+            ],
+            "it": [
+              "Sembra divertente!"
+            ],
+            "ja": [
+              "楽しそうだ！"
+            ],
+            "ko": [
+              "재밌어 보이네!"
+            ],
             "pt-br": [
               "Parece divertido!"
+            ],
+            "ru": [
+              "Похоже, будет весело!"
+            ],
+            "s-cn": [
+              "看起来挺有意思！"
+            ],
+            "t-cn": [
+              "看起來挺有意思！"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_start_2__trader.wav",
             "subtitleCueLines": [
-              6793
+              6803
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "It does, does it?"
             ],
+            "de": [
+              "Ach, findest du?"
+            ],
+            "es": [
+              "¿Eso crees?"
+            ],
+            "fr": [
+              "N'est-ce pas ?"
+            ],
+            "it": [
+              "Ah, sì?"
+            ],
+            "ja": [
+              "そう見える？"
+            ],
+            "ko": [
+              "진짜 그렇긴 하지?"
+            ],
             "pt-br": [
               "Parece, né?"
+            ],
+            "ru": [
+              "Вот как, да?"
+            ],
+            "s-cn": [
+              "是吗？你觉得有意思？"
+            ],
+            "t-cn": [
+              "是嗎？你覺得有意思？"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_start_3__sailor.wav",
             "subtitleCueLines": [
-              6797
+              6807
             ],
             "explicitAudioReference": null
           }
@@ -89,14 +179,41 @@
             "en": [
               "I'm used to water being more ... placid."
             ],
+            "de": [
+              "Ich bin es gewohnt, dass Wasser etwas ... ruhiger ist."
+            ],
+            "es": [
+              "Estoy acostumbrado a que el agua esté más... calmada."
+            ],
+            "fr": [
+              "D'habitude, l'eau est plus... calme."
+            ],
+            "it": [
+              "Sono abituato all'acqua più... placida."
+            ],
+            "ja": [
+              "水ってもっと…穏やかだと思ってた。"
+            ],
+            "ko": [
+              "난 물이 좀 더... 고요한 데 익숙해."
+            ],
             "pt-br": [
               "Estou acostumado com a água sendo mais... serena."
+            ],
+            "ru": [
+              "Я привык, что вода более... спокойная."
+            ],
+            "s-cn": [
+              "我已经习惯了水面更……平静。"
+            ],
+            "t-cn": [
+              "我已經習慣了水面更……平靜。"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_start_4__trader.wav",
             "subtitleCueLines": [
-              6800
+              6810
             ],
             "explicitAudioReference": null
           }
@@ -111,14 +228,41 @@
             "en": [
               "Well, if you can placid me onto dry land, I'd appreciate."
             ],
+            "de": [
+              "Wenn du mich ganz ruhig aufs Trockene setzen könntest, wäre ich dir dankbar."
+            ],
+            "es": [
+              "Si puedes llevarme a tierra firme, te lo agradecería."
+            ],
+            "fr": [
+              "Si vous pouviez me ramener sur la terre ferme, je vous en serais reconnaissante."
+            ],
+            "it": [
+              "Se puoi placidarmi sulla terraferma, te ne sarei grata."
+            ],
+            "ja": [
+              "穏やかにアタシを陸まで 運んでくれないかい？"
+            ],
+            "ko": [
+              "뭐, 마른 땅으로 나를 고요히 옮겨 준다면 고맙겠어."
+            ],
             "pt-br": [
               "Se você puder me levar tranquilamente até a terra firme, eu agradeço."
+            ],
+            "ru": [
+              "Если сможешь вернуть меня на сушу, я буду признательна."
+            ],
+            "s-cn": [
+              "那你要是让我也能“平静”地回到岸上，我就感激不尽了。"
+            ],
+            "t-cn": [
+              "那你要是讓我也能「平靜」地回到岸上， 我就感激不盡了。"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_start_5__sailor.wav",
             "subtitleCueLines": [
-              6804
+              6814
             ],
             "explicitAudioReference": null
           }
@@ -136,12 +280,75 @@
           "I'm used to water being more ... placid.",
           "Well, if you can placid me onto dry land, I'd appreciate."
         ],
+        "de": [
+          "Das nenn ich mal eine Lage.",
+          "Sieht nach Spaß aus!",
+          "Ach, findest du?",
+          "Ich bin es gewohnt, dass Wasser etwas ... ruhiger ist.",
+          "Wenn du mich ganz ruhig aufs Trockene setzen könntest, wäre ich dir dankbar."
+        ],
+        "es": [
+          "Vaya situación.",
+          "¡Parece divertido!",
+          "¿Eso crees?",
+          "Estoy acostumbrado a que el agua esté más... calmada.",
+          "Si puedes llevarme a tierra firme, te lo agradecería."
+        ],
+        "fr": [
+          "Quelle drôle de situation.",
+          "Ça a l'air amusant !",
+          "N'est-ce pas ?",
+          "D'habitude, l'eau est plus... calme.",
+          "Si vous pouviez me ramener sur la terre ferme, je vous en serais reconnaissante."
+        ],
+        "it": [
+          "Che situazione, non c'è che dire.",
+          "Sembra divertente!",
+          "Ah, sì?",
+          "Sono abituato all'acqua più... placida.",
+          "Se puoi placidarmi sulla terraferma, te ne sarei grata."
+        ],
+        "ja": [
+          "こりゃまた大変だ。",
+          "楽しそうだ！",
+          "そう見える？",
+          "水ってもっと…穏やかだと思ってた。",
+          "穏やかにアタシを陸まで 運んでくれないかい？"
+        ],
+        "ko": [
+          "정말 난감한 상황이군.",
+          "재밌어 보이네!",
+          "진짜 그렇긴 하지?",
+          "난 물이 좀 더... 고요한 데 익숙해.",
+          "뭐, 마른 땅으로 나를 고요히 옮겨 준다면 고맙겠어."
+        ],
         "pt-br": [
           "Que situação, hein?",
           "Parece divertido!",
           "Parece, né?",
           "Estou acostumado com a água sendo mais... serena.",
           "Se você puder me levar tranquilamente até a terra firme, eu agradeço."
+        ],
+        "ru": [
+          "Ну и ситуация.",
+          "Похоже, будет весело!",
+          "Вот как, да?",
+          "Я привык, что вода более... спокойная.",
+          "Если сможешь вернуть меня на сушу, я буду признательна."
+        ],
+        "s-cn": [
+          "这场面可真够有意思。",
+          "看起来挺有意思！",
+          "是吗？你觉得有意思？",
+          "我已经习惯了水面更……平静。",
+          "那你要是让我也能“平静”地回到岸上，我就感激不尽了。"
+        ],
+        "t-cn": [
+          "這場面可真夠有意思。",
+          "看起來挺有意思！",
+          "是嗎？你覺得有意思？",
+          "我已經習慣了水面更……平靜。",
+          "那你要是讓我也能「平靜」地回到岸上， 我就感激不盡了。"
         ]
       },
       "silentCues": [],
@@ -163,7 +370,7 @@
             "source": "data-common/worlds_collide_mirrors_and_stones_v2.entities"
           }
         ],
-        "subtitleLine": 6788,
+        "subtitleLine": 6798,
         "subtitleHeader": "::"
       }
     },
@@ -180,14 +387,41 @@
             "en": [
               "Wow... you can do that?"
             ],
+            "de": [
+              "Wow ... das kannst du?"
+            ],
+            "es": [
+              "Vaya... ¿puedes hacer eso?"
+            ],
+            "fr": [
+              "Waouh... vous pouvez faire ça ?"
+            ],
+            "it": [
+              "Wow... puoi fare una cosa del genere?"
+            ],
+            "ja": [
+              "うわ…そんなことできるの？"
+            ],
+            "ko": [
+              "와... 그런 것도 할 수 있어?"
+            ],
             "pt-br": [
               "Uau... você pode fazer isso?"
+            ],
+            "ru": [
+              "Ого... ты можешь это сделать?"
+            ],
+            "s-cn": [
+              "哇……你还能这么做？"
+            ],
+            "t-cn": [
+              "哇……你還能這麼做？"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_first_teleport_1__sailor.wav",
             "subtitleCueLines": [
-              6812
+              6822
             ],
             "explicitAudioReference": null
           }
@@ -202,14 +436,41 @@
             "en": [
               "These mirrors can do that."
             ],
+            "de": [
+              "Diese Spiegel können das."
+            ],
+            "es": [
+              "Estos espejos pueden hacer eso."
+            ],
+            "fr": [
+              "Ces miroirs le peuvent."
+            ],
+            "it": [
+              "Sono questi specchi a farlo."
+            ],
+            "ja": [
+              "この鏡のおかげさ。"
+            ],
+            "ko": [
+              "이 거울들은 가능하지."
+            ],
             "pt-br": [
               "Esses espelhos podem fazer isso."
+            ],
+            "ru": [
+              "Это могут сделать эти зеркала."
+            ],
+            "s-cn": [
+              "是这些镜子能。"
+            ],
+            "t-cn": [
+              "是這些鏡子能。"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_first_teleport_2__trader.wav",
             "subtitleCueLines": [
-              6816
+              6826
             ],
             "explicitAudioReference": null
           }
@@ -224,14 +485,41 @@
             "en": [
               "I'm impressed."
             ],
+            "de": [
+              "Beeindruckend."
+            ],
+            "es": [
+              "Me impresiona."
+            ],
+            "fr": [
+              "Je suis impressionnée."
+            ],
+            "it": [
+              "Ne sono colpita."
+            ],
+            "ja": [
+              "すごいねぇ。"
+            ],
+            "ko": [
+              "놀랍네."
+            ],
             "pt-br": [
               "Estou impressionada."
+            ],
+            "ru": [
+              "Потрясающе."
+            ],
+            "s-cn": [
+              "佩服。"
+            ],
+            "t-cn": [
+              "佩服。"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_MS_first_teleport_3__sailor.wav",
             "subtitleCueLines": [
-              6819
+              6829
             ],
             "explicitAudioReference": null
           }
@@ -247,10 +535,55 @@
           "These mirrors can do that.",
           "I'm impressed."
         ],
+        "de": [
+          "Wow ... das kannst du?",
+          "Diese Spiegel können das.",
+          "Beeindruckend."
+        ],
+        "es": [
+          "Vaya... ¿puedes hacer eso?",
+          "Estos espejos pueden hacer eso.",
+          "Me impresiona."
+        ],
+        "fr": [
+          "Waouh... vous pouvez faire ça ?",
+          "Ces miroirs le peuvent.",
+          "Je suis impressionnée."
+        ],
+        "it": [
+          "Wow... puoi fare una cosa del genere?",
+          "Sono questi specchi a farlo.",
+          "Ne sono colpita."
+        ],
+        "ja": [
+          "うわ…そんなことできるの？",
+          "この鏡のおかげさ。",
+          "すごいねぇ。"
+        ],
+        "ko": [
+          "와... 그런 것도 할 수 있어?",
+          "이 거울들은 가능하지.",
+          "놀랍네."
+        ],
         "pt-br": [
           "Uau... você pode fazer isso?",
           "Esses espelhos podem fazer isso.",
           "Estou impressionada."
+        ],
+        "ru": [
+          "Ого... ты можешь это сделать?",
+          "Это могут сделать эти зеркала.",
+          "Потрясающе."
+        ],
+        "s-cn": [
+          "哇……你还能这么做？",
+          "是这些镜子能。",
+          "佩服。"
+        ],
+        "t-cn": [
+          "哇……你還能這麼做？",
+          "是這些鏡子能。",
+          "佩服。"
         ]
       },
       "silentCues": [],
@@ -272,7 +605,7 @@
             "source": "data-common/worlds_collide_mirrors_and_stones_v2.entities"
           }
         ],
-        "subtitleLine": 6811,
+        "subtitleLine": 6821,
         "subtitleHeader": "::"
       }
     }

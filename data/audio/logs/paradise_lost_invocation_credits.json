@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "audioLog": "paradise_lost_invocation_credits",
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "paradise_lost_invocation_credits",
+      "clips": [
+        {
+          "id": "paradise_lost_invocation_credits",
+          "speaker": "jon",
+          "speakerName": "jon",
+          "duration": 65.518083,
+          "src": "audio/clips/paradise_lost_invocation_credits.mp3",
+          "transcripts": {
+            "en": [
+              "Instruct me, for Thou know'st; Thou from the first Wast present, and with mighty wings outspread",
+              "Dove-like satst brooding on the vast Abyss And mad'st it pregnant:",
+              "What in me is dark Illumin, what is low raise and support;",
+              "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men.",
+              "Unto ages of ages. Thy will be done. Amen."
+            ],
+            "de": [
+              "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen und hast, die mächtigen Schwingen weit gebreitet,",
+              "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
+              "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
+              "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige.",
+              "Von Ewigkeit zu Ewigkeit. Dein Wille geschehe. Amen."
+            ],
+            "es": [
+              "instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+              "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
+              "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
+              "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres.",
+              "Por los siglos de los siglos. Hágase vuestra voluntad. Amén."
+            ],
+            "fr": [
+              "instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+              "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
+              "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
+              "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes.",
+              "Pour les siècles des siècles. Que ta volonté soit faite. Amen."
+            ],
+            "it": [
+              "Istruiscimi, poiché Tu sai. Tu eri presente fin dall'inizio e con potenti ali spiegate,",
+              "come una colomba, sedevi meditando sull'immenso abisso e lo rendevi fecondo:",
+              "illumina ciò che in me è oscuro, solleva e sostieni ciò che è in basso;",
+              "affinché, dall'alto di questo grande Argomento, io possa attestare l'Eterna Provvidenza e giustificare le vie di Dio agli uomini.",
+              "Nei secoli dei secoli. Sia fatta la tua volontà. Amen."
+            ],
+            "ja": [
+              "我を導きたまえ。 始まりより深淵の上にあり、 翼を広げてそこに命を宿した御身よ。",
+              "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
+              "我が闇を照らし、 低きものを高めたまえ。",
+              "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。",
+              "とこしえに。 御心の成るがままに。 アーメン。"
+            ],
+            "ko": [
+              "나를 가르치소서, 그대는 아시나니. 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니.",
+              "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
+              "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
+              "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서.",
+              "영원에 이어 영원토록. 주의 뜻이 이루어지리이다. 아멘."
+            ],
+            "pt-br": [
+              "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
+              "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
+              "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
+              "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens.",
+              "Por todos os séculos dos séculos. Seja feita a tua vontade. Amém."
+            ],
+            "ru": [
+              "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
+              "Над бездною, плодотворя ее;",
+              "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смогла",
+              "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав.",
+              "Во веки веков. Да будет воля Твоя. Аминь."
+            ],
+            "s-cn": [],
+            "t-cn": []
+          },
+          "provenance": {
+            "sourceWav": "paradise_lost_invocation_credits.wav",
+            "subtitleCueLines": [
+              14785,
+              14787,
+              14792,
+              14797,
+              14801,
+              14807
+            ],
+            "explicitAudioReference": "paradise_lost_invocation_credits"
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "not-comparable"
+      },
+      "transcripts": {
+        "en": [
+          "Instruct me, for Thou know'st; Thou from the first Wast present, and with mighty wings outspread",
+          "Dove-like satst brooding on the vast Abyss And mad'st it pregnant:",
+          "What in me is dark Illumin, what is low raise and support;",
+          "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men.",
+          "Unto ages of ages. Thy will be done. Amen."
+        ],
+        "de": [
+          "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen und hast, die mächtigen Schwingen weit gebreitet,",
+          "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
+          "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
+          "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige.",
+          "Von Ewigkeit zu Ewigkeit. Dein Wille geschehe. Amen."
+        ],
+        "es": [
+          "instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+          "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
+          "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
+          "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres.",
+          "Por los siglos de los siglos. Hágase vuestra voluntad. Amén."
+        ],
+        "fr": [
+          "instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+          "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
+          "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
+          "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes.",
+          "Pour les siècles des siècles. Que ta volonté soit faite. Amen."
+        ],
+        "it": [
+          "Istruiscimi, poiché Tu sai. Tu eri presente fin dall'inizio e con potenti ali spiegate,",
+          "come una colomba, sedevi meditando sull'immenso abisso e lo rendevi fecondo:",
+          "illumina ciò che in me è oscuro, solleva e sostieni ciò che è in basso;",
+          "affinché, dall'alto di questo grande Argomento, io possa attestare l'Eterna Provvidenza e giustificare le vie di Dio agli uomini.",
+          "Nei secoli dei secoli. Sia fatta la tua volontà. Amen."
+        ],
+        "ja": [
+          "我を導きたまえ。 始まりより深淵の上にあり、 翼を広げてそこに命を宿した御身よ。",
+          "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
+          "我が闇を照らし、 低きものを高めたまえ。",
+          "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。",
+          "とこしえに。 御心の成るがままに。 アーメン。"
+        ],
+        "ko": [
+          "나를 가르치소서, 그대는 아시나니. 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니.",
+          "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
+          "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
+          "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서.",
+          "영원에 이어 영원토록. 주의 뜻이 이루어지리이다. 아멘."
+        ],
+        "pt-br": [
+          "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
+          "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
+          "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
+          "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens.",
+          "Por todos os séculos dos séculos. Seja feita a tua vontade. Amém."
+        ],
+        "ru": [
+          "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
+          "Над бездною, плодотворя ее;",
+          "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смогла",
+          "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав.",
+          "Во веки веков. Да будет воля Твоя. Аминь."
+        ],
+        "s-cn": [
+          "请教导我，因祢全知； 祢自太初已然存在，以巍巍双翼展覆世间，",
+          "如鸽孵卵般覆于浩瀚深渊，使其孕育万物：",
+          "我心中幽暗处，求祢照明；卑下处，求祢高举；",
+          "使我得以论述这宏大的主题，申明永恒的天意， 向世人昭示神灵之道的公义。",
+          "世世无穷。愿一切遵照祢的旨意。阿门。"
+        ],
+        "t-cn": [
+          "請教導我，因祢全知；祢自太初已然存在， 以巍巍雙翼展覆世間，",
+          "如鴿孵卵般覆於浩瀚深淵，使其孕育萬物：",
+          "我心中幽暗處，求祢照明；卑下處，求祢高舉；",
+          "使我得以論述這宏大的主題，申明永恆的天意， 向世人昭示神靈之道的公義。",
+          "世世無窮。願一切遵照祢的旨意。阿門。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {
+        "s-cn": "Ambiguous clip boundary in paradise_lost_invocation_credits at line 12753",
+        "t-cn": "Ambiguous clip boundary in paradise_lost_invocation_credits at line 13202"
+      }
+    }
+  ]
+}

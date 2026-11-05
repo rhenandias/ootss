@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Goblins? Here??"
             ],
+            "de": [
+              "Goblins? Hier??"
+            ],
+            "es": [
+              "¿Goblins? ¿¿Aquí??"
+            ],
+            "fr": [
+              "Des gobelins ? Ici ??"
+            ],
+            "it": [
+              "Goblin? Qui??"
+            ],
+            "ja": [
+              "こんなところにゴブリン？"
+            ],
+            "ko": [
+              "고블린? 여기에??"
+            ],
             "pt-br": [
               "Goblins? Aqui??"
+            ],
+            "ru": [
+              "Гоблины? Здесь??"
+            ],
+            "s-cn": [
+              "哥布林？怎么会在这里？！"
+            ],
+            "t-cn": [
+              "哥布林？怎麼會在這裡？！"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "Goblins? Here??"
         ],
+        "de": [
+          "Goblins? Hier??"
+        ],
+        "es": [
+          "¿Goblins? ¿¿Aquí??"
+        ],
+        "fr": [
+          "Des gobelins ? Ici ??"
+        ],
+        "it": [
+          "Goblin? Qui??"
+        ],
+        "ja": [
+          "こんなところにゴブリン？"
+        ],
+        "ko": [
+          "고블린? 여기에??"
+        ],
         "pt-br": [
           "Goblins? Aqui??"
+        ],
+        "ru": [
+          "Гоблины? Здесь??"
+        ],
+        "s-cn": [
+          "哥布林？怎么会在这里？！"
+        ],
+        "t-cn": [
+          "哥布林？怎麼會在這裡？！"
         ]
       },
       "silentCues": [],
@@ -84,8 +147,35 @@
             "en": [
               "That's settled. Let's see if we can find one of these crystals."
             ],
+            "de": [
+              "Das wäre erledigt. Mal sehen, ob wir einen dieser Kristalle finden."
+            ],
+            "es": [
+              "Hecho. Veamos si encontramos uno de estos cristales."
+            ],
+            "fr": [
+              "C'est entendu. Voyons si nous pouvons trouver l'un de ces cristaux."
+            ],
+            "it": [
+              "Bene. Vediamo se riusciamo a trovare uno di questi cristalli."
+            ],
+            "ja": [
+              "移動が嫌いなゴブリンが なんでここにいるの？"
+            ],
+            "ko": [
+              "그럼 결정됐군. 그 수정이라는 걸 하나 찾아보자."
+            ],
             "pt-br": [
               "Fechado. Vamos ver se conseguimos encontrar um desses cristais."
+            ],
+            "ru": [
+              "Решено. Посмотрим, сможем ли мы найти один из этих кристаллов."
+            ],
+            "s-cn": [
+              "这下解决了。我们看看能否找到一颗类似那样的水晶。"
+            ],
+            "t-cn": [
+              "這下解決了。我們看看能否找到一顆類似那樣的水晶。"
             ]
           },
           "provenance": {
@@ -105,8 +195,35 @@
         "en": [
           "That's settled. Let's see if we can find one of these crystals."
         ],
+        "de": [
+          "Das wäre erledigt. Mal sehen, ob wir einen dieser Kristalle finden."
+        ],
+        "es": [
+          "Hecho. Veamos si encontramos uno de estos cristales."
+        ],
+        "fr": [
+          "C'est entendu. Voyons si nous pouvons trouver l'un de ces cristaux."
+        ],
+        "it": [
+          "Bene. Vediamo se riusciamo a trovare uno di questi cristalli."
+        ],
+        "ja": [
+          "移動が嫌いなゴブリンが なんでここにいるの？"
+        ],
+        "ko": [
+          "그럼 결정됐군. 그 수정이라는 걸 하나 찾아보자."
+        ],
         "pt-br": [
           "Fechado. Vamos ver se conseguimos encontrar um desses cristais."
+        ],
+        "ru": [
+          "Решено. Посмотрим, сможем ли мы найти один из этих кристаллов."
+        ],
+        "s-cn": [
+          "这下解决了。我们看看能否找到一颗类似那样的水晶。"
+        ],
+        "t-cn": [
+          "這下解決了。我們看看能否找到一顆類似那樣的水晶。"
         ]
       },
       "silentCues": [],

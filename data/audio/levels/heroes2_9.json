@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Together again!"
             ],
+            "de": [
+              "Wieder vereint!"
+            ],
+            "es": [
+              "¡Juntos de nuevo!"
+            ],
+            "fr": [
+              "Ensemble à nouveau !"
+            ],
+            "it": [
+              "Di nuovo insieme!"
+            ],
+            "ja": [
+              "やっと会えた！"
+            ],
+            "ko": [
+              "다시 뭉쳤구나!"
+            ],
             "pt-br": [
               "Juntos de novo!"
+            ],
+            "ru": [
+              "Снова вместе!"
+            ],
+            "s-cn": [
+              "我们又会合了！"
+            ],
+            "t-cn": [
+              "我們又會合了！"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "He tried to stop us, but he couldn't!"
             ],
+            "de": [
+              "Er hat versucht, uns aufzuhalten, aber er hat es nicht geschafft!"
+            ],
+            "es": [
+              "Intentó detenernos, ¡pero no pudo!"
+            ],
+            "fr": [
+              "Il a essayé de nous arrêter, mais il n'a pas réussi !"
+            ],
+            "it": [
+              "Ha cercato di fermarci, ma non ci è riuscito!"
+            ],
+            "ja": [
+              "ヤツにあたしたちは 止められなかったね！"
+            ],
+            "ko": [
+              "우릴 막으려 했지만, 어림없었지!"
+            ],
             "pt-br": [
               "Ele tentou impedir a gente, mas não conseguiu!"
+            ],
+            "ru": [
+              "Он пытался нас остановить, но не смог!"
+            ],
+            "s-cn": [
+              "他想拦住我们，可他拦不住！"
+            ],
+            "t-cn": [
+              "他想攔住我們，可他攔不住！"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "He? You think Reynard was behind the attack on the Caravan?"
             ],
+            "de": [
+              "Er? Du meinst, Reynard hat hinter dem Angriff auf die Karawane gesteckt?"
+            ],
+            "es": [
+              "¿Él? ¿Crees que Reynard estaba detrás del ataque a la Caravana?"
+            ],
+            "fr": [
+              "Il ? Tu penses que Reynard était derrière l'attaque de la caravane ?"
+            ],
+            "it": [
+              "Lui? Pensi che ci fosse Reynard dietro l'attacco alla Carovana?"
+            ],
+            "ja": [
+              "ヤツ？隊商を襲ったのは レイナードだったのか？"
+            ],
+            "ko": [
+              "그 사람? 레이너드가 캐러밴 공격의 배후라고?"
+            ],
             "pt-br": [
               "Ele? Você acha que o Reynard estava por trás do ataque à Caravana?"
+            ],
+            "ru": [
+              "Он? Ты думаешь, Рейнард стоял за нападением на Караван?"
+            ],
+            "s-cn": [
+              "他？你觉得商队遇袭，是雷纳德策划的？"
+            ],
+            "t-cn": [
+              "他？你覺得商隊遇襲，是雷納德策劃的？"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Such an attack has hardly ever happened in history --"
             ],
+            "de": [
+              "So einen Angriff ist so gut wie noch nie vorgekommen ..."
+            ],
+            "es": [
+              "Casi nunca ha ocurrido un ataque así en la historia..."
+            ],
+            "fr": [
+              "Une telle attaque ne s'est presque jamais produite dans l'histoire..."
+            ],
+            "it": [
+              "Un attacco simile è capitato di rado nella storia..."
+            ],
+            "ja": [
+              "そんな襲撃、今までだって めったになかったはず――"
+            ],
+            "ko": [
+              "그런 습격은 역사적으로 거의 없던 일이야..."
+            ],
             "pt-br": [
               "Um ataque desses quase nunca aconteceu na história..."
+            ],
+            "ru": [
+              "В истории такие нападения случались крайне редко..."
+            ],
+            "s-cn": [
+              "这样的袭击在历史上几乎从未发生过——"
+            ],
+            "t-cn": [
+              "這樣的襲擊在歷史上幾乎從未發生過——"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "None dare; the Caravan's defenses are legendary!..."
             ],
+            "de": [
+              "Niemand traut sich; die Verteidigung der Karawane ist legendär!"
+            ],
+            "es": [
+              "Nadie se atreve; ¡las defensas de la caravana son legendarias...!"
+            ],
+            "fr": [
+              "Personne n'oserait ; les défenses de la caravane sont légendaires !"
+            ],
+            "it": [
+              "Nessuno osa tanto: le difese della Carovana sono leggendarie! ..."
+            ],
+            "ja": [
+              "手を出す奴はいねえ。 あの隊商の守りは伝説級だからな！…"
+            ],
+            "ko": [
+              "아무도 엄두를 못 내지. 캐러밴의 방어력은 전설적이니까!"
+            ],
             "pt-br": [
               "Ninguém ousa; as defesas da Caravana são lendárias!..."
+            ],
+            "ru": [
+              "Никто не смеет; о защите каравана ходят легенды!.."
+            ],
+            "s-cn": [
+              "没人敢这么做！商队的防卫可是出了名的！……"
+            ],
+            "t-cn": [
+              "沒人敢這麼做！商隊的防衛可是出了名的！……"
             ]
           },
           "provenance": {
@@ -133,8 +277,35 @@
             "en": [
               "So *someone* had a legendarily strong motive. Perhaps that motive involves us!"
             ],
+            "de": [
+              "Also hatte jemand einen legendär guten Grund. Vielleicht hat der ja mit uns zu tun!"
+            ],
+            "es": [
+              "Así que alguien tenía un motivo igual de legendario. ¡Quizá ese motivo tenga que ver con nosotros!"
+            ],
+            "fr": [
+              "Quelqu'un avait donc une motivation tout aussi légendaire. Qui nous concerne peut-être !"
+            ],
+            "it": [
+              "Quindi qualcuno aveva uno scopo altrettanto leggendario. Forse quello scopo ci riguarda!"
+            ],
+            "ja": [
+              "あんなこと滅多に起きないし よっぽど恨んでたんだよ… あたしたちを。"
+            ],
+            "ko": [
+              "하지만 전설보다 더 강한 동기가 있는 사람이 있었던 거야. 그 동기가 우리와 관련이 있을지도 모르고!"
+            ],
             "pt-br": [
               "Então alguém tinha uma motivação de proporções lendárias. Talvez essa motivação tenha a ver conosco!"
+            ],
+            "ru": [
+              "Значит, у кого-то была на редкость веская причина. Возможно, эта причина связана с нами!"
+            ],
+            "s-cn": [
+              "所以，某个人一定有着极强的动机。 也许这动机跟我们有关！"
+            ],
+            "t-cn": [
+              "所以，某個人一定有著極強的動機。 也許這動機跟我們有關！"
             ]
           },
           "provenance": {
@@ -159,6 +330,54 @@
           "None dare; the Caravan's defenses are legendary!...",
           "So *someone* had a legendarily strong motive. Perhaps that motive involves us!"
         ],
+        "de": [
+          "Wieder vereint!",
+          "Er hat versucht, uns aufzuhalten, aber er hat es nicht geschafft!",
+          "Er? Du meinst, Reynard hat hinter dem Angriff auf die Karawane gesteckt?",
+          "So einen Angriff ist so gut wie noch nie vorgekommen ...",
+          "Niemand traut sich; die Verteidigung der Karawane ist legendär!",
+          "Also hatte jemand einen legendär guten Grund. Vielleicht hat der ja mit uns zu tun!"
+        ],
+        "es": [
+          "¡Juntos de nuevo!",
+          "Intentó detenernos, ¡pero no pudo!",
+          "¿Él? ¿Crees que Reynard estaba detrás del ataque a la Caravana?",
+          "Casi nunca ha ocurrido un ataque así en la historia...",
+          "Nadie se atreve; ¡las defensas de la caravana son legendarias...!",
+          "Así que alguien tenía un motivo igual de legendario. ¡Quizá ese motivo tenga que ver con nosotros!"
+        ],
+        "fr": [
+          "Ensemble à nouveau !",
+          "Il a essayé de nous arrêter, mais il n'a pas réussi !",
+          "Il ? Tu penses que Reynard était derrière l'attaque de la caravane ?",
+          "Une telle attaque ne s'est presque jamais produite dans l'histoire...",
+          "Personne n'oserait ; les défenses de la caravane sont légendaires !",
+          "Quelqu'un avait donc une motivation tout aussi légendaire. Qui nous concerne peut-être !"
+        ],
+        "it": [
+          "Di nuovo insieme!",
+          "Ha cercato di fermarci, ma non ci è riuscito!",
+          "Lui? Pensi che ci fosse Reynard dietro l'attacco alla Carovana?",
+          "Un attacco simile è capitato di rado nella storia...",
+          "Nessuno osa tanto: le difese della Carovana sono leggendarie! ...",
+          "Quindi qualcuno aveva uno scopo altrettanto leggendario. Forse quello scopo ci riguarda!"
+        ],
+        "ja": [
+          "やっと会えた！",
+          "ヤツにあたしたちは 止められなかったね！",
+          "ヤツ？隊商を襲ったのは レイナードだったのか？",
+          "そんな襲撃、今までだって めったになかったはず――",
+          "手を出す奴はいねえ。 あの隊商の守りは伝説級だからな！…",
+          "あんなこと滅多に起きないし よっぽど恨んでたんだよ… あたしたちを。"
+        ],
+        "ko": [
+          "다시 뭉쳤구나!",
+          "우릴 막으려 했지만, 어림없었지!",
+          "그 사람? 레이너드가 캐러밴 공격의 배후라고?",
+          "그런 습격은 역사적으로 거의 없던 일이야...",
+          "아무도 엄두를 못 내지. 캐러밴의 방어력은 전설적이니까!",
+          "하지만 전설보다 더 강한 동기가 있는 사람이 있었던 거야. 그 동기가 우리와 관련이 있을지도 모르고!"
+        ],
         "pt-br": [
           "Juntos de novo!",
           "Ele tentou impedir a gente, mas não conseguiu!",
@@ -166,6 +385,30 @@
           "Um ataque desses quase nunca aconteceu na história...",
           "Ninguém ousa; as defesas da Caravana são lendárias!...",
           "Então alguém tinha uma motivação de proporções lendárias. Talvez essa motivação tenha a ver conosco!"
+        ],
+        "ru": [
+          "Снова вместе!",
+          "Он пытался нас остановить, но не смог!",
+          "Он? Ты думаешь, Рейнард стоял за нападением на Караван?",
+          "В истории такие нападения случались крайне редко...",
+          "Никто не смеет; о защите каравана ходят легенды!..",
+          "Значит, у кого-то была на редкость веская причина. Возможно, эта причина связана с нами!"
+        ],
+        "s-cn": [
+          "我们又会合了！",
+          "他想拦住我们，可他拦不住！",
+          "他？你觉得商队遇袭，是雷纳德策划的？",
+          "这样的袭击在历史上几乎从未发生过——",
+          "没人敢这么做！商队的防卫可是出了名的！……",
+          "所以，某个人一定有着极强的动机。 也许这动机跟我们有关！"
+        ],
+        "t-cn": [
+          "我們又會合了！",
+          "他想攔住我們，可他攔不住！",
+          "他？你覺得商隊遇襲，是雷納德策劃的？",
+          "這樣的襲擊在歷史上幾乎從未發生過——",
+          "沒人敢這麼做！商隊的防衛可是出了名的！……",
+          "所以，某個人一定有著極強的動機。 也許這動機跟我們有關！"
         ]
       },
       "silentCues": [],
@@ -206,10 +449,55 @@
               "Day after day of close-quartered travel, Guardsmen all around,",
               "not much to occupy them but gossip in quiet whispers; well, *I* felt awkward for you."
             ],
+            "de": [
+              "Ich bin überrascht, dass du nicht für einen Hinterhalt gebetet hast.",
+              "Tag für Tag auf engstem Raum unterwegs, ringsum Wachleute,",
+              "kaum etwas zu tun, außer flüsternd Klatsch auszutauschen; das kann sicher nicht angenehm gewesen sein."
+            ],
+            "es": [
+              "Me sorprende que no rezaras por una emboscada.",
+              "Viajando, día tras día, todos apretujados, rodeados de guardias...",
+              "Sin mucho que hacer salvo cotillear entre susurros; en fin, yo lo pasé mal por ti."
+            ],
+            "fr": [
+              "Je suis surpris que tu ne pries pas pour une embuscade.",
+              "Des jours et des jours de voyage, serrés les uns contre les autres, entourés de gardes,",
+              "qui n'avaient rien d'autre à faire que de chuchoter des ragots ; eh bien, moi, j'étais gêné pour toi."
+            ],
+            "it": [
+              "Mi sorprende che tu non abbia pregato per un'imboscata.",
+              "Giorni e giorni di viaggio in spazi angusti, guardie dappertutto,",
+              "ben poco da fare se non parlottare sottovoce... Beh, mi sentivo io a disagio per te."
+            ],
+            "ja": [
+              "待ち伏せを期待して おらんかったのか？",
+              "狭い所で何日も移動して、 周りは衛兵だらけじゃからな。",
+              "それまでは船旅も 気まずかったじゃろう。"
+            ],
+            "ko": [
+              "난 네가 습격해 달라고 기도하지 않은 게 더 놀라워.",
+              "매일같이 비좁은 곳에서 함께 이동하며 사방에 경비병들까지 있었으니까",
+              "수군수군 남 얘기하는 것 말고는 할 일도 없었겠지. 뭐, 내가 다 민망하더라."
+            ],
             "pt-br": [
               "Me surpreende você não ter rezado por uma emboscada.",
               "Dia após dia viajando apertados, guardas por todo lado,",
               "sem muito o que fazer além de cochichar fofocas; bem, eu fiquei sem graça por você."
+            ],
+            "ru": [
+              "Удивлён, что ты не молился о засаде.",
+              "День за днём в тесноте, кругом стражники,",
+              "им только и остаётся, что шёпотом сплетничать; в общем, мне было за тебя неловко."
+            ],
+            "s-cn": [
+              "我还以为你会巴不得有人来偷袭我们呢。",
+              "日复一日挤在一起赶路，四周都是卫兵，",
+              "他们除了压低嗓子嚼舌根也没什么可做的； 唉，我都替你感到不自在。"
+            ],
+            "t-cn": [
+              "我還以為你會巴不得有人來偷襲我們呢。",
+              "日復一日擠在一起趕路，四周都是衛兵，",
+              "他們除了壓低嗓子嚼舌根也沒什麼可做的； 唉，我都替你感到不自在。"
             ]
           },
           "provenance": {
@@ -232,8 +520,35 @@
             "en": [
               "Not at all. It's only the higher-ups who pretend to hate me. The regular guys on the line, they respect what I did."
             ],
+            "de": [
+              "Ach, woher. Nur die hohen Tiere tun so, als würden sie mich hassen. Die einfachen Soldaten respektieren, was ich getan habe."
+            ],
+            "es": [
+              "Para nada. Solo los de arriba fingen odiarme. Los demás, la gente normal, respetan lo que hice."
+            ],
+            "fr": [
+              "Pas du tout. Il n'y a que les hauts gradés qui font semblant de me détester. Les gars ordinaires sur le terrain, eux, ils respectent ce que j'ai fait."
+            ],
+            "it": [
+              "Per niente. Solo i superiori fanno finta di odiarmi. Le persone comuni, quelle in prima linea, rispettano quello che ho fatto."
+            ],
+            "ja": [
+              "全然。俺を嫌ってるフリをするのは 上の連中だけだ。 現場のヤツらは俺を認めてる。"
+            ],
+            "ko": [
+              "전혀 아니야. 날 미워하는 척하는 건 윗선들뿐이지. 일반 병사들은 내가 한 일을 존중하거든."
+            ],
             "pt-br": [
               "Nada disso. Só os superiores fingem me detestar. O pessoal comum me respeita pelo que fiz."
+            ],
+            "ru": [
+              "Вовсе нет. Только начальство делает вид, что меня ненавидит. А обычные ребята на передовой уважают то, что я сделал."
+            ],
+            "s-cn": [
+              "才不是。也就上头那帮人装得跟多讨厌我似的。 前线那些普通弟兄可都佩服我干的事。"
+            ],
+            "t-cn": [
+              "才不是。也就上頭那幫人裝得跟多討厭我似的。 前線那些普通弟兄可都佩服我幹的事。"
             ]
           },
           "provenance": {
@@ -254,8 +569,35 @@
             "en": [
               "Izzy, can't you see how they looked at him? They all wanted to be him, ... and they were glad not to be him."
             ],
+            "de": [
+              "Izzy, hast du nicht bemerkt, wie sie ihn angesehen haben? Sie wollten alle so sein wie er, ... und waren froh, es nicht zu sein."
+            ],
+            "es": [
+              "Izzy, ¿no ves cómo lo miraban? Todos querían ser él... y se alegraban de no serlo."
+            ],
+            "fr": [
+              "Izzy, tu ne vois pas comment ils le regardaient ? Ils voulaient tous être à sa place... et en même temps, ils étaient contents de ne pas l'être."
+            ],
+            "it": [
+              "Izzy, non vedi come lo guardavano? Tutti volevano essere lui, ... ed erano felici di non esserlo."
+            ],
+            "ja": [
+              "イジー、ヤツらの表情を見なかった？ みんな彼になりたくて… …彼じゃなくてよかったって思ってた。"
+            ],
+            "ko": [
+              "이지, 그들이 그를 어떻게 봤는지 못 봤어? 다들 그가 되고 싶어 했어, ... 그리고 자신이 그가 아니라서 다행이라 여겼지."
+            ],
             "pt-br": [
               "Izzy, você não vê como eles olhavam para ele? Todos queriam ser ele... e ficaram aliviados por não serem."
+            ],
+            "ru": [
+              "Иззи, ты не видишь, как они на него смотрели? Они все хотели быть им... и радовались, что это не они."
+            ],
+            "s-cn": [
+              "伊兹，你没看见他们对他是什么态度吗？ 个个都想成为他……又庆幸自己不是他。"
+            ],
+            "t-cn": [
+              "伊茲，你沒看見他們對他是什麼態度嗎？ 個個都想成為他……又慶幸自己不是他。"
             ]
           },
           "provenance": {
@@ -276,8 +618,35 @@
             "en": [
               "Let's just keep moving."
             ],
+            "de": [
+              "Gehen wir einfach weiter."
+            ],
+            "es": [
+              "Sigamos avanzando."
+            ],
+            "fr": [
+              "Continuons simplement d'avancer."
+            ],
+            "it": [
+              "Andiamo avanti."
+            ],
+            "ja": [
+              "いいから進むぞ。"
+            ],
+            "ko": [
+              "그냥 계속 가자고."
+            ],
             "pt-br": [
               "Vamos só continuar."
+            ],
+            "ru": [
+              "Просто идём дальше."
+            ],
+            "s-cn": [
+              "还是赶路吧。"
+            ],
+            "t-cn": [
+              "還是趕路吧。"
             ]
           },
           "provenance": {
@@ -302,6 +671,54 @@
           "Izzy, can't you see how they looked at him? They all wanted to be him, ... and they were glad not to be him.",
           "Let's just keep moving."
         ],
+        "de": [
+          "Ich bin überrascht, dass du nicht für einen Hinterhalt gebetet hast.",
+          "Tag für Tag auf engstem Raum unterwegs, ringsum Wachleute,",
+          "kaum etwas zu tun, außer flüsternd Klatsch auszutauschen; das kann sicher nicht angenehm gewesen sein.",
+          "Ach, woher. Nur die hohen Tiere tun so, als würden sie mich hassen. Die einfachen Soldaten respektieren, was ich getan habe.",
+          "Izzy, hast du nicht bemerkt, wie sie ihn angesehen haben? Sie wollten alle so sein wie er, ... und waren froh, es nicht zu sein.",
+          "Gehen wir einfach weiter."
+        ],
+        "es": [
+          "Me sorprende que no rezaras por una emboscada.",
+          "Viajando, día tras día, todos apretujados, rodeados de guardias...",
+          "Sin mucho que hacer salvo cotillear entre susurros; en fin, yo lo pasé mal por ti.",
+          "Para nada. Solo los de arriba fingen odiarme. Los demás, la gente normal, respetan lo que hice.",
+          "Izzy, ¿no ves cómo lo miraban? Todos querían ser él... y se alegraban de no serlo.",
+          "Sigamos avanzando."
+        ],
+        "fr": [
+          "Je suis surpris que tu ne pries pas pour une embuscade.",
+          "Des jours et des jours de voyage, serrés les uns contre les autres, entourés de gardes,",
+          "qui n'avaient rien d'autre à faire que de chuchoter des ragots ; eh bien, moi, j'étais gêné pour toi.",
+          "Pas du tout. Il n'y a que les hauts gradés qui font semblant de me détester. Les gars ordinaires sur le terrain, eux, ils respectent ce que j'ai fait.",
+          "Izzy, tu ne vois pas comment ils le regardaient ? Ils voulaient tous être à sa place... et en même temps, ils étaient contents de ne pas l'être.",
+          "Continuons simplement d'avancer."
+        ],
+        "it": [
+          "Mi sorprende che tu non abbia pregato per un'imboscata.",
+          "Giorni e giorni di viaggio in spazi angusti, guardie dappertutto,",
+          "ben poco da fare se non parlottare sottovoce... Beh, mi sentivo io a disagio per te.",
+          "Per niente. Solo i superiori fanno finta di odiarmi. Le persone comuni, quelle in prima linea, rispettano quello che ho fatto.",
+          "Izzy, non vedi come lo guardavano? Tutti volevano essere lui, ... ed erano felici di non esserlo.",
+          "Andiamo avanti."
+        ],
+        "ja": [
+          "待ち伏せを期待して おらんかったのか？",
+          "狭い所で何日も移動して、 周りは衛兵だらけじゃからな。",
+          "それまでは船旅も 気まずかったじゃろう。",
+          "全然。俺を嫌ってるフリをするのは 上の連中だけだ。 現場のヤツらは俺を認めてる。",
+          "イジー、ヤツらの表情を見なかった？ みんな彼になりたくて… …彼じゃなくてよかったって思ってた。",
+          "いいから進むぞ。"
+        ],
+        "ko": [
+          "난 네가 습격해 달라고 기도하지 않은 게 더 놀라워.",
+          "매일같이 비좁은 곳에서 함께 이동하며 사방에 경비병들까지 있었으니까",
+          "수군수군 남 얘기하는 것 말고는 할 일도 없었겠지. 뭐, 내가 다 민망하더라.",
+          "전혀 아니야. 날 미워하는 척하는 건 윗선들뿐이지. 일반 병사들은 내가 한 일을 존중하거든.",
+          "이지, 그들이 그를 어떻게 봤는지 못 봤어? 다들 그가 되고 싶어 했어, ... 그리고 자신이 그가 아니라서 다행이라 여겼지.",
+          "그냥 계속 가자고."
+        ],
         "pt-br": [
           "Me surpreende você não ter rezado por uma emboscada.",
           "Dia após dia viajando apertados, guardas por todo lado,",
@@ -309,6 +726,30 @@
           "Nada disso. Só os superiores fingem me detestar. O pessoal comum me respeita pelo que fiz.",
           "Izzy, você não vê como eles olhavam para ele? Todos queriam ser ele... e ficaram aliviados por não serem.",
           "Vamos só continuar."
+        ],
+        "ru": [
+          "Удивлён, что ты не молился о засаде.",
+          "День за днём в тесноте, кругом стражники,",
+          "им только и остаётся, что шёпотом сплетничать; в общем, мне было за тебя неловко.",
+          "Вовсе нет. Только начальство делает вид, что меня ненавидит. А обычные ребята на передовой уважают то, что я сделал.",
+          "Иззи, ты не видишь, как они на него смотрели? Они все хотели быть им... и радовались, что это не они.",
+          "Просто идём дальше."
+        ],
+        "s-cn": [
+          "我还以为你会巴不得有人来偷袭我们呢。",
+          "日复一日挤在一起赶路，四周都是卫兵，",
+          "他们除了压低嗓子嚼舌根也没什么可做的； 唉，我都替你感到不自在。",
+          "才不是。也就上头那帮人装得跟多讨厌我似的。 前线那些普通弟兄可都佩服我干的事。",
+          "伊兹，你没看见他们对他是什么态度吗？ 个个都想成为他……又庆幸自己不是他。",
+          "还是赶路吧。"
+        ],
+        "t-cn": [
+          "我還以為你會巴不得有人來偷襲我們呢。",
+          "日復一日擠在一起趕路，四周都是衛兵，",
+          "他們除了壓低嗓子嚼舌根也沒什麼可做的； 唉，我都替你感到不自在。",
+          "才不是。也就上頭那幫人裝得跟多討厭我似的。 前線那些普通弟兄可都佩服我幹的事。",
+          "伊茲，你沒看見他們對他是什麼態度嗎？ 個個都想成為他……又慶幸自己不是他。",
+          "還是趕路吧。"
         ]
       },
       "silentCues": [],
@@ -347,8 +788,35 @@
             "en": [
               "I'll search the East!"
             ],
+            "de": [
+              "Ich übernehme den Osten!"
+            ],
+            "es": [
+              "¡Yo busco en el este!"
+            ],
+            "fr": [
+              "Je vais fouiller à l'est !"
+            ],
+            "it": [
+              "Io cerco a est!"
+            ],
+            "ja": [
+              "俺は東を探す！"
+            ],
+            "ko": [
+              "동쪽은 내가 찾아볼게!"
+            ],
             "pt-br": [
               "Vou procurar no Leste!"
+            ],
+            "ru": [
+              "Я поищу на востоке!"
+            ],
+            "s-cn": [
+              "我搜东边！"
+            ],
+            "t-cn": [
+              "我搜東邊！"
             ]
           },
           "provenance": {
@@ -369,8 +837,35 @@
             "en": [
               "I've got South!"
             ],
+            "de": [
+              "Ich nehme mir den Süden vor!"
+            ],
+            "es": [
+              "¡Yo cubro el sur!"
+            ],
+            "fr": [
+              "Je prends le sud !"
+            ],
+            "it": [
+              "Io vado a sud!"
+            ],
+            "ja": [
+              "あたしは南！"
+            ],
+            "ko": [
+              "남쪽은 내가 맡을게!"
+            ],
             "pt-br": [
               "Eu fico com o sul!"
+            ],
+            "ru": [
+              "Я возьму юг!"
+            ],
+            "s-cn": [
+              "南边交给我！"
+            ],
+            "t-cn": [
+              "南邊交給我！"
             ]
           },
           "provenance": {
@@ -391,8 +886,35 @@
             "en": [
               "I'll check... the other ways."
             ],
+            "de": [
+              "Ich sehe mich ... in den anderen Richtungen um."
+            ],
+            "es": [
+              "Yo cubro... los otros caminos."
+            ],
+            "fr": [
+              "Je vais vérifier... les autres côtés."
+            ],
+            "it": [
+              "Io controllo... le altre direzioni."
+            ],
+            "ja": [
+              "ワシは…それ以外を。"
+            ],
+            "ko": [
+              "난... 다른 길들을 확인해 볼게."
+            ],
             "pt-br": [
               "Vou verificar... os outros caminhos."
+            ],
+            "ru": [
+              "Я проверю... другие пути."
+            ],
+            "s-cn": [
+              "我去看看……其他方向。"
+            ],
+            "t-cn": [
+              "我去看看……其他方向。"
             ]
           },
           "provenance": {
@@ -414,10 +936,55 @@
           "I've got South!",
           "I'll check... the other ways."
         ],
+        "de": [
+          "Ich übernehme den Osten!",
+          "Ich nehme mir den Süden vor!",
+          "Ich sehe mich ... in den anderen Richtungen um."
+        ],
+        "es": [
+          "¡Yo busco en el este!",
+          "¡Yo cubro el sur!",
+          "Yo cubro... los otros caminos."
+        ],
+        "fr": [
+          "Je vais fouiller à l'est !",
+          "Je prends le sud !",
+          "Je vais vérifier... les autres côtés."
+        ],
+        "it": [
+          "Io cerco a est!",
+          "Io vado a sud!",
+          "Io controllo... le altre direzioni."
+        ],
+        "ja": [
+          "俺は東を探す！",
+          "あたしは南！",
+          "ワシは…それ以外を。"
+        ],
+        "ko": [
+          "동쪽은 내가 찾아볼게!",
+          "남쪽은 내가 맡을게!",
+          "난... 다른 길들을 확인해 볼게."
+        ],
         "pt-br": [
           "Vou procurar no Leste!",
           "Eu fico com o sul!",
           "Vou verificar... os outros caminhos."
+        ],
+        "ru": [
+          "Я поищу на востоке!",
+          "Я возьму юг!",
+          "Я проверю... другие пути."
+        ],
+        "s-cn": [
+          "我搜东边！",
+          "南边交给我！",
+          "我去看看……其他方向。"
+        ],
+        "t-cn": [
+          "我搜東邊！",
+          "南邊交給我！",
+          "我去看看……其他方向。"
         ]
       },
       "silentCues": [],

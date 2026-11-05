@@ -3,7 +3,7 @@
 Documento de passagem para uma nova sessão do Codex. Atualizado em 2026-10-21.
 Este arquivo é temporário: pode ser substituído por documentação definitiva após a implementação.
 
-**Estado atual:** catálogo completo implementado após a validação do piloto: 219 fases do mapa com áudio, 71 audiologs do mundo, 1.412 gravações compartilhadas em MP3. A documentação definitiva está em [AUDIO_CATALOG.md](AUDIO_CATALOG.md); as seções abaixo preservam o histórico da investigação e podem descrever etapas antigas. Servidor de revisão disponível em `http://localhost:8765`. Manter tudo **sem commit e sem push**. Não descartar arquivos modificados ou não rastreados ao retomar.
+**Estado atual:** catálogo completo implementado após a validação do piloto: 219 fases do mapa com áudio, 71 audiologs do mundo, 1.412 gravações compartilhadas em MP3. A documentação definitiva está em [AUDIO_CATALOG.md](docs/AUDIO_CATALOG.md); as seções abaixo preservam o histórico da investigação e podem descrever etapas antigas. Servidor de revisão disponível em `http://localhost:8765`. Manter tudo **sem commit e sem push**. Não descartar arquivos modificados ou não rastreados ao retomar.
 
 ## Estado e escopo autorizado
 
@@ -475,7 +475,7 @@ com manifestos; 71 audiologs globais; 69 posições cobertas pelos tiles atuais;
 1.412 MP3s (aproximadamente 164 MB); oito trechos de silêncio; uma mídia realmente
 ausente na instalação (`coda_5__queen`). Os demais blocos sem associação estruturada
 identificada continuam preservados no arquivo completo, sem atribuição inventada.
-Detalhes e comandos atualizados: [AUDIO_CATALOG.md](AUDIO_CATALOG.md).
+Detalhes e comandos atualizados: [AUDIO_CATALOG.md](docs/AUDIO_CATALOG.md).
 
 A regeneração incremental reutilizou os 1.412 MP3s sem reconversão. Os testes Python
 e a verificação em Chromium cobrem a ampliação e o avanço entre gravações

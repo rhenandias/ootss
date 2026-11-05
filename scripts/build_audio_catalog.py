@@ -39,6 +39,7 @@ AUDIO_FIELDS = {
 }
 MEDIA_PROFILE = 'mp3-mono-44100-96k-v1'
 SAFE_ID = re.compile(r'[A-Za-z0-9_]+$')
+MAP_CONFIG = json.loads((ROOT / 'data/map_config.json').read_text(encoding='utf-8'))
 
 
 def digest(path):
@@ -101,7 +102,7 @@ def expand_story_namespaces(entities, associations, subtitles):
 
 
 def scan_package(package, subtitles):
-    levels, world_entities, issues, missing_references = {}, [], [], []
+    levels, spatial_entities, issues, missing_references = {}, {}, [], []
     with package.open('rb') as handle:
         entries = package_entries(handle)
         for source, (size, offset) in sorted(entries.items()):
@@ -143,9 +144,9 @@ def scan_package(package, subtitles):
                             'field': field, 'value': value})
             expand_story_namespaces(entities, associations, subtitles)
             levels[level] = {'source': source, 'associations': dict(associations)}
-            if level == 'overworld':
-                world_entities = entities
-    return levels, world_entities, issues, missing_references
+            if level in {conf['entities'] for conf in MAP_CONFIG.values()}:
+                spatial_entities[level] = entities
+    return levels, spatial_entities, issues, missing_references
 
 
 def is_silent_clip(clip):
@@ -200,8 +201,24 @@ def resolve_block(block_id, subtitles, audio_root):
             'silentCues': silent, 'missingClips': missing, 'translationIssues': translation_issues}
 
 
-def world_features(entities, triggers=None):
-    """Entity positions are world coordinates; group membership is not an offset."""
+def maps_for_position(source_level, position, maps=None):
+    """Match coordinates only inside the map of their own entity source."""
+    x, y, z = position
+    result = []
+    for name, conf in (MAP_CONFIG if maps is None else maps).items():
+        if conf['entities'] != source_level:
+            continue
+        bounds = conf['bounds']
+        if not (bounds['left'] <= x <= bounds['right'] and bounds['bottom'] <= y <= bounds['top']):
+            continue
+        height = conf.get('heightRange')
+        if height is None or height[0] <= z <= height[1]:
+            result.append(name)
+    return result
+
+
+def world_features(entities, triggers=None, source_level='overworld', source=None):
+    """Keep original coordinates in each mapped entity file; groups are not offsets."""
     lookup = {entity['id']: entity for entity in entities}
     features = []
     for entity in entities:
@@ -223,13 +240,14 @@ def world_features(entities, triggers=None):
                 unsupported = True
             current = group['fields'].get('group_id', 0)
         position = [fields.get('position.' + axis, 0.0) for axis in 'xyz']
-        # The existing tiles cover these three realms, not the fast-travel interior.
-        covered = -57 <= position[2] <= 75
+        map_layers = maps_for_position(source_level, position)
+        covered = bool(map_layers)
         name = trigger['name'] if trigger else fields.get('name')
         features.append({'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': position},
             'properties': {'type': 'Audio_Trigger' if trigger else 'Voice_Log', 'id': entity['id'], 'name': name,
-                'source': 'data-common/overworld.entities', 'sourceLevel': 'overworld',
-                'coordinateSpace': 'world', 'groupId': group_id, 'groupChain': chain,
+                'source': source or f'data-common/{source_level}.entities', 'sourceLevel': source_level,
+                'entities': source_level, 'mapLayers': map_layers,
+                'coordinateSpace': 'world' if source_level == 'overworld' else 'level-local', 'groupId': group_id, 'groupChain': chain,
                 'mapReady': bool(name) and covered and not unsupported and not entity['unknownMembers'],
                 'mapExclusion': 'outside-current-tiles' if not covered else
                                 'unresolved-group-transform' if unsupported else
@@ -238,7 +256,7 @@ def world_features(entities, triggers=None):
     return sorted(features, key=lambda f: f['properties']['id'])
 
 
-def world_triggers(entities, subtitles):
+def world_triggers(entities, subtitles, source_level='overworld'):
     """Locate explicit world dialogue anchors without guessing a runtime condition.
 
     Only a non-point bark marker with positive box extents is labelled movement.
@@ -264,7 +282,7 @@ def world_triggers(entities, subtitles):
         blocks = list(dict.fromkeys(block for block, _ in refs))
         result[entity['id']] = {
             'name': blocks[0] if len(blocks) == 1 else f'audio_trigger_{entity["id"]}',
-            'audioKey': str(entity['id']), 'triggerKind': kind, 'blocks': blocks,
+            'audioKey': str(entity['id']) if source_level == 'overworld' else f'{source_level}_{entity["id"]}', 'triggerKind': kind, 'blocks': blocks,
             'scriptName': script, 'boxExtents': extents if kind == 'movement' else None,
             'barkFlags': fields.get('bark_flags', 0),
             'activationVerifiedInGame': False,
@@ -285,10 +303,12 @@ def placement_audit(resolved, scanned, map_levels, features, trigger_features, a
         for block in blocks:
             if props['mapReady']:
                 locations[block].append({'kind': props['type'], 'entityId': props['id'],
-                    'coordinates': feature['geometry']['coordinates']})
+                    'coordinates': feature['geometry']['coordinates'], 'sourceLevel': props.get('sourceLevel', 'overworld'),
+                    'mapLayers': props.get('mapLayers', [])})
             else:
                 excluded.append({'block': block, 'entityId': props['id'],
-                    'reason': props['mapExclusion'], 'coordinates': feature['geometry']['coordinates']})
+                    'reason': props['mapExclusion'], 'coordinates': feature['geometry']['coordinates'], 'sourceLevel': props.get('sourceLevel', 'overworld'),
+                    'mapLayers': props.get('mapLayers', [])})
     unplaced = []
     for block, value in resolved.items():
         if value['clips'] and not locations[block]:
@@ -378,26 +398,42 @@ def publish(stage, output_root, generated, previous, previous_catalog):
         (output_root / relative).unlink(missing_ok=True)
 
 
-def build(extracted_root, package, output_root, markers, ffmpeg, schema=None, workers=4, inspect_only=False):
-    initialize_schema(package, schema)
+def load_subtitles(directory):
+    """Discover all languages from either original subtitles or extracted TXT files."""
+    paths = sorted(directory.glob('*.subtitles')) or sorted(directory.glob('*.subtitles.txt'))
+    sources = {path.name.split('.subtitles')[0]: path for path in paths}
+    if 'en' not in sources:
+        raise ValueError(f'English subtitles are required in {directory}')
     subtitles, subtitle_hashes = {}, {}
-    for language in ('en', 'pt-br'):
-        path = extracted_root / f'legendas/data/strings/subtitles/{language}.subtitles.txt'
+    for language in ['en', *sorted(set(sources) - {'en'})]:
+        path = sources[language]
         subtitles[language] = parse_subtitles(path.read_text(encoding='utf-8-sig'))
         subtitle_hashes[language] = digest(path)
+    return subtitles, subtitle_hashes
+
+
+def build(extracted_root, package, output_root, markers, ffmpeg, schema=None, workers=4, inspect_only=False,
+          subtitles_dir=None):
+    initialize_schema(package, schema)
+    subtitles, subtitle_hashes = load_subtitles(
+        subtitles_dir if subtitles_dir is not None else extracted_root / 'legendas/data/strings/subtitles')
     english = subtitles['en']
     audio_root = extracted_root / 'audio/data/sound/GeneratedSoundBanks/Windows/ExternalSources/English'
-    scanned, world, decode_issues, missing_references = scan_package(package, english)
+    scanned, spatial_entities, decode_issues, missing_references = scan_package(package, english)
     map_levels = sorted({f['properties']['name'] for f in json.loads(markers.read_text())['features']
                          if f['properties']['type'] == 'Level_Entry'})
     missing_sources = set(map_levels) - set(scanned)
     if missing_sources:
         raise ValueError(f'Missing entity sources: {sorted(missing_sources)}')
-    triggers = world_triggers(world, english)
-    all_features = world_features(world, triggers)
+    triggers, all_features = {}, []
+    for source_level, entities in sorted(spatial_entities.items()):
+        source_triggers = world_triggers(entities, english, source_level)
+        all_features.extend(world_features(entities, source_triggers, source_level, scanned[source_level]['source']))
+        triggers.update({trigger['audioKey']: trigger for trigger in source_triggers.values()})
     features = [f for f in all_features if f['properties']['type'] == 'Voice_Log']
     trigger_features = [f for f in all_features if f['properties']['type'] == 'Audio_Trigger']
-    log_names = sorted({e['fields']['name'] for e in world if e['type'] == 'Voice_Log' and e['fields'].get('name')})
+    log_names = sorted({e['fields']['name'] for entities in spatial_entities.values()
+                        for e in entities if e['type'] == 'Voice_Log' and e['fields'].get('name')})
     referenced = {block for level in scanned.values() for block in level['associations']}
     resolved = {name: resolve_block(name, subtitles, audio_root) for name in english}
     previous_path = output_root / 'data/audio/generated.json'
@@ -465,7 +501,8 @@ def build(extracted_root, package, output_root, markers, ffmpeg, schema=None, wo
         'decodeIssues': len(decode_issues)}
     schema_source = schema or package.parent.parent / 'sinking_star.exe'
     report = {'schemaVersion': 1, 'summary': summary, 'subtitleSha256': subtitle_hashes,
-        'sources': {'packageSha256': digest(package), 'schemaSourceSha256': digest(schema_source)},
+        'sources': {'packageSha256': digest(package), 'schemaSourceSha256': digest(schema_source),
+                    'mapConfigSha256': digest(ROOT / 'data/map_config.json'), 'markersSha256': digest(markers)},
         'ordering': 'Clips follow English subtitle cues; blocks follow subtitle file order. Conditional variants are listed, not simulated.',
         'levels': report_levels, 'decodeIssues': decode_issues,
         'referencesWithoutSubtitles': missing_references,
@@ -516,6 +553,7 @@ if __name__ == '__main__':
     parser.add_argument('--extracted-root', type=Path, required=True)
     parser.add_argument('--package', type=Path, required=True)
     parser.add_argument('--schema', type=Path)
+    parser.add_argument('--subtitles-dir', type=Path, help='Original game subtitles directory or extracted subtitle TXT directory; discovers all languages')
     parser.add_argument('--markers', type=Path, default=ROOT / 'data/markers.json')
     parser.add_argument('--output-root', type=Path, default=ROOT)
     parser.add_argument('--ffmpeg', type=Path, default=shutil.which('ffmpeg'))
@@ -527,4 +565,4 @@ if __name__ == '__main__':
     if not 1 <= args.workers <= 16:
         parser.error('--workers must be between 1 and 16')
     build(args.extracted_root, args.package, args.output_root, args.markers,
-          args.ffmpeg, args.schema, args.workers, args.inspect_only)
+          args.ffmpeg, args.schema, args.workers, args.inspect_only, args.subtitles_dir)

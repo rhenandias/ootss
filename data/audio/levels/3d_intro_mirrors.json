@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Hello over there!"
             ],
+            "de": [
+              "Hallo da drüben!"
+            ],
+            "es": [
+              "¡Hola!"
+            ],
+            "fr": [
+              "Hé, vous là-bas !"
+            ],
+            "it": [
+              "Ehilà!"
+            ],
+            "ja": [
+              "やあ！"
+            ],
+            "ko": [
+              "거기 안녕!"
+            ],
             "pt-br": [
               "Olá, olá!"
+            ],
+            "ru": [
+              "Привет там!"
+            ],
+            "s-cn": [
+              "那边的朋友，你好啊！"
+            ],
+            "t-cn": [
+              "那邊的朋友，你好啊！"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_mirrors_1__trader_alt.wav",
             "subtitleCueLines": [
-              8714
+              8724
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "Hello again."
             ],
+            "de": [
+              "Hallo noch mal."
+            ],
+            "es": [
+              "Hola otra vez."
+            ],
+            "fr": [
+              "Rebonjour."
+            ],
+            "it": [
+              "Ciao di nuovo."
+            ],
+            "ja": [
+              "また会ったな。"
+            ],
+            "ko": [
+              "또 만났네."
+            ],
             "pt-br": [
               "Olá de novo."
+            ],
+            "ru": [
+              "Снова привет."
+            ],
+            "s-cn": [
+              "又见面了。"
+            ],
+            "t-cn": [
+              "又見面了。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_mirrors_2__trader.wav",
             "subtitleCueLines": [
-              8718
+              8728
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "The Chiefs want me to tell you they think you're doing well."
             ],
+            "de": [
+              "Die Obersten lassen ausrichten, sie finden, du machst das gut."
+            ],
+            "es": [
+              "Los jefes quieren que te diga que creen que lo estás haciendo muy bien."
+            ],
+            "fr": [
+              "Les chefs m'ont demandé de vous dire qu'ils trouvent que vous vous en sortez très bien."
+            ],
+            "it": [
+              "I Capi vogliono che ti dica che pensano che tu stia andando bene."
+            ],
+            "ja": [
+              "長から伝言だ。 君はよくやってるって。"
+            ],
+            "ko": [
+              "수석님들이 네가 잘하고 있다고 전해 달라더군."
+            ],
             "pt-br": [
               "Os chefes querem que eu te diga que acham que você está indo muito bem."
+            ],
+            "ru": [
+              "Главы велели передать тебе, что считают, будто у тебя всё отлично получается."
+            ],
+            "s-cn": [
+              "诸位首席镜匠让我转告你，他们觉得你干得不错。"
+            ],
+            "t-cn": [
+              "諸位首席鏡匠讓我轉告你，他們覺得你幹得不錯。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_mirrors_3__trader_alt.wav",
             "subtitleCueLines": [
-              8721
+              8731
             ],
             "explicitAudioReference": null
           }
@@ -89,14 +179,41 @@
             "en": [
               "What do they want me to do?"
             ],
+            "de": [
+              "Was soll ich für sie tun?"
+            ],
+            "es": [
+              "¿Qué quieren que haga?"
+            ],
+            "fr": [
+              "Qu'est-ce qu'ils veulent que je fasse ?"
+            ],
+            "it": [
+              "Che cosa vogliono che faccia?"
+            ],
+            "ja": [
+              "何をしてほしいんだ。"
+            ],
+            "ko": [
+              "나한테 뭘 하라고 하셨지?"
+            ],
             "pt-br": [
               "O que eles querem que eu faça?"
+            ],
+            "ru": [
+              "Что они хотят от меня?"
+            ],
+            "s-cn": [
+              "那他们想让我做什么？"
+            ],
+            "t-cn": [
+              "那他們想讓我做什麼？"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_mirrors_4__trader.wav",
             "subtitleCueLines": [
-              8726
+              8736
             ],
             "explicitAudioReference": null
           }
@@ -111,14 +228,41 @@
             "en": [
               "Just keep going. When the time comes, we'll give you word."
             ],
+            "de": [
+              "Mach einfach weiter. Wir melden uns, wenn die Zeit dafür gekommen ist."
+            ],
+            "es": [
+              "Sigue adelante, simplemente. Te avisaremos cuando llegue el momento."
+            ],
+            "fr": [
+              "Continuez simplement. Le moment venu, on vous fera signe."
+            ],
+            "it": [
+              "Vai avanti. Ti faremo sapere quando sarà il momento."
+            ],
+            "ja": [
+              "とにかく進め。 その時が来たら知らせる。"
+            ],
+            "ko": [
+              "그냥 계속 가. 때가 되면 알려줄게."
+            ],
             "pt-br": [
               "Só continua. Vamos avisar quando chegar a hora."
+            ],
+            "ru": [
+              "Просто иди дальше. Мы дадим тебе знать, когда придёт время."
+            ],
+            "s-cn": [
+              "继续往前走。 时机一到，我们会给你消息。"
+            ],
+            "t-cn": [
+              "繼續往前走。 時機一到，我們會給你消息。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_mirrors_5__trader_alt.wav",
             "subtitleCueLines": [
-              8729
+              8739
             ],
             "explicitAudioReference": null
           }
@@ -133,14 +277,41 @@
             "en": [
               "I don't like being kept in the dark."
             ],
+            "de": [
+              "Ich mag es nicht, im Dunkeln gelassen zu werden."
+            ],
+            "es": [
+              "No me gusta que me oculten cosas."
+            ],
+            "fr": [
+              "Je n'aime pas qu'on me cache les choses."
+            ],
+            "it": [
+              "Non mi piace essere tenuto all'oscuro."
+            ],
+            "ja": [
+              "秘密は嫌いだ。"
+            ],
+            "ko": [
+              "난 어둠 속에 놓이는 게 싫어."
+            ],
             "pt-br": [
               "Não gosto de ficar no escuro."
+            ],
+            "ru": [
+              "Мне не нравится быть в неведении."
+            ],
+            "s-cn": [
+              "我不喜欢被蒙在鼓里。"
+            ],
+            "t-cn": [
+              "我不喜歡被蒙在鼓裡。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_mirrors_6__trader.wav",
             "subtitleCueLines": [
-              8733
+              8743
             ],
             "explicitAudioReference": null
           }
@@ -159,6 +330,54 @@
           "Just keep going. When the time comes, we'll give you word.",
           "I don't like being kept in the dark."
         ],
+        "de": [
+          "Hallo da drüben!",
+          "Hallo noch mal.",
+          "Die Obersten lassen ausrichten, sie finden, du machst das gut.",
+          "Was soll ich für sie tun?",
+          "Mach einfach weiter. Wir melden uns, wenn die Zeit dafür gekommen ist.",
+          "Ich mag es nicht, im Dunkeln gelassen zu werden."
+        ],
+        "es": [
+          "¡Hola!",
+          "Hola otra vez.",
+          "Los jefes quieren que te diga que creen que lo estás haciendo muy bien.",
+          "¿Qué quieren que haga?",
+          "Sigue adelante, simplemente. Te avisaremos cuando llegue el momento.",
+          "No me gusta que me oculten cosas."
+        ],
+        "fr": [
+          "Hé, vous là-bas !",
+          "Rebonjour.",
+          "Les chefs m'ont demandé de vous dire qu'ils trouvent que vous vous en sortez très bien.",
+          "Qu'est-ce qu'ils veulent que je fasse ?",
+          "Continuez simplement. Le moment venu, on vous fera signe.",
+          "Je n'aime pas qu'on me cache les choses."
+        ],
+        "it": [
+          "Ehilà!",
+          "Ciao di nuovo.",
+          "I Capi vogliono che ti dica che pensano che tu stia andando bene.",
+          "Che cosa vogliono che faccia?",
+          "Vai avanti. Ti faremo sapere quando sarà il momento.",
+          "Non mi piace essere tenuto all'oscuro."
+        ],
+        "ja": [
+          "やあ！",
+          "また会ったな。",
+          "長から伝言だ。 君はよくやってるって。",
+          "何をしてほしいんだ。",
+          "とにかく進め。 その時が来たら知らせる。",
+          "秘密は嫌いだ。"
+        ],
+        "ko": [
+          "거기 안녕!",
+          "또 만났네.",
+          "수석님들이 네가 잘하고 있다고 전해 달라더군.",
+          "나한테 뭘 하라고 하셨지?",
+          "그냥 계속 가. 때가 되면 알려줄게.",
+          "난 어둠 속에 놓이는 게 싫어."
+        ],
         "pt-br": [
           "Olá, olá!",
           "Olá de novo.",
@@ -166,6 +385,30 @@
           "O que eles querem que eu faça?",
           "Só continua. Vamos avisar quando chegar a hora.",
           "Não gosto de ficar no escuro."
+        ],
+        "ru": [
+          "Привет там!",
+          "Снова привет.",
+          "Главы велели передать тебе, что считают, будто у тебя всё отлично получается.",
+          "Что они хотят от меня?",
+          "Просто иди дальше. Мы дадим тебе знать, когда придёт время.",
+          "Мне не нравится быть в неведении."
+        ],
+        "s-cn": [
+          "那边的朋友，你好啊！",
+          "又见面了。",
+          "诸位首席镜匠让我转告你，他们觉得你干得不错。",
+          "那他们想让我做什么？",
+          "继续往前走。 时机一到，我们会给你消息。",
+          "我不喜欢被蒙在鼓里。"
+        ],
+        "t-cn": [
+          "那邊的朋友，你好啊！",
+          "又見面了。",
+          "諸位首席鏡匠讓我轉告你，他們覺得你幹得不錯。",
+          "那他們想讓我做什麼？",
+          "繼續往前走。 時機一到，我們會給你消息。",
+          "我不喜歡被蒙在鼓裡。"
         ]
       },
       "silentCues": [],
@@ -187,7 +430,7 @@
             "source": "data-common/3d_intro_mirrors.entities"
           }
         ],
-        "subtitleLine": 8713,
+        "subtitleLine": 8723,
         "subtitleHeader": "::"
       }
     }

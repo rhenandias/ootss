@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_interdictions_secret_2",
+    "audioKey": "skipping_stones_1050721",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_interdictions_secret_2"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 1050721,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_interdictions_secret_2",
+        "rule": "exact-reference",
+        "coordinates": [
+          62.0,
+          33.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_interdictions_secret_2",
+      "clips": [
+        {
+          "id": "ssnew_interdictions_secret_2_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 23.282771,
+          "src": "audio/clips/ssnew_interdictions_secret_2_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Let's tally the day so far. First insult: you called me \"fleshy one,\"",
+              "Two, you sent me to fetch. Three, refused to tell me",
+              "what I'm blindly strolling into, that for all I know could kill me;",
+              "Four, belittled me for not knowing *secrets* that are, as you know, *kept secret* exactly so Sailors like myself don't know them!",
+              "Four offenses."
+            ],
+            "de": [
+              "Ziehen wir mal Bilanz für heute. Beleidigung Nummer eins: Du hast mich „Fleischwesen“ genannt,",
+              "zweitens hast du mich zum Apportieren losgeschickt. Drittens hast du mir nicht sagen wollen,",
+              "wo ich da blindlings reinlaufe, obwohl mich das womöglich umbringen könnte;",
+              "viertens hast du mich kleingemacht, weil ich Geheimnisse nicht kenne, die, wie du weißt, genau deshalb geheim gehalten werden, damit eine Seefahrerin wie ich nichts davon weiß!",
+              "Vier Vergehen!"
+            ],
+            "es": [
+              "Vamos a hacer recuento del día hasta ahora. Insulto número uno: me llamaste «ser de carne».",
+              "Dos, me mandaste a buscarlo. Tres, te negaste a decirme",
+              "dónde me estoy metiendo a ciegas, lo cual, por lo que sé, podría matarme.",
+              "Cuatro: me reprochaste mi desconocimiento de los secretos que, como bien sabes, se guardan en secreto precisamente para que los marineros como yo no los conozcan.",
+              "¡Cuatro ofensas!"
+            ],
+            "fr": [
+              "Faisons le compte de la journée jusqu'ici. Première insulte : Tu m'as appelée « chair molle ».",
+              "Deux, tu m'as envoyée chercher comme un chien. Trois, tu as refusé de me dire",
+              "dans quoi je m'aventurais à l'aveuglette, alors que ça pourrait très bien me tuer.",
+              "Quatre, tu m'as rabaissée parce que j'ignorais des secrets qui, comme tu le sais, sont justement tenus secrets pour que les navigatrices comme moi n'en sachent rien !",
+              "Quatre offenses."
+            ],
+            "it": [
+              "Facciamo il punto della situazione. Insulto uno: mi hai chiamato \"essere di carne\",",
+              "due, mi hai mandato a fare commissioni. Tre, hai rifiutato di dirmi",
+              "in cosa mi sto cacciando alla cieca, e che per quanto ne so potrebbe uccidermi;",
+              "quattro: mi hai sminuito perché non conosco segreti che, come sai, sono tenuti tali proprio per evitare che marinai come me li conoscano!",
+              "Quattro insulti!"
+            ],
+            "ja": [
+              "ここまでを振り返ろう。 1つ。アタシを ニンゲン呼ばわりした。",
+              "2つ。犬扱いした。 3つ。ほとんどのことを 秘密にした…",
+              "何も知らずに足を踏み入れて、 命を落とすかもしれないんだから。",
+              "4つ目。知らされてない 「秘密」を知らないことを バカにした。",
+              "罪状4つだ！"
+            ],
+            "ko": [
+              "오늘 지금까지의 일을 정리해 보자고. 첫 번째 모욕. 나를 \"살덩이 친구\"라고 불렀고,",
+              "둘째, 나한테 뭔가를 가져오라고 시켰고. 셋째, 제대로 알려주지도 않았어.",
+              "내가 무슨 위험에 뛰어드는 건지 말이야. 자칫하면 목숨을 잃을 수도 있는데도.",
+              "넷, 나 같은 선원에게는 일부러 비밀로 해두는 일이라는 걸 알면서도 내가 그런 비밀을 모른다고 얕봤지.",
+              "네 가지 모욕이라고!"
+            ],
+            "pt-br": [
+              "Vamos contar o dia até agora. Insulto um: você me chamou de “ser de carne”,",
+              "Segundo, você me mandou buscar. Terceiro, se recusou a me dizer",
+              "no que estou me metendo às cegas, e que pode até me matar;",
+              "Quatro, me menosprezou por não conhecer segredos que, como você sabe, são mantidos em segredo justamente para Marinheiros como eu não os conhecerem!",
+              "Quatro ofensas!"
+            ],
+            "ru": [
+              "Давай подведем итоги дня. Первое оскорбление: ты назвал меня «кожаной».",
+              "Во-вторых, ты послал меня за чем-то. В-третьих, отказался сказать,",
+              "куда я иду вслепую, а ведь это может меня убить;",
+              "В-четвёртых, принизил меня за незнание секретов, которые, как тебе известно, хранятся в секрете именно от таких моряков, как я!",
+              "Четыре оскорбления!"
+            ],
+            "s-cn": [
+              "我们来清算一下今天这笔账。第一项罪状：你管我叫“肉体凡躯”，",
+              "第二，你叫我去叼东西；第三，你不肯告诉我，",
+              "我正稀里糊涂地往什么地方走，说不定连命都要丢在那里；",
+              "第四，你嘲笑我不知道那些秘密，可你明明知道， 它们之所以保密，就是为了不让像我这样的航海师知道！",
+              "四项罪状。"
+            ],
+            "t-cn": [
+              "我們來清算一下今天這筆帳。 第一項罪狀：你管我叫「肉體凡軀」，",
+              "第二，你叫我去叼東西； 第三，你不肯告訴我，",
+              "我正稀裡糊塗地往什麼地方走，說不定連命都要丟在那裡；",
+              "第四，你嘲笑我不知道那些秘密，可你明明知道， 它們之所以保密，就是為了不讓像我這樣的航海師知道！",
+              "四項罪狀。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_2_1__sailor.wav",
+            "subtitleCueLines": [
+              4219,
+              4224,
+              4228,
+              4232,
+              4237
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_2_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.241937,
+          "src": "audio/clips/ssnew_interdictions_secret_2_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Well, I dislike your counting. Five offenses!"
+            ],
+            "de": [
+              "Hmm, mir missfällt deine Zählweise. Fünf Vergehen!"
+            ],
+            "es": [
+              "Eso, y que no me gusta tu forma de contar. ¡Cinco ofensas!"
+            ],
+            "fr": [
+              "Hé bien, je n'aime pas ta façon de compter. Cinq offenses !"
+            ],
+            "it": [
+              "Beh, il tuo conteggio non mi piace. Cinque offese!"
+            ],
+            "ja": [
+              "嫌な数え方だな。 5つだ！"
+            ],
+            "ko": [
+              "음, 네 셈법이 마음에 안 드는걸. 아, 이러면 다섯 가지가 됐네!"
+            ],
+            "pt-br": [
+              "Bem, eu não gosto da sua contagem. Cinco ofensas!"
+            ],
+            "ru": [
+              "Ну, мне не нравится твой счет. Пять оскорблений!"
+            ],
+            "s-cn": [
+              "我不喜欢你这么数落我。第五项罪状！"
+            ],
+            "t-cn": [
+              "我不喜歡你這麼數落我。第五項罪狀！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_2_2__boat.wav",
+            "subtitleCueLines": [
+              4241
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_2_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.243313,
+          "src": "audio/clips/ssnew_interdictions_secret_2_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "You can't tally during the tally!"
+            ],
+            "de": [
+              "Du kannst doch nicht beim Aufzählen weiterzählen!"
+            ],
+            "es": [
+              "¡No se puede contar durante el recuento!"
+            ],
+            "fr": [
+              "Tu ne peux pas compter pendant que je fais le compte !"
+            ],
+            "it": [
+              "Non si può contare durante il conteggio!"
+            ],
+            "ja": [
+              "数えてる途中で 追加すんな！"
+            ],
+            "ko": [
+              "셈하는 도중에 또 셀 순 없잖아!"
+            ],
+            "pt-br": [
+              "Não pode contar durante a contagem!"
+            ],
+            "ru": [
+              "Нельзя вести счет во время подсчета!"
+            ],
+            "s-cn": [
+              "我在跟你算账，你不能反过来跟我算！"
+            ],
+            "t-cn": [
+              "我在跟你算帳，你不能反過來跟我算！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_2_3__sailor.wav",
+            "subtitleCueLines": [
+              4245
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_2_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.634979,
+          "src": "audio/clips/ssnew_interdictions_secret_2_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I'm a bonded carrier of the Guild. I can always tally."
+            ],
+            "de": [
+              "Ich bin gebundener Frachtführer der Gilde. Ich darf jederzeit Aufzählungen erstellen."
+            ],
+            "es": [
+              "Soy un mensajero vinculado del Gremio. Puedo contar cuando me plazca."
+            ],
+            "fr": [
+              "Je suis un transporteur lié de la Guilde. Je peux toujours faire le compte."
+            ],
+            "it": [
+              "Sono un trasportatore vincolato della gilda. Posso sempre contare."
+            ],
+            "ja": [
+              "僕はギルド公認の運送船。 いつ数えてもいいんだ。"
+            ],
+            "ko": [
+              "난 길드 공인 운송선이야. 언제든 셈할 수 있어."
+            ],
+            "pt-br": [
+              "Sou um carregador vinculado da Guilda. Eu sempre posso contar."
+            ],
+            "ru": [
+              "Я связанный обязательствами служащий Гильдии. Я всегда могу считать."
+            ],
+            "s-cn": [
+              "我可是公会特许的运载船灵，随时都能清算。"
+            ],
+            "t-cn": [
+              "我可是公會特許的運載船靈，隨時都能清算。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_2_4__boat.wav",
+            "subtitleCueLines": [
+              4248
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Let's tally the day so far. First insult: you called me \"fleshy one,\"",
+          "Two, you sent me to fetch. Three, refused to tell me",
+          "what I'm blindly strolling into, that for all I know could kill me;",
+          "Four, belittled me for not knowing *secrets* that are, as you know, *kept secret* exactly so Sailors like myself don't know them!",
+          "Four offenses.",
+          "Well, I dislike your counting. Five offenses!",
+          "You can't tally during the tally!",
+          "I'm a bonded carrier of the Guild. I can always tally."
+        ],
+        "de": [
+          "Ziehen wir mal Bilanz für heute. Beleidigung Nummer eins: Du hast mich „Fleischwesen“ genannt,",
+          "zweitens hast du mich zum Apportieren losgeschickt. Drittens hast du mir nicht sagen wollen,",
+          "wo ich da blindlings reinlaufe, obwohl mich das womöglich umbringen könnte;",
+          "viertens hast du mich kleingemacht, weil ich Geheimnisse nicht kenne, die, wie du weißt, genau deshalb geheim gehalten werden, damit eine Seefahrerin wie ich nichts davon weiß!",
+          "Vier Vergehen!",
+          "Hmm, mir missfällt deine Zählweise. Fünf Vergehen!",
+          "Du kannst doch nicht beim Aufzählen weiterzählen!",
+          "Ich bin gebundener Frachtführer der Gilde. Ich darf jederzeit Aufzählungen erstellen."
+        ],
+        "es": [
+          "Vamos a hacer recuento del día hasta ahora. Insulto número uno: me llamaste «ser de carne».",
+          "Dos, me mandaste a buscarlo. Tres, te negaste a decirme",
+          "dónde me estoy metiendo a ciegas, lo cual, por lo que sé, podría matarme.",
+          "Cuatro: me reprochaste mi desconocimiento de los secretos que, como bien sabes, se guardan en secreto precisamente para que los marineros como yo no los conozcan.",
+          "¡Cuatro ofensas!",
+          "Eso, y que no me gusta tu forma de contar. ¡Cinco ofensas!",
+          "¡No se puede contar durante el recuento!",
+          "Soy un mensajero vinculado del Gremio. Puedo contar cuando me plazca."
+        ],
+        "fr": [
+          "Faisons le compte de la journée jusqu'ici. Première insulte : Tu m'as appelée « chair molle ».",
+          "Deux, tu m'as envoyée chercher comme un chien. Trois, tu as refusé de me dire",
+          "dans quoi je m'aventurais à l'aveuglette, alors que ça pourrait très bien me tuer.",
+          "Quatre, tu m'as rabaissée parce que j'ignorais des secrets qui, comme tu le sais, sont justement tenus secrets pour que les navigatrices comme moi n'en sachent rien !",
+          "Quatre offenses.",
+          "Hé bien, je n'aime pas ta façon de compter. Cinq offenses !",
+          "Tu ne peux pas compter pendant que je fais le compte !",
+          "Je suis un transporteur lié de la Guilde. Je peux toujours faire le compte."
+        ],
+        "it": [
+          "Facciamo il punto della situazione. Insulto uno: mi hai chiamato \"essere di carne\",",
+          "due, mi hai mandato a fare commissioni. Tre, hai rifiutato di dirmi",
+          "in cosa mi sto cacciando alla cieca, e che per quanto ne so potrebbe uccidermi;",
+          "quattro: mi hai sminuito perché non conosco segreti che, come sai, sono tenuti tali proprio per evitare che marinai come me li conoscano!",
+          "Quattro insulti!",
+          "Beh, il tuo conteggio non mi piace. Cinque offese!",
+          "Non si può contare durante il conteggio!",
+          "Sono un trasportatore vincolato della gilda. Posso sempre contare."
+        ],
+        "ja": [
+          "ここまでを振り返ろう。 1つ。アタシを ニンゲン呼ばわりした。",
+          "2つ。犬扱いした。 3つ。ほとんどのことを 秘密にした…",
+          "何も知らずに足を踏み入れて、 命を落とすかもしれないんだから。",
+          "4つ目。知らされてない 「秘密」を知らないことを バカにした。",
+          "罪状4つだ！",
+          "嫌な数え方だな。 5つだ！",
+          "数えてる途中で 追加すんな！",
+          "僕はギルド公認の運送船。 いつ数えてもいいんだ。"
+        ],
+        "ko": [
+          "오늘 지금까지의 일을 정리해 보자고. 첫 번째 모욕. 나를 \"살덩이 친구\"라고 불렀고,",
+          "둘째, 나한테 뭔가를 가져오라고 시켰고. 셋째, 제대로 알려주지도 않았어.",
+          "내가 무슨 위험에 뛰어드는 건지 말이야. 자칫하면 목숨을 잃을 수도 있는데도.",
+          "넷, 나 같은 선원에게는 일부러 비밀로 해두는 일이라는 걸 알면서도 내가 그런 비밀을 모른다고 얕봤지.",
+          "네 가지 모욕이라고!",
+          "음, 네 셈법이 마음에 안 드는걸. 아, 이러면 다섯 가지가 됐네!",
+          "셈하는 도중에 또 셀 순 없잖아!",
+          "난 길드 공인 운송선이야. 언제든 셈할 수 있어."
+        ],
+        "pt-br": [
+          "Vamos contar o dia até agora. Insulto um: você me chamou de “ser de carne”,",
+          "Segundo, você me mandou buscar. Terceiro, se recusou a me dizer",
+          "no que estou me metendo às cegas, e que pode até me matar;",
+          "Quatro, me menosprezou por não conhecer segredos que, como você sabe, são mantidos em segredo justamente para Marinheiros como eu não os conhecerem!",
+          "Quatro ofensas!",
+          "Bem, eu não gosto da sua contagem. Cinco ofensas!",
+          "Não pode contar durante a contagem!",
+          "Sou um carregador vinculado da Guilda. Eu sempre posso contar."
+        ],
+        "ru": [
+          "Давай подведем итоги дня. Первое оскорбление: ты назвал меня «кожаной».",
+          "Во-вторых, ты послал меня за чем-то. В-третьих, отказался сказать,",
+          "куда я иду вслепую, а ведь это может меня убить;",
+          "В-четвёртых, принизил меня за незнание секретов, которые, как тебе известно, хранятся в секрете именно от таких моряков, как я!",
+          "Четыре оскорбления!",
+          "Ну, мне не нравится твой счет. Пять оскорблений!",
+          "Нельзя вести счет во время подсчета!",
+          "Я связанный обязательствами служащий Гильдии. Я всегда могу считать."
+        ],
+        "s-cn": [
+          "我们来清算一下今天这笔账。第一项罪状：你管我叫“肉体凡躯”，",
+          "第二，你叫我去叼东西；第三，你不肯告诉我，",
+          "我正稀里糊涂地往什么地方走，说不定连命都要丢在那里；",
+          "第四，你嘲笑我不知道那些秘密，可你明明知道， 它们之所以保密，就是为了不让像我这样的航海师知道！",
+          "四项罪状。",
+          "我不喜欢你这么数落我。第五项罪状！",
+          "我在跟你算账，你不能反过来跟我算！",
+          "我可是公会特许的运载船灵，随时都能清算。"
+        ],
+        "t-cn": [
+          "我們來清算一下今天這筆帳。 第一項罪狀：你管我叫「肉體凡軀」，",
+          "第二，你叫我去叼東西； 第三，你不肯告訴我，",
+          "我正稀裡糊塗地往什麼地方走，說不定連命都要丟在那裡；",
+          "第四，你嘲笑我不知道那些秘密，可你明明知道， 它們之所以保密，就是為了不讓像我這樣的航海師知道！",
+          "四項罪狀。",
+          "我不喜歡你這麼數落我。第五項罪狀！",
+          "我在跟你算帳，你不能反過來跟我算！",
+          "我可是公會特許的運載船靈，隨時都能清算。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

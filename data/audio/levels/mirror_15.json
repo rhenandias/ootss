@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -25,18 +34,63 @@
               "you decided to come back here? After all these years?",
               "Been thinking about these mirrors a lot, have you?"
             ],
+            "de": [
+              "Du hast also erfahren, dass du sterben wirst ... und bei all den unerledigten Dingen, die man an einem solchen Punkt noch zu regeln hat,",
+              "hast du beschlossen, hierher zurückzukommen? Nach all den Jahren?",
+              "Du hast viel über diese Spiegel nachgedacht, nicht wahr?"
+            ],
+            "es": [
+              "Entonces te dijo que te ibas a morir... Y de todos los asuntos pendientes que un hombre podría querer resolver,",
+              "¿decidiste volver aquí? ¿Después de tantos años?",
+              "Le has dado muchas vueltas a lo de estos espejos, ¿verdad?"
+            ],
+            "fr": [
+              "Alors, vous avez appris que vous alliez mourir... et parmi toutes les affaires en suspens qu'un homme pourrait souhaiter régler,",
+              "vous avez décidé de revenir ici ? Après toutes ces années ?",
+              "Vous avez beaucoup pensé à ces miroirs, n'est-ce pas ?"
+            ],
+            "it": [
+              "Quindi hai sentito che saresti morto... e tra tutte le questioni in sospeso che un uomo potrebbe voler risolvere,",
+              "hai deciso di tornare qui? Dopo tutti questi anni?",
+              "Hai riflettuto molto su questi specchi, vero?"
+            ],
+            "ja": [
+              "死ぬと聞いて… 真っ先にここへ来ることを 思いついたのか？",
+              "ここに戻る気になったのかい？ こんなに長い時を経て？",
+              "この鏡のことを、 ずいぶん考えていたんだろう？"
+            ],
+            "ko": [
+              "네가 죽는다는 말을 듣고... 아직 정리하지 못한 일들이 많았을 텐데.",
+              "여기로 돌아오기로 결정한 건가? 그 오랜 세월이 지났는데도?",
+              "이 거울들에 대해 많이 생각해본 모양이야?"
+            ],
             "pt-br": [
               "Então você soube que ia morrer... e, de todas as pendências que um homem poderia querer resolver,",
               "você decidiu voltar para cá? Depois de todos esses anos?",
               "Você tem pensado muito nesses espelhos, não é?"
+            ],
+            "ru": [
+              "Значит, ты услышал, что умрёшь... и из всех незавершённых дел, которые человек мог бы пожелать уладить,",
+              "ты решил вернуться сюда? После стольких лет?",
+              "Ты много думал об этих зеркалах, да?"
+            ],
+            "s-cn": [
+              "所以，你听说自己快死了…… 而在一辈子那些没来得及了结的 心愿当中，",
+              "你偏偏决定回到这儿来？ 都过去这么多年了？",
+              "你一直在想这些镜子， 对不对？"
+            ],
+            "t-cn": [
+              "所以，你聽說自己快死了…… 而在一輩子那些沒來得及了結的 心願當中，",
+              "你偏偏決定回到這兒來？ 都過去這麼多年了？",
+              "你一直在想這些鏡子， 對不對？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_stranger_1_1__trader_alt.wav",
             "subtitleCueLines": [
-              6332,
-              6337,
-              6341
+              6342,
+              6347,
+              6351
             ],
             "explicitAudioReference": null
           }
@@ -51,14 +105,41 @@
             "en": [
               "Not at all. I was ... convinced."
             ],
+            "de": [
+              "Keineswegs. Ich habe mich ... überzeugen lassen."
+            ],
+            "es": [
+              "En absoluto. Yo estaba... convencido."
+            ],
+            "fr": [
+              "Pas du tout. J'ai été... convaincu."
+            ],
+            "it": [
+              "Nient'affatto. Qualcuno mi ha... convinto."
+            ],
+            "ja": [
+              "いや…説得されたんだ。"
+            ],
+            "ko": [
+              "전혀 아니었어. 난... 확신했지."
+            ],
             "pt-br": [
               "De jeito nenhum. Eu estava... convencido."
+            ],
+            "ru": [
+              "Совсем нет. Я... был убеждён."
+            ],
+            "s-cn": [
+              "完全不是。是有人……说服了我。"
+            ],
+            "t-cn": [
+              "完全不是。是有人……說服了我。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_stranger_1_2__trader.wav",
             "subtitleCueLines": [
-              6345
+              6355
             ],
             "explicitAudioReference": null
           }
@@ -75,11 +156,65 @@
           "Been thinking about these mirrors a lot, have you?",
           "Not at all. I was ... convinced."
         ],
+        "de": [
+          "Du hast also erfahren, dass du sterben wirst ... und bei all den unerledigten Dingen, die man an einem solchen Punkt noch zu regeln hat,",
+          "hast du beschlossen, hierher zurückzukommen? Nach all den Jahren?",
+          "Du hast viel über diese Spiegel nachgedacht, nicht wahr?",
+          "Keineswegs. Ich habe mich ... überzeugen lassen."
+        ],
+        "es": [
+          "Entonces te dijo que te ibas a morir... Y de todos los asuntos pendientes que un hombre podría querer resolver,",
+          "¿decidiste volver aquí? ¿Después de tantos años?",
+          "Le has dado muchas vueltas a lo de estos espejos, ¿verdad?",
+          "En absoluto. Yo estaba... convencido."
+        ],
+        "fr": [
+          "Alors, vous avez appris que vous alliez mourir... et parmi toutes les affaires en suspens qu'un homme pourrait souhaiter régler,",
+          "vous avez décidé de revenir ici ? Après toutes ces années ?",
+          "Vous avez beaucoup pensé à ces miroirs, n'est-ce pas ?",
+          "Pas du tout. J'ai été... convaincu."
+        ],
+        "it": [
+          "Quindi hai sentito che saresti morto... e tra tutte le questioni in sospeso che un uomo potrebbe voler risolvere,",
+          "hai deciso di tornare qui? Dopo tutti questi anni?",
+          "Hai riflettuto molto su questi specchi, vero?",
+          "Nient'affatto. Qualcuno mi ha... convinto."
+        ],
+        "ja": [
+          "死ぬと聞いて… 真っ先にここへ来ることを 思いついたのか？",
+          "ここに戻る気になったのかい？ こんなに長い時を経て？",
+          "この鏡のことを、 ずいぶん考えていたんだろう？",
+          "いや…説得されたんだ。"
+        ],
+        "ko": [
+          "네가 죽는다는 말을 듣고... 아직 정리하지 못한 일들이 많았을 텐데.",
+          "여기로 돌아오기로 결정한 건가? 그 오랜 세월이 지났는데도?",
+          "이 거울들에 대해 많이 생각해본 모양이야?",
+          "전혀 아니었어. 난... 확신했지."
+        ],
         "pt-br": [
           "Então você soube que ia morrer... e, de todas as pendências que um homem poderia querer resolver,",
           "você decidiu voltar para cá? Depois de todos esses anos?",
           "Você tem pensado muito nesses espelhos, não é?",
           "De jeito nenhum. Eu estava... convencido."
+        ],
+        "ru": [
+          "Значит, ты услышал, что умрёшь... и из всех незавершённых дел, которые человек мог бы пожелать уладить,",
+          "ты решил вернуться сюда? После стольких лет?",
+          "Ты много думал об этих зеркалах, да?",
+          "Совсем нет. Я... был убеждён."
+        ],
+        "s-cn": [
+          "所以，你听说自己快死了…… 而在一辈子那些没来得及了结的 心愿当中，",
+          "你偏偏决定回到这儿来？ 都过去这么多年了？",
+          "你一直在想这些镜子， 对不对？",
+          "完全不是。是有人……说服了我。"
+        ],
+        "t-cn": [
+          "所以，你聽說自己快死了…… 而在一輩子那些沒來得及了結的 心願當中，",
+          "你偏偏決定回到這兒來？ 都過去這麼多年了？",
+          "你一直在想這些鏡子， 對不對？",
+          "完全不是。是有人……說服了我。"
         ]
       },
       "silentCues": [],
@@ -101,7 +236,7 @@
             "source": "data-common/mirror_15.entities"
           }
         ],
-        "subtitleLine": 6331,
+        "subtitleLine": 6341,
         "subtitleHeader": "::"
       }
     }

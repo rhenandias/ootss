@@ -1,0 +1,532 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_interdictions_secret",
+    "audioKey": "skipping_stones_94371848",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_interdictions_secret"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 94371848,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_interdictions_secret",
+        "rule": "exact-reference",
+        "coordinates": [
+          73.0,
+          36.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_interdictions_secret",
+      "clips": [
+        {
+          "id": "ssnew_interdictions_secret_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.059438,
+          "src": "audio/clips/ssnew_interdictions_secret_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So, an interdict is just writing?"
+            ],
+            "de": [
+              "Ein Interdikt ist also nichts weiter als Schrift?"
+            ],
+            "es": [
+              "Entonces, ¿un veto es simplemente algo escrito?"
+            ],
+            "fr": [
+              "Donc, une interdiction, c'est juste une inscription ?"
+            ],
+            "it": [
+              "Quindi, un'interdizione è semplicemente una cosa scritta?"
+            ],
+            "ja": [
+              "じゃあ封印って ただの文字なの？"
+            ],
+            "ko": [
+              "그럼, 금제라는 건 그냥 글자인 거야?"
+            ],
+            "pt-br": [
+              "Então, um interdito é só escrita?"
+            ],
+            "ru": [
+              "Так значит, запрет — это просто надпись?"
+            ],
+            "s-cn": [
+              "所以，所谓的阻航阵，说白了就是写几个字？"
+            ],
+            "t-cn": [
+              "所以，所謂的阻航陣，說白了就是寫幾個字？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_1__sailor.wav",
+            "subtitleCueLines": [
+              4174
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.672042,
+          "src": "audio/clips/ssnew_interdictions_secret_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I can't believe you don't know!"
+            ],
+            "de": [
+              "Ich kann nicht glauben, dass du das nicht weißt!"
+            ],
+            "es": [
+              "¡No puedo creer que no lo sepas!"
+            ],
+            "fr": [
+              "Je n'arrive pas à croire que tu ne saches pas !"
+            ],
+            "it": [
+              "Non posso credere che tu non lo sappia!"
+            ],
+            "ja": [
+              "知らないのかい！？"
+            ],
+            "ko": [
+              "그걸 모른다니 믿을 수가 없군!"
+            ],
+            "pt-br": [
+              "Não acredito que você não saiba!"
+            ],
+            "ru": [
+              "Не могу поверить, что ты не знаешь!"
+            ],
+            "s-cn": [
+              "你居然连这都不知道！"
+            ],
+            "t-cn": [
+              "你居然連這都不知道！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_2__boat.wav",
+            "subtitleCueLines": [
+              4178
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.209604,
+          "src": "audio/clips/ssnew_interdictions_secret_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "They don't teach us Boat secrets, okay! Sailor school is mostly knots."
+            ],
+            "de": [
+              "Man bringt uns halt keine Bootsgeheimnisse bei! In der Seefahrtsschule geht es vor allem um Knoten."
+            ],
+            "es": [
+              "No nos enseñan secretos de barcos, ¿vale? En la escuela de marineros vemos sobre todo nudos."
+            ],
+            "fr": [
+              "On ne nous apprend pas les secrets des navires ! L'école des navigateurs, c'est surtout des nœuds."
+            ],
+            "it": [
+              "Non ci insegnano i segreti delle barche, okay? La scuola da marinai è perlopiù nodi."
+            ],
+            "ja": [
+              "船乗り学校じゃロープの結び方 くらいしか教わんないんだ！"
+            ],
+            "ko": [
+              "항해 학교에서 배의 비밀 같은 건 안 가르쳐 준다고! 대부분 매듭에 대해 배우지."
+            ],
+            "pt-br": [
+              "Eles não nos ensinam segredos de barcos, tá! Escola de marinheiro é nós e mais nós."
+            ],
+            "ru": [
+              "Нас же не учат корабельным тайнам! В морской школе в основном узлы."
+            ],
+            "s-cn": [
+              "谁教过我们船灵的秘密啊！航海师学校净教如何打绳结。"
+            ],
+            "t-cn": [
+              "誰教過我們船靈的秘密啊！航海師學校淨教如何打繩結。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_3__sailor.wav",
+            "subtitleCueLines": [
+              4181
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 22.762229,
+          "src": "audio/clips/ssnew_interdictions_secret_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Then learn: an interdict is essentially just a sign, written on a wall or on the ground.",
+              "If you can copy the writing, you can lay interdicts of your own...",
+              "so the Guild hides the writing. Locked in dark vaults, opened only on true emergency:",
+              "theft of a critical Boat, or an insurrection needs quelling. You know ... business."
+            ],
+            "de": [
+              "Dann pass auf: Ein Interdikt ist im Grunde nur ein Zeichen, das man an eine Wand schreibt oder auf den Boden.",
+              "Wenn du die Schrift kopieren kannst, kannst du eigene Interdikte legen ...",
+              "Darum versteckt die Gilde die Schrift. Unter Verschluss in dunklen Gewölben, die nur bei einem echten Notfall geöffnet werden:",
+              "etwa wenn ein wichtiges Boot gestohlen worden ist oder ein Aufstand niedergeschlagen werden muss. Also ... Geschäftsangelegenheiten eben."
+            ],
+            "es": [
+              "Pues aprende: un veto no es, en esencia, más que un signo escrito en una pared o en el suelo.",
+              "Si logras copiar la escritura, puedes imponer tus vetos propios...",
+              "así que el Gremio oculta los escritos. Encerrados en bóvedas oscuras, que se abren solo en caso de verdadera emergencia:",
+              "el robo de una embarcación crítica, o una insurrección que haya que sofocar. Ya sabes... movidas."
+            ],
+            "fr": [
+              "Alors, apprends : une interdiction n'est au fond qu'un signe, tracé sur un mur ou sur le sol.",
+              "Si tu peux copier l'inscription, tu peux poser tes propres interdictions...",
+              "alors la Guilde cache les inscriptions. Enfermées dans des caveaux obscurs, ouverts uniquement en cas d'urgence absolue :",
+              "le vol d'un navire important, ou une insurrection à réprimer. Tu sais... les affaires."
+            ],
+            "it": [
+              "Allora sappi che un'interdizione è essenzialmente solo un segno, tracciato su un muro o sul terreno.",
+              "Se riesci a copiare la scrittura, puoi imporre interdizioni tue...",
+              "perciò la gilda nasconde le scritte. Chiuse in bui caveau, aperti solo in caso di vera emergenza:",
+              "il furto di una barca essenziale, o un'insurrezione da sedare. Sai... affari."
+            ],
+            "ja": [
+              "なら覚えて。 封印は、平らな地面いっぱいに 記号が描かれたものだ。",
+              "記号を真似すれば 自分で封印を作ることもできる…",
+              "だからギルドは通常、 本当の緊急時にしか使わない。",
+              "重要な船が盗まれた時とか、 反乱を鎮圧する時とかね…"
+            ],
+            "ko": [
+              "그럼 알아둬. 금제는 본질적으로 벽이나 땅바닥에 그려 놓은 표식일 뿐이야.",
+              "그걸 베껴 쓸 수 있으면, 네가 직접 금제를 걸 수도 있지...",
+              "그래서 길드는 그 글을 숨기는 거야. 어두운 금고에 가둬 두고, 정말 비상사태에만 꺼내 쓰는 거야.",
+              "중요한 배 한 척을 도둑맞았거나, 반란을 진압해야 할 때지. 뭐... 사업을 위해서 말이야."
+            ],
+            "pt-br": [
+              "Então aprenda: um interdito é, em essência, apenas um sinal, escrito em uma parede ou no chão.",
+              "Se você consegue copiar a escrita, você pode lançar seus próprios interditos...",
+              "então a Guilda esconde a escrita. Trancada em cofres escuros, abertos só em caso de verdadeira emergência:",
+              "o roubo de um barco crítico, ou uma insurreição que precisa ser contida. Você sabe... negócios."
+            ],
+            "ru": [
+              "Тогда знай: интердикт — это, по сути, просто знак, начертанный на стене или на земле.",
+              "Если ты умеешь копировать письмена, ты сможешь накладывать запреты и сама...",
+              "поэтому Гильдия прячет письмена. Запирает в темных хранилищах, которые открывают лишь в крайнем случае:",
+              "кража важного корабля или необходимость подавить восстание. Ну, знаешь... дела."
+            ],
+            "s-cn": [
+              "那你听好了：阻航阵其实不过是个写在墙上或地上的符号。",
+              "只要你能把那些符号照抄下来，自己也能布阻航阵……",
+              "所以公会把阵图藏了起来，锁在不见天日的地窖里， 只有真正遇上紧急情况才会打开：",
+              "比如重要的船灵被盗，或是需要镇压叛乱。你懂的……正经事。"
+            ],
+            "t-cn": [
+              "那你聽好了：阻航陣其實不過是個寫在牆上或地上的符號。",
+              "只要你能把那些符號照抄下來，自己也能布阻航陣……",
+              "所以公會把陣圖藏了起來，鎖在不見天日的地窖裡， 只有真正遇上緊急情況才會打開：",
+              "比如重要的船靈被盜，或是需要鎮壓叛亂。 你懂的……正經事。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_4__boat.wav",
+            "subtitleCueLines": [
+              4185,
+              4190,
+              4194,
+              4199
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 10.215167,
+          "src": "audio/clips/ssnew_interdictions_secret_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So why, no, *how* are we being interdicted *here*? In a place that's just a smudge on the charts?",
+              "The nearest outpost is a week away."
+            ],
+            "de": [
+              "Warum – nein, wie – stehen wir dann hier unter einem Interdikt? An einem Ort, der auf den Karten nur ein Klecks ist?",
+              "Der nächste Außenposten ist eine Woche entfernt."
+            ],
+            "es": [
+              "Entonces, ¿por qué...? No, ¿cómo es que sufrimos un veto aquí? ¿En un lugar que no es más que una mancha en los mapas?",
+              "El puesto más cercano está a una semana de camino."
+            ],
+            "fr": [
+              "Alors pourquoi, non, comment sommes-nous frappés d'interdiction ici ? Dans un endroit qui n'est qu'une tache sur les cartes ?",
+              "L'avant-poste le plus proche est à une semaine d'ici."
+            ],
+            "it": [
+              "Allora perché... No, come mai siamo interdetti qui? In un posto che sulle mappe è una macchiolina?",
+              "L'avamposto più vicino è a una settimana di viaggio."
+            ],
+            "ja": [
+              "じゃあなんで、いやどうやって 海図に載ってないような島で 足止めされてんの？",
+              "一番近い前哨地でも、1週間はかかるよ。"
+            ],
+            "ko": [
+              "그럼 왜, 아니, 어떻게 우리가 여기서 금제에 걸린 거지? 차트엔 겨우 얼룩처럼 보이는 곳에서?",
+              "가장 가까운 전초기지도 일주일 거리야."
+            ],
+            "pt-br": [
+              "Então por que, não, como estamos sob interdito aqui? Num lugar que é só uma mancha nos mapas?",
+              "O posto avançado mais próximo fica a uma semana daqui."
+            ],
+            "ru": [
+              "Так почему, нет, как мы оказались под запретом здесь? В месте, которое на картах — лишь пятнышко?",
+              "До ближайшего аванпоста неделя пути."
+            ],
+            "s-cn": [
+              "那为什么……不对，我们怎么会在这种地方被阻航？ 这地方在海图上不过是个模糊的小点！",
+              "最近的前哨站也得走上一星期。"
+            ],
+            "t-cn": [
+              "那為什麼……不對，我們怎麼會在這種地方被阻航？ 這地方在海圖上不過是個模糊的小點！",
+              "最近的前哨站也得走上一星期。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_5__sailor.wav",
+            "subtitleCueLines": [
+              4204,
+              4208
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdictions_secret_6__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.468708,
+          "src": "audio/clips/ssnew_interdictions_secret_6__boat.mp3",
+          "transcripts": {
+            "en": [
+              "That is the question I'd like you to go kick."
+            ],
+            "de": [
+              "Das ist die Frage, der du einen „Tritt“ verpassen solltest."
+            ],
+            "es": [
+              "Esa es la pregunta que me gustaría que fueras a investigar."
+            ],
+            "fr": [
+              "C'est précisément ce que j'aimerais que tu découvres."
+            ],
+            "it": [
+              "È proprio questa la questione che vorrei che tu affrontassi."
+            ],
+            "ja": [
+              "それをぜひ 解き明かしてもらいたいね。"
+            ],
+            "ko": [
+              "그게 바로 네가 직접 가서 확인해 봐야 할 문제지."
+            ],
+            "pt-br": [
+              "Essa é a pergunta que eu gostaria que você fosse chutar."
+            ],
+            "ru": [
+              "Хотелось бы мне, чтобы ты не задавала этого вопроса."
+            ],
+            "s-cn": [
+              "这就要劳你亲自去把答案挖出来了。"
+            ],
+            "t-cn": [
+              "這就要勞你親自去把答案挖出來了。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdictions_secret_6__boat.wav",
+            "subtitleCueLines": [
+              4211
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, an interdict is just writing?",
+          "I can't believe you don't know!",
+          "They don't teach us Boat secrets, okay! Sailor school is mostly knots.",
+          "Then learn: an interdict is essentially just a sign, written on a wall or on the ground.",
+          "If you can copy the writing, you can lay interdicts of your own...",
+          "so the Guild hides the writing. Locked in dark vaults, opened only on true emergency:",
+          "theft of a critical Boat, or an insurrection needs quelling. You know ... business.",
+          "So why, no, *how* are we being interdicted *here*? In a place that's just a smudge on the charts?",
+          "The nearest outpost is a week away.",
+          "That is the question I'd like you to go kick."
+        ],
+        "de": [
+          "Ein Interdikt ist also nichts weiter als Schrift?",
+          "Ich kann nicht glauben, dass du das nicht weißt!",
+          "Man bringt uns halt keine Bootsgeheimnisse bei! In der Seefahrtsschule geht es vor allem um Knoten.",
+          "Dann pass auf: Ein Interdikt ist im Grunde nur ein Zeichen, das man an eine Wand schreibt oder auf den Boden.",
+          "Wenn du die Schrift kopieren kannst, kannst du eigene Interdikte legen ...",
+          "Darum versteckt die Gilde die Schrift. Unter Verschluss in dunklen Gewölben, die nur bei einem echten Notfall geöffnet werden:",
+          "etwa wenn ein wichtiges Boot gestohlen worden ist oder ein Aufstand niedergeschlagen werden muss. Also ... Geschäftsangelegenheiten eben.",
+          "Warum – nein, wie – stehen wir dann hier unter einem Interdikt? An einem Ort, der auf den Karten nur ein Klecks ist?",
+          "Der nächste Außenposten ist eine Woche entfernt.",
+          "Das ist die Frage, der du einen „Tritt“ verpassen solltest."
+        ],
+        "es": [
+          "Entonces, ¿un veto es simplemente algo escrito?",
+          "¡No puedo creer que no lo sepas!",
+          "No nos enseñan secretos de barcos, ¿vale? En la escuela de marineros vemos sobre todo nudos.",
+          "Pues aprende: un veto no es, en esencia, más que un signo escrito en una pared o en el suelo.",
+          "Si logras copiar la escritura, puedes imponer tus vetos propios...",
+          "así que el Gremio oculta los escritos. Encerrados en bóvedas oscuras, que se abren solo en caso de verdadera emergencia:",
+          "el robo de una embarcación crítica, o una insurrección que haya que sofocar. Ya sabes... movidas.",
+          "Entonces, ¿por qué...? No, ¿cómo es que sufrimos un veto aquí? ¿En un lugar que no es más que una mancha en los mapas?",
+          "El puesto más cercano está a una semana de camino.",
+          "Esa es la pregunta que me gustaría que fueras a investigar."
+        ],
+        "fr": [
+          "Donc, une interdiction, c'est juste une inscription ?",
+          "Je n'arrive pas à croire que tu ne saches pas !",
+          "On ne nous apprend pas les secrets des navires ! L'école des navigateurs, c'est surtout des nœuds.",
+          "Alors, apprends : une interdiction n'est au fond qu'un signe, tracé sur un mur ou sur le sol.",
+          "Si tu peux copier l'inscription, tu peux poser tes propres interdictions...",
+          "alors la Guilde cache les inscriptions. Enfermées dans des caveaux obscurs, ouverts uniquement en cas d'urgence absolue :",
+          "le vol d'un navire important, ou une insurrection à réprimer. Tu sais... les affaires.",
+          "Alors pourquoi, non, comment sommes-nous frappés d'interdiction ici ? Dans un endroit qui n'est qu'une tache sur les cartes ?",
+          "L'avant-poste le plus proche est à une semaine d'ici.",
+          "C'est précisément ce que j'aimerais que tu découvres."
+        ],
+        "it": [
+          "Quindi, un'interdizione è semplicemente una cosa scritta?",
+          "Non posso credere che tu non lo sappia!",
+          "Non ci insegnano i segreti delle barche, okay? La scuola da marinai è perlopiù nodi.",
+          "Allora sappi che un'interdizione è essenzialmente solo un segno, tracciato su un muro o sul terreno.",
+          "Se riesci a copiare la scrittura, puoi imporre interdizioni tue...",
+          "perciò la gilda nasconde le scritte. Chiuse in bui caveau, aperti solo in caso di vera emergenza:",
+          "il furto di una barca essenziale, o un'insurrezione da sedare. Sai... affari.",
+          "Allora perché... No, come mai siamo interdetti qui? In un posto che sulle mappe è una macchiolina?",
+          "L'avamposto più vicino è a una settimana di viaggio.",
+          "È proprio questa la questione che vorrei che tu affrontassi."
+        ],
+        "ja": [
+          "じゃあ封印って ただの文字なの？",
+          "知らないのかい！？",
+          "船乗り学校じゃロープの結び方 くらいしか教わんないんだ！",
+          "なら覚えて。 封印は、平らな地面いっぱいに 記号が描かれたものだ。",
+          "記号を真似すれば 自分で封印を作ることもできる…",
+          "だからギルドは通常、 本当の緊急時にしか使わない。",
+          "重要な船が盗まれた時とか、 反乱を鎮圧する時とかね…",
+          "じゃあなんで、いやどうやって 海図に載ってないような島で 足止めされてんの？",
+          "一番近い前哨地でも、1週間はかかるよ。",
+          "それをぜひ 解き明かしてもらいたいね。"
+        ],
+        "ko": [
+          "그럼, 금제라는 건 그냥 글자인 거야?",
+          "그걸 모른다니 믿을 수가 없군!",
+          "항해 학교에서 배의 비밀 같은 건 안 가르쳐 준다고! 대부분 매듭에 대해 배우지.",
+          "그럼 알아둬. 금제는 본질적으로 벽이나 땅바닥에 그려 놓은 표식일 뿐이야.",
+          "그걸 베껴 쓸 수 있으면, 네가 직접 금제를 걸 수도 있지...",
+          "그래서 길드는 그 글을 숨기는 거야. 어두운 금고에 가둬 두고, 정말 비상사태에만 꺼내 쓰는 거야.",
+          "중요한 배 한 척을 도둑맞았거나, 반란을 진압해야 할 때지. 뭐... 사업을 위해서 말이야.",
+          "그럼 왜, 아니, 어떻게 우리가 여기서 금제에 걸린 거지? 차트엔 겨우 얼룩처럼 보이는 곳에서?",
+          "가장 가까운 전초기지도 일주일 거리야.",
+          "그게 바로 네가 직접 가서 확인해 봐야 할 문제지."
+        ],
+        "pt-br": [
+          "Então, um interdito é só escrita?",
+          "Não acredito que você não saiba!",
+          "Eles não nos ensinam segredos de barcos, tá! Escola de marinheiro é nós e mais nós.",
+          "Então aprenda: um interdito é, em essência, apenas um sinal, escrito em uma parede ou no chão.",
+          "Se você consegue copiar a escrita, você pode lançar seus próprios interditos...",
+          "então a Guilda esconde a escrita. Trancada em cofres escuros, abertos só em caso de verdadeira emergência:",
+          "o roubo de um barco crítico, ou uma insurreição que precisa ser contida. Você sabe... negócios.",
+          "Então por que, não, como estamos sob interdito aqui? Num lugar que é só uma mancha nos mapas?",
+          "O posto avançado mais próximo fica a uma semana daqui.",
+          "Essa é a pergunta que eu gostaria que você fosse chutar."
+        ],
+        "ru": [
+          "Так значит, запрет — это просто надпись?",
+          "Не могу поверить, что ты не знаешь!",
+          "Нас же не учат корабельным тайнам! В морской школе в основном узлы.",
+          "Тогда знай: интердикт — это, по сути, просто знак, начертанный на стене или на земле.",
+          "Если ты умеешь копировать письмена, ты сможешь накладывать запреты и сама...",
+          "поэтому Гильдия прячет письмена. Запирает в темных хранилищах, которые открывают лишь в крайнем случае:",
+          "кража важного корабля или необходимость подавить восстание. Ну, знаешь... дела.",
+          "Так почему, нет, как мы оказались под запретом здесь? В месте, которое на картах — лишь пятнышко?",
+          "До ближайшего аванпоста неделя пути.",
+          "Хотелось бы мне, чтобы ты не задавала этого вопроса."
+        ],
+        "s-cn": [
+          "所以，所谓的阻航阵，说白了就是写几个字？",
+          "你居然连这都不知道！",
+          "谁教过我们船灵的秘密啊！航海师学校净教如何打绳结。",
+          "那你听好了：阻航阵其实不过是个写在墙上或地上的符号。",
+          "只要你能把那些符号照抄下来，自己也能布阻航阵……",
+          "所以公会把阵图藏了起来，锁在不见天日的地窖里， 只有真正遇上紧急情况才会打开：",
+          "比如重要的船灵被盗，或是需要镇压叛乱。你懂的……正经事。",
+          "那为什么……不对，我们怎么会在这种地方被阻航？ 这地方在海图上不过是个模糊的小点！",
+          "最近的前哨站也得走上一星期。",
+          "这就要劳你亲自去把答案挖出来了。"
+        ],
+        "t-cn": [
+          "所以，所謂的阻航陣，說白了就是寫幾個字？",
+          "你居然連這都不知道！",
+          "誰教過我們船靈的秘密啊！航海師學校淨教如何打繩結。",
+          "那你聽好了：阻航陣其實不過是個寫在牆上或地上的符號。",
+          "只要你能把那些符號照抄下來，自己也能布阻航陣……",
+          "所以公會把陣圖藏了起來，鎖在不見天日的地窖裡， 只有真正遇上緊急情況才會打開：",
+          "比如重要的船靈被盜，或是需要鎮壓叛亂。 你懂的……正經事。",
+          "那為什麼……不對，我們怎麼會在這種地方被阻航？ 這地方在海圖上不過是個模糊的小點！",
+          "最近的前哨站也得走上一星期。",
+          "這就要勞你親自去把答案挖出來了。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

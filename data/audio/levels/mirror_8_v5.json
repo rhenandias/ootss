@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Well. We're finally here. Is it awkward?"
             ],
+            "de": [
+              "Nun. Wir sind endlich da. Ist das jetzt peinlich?"
+            ],
+            "es": [
+              "Bueno. Por fin estamos aquí. ¿No te parece incómodo esto?"
+            ],
+            "fr": [
+              "Eh bien. Nous y voilà enfin. Est-ce que c'est gênant ?"
+            ],
+            "it": [
+              "Bene. Finalmente siamo qui. È imbarazzante?"
+            ],
+            "ja": [
+              "気まずいか？"
+            ],
+            "ko": [
+              "드디어 도착했어. 좀 어색한가?"
+            ],
             "pt-br": [
               "Bem. Finalmente chegamos. Ficou estranho?"
+            ],
+            "ru": [
+              "Ну вот. Мы наконец на месте. Теперь неловко?"
+            ],
+            "s-cn": [
+              "嗯。我们终于到这儿了。 是不是挺尴尬？"
+            ],
+            "t-cn": [
+              "嗯。我們終於到這兒了。 是不是挺尷尬？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_pre_clones_1__trader_alt.wav",
             "subtitleCueLines": [
-              6145
+              6155
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "What's that?"
             ],
+            "de": [
+              "Was meinst du?"
+            ],
+            "es": [
+              "¿Qué es eso?"
+            ],
+            "fr": [
+              "Quoi donc ?"
+            ],
+            "it": [
+              "Cosa?"
+            ],
+            "ja": [
+              "なぜ？"
+            ],
+            "ko": [
+              "뭐가?"
+            ],
             "pt-br": [
               "Como assim?"
+            ],
+            "ru": [
+              "Что?"
+            ],
+            "s-cn": [
+              "什么？"
+            ],
+            "t-cn": [
+              "什麼？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_pre_clones_2__trader.wav",
             "subtitleCueLines": [
-              6149
+              6159
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "This is where you panicked and fled the trial."
             ],
+            "de": [
+              "Genau hier bist du in Panik geraten und aus der Prüfung geflohen."
+            ],
+            "es": [
+              "Aquí es donde te asustaste y saliste corriendo de la prueba."
+            ],
+            "fr": [
+              "C'est ici que vous avez paniqué et fui l'épreuve."
+            ],
+            "it": [
+              "È qui che sei andato in panico e sei fuggito dalla prova."
+            ],
+            "ja": [
+              "ここで君は 試練から逃げた。"
+            ],
+            "ko": [
+              "네가 겁먹고 시련에서 도망간 곳이 여기야."
+            ],
             "pt-br": [
               "Foi aqui que você entrou em pânico e fugiu do teste."
+            ],
+            "ru": [
+              "Вот здесь ты запаниковал и сбежал с испытания."
+            ],
+            "s-cn": [
+              "你当年就是在这里慌了神，逃出了试炼。"
+            ],
+            "t-cn": [
+              "你當年就是在這裡慌了神，逃出了試煉。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_pre_clones_3__trader_alt.wav",
             "subtitleCueLines": [
-              6153
+              6163
             ],
             "explicitAudioReference": null
           }
@@ -89,14 +179,41 @@
             "en": [
               "Oh. You know who I am?"
             ],
+            "de": [
+              "Oh. Du weißt, wer ich bin?"
+            ],
+            "es": [
+              "Ah. ¿Sabes quién soy?"
+            ],
+            "fr": [
+              "Oh. Vous savez qui je suis ?"
+            ],
+            "it": [
+              "Oh. Sai chi sono?"
+            ],
+            "ja": [
+              "君は私を知ってるのか？"
+            ],
+            "ko": [
+              "아. 날 아는군?"
+            ],
             "pt-br": [
               "Ah. Você sabe quem eu sou?"
+            ],
+            "ru": [
+              "О. Ты знаешь, кто я?"
+            ],
+            "s-cn": [
+              "哦。你知道我是谁？"
+            ],
+            "t-cn": [
+              "哦。你知道我是誰？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_pre_clones_4__trader.wav",
             "subtitleCueLines": [
-              6157
+              6167
             ],
             "explicitAudioReference": null
           }
@@ -115,22 +232,85 @@
               "They gave me a hint at the specific danger I would soon face. I steeled myself against that thing.",
               "So, you helped me succeed."
             ],
+            "de": [
+              "Ich war damals in deinem Jahrgang.",
+              "Ich war bei der Prüfung als Nächster dran, direkt nach dir.",
+              "Als du durchgefallen bist und sie dich weggeführt haben, habe ich den verzerrten Ausdruck in deinem Gesicht gesehen. Er hat mir etwas verraten.",
+              "Er hat mir einen Hinweis darauf gegeben, welche Gefahr mich gleich erwarten würde. Ich habe mich dagegen gewappnet.",
+              "Du hast mir also zum Erfolg verholfen."
+            ],
+            "es": [
+              "Por aquel entonces estaba en tu cohorte. Lo mismo de siempre.",
+              "Yo fui la siguiente persona en hacer la prueba, justo después de ti.",
+              "Cuando fracasaste, al ver cómo te llevaban, leí las contorsiones de tu rostro y me dijeron algo.",
+              "Me dieron una pista sobre el peligro concreto al que pronto me enfrentaría. Me armé de valor para afrontarlo.",
+              "Entonces me ayudaste a salir adelante."
+            ],
+            "fr": [
+              "J'étais dans votre cohorte, à l'époque. Pareil que vous.",
+              "C'était à mon tour de passer l'épreuve, juste après vous.",
+              "Après votre échec, en vous voyant partir avec eux, j'ai lu la crispation sur votre visage, et elle m'a appris quelque chose.",
+              "Elle m'a donné un indice sur le danger précis qui m'attendait sous peu. Je me suis préparé à l'affronter.",
+              "Donc, vous m'avez aidé à réussir."
+            ],
+            "it": [
+              "Ero nel tuo gruppo, all'epoca. Uguale è uguale.",
+              "Sono stato il successivo a svolgere la prova, subito dopo di te.",
+              "Dopo il tuo fallimento, mentre ti portavano via, ho visto le smorfie sul tuo viso, e mi hanno detto qualcosa.",
+              "Mi hanno dato un indizio sul pericolo specifico che avrei affrontato di lì a poco. Mi sono temprato contro quella cosa.",
+              "Quindi, mi hai aiutato a riuscirci."
+            ],
+            "ja": [
+              "そこにいたからな。 似た者同士さ。",
+              "始まる前から 不安だった。",
+              "だが連れて行かれる 君の顔が歪んでいた。",
+              "それで気づけたんだ。 何が危険なのか。",
+              "おかげで心の準備ができて、 成功したよ。"
+            ],
+            "ko": [
+              "전에 나도 네 기수였거든. 같은 건 같은 거지.",
+              "바로 네 뒤에 시련에 도전했지.",
+              "실패한 너를 그들이 데려갈 때 네 얼굴의 일그러짐을 읽었고, 거기서 뭔가를 알게 됐어.",
+              "그들은 내가 곧 맞닥뜨릴 위험에 대해 구체적인 실마리를 줬어. 난 그걸 이겨 내려고 마음을 다잡았지.",
+              "그러니, 네가 내 성공을 도운 셈이지."
+            ],
             "pt-br": [
-              "Eu estava no seu grupo, naquela época. Mesma coisa é mesma coisa.",
+              "Eu estava no seu grupo, naquela época. Mais do mesmo.",
               "Fui o próximo a realizar o teste, logo depois de você.",
               "Depois que você falhou, enquanto eu os via te levarem embora, eu li as contorções no seu rosto, e elas me disseram algo.",
               "Me deram uma pista sobre o perigo específico que eu enfrentaria em breve. Eu me preparei para enfrentar aquilo.",
               "Então, você me ajudou a conseguir."
+            ],
+            "ru": [
+              "Я ведь тоже был в твоей команде. Одно и то же.",
+              "Я проходил испытание следующим, сразу после тебя.",
+              "Когда ты провалился и тебя уводили, я прочёл гримасы на твоём лице, и они кое-что мне подсказали.",
+              "Они намекнули мне, какая именно опасность вскоре мне грозит. И я к ней подготовился.",
+              "Так что ты помог мне преуспеть."
+            ],
+            "s-cn": [
+              "其实当初我跟你是同一届。咱们都差不多。",
+              "我是紧随你之后 下一个接受试炼的人。",
+              "当你失败、被他们带走的时候， 我从你脸上的痛苦扭曲里， 读出了些东西。",
+              "这让我隐约知道会遇到什么危险，也提前做好了心理准备。",
+              "所以，是你助我成功的。"
+            ],
+            "t-cn": [
+              "其實當初我跟你是同一屆。咱們都差不多。",
+              "我是緊隨你之後 下一個接受試煉的人。",
+              "當你失敗、被他們帶走的時候， 我從你臉上的痛苦扭曲裡， 讀出了些東西。",
+              "這讓我隱約知道會遇到什麼危險，也提前做好了心理準備。",
+              "所以，是你助我成功的。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_pre_clones_5__trader_alt.wav",
             "subtitleCueLines": [
-              6160,
-              6165,
-              6169,
-              6174,
-              6180
+              6170,
+              6175,
+              6179,
+              6184,
+              6190
             ],
             "explicitAudioReference": null
           }
@@ -145,14 +325,41 @@
             "en": [
               "Congratulations, I suppose."
             ],
+            "de": [
+              "Glückwunsch, schätze ich."
+            ],
+            "es": [
+              "Enhorabuena, supongo."
+            ],
+            "fr": [
+              "Félicitations, je suppose."
+            ],
+            "it": [
+              "Congratulazioni, suppongo."
+            ],
+            "ja": [
+              "それはよかった。"
+            ],
+            "ko": [
+              "뭐, 축하해."
+            ],
             "pt-br": [
               "Parabéns, eu acho."
+            ],
+            "ru": [
+              "Поздравляю, полагаю."
+            ],
+            "s-cn": [
+              "那……恭喜你吧。"
+            ],
+            "t-cn": [
+              "那……恭喜你吧。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_pre_clones_6__trader.wav",
             "subtitleCueLines": [
-              6183
+              6193
             ],
             "explicitAudioReference": null
           }
@@ -175,17 +382,125 @@
           "So, you helped me succeed.",
           "Congratulations, I suppose."
         ],
+        "de": [
+          "Nun. Wir sind endlich da. Ist das jetzt peinlich?",
+          "Was meinst du?",
+          "Genau hier bist du in Panik geraten und aus der Prüfung geflohen.",
+          "Oh. Du weißt, wer ich bin?",
+          "Ich war damals in deinem Jahrgang.",
+          "Ich war bei der Prüfung als Nächster dran, direkt nach dir.",
+          "Als du durchgefallen bist und sie dich weggeführt haben, habe ich den verzerrten Ausdruck in deinem Gesicht gesehen. Er hat mir etwas verraten.",
+          "Er hat mir einen Hinweis darauf gegeben, welche Gefahr mich gleich erwarten würde. Ich habe mich dagegen gewappnet.",
+          "Du hast mir also zum Erfolg verholfen.",
+          "Glückwunsch, schätze ich."
+        ],
+        "es": [
+          "Bueno. Por fin estamos aquí. ¿No te parece incómodo esto?",
+          "¿Qué es eso?",
+          "Aquí es donde te asustaste y saliste corriendo de la prueba.",
+          "Ah. ¿Sabes quién soy?",
+          "Por aquel entonces estaba en tu cohorte. Lo mismo de siempre.",
+          "Yo fui la siguiente persona en hacer la prueba, justo después de ti.",
+          "Cuando fracasaste, al ver cómo te llevaban, leí las contorsiones de tu rostro y me dijeron algo.",
+          "Me dieron una pista sobre el peligro concreto al que pronto me enfrentaría. Me armé de valor para afrontarlo.",
+          "Entonces me ayudaste a salir adelante.",
+          "Enhorabuena, supongo."
+        ],
+        "fr": [
+          "Eh bien. Nous y voilà enfin. Est-ce que c'est gênant ?",
+          "Quoi donc ?",
+          "C'est ici que vous avez paniqué et fui l'épreuve.",
+          "Oh. Vous savez qui je suis ?",
+          "J'étais dans votre cohorte, à l'époque. Pareil que vous.",
+          "C'était à mon tour de passer l'épreuve, juste après vous.",
+          "Après votre échec, en vous voyant partir avec eux, j'ai lu la crispation sur votre visage, et elle m'a appris quelque chose.",
+          "Elle m'a donné un indice sur le danger précis qui m'attendait sous peu. Je me suis préparé à l'affronter.",
+          "Donc, vous m'avez aidé à réussir.",
+          "Félicitations, je suppose."
+        ],
+        "it": [
+          "Bene. Finalmente siamo qui. È imbarazzante?",
+          "Cosa?",
+          "È qui che sei andato in panico e sei fuggito dalla prova.",
+          "Oh. Sai chi sono?",
+          "Ero nel tuo gruppo, all'epoca. Uguale è uguale.",
+          "Sono stato il successivo a svolgere la prova, subito dopo di te.",
+          "Dopo il tuo fallimento, mentre ti portavano via, ho visto le smorfie sul tuo viso, e mi hanno detto qualcosa.",
+          "Mi hanno dato un indizio sul pericolo specifico che avrei affrontato di lì a poco. Mi sono temprato contro quella cosa.",
+          "Quindi, mi hai aiutato a riuscirci.",
+          "Congratulazioni, suppongo."
+        ],
+        "ja": [
+          "気まずいか？",
+          "なぜ？",
+          "ここで君は 試練から逃げた。",
+          "君は私を知ってるのか？",
+          "そこにいたからな。 似た者同士さ。",
+          "始まる前から 不安だった。",
+          "だが連れて行かれる 君の顔が歪んでいた。",
+          "それで気づけたんだ。 何が危険なのか。",
+          "おかげで心の準備ができて、 成功したよ。",
+          "それはよかった。"
+        ],
+        "ko": [
+          "드디어 도착했어. 좀 어색한가?",
+          "뭐가?",
+          "네가 겁먹고 시련에서 도망간 곳이 여기야.",
+          "아. 날 아는군?",
+          "전에 나도 네 기수였거든. 같은 건 같은 거지.",
+          "바로 네 뒤에 시련에 도전했지.",
+          "실패한 너를 그들이 데려갈 때 네 얼굴의 일그러짐을 읽었고, 거기서 뭔가를 알게 됐어.",
+          "그들은 내가 곧 맞닥뜨릴 위험에 대해 구체적인 실마리를 줬어. 난 그걸 이겨 내려고 마음을 다잡았지.",
+          "그러니, 네가 내 성공을 도운 셈이지.",
+          "뭐, 축하해."
+        ],
         "pt-br": [
           "Bem. Finalmente chegamos. Ficou estranho?",
           "Como assim?",
           "Foi aqui que você entrou em pânico e fugiu do teste.",
           "Ah. Você sabe quem eu sou?",
-          "Eu estava no seu grupo, naquela época. Mesma coisa é mesma coisa.",
+          "Eu estava no seu grupo, naquela época. Mais do mesmo.",
           "Fui o próximo a realizar o teste, logo depois de você.",
           "Depois que você falhou, enquanto eu os via te levarem embora, eu li as contorções no seu rosto, e elas me disseram algo.",
           "Me deram uma pista sobre o perigo específico que eu enfrentaria em breve. Eu me preparei para enfrentar aquilo.",
           "Então, você me ajudou a conseguir.",
           "Parabéns, eu acho."
+        ],
+        "ru": [
+          "Ну вот. Мы наконец на месте. Теперь неловко?",
+          "Что?",
+          "Вот здесь ты запаниковал и сбежал с испытания.",
+          "О. Ты знаешь, кто я?",
+          "Я ведь тоже был в твоей команде. Одно и то же.",
+          "Я проходил испытание следующим, сразу после тебя.",
+          "Когда ты провалился и тебя уводили, я прочёл гримасы на твоём лице, и они кое-что мне подсказали.",
+          "Они намекнули мне, какая именно опасность вскоре мне грозит. И я к ней подготовился.",
+          "Так что ты помог мне преуспеть.",
+          "Поздравляю, полагаю."
+        ],
+        "s-cn": [
+          "嗯。我们终于到这儿了。 是不是挺尴尬？",
+          "什么？",
+          "你当年就是在这里慌了神，逃出了试炼。",
+          "哦。你知道我是谁？",
+          "其实当初我跟你是同一届。咱们都差不多。",
+          "我是紧随你之后 下一个接受试炼的人。",
+          "当你失败、被他们带走的时候， 我从你脸上的痛苦扭曲里， 读出了些东西。",
+          "这让我隐约知道会遇到什么危险，也提前做好了心理准备。",
+          "所以，是你助我成功的。",
+          "那……恭喜你吧。"
+        ],
+        "t-cn": [
+          "嗯。我們終於到這兒了。 是不是挺尷尬？",
+          "什麼？",
+          "你當年就是在這裡慌了神，逃出了試煉。",
+          "哦。你知道我是誰？",
+          "其實當初我跟你是同一屆。咱們都差不多。",
+          "我是緊隨你之後 下一個接受試煉的人。",
+          "當你失敗、被他們帶走的時候， 我從你臉上的痛苦扭曲裡， 讀出了些東西。",
+          "這讓我隱約知道會遇到什麼危險，也提前做好了心理準備。",
+          "所以，是你助我成功的。",
+          "那……恭喜你吧。"
         ]
       },
       "silentCues": [],
@@ -207,7 +522,7 @@
             "source": "data-common/mirror_8_v5.entities"
           }
         ],
-        "subtitleLine": 6144,
+        "subtitleLine": 6154,
         "subtitleHeader": "::"
       }
     },
@@ -224,14 +539,41 @@
             "en": [
               "I'll leave you alone for this next part."
             ],
+            "de": [
+              "Für diesen nächsten Teil lasse ich dich allein."
+            ],
+            "es": [
+              "Te dejaré en paz para esta siguiente parte."
+            ],
+            "fr": [
+              "Je vais vous laisser tranquille pour cette prochaine partie."
+            ],
+            "it": [
+              "Ti lascio da solo per questa parte successiva."
+            ],
+            "ja": [
+              "次は1人にするよ。"
+            ],
+            "ko": [
+              "다음 부분에서는 혼자 있게 해 줄게."
+            ],
             "pt-br": [
               "Vou deixar você a sós nesta próxima parte."
+            ],
+            "ru": [
+              "Я оставлю тебя наедине с этой следующей частью."
+            ],
+            "s-cn": [
+              "接下来这一段，我就不打扰你了。"
+            ],
+            "t-cn": [
+              "接下來這一段，我就不打擾你了。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_pre_clones_end_1__trader_alt.wav",
             "subtitleCueLines": [
-              6191
+              6201
             ],
             "explicitAudioReference": null
           }
@@ -245,8 +587,35 @@
         "en": [
           "I'll leave you alone for this next part."
         ],
+        "de": [
+          "Für diesen nächsten Teil lasse ich dich allein."
+        ],
+        "es": [
+          "Te dejaré en paz para esta siguiente parte."
+        ],
+        "fr": [
+          "Je vais vous laisser tranquille pour cette prochaine partie."
+        ],
+        "it": [
+          "Ti lascio da solo per questa parte successiva."
+        ],
+        "ja": [
+          "次は1人にするよ。"
+        ],
+        "ko": [
+          "다음 부분에서는 혼자 있게 해 줄게."
+        ],
         "pt-br": [
           "Vou deixar você a sós nesta próxima parte."
+        ],
+        "ru": [
+          "Я оставлю тебя наедине с этой следующей частью."
+        ],
+        "s-cn": [
+          "接下来这一段，我就不打扰你了。"
+        ],
+        "t-cn": [
+          "接下來這一段，我就不打擾你了。"
         ]
       },
       "silentCues": [],
@@ -268,7 +637,7 @@
             "source": "data-common/mirror_8_v5.entities"
           }
         ],
-        "subtitleLine": 6190,
+        "subtitleLine": 6200,
         "subtitleHeader": "::"
       }
     }

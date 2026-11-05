@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "I'd have thought the caravan's defenses would hold for longer, but,",
               "I'm glad to still be alive, hale body, hale mind."
             ],
+            "de": [
+              "Ich hätte erwartet, dass die Verteidigung der Karawane länger standhält, aber",
+              "ich bin froh, noch am Leben zu sein, mit heilem Körper und klarem Geist."
+            ],
+            "es": [
+              "Pensé que las defensas de la caravana aguantarían más tiempo, pero...",
+              "Me alegro de seguir con vida; cuerpo sano, mente sana."
+            ],
+            "fr": [
+              "J'aurais cru que les défenses de la caravane tiendraient plus longtemps, mais",
+              "je suis content d'être encore en vie ; corps sain, esprit sain."
+            ],
+            "it": [
+              "Pensavo che le difese della Carovana avrebbero retto più a lungo, ma...",
+              "sono felice di essere ancora in vita. Corpo vigoroso, mente vigorosa."
+            ],
+            "ja": [
+              "隊商の防備は 予想よりも弱かったが",
+              "生きてて何よりじゃ。 体も心も元気そのもの。"
+            ],
+            "ko": [
+              "캐러밴의 방어선이 조금 더 버텨줄 줄 알았는데...",
+              "그래도 살아남아서 다행이야. 몸도 건장하고, 정신도 멀쩡하잖아."
+            ],
             "pt-br": [
               "Achei que as defesas da caravana aguentariam mais, mas,",
-              "Estou feliz por estar vivo, corpo são, mente sã."
+              "Estou feliz por estar vivo, corpo sadio, mente sadia."
+            ],
+            "ru": [
+              "Я думал, охрана каравана продержится дольше, но,",
+              "я рад, что остался в живых, здоров телом и крепок духом."
+            ],
+            "s-cn": [
+              "我还以为商队的防线能多撑一阵呢，但",
+              "能活下来就好，身体康健，头脑也清醒。"
+            ],
+            "t-cn": [
+              "我還以為商隊的防線能多撐一陣呢，但",
+              "能活下來就好，身體康健，頭腦也清醒。"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "I'd have thought the caravan's defenses would hold for longer, but,",
           "I'm glad to still be alive, hale body, hale mind."
         ],
+        "de": [
+          "Ich hätte erwartet, dass die Verteidigung der Karawane länger standhält, aber",
+          "ich bin froh, noch am Leben zu sein, mit heilem Körper und klarem Geist."
+        ],
+        "es": [
+          "Pensé que las defensas de la caravana aguantarían más tiempo, pero...",
+          "Me alegro de seguir con vida; cuerpo sano, mente sana."
+        ],
+        "fr": [
+          "J'aurais cru que les défenses de la caravane tiendraient plus longtemps, mais",
+          "je suis content d'être encore en vie ; corps sain, esprit sain."
+        ],
+        "it": [
+          "Pensavo che le difese della Carovana avrebbero retto più a lungo, ma...",
+          "sono felice di essere ancora in vita. Corpo vigoroso, mente vigorosa."
+        ],
+        "ja": [
+          "隊商の防備は 予想よりも弱かったが",
+          "生きてて何よりじゃ。 体も心も元気そのもの。"
+        ],
+        "ko": [
+          "캐러밴의 방어선이 조금 더 버텨줄 줄 알았는데...",
+          "그래도 살아남아서 다행이야. 몸도 건장하고, 정신도 멀쩡하잖아."
+        ],
         "pt-br": [
           "Achei que as defesas da caravana aguentariam mais, mas,",
-          "Estou feliz por estar vivo, corpo são, mente sã."
+          "Estou feliz por estar vivo, corpo sadio, mente sadia."
+        ],
+        "ru": [
+          "Я думал, охрана каравана продержится дольше, но,",
+          "я рад, что остался в живых, здоров телом и крепок духом."
+        ],
+        "s-cn": [
+          "我还以为商队的防线能多撑一阵呢，但",
+          "能活下来就好，身体康健，头脑也清醒。"
+        ],
+        "t-cn": [
+          "我還以為商隊的防線能多撐一陣呢，但",
+          "能活下來就好，身體康健，頭腦也清醒。"
         ]
       },
       "silentCues": [],
@@ -90,9 +171,45 @@
               "Don't know why they didn't like the word \"hale\".",
               "\"Hale Heroes of Hauling\" sounds upscale and smart."
             ],
+            "de": [
+              "Ich weiß nicht, was sie gegen das Wort „heilem“ hatten.",
+              "„Heile Helden des HerUmziehens“ klingt vornehm und klug."
+            ],
+            "es": [
+              "No entiendo qué problema hay con la palabra «sano».",
+              "Los «Sanos Héroes Portadores» suena mucho más distinguido y elegante."
+            ],
+            "fr": [
+              "Je ne sais pas pourquoi ils n'aimaient pas le mot « béton ».",
+              "« Les Déménageurs Bétons », ça sonne vachement bien."
+            ],
+            "it": [
+              "Non so perché, ma a loro non piaceva la parola \"vigoroso\".",
+              "\"Vigorosi eroi del trasporto merci\" suona bene."
+            ],
+            "ja": [
+              "じゃがなんで2人は 「元気」という言葉に反対した？",
+              "「元気な運び屋の英雄」 頼りがいがありそうなのに。"
+            ],
+            "ko": [
+              "\"건장한\"이라는 단어를 왜 다들 마음에 안 들어 했는지 모르겠네.",
+              "\"건장한 운송 영웅들\" 고급스럽고 세련되어 보이는데."
+            ],
             "pt-br": [
               "Não sei por que não gostaram da palavra “sadio”.",
               "“Heróis Sadios do Transporte” parece chique e inteligente."
+            ],
+            "ru": [
+              "Не знаю, почему им не понравилось слово «бравые».",
+              "«Бравые Герои перевозок» звучит благородно и солидно."
+            ],
+            "s-cn": [
+              "真不明白他们为什么不喜欢“康健”这个词。",
+              "“康健英雄搬运社”这名字听着多上档次。"
+            ],
+            "t-cn": [
+              "真不明白他們為什麼不喜歡「康健」這個詞。",
+              "「康健英雄搬運社」這名字聽著多上檔次。"
             ]
           },
           "provenance": {
@@ -114,9 +231,45 @@
           "Don't know why they didn't like the word \"hale\".",
           "\"Hale Heroes of Hauling\" sounds upscale and smart."
         ],
+        "de": [
+          "Ich weiß nicht, was sie gegen das Wort „heilem“ hatten.",
+          "„Heile Helden des HerUmziehens“ klingt vornehm und klug."
+        ],
+        "es": [
+          "No entiendo qué problema hay con la palabra «sano».",
+          "Los «Sanos Héroes Portadores» suena mucho más distinguido y elegante."
+        ],
+        "fr": [
+          "Je ne sais pas pourquoi ils n'aimaient pas le mot « béton ».",
+          "« Les Déménageurs Bétons », ça sonne vachement bien."
+        ],
+        "it": [
+          "Non so perché, ma a loro non piaceva la parola \"vigoroso\".",
+          "\"Vigorosi eroi del trasporto merci\" suona bene."
+        ],
+        "ja": [
+          "じゃがなんで2人は 「元気」という言葉に反対した？",
+          "「元気な運び屋の英雄」 頼りがいがありそうなのに。"
+        ],
+        "ko": [
+          "\"건장한\"이라는 단어를 왜 다들 마음에 안 들어 했는지 모르겠네.",
+          "\"건장한 운송 영웅들\" 고급스럽고 세련되어 보이는데."
+        ],
         "pt-br": [
           "Não sei por que não gostaram da palavra “sadio”.",
           "“Heróis Sadios do Transporte” parece chique e inteligente."
+        ],
+        "ru": [
+          "Не знаю, почему им не понравилось слово «бравые».",
+          "«Бравые Герои перевозок» звучит благородно и солидно."
+        ],
+        "s-cn": [
+          "真不明白他们为什么不喜欢“康健”这个词。",
+          "“康健英雄搬运社”这名字听着多上档次。"
+        ],
+        "t-cn": [
+          "真不明白他們為什麼不喜歡「康健」這個詞。",
+          "「康健英雄搬運社」這名字聽著多上檔次。"
         ]
       },
       "silentCues": [],

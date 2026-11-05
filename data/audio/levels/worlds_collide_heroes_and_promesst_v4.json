@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Hello over there! Have you any idea about this ... red ... gate?"
             ],
+            "de": [
+              "Hallo da drüben! Weißt du vielleicht, was es mit diesem ... roten ... Tor auf sich hat?"
+            ],
+            "es": [
+              "¡Hola, hola! ¿Tienes idea de qué es este... portal... rojo?"
+            ],
+            "fr": [
+              "Hé, vous là-bas ! Vous savez ce que c'est, cette... porte... rouge ?"
+            ],
+            "it": [
+              "Ehilà! Hai qualche idea su questo... portale... rosso?"
+            ],
+            "ja": [
+              "そこの人！ この…赤い門について 何か知らないか？"
+            ],
+            "ko": [
+              "저기! 이... 빨간... 관문에 대해 아는 게 있어?"
+            ],
             "pt-br": [
               "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?"
+            ],
+            "ru": [
+              "Эй, там! У вас есть хоть какие-то мысли насчет этих... красных... ворот?"
+            ],
+            "s-cn": [
+              "那边的朋友！你知道这道……红色的……门是怎么回事吗？"
+            ],
+            "t-cn": [
+              "那邊的朋友！你知道這道…… 紅色的……門是怎麼回事嗎？"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_HP_start_1__gemsman.wav",
             "subtitleCueLines": [
-              6687
+              6697
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "It reminds me of something I know, but, it's also different..."
             ],
+            "de": [
+              "Es erinnert mich an etwas, das ich kenne, aber es ist auch anders ..."
+            ],
+            "es": [
+              "Me recuerda a algo que conozco, pero también es distinto, de alguna forma..."
+            ],
+            "fr": [
+              "Ça me rappelle certaines choses que je connais, mais c'est aussi différent..."
+            ],
+            "it": [
+              "Mi ricorda qualcosa che conosco, ma è anche diverso..."
+            ],
+            "ja": [
+              "見覚えのあるものに似てるが、 どこか違う…"
+            ],
+            "ko": [
+              "익숙한 게 떠오르긴 하는데... 또 다르기도 해서..."
+            ],
             "pt-br": [
               "Ele me lembra algo que me é familiar, mas também é diferente..."
+            ],
+            "ru": [
+              "Это напоминает мне кое-что знакомое, но при этом отличное..."
+            ],
+            "s-cn": [
+              "它让我想起一些熟悉的东西，但又不太一样……"
+            ],
+            "t-cn": [
+              "它讓我想起一些熟悉的東西，但又不太一樣……"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_HP_start_3__gemsman.wav",
             "subtitleCueLines": [
-              6695
+              6705
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
             ],
+            "de": [
+              "Tut mir leid, wenn ich lästig falle. Aber ich fürchte, mit meinen Mitteln schaffe ich das nicht, nicht allein ..."
+            ],
+            "es": [
+              "Siento molestar. Pero dudo que tenga las herramientas para encargarme de esto, al menos no a solas…"
+            ],
+            "fr": [
+              "Désolé de vous importuner, mais je doute d'avoir les outils pour gérer ça. Pas tout seul..."
+            ],
+            "it": [
+              "Scusa il disturbo. Ma dubito di avere gli strumenti per gestire questa cosa, non da solo..."
+            ],
+            "ja": [
+              "邪魔して悪い。 だが俺の道具だけじゃ どうにもできそうにない。"
+            ],
+            "ko": [
+              "귀찮게 해서 미안. 하지만 나 혼자서는 이걸 처리할 방법이 없는 것 같아..."
+            ],
             "pt-br": [
               "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+            ],
+            "ru": [
+              "Простите, что докучаю. Но, боюсь, у меня нет инструментов, чтобы с этим справиться, не в одиночку..."
+            ],
+            "s-cn": [
+              "抱歉给你添麻烦了。可光靠我手头的工具，恐怕对付不了…… 至少我一个人不行。"
+            ],
+            "t-cn": [
+              "抱歉給你添麻煩了。 可光靠我手頭的工具，恐怕對付不了……至少我一個人不行。"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_HP_start_5__gemsman.wav",
             "subtitleCueLines": [
-              6702
+              6712
             ],
             "explicitAudioReference": null
           }
@@ -92,12 +182,75 @@
           "...",
           "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
         ],
+        "de": [
+          "Hallo da drüben! Weißt du vielleicht, was es mit diesem ... roten ... Tor auf sich hat?",
+          "...",
+          "Es erinnert mich an etwas, das ich kenne, aber es ist auch anders ...",
+          "...",
+          "Tut mir leid, wenn ich lästig falle. Aber ich fürchte, mit meinen Mitteln schaffe ich das nicht, nicht allein ..."
+        ],
+        "es": [
+          "¡Hola, hola! ¿Tienes idea de qué es este... portal... rojo?",
+          "...",
+          "Me recuerda a algo que conozco, pero también es distinto, de alguna forma...",
+          "...",
+          "Siento molestar. Pero dudo que tenga las herramientas para encargarme de esto, al menos no a solas…"
+        ],
+        "fr": [
+          "Hé, vous là-bas ! Vous savez ce que c'est, cette... porte... rouge ?",
+          "...",
+          "Ça me rappelle certaines choses que je connais, mais c'est aussi différent...",
+          "...",
+          "Désolé de vous importuner, mais je doute d'avoir les outils pour gérer ça. Pas tout seul..."
+        ],
+        "it": [
+          "Ehilà! Hai qualche idea su questo... portale... rosso?",
+          "...",
+          "Mi ricorda qualcosa che conosco, ma è anche diverso...",
+          "...",
+          "Scusa il disturbo. Ma dubito di avere gli strumenti per gestire questa cosa, non da solo..."
+        ],
+        "ja": [
+          "そこの人！ この…赤い門について 何か知らないか？",
+          "…",
+          "見覚えのあるものに似てるが、 どこか違う…",
+          "…",
+          "邪魔して悪い。 だが俺の道具だけじゃ どうにもできそうにない。"
+        ],
+        "ko": [
+          "저기! 이... 빨간... 관문에 대해 아는 게 있어?",
+          "...",
+          "익숙한 게 떠오르긴 하는데... 또 다르기도 해서...",
+          "...",
+          "귀찮게 해서 미안. 하지만 나 혼자서는 이걸 처리할 방법이 없는 것 같아..."
+        ],
         "pt-br": [
           "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?",
           "...",
           "Ele me lembra algo que me é familiar, mas também é diferente...",
           "...",
           "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+        ],
+        "ru": [
+          "Эй, там! У вас есть хоть какие-то мысли насчет этих... красных... ворот?",
+          "...",
+          "Это напоминает мне кое-что знакомое, но при этом отличное...",
+          "...",
+          "Простите, что докучаю. Но, боюсь, у меня нет инструментов, чтобы с этим справиться, не в одиночку..."
+        ],
+        "s-cn": [
+          "那边的朋友！你知道这道……红色的……门是怎么回事吗？",
+          "……",
+          "它让我想起一些熟悉的东西，但又不太一样……",
+          "……",
+          "抱歉给你添麻烦了。可光靠我手头的工具，恐怕对付不了…… 至少我一个人不行。"
+        ],
+        "t-cn": [
+          "那邊的朋友！你知道這道…… 紅色的……門是怎麼回事嗎？",
+          "……",
+          "它讓我想起一些熟悉的東西，但又不太一樣……",
+          "……",
+          "抱歉給你添麻煩了。 可光靠我手頭的工具，恐怕對付不了……至少我一個人不行。"
         ]
       },
       "silentCues": [
@@ -108,7 +261,7 @@
             "..."
           ],
           "cueLines": [
-            6692
+            6702
           ]
         },
         {
@@ -118,7 +271,7 @@
             "..."
           ],
           "cueLines": [
-            6699
+            6709
           ]
         }
       ],
@@ -140,7 +293,7 @@
             "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
           }
         ],
-        "subtitleLine": 6686,
+        "subtitleLine": 6696,
         "subtitleHeader": "::"
       }
     },
@@ -157,14 +310,41 @@
             "en": [
               "God, I hope I see her again."
             ],
+            "de": [
+              "Gott, hoffentlich sehe ich sie wieder."
+            ],
+            "es": [
+              "Dios, ojalá la vuelva a ver."
+            ],
+            "fr": [
+              "Mon Dieu, j'espère la revoir un jour."
+            ],
+            "it": [
+              "Dannazione, spero di rivederla."
+            ],
+            "ja": [
+              "また会えるといいな。"
+            ],
+            "ko": [
+              "신이시여, 다시 그녀를 볼 수 있다면 좋겠어."
+            ],
             "pt-br": [
               "Meu Deus, espero vê-la de novo."
+            ],
+            "ru": [
+              "Боже, надеюсь, я её ещё увижу."
+            ],
+            "s-cn": [
+              "天啊，真希望还能再见到她。"
+            ],
+            "t-cn": [
+              "天啊，真希望還能再見到她。"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_HP_end_1__gemsman.wav",
             "subtitleCueLines": [
-              6712
+              6722
             ],
             "explicitAudioReference": null
           }
@@ -178,8 +358,35 @@
         "en": [
           "God, I hope I see her again."
         ],
+        "de": [
+          "Gott, hoffentlich sehe ich sie wieder."
+        ],
+        "es": [
+          "Dios, ojalá la vuelva a ver."
+        ],
+        "fr": [
+          "Mon Dieu, j'espère la revoir un jour."
+        ],
+        "it": [
+          "Dannazione, spero di rivederla."
+        ],
+        "ja": [
+          "また会えるといいな。"
+        ],
+        "ko": [
+          "신이시여, 다시 그녀를 볼 수 있다면 좋겠어."
+        ],
         "pt-br": [
           "Meu Deus, espero vê-la de novo."
+        ],
+        "ru": [
+          "Боже, надеюсь, я её ещё увижу."
+        ],
+        "s-cn": [
+          "天啊，真希望还能再见到她。"
+        ],
+        "t-cn": [
+          "天啊，真希望還能再見到她。"
         ]
       },
       "silentCues": [],
@@ -201,7 +408,7 @@
             "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
           }
         ],
-        "subtitleLine": 6711,
+        "subtitleLine": 6721,
         "subtitleHeader": "::"
       }
     },
@@ -218,14 +425,41 @@
             "en": [
               "Amazing!"
             ],
+            "de": [
+              "Unglaublich!"
+            ],
+            "es": [
+              "¡Impresionante!"
+            ],
+            "fr": [
+              "Incroyable !"
+            ],
+            "it": [
+              "Incredibile!"
+            ],
+            "ja": [
+              "すごい！"
+            ],
+            "ko": [
+              "놀라워!"
+            ],
             "pt-br": [
               "Incrível!"
+            ],
+            "ru": [
+              "Потрясающе!"
+            ],
+            "s-cn": [
+              "太神奇了！"
+            ],
+            "t-cn": [
+              "太神奇了！"
             ]
           },
           "provenance": {
             "sourceWav": "worlds_collide_HP_monster_gates_open_1__gemsman.wav",
             "subtitleCueLines": [
-              6720
+              6730
             ],
             "explicitAudioReference": null
           }
@@ -239,8 +473,35 @@
         "en": [
           "Amazing!"
         ],
+        "de": [
+          "Unglaublich!"
+        ],
+        "es": [
+          "¡Impresionante!"
+        ],
+        "fr": [
+          "Incroyable !"
+        ],
+        "it": [
+          "Incredibile!"
+        ],
+        "ja": [
+          "すごい！"
+        ],
+        "ko": [
+          "놀라워!"
+        ],
         "pt-br": [
           "Incrível!"
+        ],
+        "ru": [
+          "Потрясающе!"
+        ],
+        "s-cn": [
+          "太神奇了！"
+        ],
+        "t-cn": [
+          "太神奇了！"
         ]
       },
       "silentCues": [],
@@ -262,7 +523,7 @@
             "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
           }
         ],
-        "subtitleLine": 6719,
+        "subtitleLine": 6729,
         "subtitleHeader": "::"
       }
     },
@@ -285,6 +546,60 @@
               "Perhaps this version of the level feels a couple rows too tall on the Heroes side,",
               "but the Beamcaster side needs that space: you need two empty rows on the south to displace the Beamcaster back north."
             ],
+            "de": [
+              "Hier haben wir den Energieanschluss versetzt, sodass die Priesterin die Goblins nicht nach Süden schieben kann,",
+              "und damit den Exploit aus der vorherigen Version behoben.",
+              "Außerdem haben wir den Bereich des dritten Goblins offener gestaltet, also weniger wie einen abgeschlossenen Raum,",
+              "um keine irrelevanten Züge nahezulegen, etwa das Versetzen von Objekten durch",
+              "den längeren Wandabschnitt, der in der damaligen Version des Levels noch vorhanden war.",
+              "Vielleicht wirkt diese Version des Levels auf der Seite der Helden ein paar Reihen zu hoch,",
+              "aber die Seite mit dem Strahlenwerfer braucht den Platz: Im Süden müssen zwei Reihen frei bleiben, damit man den Strahlenwerfer wieder nach Norden versetzen kann."
+            ],
+            "es": [
+              "Aquí movimos la Ranura de Poder para que la Sacerdotisa no pueda empujar a los dos goblins al sur,",
+              "corrigiendo el exploit de la versión anterior.",
+              "También hicimos que la zona del tercer goblin fuera menos una habitación cerrada,",
+              "para evitar sugerir movimientos irrelevantes, como desplazar objetos a través del",
+              "tramo de pared más largo que había en esa versión del nivel.",
+              "Quizá esta versión del nivel tenga un par de filas de más en el lado de los héroes,",
+              "pero el lado del proyector de haces necesita ese espacio: hacen falta dos filas vacías al sur para desplazar el proyector de haces al norte de nuevo."
+            ],
+            "fr": [
+              "Ici, on a déplacé la prise, de sorte que la Prêtresse ne puisse pas pousser les deux gobelins vers le sud,",
+              "ce qui corrige la faille de la version précédente.",
+              "On a aussi fait en sorte que la zone du troisième gobelin ressemble moins à une salle fermée,",
+              "pour éviter de suggérer des déplacements sans intérêt, comme bouger des objets à travers",
+              "la portion de mur plus longue qui existait dans cette version du niveau.",
+              "Peut-être que cette version du niveau semble avoir deux rangées de trop en hauteur du côté des héros,",
+              "mais le côté du projecteur a besoin de cet espace : il faut deux rangées vides au sud pour déplacer le projecteur vers le nord."
+            ],
+            "it": [
+              "Qui abbiamo spostato la posizione della presa di potere, in modo che la sacerdotessa non possa spingere i due goblin a sud,",
+              "correggendo la scorciatoia della versione precedente.",
+              "Abbiamo anche fatto in modo che l'area del terzo goblin fosse meno simile a una stanza chiusa,",
+              "per evitare di suggerire mosse irrilevanti, come spostare oggetti attraverso",
+              "il tratto di muro più lungo che esisteva in quella versione del livello.",
+              "Forse questa versione del livello sembra un paio di righe troppo alta sul lato degli eroi,",
+              "ma il lato del lanciaraggio ha bisogno di quello spazio: ti servono due righe vuote a sud per spostare il lanciaraggio di nuovo a nord."
+            ],
+            "ja": [
+              "ここではパワーソケットの位置を動かし、 女司祭が2体のゴブリンを 南へ押せないようにした。",
+              "これで前のバージョンにあった 抜け道も修正した。",
+              "3体目のゴブリンがいるエリアも、 もっと開けた場所に変更。",
+              "世界間の壁を通して物を動かすなど ステージの目的と関係のない操作を",
+              "連想させてしまっていたからだ。",
+              "英雄側は、あと2列くらいステージが 高すぎるように感じるかもしれないが、",
+              "南側に2列分の空きがないと、 ビーム放射器を北へ戻すために 置き換えができないので、 このスペースが必要になる。"
+            ],
+            "ko": [
+              "여기서는 전원 소켓의 위치를 옮겨 사제가 두 고블린을 남쪽으로 밀 수 없게 했어.",
+              "이전 버전의 허점을 막은 거지.",
+              "또한 세 번째 고블린 구역이 덜 밀폐된 방처럼 보이게 했어.",
+              "그래서 그 버전의 레벨에 있던 더 길게 이어진 벽 너머로 오브젝트를 변위시키는 것처럼",
+              "실제 해결법과 관계없는 움직임을 떠올리지 않게 하려고 말이야.",
+              "이 레벨 버전은 영웅 쪽에서 몇 줄 정도 너무 높게 느껴질 수도 있지만,",
+              "빔캐스터 쪽에는 그 공간이 필요해. 남쪽에 빈 줄이 2개 있어야 빔캐스터를 다시 북쪽으로 변위시킬 수 있으니까."
+            ],
             "pt-br": [
               "Aqui mudamos a posição do encaixe de energia, impedindo a Sacerdotisa de empurrar os dois goblins para o sul,",
               "corrigindo o ponto vulnerável da versão anterior.",
@@ -293,18 +608,45 @@
               "o trecho mais longo de parede que existia naquela versão da fase.",
               "Talvez esta versão da fase pareça ter algumas fileiras a mais do lado dos Heróis,",
               "mas o lado do Lança-feixes precisa desse espaço: você precisa de duas fileiras vazias ao sul para deslocar o Lança-feixes de volta para o norte."
+            ],
+            "ru": [
+              "Здесь мы сдвинули расположение силового гнезда, чтобы Жрица не могла толкнуть двух гоблинов на юг,",
+              "исправляя лазейку из предыдущей версии.",
+              "Мы также сделали область третьего гоблина менее похожей на замкнутую комнату,",
+              "чтобы не подсказывать неважные ходы, например сдвигать предметы через",
+              "более длинный участок стены, который был в той версии уровня.",
+              "Возможно, эта версия уровня кажется слишком высокой на пару рядов со стороны Героев,",
+              "но стороне лучемета это пространство нужно: вам нужны два пустых ряда на юге, чтобы сместить лучемет обратно на север."
+            ],
+            "s-cn": [
+              "这里我们移动了能量插槽的位置， 使得女祭司无法把两只哥布林向南推，",
+              "从而堵上了上一版的取巧解法。",
+              "我们还让第三只哥布林所在的区域不再那么像一个封闭房间，",
+              "以免让玩家想到与解谜无关的操作，",
+              "比如让物体穿过上一版里那段较长的墙壁。",
+              "这一版的英雄世界一侧纵向看着有些空，像是多留了两行；",
+              "但光束发射器那边需要这些空间： 南边必须空出两行，才能把发射器移回北边。"
+            ],
+            "t-cn": [
+              "這裡我們移動了能量插槽的位置， 使得女祭司無法把兩隻哥布林向南推，",
+              "從而堵上了上一版的取巧解法。",
+              "我們還讓第三隻哥布林所在的區域不再那麼像一個封閉房間，",
+              "以免讓玩家想到與解謎無關的操作，",
+              "比如讓物體穿過上一版裡那段較長的牆壁。",
+              "這一版的英雄世界一側縱向看著有些空， 像是多留了兩行；",
+              "但光束發射器那邊需要這些空間： 南邊必須空出兩行，才能把發射器移回北邊。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_di_worlds_collide_heroes_and_promesst_v4_1__director.wav",
             "subtitleCueLines": [
-              14342,
-              14346,
-              14349,
-              14353,
-              14357,
-              14361,
-              14366
+              14352,
+              14356,
+              14359,
+              14363,
+              14367,
+              14371,
+              14376
             ],
             "explicitAudioReference": null
           }
@@ -324,6 +666,60 @@
           "Perhaps this version of the level feels a couple rows too tall on the Heroes side,",
           "but the Beamcaster side needs that space: you need two empty rows on the south to displace the Beamcaster back north."
         ],
+        "de": [
+          "Hier haben wir den Energieanschluss versetzt, sodass die Priesterin die Goblins nicht nach Süden schieben kann,",
+          "und damit den Exploit aus der vorherigen Version behoben.",
+          "Außerdem haben wir den Bereich des dritten Goblins offener gestaltet, also weniger wie einen abgeschlossenen Raum,",
+          "um keine irrelevanten Züge nahezulegen, etwa das Versetzen von Objekten durch",
+          "den längeren Wandabschnitt, der in der damaligen Version des Levels noch vorhanden war.",
+          "Vielleicht wirkt diese Version des Levels auf der Seite der Helden ein paar Reihen zu hoch,",
+          "aber die Seite mit dem Strahlenwerfer braucht den Platz: Im Süden müssen zwei Reihen frei bleiben, damit man den Strahlenwerfer wieder nach Norden versetzen kann."
+        ],
+        "es": [
+          "Aquí movimos la Ranura de Poder para que la Sacerdotisa no pueda empujar a los dos goblins al sur,",
+          "corrigiendo el exploit de la versión anterior.",
+          "También hicimos que la zona del tercer goblin fuera menos una habitación cerrada,",
+          "para evitar sugerir movimientos irrelevantes, como desplazar objetos a través del",
+          "tramo de pared más largo que había en esa versión del nivel.",
+          "Quizá esta versión del nivel tenga un par de filas de más en el lado de los héroes,",
+          "pero el lado del proyector de haces necesita ese espacio: hacen falta dos filas vacías al sur para desplazar el proyector de haces al norte de nuevo."
+        ],
+        "fr": [
+          "Ici, on a déplacé la prise, de sorte que la Prêtresse ne puisse pas pousser les deux gobelins vers le sud,",
+          "ce qui corrige la faille de la version précédente.",
+          "On a aussi fait en sorte que la zone du troisième gobelin ressemble moins à une salle fermée,",
+          "pour éviter de suggérer des déplacements sans intérêt, comme bouger des objets à travers",
+          "la portion de mur plus longue qui existait dans cette version du niveau.",
+          "Peut-être que cette version du niveau semble avoir deux rangées de trop en hauteur du côté des héros,",
+          "mais le côté du projecteur a besoin de cet espace : il faut deux rangées vides au sud pour déplacer le projecteur vers le nord."
+        ],
+        "it": [
+          "Qui abbiamo spostato la posizione della presa di potere, in modo che la sacerdotessa non possa spingere i due goblin a sud,",
+          "correggendo la scorciatoia della versione precedente.",
+          "Abbiamo anche fatto in modo che l'area del terzo goblin fosse meno simile a una stanza chiusa,",
+          "per evitare di suggerire mosse irrilevanti, come spostare oggetti attraverso",
+          "il tratto di muro più lungo che esisteva in quella versione del livello.",
+          "Forse questa versione del livello sembra un paio di righe troppo alta sul lato degli eroi,",
+          "ma il lato del lanciaraggio ha bisogno di quello spazio: ti servono due righe vuote a sud per spostare il lanciaraggio di nuovo a nord."
+        ],
+        "ja": [
+          "ここではパワーソケットの位置を動かし、 女司祭が2体のゴブリンを 南へ押せないようにした。",
+          "これで前のバージョンにあった 抜け道も修正した。",
+          "3体目のゴブリンがいるエリアも、 もっと開けた場所に変更。",
+          "世界間の壁を通して物を動かすなど ステージの目的と関係のない操作を",
+          "連想させてしまっていたからだ。",
+          "英雄側は、あと2列くらいステージが 高すぎるように感じるかもしれないが、",
+          "南側に2列分の空きがないと、 ビーム放射器を北へ戻すために 置き換えができないので、 このスペースが必要になる。"
+        ],
+        "ko": [
+          "여기서는 전원 소켓의 위치를 옮겨 사제가 두 고블린을 남쪽으로 밀 수 없게 했어.",
+          "이전 버전의 허점을 막은 거지.",
+          "또한 세 번째 고블린 구역이 덜 밀폐된 방처럼 보이게 했어.",
+          "그래서 그 버전의 레벨에 있던 더 길게 이어진 벽 너머로 오브젝트를 변위시키는 것처럼",
+          "실제 해결법과 관계없는 움직임을 떠올리지 않게 하려고 말이야.",
+          "이 레벨 버전은 영웅 쪽에서 몇 줄 정도 너무 높게 느껴질 수도 있지만,",
+          "빔캐스터 쪽에는 그 공간이 필요해. 남쪽에 빈 줄이 2개 있어야 빔캐스터를 다시 북쪽으로 변위시킬 수 있으니까."
+        ],
         "pt-br": [
           "Aqui mudamos a posição do encaixe de energia, impedindo a Sacerdotisa de empurrar os dois goblins para o sul,",
           "corrigindo o ponto vulnerável da versão anterior.",
@@ -332,6 +728,33 @@
           "o trecho mais longo de parede que existia naquela versão da fase.",
           "Talvez esta versão da fase pareça ter algumas fileiras a mais do lado dos Heróis,",
           "mas o lado do Lança-feixes precisa desse espaço: você precisa de duas fileiras vazias ao sul para deslocar o Lança-feixes de volta para o norte."
+        ],
+        "ru": [
+          "Здесь мы сдвинули расположение силового гнезда, чтобы Жрица не могла толкнуть двух гоблинов на юг,",
+          "исправляя лазейку из предыдущей версии.",
+          "Мы также сделали область третьего гоблина менее похожей на замкнутую комнату,",
+          "чтобы не подсказывать неважные ходы, например сдвигать предметы через",
+          "более длинный участок стены, который был в той версии уровня.",
+          "Возможно, эта версия уровня кажется слишком высокой на пару рядов со стороны Героев,",
+          "но стороне лучемета это пространство нужно: вам нужны два пустых ряда на юге, чтобы сместить лучемет обратно на север."
+        ],
+        "s-cn": [
+          "这里我们移动了能量插槽的位置， 使得女祭司无法把两只哥布林向南推，",
+          "从而堵上了上一版的取巧解法。",
+          "我们还让第三只哥布林所在的区域不再那么像一个封闭房间，",
+          "以免让玩家想到与解谜无关的操作，",
+          "比如让物体穿过上一版里那段较长的墙壁。",
+          "这一版的英雄世界一侧纵向看着有些空，像是多留了两行；",
+          "但光束发射器那边需要这些空间： 南边必须空出两行，才能把发射器移回北边。"
+        ],
+        "t-cn": [
+          "這裡我們移動了能量插槽的位置， 使得女祭司無法把兩隻哥布林向南推，",
+          "從而堵上了上一版的取巧解法。",
+          "我們還讓第三隻哥布林所在的區域不再那麼像一個封閉房間，",
+          "以免讓玩家想到與解謎無關的操作，",
+          "比如讓物體穿過上一版裡那段較長的牆壁。",
+          "這一版的英雄世界一側縱向看著有些空， 像是多留了兩行；",
+          "但光束發射器那邊需要這些空間： 南邊必須空出兩行，才能把發射器移回北邊。"
         ]
       },
       "silentCues": [],
@@ -347,13 +770,13 @@
             "rule": "exact-reference",
             "coordinates": [
               11.0,
-              14.0,
+              13.0,
               0.0
             ],
             "source": "data-common/worlds_collide_heroes_and_promesst_v4.entities"
           }
         ],
-        "subtitleLine": 14341,
+        "subtitleLine": 14351,
         "subtitleHeader": ":::"
       }
     }

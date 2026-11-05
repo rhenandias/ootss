@@ -1,0 +1,426 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_weather",
+    "audioKey": "skipping_stones_94371881",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_weather"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 94371881,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_weather",
+        "rule": "exact-reference",
+        "coordinates": [
+          51.0,
+          31.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_weather",
+      "clips": [
+        {
+          "id": "ssnew_weather_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.758812,
+          "src": "audio/clips/ssnew_weather_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Just an early warning..."
+            ],
+            "de": [
+              "Nur eine kleine Vorwarnung ..."
+            ],
+            "es": [
+              "Solo una advertencia antes de nada..."
+            ],
+            "fr": [
+              "Juste un avertissement..."
+            ],
+            "it": [
+              "Solo un avvertimento..."
+            ],
+            "ja": [
+              "早めに言っておくけど…"
+            ],
+            "ko": [
+              "그냥 초기에 경고하는 거지만..."
+            ],
+            "pt-br": [
+              "Só um aviso antecipado..."
+            ],
+            "ru": [
+              "Просто предварительное предупреждение..."
+            ],
+            "s-cn": [
+              "先提醒你一声……"
+            ],
+            "t-cn": [
+              "先提醒你一聲……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_weather_1__boat.wav",
+            "subtitleCueLines": [
+              4285
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_weather_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.786625,
+          "src": "audio/clips/ssnew_weather_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Yes?"
+            ],
+            "de": [
+              "Ja?"
+            ],
+            "es": [
+              "¿Sí?"
+            ],
+            "fr": [
+              "J'écoute."
+            ],
+            "it": [
+              "Sì?"
+            ],
+            "ja": [
+              "何？"
+            ],
+            "ko": [
+              "음?"
+            ],
+            "pt-br": [
+              "Sim?"
+            ],
+            "ru": [
+              "Да?"
+            ],
+            "s-cn": [
+              "怎么了？"
+            ],
+            "t-cn": [
+              "怎麼了？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_weather_2__sailor.wav",
+            "subtitleCueLines": [
+              4288
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_weather_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 9.51975,
+          "src": "audio/clips/ssnew_weather_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I'm feeling a change in the winds, far to the south.",
+              "They're getting faster and rougher. Nothing I'd worry about yet,",
+              "but we might face trouble later on."
+            ],
+            "de": [
+              "Ich spüre weit im Süden eine Veränderung der Winde.",
+              "Sie werden schneller und rauer. Noch kein Grund zur Sorge,",
+              "aber später könnten wir Probleme bekommen."
+            ],
+            "es": [
+              "Siento un cambio en los vientos, muy al sur.",
+              "Van más rápido y con más fuerza. No es que me preocupe demasiado ahora,",
+              "pero quizá nos topemos con problemas más tarde."
+            ],
+            "fr": [
+              "Je sens un changement dans les vents, loin au sud.",
+              "Ils deviennent plus rapides et plus violents. Rien qui m'inquiète pour l'instant,",
+              "mais on pourrait avoir des ennuis plus tard."
+            ],
+            "it": [
+              "Sento cambiare i venti, molto a sud.",
+              "Stanno diventando più veloci e più aspri. Nulla di cui preoccuparsi adesso,",
+              "ma più avanti potremmo avere problemi."
+            ],
+            "ja": [
+              "南の方で 風が変わってる。",
+              "より早く強くなってる。 今は心配いらないが、",
+              "後で向かい風に 遭うかもしれない。"
+            ],
+            "ko": [
+              "남쪽 아주 멀리서 바람이 변하고 있어.",
+              "더 빨라지고 거칠어지고 있지. 지금은 걱정할 정도는 아니지만,",
+              "나중엔 역풍을 맞을 수도 있어."
+            ],
+            "pt-br": [
+              "Estou sentindo uma mudança nos ventos, bem ao sul.",
+              "Eles estão ficando mais rápidos e mais fortes. Nada com que eu me preocuparia agora,",
+              "mas talvez enfrentemos problemas mais tarde."
+            ],
+            "ru": [
+              "Я чувствую перемену ветров, далеко на юге.",
+              "Они становятся быстрее и резче. Пока ничего, о чем стоило бы беспокоиться,",
+              "но потом мы можем столкнуться с трудностями."
+            ],
+            "s-cn": [
+              "我感觉遥远的南方，风势正在变化。",
+              "风越来越急，越来越乱。暂时我们还不用担心，",
+              "但之后可能会碰上麻烦。"
+            ],
+            "t-cn": [
+              "我感覺遙遠的南方，風勢正在變化。",
+              "風越來越急，越來越亂。暫時我們還不用擔心，",
+              "但之後可能會碰上麻煩。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_weather_3__boat.wav",
+            "subtitleCueLines": [
+              4291,
+              4295,
+              4299
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_weather_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.626896,
+          "src": "audio/clips/ssnew_weather_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Noted!"
+            ],
+            "de": [
+              "Vermerkt!"
+            ],
+            "es": [
+              "¡Entendido!"
+            ],
+            "fr": [
+              "C'est noté !"
+            ],
+            "it": [
+              "Ricevuto!"
+            ],
+            "ja": [
+              "了解！"
+            ],
+            "ko": [
+              "알아 둘게!"
+            ],
+            "pt-br": [
+              "Anotado!"
+            ],
+            "ru": [
+              "Принято!"
+            ],
+            "s-cn": [
+              "记下了！"
+            ],
+            "t-cn": [
+              "記下了！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_weather_4__sailor.wav",
+            "subtitleCueLines": [
+              4302
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_weather_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.449979,
+          "src": "audio/clips/ssnew_weather_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Noted that you noted."
+            ],
+            "de": [
+              "Ich habe vermerkt, dass du es vermerkt hast."
+            ],
+            "es": [
+              "Entendido que lo has entendido."
+            ],
+            "fr": [
+              "J'ai noté que tu as noté."
+            ],
+            "it": [
+              "Ricevuto che hai ricevuto."
+            ],
+            "ja": [
+              "了解を了解した。"
+            ],
+            "ko": [
+              "나도 그걸 알아 두지."
+            ],
+            "pt-br": [
+              "Anotado que você anotou."
+            ],
+            "ru": [
+              "Принято, что ты приняла."
+            ],
+            "s-cn": [
+              "你记下了，我也记下了。"
+            ],
+            "t-cn": [
+              "你記下了，我也記下了。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_weather_5__boat.wav",
+            "subtitleCueLines": [
+              4305
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Just an early warning...",
+          "Yes?",
+          "I'm feeling a change in the winds, far to the south.",
+          "They're getting faster and rougher. Nothing I'd worry about yet,",
+          "but we might face trouble later on.",
+          "Noted!",
+          "Noted that you noted."
+        ],
+        "de": [
+          "Nur eine kleine Vorwarnung ...",
+          "Ja?",
+          "Ich spüre weit im Süden eine Veränderung der Winde.",
+          "Sie werden schneller und rauer. Noch kein Grund zur Sorge,",
+          "aber später könnten wir Probleme bekommen.",
+          "Vermerkt!",
+          "Ich habe vermerkt, dass du es vermerkt hast."
+        ],
+        "es": [
+          "Solo una advertencia antes de nada...",
+          "¿Sí?",
+          "Siento un cambio en los vientos, muy al sur.",
+          "Van más rápido y con más fuerza. No es que me preocupe demasiado ahora,",
+          "pero quizá nos topemos con problemas más tarde.",
+          "¡Entendido!",
+          "Entendido que lo has entendido."
+        ],
+        "fr": [
+          "Juste un avertissement...",
+          "J'écoute.",
+          "Je sens un changement dans les vents, loin au sud.",
+          "Ils deviennent plus rapides et plus violents. Rien qui m'inquiète pour l'instant,",
+          "mais on pourrait avoir des ennuis plus tard.",
+          "C'est noté !",
+          "J'ai noté que tu as noté."
+        ],
+        "it": [
+          "Solo un avvertimento...",
+          "Sì?",
+          "Sento cambiare i venti, molto a sud.",
+          "Stanno diventando più veloci e più aspri. Nulla di cui preoccuparsi adesso,",
+          "ma più avanti potremmo avere problemi.",
+          "Ricevuto!",
+          "Ricevuto che hai ricevuto."
+        ],
+        "ja": [
+          "早めに言っておくけど…",
+          "何？",
+          "南の方で 風が変わってる。",
+          "より早く強くなってる。 今は心配いらないが、",
+          "後で向かい風に 遭うかもしれない。",
+          "了解！",
+          "了解を了解した。"
+        ],
+        "ko": [
+          "그냥 초기에 경고하는 거지만...",
+          "음?",
+          "남쪽 아주 멀리서 바람이 변하고 있어.",
+          "더 빨라지고 거칠어지고 있지. 지금은 걱정할 정도는 아니지만,",
+          "나중엔 역풍을 맞을 수도 있어.",
+          "알아 둘게!",
+          "나도 그걸 알아 두지."
+        ],
+        "pt-br": [
+          "Só um aviso antecipado...",
+          "Sim?",
+          "Estou sentindo uma mudança nos ventos, bem ao sul.",
+          "Eles estão ficando mais rápidos e mais fortes. Nada com que eu me preocuparia agora,",
+          "mas talvez enfrentemos problemas mais tarde.",
+          "Anotado!",
+          "Anotado que você anotou."
+        ],
+        "ru": [
+          "Просто предварительное предупреждение...",
+          "Да?",
+          "Я чувствую перемену ветров, далеко на юге.",
+          "Они становятся быстрее и резче. Пока ничего, о чем стоило бы беспокоиться,",
+          "но потом мы можем столкнуться с трудностями.",
+          "Принято!",
+          "Принято, что ты приняла."
+        ],
+        "s-cn": [
+          "先提醒你一声……",
+          "怎么了？",
+          "我感觉遥远的南方，风势正在变化。",
+          "风越来越急，越来越乱。暂时我们还不用担心，",
+          "但之后可能会碰上麻烦。",
+          "记下了！",
+          "你记下了，我也记下了。"
+        ],
+        "t-cn": [
+          "先提醒你一聲……",
+          "怎麼了？",
+          "我感覺遙遠的南方，風勢正在變化。",
+          "風越來越急，越來越亂。暫時我們還不用擔心，",
+          "但之後可能會碰上麻煩。",
+          "記下了！",
+          "你記下了，我也記下了。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

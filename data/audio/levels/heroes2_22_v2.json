@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Walls did not contain them, Ratleigh, so behold: we now put Dragons to this use.",
               "Fire will hold them, as we move onward to raise the final pillars of my design."
             ],
+            "de": [
+              "Mauern haben sie nicht aufgehalten, Ratleigh, darum sieh her: Nun setzen wir Drachen gegen sie ein.",
+              "Feuer wird sie aufhalten, während wir weiterziehen, um die letzten Säulen meines Plans zu errichten."
+            ],
+            "es": [
+              "Las paredes no los contenían, Ratleigh, así que mira: ahora usamos dragones para esto.",
+              "El fuego los contendrá, mientras avanzamos para levantar los últimos pilares de mi plan."
+            ],
+            "fr": [
+              "Les murs n'ont pas suffi à les contenir, Ratleigh, alors vois plutôt : ce sont désormais les dragons qui s'en chargent.",
+              "Le feu les retiendra, pendant que nous allons mettre en place les derniers piliers de mon plan."
+            ],
+            "it": [
+              "I muri non li contenevano, Ratleigh, dunque guarda qua: ora usiamo i draghi.",
+              "Il fuoco li terrà a bada, mentre andiamo avanti a innalzare gli ultimi pilastri del mio piano."
+            ],
+            "ja": [
+              "ラトレイ、壁で押さえられぬなら 次はドラゴンを使えばよい。",
+              "炎でヤツらを止めるのだ。 ここはお前に任せる。 ではさらばだ！"
+            ],
+            "ko": [
+              "벽으로는 저들을 막지 못했지, 래틀리. 그러니 보게. 이젠 드래곤을 이렇게 써먹을 테니.",
+              "불길이 놈들을 붙잡아두겠지. 그동안 우리는 앞으로 나아가 내 계획의 마지막 기둥을 세우는 거야."
+            ],
             "pt-br": [
               "Muros não os contiveram, Ratleigh, então veja: agora usamos Dragões pra isso.",
               "O fogo vai segurá-los, enquanto seguimos adiante para erguer os últimos pilares do meu plano."
+            ],
+            "ru": [
+              "Стены их не сдерживали, Рэтли, так что узри: теперь мы используем для этого драконов.",
+              "Огонь их удержит, а мы двинемся дальше, чтобы возвести последние столпы моего плана."
+            ],
+            "s-cn": [
+              "拉特利，既然高墙拦不住他们，那就看好了： 这回我们用龙。",
+              "烈火自会拦住他们，我们则继续前进， 逐一立起我蓝图的最后几根支柱。"
+            ],
+            "t-cn": [
+              "拉特利，既然高牆攔不住他們， 那就看好了：這回我們用龍。",
+              "烈火自會攔住他們，我們則繼續前進，逐一立起我藍圖的最後幾根支柱。"
             ]
           },
           "provenance": {
@@ -48,8 +93,35 @@
             "en": [
               "So you're telling me he's getting away from us *again*?"
             ],
+            "de": [
+              "Du willst mir also sagen, dass er uns schon wieder entkommt?"
+            ],
+            "es": [
+              "¿Entonces me estás diciendo que se nos vuelve a escapar?"
+            ],
+            "fr": [
+              "Donc tu es en train de me dire qu'il nous échappe encore une fois ?"
+            ],
+            "it": [
+              "Quindi mi stai dicendo che ci sta sfuggendo di nuovo?"
+            ],
+            "ja": [
+              "またアイツを 取り逃がしちまうのか？"
+            ],
+            "ko": [
+              "또 우리 손에서 빠져나간 건가?"
+            ],
             "pt-br": [
-              "Então você tá me dizendo que ele tá escapando *de novo* da gente?"
+              "Então você tá me dizendo que ele tá escapando de novo da gente?"
+            ],
+            "ru": [
+              "То есть ты хочешь сказать, что он снова от нас ускользает?"
+            ],
+            "s-cn": [
+              "所以你的意思是，我们居然又让他跑了？"
+            ],
+            "t-cn": [
+              "所以你的意思是，我們居然又讓他跑了？"
             ]
           },
           "provenance": {
@@ -70,8 +142,35 @@
             "en": [
               "I prefer to think of it as, we're closing in on him!"
             ],
+            "de": [
+              "Ich sehe das lieber so: Wir kommen ihm immer näher!"
+            ],
+            "es": [
+              "Prefiero pensar que cada vez estamos más cerca de atraparlo."
+            ],
+            "fr": [
+              "Je préfère voir ça comme ça : on se rapproche de lui !"
+            ],
+            "it": [
+              "Preferisco pensare che ci stiamo avvicinando a lui!"
+            ],
+            "ja": [
+              "ヤツを追い詰めてるって ことだよ！"
+            ],
+            "ko": [
+              "난 우리가 점점 포위하고 있다고 생각할래!"
+            ],
             "pt-br": [
               "Prefiro pensar que estamos cada vez mais perto dele!"
+            ],
+            "ru": [
+              "Я предпочитаю думать, что мы настигаем его!"
+            ],
+            "s-cn": [
+              "我更愿意说，我们离抓住他更近了！"
+            ],
+            "t-cn": [
+              "我更願意說，我們離抓住他更近了！"
             ]
           },
           "provenance": {
@@ -92,8 +191,35 @@
             "en": [
               "Huh?"
             ],
+            "de": [
+              "Hä?"
+            ],
+            "es": [
+              "¿Eh?"
+            ],
+            "fr": [
+              "Hein ?"
+            ],
+            "it": [
+              "Eh?"
+            ],
+            "ja": [
+              "えっ？"
+            ],
+            "ko": [
+              "응?"
+            ],
             "pt-br": [
               "Hã?"
+            ],
+            "ru": [
+              "А?"
+            ],
+            "s-cn": [
+              "怎么讲？"
+            ],
+            "t-cn": [
+              "怎麼講？"
             ]
           },
           "provenance": {
@@ -115,9 +241,45 @@
               "Across the canyon, he'll be in a place where he has no friends,",
               "and his rank means nothing."
             ],
+            "de": [
+              "Auf der anderen Seite Schlucht ist er in einer Gegend, wo er keine Freunde hat,",
+              "und sein Rang bedeutet dort gar nichts."
+            ],
+            "es": [
+              "Al otro lado del cañón, estará en un lugar donde no tiene amigos,",
+              "y su rango no significa nada."
+            ],
+            "fr": [
+              "De l'autre côté du canyon, il sera dans un endroit où il n'a aucun ami,",
+              "et son rang ne voudra plus rien dire."
+            ],
+            "it": [
+              "Superato il canyon, si troverà in un posto dove non ha amici,",
+              "e il suo rango non conterà nulla."
+            ],
+            "ja": [
+              "峡谷を越えれば アイツに味方はいない。",
+              "兵士も意味がなくなる、"
+            ],
+            "ko": [
+              "협곡 건너편이잖아. 치안판사는 자길 아는 사람이 없는 곳에 있는 셈이야.",
+              "그의 지위가 아무 의미도 없단 뜻이지."
+            ],
             "pt-br": [
               "Do outro lado do desfiladeiro, ele vai estar num lugar onde não tem amigos,",
               "e sua patente não significa nada."
+            ],
+            "ru": [
+              "За каньоном он окажется там где у него не будет друзей,",
+              "а его титул ничего не значит."
+            ],
+            "s-cn": [
+              "过了峡谷，他可就没朋友能帮忙了，",
+              "他的官衔也不管用了。"
+            ],
+            "t-cn": [
+              "過了峽谷，他可就沒朋友能幫忙了，",
+              "他的官銜也不管用了。"
             ]
           },
           "provenance": {
@@ -139,8 +301,35 @@
             "en": [
               "Our status as emissaries of the King might also mean nothing."
             ],
+            "de": [
+              "Unser Status als Gesandte des Königs könnte dort allerdings ebenfalls nichts bedeuten."
+            ],
+            "es": [
+              "Nuestra condición como emisarios del rey quizá tampoco signifique nada allí."
+            ],
+            "fr": [
+              "Notre statut d'émissaires du roi ne voudra peut-être rien dire non plus."
+            ],
+            "it": [
+              "Anche il nostro status di emissari del Re potrebbe non significare nulla."
+            ],
+            "ja": [
+              "王の使者という ワシらの立場も意味をなくすぞ。"
+            ],
+            "ko": [
+              "국왕 폐하의 밀사라는 우리 신분도 아무 소용 없을지 모르지."
+            ],
             "pt-br": [
               "Nosso status de emissários do Rei também pode não valer nada."
+            ],
+            "ru": [
+              "Наш статус посланников короля тоже может ничего не значить."
+            ],
+            "s-cn": [
+              "我们国王使者的身份恐怕也一样不管用。"
+            ],
+            "t-cn": [
+              "我們國王使者的身份恐怕也一樣不管用。"
             ]
           },
           "provenance": {
@@ -161,8 +350,35 @@
             "en": [
               "We'll be diplomats! They'll spread the carpets for us. The *nice* carpets!"
             ],
+            "de": [
+              "Wir werden Diplomaten! Die rollen uns die roten Teppiche aus. Und zwar die schönen!"
+            ],
+            "es": [
+              "¡Seremos diplomáticos! ¡Nos recibirán con alfombras y todo! ¡Y de las buenas!"
+            ],
+            "fr": [
+              "Nous serons des diplomates ! Ils nous dérouleront le tapis rouge. Le plus beau tapis rouge !"
+            ],
+            "it": [
+              "Saremo diplomatici! Per noi stenderanno dei tappeti. Quelli belli!"
+            ],
+            "ja": [
+              "外交官になろう！ 赤絨毯で 迎えてもらえるよ！"
+            ],
+            "ko": [
+              "우린 외교관이 되는 거야! 사람들이 우릴 위해 카펫을 깔아줄걸! 좋은 걸로!"
+            ],
             "pt-br": [
               "Vamos ser diplomatas! Vão estender o tapete pra gente. Os bons!"
+            ],
+            "ru": [
+              "Будем дипломатами! Перед нами расстелют красную дорожку. Красивую!"
+            ],
+            "s-cn": [
+              "那我们就当外交官！他们还不得铺红毯迎接咱们！还得是好的红毯！"
+            ],
+            "t-cn": [
+              "那我們就當外交官！ 他們還不得鋪紅毯迎接咱們！還得是好的紅毯！"
             ]
           },
           "provenance": {
@@ -183,8 +399,35 @@
             "en": [
               "Before we can step into our grand new careers, we'll have to get out of this trap."
             ],
+            "de": [
+              "Bevor wir uns unseren glänzenden neuen Karrieren widmen, müssen wir erst dieser Falle entkommen."
+            ],
+            "es": [
+              "Antes de empezar nuestras nuevas carreras, tendremos que salir de esta trampa."
+            ],
+            "fr": [
+              "Avant de débuter nos nouvelles carrières, il va falloir sortir de ce piège."
+            ],
+            "it": [
+              "Prima di iniziare la nostra nuova carriera, dovremo uscire da questa trappola."
+            ],
+            "ja": [
+              "外交官デビューの前に まずこの罠から出ないとな。"
+            ],
+            "ko": [
+              "새로운 경력을 시작하기 전에 이 함정에서 빠져나와야 해."
+            ],
             "pt-br": [
               "Antes de começarmos nossas novas carreiras, vamos precisar sair dessa armadilha."
+            ],
+            "ru": [
+              "Прежде чем начинать новую карьеру, нам надо выбраться из этой ловушки."
+            ],
+            "s-cn": [
+              "想当风风光光的外交官，也得先从这个陷阱里脱身。"
+            ],
+            "t-cn": [
+              "想當風風光光的外交官，也得先從這個陷阱裡脫身。"
             ]
           },
           "provenance": {
@@ -213,10 +456,82 @@
           "We'll be diplomats! They'll spread the carpets for us. The *nice* carpets!",
           "Before we can step into our grand new careers, we'll have to get out of this trap."
         ],
+        "de": [
+          "Mauern haben sie nicht aufgehalten, Ratleigh, darum sieh her: Nun setzen wir Drachen gegen sie ein.",
+          "Feuer wird sie aufhalten, während wir weiterziehen, um die letzten Säulen meines Plans zu errichten.",
+          "Du willst mir also sagen, dass er uns schon wieder entkommt?",
+          "Ich sehe das lieber so: Wir kommen ihm immer näher!",
+          "Hä?",
+          "Auf der anderen Seite Schlucht ist er in einer Gegend, wo er keine Freunde hat,",
+          "und sein Rang bedeutet dort gar nichts.",
+          "Unser Status als Gesandte des Königs könnte dort allerdings ebenfalls nichts bedeuten.",
+          "Wir werden Diplomaten! Die rollen uns die roten Teppiche aus. Und zwar die schönen!",
+          "Bevor wir uns unseren glänzenden neuen Karrieren widmen, müssen wir erst dieser Falle entkommen."
+        ],
+        "es": [
+          "Las paredes no los contenían, Ratleigh, así que mira: ahora usamos dragones para esto.",
+          "El fuego los contendrá, mientras avanzamos para levantar los últimos pilares de mi plan.",
+          "¿Entonces me estás diciendo que se nos vuelve a escapar?",
+          "Prefiero pensar que cada vez estamos más cerca de atraparlo.",
+          "¿Eh?",
+          "Al otro lado del cañón, estará en un lugar donde no tiene amigos,",
+          "y su rango no significa nada.",
+          "Nuestra condición como emisarios del rey quizá tampoco signifique nada allí.",
+          "¡Seremos diplomáticos! ¡Nos recibirán con alfombras y todo! ¡Y de las buenas!",
+          "Antes de empezar nuestras nuevas carreras, tendremos que salir de esta trampa."
+        ],
+        "fr": [
+          "Les murs n'ont pas suffi à les contenir, Ratleigh, alors vois plutôt : ce sont désormais les dragons qui s'en chargent.",
+          "Le feu les retiendra, pendant que nous allons mettre en place les derniers piliers de mon plan.",
+          "Donc tu es en train de me dire qu'il nous échappe encore une fois ?",
+          "Je préfère voir ça comme ça : on se rapproche de lui !",
+          "Hein ?",
+          "De l'autre côté du canyon, il sera dans un endroit où il n'a aucun ami,",
+          "et son rang ne voudra plus rien dire.",
+          "Notre statut d'émissaires du roi ne voudra peut-être rien dire non plus.",
+          "Nous serons des diplomates ! Ils nous dérouleront le tapis rouge. Le plus beau tapis rouge !",
+          "Avant de débuter nos nouvelles carrières, il va falloir sortir de ce piège."
+        ],
+        "it": [
+          "I muri non li contenevano, Ratleigh, dunque guarda qua: ora usiamo i draghi.",
+          "Il fuoco li terrà a bada, mentre andiamo avanti a innalzare gli ultimi pilastri del mio piano.",
+          "Quindi mi stai dicendo che ci sta sfuggendo di nuovo?",
+          "Preferisco pensare che ci stiamo avvicinando a lui!",
+          "Eh?",
+          "Superato il canyon, si troverà in un posto dove non ha amici,",
+          "e il suo rango non conterà nulla.",
+          "Anche il nostro status di emissari del Re potrebbe non significare nulla.",
+          "Saremo diplomatici! Per noi stenderanno dei tappeti. Quelli belli!",
+          "Prima di iniziare la nostra nuova carriera, dovremo uscire da questa trappola."
+        ],
+        "ja": [
+          "ラトレイ、壁で押さえられぬなら 次はドラゴンを使えばよい。",
+          "炎でヤツらを止めるのだ。 ここはお前に任せる。 ではさらばだ！",
+          "またアイツを 取り逃がしちまうのか？",
+          "ヤツを追い詰めてるって ことだよ！",
+          "えっ？",
+          "峡谷を越えれば アイツに味方はいない。",
+          "兵士も意味がなくなる、",
+          "王の使者という ワシらの立場も意味をなくすぞ。",
+          "外交官になろう！ 赤絨毯で 迎えてもらえるよ！",
+          "外交官デビューの前に まずこの罠から出ないとな。"
+        ],
+        "ko": [
+          "벽으로는 저들을 막지 못했지, 래틀리. 그러니 보게. 이젠 드래곤을 이렇게 써먹을 테니.",
+          "불길이 놈들을 붙잡아두겠지. 그동안 우리는 앞으로 나아가 내 계획의 마지막 기둥을 세우는 거야.",
+          "또 우리 손에서 빠져나간 건가?",
+          "난 우리가 점점 포위하고 있다고 생각할래!",
+          "응?",
+          "협곡 건너편이잖아. 치안판사는 자길 아는 사람이 없는 곳에 있는 셈이야.",
+          "그의 지위가 아무 의미도 없단 뜻이지.",
+          "국왕 폐하의 밀사라는 우리 신분도 아무 소용 없을지 모르지.",
+          "우린 외교관이 되는 거야! 사람들이 우릴 위해 카펫을 깔아줄걸! 좋은 걸로!",
+          "새로운 경력을 시작하기 전에 이 함정에서 빠져나와야 해."
+        ],
         "pt-br": [
           "Muros não os contiveram, Ratleigh, então veja: agora usamos Dragões pra isso.",
           "O fogo vai segurá-los, enquanto seguimos adiante para erguer os últimos pilares do meu plano.",
-          "Então você tá me dizendo que ele tá escapando *de novo* da gente?",
+          "Então você tá me dizendo que ele tá escapando de novo da gente?",
           "Prefiro pensar que estamos cada vez mais perto dele!",
           "Hã?",
           "Do outro lado do desfiladeiro, ele vai estar num lugar onde não tem amigos,",
@@ -224,6 +539,42 @@
           "Nosso status de emissários do Rei também pode não valer nada.",
           "Vamos ser diplomatas! Vão estender o tapete pra gente. Os bons!",
           "Antes de começarmos nossas novas carreiras, vamos precisar sair dessa armadilha."
+        ],
+        "ru": [
+          "Стены их не сдерживали, Рэтли, так что узри: теперь мы используем для этого драконов.",
+          "Огонь их удержит, а мы двинемся дальше, чтобы возвести последние столпы моего плана.",
+          "То есть ты хочешь сказать, что он снова от нас ускользает?",
+          "Я предпочитаю думать, что мы настигаем его!",
+          "А?",
+          "За каньоном он окажется там где у него не будет друзей,",
+          "а его титул ничего не значит.",
+          "Наш статус посланников короля тоже может ничего не значить.",
+          "Будем дипломатами! Перед нами расстелют красную дорожку. Красивую!",
+          "Прежде чем начинать новую карьеру, нам надо выбраться из этой ловушки."
+        ],
+        "s-cn": [
+          "拉特利，既然高墙拦不住他们，那就看好了： 这回我们用龙。",
+          "烈火自会拦住他们，我们则继续前进， 逐一立起我蓝图的最后几根支柱。",
+          "所以你的意思是，我们居然又让他跑了？",
+          "我更愿意说，我们离抓住他更近了！",
+          "怎么讲？",
+          "过了峡谷，他可就没朋友能帮忙了，",
+          "他的官衔也不管用了。",
+          "我们国王使者的身份恐怕也一样不管用。",
+          "那我们就当外交官！他们还不得铺红毯迎接咱们！还得是好的红毯！",
+          "想当风风光光的外交官，也得先从这个陷阱里脱身。"
+        ],
+        "t-cn": [
+          "拉特利，既然高牆攔不住他們， 那就看好了：這回我們用龍。",
+          "烈火自會攔住他們，我們則繼續前進，逐一立起我藍圖的最後幾根支柱。",
+          "所以你的意思是，我們居然又讓他跑了？",
+          "我更願意說，我們離抓住他更近了！",
+          "怎麼講？",
+          "過了峽谷，他可就沒朋友能幫忙了，",
+          "他的官銜也不管用了。",
+          "我們國王使者的身份恐怕也一樣不管用。",
+          "那我們就當外交官！ 他們還不得鋪紅毯迎接咱們！還得是好的紅毯！",
+          "想當風風光光的外交官，也得先從這個陷阱裡脫身。"
         ]
       },
       "silentCues": [],

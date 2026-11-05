@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -34,6 +43,90 @@
               "but it's easy to figure out, in contrast to the earlier revision;",
               "so it feels more like a satisfying piece of ending punctuation than a difficult task that takes over the level."
             ],
+            "de": [
+              "Hier haben wir die Zentralkammer von 5x5 auf 7x7 vergrößert. Dadurch wird der Hauptteil des Rätsels leichter, und hier ist er vielleicht sogar zu leicht.",
+              "Mir war der Lösungsweg zu offensichtlich; beim Spielen habe ich einfach gedacht:",
+              "„Okay, ich habe die vorgegebenen Schritte abgearbeitet und damit das Level geschafft. Na und?“",
+              "Dieses Gefühl wollen wir möglichst vermeiden, denn das hier ist ein Spiel und keine Hausaufgabe.",
+              "Durch die geschlossene Außenwand lassen sich die Goblins nicht mehr so leicht per Spiegel versetzen. Ein völliges Chaos kann man also nicht mehr anrichten;",
+              "aber man kann eine der Inseln freiräumen, im Osten oder im Süden,",
+              "und dann den anderen Goblin per Spiegel auf diese Insel versetzen,",
+              "das grundlegende Problem besteht also weiterhin –",
+              "die Situation ist aber besser, weil man die Goblins nicht mehr an beliebige chaotische Stellen in der Mitte teleportieren kann.",
+              "Auch diese Version hat einen „überraschenden letzten Schritt“, bei dem man den Drachen ertränkt,",
+              "aber darauf kommt man leicht, anders als in der vorherigen Fassung;",
+              "dadurch wirkt es eher wie ein befriedigender Schlusspunkt, statt wie eine schwierige Aufgabe, die das ganze Level dominiert."
+            ],
+            "es": [
+              "Aquí hemos pasado de una cámara central de 5x5 a una de 7x7. Esto hace que la parte principal del puzle sea más fácil, y quizá resulte incluso demasiado fácil.",
+              "A mí me pareció excesivamente directo; como jugador, solo sentí lo siguiente:",
+              "«Vale, he seguido los pasos que me indicaste, así que gano el nivel. ¿Y ahora qué?».",
+              "Queremos evitar eso siempre que podamos, porque esto es un juego, no los deberes de clase.",
+              "Con una pared exterior tan sólida, no es tan fácil teletransportar a los goblins, así que ya no puedes causar un desastre tremendo,",
+              "pero puedes despejar una de las islas al este o al sur",
+              "y luego teletransportar al otro goblin con el espejo hasta esa posición,",
+              "así que el problema básico sigue existiendo...",
+              "Sin embargo, la situación mejora, porque no puedes teletransportar goblins a lugares arbitrarios y desordenados en el medio.",
+              "Esta versión también tiene un «último paso sorpresa» que consiste en ahogar al dragón,",
+              "pero es fácil de averiguar, a diferencia de la revisión anterior;",
+              "así que es más parecido a una puntuación final satisfactoria que a una tarea difícil que se adueña del nivel."
+            ],
+            "fr": [
+              "Ici, on est passé d'une chambre centrale en 5x5 à du 7x7. Cela rend la partie principale de l'énigme plus facile, et peut-être même trop facile.",
+              "Pour moi, c'était trop direct ; en tant que joueur, je me disais",
+              "« OK, j'ai suivi les étapes que vous m'avez indiquées, donc j'ai terminé le niveau. Et maintenant ? »",
+              "Nous voulons éviter ça autant que possible, parce que c'est un jeu, pas un devoir à rendre.",
+              "Grâce au mur extérieur solide, il n'est plus aussi facile de refléter les gobelins et donc de mettre le niveau sens dessus dessous.",
+              "Vous pouvez quand même vous rendre sur l'une des îles à l'est ou au sud",
+              "puis y refléter l'autre gobelin,",
+              "donc le problème de base est toujours là...",
+              "mais c'est mieux, parce qu'on ne peut plus refléter les gobelins dans des endroits arbitraires au milieu.",
+              "Cette version a aussi une « dernière étape surprise » qui consiste à noyer le dragon,",
+              "mais c'est facile à comprendre, contrairement à la version précédente ;",
+              "du coup, ça devient une touche finale satisfaisante, plutôt qu'une tâche difficile qui prend le dessus sur le niveau."
+            ],
+            "it": [
+              "Qui siamo passati da una camera centrale 5x5 a 7x7. Questo rende più facile la parte principale del rompicapo, e forse qui è troppo facile.",
+              "A me sembrava eccessivamente diretto: nei panni del giocatore, sentivo solo",
+              "\"Ok, ho fatto i passaggi che mi hai detto di fare, quindi ho vinto il livello. E allora?\".",
+              "Vogliamo evitare quella sensazione ogni volta che possiamo, perché questo è un gioco, non un compito a casa.",
+              "A causa del solido muro esterno, è meno facile specchiare i goblin, quindi non puoi più fare un disastro completo.",
+              "Ma puoi liberare una delle isole a est o a sud",
+              "e poi specchiare l'altro goblin su quell'isola,",
+              "quindi il problema di base esiste ancora...",
+              "ma la situazione è migliorata, perché non puoi riflettere i goblin in posti casuali e disordinati al centro.",
+              "Anche questa versione ha un \"colpo di scena finale\" con l'annegamento del drago,",
+              "ma è facile da capire, al contrario della revisione precedente.",
+              "Quindi sembra più una punteggiatura finale soddisfacente che un compito difficile che si prende tutto il livello."
+            ],
+            "ja": [
+              "ここでは中央の部屋を5×5から7×7へ広げた。 これによってパズルの中心部分は簡単になり、 場合によっては簡単すぎるほどだ。",
+              "俺には、あまりにも一直線に感じられた。 プレイヤーとしては、ただこう思ってしまう。",
+              "「言われた通りの手順は踏んだので、 これで勝ったも同然だ」",
+              "できる限り、こういう状態は避けたい。 これはゲームであって、 宿題ではないからだ。",
+              "外側を壁で囲ったことで、ゴブリンを 鏡で反射させるのも簡単ではない。",
+              "ただし、東側か南側の位置を空ければ、",
+              "そこへもう一体のゴブリンを 鏡でその配置に移動させることができる。",
+              "根本的な問題が、 まだこのステージには存在する。",
+              "しかし状況が改善され、ゴブリンを 中央にある任意かつ乱雑した場所に 鏡で移動させることができないからだ。",
+              "このバージョンにも、最後にドラゴンを 溺れさせるというサプライズがある。",
+              "でも、以前の版とは違って、 解き方は分かりやすい。",
+              "ただ、簡単なので、終わりを締める ちょっとした句読点としては、 こちらのほうがうまく機能している。"
+            ],
+            "ko": [
+              "여기서는 중앙 방이 5x5에서 7x7로 바뀌었어. 덕분에 퍼즐의 주요 부분은 더 쉬워졌고, 어쩌면 너무 쉬워졌을 수도 있지.",
+              "내게는 지나치게 단순하게 느껴졌어. 플레이어로서는 그저 이런 느낌이었지.",
+              "\"좋아. 시키는 대로 했으니 레벨을 깼네. 그래서 뭐?\"",
+              "우린 가능한 한 그런 느낌을 주는 걸 피하고 싶어. 이건 게임이지 숙제가 아니니까.",
+              "외벽이 막혀 있어서 고블린을 거울로 옮기기가 전처럼 쉽진 않기 때문에 더 이상 완전 엉망진창이 되진 않지.",
+              "하지만 동쪽이나 남쪽의 섬 하나를 비울 수는 있어.",
+              "그런 다음 다른 고블린을 그 섬으로 거울을 통해 옮길 수 있지.",
+              "그래서 기본적인 문제는 여전히 남아 있지.",
+              "하지만 중앙의 아무 곳으로나 고블린을 옮겨서 엉망으로 만들 수는 없으니 상황은 나아졌어.",
+              "이 버전에도 드래곤을 물에 빠뜨리는 \"깜짝 마지막 단계\"가 있지만",
+              "하지만 이전 버전과 달리 쉽게 알아낼 수 있어.",
+              "그래서 레벨 전체를 집어삼키는 어려운 과제보다는 기분 좋게 마침표를 찍는 마무리처럼 느껴지지."
+            ],
             "pt-br": [
               "Aqui, passamos de uma câmara central 5x5 para 7x7. Isso torna a parte principal do quebra-cabeça mais fácil, e talvez aqui fique fácil demais.",
               "Para mim, pareceu direto demais; como jogador, eu só sentia:",
@@ -47,23 +140,65 @@
               "Esta versão também tem uma “última etapa surpresa” de afogar o dragão,",
               "mas é fácil de descobrir, ao contrário da revisão anterior;",
               "então parece mais um ponto final satisfatório do que uma tarefa difícil que toma conta do nível."
+            ],
+            "ru": [
+              "Здесь центральная комната выросла с 5x5 до 7x7. Это облегчает основную часть головоломки, и, пожалуй, тут уже слишком легко.",
+              "Мне это показалось слишком прямолинейным; как игрок я просто думал:",
+              "«Ладно, я сделал шаги, которые ты мне сказал, значит, я прошёл уровень. И что?»",
+              "Мы хотим избегать такого по возможности, потому что это игра, а не домашнее задание.",
+              "Из-за сплошной внешней стены отзеркаливать гоблинов не так просто, так что устроить полный бардак уже не выйдет;",
+              "но можно очистить один из островов на востоке или юге,",
+              "а потом отзеркалить другого гоблина на этот остров.",
+              "Так что основная проблема всё ещё сохраняется —",
+              "но ситуация лучше, потому что вы не можете отзеркаливать Гоблинов в произвольные захламленные места посередине.",
+              "В этой версии тоже есть «сюрпризный последний шаг» — утопить дракона,",
+              "но это легко понять, в отличие от предыдущей версии;",
+              "так что это больше похоже на приятную завершающую точку, чем на трудную задачу, которая перетягивает на себя весь уровень."
+            ],
+            "s-cn": [
+              "这一版把中央区域从5×5格扩大到7×7格。 谜题主体因此容易了些，也许有些过于容易。",
+              "在我看来，流程过于直白了。作为玩家，我只会想：",
+              "“好吧，我照你说的步骤做完了，所以就过关了。那又怎样？”",
+              "我们要尽量避免这种感受，因为这是游戏，不是家庭作业。",
+              "因为外墙是实心的，用镜子传送哥布林没那么容易， 所以你再也没法把场面搞得一团糟了；",
+              "但你可以先清空东侧或南侧的一座岛，",
+              "再把另一只哥布林通过镜子传送到那座岛上，",
+              "所以根本问题仍然存在……",
+              "不过情况已经有所改善，因为你没法把哥布林传到中央随便哪个位置。",
+              "这一版也有个“出人意料的最后一步”：淹死那条龙；",
+              "不过，比起先前的版本，这一步很容易想明白；",
+              "所以，这一步更像是给关卡画上一个圆满的句号， 而不是一道喧宾夺主的难题。"
+            ],
+            "t-cn": [
+              "這一版把中央區域從5×5格擴大到7×7格。 謎題主體因此容易了些，也許有些過於容易。",
+              "在我看來，流程過於直白了。 作為玩家，我只會想：",
+              "「好吧，我照你說的步驟做完了，所以就過關了。那又怎樣？」",
+              "我們要儘量避免這種感受，因為這是遊戲，不是家庭作業。",
+              "因為外牆是實心的，用鏡子傳送哥布林沒那麼容易， 所以你再也沒法把場面搞得一團糟了；",
+              "但你可以先清空東側或南側的一座島，",
+              "再把另一隻哥布林通過鏡子傳送到那座島上，",
+              "所以根本問題仍然存在……",
+              "不過情況已經有所改善， 因為你沒法把哥布林傳到中央隨便哪個位置。",
+              "這一版也有個「出人意料的最後一步」：淹死那條龍；",
+              "不過，比起先前的版本，這一步很容易想明白；",
+              "所以，這一步更像是給關卡畫上一個圓滿的句號， 而不是一道喧賓奪主的難題。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_di_quad_torch_v1_1__director.wav",
             "subtitleCueLines": [
-              13519,
-              13524,
-              13528,
-              13532,
-              13537,
+              13529,
+              13534,
+              13538,
               13542,
-              13546,
-              13550,
-              13553,
-              13558,
-              13562,
-              13566
+              13547,
+              13552,
+              13556,
+              13560,
+              13563,
+              13568,
+              13572,
+              13576
             ],
             "explicitAudioReference": null
           }
@@ -88,6 +223,90 @@
           "but it's easy to figure out, in contrast to the earlier revision;",
           "so it feels more like a satisfying piece of ending punctuation than a difficult task that takes over the level."
         ],
+        "de": [
+          "Hier haben wir die Zentralkammer von 5x5 auf 7x7 vergrößert. Dadurch wird der Hauptteil des Rätsels leichter, und hier ist er vielleicht sogar zu leicht.",
+          "Mir war der Lösungsweg zu offensichtlich; beim Spielen habe ich einfach gedacht:",
+          "„Okay, ich habe die vorgegebenen Schritte abgearbeitet und damit das Level geschafft. Na und?“",
+          "Dieses Gefühl wollen wir möglichst vermeiden, denn das hier ist ein Spiel und keine Hausaufgabe.",
+          "Durch die geschlossene Außenwand lassen sich die Goblins nicht mehr so leicht per Spiegel versetzen. Ein völliges Chaos kann man also nicht mehr anrichten;",
+          "aber man kann eine der Inseln freiräumen, im Osten oder im Süden,",
+          "und dann den anderen Goblin per Spiegel auf diese Insel versetzen,",
+          "das grundlegende Problem besteht also weiterhin –",
+          "die Situation ist aber besser, weil man die Goblins nicht mehr an beliebige chaotische Stellen in der Mitte teleportieren kann.",
+          "Auch diese Version hat einen „überraschenden letzten Schritt“, bei dem man den Drachen ertränkt,",
+          "aber darauf kommt man leicht, anders als in der vorherigen Fassung;",
+          "dadurch wirkt es eher wie ein befriedigender Schlusspunkt, statt wie eine schwierige Aufgabe, die das ganze Level dominiert."
+        ],
+        "es": [
+          "Aquí hemos pasado de una cámara central de 5x5 a una de 7x7. Esto hace que la parte principal del puzle sea más fácil, y quizá resulte incluso demasiado fácil.",
+          "A mí me pareció excesivamente directo; como jugador, solo sentí lo siguiente:",
+          "«Vale, he seguido los pasos que me indicaste, así que gano el nivel. ¿Y ahora qué?».",
+          "Queremos evitar eso siempre que podamos, porque esto es un juego, no los deberes de clase.",
+          "Con una pared exterior tan sólida, no es tan fácil teletransportar a los goblins, así que ya no puedes causar un desastre tremendo,",
+          "pero puedes despejar una de las islas al este o al sur",
+          "y luego teletransportar al otro goblin con el espejo hasta esa posición,",
+          "así que el problema básico sigue existiendo...",
+          "Sin embargo, la situación mejora, porque no puedes teletransportar goblins a lugares arbitrarios y desordenados en el medio.",
+          "Esta versión también tiene un «último paso sorpresa» que consiste en ahogar al dragón,",
+          "pero es fácil de averiguar, a diferencia de la revisión anterior;",
+          "así que es más parecido a una puntuación final satisfactoria que a una tarea difícil que se adueña del nivel."
+        ],
+        "fr": [
+          "Ici, on est passé d'une chambre centrale en 5x5 à du 7x7. Cela rend la partie principale de l'énigme plus facile, et peut-être même trop facile.",
+          "Pour moi, c'était trop direct ; en tant que joueur, je me disais",
+          "« OK, j'ai suivi les étapes que vous m'avez indiquées, donc j'ai terminé le niveau. Et maintenant ? »",
+          "Nous voulons éviter ça autant que possible, parce que c'est un jeu, pas un devoir à rendre.",
+          "Grâce au mur extérieur solide, il n'est plus aussi facile de refléter les gobelins et donc de mettre le niveau sens dessus dessous.",
+          "Vous pouvez quand même vous rendre sur l'une des îles à l'est ou au sud",
+          "puis y refléter l'autre gobelin,",
+          "donc le problème de base est toujours là...",
+          "mais c'est mieux, parce qu'on ne peut plus refléter les gobelins dans des endroits arbitraires au milieu.",
+          "Cette version a aussi une « dernière étape surprise » qui consiste à noyer le dragon,",
+          "mais c'est facile à comprendre, contrairement à la version précédente ;",
+          "du coup, ça devient une touche finale satisfaisante, plutôt qu'une tâche difficile qui prend le dessus sur le niveau."
+        ],
+        "it": [
+          "Qui siamo passati da una camera centrale 5x5 a 7x7. Questo rende più facile la parte principale del rompicapo, e forse qui è troppo facile.",
+          "A me sembrava eccessivamente diretto: nei panni del giocatore, sentivo solo",
+          "\"Ok, ho fatto i passaggi che mi hai detto di fare, quindi ho vinto il livello. E allora?\".",
+          "Vogliamo evitare quella sensazione ogni volta che possiamo, perché questo è un gioco, non un compito a casa.",
+          "A causa del solido muro esterno, è meno facile specchiare i goblin, quindi non puoi più fare un disastro completo.",
+          "Ma puoi liberare una delle isole a est o a sud",
+          "e poi specchiare l'altro goblin su quell'isola,",
+          "quindi il problema di base esiste ancora...",
+          "ma la situazione è migliorata, perché non puoi riflettere i goblin in posti casuali e disordinati al centro.",
+          "Anche questa versione ha un \"colpo di scena finale\" con l'annegamento del drago,",
+          "ma è facile da capire, al contrario della revisione precedente.",
+          "Quindi sembra più una punteggiatura finale soddisfacente che un compito difficile che si prende tutto il livello."
+        ],
+        "ja": [
+          "ここでは中央の部屋を5×5から7×7へ広げた。 これによってパズルの中心部分は簡単になり、 場合によっては簡単すぎるほどだ。",
+          "俺には、あまりにも一直線に感じられた。 プレイヤーとしては、ただこう思ってしまう。",
+          "「言われた通りの手順は踏んだので、 これで勝ったも同然だ」",
+          "できる限り、こういう状態は避けたい。 これはゲームであって、 宿題ではないからだ。",
+          "外側を壁で囲ったことで、ゴブリンを 鏡で反射させるのも簡単ではない。",
+          "ただし、東側か南側の位置を空ければ、",
+          "そこへもう一体のゴブリンを 鏡でその配置に移動させることができる。",
+          "根本的な問題が、 まだこのステージには存在する。",
+          "しかし状況が改善され、ゴブリンを 中央にある任意かつ乱雑した場所に 鏡で移動させることができないからだ。",
+          "このバージョンにも、最後にドラゴンを 溺れさせるというサプライズがある。",
+          "でも、以前の版とは違って、 解き方は分かりやすい。",
+          "ただ、簡単なので、終わりを締める ちょっとした句読点としては、 こちらのほうがうまく機能している。"
+        ],
+        "ko": [
+          "여기서는 중앙 방이 5x5에서 7x7로 바뀌었어. 덕분에 퍼즐의 주요 부분은 더 쉬워졌고, 어쩌면 너무 쉬워졌을 수도 있지.",
+          "내게는 지나치게 단순하게 느껴졌어. 플레이어로서는 그저 이런 느낌이었지.",
+          "\"좋아. 시키는 대로 했으니 레벨을 깼네. 그래서 뭐?\"",
+          "우린 가능한 한 그런 느낌을 주는 걸 피하고 싶어. 이건 게임이지 숙제가 아니니까.",
+          "외벽이 막혀 있어서 고블린을 거울로 옮기기가 전처럼 쉽진 않기 때문에 더 이상 완전 엉망진창이 되진 않지.",
+          "하지만 동쪽이나 남쪽의 섬 하나를 비울 수는 있어.",
+          "그런 다음 다른 고블린을 그 섬으로 거울을 통해 옮길 수 있지.",
+          "그래서 기본적인 문제는 여전히 남아 있지.",
+          "하지만 중앙의 아무 곳으로나 고블린을 옮겨서 엉망으로 만들 수는 없으니 상황은 나아졌어.",
+          "이 버전에도 드래곤을 물에 빠뜨리는 \"깜짝 마지막 단계\"가 있지만",
+          "하지만 이전 버전과 달리 쉽게 알아낼 수 있어.",
+          "그래서 레벨 전체를 집어삼키는 어려운 과제보다는 기분 좋게 마침표를 찍는 마무리처럼 느껴지지."
+        ],
         "pt-br": [
           "Aqui, passamos de uma câmara central 5x5 para 7x7. Isso torna a parte principal do quebra-cabeça mais fácil, e talvez aqui fique fácil demais.",
           "Para mim, pareceu direto demais; como jogador, eu só sentia:",
@@ -101,6 +320,48 @@
           "Esta versão também tem uma “última etapa surpresa” de afogar o dragão,",
           "mas é fácil de descobrir, ao contrário da revisão anterior;",
           "então parece mais um ponto final satisfatório do que uma tarefa difícil que toma conta do nível."
+        ],
+        "ru": [
+          "Здесь центральная комната выросла с 5x5 до 7x7. Это облегчает основную часть головоломки, и, пожалуй, тут уже слишком легко.",
+          "Мне это показалось слишком прямолинейным; как игрок я просто думал:",
+          "«Ладно, я сделал шаги, которые ты мне сказал, значит, я прошёл уровень. И что?»",
+          "Мы хотим избегать такого по возможности, потому что это игра, а не домашнее задание.",
+          "Из-за сплошной внешней стены отзеркаливать гоблинов не так просто, так что устроить полный бардак уже не выйдет;",
+          "но можно очистить один из островов на востоке или юге,",
+          "а потом отзеркалить другого гоблина на этот остров.",
+          "Так что основная проблема всё ещё сохраняется —",
+          "но ситуация лучше, потому что вы не можете отзеркаливать Гоблинов в произвольные захламленные места посередине.",
+          "В этой версии тоже есть «сюрпризный последний шаг» — утопить дракона,",
+          "но это легко понять, в отличие от предыдущей версии;",
+          "так что это больше похоже на приятную завершающую точку, чем на трудную задачу, которая перетягивает на себя весь уровень."
+        ],
+        "s-cn": [
+          "这一版把中央区域从5×5格扩大到7×7格。 谜题主体因此容易了些，也许有些过于容易。",
+          "在我看来，流程过于直白了。作为玩家，我只会想：",
+          "“好吧，我照你说的步骤做完了，所以就过关了。那又怎样？”",
+          "我们要尽量避免这种感受，因为这是游戏，不是家庭作业。",
+          "因为外墙是实心的，用镜子传送哥布林没那么容易， 所以你再也没法把场面搞得一团糟了；",
+          "但你可以先清空东侧或南侧的一座岛，",
+          "再把另一只哥布林通过镜子传送到那座岛上，",
+          "所以根本问题仍然存在……",
+          "不过情况已经有所改善，因为你没法把哥布林传到中央随便哪个位置。",
+          "这一版也有个“出人意料的最后一步”：淹死那条龙；",
+          "不过，比起先前的版本，这一步很容易想明白；",
+          "所以，这一步更像是给关卡画上一个圆满的句号， 而不是一道喧宾夺主的难题。"
+        ],
+        "t-cn": [
+          "這一版把中央區域從5×5格擴大到7×7格。 謎題主體因此容易了些，也許有些過於容易。",
+          "在我看來，流程過於直白了。 作為玩家，我只會想：",
+          "「好吧，我照你說的步驟做完了，所以就過關了。那又怎樣？」",
+          "我們要儘量避免這種感受，因為這是遊戲，不是家庭作業。",
+          "因為外牆是實心的，用鏡子傳送哥布林沒那麼容易， 所以你再也沒法把場面搞得一團糟了；",
+          "但你可以先清空東側或南側的一座島，",
+          "再把另一隻哥布林通過鏡子傳送到那座島上，",
+          "所以根本問題仍然存在……",
+          "不過情況已經有所改善， 因為你沒法把哥布林傳到中央隨便哪個位置。",
+          "這一版也有個「出人意料的最後一步」：淹死那條龍；",
+          "不過，比起先前的版本，這一步很容易想明白；",
+          "所以，這一步更像是給關卡畫上一個圓滿的句號， 而不是一道喧賓奪主的難題。"
         ]
       },
       "silentCues": [],
@@ -122,7 +383,7 @@
             "source": "data-common/quad_torch_v1.entities"
           }
         ],
-        "subtitleLine": 13518,
+        "subtitleLine": 13528,
         "subtitleHeader": "::"
       }
     }

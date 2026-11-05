@@ -1,0 +1,509 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_tacking",
+    "audioKey": "skipping_stones_1050680",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_tacking"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 1050680,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_tacking",
+        "rule": "exact-reference",
+        "coordinates": [
+          9.0,
+          34.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_tacking",
+      "clips": [
+        {
+          "id": "ssnew_tacking_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 9.511125,
+          "src": "audio/clips/ssnew_tacking_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "You know how happy I am to follow your instructions.",
+              "You said go West, so I kept going West... but now, you know, I think we've overshot."
+            ],
+            "de": [
+              "Du weißt ja, wie gern ich deinen Anweisungen folge.",
+              "Du hast gesagt: nach Westen, also bin ich immer weiter nach Westen gegangen ... aber ich glaube, jetzt sind wir zu weit."
+            ],
+            "es": [
+              "Ya sabes lo mucho que me gusta seguir tus instrucciones.",
+              "Dijiste que fuera al oeste, así que seguí hacia el oeste... pero ahora creo que nos hemos pasado, ¿sabes?"
+            ],
+            "fr": [
+              "Tu sais à quel point j'aime suivre tes instructions.",
+              "Tu m'as dit d'aller vers l'ouest, alors j'ai continué vers l'ouest... mais là, tu vois, je crois qu'on est allés trop loin."
+            ],
+            "it": [
+              "Sai quanto mi faccia piacere seguire le tue istruzioni.",
+              "Hai detto di andare a ovest, e ho continuato ad andare a ovest... ma ora, sai, credo che siamo andati troppo oltre."
+            ],
+            "ja": [
+              "西に進めて よかったと思ったら",
+              "通りすぎちまった…"
+            ],
+            "ko": [
+              "네 지시를 따르는 게 얼마나 즐거운지 알잖아.",
+              "서쪽으로 가라고 했으니까, 계속 서쪽으로 갔지... 그런데 이제 보니, 너무 멀리 온 것 같아."
+            ],
+            "pt-br": [
+              "Você sabe como fico feliz em seguir suas instruções.",
+              "Você disse para ir para o oeste, então continuei indo para o oeste... mas agora, sabe, acho que fomos longe demais."
+            ],
+            "ru": [
+              "Ты же знаешь, с какой радостью я выполняю твои указания.",
+              "Ты сказал идти на запад, вот я и шла на запад... но теперь, знаешь, кажется, мы зашли слишком далеко."
+            ],
+            "s-cn": [
+              "你知道我有多乐意听从你的指令。",
+              "你说往西，我就一直往西走……可现在，我觉得我们走过头了。"
+            ],
+            "t-cn": [
+              "你知道我有多樂意聽從你的指令。",
+              "你說往西，我就一直往西走…… 可現在，我覺得我們走過頭了。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_tacking_1__sailor.wav",
+            "subtitleCueLines": [
+              4404,
+              4409
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_tacking_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.946521,
+          "src": "audio/clips/ssnew_tacking_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Don't worry; we're tacking!"
+            ],
+            "de": [
+              "Keine Sorge; wir kreuzen!"
+            ],
+            "es": [
+              "No te preocupes; ¡estamos virando contra el viento!"
+            ],
+            "fr": [
+              "Ne t'inquiète pas ; nous virons de bord !"
+            ],
+            "it": [
+              "Non preoccuparti; stiamo veleggiando!"
+            ],
+            "ja": [
+              "大丈夫、タッキングだ！"
+            ],
+            "ko": [
+              "걱정 마. 바람을 안고 지그재그로 가면 되니까!"
+            ],
+            "pt-br": [
+              "Não se preocupe; estamos fazendo bordadas!"
+            ],
+            "ru": [
+              "Не волнуйся; мы лавируем!"
+            ],
+            "s-cn": [
+              "别担心，我们在逆风航行！"
+            ],
+            "t-cn": [
+              "別擔心，我們在逆風航行！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_tacking_2__boat.wav",
+            "subtitleCueLines": [
+              4414
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_tacking_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.49925,
+          "src": "audio/clips/ssnew_tacking_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Tacking, on land? That's ridiculous."
+            ],
+            "de": [
+              "An Land kreuzen? Das ist absurd."
+            ],
+            "es": [
+              "¿Virar en tierra? Eso es ridículo."
+            ],
+            "fr": [
+              "Virer de bord sur terre ? C'est absurde."
+            ],
+            "it": [
+              "Virare a terra? È ridicolo."
+            ],
+            "ja": [
+              "地上で？ 何言ってんだい。"
+            ],
+            "ko": [
+              "육지에서 그런 식으로 간다고? 말도 안 돼."
+            ],
+            "pt-br": [
+              "Bordejar em terra? Isso é absurdo."
+            ],
+            "ru": [
+              "Лавировать по суше? Это же нелепо."
+            ],
+            "s-cn": [
+              "在陆地上还要“航行”？这也太离谱了。"
+            ],
+            "t-cn": [
+              "在陸地上還要「航行」？這也太離譜了。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_tacking_3__sailor.wav",
+            "subtitleCueLines": [
+              4417
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_tacking_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 8.542063,
+          "src": "audio/clips/ssnew_tacking_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Tacking through Life!",
+              "The Winds of Fate are attempting to blow us away from our goal.",
+              "But, weaving to and fro, we'll get there."
+            ],
+            "de": [
+              "Wir kreuzen durchs Leben!",
+              "Die Winde des Schicksals versuchen, uns von unserem Ziel fortzublasen.",
+              "Aber im Zickzack kommen wir ans Ziel."
+            ],
+            "es": [
+              "¡Virar por la vida!",
+              "Los vientos del destino están intentando alejarnos de nuestro objetivo.",
+              "Pero, dando tumbos de aquí para allá, llegaremos."
+            ],
+            "fr": [
+              "Virer de bord au fil de la vie !",
+              "Les vents du destin essaient de nous éloigner de notre but.",
+              "Mais, à force de zigzaguer, nous y arriverons."
+            ],
+            "it": [
+              "Veleggiare nella vita!",
+              "I Venti del Destino stanno tentando di allontanarci dal nostro obiettivo.",
+              "Ma, andando avanti e indietro, ci arriveremo."
+            ],
+            "ja": [
+              "人生はタッキングの繰り返しさ！",
+              "運命の風が 僕たちを阻もうとしても、",
+              "右へ左へ進めば いずれ着く。"
+            ],
+            "ko": [
+              "인생을 그런 식으로 나아가는 거야!",
+              "운명의 바람이 우리를 목표에서 밀어내려 하고 있어.",
+              "하지만 이리저리 헤쳐 나가다 보면, 도착하겠지."
+            ],
+            "pt-br": [
+              "Bordejando pela vida!",
+              "Os Ventos do Destino estão tentando nos soprar para longe do nosso objetivo.",
+              "Mas, ziguezagueando, chegaremos lá."
+            ],
+            "ru": [
+              "Лавировать по жизни!",
+              "Ветра судьбы пытаются сдуть нас с нашего пути.",
+              "Но, петляя туда-сюда, мы доберёмся."
+            ],
+            "s-cn": [
+              "我说的是人生航程！",
+              "命运之风正想把我们吹离目标。",
+              "但我们只要左穿右绕，总能到达。"
+            ],
+            "t-cn": [
+              "我說的是人生航程！",
+              "命運之風正想把我們吹離目標。",
+              "但我們只要左穿右繞，總能到達。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_tacking_4__boat.wav",
+            "subtitleCueLines": [
+              4420,
+              4423,
+              4428
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_tacking_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.945042,
+          "src": "audio/clips/ssnew_tacking_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "*I'll* get there!"
+            ],
+            "de": [
+              "Ich komme ans Ziel!"
+            ],
+            "es": [
+              "¡Yo acabaré llegando!"
+            ],
+            "fr": [
+              "J'y arriverai !"
+            ],
+            "it": [
+              "Ci arriverò io!"
+            ],
+            "ja": [
+              "アタシがね！"
+            ],
+            "ko": [
+              "실질적으로는 내가 도착하는 거지!"
+            ],
+            "pt-br": [
+              "Eu vou chegar lá!"
+            ],
+            "ru": [
+              "Я туда доберусь!"
+            ],
+            "s-cn": [
+              "到达的是我！"
+            ],
+            "t-cn": [
+              "到達的是我！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_tacking_5__sailor.wav",
+            "subtitleCueLines": [
+              4431
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_tacking_6__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.261417,
+          "src": "audio/clips/ssnew_tacking_6__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I'll be there too, \"in spirit\"!"
+            ],
+            "de": [
+              "Ich bin auch dabei – „im Geiste“!"
+            ],
+            "es": [
+              "¡Yo también estaré allí, «en espíritu»!"
+            ],
+            "fr": [
+              "Je serai là aussi, « en esprit » !"
+            ],
+            "it": [
+              "Ci sarò anch'io, \"in spirito\"!"
+            ],
+            "ja": [
+              "僕も、心は一緒さ！"
+            ],
+            "ko": [
+              "나도 \"영혼만이라도\" 함께 있겠지!"
+            ],
+            "pt-br": [
+              "Eu também vou estar lá, “em espírito”!"
+            ],
+            "ru": [
+              "Я тоже там буду, духом!"
+            ],
+            "s-cn": [
+              "我也会以“灵魂”的形式陪你到达！"
+            ],
+            "t-cn": [
+              "我也會以「靈魂」的形式陪你到達！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_tacking_6__boat.wav",
+            "subtitleCueLines": [
+              4435
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "You know how happy I am to follow your instructions.",
+          "You said go West, so I kept going West... but now, you know, I think we've overshot.",
+          "Don't worry; we're tacking!",
+          "Tacking, on land? That's ridiculous.",
+          "Tacking through Life!",
+          "The Winds of Fate are attempting to blow us away from our goal.",
+          "But, weaving to and fro, we'll get there.",
+          "*I'll* get there!",
+          "I'll be there too, \"in spirit\"!"
+        ],
+        "de": [
+          "Du weißt ja, wie gern ich deinen Anweisungen folge.",
+          "Du hast gesagt: nach Westen, also bin ich immer weiter nach Westen gegangen ... aber ich glaube, jetzt sind wir zu weit.",
+          "Keine Sorge; wir kreuzen!",
+          "An Land kreuzen? Das ist absurd.",
+          "Wir kreuzen durchs Leben!",
+          "Die Winde des Schicksals versuchen, uns von unserem Ziel fortzublasen.",
+          "Aber im Zickzack kommen wir ans Ziel.",
+          "Ich komme ans Ziel!",
+          "Ich bin auch dabei – „im Geiste“!"
+        ],
+        "es": [
+          "Ya sabes lo mucho que me gusta seguir tus instrucciones.",
+          "Dijiste que fuera al oeste, así que seguí hacia el oeste... pero ahora creo que nos hemos pasado, ¿sabes?",
+          "No te preocupes; ¡estamos virando contra el viento!",
+          "¿Virar en tierra? Eso es ridículo.",
+          "¡Virar por la vida!",
+          "Los vientos del destino están intentando alejarnos de nuestro objetivo.",
+          "Pero, dando tumbos de aquí para allá, llegaremos.",
+          "¡Yo acabaré llegando!",
+          "¡Yo también estaré allí, «en espíritu»!"
+        ],
+        "fr": [
+          "Tu sais à quel point j'aime suivre tes instructions.",
+          "Tu m'as dit d'aller vers l'ouest, alors j'ai continué vers l'ouest... mais là, tu vois, je crois qu'on est allés trop loin.",
+          "Ne t'inquiète pas ; nous virons de bord !",
+          "Virer de bord sur terre ? C'est absurde.",
+          "Virer de bord au fil de la vie !",
+          "Les vents du destin essaient de nous éloigner de notre but.",
+          "Mais, à force de zigzaguer, nous y arriverons.",
+          "J'y arriverai !",
+          "Je serai là aussi, « en esprit » !"
+        ],
+        "it": [
+          "Sai quanto mi faccia piacere seguire le tue istruzioni.",
+          "Hai detto di andare a ovest, e ho continuato ad andare a ovest... ma ora, sai, credo che siamo andati troppo oltre.",
+          "Non preoccuparti; stiamo veleggiando!",
+          "Virare a terra? È ridicolo.",
+          "Veleggiare nella vita!",
+          "I Venti del Destino stanno tentando di allontanarci dal nostro obiettivo.",
+          "Ma, andando avanti e indietro, ci arriveremo.",
+          "Ci arriverò io!",
+          "Ci sarò anch'io, \"in spirito\"!"
+        ],
+        "ja": [
+          "西に進めて よかったと思ったら",
+          "通りすぎちまった…",
+          "大丈夫、タッキングだ！",
+          "地上で？ 何言ってんだい。",
+          "人生はタッキングの繰り返しさ！",
+          "運命の風が 僕たちを阻もうとしても、",
+          "右へ左へ進めば いずれ着く。",
+          "アタシがね！",
+          "僕も、心は一緒さ！"
+        ],
+        "ko": [
+          "네 지시를 따르는 게 얼마나 즐거운지 알잖아.",
+          "서쪽으로 가라고 했으니까, 계속 서쪽으로 갔지... 그런데 이제 보니, 너무 멀리 온 것 같아.",
+          "걱정 마. 바람을 안고 지그재그로 가면 되니까!",
+          "육지에서 그런 식으로 간다고? 말도 안 돼.",
+          "인생을 그런 식으로 나아가는 거야!",
+          "운명의 바람이 우리를 목표에서 밀어내려 하고 있어.",
+          "하지만 이리저리 헤쳐 나가다 보면, 도착하겠지.",
+          "실질적으로는 내가 도착하는 거지!",
+          "나도 \"영혼만이라도\" 함께 있겠지!"
+        ],
+        "pt-br": [
+          "Você sabe como fico feliz em seguir suas instruções.",
+          "Você disse para ir para o oeste, então continuei indo para o oeste... mas agora, sabe, acho que fomos longe demais.",
+          "Não se preocupe; estamos fazendo bordadas!",
+          "Bordejar em terra? Isso é absurdo.",
+          "Bordejando pela vida!",
+          "Os Ventos do Destino estão tentando nos soprar para longe do nosso objetivo.",
+          "Mas, ziguezagueando, chegaremos lá.",
+          "Eu vou chegar lá!",
+          "Eu também vou estar lá, “em espírito”!"
+        ],
+        "ru": [
+          "Ты же знаешь, с какой радостью я выполняю твои указания.",
+          "Ты сказал идти на запад, вот я и шла на запад... но теперь, знаешь, кажется, мы зашли слишком далеко.",
+          "Не волнуйся; мы лавируем!",
+          "Лавировать по суше? Это же нелепо.",
+          "Лавировать по жизни!",
+          "Ветра судьбы пытаются сдуть нас с нашего пути.",
+          "Но, петляя туда-сюда, мы доберёмся.",
+          "Я туда доберусь!",
+          "Я тоже там буду, духом!"
+        ],
+        "s-cn": [
+          "你知道我有多乐意听从你的指令。",
+          "你说往西，我就一直往西走……可现在，我觉得我们走过头了。",
+          "别担心，我们在逆风航行！",
+          "在陆地上还要“航行”？这也太离谱了。",
+          "我说的是人生航程！",
+          "命运之风正想把我们吹离目标。",
+          "但我们只要左穿右绕，总能到达。",
+          "到达的是我！",
+          "我也会以“灵魂”的形式陪你到达！"
+        ],
+        "t-cn": [
+          "你知道我有多樂意聽從你的指令。",
+          "你說往西，我就一直往西走…… 可現在，我覺得我們走過頭了。",
+          "別擔心，我們在逆風航行！",
+          "在陸地上還要「航行」？這也太離譜了。",
+          "我說的是人生航程！",
+          "命運之風正想把我們吹離目標。",
+          "但我們只要左穿右繞，總能到達。",
+          "到達的是我！",
+          "我也會以「靈魂」的形式陪你到達！"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

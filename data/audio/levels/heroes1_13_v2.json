@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Tif! Are you all right?"
             ],
+            "de": [
+              "Tif! Geht es dir gut?"
+            ],
+            "es": [
+              "¡Tif! ¿Estás bien?"
+            ],
+            "fr": [
+              "Tif ! Ça va ?"
+            ],
+            "it": [
+              "Tif! Stai bene?"
+            ],
+            "ja": [
+              "ティフ！大丈夫か？"
+            ],
+            "ko": [
+              "티프! 괜찮아?"
+            ],
             "pt-br": [
               "Tif! Você tá bem?"
+            ],
+            "ru": [
+              "Тиф! Ты в порядке?"
+            ],
+            "s-cn": [
+              "蒂芙！你没事吧？"
+            ],
+            "t-cn": [
+              "蒂芙！你沒事吧？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Of course, of course, shush, we've got to catch up to the Magistrate! Where's Izzy?"
             ],
+            "de": [
+              "Natürlich, natürlich, psst! Wir müssen den Magistraten einholen! Wo ist Izzy?"
+            ],
+            "es": [
+              "Por supuesto, claro, silencio, ¡tenemos que alcanzar al magistrado! ¿Dónde está Izzy?"
+            ],
+            "fr": [
+              "Oui, oui, t'en fais pas. Vite, il faut qu'on rattrape le magistrat ! Où est Izzy ?"
+            ],
+            "it": [
+              "Certo, certo... silenzio... dobbiamo prendere il magistrato! Dov'è Izzy?"
+            ],
+            "ja": [
+              "当然でしょ。それより、 あの判事を捕まえないと！ イジーは？"
+            ],
+            "ko": [
+              "물론, 당연하지! 쉿. 어서 치안판사를 잡아야 해! 이지는 어딨어?"
+            ],
             "pt-br": [
               "Sim, claro, silêncio, temos que pegar o Magistrado! Cadê o Izzy?"
+            ],
+            "ru": [
+              "Конечно, конечно, тише, нам нужно поймать Магистрата! Где Иззи?"
+            ],
+            "s-cn": [
+              "没事没事，我们得赶紧追上执政官！伊兹呢？"
+            ],
+            "t-cn": [
+              "沒事沒事，我們得趕緊追上執政官！伊茲呢？"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "He went the other way looking for you."
             ],
+            "de": [
+              "Er ist in die andere Richtung gegangen und hat nach dir gesucht."
+            ],
+            "es": [
+              "Se fue por el otro lado buscándote a ti."
+            ],
+            "fr": [
+              "Il est parti de l'autre côté à ta recherche."
+            ],
+            "it": [
+              "È andato dall'altra parte a cercare te."
+            ],
+            "ja": [
+              "お前を探しに あっちへ行った。"
+            ],
+            "ko": [
+              "널 찾겠다고 반대쪽으로 갔어."
+            ],
             "pt-br": [
               "Ele foi pelo outro lado atrás de você."
+            ],
+            "ru": [
+              "Он пошёл в другую сторону искать тебя."
+            ],
+            "s-cn": [
+              "他往另一边找你去了。"
+            ],
+            "t-cn": [
+              "他往另一邊找你去了。"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Well, let's find him. Which other way?"
             ],
+            "de": [
+              "Dann suchen wir ihn. Welche andere Richtung?"
+            ],
+            "es": [
+              "Bueno, vamos a buscarlo. ¿Cómo que por el otro lado?"
+            ],
+            "fr": [
+              "Alors allons le trouver. C'est par où, « l'autre côté » ?"
+            ],
+            "it": [
+              "Allora andiamo a cercarlo. Quale altra parte?"
+            ],
+            "ja": [
+              "なら追いかけよう。 あっちってどっち？"
+            ],
+            "ko": [
+              "그럼 빨리 찾자. 어느 길로 갔는데?"
+            ],
             "pt-br": [
               "Vamos encontrar ele então. Qual caminho?"
+            ],
+            "ru": [
+              "Ну что ж, найдем его. В какую другую сторону?"
+            ],
+            "s-cn": [
+              "那我们去找他。另一边是哪边？"
+            ],
+            "t-cn": [
+              "那我們去找他。另一邊是哪邊？"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "Yeah... there are a lot of Other Ways in here."
             ],
+            "de": [
+              "Ja ... Es gibt hier eine Menge anderer Richtungen."
+            ],
+            "es": [
+              "Sí... hay muchísimos Otros Caminos aquí dentro."
+            ],
+            "fr": [
+              "Ouais... il y a plein d'« autres côtés », ici."
+            ],
+            "it": [
+              "Già... qui ci sono tantissime \"altre parti\"."
+            ],
+            "ja": [
+              "そういえば… あっちっていっぱいあるな…"
+            ],
+            "ko": [
+              "글쎄... 여기엔 다른 길이 너무 많아서 말이야."
+            ],
             "pt-br": [
               "É... tem muitos Caminhos por aqui."
+            ],
+            "ru": [
+              "Да... тут слишком много других дорог."
+            ],
+            "s-cn": [
+              "这个嘛……这里能叫“另一边”的路还真不少。"
+            ],
+            "t-cn": [
+              "這個嘛……這裡能叫「另一邊」的路還真不少。"
             ]
           },
           "provenance": {
@@ -136,12 +280,75 @@
           "Well, let's find him. Which other way?",
           "Yeah... there are a lot of Other Ways in here."
         ],
+        "de": [
+          "Tif! Geht es dir gut?",
+          "Natürlich, natürlich, psst! Wir müssen den Magistraten einholen! Wo ist Izzy?",
+          "Er ist in die andere Richtung gegangen und hat nach dir gesucht.",
+          "Dann suchen wir ihn. Welche andere Richtung?",
+          "Ja ... Es gibt hier eine Menge anderer Richtungen."
+        ],
+        "es": [
+          "¡Tif! ¿Estás bien?",
+          "Por supuesto, claro, silencio, ¡tenemos que alcanzar al magistrado! ¿Dónde está Izzy?",
+          "Se fue por el otro lado buscándote a ti.",
+          "Bueno, vamos a buscarlo. ¿Cómo que por el otro lado?",
+          "Sí... hay muchísimos Otros Caminos aquí dentro."
+        ],
+        "fr": [
+          "Tif ! Ça va ?",
+          "Oui, oui, t'en fais pas. Vite, il faut qu'on rattrape le magistrat ! Où est Izzy ?",
+          "Il est parti de l'autre côté à ta recherche.",
+          "Alors allons le trouver. C'est par où, « l'autre côté » ?",
+          "Ouais... il y a plein d'« autres côtés », ici."
+        ],
+        "it": [
+          "Tif! Stai bene?",
+          "Certo, certo... silenzio... dobbiamo prendere il magistrato! Dov'è Izzy?",
+          "È andato dall'altra parte a cercare te.",
+          "Allora andiamo a cercarlo. Quale altra parte?",
+          "Già... qui ci sono tantissime \"altre parti\"."
+        ],
+        "ja": [
+          "ティフ！大丈夫か？",
+          "当然でしょ。それより、 あの判事を捕まえないと！ イジーは？",
+          "お前を探しに あっちへ行った。",
+          "なら追いかけよう。 あっちってどっち？",
+          "そういえば… あっちっていっぱいあるな…"
+        ],
+        "ko": [
+          "티프! 괜찮아?",
+          "물론, 당연하지! 쉿. 어서 치안판사를 잡아야 해! 이지는 어딨어?",
+          "널 찾겠다고 반대쪽으로 갔어.",
+          "그럼 빨리 찾자. 어느 길로 갔는데?",
+          "글쎄... 여기엔 다른 길이 너무 많아서 말이야."
+        ],
         "pt-br": [
           "Tif! Você tá bem?",
           "Sim, claro, silêncio, temos que pegar o Magistrado! Cadê o Izzy?",
           "Ele foi pelo outro lado atrás de você.",
           "Vamos encontrar ele então. Qual caminho?",
           "É... tem muitos Caminhos por aqui."
+        ],
+        "ru": [
+          "Тиф! Ты в порядке?",
+          "Конечно, конечно, тише, нам нужно поймать Магистрата! Где Иззи?",
+          "Он пошёл в другую сторону искать тебя.",
+          "Ну что ж, найдем его. В какую другую сторону?",
+          "Да... тут слишком много других дорог."
+        ],
+        "s-cn": [
+          "蒂芙！你没事吧？",
+          "没事没事，我们得赶紧追上执政官！伊兹呢？",
+          "他往另一边找你去了。",
+          "那我们去找他。另一边是哪边？",
+          "这个嘛……这里能叫“另一边”的路还真不少。"
+        ],
+        "t-cn": [
+          "蒂芙！你沒事吧？",
+          "沒事沒事，我們得趕緊追上執政官！伊茲呢？",
+          "他往另一邊找你去了。",
+          "那我們去找他。另一邊是哪邊？",
+          "這個嘛……這裡能叫「另一邊」的路還真不少。"
         ]
       },
       "silentCues": [],
@@ -180,8 +387,35 @@
             "en": [
               "Even when we find Izzy again, then what? We just leave, no harm done?"
             ],
+            "de": [
+              "Selbst wenn wir Izzy wiederfinden, was dann? Gehen wir dann einfach, als wäre nichts passiert?"
+            ],
+            "es": [
+              "Aunque encontrásemos a Izzy, ¿luego qué? ¿Simplemente nos vamos, como si no hubiera pasado nada?"
+            ],
+            "fr": [
+              "Même si on retrouve Izzy, et après ? On se barre, comme si de rien n'était ?"
+            ],
+            "it": [
+              "Quando poi troveremo Izzy, che facciamo? Ce ne andiamo e basta, come se niente fosse?"
+            ],
+            "ja": [
+              "イジーを見つけた後は？ 何もしないで ただ帰るのか？"
+            ],
+            "ko": [
+              "이지를 다시 찾는대도, 그다음엔 어쩌지? 아무 일도 없었던 것처럼 그냥 나가면 돼?"
+            ],
             "pt-br": [
               "Mesmo quando a gente encontrar o Izzy de novo, e daí? É só ir embora, como se nada tivesse acontecido?"
+            ],
+            "ru": [
+              "Даже когда мы снова найдём Иззи, что дальше? Просто уйдём, и всё сойдёт с рук?"
+            ],
+            "s-cn": [
+              "就算找到伊兹，然后呢？ 我们就这么走了，当什么都没发生？"
+            ],
+            "t-cn": [
+              "就算找到伊茲，然後呢？ 我們就這麼走了，當什麼都沒發生？"
             ]
           },
           "provenance": {
@@ -202,8 +436,35 @@
             "en": [
               "I know where Magistrate Reynard is headed. We've got to catch up."
             ],
+            "de": [
+              "Ich weiß, wohin Magistrat Reynard will. Wir müssen ihn einholen."
+            ],
+            "es": [
+              "Sé adónde va el magistrado Reynard. Tenemos que darle alcance."
+            ],
+            "fr": [
+              "Je sais où le magistrat Reynard va. Il faut qu'on le rattrape."
+            ],
+            "it": [
+              "So dove sta andando il magistrato Reynard. Dobbiamo raggiungerlo."
+            ],
+            "ja": [
+              "判事の行き先がわかったの。 追いかけないと。"
+            ],
+            "ko": [
+              "레이너드 치안판사가 어디로 가는지 내가 알아. 따라잡아야 해."
+            ],
             "pt-br": [
               "Eu sei pra onde o Magistrado Reynard tá indo. A gente tem que alcançar ele."
+            ],
+            "ru": [
+              "Я знаю, куда направляется Магистрат Рейнард. Надо его догнать."
+            ],
+            "s-cn": [
+              "我知道雷纳德执政官要去哪儿。我们得追上去。"
+            ],
+            "t-cn": [
+              "我知道雷納德執政官要去哪兒。 我們得追上去。"
             ]
           },
           "provenance": {
@@ -224,9 +485,45 @@
           "Even when we find Izzy again, then what? We just leave, no harm done?",
           "I know where Magistrate Reynard is headed. We've got to catch up."
         ],
+        "de": [
+          "Selbst wenn wir Izzy wiederfinden, was dann? Gehen wir dann einfach, als wäre nichts passiert?",
+          "Ich weiß, wohin Magistrat Reynard will. Wir müssen ihn einholen."
+        ],
+        "es": [
+          "Aunque encontrásemos a Izzy, ¿luego qué? ¿Simplemente nos vamos, como si no hubiera pasado nada?",
+          "Sé adónde va el magistrado Reynard. Tenemos que darle alcance."
+        ],
+        "fr": [
+          "Même si on retrouve Izzy, et après ? On se barre, comme si de rien n'était ?",
+          "Je sais où le magistrat Reynard va. Il faut qu'on le rattrape."
+        ],
+        "it": [
+          "Quando poi troveremo Izzy, che facciamo? Ce ne andiamo e basta, come se niente fosse?",
+          "So dove sta andando il magistrato Reynard. Dobbiamo raggiungerlo."
+        ],
+        "ja": [
+          "イジーを見つけた後は？ 何もしないで ただ帰るのか？",
+          "判事の行き先がわかったの。 追いかけないと。"
+        ],
+        "ko": [
+          "이지를 다시 찾는대도, 그다음엔 어쩌지? 아무 일도 없었던 것처럼 그냥 나가면 돼?",
+          "레이너드 치안판사가 어디로 가는지 내가 알아. 따라잡아야 해."
+        ],
         "pt-br": [
           "Mesmo quando a gente encontrar o Izzy de novo, e daí? É só ir embora, como se nada tivesse acontecido?",
           "Eu sei pra onde o Magistrado Reynard tá indo. A gente tem que alcançar ele."
+        ],
+        "ru": [
+          "Даже когда мы снова найдём Иззи, что дальше? Просто уйдём, и всё сойдёт с рук?",
+          "Я знаю, куда направляется Магистрат Рейнард. Надо его догнать."
+        ],
+        "s-cn": [
+          "就算找到伊兹，然后呢？ 我们就这么走了，当什么都没发生？",
+          "我知道雷纳德执政官要去哪儿。我们得追上去。"
+        ],
+        "t-cn": [
+          "就算找到伊茲，然後呢？ 我們就這麼走了，當什麼都沒發生？",
+          "我知道雷納德執政官要去哪兒。 我們得追上去。"
         ]
       },
       "silentCues": [],
@@ -265,8 +562,35 @@
             "en": [
               "We just need to keep headed East."
             ],
+            "de": [
+              "Wir müssen einfach weiter nach Osten."
+            ],
+            "es": [
+              "Solo tenemos que seguir hacia el este."
+            ],
+            "fr": [
+              "On doit juste continuer vers l'est."
+            ],
+            "it": [
+              "Dobbiamo solo continuare verso est."
+            ],
+            "ja": [
+              "東に行こう。"
+            ],
+            "ko": [
+              "그냥 동쪽으로 계속 가면 돼."
+            ],
             "pt-br": [
               "Só precisamos continuar indo para o Leste."
+            ],
+            "ru": [
+              "Нам нужно просто и дальше идти на восток."
+            ],
+            "s-cn": [
+              "只要一路向东就行。"
+            ],
+            "t-cn": [
+              "只要一路向東就行。"
             ]
           },
           "provenance": {
@@ -287,8 +611,35 @@
             "en": [
               "Oh. Okay. How do you know that?"
             ],
+            "de": [
+              "Oh. Na gut. Woher weißt du das?"
+            ],
+            "es": [
+              "Oh. Vale. ¿Y tú cómo lo sabes?"
+            ],
+            "fr": [
+              "Oh. D'accord. Et comment tu sais ça, toi ?"
+            ],
+            "it": [
+              "Oh. Ok. Come fai a saperlo?"
+            ],
+            "ja": [
+              "あ、ああ…どうして知ってるんだ？"
+            ],
+            "ko": [
+              "아. 그래. 어떻게 알아?"
+            ],
             "pt-br": [
               "Ah. Ok. Como você sabe disso?"
+            ],
+            "ru": [
+              "О. Ладно. А ты откуда это знаешь?"
+            ],
+            "s-cn": [
+              "哦。好。你怎么知道？"
+            ],
+            "t-cn": [
+              "哦。好。你怎麼知道？"
             ]
           },
           "provenance": {
@@ -309,8 +660,35 @@
             "en": [
               "When he locked us up, he'd already donned his dustcoat. For *travel*. And, about his neck..."
             ],
+            "de": [
+              "Als er uns eingesperrt hat, hatte er schon seinen Staubmantel an. Für die Reise. Und um seinen Hals ..."
+            ],
+            "es": [
+              "Cuando nos encerró, ya se había puesto su abrigo. Para viajar. Y al cuello..."
+            ],
+            "fr": [
+              "Quand il nous a enfermés, il avait déjà enfilé son manteau. Un manteau de « voyage ». Et, autour du cou..."
+            ],
+            "it": [
+              "Quando ci ha rinchiusi indossava già lo spolverino. Era pronto per viaggiare. E, al collo..."
+            ],
+            "ja": [
+              "あたしたちを閉じ込めた時、 ヤツは旅支度をしてて、 首に…"
+            ],
+            "ko": [
+              "그 사람이 우릴 가둘 때부터 먼지막이 외투를 입고 있더라. 여행 복장이었지. 그리고, 그 사람 목에..."
+            ],
             "pt-br": [
-              "Quando ele trancou a gente, já tinha vestido o guarda-pó. Estava preparado pra *viajar*. E, em volta do pescoço dele..."
+              "Quando ele trancou a gente, já tinha vestido o guarda-pó. Estava preparado pra viajar. E, em volta do pescoço dele..."
+            ],
+            "ru": [
+              "Когда он нас запер, он уже надел свой дорожный плащ. Приготовился к путешествию. И у него на шее..."
+            ],
+            "s-cn": [
+              "他把我们关起来时，就已经穿上了那件风衣 ，一副要出远门的打扮。而且他脖子上……"
+            ],
+            "t-cn": [
+              "他把我們關起來時，就已經穿上了那件風衣， 一副要出遠門的打扮。而且他脖子上……"
             ]
           },
           "provenance": {
@@ -331,8 +709,35 @@
             "en": [
               "You were eyeing his jewelry. Of course."
             ],
+            "de": [
+              "Du hast seinen Schmuck beäugt. Natürlich."
+            ],
+            "es": [
+              "Te fijaste en sus joyas. Claro."
+            ],
+            "fr": [
+              "Tu zieutais ses bijoux. Évidemment."
+            ],
+            "it": [
+              "Stavi guardando i gioielli. Ma certo."
+            ],
+            "ja": [
+              "やっぱり、ヤツの宝石を 狙ってたのか。"
+            ],
+            "ko": [
+              "그 녀석의 장신구를 눈여겨봤구나. 물론 그랬겠지."
+            ],
             "pt-br": [
               "Você ficou de olho nas joias dele. É claro."
+            ],
+            "ru": [
+              "Ты разглядывала его украшения. Ну конечно."
+            ],
+            "s-cn": [
+              "你果然一直盯着他的首饰。"
+            ],
+            "t-cn": [
+              "你果然一直盯著他的首飾。"
             ]
           },
           "provenance": {
@@ -353,8 +758,35 @@
             "en": [
               "Had your eyes been open, you'd have seen a distinctive, *recognizable* leather cord, three-strand plaited, oiled and blackened..."
             ],
+            "de": [
+              "Hättest du die Augen offen gehabt, hättest du eine auffällige, unverkennbare Lederschnur gesehen, aus drei Strängen geflochten, geölt und geschwärzt ..."
+            ],
+            "es": [
+              "Si hubieras abierto los ojos, habrías visto un cordón de cuero distintivo y reconocible, trenzado con tres cabos, engrasado y ennegrecido..."
+            ],
+            "fr": [
+              "Si tu avais ouvert les yeux, tu aurais vu une lanière de cuir bien reconnaissable, tressée à trois brins, huilée et noircie..."
+            ],
+            "it": [
+              "Se avessi tenuto gli occhi aperti, avresti visto un laccio di cuoio caratteristico e riconoscibile: tre strisce intrecciate, trattato con olio e annerito..."
+            ],
+            "ja": [
+              "首飾りだけじゃなくて、 あたしたちを雇った日に 見慣れない革ひもをつけてたんだ…"
+            ],
+            "ko": [
+              "너도 제대로 눈을 뜨고 있었다면 봤을걸. 눈에 띄고 낯익은 그 가죽끈. 세 가닥으로 땋고 기름을 먹여 검게 물들어 있었어..."
+            ],
             "pt-br": [
               "Se estivesse de olhos abertos, teria visto uma corda de couro distinta, reconhecível, trançada com três tiras, untada e escurecida..."
+            ],
+            "ru": [
+              "Если бы ты смотрел внимательнее, то заметил бы приметный, узнаваемый кожаный шнурок, сплетённый из трёх полосок, промасленный и чернёный..."
+            ],
+            "s-cn": [
+              "你眼睛要是睁着，就能看到那根很特别、一眼就能认出的皮绳： 三股编成，上过油，处理成了黑色……"
+            ],
+            "t-cn": [
+              "你眼睛要是睜著，就能看到那根很特別、 一眼就能認出的皮繩： 三股編成，上過油，處理成了黑色……"
             ]
           },
           "provenance": {
@@ -375,8 +807,35 @@
             "en": [
               "Oh! A key ... for a locker ... in The Crawler??"
             ],
+            "de": [
+              "Oh! Ein Schlüssel ... für ein Schließfach ... im Crawler??"
+            ],
+            "es": [
+              "¡Oh! ¿La llave... de un compartimento...? ¿En La Oruga?"
+            ],
+            "fr": [
+              "Oh ! Une clé de casier ? Un casier... dans le Rampant ?"
+            ],
+            "it": [
+              "Oh! La chiave... di un armadietto... nel Crawler??"
+            ],
+            "ja": [
+              "おっ！ロッカーの鍵か？ クロウラーの中の？"
+            ],
+            "ko": [
+              "아! 열쇠구나... 그 보관함... 크롤러에 있던 건가??"
+            ],
             "pt-br": [
               "Ah! Chave de um armário? Um armário na... Esteira?"
+            ],
+            "ru": [
+              "О! Ключ от шкафчика? Шкафчика в Ползуне?"
+            ],
+            "s-cn": [
+              "哦！一把钥匙……开储物柜的…… “爬行者号”上的储物柜？？"
+            ],
+            "t-cn": [
+              "哦！一把鑰匙……開儲物櫃的……「爬行者號」上的儲物櫃？？"
             ]
           },
           "provenance": {
@@ -397,8 +856,35 @@
             "en": [
               "The Crawler."
             ],
+            "de": [
+              "Der Crawler."
+            ],
+            "es": [
+              "La Oruga."
+            ],
+            "fr": [
+              "Dans le Rampant."
+            ],
+            "it": [
+              "Il Crawler."
+            ],
+            "ja": [
+              "クロウラーのだね。"
+            ],
+            "ko": [
+              "크롤러야."
+            ],
             "pt-br": [
               "Na Esteira."
+            ],
+            "ru": [
+              "В Ползуне."
+            ],
+            "s-cn": [
+              "“爬行者号”。"
+            ],
+            "t-cn": [
+              "「爬行者號」。"
             ]
           },
           "provenance": {
@@ -424,14 +910,95 @@
           "Oh! A key ... for a locker ... in The Crawler??",
           "The Crawler."
         ],
+        "de": [
+          "Wir müssen einfach weiter nach Osten.",
+          "Oh. Na gut. Woher weißt du das?",
+          "Als er uns eingesperrt hat, hatte er schon seinen Staubmantel an. Für die Reise. Und um seinen Hals ...",
+          "Du hast seinen Schmuck beäugt. Natürlich.",
+          "Hättest du die Augen offen gehabt, hättest du eine auffällige, unverkennbare Lederschnur gesehen, aus drei Strängen geflochten, geölt und geschwärzt ...",
+          "Oh! Ein Schlüssel ... für ein Schließfach ... im Crawler??",
+          "Der Crawler."
+        ],
+        "es": [
+          "Solo tenemos que seguir hacia el este.",
+          "Oh. Vale. ¿Y tú cómo lo sabes?",
+          "Cuando nos encerró, ya se había puesto su abrigo. Para viajar. Y al cuello...",
+          "Te fijaste en sus joyas. Claro.",
+          "Si hubieras abierto los ojos, habrías visto un cordón de cuero distintivo y reconocible, trenzado con tres cabos, engrasado y ennegrecido...",
+          "¡Oh! ¿La llave... de un compartimento...? ¿En La Oruga?",
+          "La Oruga."
+        ],
+        "fr": [
+          "On doit juste continuer vers l'est.",
+          "Oh. D'accord. Et comment tu sais ça, toi ?",
+          "Quand il nous a enfermés, il avait déjà enfilé son manteau. Un manteau de « voyage ». Et, autour du cou...",
+          "Tu zieutais ses bijoux. Évidemment.",
+          "Si tu avais ouvert les yeux, tu aurais vu une lanière de cuir bien reconnaissable, tressée à trois brins, huilée et noircie...",
+          "Oh ! Une clé de casier ? Un casier... dans le Rampant ?",
+          "Dans le Rampant."
+        ],
+        "it": [
+          "Dobbiamo solo continuare verso est.",
+          "Oh. Ok. Come fai a saperlo?",
+          "Quando ci ha rinchiusi indossava già lo spolverino. Era pronto per viaggiare. E, al collo...",
+          "Stavi guardando i gioielli. Ma certo.",
+          "Se avessi tenuto gli occhi aperti, avresti visto un laccio di cuoio caratteristico e riconoscibile: tre strisce intrecciate, trattato con olio e annerito...",
+          "Oh! La chiave... di un armadietto... nel Crawler??",
+          "Il Crawler."
+        ],
+        "ja": [
+          "東に行こう。",
+          "あ、ああ…どうして知ってるんだ？",
+          "あたしたちを閉じ込めた時、 ヤツは旅支度をしてて、 首に…",
+          "やっぱり、ヤツの宝石を 狙ってたのか。",
+          "首飾りだけじゃなくて、 あたしたちを雇った日に 見慣れない革ひもをつけてたんだ…",
+          "おっ！ロッカーの鍵か？ クロウラーの中の？",
+          "クロウラーのだね。"
+        ],
+        "ko": [
+          "그냥 동쪽으로 계속 가면 돼.",
+          "아. 그래. 어떻게 알아?",
+          "그 사람이 우릴 가둘 때부터 먼지막이 외투를 입고 있더라. 여행 복장이었지. 그리고, 그 사람 목에...",
+          "그 녀석의 장신구를 눈여겨봤구나. 물론 그랬겠지.",
+          "너도 제대로 눈을 뜨고 있었다면 봤을걸. 눈에 띄고 낯익은 그 가죽끈. 세 가닥으로 땋고 기름을 먹여 검게 물들어 있었어...",
+          "아! 열쇠구나... 그 보관함... 크롤러에 있던 건가??",
+          "크롤러야."
+        ],
         "pt-br": [
           "Só precisamos continuar indo para o Leste.",
           "Ah. Ok. Como você sabe disso?",
-          "Quando ele trancou a gente, já tinha vestido o guarda-pó. Estava preparado pra *viajar*. E, em volta do pescoço dele...",
+          "Quando ele trancou a gente, já tinha vestido o guarda-pó. Estava preparado pra viajar. E, em volta do pescoço dele...",
           "Você ficou de olho nas joias dele. É claro.",
           "Se estivesse de olhos abertos, teria visto uma corda de couro distinta, reconhecível, trançada com três tiras, untada e escurecida...",
           "Ah! Chave de um armário? Um armário na... Esteira?",
           "Na Esteira."
+        ],
+        "ru": [
+          "Нам нужно просто и дальше идти на восток.",
+          "О. Ладно. А ты откуда это знаешь?",
+          "Когда он нас запер, он уже надел свой дорожный плащ. Приготовился к путешествию. И у него на шее...",
+          "Ты разглядывала его украшения. Ну конечно.",
+          "Если бы ты смотрел внимательнее, то заметил бы приметный, узнаваемый кожаный шнурок, сплетённый из трёх полосок, промасленный и чернёный...",
+          "О! Ключ от шкафчика? Шкафчика в Ползуне?",
+          "В Ползуне."
+        ],
+        "s-cn": [
+          "只要一路向东就行。",
+          "哦。好。你怎么知道？",
+          "他把我们关起来时，就已经穿上了那件风衣 ，一副要出远门的打扮。而且他脖子上……",
+          "你果然一直盯着他的首饰。",
+          "你眼睛要是睁着，就能看到那根很特别、一眼就能认出的皮绳： 三股编成，上过油，处理成了黑色……",
+          "哦！一把钥匙……开储物柜的…… “爬行者号”上的储物柜？？",
+          "“爬行者号”。"
+        ],
+        "t-cn": [
+          "只要一路向東就行。",
+          "哦。好。你怎麼知道？",
+          "他把我們關起來時，就已經穿上了那件風衣， 一副要出遠門的打扮。而且他脖子上……",
+          "你果然一直盯著他的首飾。",
+          "你眼睛要是睜著，就能看到那根很特別、 一眼就能認出的皮繩： 三股編成，上過油，處理成了黑色……",
+          "哦！一把鑰匙……開儲物櫃的……「爬行者號」上的儲物櫃？？",
+          "「爬行者號」。"
         ]
       },
       "silentCues": [],
@@ -470,8 +1037,35 @@
             "en": [
               "Let's go get that stupid magistrate!"
             ],
+            "de": [
+              "Los, holen wir uns diesen dämlichen Magistrat!"
+            ],
+            "es": [
+              "¡Vamos a atrapar a ese magistrado inútil!"
+            ],
+            "fr": [
+              "Allons chercher cet idiot de magistrat !"
+            ],
+            "it": [
+              "Andiamo a prendere quello stupido magistrato!"
+            ],
+            "ja": [
+              "あのバカ判事を捕まえるぞ！"
+            ],
+            "ko": [
+              "가서 그 멍청한 치안판사를 잡자!"
+            ],
             "pt-br": [
               "Vamos atrás daquele Magistrado idiota."
+            ],
+            "ru": [
+              "Пошли ловить этого глупого Магистрата!"
+            ],
+            "s-cn": [
+              "走，去收拾那个蠢执政官！"
+            ],
+            "t-cn": [
+              "走，去收拾那個蠢執政官！"
             ]
           },
           "provenance": {
@@ -492,8 +1086,35 @@
             "en": [
               "Let's go get that ... I mean, he's not stupid though!"
             ],
+            "de": [
+              "Los, schnappen wir uns diesen ... Na ja, dämlich ist er ja nicht!"
+            ],
+            "es": [
+              "¡Vamos a atrapar a ese...! Bueno, a ver, en realidad no es ningún estúpido."
+            ],
+            "fr": [
+              "Oui, allons chercher cet... enfin, il n'est pas idiot, hein !"
+            ],
+            "it": [
+              "Andiamo a prendere quello... Insomma, non è che sia proprio stupido!"
+            ],
+            "ja": [
+              "あのバカ… いや、 バカじゃないよ！"
+            ],
+            "ko": [
+              "가서 그... 아니, 그래도 그 사람이 멍청한 건 아니잖아!"
+            ],
             "pt-br": [
               "Vamos atrás daquele... Quer dizer, ele não é idiota!"
+            ],
+            "ru": [
+              "Пошли ловить этого... То есть, он вообще-то не глупый!"
+            ],
+            "s-cn": [
+              "走，去收拾那个……其实吧，我觉得他不蠢！"
+            ],
+            "t-cn": [
+              "走，去收拾那個……其實吧，我覺得他不蠢！"
             ]
           },
           "provenance": {
@@ -514,8 +1135,35 @@
             "en": [
               "I mean we don't like him!"
             ],
+            "de": [
+              "Ich meine damit, das wir ihn nicht mögen!"
+            ],
+            "es": [
+              "¡Lo que quiero decir es que no nos cae bien!"
+            ],
+            "fr": [
+              "Je veux dire qu'on ne l'aime pas !"
+            ],
+            "it": [
+              "Lo dico solo perché non ci sta simpatico!"
+            ],
+            "ja": [
+              "気に入らねぇヤツだって意味だ！"
+            ],
+            "ko": [
+              "우린 그 사람 싫어하잖아!"
+            ],
             "pt-br": [
               "Digo, a gente não gosta dele!"
+            ],
+            "ru": [
+              "Я имею в виду, что он нам не нравится!"
+            ],
+            "s-cn": [
+              "反正我们不喜欢他！"
+            ],
+            "t-cn": [
+              "反正我們不喜歡他！"
             ]
           },
           "provenance": {
@@ -536,8 +1184,35 @@
             "en": [
               "He's got his charms!"
             ],
+            "de": [
+              "Er hat schon seinen Charme!"
+            ],
+            "es": [
+              "¡Tiene su encanto!"
+            ],
+            "fr": [
+              "Il a son charme !"
+            ],
+            "it": [
+              "Ha il suo fascino!"
+            ],
+            "ja": [
+              "誰にだっていいところもあるよ！"
+            ],
+            "ko": [
+              "그래도 나름의 매력이 있어!"
+            ],
             "pt-br": [
               "Ele tem seus encantos!"
+            ],
+            "ru": [
+              "Есть в нём своё очарование!"
+            ],
+            "s-cn": [
+              "他也有他的魅力嘛！"
+            ],
+            "t-cn": [
+              "他也有他的魅力嘛！"
             ]
           },
           "provenance": {
@@ -558,8 +1233,35 @@
             "en": [
               "Oh my God."
             ],
+            "de": [
+              "O Gott."
+            ],
+            "es": [
+              "Ay, Dios."
+            ],
+            "fr": [
+              "Oh mon Dieu."
+            ],
+            "it": [
+              "Oddio."
+            ],
+            "ja": [
+              "本気で言ってるのか…？"
+            ],
+            "ko": [
+              "오, 신이여."
+            ],
             "pt-br": [
               "Minha nossa."
+            ],
+            "ru": [
+              "Боже мой."
+            ],
+            "s-cn": [
+              "我的天。"
+            ],
+            "t-cn": [
+              "我的天。"
             ]
           },
           "provenance": {
@@ -583,12 +1285,75 @@
           "He's got his charms!",
           "Oh my God."
         ],
+        "de": [
+          "Los, holen wir uns diesen dämlichen Magistrat!",
+          "Los, schnappen wir uns diesen ... Na ja, dämlich ist er ja nicht!",
+          "Ich meine damit, das wir ihn nicht mögen!",
+          "Er hat schon seinen Charme!",
+          "O Gott."
+        ],
+        "es": [
+          "¡Vamos a atrapar a ese magistrado inútil!",
+          "¡Vamos a atrapar a ese...! Bueno, a ver, en realidad no es ningún estúpido.",
+          "¡Lo que quiero decir es que no nos cae bien!",
+          "¡Tiene su encanto!",
+          "Ay, Dios."
+        ],
+        "fr": [
+          "Allons chercher cet idiot de magistrat !",
+          "Oui, allons chercher cet... enfin, il n'est pas idiot, hein !",
+          "Je veux dire qu'on ne l'aime pas !",
+          "Il a son charme !",
+          "Oh mon Dieu."
+        ],
+        "it": [
+          "Andiamo a prendere quello stupido magistrato!",
+          "Andiamo a prendere quello... Insomma, non è che sia proprio stupido!",
+          "Lo dico solo perché non ci sta simpatico!",
+          "Ha il suo fascino!",
+          "Oddio."
+        ],
+        "ja": [
+          "あのバカ判事を捕まえるぞ！",
+          "あのバカ… いや、 バカじゃないよ！",
+          "気に入らねぇヤツだって意味だ！",
+          "誰にだっていいところもあるよ！",
+          "本気で言ってるのか…？"
+        ],
+        "ko": [
+          "가서 그 멍청한 치안판사를 잡자!",
+          "가서 그... 아니, 그래도 그 사람이 멍청한 건 아니잖아!",
+          "우린 그 사람 싫어하잖아!",
+          "그래도 나름의 매력이 있어!",
+          "오, 신이여."
+        ],
         "pt-br": [
           "Vamos atrás daquele Magistrado idiota.",
           "Vamos atrás daquele... Quer dizer, ele não é idiota!",
           "Digo, a gente não gosta dele!",
           "Ele tem seus encantos!",
           "Minha nossa."
+        ],
+        "ru": [
+          "Пошли ловить этого глупого Магистрата!",
+          "Пошли ловить этого... То есть, он вообще-то не глупый!",
+          "Я имею в виду, что он нам не нравится!",
+          "Есть в нём своё очарование!",
+          "Боже мой."
+        ],
+        "s-cn": [
+          "走，去收拾那个蠢执政官！",
+          "走，去收拾那个……其实吧，我觉得他不蠢！",
+          "反正我们不喜欢他！",
+          "他也有他的魅力嘛！",
+          "我的天。"
+        ],
+        "t-cn": [
+          "走，去收拾那個蠢執政官！",
+          "走，去收拾那個……其實吧，我覺得他不蠢！",
+          "反正我們不喜歡他！",
+          "他也有他的魅力嘛！",
+          "我的天。"
         ]
       },
       "silentCues": [],

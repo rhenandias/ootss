@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_sky_play_of_form_1",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -19,14 +28,41 @@
             "en": [
               "Our Order was founded from the meeting of two old 'spiritual' traditions, together with a newer one that's more like your own Natural Philosophy."
             ],
+            "de": [
+              "Unser Orden entstand aus dem Zusammentreffen zweier alter „spiritueller“ Traditionen mit einer neueren, die deiner eigenen Naturphilosophie stärker ähnelt."
+            ],
+            "es": [
+              "Nuestra Orden nació del encuentro de dos antiguas tradiciones «espirituales», junto con una más nueva que se parece más a tu propia filosofía natural."
+            ],
+            "fr": [
+              "Notre Ordre a été fondé à partir de la rencontre de deux anciennes traditions « spirituelles », avec une troisième, plus récente, qui ressemble davantage à votre philosophie naturelle."
+            ],
+            "it": [
+              "Il nostro Ordine è nato dall'incontro di due antiche tradizioni \"spirituali\", insieme a una più recente che è più simile alla tua filosofia naturale."
+            ],
+            "ja": [
+              "私たちの教団は、二つの古い「精神的」伝統に、 もう一つ、新しい伝統が加わって生まれたの。 その新しい伝統は、 あなたたちの自然哲学に近いものよ。"
+            ],
+            "ko": [
+              "우리 결사단은 오래된 두 가지 '영적' 전통에, 네 세계의 자연철학과 더 비슷한 새로운 전통 하나가 합쳐져 탄생했어."
+            ],
             "pt-br": [
               "Nossa Ordem foi fundada a partir do encontro de duas antigas tradições \"espirituais\", junto com uma mais nova, que se parece mais com a sua Filosofia Natural."
+            ],
+            "ru": [
+              "Наш Орден возник из встречи двух старых «духовных» традиций с более новой, которая больше похожа на твою натурфилософию."
+            ],
+            "s-cn": [
+              "沉星之序由两种古老的“灵性”传统与一种较新的传统交汇而成， 后者更接近你们的自然哲学。"
+            ],
+            "t-cn": [
+              "沉星之序由兩種古老的「靈性」傳統與一種較新的 傳統交匯而成，後者更接近你們的自然哲學。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1_1__acting.wav",
             "subtitleCueLines": [
-              9803
+              9813
             ],
             "explicitAudioReference": null
           }
@@ -41,14 +77,41 @@
             "en": [
               "I'll enjoy hearing about that last one."
             ],
+            "de": [
+              "Ich freue mich schon darauf, mehr über Letzteres zu hören."
+            ],
+            "es": [
+              "Me encantará oír hablar de esa última."
+            ],
+            "fr": [
+              "J'aurai plaisir à entendre parler de cette dernière."
+            ],
+            "it": [
+              "Mi farà piacere sentir parlare di quest'ultima."
+            ],
+            "ja": [
+              "その最後の話なら、楽しみに聞けそうです。"
+            ],
+            "ko": [
+              "마지막 전통에 관한 이야기는 재미있게 들을 수 있겠군요."
+            ],
             "pt-br": [
               "Vou gostar de ouvir sobre essa última."
+            ],
+            "ru": [
+              "Мне будет интересно услышать о последней из них."
+            ],
+            "s-cn": [
+              "你最后说的那种传统，我倒很想听听。"
+            ],
+            "t-cn": [
+              "你最後說的那種傳統，我倒很想聽聽。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1_2__sokoban.wav",
             "subtitleCueLines": [
-              9809
+              9819
             ],
             "explicitAudioReference": null
           }
@@ -75,6 +138,96 @@
               "But as our sciences advanced, we found that we could refine our notions of these laws,",
               "making them successively more specific and accurate: the laws of physics, chemistry, astronomy, and so on."
             ],
+            "de": [
+              "Dann fangen wir mit dem spirituellen Hokuspokus an! Diese Traditionen reichen weit zurück, sagen wir, drei- bis viertausend Jahre;",
+              "und jede beleuchtet auf ihre Weise eine ähnliche Grundidee:",
+              "dass das Universum im Spiel der Form begriffen ist; ein ständiges, müheloses Wirken, das der schieren Fülle des Seins entspringt.",
+              "Ein Kind wird erwachsen und schließlich alt, ein wilder Sturm peitscht durch die Bäume, dieses Land zieht gegen jenes in den Krieg:",
+              "alles Aspekte dieses Spiels der Form, in dem sich Möglichkeiten entfalten.",
+              "Für den Rest unseres Gesprächs ist vor allem ein Gedanke wichtig:",
+              "Das Universum will verschiedene Formen erkunden;",
+              "Es ist kein totes, lebloses Fortschreiten durch die Zeit. Es quillt vielmehr über vor Fülle und bringt immer neue Überraschungen hervor.",
+              "Kommen wir nun zu dem Teil, der dir besser gefallen wird: den Methoden zum Verständnis der Naturgesetze.",
+              "Als unsere Zivilisationen noch jung waren, hielten wir die Gesetze womöglich für simpel:",
+              "die Sonne geht in regelmäßigen Abständen auf, die Gezeiten wechseln, Gegenstände fallen zu Boden und zerbrechen.",
+              "Doch mit dem Fortschritt unserer Wissenschaften konnten wir diese Gesetze immer weiter verfeinern.",
+              "Dabei wurden sie nach und nach spezifischer und genauer: die Gesetze der Physik, Chemie, Astronomie und so weiter."
+            ],
+            "es": [
+              "¡Empecemos, pues, por las místicas! Estas tradiciones se remontan, pongamos, a hace tres o cuatro mil años;",
+              "y cada una arroja una luz distinta sobre una misma idea fundamental:",
+              "que el Universo está involucrado en un Juego de la Forma; una acción constante y ligera, realizada por la pura plenitud del ser.",
+              "Un niño se convierte en adulto, un adulto en anciano, una tormenta salvaje azota los árboles, esta nación entra en guerra con aquella:",
+              "todos son aspectos de este juego de la forma, de las posibilidades que se despliegan.",
+              "La conclusión importante que hay que extraer para el resto de este debate",
+              "es que el Universo quiere explorar diferentes formas;",
+              "no es una progresión inerte y fallecida a lo largo del tiempo, sino abundante y sorprendente, aunque no se sepa cómo.",
+              "Ahora llegamos a la parte que te gustará más: los métodos para comprender la ley natural.",
+              "Cuando nuestras civilizaciones eran jóvenes, podríamos haber pensado que las leyes eran simples:",
+              "el sol sale a intervalos regulares, las mareas se alternan, los objetos caen y se rompen.",
+              "Sin embargo, y a medida que las ciencias avanzaron, vimos que podíamos refinar nuestra idea de esas leyes,",
+              "haciéndolas sucesivamente más específicas y precisas: las leyes de la física, la química, la astronomía, etc."
+            ],
+            "fr": [
+              "Commençons donc par les trucs ésotériques ! Ces traditions remontent, disons, à trois ou quatre mille ans ;",
+              "et chacune éclaire différemment une idée fondamentale similaire :",
+              "que l'Univers est engagé dans un jeu des formes ; une action constante, sans effort, accomplie par la simple plénitude de l'être.",
+              "Un enfant devient adulte, puis vieillard, une violente tempête balaie les arbres, ce pays entre en guerre contre celui-là :",
+              "autant d'aspects de ce jeu des formes, de possibilités qui se déploient.",
+              "L'idée importante à garder en tête pour la suite de cette discussion",
+              "est que l'Univers veut explorer différentes formes ;",
+              "ce n'est pas une progression morte et sans vie à travers le temps, mais quelque chose de foisonnant, qui génère des surprises.",
+              "Maintenant, nous arrivons à la partie qui vous plaira davantage : les méthodes de compréhension de la Loi naturelle.",
+              "Quand nos civilisations étaient jeunes, nous aurions pu penser que les lois étaient simples :",
+              "le soleil se lève à intervalles réguliers, les marées suivent leur cycle, les objets tombent et se brisent.",
+              "Mais à mesure que les sciences de notre monde ont progressé, nous avons découvert que nous pouvions affiner notre idée de ces lois,",
+              "en les rendant toujours plus précises et plus justes : les lois de la physique, de la chimie, de l'astronomie, et ainsi de suite."
+            ],
+            "it": [
+              "Cominciamo con quelle un po' mistiche, allora! Queste tradizioni risalgono, diciamo, a tremila o quattromila anni fa;",
+              "e ciascuna getta una luce diversa su un'idea fondamentale simile:",
+              "che l'universo sia impegnato in un gioco di forme; un'azione costante e senza sforzo, compiuta per la pura pienezza dell'essere.",
+              "Un bambino diventa adulto, un adulto diventa vecchio, una tempesta furiosa scuote gli alberi, questa nazione va in guerra con quell'altra:",
+              "tutti aspetti di questo gioco di forme, di possibilità che si dispiegano.",
+              "L'idea importante da portare nel resto di questa discussione",
+              "è che l'universo vuole esplorare forme diverse:",
+              "non è una progressione morta e senza vita attraverso il tempo, ma in qualche modo abbondante e capace di sorprendere.",
+              "Ora arriviamo alla parte che ti piacerà di più: i metodi della comprensione della legge naturale.",
+              "Quando le nostre civiltà erano giovani, avremmo potuto pensare che le leggi fossero semplici:",
+              "il sole sorge a intervalli regolari, le maree si susseguono, gli oggetti cadono e si rompono.",
+              "Ma con l'avanzare delle nostre scienze, abbiamo scoperto che potevamo affinare la nozione di queste leggi,",
+              "rendendole via via più specifiche e accurate: le leggi della fisica, della chimica, dell'astronomia e così via."
+            ],
+            "ja": [
+              "じゃあ、怪しげな話から始めましょう！ これらの伝統は、そうね、 3千年か4千年ほど昔にさかのぼる。",
+              "そして、それぞれ違う角度から、 よく似た根本的な考え方に光を当てている。",
+              "宇宙は「形の戯れ」に興じている、という考え。 存在そのものの満ちあふれる豊かさから、 何の力みもなく、絶え間なく続く営みなの。",
+              "子供が大人になり、老人になる。 激しい嵐が木々を揺さぶる。 ある国が別の国と戦争をする。",
+              "すべてが、この形の戯れの一面。 可能性が現れていく姿なの。",
+              "この先の話で、 心に留めてほしい大事な考え方は、",
+              "宇宙はさまざまな形を探ることを 望んでいるということ。",
+              "命のないものが、ただ時の流れに沿って 進んでいるわけではない。 そこには何か豊かなものがあって、 次々と驚きが生まれるの。",
+              "さて、あなたがもっと気に入りそうな話。 自然法則を理解する方法についてよ。",
+              "文明がまだ若かった頃、 法則は単純だと思っていたかもしれない。",
+              "太陽は一定の間隔で昇り、 潮は満ち引きを繰り返し、 物は下へ落ちて壊れる。",
+              "でも、科学が進むにつれて、 そうした法則を、もっと細かく 捉えられると分かってきた。",
+              "より具体的に、より正確にね。 物理学や化学、天文学などで扱う法則よ。"
+            ],
+            "ko": [
+              "그럼 뜬구름 잡는 쪽부터 시작하자! 이 전통들은 대략, 삼천 년에서 사천 년 전으로 거슬러 올라가.",
+              "각각 비슷한 근본 사상을 서로 다른 시각에서 조명하지.",
+              "우주가 형태의 유희를 펼치고 있다는 거야. 존재의 충만함만으로 저절로 일어나는, 끊임없고 힘들일 필요도 없는 활동이지.",
+              "아이가 어른이 되고 노인이 되는 것도, 거센 폭풍이 나무 사이를 휩쓰는 것도, 이 나라가 저 나라와 전쟁을 벌이는 것도.",
+              "모두 이 형태의 유희가 드러나는 모습이야. 가능성이 실현되는 모습이지.",
+              "앞으로 이어질 이야기에서 기억해야 할 중요한 개념은",
+              "우주는 다양한 형태를 탐구하기를 원한다는 거야.",
+              "그저 죽은 듯 생기 없이 시간에 따라 흘러가는 게 아니라, 어떤 식으로든 풍요와 놀라움을 만들어낸다는 거지.",
+              "이제 네가 더 좋아할 만한 부분으로 넘어가자. 자연법칙을 이해하는 방법에 관한 거야.",
+              "우리 문명이 아직 어렸을 때는, 그 법칙들이 단순하다고 생각했을 거야.",
+              "태양은 일정한 간격으로 떠오르고, 밀물과 썰물은 반복되고, 물체는 아래로 떨어지면 깨지지.",
+              "하지만 우리 세계의 과학이 발전하면서, 이 법칙들에 대한 생각을 다듬을 수 있다는 걸 알았어.",
+              "물리학, 화학, 천문학 등의 법칙을 점점 더 구체적이고 정확하게 만드는 거지."
+            ],
             "pt-br": [
               "Vamos começar pelas esotéricas, então! Essas tradições remontam, digamos, a três ou quatro mil anos;",
               "e cada uma lança uma luz diferente sobre uma ideia fundamental parecida:",
@@ -89,24 +242,69 @@
               "o sol nasce em intervalos regulares, as marés mudam, objetos caem e quebram.",
               "Mas, à medida que as ciências do nosso mundo avançaram, descobrimos que podíamos refinar nossa ideia dessas leis,",
               "tornando-as cada vez mais específicas e precisas: as leis da física, da química, da astronomia e assim por diante."
+            ],
+            "ru": [
+              "Тогда начнём с этой эзотерики! Эти традиции уходят, скажем, на три-четыре тысячи лет назад;",
+              "и каждая из них проливает разный свет на схожую фундаментальную идею:",
+              "что Вселенная участвует в Игре форм; в постоянном, непринуждённом действии, совершаемом из самой полноты бытия.",
+              "Ребёнок становится взрослым, взрослый — стариком, по деревьям проносится яростная буря, эта страна идёт войной на ту страну:",
+              "все аспекты этой игры форм, разыгрывания возможностей.",
+              "Важная мысль, которую стоит перенести в остальную часть этого разговора:",
+              "Вселенная хочет исследовать разные формы;",
+              "это не мертвое и безжизненное развитие во времени, а нечто избыточное и порождающее удивительное.",
+              "Теперь мы переходим к части, которая понравится тебе больше: к методам постижения Закона природы.",
+              "Когда наши цивилизации были молоды, мы могли бы подумать, что законы просты:",
+              "солнце встаёт через регулярные промежутки, приливы сменяют друг друга, предметы падают и разбиваются.",
+              "Но по мере развития наук нашего мира мы поняли, что можем уточнять наше представление об этих законах,",
+              "делая их всё более конкретными и точными: законы физики, химии, астрономии и так далее."
+            ],
+            "s-cn": [
+              "那就先从最玄乎的说起吧！这些传统可以追溯到大约三四千年前；",
+              "它们却从不同角度阐释着同一个根本理念：",
+              "宇宙始终在进行一场“形态之戏”： 它永不停歇，却毫不费力，只因存在本身无比丰盈。",
+              "孩子长成大人，大人又变成老人； 狂风席卷树林；这个国家与那个国家开战：",
+              "这些都是“形态之戏”的表现，是种种可能性的展开。",
+              "接下来的讨论里，最重要的是记住这点：",
+              "宇宙想要探索不同的形态；",
+              "世界并不是照着既定轨迹死气沉沉地向前走； 它不知为何如此富有生机，总能带来意外。",
+              "现在，我们聊聊你更喜欢听的话题： 认识自然法则的方法。",
+              "在我们的文明尚且年轻时，我们或许以为这些法则很简单：",
+              "太阳按时升起，潮汐涨落往复，物体落下会摔碎。",
+              "但随着科学的发展，我们发现还可以进一步完善对这些法则的理解，",
+              "使其越来越具体、准确， 逐渐形成物理、化学、天文学等各个领域的法则。"
+            ],
+            "t-cn": [
+              "那就先從最玄乎的說起吧！ 這些傳統可以追溯到大約三四千年前；",
+              "它們卻從不同角度闡釋著同一個根本理念：",
+              "宇宙始終在進行一場「形態之戲」： 它永不停歇，卻毫不費力，只因存在本身無比豐盈。",
+              "孩子長成大人，大人又變成老人； 狂風席捲樹林；這個國家與那個國家開戰：",
+              "這些都是「形態之戲」的表現，是種種可能性的展開。",
+              "接下來的討論裡，最重要的是記住這點：",
+              "宇宙想要探索不同的形態；",
+              "世界並不是照著既定軌跡死氣沉沉地向前走； 它不知為何如此富有生機，總能帶來意外。",
+              "現在，我們聊聊你更喜歡聽的話題：認識自然法則的方法。",
+              "在我們的文明尚且年輕時，我們或許以為這些法則很簡單：",
+              "太陽按時升起，潮汐漲落往復，物體落下會摔碎。",
+              "但隨著科學的發展， 我們發現還可以進一步完善對這些法則的理解，",
+              "使其越來越具體、準確， 逐漸形成物理、化學、天文學等各個領域的法則。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1_3__acting.wav",
             "subtitleCueLines": [
-              9813,
-              9819,
               9823,
-              9828,
+              9829,
               9833,
-              9837,
-              9841,
-              9845,
-              9850,
-              9856,
+              9838,
+              9843,
+              9847,
+              9851,
+              9855,
               9860,
-              9864,
-              9868
+              9866,
+              9870,
+              9874,
+              9878
             ],
             "explicitAudioReference": null
           }
@@ -134,6 +332,108 @@
           "But as our sciences advanced, we found that we could refine our notions of these laws,",
           "making them successively more specific and accurate: the laws of physics, chemistry, astronomy, and so on."
         ],
+        "de": [
+          "Unser Orden entstand aus dem Zusammentreffen zweier alter „spiritueller“ Traditionen mit einer neueren, die deiner eigenen Naturphilosophie stärker ähnelt.",
+          "Ich freue mich schon darauf, mehr über Letzteres zu hören.",
+          "Dann fangen wir mit dem spirituellen Hokuspokus an! Diese Traditionen reichen weit zurück, sagen wir, drei- bis viertausend Jahre;",
+          "und jede beleuchtet auf ihre Weise eine ähnliche Grundidee:",
+          "dass das Universum im Spiel der Form begriffen ist; ein ständiges, müheloses Wirken, das der schieren Fülle des Seins entspringt.",
+          "Ein Kind wird erwachsen und schließlich alt, ein wilder Sturm peitscht durch die Bäume, dieses Land zieht gegen jenes in den Krieg:",
+          "alles Aspekte dieses Spiels der Form, in dem sich Möglichkeiten entfalten.",
+          "Für den Rest unseres Gesprächs ist vor allem ein Gedanke wichtig:",
+          "Das Universum will verschiedene Formen erkunden;",
+          "Es ist kein totes, lebloses Fortschreiten durch die Zeit. Es quillt vielmehr über vor Fülle und bringt immer neue Überraschungen hervor.",
+          "Kommen wir nun zu dem Teil, der dir besser gefallen wird: den Methoden zum Verständnis der Naturgesetze.",
+          "Als unsere Zivilisationen noch jung waren, hielten wir die Gesetze womöglich für simpel:",
+          "die Sonne geht in regelmäßigen Abständen auf, die Gezeiten wechseln, Gegenstände fallen zu Boden und zerbrechen.",
+          "Doch mit dem Fortschritt unserer Wissenschaften konnten wir diese Gesetze immer weiter verfeinern.",
+          "Dabei wurden sie nach und nach spezifischer und genauer: die Gesetze der Physik, Chemie, Astronomie und so weiter."
+        ],
+        "es": [
+          "Nuestra Orden nació del encuentro de dos antiguas tradiciones «espirituales», junto con una más nueva que se parece más a tu propia filosofía natural.",
+          "Me encantará oír hablar de esa última.",
+          "¡Empecemos, pues, por las místicas! Estas tradiciones se remontan, pongamos, a hace tres o cuatro mil años;",
+          "y cada una arroja una luz distinta sobre una misma idea fundamental:",
+          "que el Universo está involucrado en un Juego de la Forma; una acción constante y ligera, realizada por la pura plenitud del ser.",
+          "Un niño se convierte en adulto, un adulto en anciano, una tormenta salvaje azota los árboles, esta nación entra en guerra con aquella:",
+          "todos son aspectos de este juego de la forma, de las posibilidades que se despliegan.",
+          "La conclusión importante que hay que extraer para el resto de este debate",
+          "es que el Universo quiere explorar diferentes formas;",
+          "no es una progresión inerte y fallecida a lo largo del tiempo, sino abundante y sorprendente, aunque no se sepa cómo.",
+          "Ahora llegamos a la parte que te gustará más: los métodos para comprender la ley natural.",
+          "Cuando nuestras civilizaciones eran jóvenes, podríamos haber pensado que las leyes eran simples:",
+          "el sol sale a intervalos regulares, las mareas se alternan, los objetos caen y se rompen.",
+          "Sin embargo, y a medida que las ciencias avanzaron, vimos que podíamos refinar nuestra idea de esas leyes,",
+          "haciéndolas sucesivamente más específicas y precisas: las leyes de la física, la química, la astronomía, etc."
+        ],
+        "fr": [
+          "Notre Ordre a été fondé à partir de la rencontre de deux anciennes traditions « spirituelles », avec une troisième, plus récente, qui ressemble davantage à votre philosophie naturelle.",
+          "J'aurai plaisir à entendre parler de cette dernière.",
+          "Commençons donc par les trucs ésotériques ! Ces traditions remontent, disons, à trois ou quatre mille ans ;",
+          "et chacune éclaire différemment une idée fondamentale similaire :",
+          "que l'Univers est engagé dans un jeu des formes ; une action constante, sans effort, accomplie par la simple plénitude de l'être.",
+          "Un enfant devient adulte, puis vieillard, une violente tempête balaie les arbres, ce pays entre en guerre contre celui-là :",
+          "autant d'aspects de ce jeu des formes, de possibilités qui se déploient.",
+          "L'idée importante à garder en tête pour la suite de cette discussion",
+          "est que l'Univers veut explorer différentes formes ;",
+          "ce n'est pas une progression morte et sans vie à travers le temps, mais quelque chose de foisonnant, qui génère des surprises.",
+          "Maintenant, nous arrivons à la partie qui vous plaira davantage : les méthodes de compréhension de la Loi naturelle.",
+          "Quand nos civilisations étaient jeunes, nous aurions pu penser que les lois étaient simples :",
+          "le soleil se lève à intervalles réguliers, les marées suivent leur cycle, les objets tombent et se brisent.",
+          "Mais à mesure que les sciences de notre monde ont progressé, nous avons découvert que nous pouvions affiner notre idée de ces lois,",
+          "en les rendant toujours plus précises et plus justes : les lois de la physique, de la chimie, de l'astronomie, et ainsi de suite."
+        ],
+        "it": [
+          "Il nostro Ordine è nato dall'incontro di due antiche tradizioni \"spirituali\", insieme a una più recente che è più simile alla tua filosofia naturale.",
+          "Mi farà piacere sentir parlare di quest'ultima.",
+          "Cominciamo con quelle un po' mistiche, allora! Queste tradizioni risalgono, diciamo, a tremila o quattromila anni fa;",
+          "e ciascuna getta una luce diversa su un'idea fondamentale simile:",
+          "che l'universo sia impegnato in un gioco di forme; un'azione costante e senza sforzo, compiuta per la pura pienezza dell'essere.",
+          "Un bambino diventa adulto, un adulto diventa vecchio, una tempesta furiosa scuote gli alberi, questa nazione va in guerra con quell'altra:",
+          "tutti aspetti di questo gioco di forme, di possibilità che si dispiegano.",
+          "L'idea importante da portare nel resto di questa discussione",
+          "è che l'universo vuole esplorare forme diverse:",
+          "non è una progressione morta e senza vita attraverso il tempo, ma in qualche modo abbondante e capace di sorprendere.",
+          "Ora arriviamo alla parte che ti piacerà di più: i metodi della comprensione della legge naturale.",
+          "Quando le nostre civiltà erano giovani, avremmo potuto pensare che le leggi fossero semplici:",
+          "il sole sorge a intervalli regolari, le maree si susseguono, gli oggetti cadono e si rompono.",
+          "Ma con l'avanzare delle nostre scienze, abbiamo scoperto che potevamo affinare la nozione di queste leggi,",
+          "rendendole via via più specifiche e accurate: le leggi della fisica, della chimica, dell'astronomia e così via."
+        ],
+        "ja": [
+          "私たちの教団は、二つの古い「精神的」伝統に、 もう一つ、新しい伝統が加わって生まれたの。 その新しい伝統は、 あなたたちの自然哲学に近いものよ。",
+          "その最後の話なら、楽しみに聞けそうです。",
+          "じゃあ、怪しげな話から始めましょう！ これらの伝統は、そうね、 3千年か4千年ほど昔にさかのぼる。",
+          "そして、それぞれ違う角度から、 よく似た根本的な考え方に光を当てている。",
+          "宇宙は「形の戯れ」に興じている、という考え。 存在そのものの満ちあふれる豊かさから、 何の力みもなく、絶え間なく続く営みなの。",
+          "子供が大人になり、老人になる。 激しい嵐が木々を揺さぶる。 ある国が別の国と戦争をする。",
+          "すべてが、この形の戯れの一面。 可能性が現れていく姿なの。",
+          "この先の話で、 心に留めてほしい大事な考え方は、",
+          "宇宙はさまざまな形を探ることを 望んでいるということ。",
+          "命のないものが、ただ時の流れに沿って 進んでいるわけではない。 そこには何か豊かなものがあって、 次々と驚きが生まれるの。",
+          "さて、あなたがもっと気に入りそうな話。 自然法則を理解する方法についてよ。",
+          "文明がまだ若かった頃、 法則は単純だと思っていたかもしれない。",
+          "太陽は一定の間隔で昇り、 潮は満ち引きを繰り返し、 物は下へ落ちて壊れる。",
+          "でも、科学が進むにつれて、 そうした法則を、もっと細かく 捉えられると分かってきた。",
+          "より具体的に、より正確にね。 物理学や化学、天文学などで扱う法則よ。"
+        ],
+        "ko": [
+          "우리 결사단은 오래된 두 가지 '영적' 전통에, 네 세계의 자연철학과 더 비슷한 새로운 전통 하나가 합쳐져 탄생했어.",
+          "마지막 전통에 관한 이야기는 재미있게 들을 수 있겠군요.",
+          "그럼 뜬구름 잡는 쪽부터 시작하자! 이 전통들은 대략, 삼천 년에서 사천 년 전으로 거슬러 올라가.",
+          "각각 비슷한 근본 사상을 서로 다른 시각에서 조명하지.",
+          "우주가 형태의 유희를 펼치고 있다는 거야. 존재의 충만함만으로 저절로 일어나는, 끊임없고 힘들일 필요도 없는 활동이지.",
+          "아이가 어른이 되고 노인이 되는 것도, 거센 폭풍이 나무 사이를 휩쓰는 것도, 이 나라가 저 나라와 전쟁을 벌이는 것도.",
+          "모두 이 형태의 유희가 드러나는 모습이야. 가능성이 실현되는 모습이지.",
+          "앞으로 이어질 이야기에서 기억해야 할 중요한 개념은",
+          "우주는 다양한 형태를 탐구하기를 원한다는 거야.",
+          "그저 죽은 듯 생기 없이 시간에 따라 흘러가는 게 아니라, 어떤 식으로든 풍요와 놀라움을 만들어낸다는 거지.",
+          "이제 네가 더 좋아할 만한 부분으로 넘어가자. 자연법칙을 이해하는 방법에 관한 거야.",
+          "우리 문명이 아직 어렸을 때는, 그 법칙들이 단순하다고 생각했을 거야.",
+          "태양은 일정한 간격으로 떠오르고, 밀물과 썰물은 반복되고, 물체는 아래로 떨어지면 깨지지.",
+          "하지만 우리 세계의 과학이 발전하면서, 이 법칙들에 대한 생각을 다듬을 수 있다는 걸 알았어.",
+          "물리학, 화학, 천문학 등의 법칙을 점점 더 구체적이고 정확하게 만드는 거지."
+        ],
         "pt-br": [
           "Nossa Ordem foi fundada a partir do encontro de duas antigas tradições \"espirituais\", junto com uma mais nova, que se parece mais com a sua Filosofia Natural.",
           "Vou gostar de ouvir sobre essa última.",
@@ -150,6 +450,57 @@
           "o sol nasce em intervalos regulares, as marés mudam, objetos caem e quebram.",
           "Mas, à medida que as ciências do nosso mundo avançaram, descobrimos que podíamos refinar nossa ideia dessas leis,",
           "tornando-as cada vez mais específicas e precisas: as leis da física, da química, da astronomia e assim por diante."
+        ],
+        "ru": [
+          "Наш Орден возник из встречи двух старых «духовных» традиций с более новой, которая больше похожа на твою натурфилософию.",
+          "Мне будет интересно услышать о последней из них.",
+          "Тогда начнём с этой эзотерики! Эти традиции уходят, скажем, на три-четыре тысячи лет назад;",
+          "и каждая из них проливает разный свет на схожую фундаментальную идею:",
+          "что Вселенная участвует в Игре форм; в постоянном, непринуждённом действии, совершаемом из самой полноты бытия.",
+          "Ребёнок становится взрослым, взрослый — стариком, по деревьям проносится яростная буря, эта страна идёт войной на ту страну:",
+          "все аспекты этой игры форм, разыгрывания возможностей.",
+          "Важная мысль, которую стоит перенести в остальную часть этого разговора:",
+          "Вселенная хочет исследовать разные формы;",
+          "это не мертвое и безжизненное развитие во времени, а нечто избыточное и порождающее удивительное.",
+          "Теперь мы переходим к части, которая понравится тебе больше: к методам постижения Закона природы.",
+          "Когда наши цивилизации были молоды, мы могли бы подумать, что законы просты:",
+          "солнце встаёт через регулярные промежутки, приливы сменяют друг друга, предметы падают и разбиваются.",
+          "Но по мере развития наук нашего мира мы поняли, что можем уточнять наше представление об этих законах,",
+          "делая их всё более конкретными и точными: законы физики, химии, астрономии и так далее."
+        ],
+        "s-cn": [
+          "沉星之序由两种古老的“灵性”传统与一种较新的传统交汇而成， 后者更接近你们的自然哲学。",
+          "你最后说的那种传统，我倒很想听听。",
+          "那就先从最玄乎的说起吧！这些传统可以追溯到大约三四千年前；",
+          "它们却从不同角度阐释着同一个根本理念：",
+          "宇宙始终在进行一场“形态之戏”： 它永不停歇，却毫不费力，只因存在本身无比丰盈。",
+          "孩子长成大人，大人又变成老人； 狂风席卷树林；这个国家与那个国家开战：",
+          "这些都是“形态之戏”的表现，是种种可能性的展开。",
+          "接下来的讨论里，最重要的是记住这点：",
+          "宇宙想要探索不同的形态；",
+          "世界并不是照着既定轨迹死气沉沉地向前走； 它不知为何如此富有生机，总能带来意外。",
+          "现在，我们聊聊你更喜欢听的话题： 认识自然法则的方法。",
+          "在我们的文明尚且年轻时，我们或许以为这些法则很简单：",
+          "太阳按时升起，潮汐涨落往复，物体落下会摔碎。",
+          "但随着科学的发展，我们发现还可以进一步完善对这些法则的理解，",
+          "使其越来越具体、准确， 逐渐形成物理、化学、天文学等各个领域的法则。"
+        ],
+        "t-cn": [
+          "沉星之序由兩種古老的「靈性」傳統與一種較新的 傳統交匯而成，後者更接近你們的自然哲學。",
+          "你最後說的那種傳統，我倒很想聽聽。",
+          "那就先從最玄乎的說起吧！ 這些傳統可以追溯到大約三四千年前；",
+          "它們卻從不同角度闡釋著同一個根本理念：",
+          "宇宙始終在進行一場「形態之戲」： 它永不停歇，卻毫不費力，只因存在本身無比豐盈。",
+          "孩子長成大人，大人又變成老人； 狂風席捲樹林；這個國家與那個國家開戰：",
+          "這些都是「形態之戲」的表現，是種種可能性的展開。",
+          "接下來的討論裡，最重要的是記住這點：",
+          "宇宙想要探索不同的形態；",
+          "世界並不是照著既定軌跡死氣沉沉地向前走； 它不知為何如此富有生機，總能帶來意外。",
+          "現在，我們聊聊你更喜歡聽的話題：認識自然法則的方法。",
+          "在我們的文明尚且年輕時，我們或許以為這些法則很簡單：",
+          "太陽按時升起，潮汐漲落往復，物體落下會摔碎。",
+          "但隨著科學的發展， 我們發現還可以進一步完善對這些法則的理解，",
+          "使其越來越具體、準確， 逐漸形成物理、化學、天文學等各個領域的法則。"
         ]
       },
       "silentCues": [],

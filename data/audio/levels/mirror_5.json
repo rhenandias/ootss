@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Of course, it's a touchy subject, but... you say you're going to die?"
             ],
+            "de": [
+              "Ich weiß, das ist ein heikles Thema, aber ... du sagst, du wirst sterben?"
+            ],
+            "es": [
+              "Claro, es un tema delicado, pero... ¿dices que vas a morir?"
+            ],
+            "fr": [
+              "Bien sûr, c'est un sujet délicat, mais... Vous allez mourir, vous dites ?"
+            ],
+            "it": [
+              "Certo, è un argomento delicato, ma... dici che morirai?"
+            ],
+            "ja": [
+              "君は死ぬのか？"
+            ],
+            "ko": [
+              "물론 민감한 주제이긴 하지만... 넌 죽어가고 있다고?"
+            ],
             "pt-br": [
               "Claro, é um assunto delicado, mas... você diz que vai morrer?"
+            ],
+            "ru": [
+              "Конечно, это деликатная тема, но... ты говоришь, что умрёшь?"
+            ],
+            "s-cn": [
+              "当然，这是个敏感话题，不过…… 你说你快死了？"
+            ],
+            "t-cn": [
+              "當然，這是個敏感話題，不過…… 你說你快死了？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_2_1__trader_alt.wav",
             "subtitleCueLines": [
-              6064
+              6074
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "I was told so by an Oracle."
             ],
+            "de": [
+              "Ein Orakel hat es mir gesagt."
+            ],
+            "es": [
+              "Eso me ha dicho una oráculo."
+            ],
+            "fr": [
+              "C'est une oracle qui me l'a dit."
+            ],
+            "it": [
+              "Me l'ha detto un Oracolo."
+            ],
+            "ja": [
+              "神託者にそう言われた。"
+            ],
+            "ko": [
+              "오라클에 따르면."
+            ],
             "pt-br": [
               "Foi o que uma Oráculo me disse."
+            ],
+            "ru": [
+              "Так мне сказала Оракул."
+            ],
+            "s-cn": [
+              "是一位神谕者告诉我的。"
+            ],
+            "t-cn": [
+              "是一位神諭者告訴我的。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_2_2__trader.wav",
             "subtitleCueLines": [
-              6068
+              6078
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "And you believe it?"
             ],
+            "de": [
+              "Und du glaubst das?"
+            ],
+            "es": [
+              "¿Y te lo crees?"
+            ],
+            "fr": [
+              "Et vous y croyez ?"
+            ],
+            "it": [
+              "E ci credi?"
+            ],
+            "ja": [
+              "信じているのか？"
+            ],
+            "ko": [
+              "그걸 믿어?"
+            ],
             "pt-br": [
               "Você acredita nisso?"
+            ],
+            "ru": [
+              "Ты веришь в это?"
+            ],
+            "s-cn": [
+              "那你信？"
+            ],
+            "t-cn": [
+              "那你信？"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_2_3__trader_alt.wav",
             "subtitleCueLines": [
-              6071
+              6081
             ],
             "explicitAudioReference": null
           }
@@ -89,14 +179,41 @@
             "en": [
               "Years back, she predicted I'd become the most successful Tradesman. And it has come to pass."
             ],
+            "de": [
+              "Vor langer Zeit hat sie vorhergesagt, dass ich der erfolgreichste Kaufmann werden würde. Und genau so ist es gekommen."
+            ],
+            "es": [
+              "Hace mucho, predijo que me convertiría en el comerciante más exitoso. Y así fue."
+            ],
+            "fr": [
+              "Il y a longtemps, elle avait prédit que je deviendrais le plus prospère des marchands. Et cela s'est réalisé."
+            ],
+            "it": [
+              "Molto tempo fa, lei predisse che sarei diventato il mercante di maggior successo. E così è stato."
+            ],
+            "ja": [
+              "昔、最高の商人になると 告げられて、その通りになったからな。"
+            ],
+            "ko": [
+              "아주 오래전에 오라클은 내가 가장 성공한 상인이 될 거라고 예언했지. 그리고 실제로 그렇게 됐어."
+            ],
             "pt-br": [
               "Muito tempo atrás, ela previu que eu me tornaria o Comerciante de maior sucesso. E assim aconteceu."
+            ],
+            "ru": [
+              "Давным-давно она предсказала, что я стану самым успешным Торговцем. И так и случилось."
+            ],
+            "s-cn": [
+              "很久以前，她预言我会成为最成功的商人。后来果然应验了。"
+            ],
+            "t-cn": [
+              "很久以前，她預言我會成為最成功的商人。後來果然應驗了。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_2_4__trader.wav",
             "subtitleCueLines": [
-              6075
+              6085
             ],
             "explicitAudioReference": null
           }
@@ -111,14 +228,41 @@
             "en": [
               "I've no direct experience with the Oracles myself, but they are well-regarded."
             ],
+            "de": [
+              "Was die Orakel angeht, habe ich selbst keine direkte Erfahrung, aber sie genießen hohes Ansehen."
+            ],
+            "es": [
+              "No tengo experiencia directa con los oráculos, pero gozan de buena reputación."
+            ],
+            "fr": [
+              "Je n'ai jamais eu affaire aux oracles moi-même, mais elles ont bonne réputation."
+            ],
+            "it": [
+              "Non ho esperienza diretta con gli Oracoli, ma godono di grande stima."
+            ],
+            "ja": [
+              "神託は絶対だ。"
+            ],
+            "ko": [
+              "난 오라클을 직접 겪어 본 적은 없지만, 평판은 좋더군."
+            ],
             "pt-br": [
               "Eu nunca tive contato direto com os oráculos, mas eles têm uma boa reputação."
+            ],
+            "ru": [
+              "Мне самому не доводилось иметь дело с оракулами, но они пользуются уважением."
+            ],
+            "s-cn": [
+              "我自己跟神谕者 没打过直接交道， 但她们颇受敬重。"
+            ],
+            "t-cn": [
+              "我自己跟神諭者 沒打過直接交道， 但她們頗受敬重。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_oracle_2_5__trader_alt.wav",
             "subtitleCueLines": [
-              6080
+              6090
             ],
             "explicitAudioReference": null
           }
@@ -136,12 +280,75 @@
           "Years back, she predicted I'd become the most successful Tradesman. And it has come to pass.",
           "I've no direct experience with the Oracles myself, but they are well-regarded."
         ],
+        "de": [
+          "Ich weiß, das ist ein heikles Thema, aber ... du sagst, du wirst sterben?",
+          "Ein Orakel hat es mir gesagt.",
+          "Und du glaubst das?",
+          "Vor langer Zeit hat sie vorhergesagt, dass ich der erfolgreichste Kaufmann werden würde. Und genau so ist es gekommen.",
+          "Was die Orakel angeht, habe ich selbst keine direkte Erfahrung, aber sie genießen hohes Ansehen."
+        ],
+        "es": [
+          "Claro, es un tema delicado, pero... ¿dices que vas a morir?",
+          "Eso me ha dicho una oráculo.",
+          "¿Y te lo crees?",
+          "Hace mucho, predijo que me convertiría en el comerciante más exitoso. Y así fue.",
+          "No tengo experiencia directa con los oráculos, pero gozan de buena reputación."
+        ],
+        "fr": [
+          "Bien sûr, c'est un sujet délicat, mais... Vous allez mourir, vous dites ?",
+          "C'est une oracle qui me l'a dit.",
+          "Et vous y croyez ?",
+          "Il y a longtemps, elle avait prédit que je deviendrais le plus prospère des marchands. Et cela s'est réalisé.",
+          "Je n'ai jamais eu affaire aux oracles moi-même, mais elles ont bonne réputation."
+        ],
+        "it": [
+          "Certo, è un argomento delicato, ma... dici che morirai?",
+          "Me l'ha detto un Oracolo.",
+          "E ci credi?",
+          "Molto tempo fa, lei predisse che sarei diventato il mercante di maggior successo. E così è stato.",
+          "Non ho esperienza diretta con gli Oracoli, ma godono di grande stima."
+        ],
+        "ja": [
+          "君は死ぬのか？",
+          "神託者にそう言われた。",
+          "信じているのか？",
+          "昔、最高の商人になると 告げられて、その通りになったからな。",
+          "神託は絶対だ。"
+        ],
+        "ko": [
+          "물론 민감한 주제이긴 하지만... 넌 죽어가고 있다고?",
+          "오라클에 따르면.",
+          "그걸 믿어?",
+          "아주 오래전에 오라클은 내가 가장 성공한 상인이 될 거라고 예언했지. 그리고 실제로 그렇게 됐어.",
+          "난 오라클을 직접 겪어 본 적은 없지만, 평판은 좋더군."
+        ],
         "pt-br": [
           "Claro, é um assunto delicado, mas... você diz que vai morrer?",
           "Foi o que uma Oráculo me disse.",
           "Você acredita nisso?",
           "Muito tempo atrás, ela previu que eu me tornaria o Comerciante de maior sucesso. E assim aconteceu.",
           "Eu nunca tive contato direto com os oráculos, mas eles têm uma boa reputação."
+        ],
+        "ru": [
+          "Конечно, это деликатная тема, но... ты говоришь, что умрёшь?",
+          "Так мне сказала Оракул.",
+          "Ты веришь в это?",
+          "Давным-давно она предсказала, что я стану самым успешным Торговцем. И так и случилось.",
+          "Мне самому не доводилось иметь дело с оракулами, но они пользуются уважением."
+        ],
+        "s-cn": [
+          "当然，这是个敏感话题，不过…… 你说你快死了？",
+          "是一位神谕者告诉我的。",
+          "那你信？",
+          "很久以前，她预言我会成为最成功的商人。后来果然应验了。",
+          "我自己跟神谕者 没打过直接交道， 但她们颇受敬重。"
+        ],
+        "t-cn": [
+          "當然，這是個敏感話題，不過…… 你說你快死了？",
+          "是一位神諭者告訴我的。",
+          "那你信？",
+          "很久以前，她預言我會成為最成功的商人。後來果然應驗了。",
+          "我自己跟神諭者 沒打過直接交道， 但她們頗受敬重。"
         ]
       },
       "silentCues": [],
@@ -163,7 +370,7 @@
             "source": "data-common/mirror_5.entities"
           }
         ],
-        "subtitleLine": 6063,
+        "subtitleLine": 6073,
         "subtitleHeader": "::"
       }
     }

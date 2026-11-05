@@ -1,0 +1,535 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "audio_trigger_1048951",
+    "audioKey": "skipping_stones_1048951",
+    "triggerKind": "boat",
+    "blocks": [
+      "skipping_stones_start",
+      "skipping_stones_start_repeat"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 1048951,
+        "entityType": "Boat",
+        "field": "initial_talk_name",
+        "value": "skipping_stones_start",
+        "rule": "exact-reference",
+        "coordinates": [
+          26.0,
+          64.0,
+          0.0
+        ]
+      },
+      {
+        "entityId": 1048951,
+        "entityType": "Boat",
+        "field": "repeat_talk_name",
+        "value": "skipping_stones_start_repeat",
+        "rule": "exact-reference",
+        "coordinates": [
+          26.0,
+          64.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "skipping_stones_start",
+      "clips": [
+        {
+          "id": "skipping_stones_start_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.76175,
+          "src": "audio/clips/skipping_stones_start_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Are you all right, fleshy one?"
+            ],
+            "de": [
+              "Alles in Ordnung, Fleischwesen?"
+            ],
+            "es": [
+              "¿Estás bien, ser de carne?"
+            ],
+            "fr": [
+              "Est-ce que ça va, chair molle ?"
+            ],
+            "it": [
+              "Tutto bene, essere di carne?"
+            ],
+            "ja": [
+              "大丈夫かい、ニンゲン？"
+            ],
+            "ko": [
+              "괜찮아, 살덩이 친구?"
+            ],
+            "pt-br": [
+              "Você está bem, ser de carne?"
+            ],
+            "ru": [
+              "Ты в порядке, кожаная?"
+            ],
+            "s-cn": [
+              "你还好吗，肉体凡躯？"
+            ],
+            "t-cn": [
+              "你還好嗎，肉體凡軀？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_1__boat.wav",
+            "subtitleCueLines": [
+              3995
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 13.443125,
+          "src": "audio/clips/skipping_stones_start_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Banged my shoulder when you stopped so suddenly.",
+              "It's bruised, stiff, and annoying, like some people we know, but, nothing permanent.",
+              "And since my upper body took the impact, my legs feel *great*!"
+            ],
+            "de": [
+              "Hab mir die Schulter gestoßen, als du so plötzlich angehalten hast.",
+              "Sie ist blau, steif und nervig, wie gewisse Leute, die wir kennen. Aber nichts Bleibendes.",
+              "Und weil mein Oberkörper den Aufprall abgefangen hat, geht's meinen Beinen prächtig!"
+            ],
+            "es": [
+              "Me golpeé el hombro cuando paraste tan de repente.",
+              "Está magullado, rígido y molesto, como algunas personas que conocemos, pero no es nada permanente.",
+              "Y como el impacto me dio de cintura para arriba, ¡tengo las piernas de maravilla!"
+            ],
+            "fr": [
+              "Je me suis cogné l'épaule quand tu t'es arrêté si brusquement.",
+              "Elle est endolorie, raide et pénible, comme certaines personnes qu'on connaît, mais ça finira par passer.",
+              "Et comme c'est le haut de mon corps qui a encaissé le choc, mes jambes vont à merveille !"
+            ],
+            "it": [
+              "Ho sbattuto la spalla quando ti sei fermato di colpo.",
+              "È ammaccata, rigida e fastidiosa, come certe persone che conosciamo, ma niente di permanente.",
+              "E visto che ho preso il colpo nella parte alta del corpo, le mie gambe stanno benissimo!"
+            ],
+            "ja": [
+              "あんたが急に止まるから、肩をぶつけたよ。",
+              "なんとか！",
+              "ぶつかったのが上半身だったおかげで、 脚は絶好調だけどね！"
+            ],
+            "ko": [
+              "네가 너무 갑자기 멈추는 바람에 어깨를 부딪쳤어.",
+              "멍들고, 뻣뻣하고, 성가시네. 뭐, 누구처럼 말이지. 그래도 영구적인 건 아니야.",
+              "게다가 상체로 충격을 받아서 다리는 아주 멀쩡하지!"
+            ],
+            "pt-br": [
+              "Bati o ombro quando você parou tão de repente.",
+              "Está machucado, rígido e irritante, como certas pessoas que conhecemos, mas, nada permanente.",
+              "E como a parte de cima do corpo levou o impacto, minhas pernas estão ótimas!"
+            ],
+            "ru": [
+              "Я ударилась плечом, когда ты так резко остановился.",
+              "Болит, не двигается и досаждает, как кое-кто из наших знакомых, но, в общем, заживёт.",
+              "А поскольку удар пришёлся по верхней части тела, ноги чувствуют себя прекрасно!"
+            ],
+            "s-cn": [
+              "你突然停下来，害我撞到了肩膀。",
+              "又青又僵，还烦人，像我们认识的某些人。 不过，不会留下什么后遗症。",
+              "好在撞的是上半身，我的腿可好得很！"
+            ],
+            "t-cn": [
+              "你突然停下來，害我撞到了肩膀。",
+              "又青又僵，還煩人，像我們認識的某些人。 不過，不會留下什麼後遺症。",
+              "好在撞的是上半身，我的腿可好得很！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_2__sailor.wav",
+            "subtitleCueLines": [
+              3999,
+              4002,
+              4008
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.426812,
+          "src": "audio/clips/skipping_stones_start_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Fortunate, as I cannot move at all. We'll need you to fetch that map over there."
+            ],
+            "de": [
+              "Ein Glück, denn ich kann mich gar nicht bewegen. Denn du musst die Karte da drüben apportieren."
+            ],
+            "es": [
+              "Qué suerte, porque yo no puedo moverme en absoluto. Me vas a tener que traer ese mapa de ahí."
+            ],
+            "fr": [
+              "Heureusement, car je ne peux pas bouger du tout. Il va falloir que tu ailles chercher cette carte là-bas."
+            ],
+            "it": [
+              "Bene, perché io non posso muovermi affatto. Dovrai andare a prendere quella mappa laggiù."
+            ],
+            "ja": [
+              "よかった。僕は全く動けないから、 あそこにある地図を 取ってきてくれ。"
+            ],
+            "ko": [
+              "다행이군, 난 아예 움직일 수가 없거든. 저기 있는 지도 좀 가져와야겠어."
+            ],
+            "pt-br": [
+              "Sorte sua, porque eu não consigo me mover. Vamos precisar que você busque aquele mapa ali."
+            ],
+            "ru": [
+              "Повезло, потому что я совсем не могу двигаться. Нам нужно, чтобы ты принесла ту карту, она вон там."
+            ],
+            "s-cn": [
+              "算你走运，我可是一动也动不了。得靠你去把那边那张地图叼回来。"
+            ],
+            "t-cn": [
+              "算你走運，我可是一動也動不了。 得靠你去把那邊那張地圖叼回來。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_3__boat.wav",
+            "subtitleCueLines": [
+              4013
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.833604,
+          "src": "audio/clips/skipping_stones_start_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Fetch? Shall I also scratch my fleas and bark at the parcelier?"
+            ],
+            "de": [
+              "Apportieren? Soll ich mir auch gleich noch die Flöhe kratzen und den Paketboten anbellen?"
+            ],
+            "es": [
+              "¿Que te lo traiga? ¿También tengo que rascarme las pulgas y ladrarle al cartero?"
+            ],
+            "fr": [
+              "Aller chercher ? Je dois aussi me gratter les puces et aboyer quand le parcelier passe ?"
+            ],
+            "it": [
+              "Prendere? Dovrei anche grattarmi le pulci e abbaiare al postino?"
+            ],
+            "ja": [
+              "取ってこい？ 人を犬みたいに 言うんじゃないよ。"
+            ],
+            "ko": [
+              "가져오라고? 그럼 무슨 강아지야? 벅벅 긁어대며 배달부에게 짖으란 말이야?"
+            ],
+            "pt-br": [
+              "Buscar? Então devo também coçar minhas pulgas e latir para o carteiro?"
+            ],
+            "ru": [
+              "Принести? Мне ещё и блох чесать, и лаять на посыльного?"
+            ],
+            "s-cn": [
+              "叼回来？要不要我再挠挠身上的跳蚤，冲邮差汪汪两声？"
+            ],
+            "t-cn": [
+              "叼回來？要不要我再撓撓身上的跳蚤，衝郵差汪汪兩聲？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_4__sailor.wav",
+            "subtitleCueLines": [
+              4018
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_start_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.106896,
+          "src": "audio/clips/skipping_stones_start_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Do it how you do it, just get that map!"
+            ],
+            "de": [
+              "Tu, was notwendig ist, aber hol die Karte!"
+            ],
+            "es": [
+              "Tú verás cómo lo haces, ¡pero trae ese mapa!"
+            ],
+            "fr": [
+              "Fais comme bon te semble, tant que tu ramènes cette carte !"
+            ],
+            "it": [
+              "Come preferisci, basta che prendi la mappa!"
+            ],
+            "ja": [
+              "なんでもいいから 取ってきてくれよ！"
+            ],
+            "ko": [
+              "그거야 네 마음대로 하고, 그냥 지도나 가져와!"
+            ],
+            "pt-br": [
+              "Faça do seu jeito, só traga aquele mapa!"
+            ],
+            "ru": [
+              "Сделай как умеешь, просто достань ту карту!"
+            ],
+            "s-cn": [
+              "你爱怎么弄怎么弄，把地图给我拿来就行！"
+            ],
+            "t-cn": [
+              "你愛怎麼弄怎麼弄，把地圖給我拿來就行！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_5__boat.wav",
+            "subtitleCueLines": [
+              4023
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Are you all right, fleshy one?",
+          "Banged my shoulder when you stopped so suddenly.",
+          "It's bruised, stiff, and annoying, like some people we know, but, nothing permanent.",
+          "And since my upper body took the impact, my legs feel *great*!",
+          "Fortunate, as I cannot move at all. We'll need you to fetch that map over there.",
+          "Fetch? Shall I also scratch my fleas and bark at the parcelier?",
+          "Do it how you do it, just get that map!"
+        ],
+        "de": [
+          "Alles in Ordnung, Fleischwesen?",
+          "Hab mir die Schulter gestoßen, als du so plötzlich angehalten hast.",
+          "Sie ist blau, steif und nervig, wie gewisse Leute, die wir kennen. Aber nichts Bleibendes.",
+          "Und weil mein Oberkörper den Aufprall abgefangen hat, geht's meinen Beinen prächtig!",
+          "Ein Glück, denn ich kann mich gar nicht bewegen. Denn du musst die Karte da drüben apportieren.",
+          "Apportieren? Soll ich mir auch gleich noch die Flöhe kratzen und den Paketboten anbellen?",
+          "Tu, was notwendig ist, aber hol die Karte!"
+        ],
+        "es": [
+          "¿Estás bien, ser de carne?",
+          "Me golpeé el hombro cuando paraste tan de repente.",
+          "Está magullado, rígido y molesto, como algunas personas que conocemos, pero no es nada permanente.",
+          "Y como el impacto me dio de cintura para arriba, ¡tengo las piernas de maravilla!",
+          "Qué suerte, porque yo no puedo moverme en absoluto. Me vas a tener que traer ese mapa de ahí.",
+          "¿Que te lo traiga? ¿También tengo que rascarme las pulgas y ladrarle al cartero?",
+          "Tú verás cómo lo haces, ¡pero trae ese mapa!"
+        ],
+        "fr": [
+          "Est-ce que ça va, chair molle ?",
+          "Je me suis cogné l'épaule quand tu t'es arrêté si brusquement.",
+          "Elle est endolorie, raide et pénible, comme certaines personnes qu'on connaît, mais ça finira par passer.",
+          "Et comme c'est le haut de mon corps qui a encaissé le choc, mes jambes vont à merveille !",
+          "Heureusement, car je ne peux pas bouger du tout. Il va falloir que tu ailles chercher cette carte là-bas.",
+          "Aller chercher ? Je dois aussi me gratter les puces et aboyer quand le parcelier passe ?",
+          "Fais comme bon te semble, tant que tu ramènes cette carte !"
+        ],
+        "it": [
+          "Tutto bene, essere di carne?",
+          "Ho sbattuto la spalla quando ti sei fermato di colpo.",
+          "È ammaccata, rigida e fastidiosa, come certe persone che conosciamo, ma niente di permanente.",
+          "E visto che ho preso il colpo nella parte alta del corpo, le mie gambe stanno benissimo!",
+          "Bene, perché io non posso muovermi affatto. Dovrai andare a prendere quella mappa laggiù.",
+          "Prendere? Dovrei anche grattarmi le pulci e abbaiare al postino?",
+          "Come preferisci, basta che prendi la mappa!"
+        ],
+        "ja": [
+          "大丈夫かい、ニンゲン？",
+          "あんたが急に止まるから、肩をぶつけたよ。",
+          "なんとか！",
+          "ぶつかったのが上半身だったおかげで、 脚は絶好調だけどね！",
+          "よかった。僕は全く動けないから、 あそこにある地図を 取ってきてくれ。",
+          "取ってこい？ 人を犬みたいに 言うんじゃないよ。",
+          "なんでもいいから 取ってきてくれよ！"
+        ],
+        "ko": [
+          "괜찮아, 살덩이 친구?",
+          "네가 너무 갑자기 멈추는 바람에 어깨를 부딪쳤어.",
+          "멍들고, 뻣뻣하고, 성가시네. 뭐, 누구처럼 말이지. 그래도 영구적인 건 아니야.",
+          "게다가 상체로 충격을 받아서 다리는 아주 멀쩡하지!",
+          "다행이군, 난 아예 움직일 수가 없거든. 저기 있는 지도 좀 가져와야겠어.",
+          "가져오라고? 그럼 무슨 강아지야? 벅벅 긁어대며 배달부에게 짖으란 말이야?",
+          "그거야 네 마음대로 하고, 그냥 지도나 가져와!"
+        ],
+        "pt-br": [
+          "Você está bem, ser de carne?",
+          "Bati o ombro quando você parou tão de repente.",
+          "Está machucado, rígido e irritante, como certas pessoas que conhecemos, mas, nada permanente.",
+          "E como a parte de cima do corpo levou o impacto, minhas pernas estão ótimas!",
+          "Sorte sua, porque eu não consigo me mover. Vamos precisar que você busque aquele mapa ali.",
+          "Buscar? Então devo também coçar minhas pulgas e latir para o carteiro?",
+          "Faça do seu jeito, só traga aquele mapa!"
+        ],
+        "ru": [
+          "Ты в порядке, кожаная?",
+          "Я ударилась плечом, когда ты так резко остановился.",
+          "Болит, не двигается и досаждает, как кое-кто из наших знакомых, но, в общем, заживёт.",
+          "А поскольку удар пришёлся по верхней части тела, ноги чувствуют себя прекрасно!",
+          "Повезло, потому что я совсем не могу двигаться. Нам нужно, чтобы ты принесла ту карту, она вон там.",
+          "Принести? Мне ещё и блох чесать, и лаять на посыльного?",
+          "Сделай как умеешь, просто достань ту карту!"
+        ],
+        "s-cn": [
+          "你还好吗，肉体凡躯？",
+          "你突然停下来，害我撞到了肩膀。",
+          "又青又僵，还烦人，像我们认识的某些人。 不过，不会留下什么后遗症。",
+          "好在撞的是上半身，我的腿可好得很！",
+          "算你走运，我可是一动也动不了。得靠你去把那边那张地图叼回来。",
+          "叼回来？要不要我再挠挠身上的跳蚤，冲邮差汪汪两声？",
+          "你爱怎么弄怎么弄，把地图给我拿来就行！"
+        ],
+        "t-cn": [
+          "你還好嗎，肉體凡軀？",
+          "你突然停下來，害我撞到了肩膀。",
+          "又青又僵，還煩人，像我們認識的某些人。 不過，不會留下什麼後遺症。",
+          "好在撞的是上半身，我的腿可好得很！",
+          "算你走運，我可是一動也動不了。 得靠你去把那邊那張地圖叼回來。",
+          "叼回來？要不要我再撓撓身上的跳蚤，衝郵差汪汪兩聲？",
+          "你愛怎麼弄怎麼弄，把地圖給我拿來就行！"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    },
+    {
+      "id": "skipping_stones_start_repeat",
+      "clips": [
+        {
+          "id": "skipping_stones_start_repeat_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.242687,
+          "src": "audio/clips/skipping_stones_start_repeat_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "This is a complex chain of islands; your first step is getting that map!"
+            ],
+            "de": [
+              "Dieses Inselgewirr ist kompliziert; als Erstes brauchst du die Karte!"
+            ],
+            "es": [
+              "Es una compleja cadena de islas; ¡tu primer paso será conseguir ese mapa!"
+            ],
+            "fr": [
+              "C'est un archipel complexe ; ta première étape, c'est d'aller chercher cette carte !"
+            ],
+            "it": [
+              "Questa è una complessa catena di isole; il tuo primo passo è prendere quella mappa!"
+            ],
+            "ja": [
+              "島が入り組んでる。 まずは地図を手に入れないと！"
+            ],
+            "ko": [
+              "이건 복잡하게 얽힌 섬들 사이의 항로야. 첫 단계는 그 지도를 가져오는 거라고!"
+            ],
+            "pt-br": [
+              "Esta é uma complexa cadeia de ilhas; seu primeiro passo é conseguir aquele mapa!"
+            ],
+            "ru": [
+              "Это сложная цепочка островов; твой первый шаг — добыть ту карту!"
+            ],
+            "s-cn": [
+              "这片岛链错综复杂，第一步就是拿到那张地图！"
+            ],
+            "t-cn": [
+              "這片島鏈錯綜複雜，第一步就是拿到那張地圖！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_start_repeat_1__boat.wav",
+            "subtitleCueLines": [
+              4031
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "This is a complex chain of islands; your first step is getting that map!"
+        ],
+        "de": [
+          "Dieses Inselgewirr ist kompliziert; als Erstes brauchst du die Karte!"
+        ],
+        "es": [
+          "Es una compleja cadena de islas; ¡tu primer paso será conseguir ese mapa!"
+        ],
+        "fr": [
+          "C'est un archipel complexe ; ta première étape, c'est d'aller chercher cette carte !"
+        ],
+        "it": [
+          "Questa è una complessa catena di isole; il tuo primo passo è prendere quella mappa!"
+        ],
+        "ja": [
+          "島が入り組んでる。 まずは地図を手に入れないと！"
+        ],
+        "ko": [
+          "이건 복잡하게 얽힌 섬들 사이의 항로야. 첫 단계는 그 지도를 가져오는 거라고!"
+        ],
+        "pt-br": [
+          "Esta é uma complexa cadeia de ilhas; seu primeiro passo é conseguir aquele mapa!"
+        ],
+        "ru": [
+          "Это сложная цепочка островов; твой первый шаг — добыть ту карту!"
+        ],
+        "s-cn": [
+          "这片岛链错综复杂，第一步就是拿到那张地图！"
+        ],
+        "t-cn": [
+          "這片島鏈錯綜複雜，第一步就是拿到那張地圖！"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "When we catch this guy, I'm going to give him a big ... big piece of my mind.",
               "Wish I could punch him. Hard."
             ],
+            "de": [
+              "Wenn wir diesen Kerl erwischen, werde ich ihm die Meinung sagen. Aber so richtig ...",
+              "Ich wünschte, ich könnte ihm eine reinhauen. Aber so richtig."
+            ],
+            "es": [
+              "Cuando atrapemos a ese tipo, le voy a decir unas cuantas... unas cuantas cosas.",
+              "Ojalá pudiera darle un buen puñetazo. Fuerte."
+            ],
+            "fr": [
+              "Quand on attrapera ce type, je vais lui dire deux mots... à ma façon.",
+              "J'aimerais lui coller mon poing dans la figure. Bien fort."
+            ],
+            "it": [
+              "Quando prenderemo quel tizio, gli dirò chiaramente... molto chiaramente quel che penso.",
+              "Vorrei dargli un pugno. Bello forte."
+            ],
+            "ja": [
+              "あの野郎、 捕まえたら タダじゃおかねえぞ。",
+              "ぶん殴ってやる。"
+            ],
+            "ko": [
+              "그 녀석을 잡으면, 제대로... 아주 제대로 한마디 해 주겠어.",
+              "세게 한 대 칠 수 있으면 좋을 텐데."
+            ],
             "pt-br": [
               "Quando a gente pegar esse cara, vou falar umas boas... boas verdades pra ele.",
               "Queria poder dar um soco nele. Bem forte."
+            ],
+            "ru": [
+              "Когда мы поймаем этого типа, я ему всё... всё выскажу.",
+              "Вот бы сейчас ему врезать. Сильно."
+            ],
+            "s-cn": [
+              "等我们抓到那家伙，我非得好好……好好骂他一顿。",
+              "真想狠狠揍他一拳。"
+            ],
+            "t-cn": [
+              "等我們抓到那傢伙，我非得好好……好好罵他一頓。",
+              "真想狠狠揍他一拳。"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "When we catch this guy, I'm going to give him a big ... big piece of my mind.",
           "Wish I could punch him. Hard."
         ],
+        "de": [
+          "Wenn wir diesen Kerl erwischen, werde ich ihm die Meinung sagen. Aber so richtig ...",
+          "Ich wünschte, ich könnte ihm eine reinhauen. Aber so richtig."
+        ],
+        "es": [
+          "Cuando atrapemos a ese tipo, le voy a decir unas cuantas... unas cuantas cosas.",
+          "Ojalá pudiera darle un buen puñetazo. Fuerte."
+        ],
+        "fr": [
+          "Quand on attrapera ce type, je vais lui dire deux mots... à ma façon.",
+          "J'aimerais lui coller mon poing dans la figure. Bien fort."
+        ],
+        "it": [
+          "Quando prenderemo quel tizio, gli dirò chiaramente... molto chiaramente quel che penso.",
+          "Vorrei dargli un pugno. Bello forte."
+        ],
+        "ja": [
+          "あの野郎、 捕まえたら タダじゃおかねえぞ。",
+          "ぶん殴ってやる。"
+        ],
+        "ko": [
+          "그 녀석을 잡으면, 제대로... 아주 제대로 한마디 해 주겠어.",
+          "세게 한 대 칠 수 있으면 좋을 텐데."
+        ],
         "pt-br": [
           "Quando a gente pegar esse cara, vou falar umas boas... boas verdades pra ele.",
           "Queria poder dar um soco nele. Bem forte."
+        ],
+        "ru": [
+          "Когда мы поймаем этого типа, я ему всё... всё выскажу.",
+          "Вот бы сейчас ему врезать. Сильно."
+        ],
+        "s-cn": [
+          "等我们抓到那家伙，我非得好好……好好骂他一顿。",
+          "真想狠狠揍他一拳。"
+        ],
+        "t-cn": [
+          "等我們抓到那傢伙，我非得好好……好好罵他一頓。",
+          "真想狠狠揍他一拳。"
         ]
       },
       "silentCues": [],
@@ -89,8 +170,35 @@
             "en": [
               "Watch, Ratleigh, as we free the mouse, and he skitters through our maze."
             ],
+            "de": [
+              "Sieh zu, Ratleigh, wie wir die Maus freilassen und sie durch unser Labyrinth huscht."
+            ],
+            "es": [
+              "Observa, Ratleigh, cómo liberamos al ratón y corretea por nuestro laberinto."
+            ],
+            "fr": [
+              "Regarde, Ratleigh : nous libérons la souris, et elle détale dans notre labyrinthe."
+            ],
+            "it": [
+              "Guarda, Ratleigh, mentre liberiamo il topo, che sguscia per il nostro labirinto."
+            ],
+            "ja": [
+              "見ておけ、ラトレイ。 ネズミを放てば、 我らの迷路をちょこまか走り回る。"
+            ],
+            "ko": [
+              "보거라, 래틀리, 우리가 쥐를 풀어주자 우리 미로를 쪼르르 달려가는구나."
+            ],
             "pt-br": [
               "Veja, Ratleigh, como soltamos o camundongo, e ele dispara pelo nosso labirinto."
+            ],
+            "ru": [
+              "Смотри, Рэтли, как мы выпускаем мышонка, и он снуёт по нашему лабиринту."
+            ],
+            "s-cn": [
+              "看好了，拉特利，我们放掉这只老鼠， 看它在我们布下的迷宫里乱窜。"
+            ],
+            "t-cn": [
+              "看好了，拉特利，我們放掉這隻老鼠， 看它在我們布下的迷宮裡亂竄。"
             ]
           },
           "provenance": {
@@ -111,8 +219,35 @@
             "en": [
               "Yes, fa-"
             ],
+            "de": [
+              "Ja, Va-"
+            ],
+            "es": [
+              "Sí, pa-"
+            ],
+            "fr": [
+              "Oui, pèr—"
+            ],
+            "it": [
+              "Sì, pa-"
+            ],
+            "ja": [
+              "はい、父――"
+            ],
+            "ko": [
+              "네, 아버..."
+            ],
             "pt-br": [
               "Sim, pa-"
+            ],
+            "ru": [
+              "Да, от..."
+            ],
+            "s-cn": [
+              "好的，父——"
+            ],
+            "t-cn": [
+              "好的，父——"
             ]
           },
           "provenance": {
@@ -133,8 +268,35 @@
             "en": [
               "Shhhhh!"
             ],
+            "de": [
+              "Psssst!"
+            ],
+            "es": [
+              "¡Chissss!"
+            ],
+            "fr": [
+              "Chuuuut !"
+            ],
+            "it": [
+              "Ssshhh!"
+            ],
+            "ja": [
+              "しーっ！"
+            ],
+            "ko": [
+              "쉬이이잇!"
+            ],
             "pt-br": [
               "Shhhhh!"
+            ],
+            "ru": [
+              "Тсссс!"
+            ],
+            "s-cn": [
+              "嘘——！"
+            ],
+            "t-cn": [
+              "噓——！"
             ]
           },
           "provenance": {
@@ -155,8 +317,35 @@
             "en": [
               "Wha ... ?"
             ],
+            "de": [
+              "Wa ... ?"
+            ],
+            "es": [
+              "¿Qué...?"
+            ],
+            "fr": [
+              "Hein... ?"
+            ],
+            "it": [
+              "Co...?"
+            ],
+            "ja": [
+              "な…？"
+            ],
+            "ko": [
+              "무슨...?"
+            ],
             "pt-br": [
               "Quê...?"
+            ],
+            "ru": [
+              "Что?.."
+            ],
+            "s-cn": [
+              "什……？"
+            ],
+            "t-cn": [
+              "什……？"
             ]
           },
           "provenance": {
@@ -177,8 +366,35 @@
             "en": [
               "What just happened?"
             ],
+            "de": [
+              "Was ist gerade passiert?"
+            ],
+            "es": [
+              "¿Qué acaba de pasar?"
+            ],
+            "fr": [
+              "Qu'est-ce qui vient de se passer ?"
+            ],
+            "it": [
+              "Che cosa è appena successo?"
+            ],
+            "ja": [
+              "今、何が起きた？"
+            ],
+            "ko": [
+              "방금 무슨 일이 있었던 거지?"
+            ],
             "pt-br": [
               "O que acabou de acontecer?"
+            ],
+            "ru": [
+              "Что сейчас произошло?"
+            ],
+            "s-cn": [
+              "刚才怎么回事？"
+            ],
+            "t-cn": [
+              "剛才怎麼回事？"
             ]
           },
           "provenance": {
@@ -202,12 +418,75 @@
           "Wha ... ?",
           "What just happened?"
         ],
+        "de": [
+          "Sieh zu, Ratleigh, wie wir die Maus freilassen und sie durch unser Labyrinth huscht.",
+          "Ja, Va-",
+          "Psssst!",
+          "Wa ... ?",
+          "Was ist gerade passiert?"
+        ],
+        "es": [
+          "Observa, Ratleigh, cómo liberamos al ratón y corretea por nuestro laberinto.",
+          "Sí, pa-",
+          "¡Chissss!",
+          "¿Qué...?",
+          "¿Qué acaba de pasar?"
+        ],
+        "fr": [
+          "Regarde, Ratleigh : nous libérons la souris, et elle détale dans notre labyrinthe.",
+          "Oui, pèr—",
+          "Chuuuut !",
+          "Hein... ?",
+          "Qu'est-ce qui vient de se passer ?"
+        ],
+        "it": [
+          "Guarda, Ratleigh, mentre liberiamo il topo, che sguscia per il nostro labirinto.",
+          "Sì, pa-",
+          "Ssshhh!",
+          "Co...?",
+          "Che cosa è appena successo?"
+        ],
+        "ja": [
+          "見ておけ、ラトレイ。 ネズミを放てば、 我らの迷路をちょこまか走り回る。",
+          "はい、父――",
+          "しーっ！",
+          "な…？",
+          "今、何が起きた？"
+        ],
+        "ko": [
+          "보거라, 래틀리, 우리가 쥐를 풀어주자 우리 미로를 쪼르르 달려가는구나.",
+          "네, 아버...",
+          "쉬이이잇!",
+          "무슨...?",
+          "방금 무슨 일이 있었던 거지?"
+        ],
         "pt-br": [
           "Veja, Ratleigh, como soltamos o camundongo, e ele dispara pelo nosso labirinto.",
           "Sim, pa-",
           "Shhhhh!",
           "Quê...?",
           "O que acabou de acontecer?"
+        ],
+        "ru": [
+          "Смотри, Рэтли, как мы выпускаем мышонка, и он снуёт по нашему лабиринту.",
+          "Да, от...",
+          "Тсссс!",
+          "Что?..",
+          "Что сейчас произошло?"
+        ],
+        "s-cn": [
+          "看好了，拉特利，我们放掉这只老鼠， 看它在我们布下的迷宫里乱窜。",
+          "好的，父——",
+          "嘘——！",
+          "什……？",
+          "刚才怎么回事？"
+        ],
+        "t-cn": [
+          "看好了，拉特利，我們放掉這隻老鼠， 看它在我們布下的迷宮裡亂竄。",
+          "好的，父——",
+          "噓——！",
+          "什……？",
+          "剛才怎麼回事？"
         ]
       },
       "silentCues": [],

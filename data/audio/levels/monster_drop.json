@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "I never liked these dragons."
             ],
+            "de": [
+              "Ich konnte diese Drachen noch nie leiden."
+            ],
+            "es": [
+              "Nunca me gustaron estos dragones."
+            ],
+            "fr": [
+              "Je n'ai jamais aimé ces dragons."
+            ],
+            "it": [
+              "Non mi sono mai piaciuti questi draghi."
+            ],
+            "ja": [
+              "ドラゴンは嫌いだ。"
+            ],
+            "ko": [
+              "난 저 용들이 별로야."
+            ],
             "pt-br": [
               "Nunca gostei desses dragões."
+            ],
+            "ru": [
+              "Я никогда не любила этих драконов."
+            ],
+            "s-cn": [
+              "我就没喜欢过这些龙。"
+            ],
+            "t-cn": [
+              "我就沒喜歡過這些龍。"
             ]
           },
           "provenance": {
             "sourceWav": "obf_monster_drop_1__sailor.wav",
             "subtitleCueLines": [
-              8575
+              8585
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "Nor I. Their world is so ... deadly. Worst I'd ever worried about was being stuck in an orange beam."
             ],
+            "de": [
+              "Ich auch nicht. Ihre Welt ist so ... tödlich. Früher hatte ich höchstens Angst davor, in einem orangefarbenen Strahl festzusitzen."
+            ],
+            "es": [
+              "Yo tampoco. Su mundo es tan... mortal. Lo peor que temía era quedarme atrapado en un haz naranja."
+            ],
+            "fr": [
+              "Moi non plus. Leur monde est tellement... mortel. Avant, le pire que j'aie jamais eu à craindre, c'était de rester coincé dans un faisceau orange."
+            ],
+            "it": [
+              "Nemmeno io. Il loro mondo è così... letale. La peggiore cosa che temevo era restare intrappolato in un raggio arancione."
+            ],
+            "ja": [
+              "今までの心配なんて、 穴に閉じ込められることくらいだったのに。"
+            ],
+            "ko": [
+              "나도 그래. 저 세계는 정말... 위험해. 내가 가장 걱정했던 건 주황색 빔에 갇히는 정도였는데."
+            ],
             "pt-br": [
               "Nem eu. O mundo deles é tão... mortal. O pior de que eu já tive medo foi ficar preso num feixe laranja."
+            ],
+            "ru": [
+              "И я. Их мир такой... смертоносный. Худшее, о чём я когда-либо волновался, — это застрять в оранжевом луче."
+            ],
+            "s-cn": [
+              "我也一样。它们那个世界……要命得很。 我以前最担心的，顶多是被困在橙色光束里。"
+            ],
+            "t-cn": [
+              "我也一樣。它們那個世界……要命得很。 我以前最擔心的，頂多是被困在橙色光束裡。"
             ]
           },
           "provenance": {
             "sourceWav": "obf_monster_drop_2__gemsman.wav",
             "subtitleCueLines": [
-              8578
+              8588
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "Stranded on an island. Not so bad either. Sucked into a giant whirlpool ... okay *that's* bad."
             ],
+            "de": [
+              "Auf einer Insel gestrandet. Auch nicht so schlimm. In einen riesigen Strudel gesogen ... okay, das ist schlimm."
+            ],
+            "es": [
+              "Varada en una isla. Tampoco estaría tan mal. Absorbida por un remolino gigante... vale, eso sí que sería malo."
+            ],
+            "fr": [
+              "Échouée sur une île. Pas si terrible non plus. Aspirée dans un tourbillon géant... bon, ça, ça craint."
+            ],
+            "it": [
+              "Restare bloccata su un'isola. Neanche questo è troppo male. Essere risucchiata in un vortice gigante... okay, questo è male."
+            ],
+            "ja": [
+              "島で遭難することのが、マシかもね。"
+            ],
+            "ko": [
+              "섬에 고립되는 것도. 뭐 그렇게 나쁘지는 않아. 거대한 소용돌이에 빨려 들어가는 건... 그래, 그건 나쁘지."
+            ],
             "pt-br": [
-              "Encalhado numa ilha. Também não é tão ruim. Sugado por um redemoinho gigante... certo, isso é ruim."
+              "Encalhada numa ilha. Também não é tão ruim. Sugada por um redemoinho gigante... certo, isso é ruim."
+            ],
+            "ru": [
+              "Застрять на острове. Тоже не так уж плохо. Попасть в гигантский водоворот... ладно, вот это плохо."
+            ],
+            "s-cn": [
+              "困在岛上，也不算多糟。卷进巨型漩涡……好吧，那可糟了。"
+            ],
+            "t-cn": [
+              "困在島上，也不算多糟。卷進巨型漩渦…… 好吧，那可糟了。"
             ]
           },
           "provenance": {
             "sourceWav": "obf_monster_drop_3__sailor.wav",
             "subtitleCueLines": [
-              8584
+              8594
             ],
             "explicitAudioReference": null
           }
@@ -89,14 +179,41 @@
             "en": [
               "*Or* ... getting rematerialized into a wall. Yeah, that one's bad."
             ],
+            "de": [
+              "Oder ... mitten in einer Wand wieder materialisiert werden. Ja, das ist übel."
+            ],
+            "es": [
+              "O... rematerializarse dentro de una pared. Sí, menuda faena."
+            ],
+            "fr": [
+              "Ou... de me rematérialiser dans un mur. Ouais, ça aussi, c'est terrible."
+            ],
+            "it": [
+              "Oppure... rimaterializzarsi dentro un muro. Sì, quello è brutto."
+            ],
+            "ja": [
+              "ああ。ヤツらの世界の ものは…どれも恐ろしい。"
+            ],
+            "ko": [
+              "아니면... 벽 속에서 다시 실체화되거나. 그래, 그건 끔찍해."
+            ],
             "pt-br": [
               "Ou... se rematerializar dentro de uma parede. É, essa é ruim."
+            ],
+            "ru": [
+              "Или... материализоваться внутри стены. Да, приятного мало."
+            ],
+            "s-cn": [
+              "或者……重新变回实体时，却嵌进了墙里。那可就糟了。"
+            ],
+            "t-cn": [
+              "或者……重新變回實體時，卻嵌進了牆裡。那可就糟了。"
             ]
           },
           "provenance": {
             "sourceWav": "obf_monster_drop_4__gemsman.wav",
             "subtitleCueLines": [
-              8588
+              8598
             ],
             "explicitAudioReference": null
           }
@@ -113,11 +230,65 @@
           "Stranded on an island. Not so bad either. Sucked into a giant whirlpool ... okay *that's* bad.",
           "*Or* ... getting rematerialized into a wall. Yeah, that one's bad."
         ],
+        "de": [
+          "Ich konnte diese Drachen noch nie leiden.",
+          "Ich auch nicht. Ihre Welt ist so ... tödlich. Früher hatte ich höchstens Angst davor, in einem orangefarbenen Strahl festzusitzen.",
+          "Auf einer Insel gestrandet. Auch nicht so schlimm. In einen riesigen Strudel gesogen ... okay, das ist schlimm.",
+          "Oder ... mitten in einer Wand wieder materialisiert werden. Ja, das ist übel."
+        ],
+        "es": [
+          "Nunca me gustaron estos dragones.",
+          "Yo tampoco. Su mundo es tan... mortal. Lo peor que temía era quedarme atrapado en un haz naranja.",
+          "Varada en una isla. Tampoco estaría tan mal. Absorbida por un remolino gigante... vale, eso sí que sería malo.",
+          "O... rematerializarse dentro de una pared. Sí, menuda faena."
+        ],
+        "fr": [
+          "Je n'ai jamais aimé ces dragons.",
+          "Moi non plus. Leur monde est tellement... mortel. Avant, le pire que j'aie jamais eu à craindre, c'était de rester coincé dans un faisceau orange.",
+          "Échouée sur une île. Pas si terrible non plus. Aspirée dans un tourbillon géant... bon, ça, ça craint.",
+          "Ou... de me rematérialiser dans un mur. Ouais, ça aussi, c'est terrible."
+        ],
+        "it": [
+          "Non mi sono mai piaciuti questi draghi.",
+          "Nemmeno io. Il loro mondo è così... letale. La peggiore cosa che temevo era restare intrappolato in un raggio arancione.",
+          "Restare bloccata su un'isola. Neanche questo è troppo male. Essere risucchiata in un vortice gigante... okay, questo è male.",
+          "Oppure... rimaterializzarsi dentro un muro. Sì, quello è brutto."
+        ],
+        "ja": [
+          "ドラゴンは嫌いだ。",
+          "今までの心配なんて、 穴に閉じ込められることくらいだったのに。",
+          "島で遭難することのが、マシかもね。",
+          "ああ。ヤツらの世界の ものは…どれも恐ろしい。"
+        ],
+        "ko": [
+          "난 저 용들이 별로야.",
+          "나도 그래. 저 세계는 정말... 위험해. 내가 가장 걱정했던 건 주황색 빔에 갇히는 정도였는데.",
+          "섬에 고립되는 것도. 뭐 그렇게 나쁘지는 않아. 거대한 소용돌이에 빨려 들어가는 건... 그래, 그건 나쁘지.",
+          "아니면... 벽 속에서 다시 실체화되거나. 그래, 그건 끔찍해."
+        ],
         "pt-br": [
           "Nunca gostei desses dragões.",
           "Nem eu. O mundo deles é tão... mortal. O pior de que eu já tive medo foi ficar preso num feixe laranja.",
-          "Encalhado numa ilha. Também não é tão ruim. Sugado por um redemoinho gigante... certo, isso é ruim.",
+          "Encalhada numa ilha. Também não é tão ruim. Sugada por um redemoinho gigante... certo, isso é ruim.",
           "Ou... se rematerializar dentro de uma parede. É, essa é ruim."
+        ],
+        "ru": [
+          "Я никогда не любила этих драконов.",
+          "И я. Их мир такой... смертоносный. Худшее, о чём я когда-либо волновался, — это застрять в оранжевом луче.",
+          "Застрять на острове. Тоже не так уж плохо. Попасть в гигантский водоворот... ладно, вот это плохо.",
+          "Или... материализоваться внутри стены. Да, приятного мало."
+        ],
+        "s-cn": [
+          "我就没喜欢过这些龙。",
+          "我也一样。它们那个世界……要命得很。 我以前最担心的，顶多是被困在橙色光束里。",
+          "困在岛上，也不算多糟。卷进巨型漩涡……好吧，那可糟了。",
+          "或者……重新变回实体时，却嵌进了墙里。那可就糟了。"
+        ],
+        "t-cn": [
+          "我就沒喜歡過這些龍。",
+          "我也一樣。它們那個世界……要命得很。 我以前最擔心的，頂多是被困在橙色光束裡。",
+          "困在島上，也不算多糟。卷進巨型漩渦…… 好吧，那可糟了。",
+          "或者……重新變回實體時，卻嵌進了牆裡。那可就糟了。"
         ]
       },
       "silentCues": [],
@@ -139,7 +310,7 @@
             "source": "data-common/monster_drop.entities"
           }
         ],
-        "subtitleLine": 8574,
+        "subtitleLine": 8584,
         "subtitleHeader": "::"
       }
     }

@@ -6,6 +6,436 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          45.01597595214844,
+          -5.524042129516602,
+          0.0009613037109375
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 62914933,
+        "name": "intro_queen_callout_alt",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_62914933",
+        "triggerKind": "movement",
+        "blocks": [
+          "intro_queen_callout_alt"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          3.8825159072875977,
+          0.9667694568634033,
+          1.5538339614868164
+        ],
+        "barkFlags": 8,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 62914933,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_callout_alt",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.01597595214844,
+              -5.524042129516602,
+              0.0009613037109375
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0408935546875,
+          3.9416182041168213,
+          0.0009613037109375
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 62914934,
+        "name": "intro_queen_foreign_script",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_62914934",
+        "triggerKind": "movement",
+        "blocks": [
+          "intro_queen_foreign_script"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          3.5141849517822266,
+          1.5361311435699463,
+          1.5538339614868164
+        ],
+        "barkFlags": 9,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 62914934,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_foreign_script",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.0408935546875,
+              3.9416182041168213,
+              0.0009613037109375
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.01565933227539,
+          -16.591981887817383,
+          0.0009613037109375
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 62914935,
+        "name": "intro_queen_am_i_dead",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_62914935",
+        "triggerKind": "movement",
+        "blocks": [
+          "intro_queen_am_i_dead"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          3.077786684036255,
+          1.304135799407959,
+          1.5538339614868164
+        ],
+        "barkFlags": 8,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 62914935,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_am_i_dead",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.01565933227539,
+              -16.591981887817383,
+              0.0009613037109375
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.36692810058594,
+          24.948062896728516,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 62914936,
+        "name": "intro_queen_hosts_1",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_62914936",
+        "triggerKind": "movement",
+        "blocks": [
+          "intro_queen_hosts_1"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.8738679885864258,
+          1.9985599517822266,
+          1.5538339614868164
+        ],
+        "barkFlags": 9,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 62914936,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_hosts_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              52.36692810058594,
+              24.948062896728516,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.29898452758789,
+          26.995540618896484,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 62914937,
+        "name": "intro_queen_hosts_2",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_62914937",
+        "triggerKind": "movement",
+        "blocks": [
+          "intro_queen_hosts_2"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.8738679885864258,
+          0.8763275146484375,
+          1.5538339614868164
+        ],
+        "barkFlags": 9,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 62914937,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_hosts_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              57.29898452758789,
+              26.995540618896484,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.003597259521484,
+          47.040748596191406,
+          0.4986610412597656
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 62914938,
+        "name": "intro_queen_teleporter",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 115343472,
+        "groupChain": [
+          115343472
+        ],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_62914938",
+        "triggerKind": "movement",
+        "blocks": [
+          "intro_queen_teleporter"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          0.5485687255859375,
+          0.5579071044921875,
+          1.0249420404434204
+        ],
+        "barkFlags": 8,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 62914938,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_teleporter",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.003597259521484,
+              47.040748596191406,
+              0.4986610412597656
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0,
+          10.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 111149186,
+        "name": "intro_queen_sign",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_111149186",
+        "triggerKind": "sign",
+        "blocks": [
+          "intro_queen_sign"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 111149186,
+            "entityType": "Sign",
+            "field": "look_at_bark",
+            "value": "intro_queen_sign",
+            "rule": "exact-reference",
+            "coordinates": [
+              47.0,
+              10.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.08148193359375,
+          30.457386016845703,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115345634,
+        "name": "intro_queen_hosts_3",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "intro_115345634",
+        "triggerKind": "movement",
+        "blocks": [
+          "intro_queen_hosts_3"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          1.8738679885864258,
+          0.8763275146484375,
+          1.5538339614868164
+        ],
+        "barkFlags": 9,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115345634,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "intro_queen_hosts_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              47.08148193359375,
+              30.457386016845703,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           80.0,
           71.0,
           0.0
@@ -17,6 +447,10 @@
         "name": "queen_og_ask",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -63,6 +497,10 @@
         "name": "queen_og_heroes_entry",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -113,6 +551,10 @@
         "name": "queen_og_heroes2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -163,6 +605,10 @@
         "name": "end3_queen_promesst_red",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -213,6 +659,10 @@
         "name": "queen_og_wardrobe",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -263,6 +713,10 @@
         "name": "queen_og_first_green_beam",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -313,6 +767,10 @@
         "name": "queen_og_first_orange_beam",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -363,6 +821,10 @@
         "name": "queen_og_first_lily",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -413,6 +875,10 @@
         "name": "queen_og_gold_room_first",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -463,6 +929,10 @@
         "name": "queen_og_wardrobe_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -513,6 +983,10 @@
         "name": "coda",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -538,6 +1012,1152 @@
               137.0,
               133.0,
               -21.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0,
+          65.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1048877,
+        "name": "ssnew_interdiction_first",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1048877",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_interdiction_first"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1048877,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_interdiction_first",
+            "rule": "exact-reference",
+            "coordinates": [
+              48.0,
+              65.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          64.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1048951,
+        "name": "audio_trigger_1048951",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1048951",
+        "triggerKind": "boat",
+        "blocks": [
+          "skipping_stones_start",
+          "skipping_stones_start_repeat"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1048951,
+            "entityType": "Boat",
+            "field": "initial_talk_name",
+            "value": "skipping_stones_start",
+            "rule": "exact-reference",
+            "coordinates": [
+              26.0,
+              64.0,
+              0.0
+            ]
+          },
+          {
+            "entityId": 1048951,
+            "entityType": "Boat",
+            "field": "repeat_talk_name",
+            "value": "skipping_stones_start_repeat",
+            "rule": "exact-reference",
+            "coordinates": [
+              26.0,
+              64.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0,
+          64.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1048959,
+        "name": "ssnew_pre_map",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1048959",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_pre_map"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1048959,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_pre_map",
+            "rule": "exact-reference",
+            "coordinates": [
+              36.0,
+              64.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0,
+          60.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1049133,
+        "name": "ssnew_traps",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1049133",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_traps"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1049133,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_traps",
+            "rule": "exact-reference",
+            "coordinates": [
+              52.0,
+              60.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          45.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1049981,
+        "name": "ssnew_what_do_i_do",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1049981",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_what_do_i_do"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1049981,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_what_do_i_do",
+            "rule": "exact-reference",
+            "coordinates": [
+              45.0,
+              45.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.0,
+          46.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1049990,
+        "name": "ssnew_no_traps",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1049990",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_no_traps"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1049990,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_no_traps",
+            "rule": "exact-reference",
+            "coordinates": [
+              68.0,
+              46.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          34.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1050680,
+        "name": "ssnew_tacking",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1050680",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_tacking"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1050680,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_tacking",
+            "rule": "exact-reference",
+            "coordinates": [
+              9.0,
+              34.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0,
+          33.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1050721,
+        "name": "ssnew_interdictions_secret_2",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1050721",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_interdictions_secret_2"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1050721,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_interdictions_secret_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              62.0,
+              33.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0,
+          21.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1051533,
+        "name": "ssnew_good_place",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1051533",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_good_place"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1051533,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_good_place",
+            "rule": "exact-reference",
+            "coordinates": [
+              44.0,
+              21.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0,
+          20.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 1051618,
+        "name": "ssnew_good_place_2",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_1051618",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_good_place_2"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 1051618,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_good_place_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              53.0,
+              20.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          38.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 58720274,
+        "name": "skipping_stones_shrine",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_58720274",
+        "triggerKind": "unlock",
+        "blocks": [
+          "skipping_stones_shrine"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 58720274,
+            "entityType": "Overworld_Unlock",
+            "field": "bark_name",
+            "value": "skipping_stones_shrine",
+            "rule": "exact-reference",
+            "coordinates": [
+              22.0,
+              38.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0,
+          36.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 94371848,
+        "name": "ssnew_interdictions_secret",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_94371848",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_interdictions_secret"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 94371848,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_interdictions_secret",
+            "rule": "exact-reference",
+            "coordinates": [
+              73.0,
+              36.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0,
+          34.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 94371865,
+        "name": "ssnew_built_in_1",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_94371865",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_built_in_1"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 94371865,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_built_in_1",
+            "rule": "exact-reference",
+            "coordinates": [
+              14.0,
+              34.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0,
+          31.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 94371881,
+        "name": "ssnew_weather",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_94371881",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_weather"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 94371881,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_weather",
+            "rule": "exact-reference",
+            "coordinates": [
+              51.0,
+              31.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0,
+          14.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 95420792,
+        "name": "ssnew_built_in_3",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_95420792",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_built_in_3"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 95420792,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_built_in_3",
+            "rule": "exact-reference",
+            "coordinates": [
+              52.0,
+              14.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05609893798828,
+          30.82189178466797,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115343364,
+        "name": "skipping_stones_gold_room_impending",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_115343364",
+        "triggerKind": "movement",
+        "blocks": [
+          "skipping_stones_gold_room_impending"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          2.4683685302734375,
+          3.0,
+          1.0
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115343364,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "skipping_stones_gold_room_impending",
+            "rule": "exact-reference",
+            "coordinates": [
+              39.05609893798828,
+              30.82189178466797,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.462316513061523,
+          17.47327995300293,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115343365,
+        "name": "skipping_stones_whirlpool",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_115343365",
+        "triggerKind": "movement",
+        "blocks": [
+          "skipping_stones_whirlpool"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          0.9837284088134766,
+          2.026721954345703,
+          1.0
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115343365,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "skipping_stones_whirlpool",
+            "rule": "exact-reference",
+            "coordinates": [
+              21.462316513061523,
+              17.47327995300293,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0,
+          2.484640121459961,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115343369,
+        "name": "skipping_stones_approaching_impeller",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_115343369",
+        "triggerKind": "movement",
+        "blocks": [
+          "skipping_stones_approaching_impeller"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          2.5,
+          1.984640121459961,
+          1.0
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115343369,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "skipping_stones_approaching_impeller",
+            "rule": "exact-reference",
+            "coordinates": [
+              34.0,
+              2.484640121459961,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          1.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115343373,
+        "name": "skipping_stones_approaching_impeller",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_115343373",
+        "triggerKind": "scripted",
+        "blocks": [
+          "skipping_stones_approaching_impeller"
+        ],
+        "scriptName": "level_state_got_to_target",
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115343373,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "skipping_stones_approaching_impeller",
+            "rule": "exact-reference",
+            "coordinates": [
+              26.0,
+              1.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.942190170288086,
+          55.47844696044922,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115343381,
+        "name": "audio_trigger_115343381",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_115343381",
+        "triggerKind": "movement",
+        "blocks": [
+          "skipping_stones_island_west_yes_treasures",
+          "skipping_stones_island_west_no_treasures"
+        ],
+        "scriptName": "bark_conditional",
+        "boxExtents": [
+          1.5648860931396484,
+          0.9784469604492188,
+          1.0
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115343381,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "skipping_stones_island_west",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              22.942190170288086,
+              55.47844696044922,
+              0.0
+            ]
+          },
+          {
+            "entityId": 115343381,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "skipping_stones_island_west",
+            "rule": "dialogue-namespace",
+            "coordinates": [
+              22.942190170288086,
+              55.47844696044922,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          21.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 115343415,
+        "name": "ssnew_built_in_2",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_115343415",
+        "triggerKind": "checkpoint",
+        "blocks": [
+          "ssnew_built_in_2"
+        ],
+        "scriptName": null,
+        "boxExtents": null,
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 115343415,
+            "entityType": "Checkpoint",
+            "field": "story",
+            "value": "ssnew_built_in_2",
+            "rule": "exact-reference",
+            "coordinates": [
+              7.0,
+              21.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.143146514892578,
+          10.47806453704834,
+          -0.00545501708984375
+        ]
+      },
+      "properties": {
+        "type": "Audio_Trigger",
+        "id": 135266342,
+        "name": "ssnew_please_disable_interdict",
+        "source": "data-common/skipping_stones.entities",
+        "sourceLevel": "skipping_stones",
+        "entities": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null,
+        "audioKey": "skipping_stones_135266342",
+        "triggerKind": "movement",
+        "blocks": [
+          "ssnew_please_disable_interdict"
+        ],
+        "scriptName": "bark",
+        "boxExtents": [
+          0.628994345664978,
+          0.9784469604492188,
+          1.0
+        ],
+        "barkFlags": 0,
+        "activationVerifiedInGame": false,
+        "provenance": [
+          {
+            "entityId": 135266342,
+            "entityType": "Marker",
+            "field": "string_parameter",
+            "value": "ssnew_please_disable_interdict",
+            "rule": "exact-reference",
+            "coordinates": [
+              27.143146514892578,
+              10.47806453704834,
+              -0.00545501708984375
             ]
           }
         ]

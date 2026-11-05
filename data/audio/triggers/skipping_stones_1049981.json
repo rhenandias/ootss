@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_what_do_i_do",
+    "audioKey": "skipping_stones_1049981",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_what_do_i_do"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 1049981,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_what_do_i_do",
+        "rule": "exact-reference",
+        "coordinates": [
+          45.0,
+          45.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_what_do_i_do",
+      "clips": [
+        {
+          "id": "ssnew_what_do_i_do_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.310667,
+          "src": "audio/clips/ssnew_what_do_i_do_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So, when I get to the South, what do I do?"
+            ],
+            "de": [
+              "Wenn ich im Süden ankomme, was mache ich dann?"
+            ],
+            "es": [
+              "Entonces, cuando llegue al sur, ¿qué hago?"
+            ],
+            "fr": [
+              "Du coup, quand j'arriverai au sud, je dois faire quoi ?"
+            ],
+            "it": [
+              "Quindi, quando arrivo a sud, che faccio?"
+            ],
+            "ja": [
+              "南に行ったら 何すればいい？"
+            ],
+            "ko": [
+              "그럼, 내가 남쪽에 가서 뭘 해야 하는데?"
+            ],
+            "pt-br": [
+              "Então, quando eu chegar ao sul, o que eu faço?"
+            ],
+            "ru": [
+              "Итак, когда я доберусь до юга, что мне делать?"
+            ],
+            "s-cn": [
+              "所以，我到了南边之后该怎么做？"
+            ],
+            "t-cn": [
+              "所以，我到了南邊之後該怎麼做？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_what_do_i_do_1__sailor.wav",
+            "subtitleCueLines": [
+              4111
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_what_do_i_do_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 14.870958,
+          "src": "audio/clips/ssnew_what_do_i_do_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You'll see a bunch of writing on the ground. Carefully-arranged symbols. You just need to mess them up.",
+              "I can't quite scry *how* the interdict is written, but if it's symbols laid in the sand,",
+              "a good scuff will do. You just need to get there."
+            ],
+            "de": [
+              "Du siehst dort jede Menge Schrift auf dem Boden. Sorgfältig angeordnete Symbole. Du musst sie nur durcheinanderbringen.",
+              "Ich kann nicht genau erkennen, wie das Interdikt geschrieben ist. Aber wenn es aus Symbolen besteht, die im Sand liegen,",
+              "reicht ein kräftiges Scharren. Du musst nur hinkommen."
+            ],
+            "es": [
+              "Verás un montón de cosas escritas en el suelo. Símbolos dispuestos con cuidado. Solo tienes que emborronarlos.",
+              "No acabo de ver cómo está escrito el veto, pero si son símbolos trazados en la arena,",
+              "con un buen meneo bastará. Solo tienes que llegar allí."
+            ],
+            "fr": [
+              "Tu verras plein d'inscriptions au sol. Des symboles soigneusement disposés. Il suffit de les abîmer.",
+              "Je n'arrive pas vraiment à voir comment l'interdiction est écrite, mais si ce sont des symboles tracés dans le sable,",
+              "un bon coup de balayage suffira. Il faut juste que tu arrives à les atteindre."
+            ],
+            "it": [
+              "Vedrai un sacco di scritte per terra. Simboli disposti con cura. Devi solo rovinarli.",
+              "Non riesco a vedere bene come sia scritta l'interdizione, ma se sono simboli tracciati sulla sabbia,",
+              "sarà facile rovinarli un po'. Devi solo arrivarci."
+            ],
+            "ja": [
+              "地面に色々な記号が 書いてあるはずだ。 それを崩せばいい。",
+              "どう描かれてるかは 視えないけど、 砂に記号が描かれてるなら",
+              "足でこすれば十分だ。 たどり着いてくれ。"
+            ],
+            "ko": [
+              "바닥에 적힌 글자들이 보일 거야. 세심하게 배치된 여러 기호들이지. 그걸 그냥 망가뜨리면 돼.",
+              "금제가 정확히 어떻게 적혀 있는지는 잘 안 보이는데, 기호들이 모래 위에 놓여 있다면",
+              "대충 쓸어버리면 돼. 거기까지만 가면 되는 거지."
+            ],
+            "pt-br": [
+              "Você vai ver um monte de escrita no chão. Símbolos cuidadosamente dispostos. É só bagunçar tudo.",
+              "Não consigo ver direito como o interdito está escrito, mas se forem símbolos desenhados na areia,",
+              "basta arrastar os pés. É só você chegar lá."
+            ],
+            "ru": [
+              "Ты увидишь на земле кучу надписей. Тщательно расположенные символы. Тебе нужно просто всё испортить.",
+              "Я не совсем могу узреть, как записан запрет, но если это символы, выложенные на песке,",
+              "хорошо потоптаться будет достаточно. Тебе просто надо туда попасть."
+            ],
+            "s-cn": [
+              "你会看到地上写着一大片东西，都是精心排列的符号。 把它们弄乱就行。",
+              "我无法窥测这道阻航阵具体是怎么写的， 但要是摆在沙地上的符号的话，",
+              "上去使劲踩几脚就行。你只要能到那儿就好。"
+            ],
+            "t-cn": [
+              "你會看到地上寫著一大片東西， 都是精心排列的符號。把它們弄亂就行。",
+              "我無法窺測這道阻航陣具體是怎麼寫的， 但要是擺在沙地上的符號的話，",
+              "上去使勁踩幾腳就行。你只要能到那兒就好。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_what_do_i_do_2__boat.wav",
+            "subtitleCueLines": [
+              4115,
+              4120,
+              4125
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_what_do_i_do_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 3.299271,
+          "src": "audio/clips/ssnew_what_do_i_do_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Heroic vandalism. My favorite kind."
+            ],
+            "de": [
+              "Heldenhafter Vandalismus. Meine liebste Sorte."
+            ],
+            "es": [
+              "Vandalismo heroico. Mi favorito."
+            ],
+            "fr": [
+              "Du vandalisme héroïque. Mon préféré."
+            ],
+            "it": [
+              "Vandalismo eroico. Il mio preferito."
+            ],
+            "ja": [
+              "破壊なら得意さ。"
+            ],
+            "ko": [
+              "영웅적인 파괴행위군. 내가 제일 좋아하는 거지."
+            ],
+            "pt-br": [
+              "Vandalismo heroico. Meu tipo favorito."
+            ],
+            "ru": [
+              "Героический вандализм. Мой любимый вид."
+            ],
+            "s-cn": [
+              "搞破坏也能当英雄。我最喜欢这种事了。"
+            ],
+            "t-cn": [
+              "搞破壞也能當英雄。我最喜歡這種事了。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_what_do_i_do_3__sailor.wav",
+            "subtitleCueLines": [
+              4129
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So, when I get to the South, what do I do?",
+          "You'll see a bunch of writing on the ground. Carefully-arranged symbols. You just need to mess them up.",
+          "I can't quite scry *how* the interdict is written, but if it's symbols laid in the sand,",
+          "a good scuff will do. You just need to get there.",
+          "Heroic vandalism. My favorite kind."
+        ],
+        "de": [
+          "Wenn ich im Süden ankomme, was mache ich dann?",
+          "Du siehst dort jede Menge Schrift auf dem Boden. Sorgfältig angeordnete Symbole. Du musst sie nur durcheinanderbringen.",
+          "Ich kann nicht genau erkennen, wie das Interdikt geschrieben ist. Aber wenn es aus Symbolen besteht, die im Sand liegen,",
+          "reicht ein kräftiges Scharren. Du musst nur hinkommen.",
+          "Heldenhafter Vandalismus. Meine liebste Sorte."
+        ],
+        "es": [
+          "Entonces, cuando llegue al sur, ¿qué hago?",
+          "Verás un montón de cosas escritas en el suelo. Símbolos dispuestos con cuidado. Solo tienes que emborronarlos.",
+          "No acabo de ver cómo está escrito el veto, pero si son símbolos trazados en la arena,",
+          "con un buen meneo bastará. Solo tienes que llegar allí.",
+          "Vandalismo heroico. Mi favorito."
+        ],
+        "fr": [
+          "Du coup, quand j'arriverai au sud, je dois faire quoi ?",
+          "Tu verras plein d'inscriptions au sol. Des symboles soigneusement disposés. Il suffit de les abîmer.",
+          "Je n'arrive pas vraiment à voir comment l'interdiction est écrite, mais si ce sont des symboles tracés dans le sable,",
+          "un bon coup de balayage suffira. Il faut juste que tu arrives à les atteindre.",
+          "Du vandalisme héroïque. Mon préféré."
+        ],
+        "it": [
+          "Quindi, quando arrivo a sud, che faccio?",
+          "Vedrai un sacco di scritte per terra. Simboli disposti con cura. Devi solo rovinarli.",
+          "Non riesco a vedere bene come sia scritta l'interdizione, ma se sono simboli tracciati sulla sabbia,",
+          "sarà facile rovinarli un po'. Devi solo arrivarci.",
+          "Vandalismo eroico. Il mio preferito."
+        ],
+        "ja": [
+          "南に行ったら 何すればいい？",
+          "地面に色々な記号が 書いてあるはずだ。 それを崩せばいい。",
+          "どう描かれてるかは 視えないけど、 砂に記号が描かれてるなら",
+          "足でこすれば十分だ。 たどり着いてくれ。",
+          "破壊なら得意さ。"
+        ],
+        "ko": [
+          "그럼, 내가 남쪽에 가서 뭘 해야 하는데?",
+          "바닥에 적힌 글자들이 보일 거야. 세심하게 배치된 여러 기호들이지. 그걸 그냥 망가뜨리면 돼.",
+          "금제가 정확히 어떻게 적혀 있는지는 잘 안 보이는데, 기호들이 모래 위에 놓여 있다면",
+          "대충 쓸어버리면 돼. 거기까지만 가면 되는 거지.",
+          "영웅적인 파괴행위군. 내가 제일 좋아하는 거지."
+        ],
+        "pt-br": [
+          "Então, quando eu chegar ao sul, o que eu faço?",
+          "Você vai ver um monte de escrita no chão. Símbolos cuidadosamente dispostos. É só bagunçar tudo.",
+          "Não consigo ver direito como o interdito está escrito, mas se forem símbolos desenhados na areia,",
+          "basta arrastar os pés. É só você chegar lá.",
+          "Vandalismo heroico. Meu tipo favorito."
+        ],
+        "ru": [
+          "Итак, когда я доберусь до юга, что мне делать?",
+          "Ты увидишь на земле кучу надписей. Тщательно расположенные символы. Тебе нужно просто всё испортить.",
+          "Я не совсем могу узреть, как записан запрет, но если это символы, выложенные на песке,",
+          "хорошо потоптаться будет достаточно. Тебе просто надо туда попасть.",
+          "Героический вандализм. Мой любимый вид."
+        ],
+        "s-cn": [
+          "所以，我到了南边之后该怎么做？",
+          "你会看到地上写着一大片东西，都是精心排列的符号。 把它们弄乱就行。",
+          "我无法窥测这道阻航阵具体是怎么写的， 但要是摆在沙地上的符号的话，",
+          "上去使劲踩几脚就行。你只要能到那儿就好。",
+          "搞破坏也能当英雄。我最喜欢这种事了。"
+        ],
+        "t-cn": [
+          "所以，我到了南邊之後該怎麼做？",
+          "你會看到地上寫著一大片東西， 都是精心排列的符號。把它們弄亂就行。",
+          "我無法窺測這道阻航陣具體是怎麼寫的， 但要是擺在沙地上的符號的話，",
+          "上去使勁踩幾腳就行。你只要能到那兒就好。",
+          "搞破壞也能當英雄。我最喜歡這種事了。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

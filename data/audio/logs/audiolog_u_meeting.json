@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_u_meeting",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -19,14 +28,41 @@
             "en": [
               "Well! It's been a few years!"
             ],
+            "de": [
+              "Na so was! Unser letztes Treffen ist nun schon einige Jahre her!"
+            ],
+            "es": [
+              "¡Bueno! ¡Han pasado unos años!"
+            ],
+            "fr": [
+              "Eh bien ! Cela fait un bail !"
+            ],
+            "it": [
+              "Beh! Sono passati un paio d'anni!"
+            ],
+            "ja": [
+              "まあ！何年かぶりね！"
+            ],
+            "ko": [
+              "이야! 이게 몇 년 만이야!"
+            ],
             "pt-br": [
               "Bem! Faz alguns anos!"
+            ],
+            "ru": [
+              "Ну! Прошло уже несколько лет!"
+            ],
+            "s-cn": [
+              "哟！有几年没见了！"
+            ],
+            "t-cn": [
+              "喲！有幾年沒見了！"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_1__acting.wav",
             "subtitleCueLines": [
-              14432
+              14442
             ],
             "explicitAudioReference": null
           }
@@ -41,14 +77,41 @@
             "en": [
               "6 or so, on my side."
             ],
+            "de": [
+              "Auf meiner Seite etwa sechs."
+            ],
+            "es": [
+              "Unos seis, por mi parte."
+            ],
+            "fr": [
+              "6 ans environ, de mon côté."
+            ],
+            "it": [
+              "Circa sei, da parte mia."
+            ],
+            "ja": [
+              "私のほうでは、6年ほどだ。"
+            ],
+            "ko": [
+              "내 쪽에선 6년 정도 지났는데."
+            ],
             "pt-br": [
               "Uns 6, do meu lado."
+            ],
+            "ru": [
+              "У меня — лет 6 или около того."
+            ],
+            "s-cn": [
+              "按我这边的时间算，大概六年了。"
+            ],
+            "t-cn": [
+              "按我這邊的時間算，大概六年了。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_2__director.wav",
             "subtitleCueLines": [
-              14435
+              14445
             ],
             "explicitAudioReference": null
           }
@@ -63,14 +126,41 @@
             "en": [
               "So. You have that Certain Look. Are you here to relieve me?"
             ],
+            "de": [
+              "Nun. Du hast diesen ganz bestimmten Blick. Bist du hier, um mich abzulösen?"
+            ],
+            "es": [
+              "Bueno, bueno. Tienes esa mirada que pones. ¿Vienes a relevarme?"
+            ],
+            "fr": [
+              "Alors. Vous avez cet air si particulier. Vous venez prendre ma relève ?"
+            ],
+            "it": [
+              "Allora. Hai quello sguardo particolare. Sei qui per sollevarmi dall'incarico?"
+            ],
+            "ja": [
+              "その顔、何か言いたそうね。 私と交代しに来たの？"
+            ],
+            "ko": [
+              "그렇군요. 그 표정을 보니 뭔가 있는 것 같은데요. 저랑 교대하러 오셨나요?"
+            ],
             "pt-br": [
               "Então. Você tem aquele olhar característico. Veio me render?"
+            ],
+            "ru": [
+              "Итак. У вас этот особый взгляд. Вы пришли меня сменить?"
+            ],
+            "s-cn": [
+              "所以……看你这副神情，是来接替我的吗？"
+            ],
+            "t-cn": [
+              "所以……看你這副神情，是來接替我的嗎？"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_3__acting.wav",
             "subtitleCueLines": [
-              14438
+              14448
             ],
             "explicitAudioReference": null
           }
@@ -86,16 +176,52 @@
               "I'm still out there ... investigating. You'll have to keep running things for now.",
               "Or appoint a successor if you're tired."
             ],
+            "de": [
+              "Ich bin immer noch da draußen ... und forsche weiter. Du musst alles vorerst weiterführen.",
+              "Oder ernenne einen Nachfolger, wenn du es leid bist."
+            ],
+            "es": [
+              "Sigo ahí fuera... investigando. Tendrás que seguir dirigiendo el cotarro por ahora.",
+              "O nombrar a un sucesor, si te has cansado ya."
+            ],
+            "fr": [
+              "Je suis encore sur le terrain... à enquêter. Vous devrez continuer à tenir la boutique pour l'instant.",
+              "Ou désigner un successeur, si vous êtes fatiguée."
+            ],
+            "it": [
+              "Sono ancora là fuori... a indagare. Per ora dovrai continuare tu a mandare avanti le cose.",
+              "Oppure nomina un successore, se sei stanca."
+            ],
+            "ja": [
+              "私はまだ、外で…調査を続けている。 当分は、君に任せることになりそうだ。",
+              "疲れたなら、後任を任命してもいい。"
+            ],
+            "ko": [
+              "난 아직 밖에서... 조사 중이야. 당분간은 네가 계속 여길 운영해 줘야겠어.",
+              "지쳤다면 후임자를 정해도 돼."
+            ],
             "pt-br": [
               "Ainda estou por aí... investigando. Você vai ter que continuar cuidando do lugar por enquanto.",
-              "Ou nomear um sucessor, se estiver cansado."
+              "Ou nomear um sucessor, se estiver cansada."
+            ],
+            "ru": [
+              "Я всё ещё там... расследую. Пока вам придётся продолжать управлять этим местом.",
+              "Или назначьте преемника, если устали."
+            ],
+            "s-cn": [
+              "我还在外面……调查。眼下你得继续打理这边的事务。",
+              "要是你累了，也可以指定继任者。"
+            ],
+            "t-cn": [
+              "我還在外面……調查。 眼下你得繼續打理這邊的事務。",
+              "要是你累了，也可以指定繼任者。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_4__director.wav",
             "subtitleCueLines": [
-              14442,
-              14446
+              14452,
+              14456
             ],
             "explicitAudioReference": null
           }
@@ -110,14 +236,41 @@
             "en": [
               "Is it going well?"
             ],
+            "de": [
+              "Läuft es gut?"
+            ],
+            "es": [
+              "¿Va bien?"
+            ],
+            "fr": [
+              "Ça se passe bien ?"
+            ],
+            "it": [
+              "Sta andando bene?"
+            ],
+            "ja": [
+              "順調なの？"
+            ],
+            "ko": [
+              "잘 되어가고 있는 건가요?"
+            ],
             "pt-br": [
               "Está indo bem?"
+            ],
+            "ru": [
+              "Как идут дела?"
+            ],
+            "s-cn": [
+              "进展顺利吗？"
+            ],
+            "t-cn": [
+              "進展順利嗎？"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_5__acting.wav",
             "subtitleCueLines": [
-              14449
+              14459
             ],
             "explicitAudioReference": null
           }
@@ -132,14 +285,41 @@
             "en": [
               "It's going *somewhere*. Well or poorly, too soon to say."
             ],
+            "de": [
+              "Es läuft irgendwohin. Ob es gut oder schlecht läuft, lässt sich noch nicht sagen."
+            ],
+            "es": [
+              "Va encaminado. Si para bien o para mal, es pronto para decirlo."
+            ],
+            "fr": [
+              "Ça se passe. Bien ou mal, il est trop tôt pour le dire."
+            ],
+            "it": [
+              "Sta andando da qualche parte. Bene o male, è troppo presto per dirlo."
+            ],
+            "ja": [
+              "どこかには向かっているよ。 いい方向なのか、悪い方向なのかは、 まだ何とも言えないが。"
+            ],
+            "ko": [
+              "어디론가 가고는 있어. 잘되는지 아닌지는 아직 몰라."
+            ],
             "pt-br": [
               "Está indo para algum lugar. Bem ou mal, ainda é cedo para dizer."
+            ],
+            "ru": [
+              "Идут куда-то. Хорошо или плохо — пока рано говорить."
+            ],
+            "s-cn": [
+              "项目总归在朝某个方向发展。好坏如何，现在下结论还太早。"
+            ],
+            "t-cn": [
+              "計畫總歸在朝某個方向發展。 好壞如何，現在下結論還太早。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_6__director.wav",
             "subtitleCueLines": [
-              14452
+              14462
             ],
             "explicitAudioReference": null
           }
@@ -154,14 +334,41 @@
             "en": [
               "So, you're here..."
             ],
+            "de": [
+              "Hier bist du also ..."
+            ],
+            "es": [
+              "Bueno, estás aquí..."
+            ],
+            "fr": [
+              "Alors, vous êtes là..."
+            ],
+            "it": [
+              "Allora, sei qui..."
+            ],
+            "ja": [
+              "それで、ここに来たのは…"
+            ],
+            "ko": [
+              "그럼, 여긴 왜..."
+            ],
             "pt-br": [
               "Então, você está aqui..."
+            ],
+            "ru": [
+              "Итак, вы здесь..."
+            ],
+            "s-cn": [
+              "所以，你来这里是……"
+            ],
+            "t-cn": [
+              "所以，你來這裡是……"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_7__acting.wav",
             "subtitleCueLines": [
-              14456
+              14466
             ],
             "explicitAudioReference": null
           }
@@ -176,14 +383,41 @@
             "en": [
               "This guy you want to promote to Sokoban."
             ],
+            "de": [
+              "Dieser Kerl, den du zum Sokoban befördern willst."
+            ],
+            "es": [
+              "Este tipo al que quieres ascender a Sokoban."
+            ],
+            "fr": [
+              "Ce type que vous voulez promouvoir au rang de sokoban."
+            ],
+            "it": [
+              "Questo tizio che vuoi promuovere a Sokoban."
+            ],
+            "ja": [
+              "君が倉庫番に昇格させようとしている、 あの男のことだ。"
+            ],
+            "ko": [
+              "네가 소코반으로 승진시키려는 그 사람 말이야."
+            ],
             "pt-br": [
               "Esse cara que você quer promover a Sokoban."
+            ],
+            "ru": [
+              "Этот парень, которого вы хотите повысить до Сокобана."
+            ],
+            "s-cn": [
+              "就是你想提拔成守库人的这家伙。"
+            ],
+            "t-cn": [
+              "就是你想提拔成守庫人的這傢伙。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_8__director.wav",
             "subtitleCueLines": [
-              14460
+              14470
             ],
             "explicitAudioReference": null
           }
@@ -198,14 +432,41 @@
             "en": [
               "I can explain that --"
             ],
+            "de": [
+              "Das kann ich erklären –"
+            ],
+            "es": [
+              "Puedo explicarlo..."
+            ],
+            "fr": [
+              "Je peux tout expliquer—"
+            ],
+            "it": [
+              "Posso spiegare..."
+            ],
+            "ja": [
+              "それなら、説明できるわ――"
+            ],
+            "ko": [
+              "그건 설명드릴 수 있..."
+            ],
             "pt-br": [
               "Eu posso explicar isso..."
+            ],
+            "ru": [
+              "Я могу объяснить..."
+            ],
+            "s-cn": [
+              "这个我能解释——"
+            ],
+            "t-cn": [
+              "這個我能解釋——"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_9__acting.wav",
             "subtitleCueLines": [
-              14463
+              14473
             ],
             "explicitAudioReference": null
           }
@@ -220,14 +481,41 @@
             "en": [
               "Oh, I trust you. You've done it before, and that last one seems to have acclimated pretty well, strange as he is."
             ],
+            "de": [
+              "Ach, ich vertraue dir. Du hast das schon einmal gemacht, und der Letzte scheint sich ziemlich gut eingelebt zu haben, so seltsam er auch ist."
+            ],
+            "es": [
+              "Ah, confío en ti. Ya lo has hecho antes, y el último parece haberse adaptado bastante bien, por raro que sea."
+            ],
+            "fr": [
+              "Oh, je vous fais confiance. Vous l'avez déjà fait, et le dernier semble s'être plutôt bien acclimaté, aussi étrange soit-il."
+            ],
+            "it": [
+              "Oh, mi fido di te. L'hai già fatto, e quell'ultimo sembra essersi ambientato piuttosto bene, per quanto sia strano."
+            ],
+            "ja": [
+              "いや、君の判断は信頼している。 前にも同じことがあったし、 あの男も変わり者ではあるが、 ずいぶんうまくなじんだようだから。"
+            ],
+            "ko": [
+              "아, 난 널 믿어. 전에도 해 봤잖아, 지난번 그 친구도 꽤 잘 적응한 것 같고, 괴짜이긴 하지만."
+            ],
             "pt-br": [
               "Ah, eu confio em você. Já fez isso antes, e aquele último parece ter se adaptado muito bem, por mais estranho que seja."
+            ],
+            "ru": [
+              "О, я вам доверяю. У вас уже есть опыт, и тот, последний, похоже, неплохо освоился, несмотря на все свои странности."
+            ],
+            "s-cn": [
+              "哦，我信得过你。你以前就做过这种事， 而且上次那位——虽说古怪——似乎适应得还挺不错。"
+            ],
+            "t-cn": [
+              "哦，我信得過你。你以前就做過這種事， 而且上次那位——雖說古怪——似乎適應得還挺不錯。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_10__director.wav",
             "subtitleCueLines": [
-              14466
+              14476
             ],
             "explicitAudioReference": null
           }
@@ -242,14 +530,41 @@
             "en": [
               "He's certainly a character."
             ],
+            "de": [
+              "Er ist wirklich ein Original."
+            ],
+            "es": [
+              "Desde luego, es todo un personaje."
+            ],
+            "fr": [
+              "C'est un sacré personnage."
+            ],
+            "it": [
+              "È proprio un bel tipo."
+            ],
+            "ja": [
+              "確かに、個性的な人ね。"
+            ],
+            "ko": [
+              "확실히 별난 친구지."
+            ],
             "pt-br": [
               "Ele é mesmo uma figura."
+            ],
+            "ru": [
+              "Он, конечно, тот ещё чудак."
+            ],
+            "s-cn": [
+              "他这人确实挺有个性。"
+            ],
+            "t-cn": [
+              "他這人確實挺有個性。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_11__acting.wav",
             "subtitleCueLines": [
-              14471
+              14481
             ],
             "explicitAudioReference": null
           }
@@ -265,16 +580,52 @@
               "He's paying his dues. But regarding your *new* outlander Sokoban,",
               "I want to have some conversations with him. For reasons relating to my inquiry."
             ],
+            "de": [
+              "Er verdient sich seine Sporen. Aber was deinen neuen Sokoban aus einer anderen Welt angeht,",
+              "will ich ein paar Gespräche mit ihm führen. Aus Gründen, die mit meinen Nachforschungen zusammenhängen."
+            ],
+            "es": [
+              "Se está ganando su lugar. Pero en cuanto a tu nuevo forastero Sokoban,",
+              "quiero hablar con él. Por motivos relacionados con mi investigación."
+            ],
+            "fr": [
+              "Il fait ses preuves. Mais votre nouveau sokoban venu d'ailleurs...",
+              "j'aimerais discuter un peu avec lui. Pour des raisons liées à mon enquête."
+            ],
+            "it": [
+              "Sta facendo la sua gavetta. Ma quanto al nuovo forestiero, Sokoban,",
+              "voglio parlare con lui. Per motivi legati alla mia indagine."
+            ],
+            "ja": [
+              "彼なりに、下積みをしているよ。 それより、今度新しく倉庫番になる 異世界の男とは、",
+              "何度か話をしたいと思っている。 私の調査に関わることなんだ。"
+            ],
+            "ko": [
+              "제 몫을 하며 인정받으려 애쓰고 있어. 그런데 네가 새로 데려온 이방인 소코반 말인데,",
+              "그 사람과 얘기해 보고 싶어. 내 조사와 관련해서 말이야."
+            ],
             "pt-br": [
               "Ele está fazendo por merecer. Mas, quanto ao seu novo forasteiro Sokoban,",
               "quero ter algumas conversas com ele. Por motivos ligados à minha investigação."
+            ],
+            "ru": [
+              "Он старается заслужить своё место. Но что касается вашего нового чужеземца, Сокобана,",
+              "я хочу поговорить с ним. По причинам, связанным с моим расследованием."
+            ],
+            "s-cn": [
+              "他正在尽自己的本分。不过，说到你那位新来的外乡守库人，",
+              "我想和他聊几次。这和我正在探究的问题有关。"
+            ],
+            "t-cn": [
+              "他正在儘自己的本分。不過，說到你那位新來的外鄉守庫人，",
+              "我想和他聊幾次。這和我正在探究的問題有關。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_12__director.wav",
             "subtitleCueLines": [
-              14475,
-              14479
+              14485,
+              14489
             ],
             "explicitAudioReference": null
           }
@@ -289,14 +640,41 @@
             "en": [
               "I should arrange for you to speak alone?"
             ],
+            "de": [
+              "Soll ich dafür sorgen, dass ihr unter vier Augen sprecht?"
+            ],
+            "es": [
+              "¿Debería organizaros un encuentro para hablar a solas?"
+            ],
+            "fr": [
+              "Voulez-vous que j'organise un entretien en privé ?"
+            ],
+            "it": [
+              "Devo fare in modo che parliate da soli?"
+            ],
+            "ja": [
+              "二人だけで話せるようにしましょうか？"
+            ],
+            "ko": [
+              "둘이서만 얘기할 수 있게 자리를 마련해 드릴까요?"
+            ],
             "pt-br": [
               "Devo arranjar para vocês conversarem a sós?"
+            ],
+            "ru": [
+              "Мне устроить вам разговор наедине?"
+            ],
+            "s-cn": [
+              "我该安排你们单独谈谈吗？"
+            ],
+            "t-cn": [
+              "我該安排你們單獨談談嗎？"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_13__acting.wav",
             "subtitleCueLines": [
-              14483
+              14493
             ],
             "explicitAudioReference": null
           }
@@ -312,16 +690,52 @@
               "The topics will wander. You can nose in, if you want.",
               "But first, let's catch up...!"
             ],
+            "de": [
+              "Wir werden von einem Thema zum nächsten kommen. Du darfst gern deine Nase reinstecken.",
+              "Aber zuerst bringen wir uns gegenseitig auf den neuesten Stand ...!"
+            ],
+            "es": [
+              "Los temas irán variando. Puedes meter la nariz, si quieres.",
+              "Pero primero, ¡pongámonos al día...!"
+            ],
+            "fr": [
+              "Les sujets seront variés. Vous pouvez y assister, si vous voulez.",
+              "Mais d'abord, rattrapons le temps perdu !"
+            ],
+            "it": [
+              "Gli argomenti varieranno. Puoi ascoltare, se vuoi.",
+              "Ma prima, mettiamoci al passo...!"
+            ],
+            "ja": [
+              "話題は、あちこちに飛ぶと思う。 よければ、君も顔を出していい。",
+              "でも、まずは互いの近況を話そう…！"
+            ],
+            "ko": [
+              "여러 주제를 오가게 될 거야. 원한다면 너도 끼어들어도 되고.",
+              "하지만 먼저, 밀린 얘기부터 나눠 볼까...!"
+            ],
             "pt-br": [
               "Os assuntos vão variar. Você pode se meter, se quiser.",
               "Mas, primeiro, vamos colocar o papo em dia...!"
+            ],
+            "ru": [
+              "Темы будут меняться. Можете подслушивать, если хотите.",
+              "Но сначала давайте наверстаем!.."
+            ],
+            "s-cn": [
+              "话题会飘得很远。你想凑过来听也行。",
+              "不过先叙叙旧吧……！"
+            ],
+            "t-cn": [
+              "話題會飄得很遠。你想湊過來聽也行。",
+              "不過先敘敘舊吧……！"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_u_meeting_14__director.wav",
             "subtitleCueLines": [
-              14486,
-              14491
+              14496,
+              14501
             ],
             "explicitAudioReference": null
           }
@@ -351,12 +765,126 @@
           "The topics will wander. You can nose in, if you want.",
           "But first, let's catch up...!"
         ],
+        "de": [
+          "Na so was! Unser letztes Treffen ist nun schon einige Jahre her!",
+          "Auf meiner Seite etwa sechs.",
+          "Nun. Du hast diesen ganz bestimmten Blick. Bist du hier, um mich abzulösen?",
+          "Ich bin immer noch da draußen ... und forsche weiter. Du musst alles vorerst weiterführen.",
+          "Oder ernenne einen Nachfolger, wenn du es leid bist.",
+          "Läuft es gut?",
+          "Es läuft irgendwohin. Ob es gut oder schlecht läuft, lässt sich noch nicht sagen.",
+          "Hier bist du also ...",
+          "Dieser Kerl, den du zum Sokoban befördern willst.",
+          "Das kann ich erklären –",
+          "Ach, ich vertraue dir. Du hast das schon einmal gemacht, und der Letzte scheint sich ziemlich gut eingelebt zu haben, so seltsam er auch ist.",
+          "Er ist wirklich ein Original.",
+          "Er verdient sich seine Sporen. Aber was deinen neuen Sokoban aus einer anderen Welt angeht,",
+          "will ich ein paar Gespräche mit ihm führen. Aus Gründen, die mit meinen Nachforschungen zusammenhängen.",
+          "Soll ich dafür sorgen, dass ihr unter vier Augen sprecht?",
+          "Wir werden von einem Thema zum nächsten kommen. Du darfst gern deine Nase reinstecken.",
+          "Aber zuerst bringen wir uns gegenseitig auf den neuesten Stand ...!"
+        ],
+        "es": [
+          "¡Bueno! ¡Han pasado unos años!",
+          "Unos seis, por mi parte.",
+          "Bueno, bueno. Tienes esa mirada que pones. ¿Vienes a relevarme?",
+          "Sigo ahí fuera... investigando. Tendrás que seguir dirigiendo el cotarro por ahora.",
+          "O nombrar a un sucesor, si te has cansado ya.",
+          "¿Va bien?",
+          "Va encaminado. Si para bien o para mal, es pronto para decirlo.",
+          "Bueno, estás aquí...",
+          "Este tipo al que quieres ascender a Sokoban.",
+          "Puedo explicarlo...",
+          "Ah, confío en ti. Ya lo has hecho antes, y el último parece haberse adaptado bastante bien, por raro que sea.",
+          "Desde luego, es todo un personaje.",
+          "Se está ganando su lugar. Pero en cuanto a tu nuevo forastero Sokoban,",
+          "quiero hablar con él. Por motivos relacionados con mi investigación.",
+          "¿Debería organizaros un encuentro para hablar a solas?",
+          "Los temas irán variando. Puedes meter la nariz, si quieres.",
+          "Pero primero, ¡pongámonos al día...!"
+        ],
+        "fr": [
+          "Eh bien ! Cela fait un bail !",
+          "6 ans environ, de mon côté.",
+          "Alors. Vous avez cet air si particulier. Vous venez prendre ma relève ?",
+          "Je suis encore sur le terrain... à enquêter. Vous devrez continuer à tenir la boutique pour l'instant.",
+          "Ou désigner un successeur, si vous êtes fatiguée.",
+          "Ça se passe bien ?",
+          "Ça se passe. Bien ou mal, il est trop tôt pour le dire.",
+          "Alors, vous êtes là...",
+          "Ce type que vous voulez promouvoir au rang de sokoban.",
+          "Je peux tout expliquer—",
+          "Oh, je vous fais confiance. Vous l'avez déjà fait, et le dernier semble s'être plutôt bien acclimaté, aussi étrange soit-il.",
+          "C'est un sacré personnage.",
+          "Il fait ses preuves. Mais votre nouveau sokoban venu d'ailleurs...",
+          "j'aimerais discuter un peu avec lui. Pour des raisons liées à mon enquête.",
+          "Voulez-vous que j'organise un entretien en privé ?",
+          "Les sujets seront variés. Vous pouvez y assister, si vous voulez.",
+          "Mais d'abord, rattrapons le temps perdu !"
+        ],
+        "it": [
+          "Beh! Sono passati un paio d'anni!",
+          "Circa sei, da parte mia.",
+          "Allora. Hai quello sguardo particolare. Sei qui per sollevarmi dall'incarico?",
+          "Sono ancora là fuori... a indagare. Per ora dovrai continuare tu a mandare avanti le cose.",
+          "Oppure nomina un successore, se sei stanca.",
+          "Sta andando bene?",
+          "Sta andando da qualche parte. Bene o male, è troppo presto per dirlo.",
+          "Allora, sei qui...",
+          "Questo tizio che vuoi promuovere a Sokoban.",
+          "Posso spiegare...",
+          "Oh, mi fido di te. L'hai già fatto, e quell'ultimo sembra essersi ambientato piuttosto bene, per quanto sia strano.",
+          "È proprio un bel tipo.",
+          "Sta facendo la sua gavetta. Ma quanto al nuovo forestiero, Sokoban,",
+          "voglio parlare con lui. Per motivi legati alla mia indagine.",
+          "Devo fare in modo che parliate da soli?",
+          "Gli argomenti varieranno. Puoi ascoltare, se vuoi.",
+          "Ma prima, mettiamoci al passo...!"
+        ],
+        "ja": [
+          "まあ！何年かぶりね！",
+          "私のほうでは、6年ほどだ。",
+          "その顔、何か言いたそうね。 私と交代しに来たの？",
+          "私はまだ、外で…調査を続けている。 当分は、君に任せることになりそうだ。",
+          "疲れたなら、後任を任命してもいい。",
+          "順調なの？",
+          "どこかには向かっているよ。 いい方向なのか、悪い方向なのかは、 まだ何とも言えないが。",
+          "それで、ここに来たのは…",
+          "君が倉庫番に昇格させようとしている、 あの男のことだ。",
+          "それなら、説明できるわ――",
+          "いや、君の判断は信頼している。 前にも同じことがあったし、 あの男も変わり者ではあるが、 ずいぶんうまくなじんだようだから。",
+          "確かに、個性的な人ね。",
+          "彼なりに、下積みをしているよ。 それより、今度新しく倉庫番になる 異世界の男とは、",
+          "何度か話をしたいと思っている。 私の調査に関わることなんだ。",
+          "二人だけで話せるようにしましょうか？",
+          "話題は、あちこちに飛ぶと思う。 よければ、君も顔を出していい。",
+          "でも、まずは互いの近況を話そう…！"
+        ],
+        "ko": [
+          "이야! 이게 몇 년 만이야!",
+          "내 쪽에선 6년 정도 지났는데.",
+          "그렇군요. 그 표정을 보니 뭔가 있는 것 같은데요. 저랑 교대하러 오셨나요?",
+          "난 아직 밖에서... 조사 중이야. 당분간은 네가 계속 여길 운영해 줘야겠어.",
+          "지쳤다면 후임자를 정해도 돼.",
+          "잘 되어가고 있는 건가요?",
+          "어디론가 가고는 있어. 잘되는지 아닌지는 아직 몰라.",
+          "그럼, 여긴 왜...",
+          "네가 소코반으로 승진시키려는 그 사람 말이야.",
+          "그건 설명드릴 수 있...",
+          "아, 난 널 믿어. 전에도 해 봤잖아, 지난번 그 친구도 꽤 잘 적응한 것 같고, 괴짜이긴 하지만.",
+          "확실히 별난 친구지.",
+          "제 몫을 하며 인정받으려 애쓰고 있어. 그런데 네가 새로 데려온 이방인 소코반 말인데,",
+          "그 사람과 얘기해 보고 싶어. 내 조사와 관련해서 말이야.",
+          "둘이서만 얘기할 수 있게 자리를 마련해 드릴까요?",
+          "여러 주제를 오가게 될 거야. 원한다면 너도 끼어들어도 되고.",
+          "하지만 먼저, 밀린 얘기부터 나눠 볼까...!"
+        ],
         "pt-br": [
           "Bem! Faz alguns anos!",
           "Uns 6, do meu lado.",
           "Então. Você tem aquele olhar característico. Veio me render?",
           "Ainda estou por aí... investigando. Você vai ter que continuar cuidando do lugar por enquanto.",
-          "Ou nomear um sucessor, se estiver cansado.",
+          "Ou nomear um sucessor, se estiver cansada.",
           "Está indo bem?",
           "Está indo para algum lugar. Bem ou mal, ainda é cedo para dizer.",
           "Então, você está aqui...",
@@ -369,6 +897,63 @@
           "Devo arranjar para vocês conversarem a sós?",
           "Os assuntos vão variar. Você pode se meter, se quiser.",
           "Mas, primeiro, vamos colocar o papo em dia...!"
+        ],
+        "ru": [
+          "Ну! Прошло уже несколько лет!",
+          "У меня — лет 6 или около того.",
+          "Итак. У вас этот особый взгляд. Вы пришли меня сменить?",
+          "Я всё ещё там... расследую. Пока вам придётся продолжать управлять этим местом.",
+          "Или назначьте преемника, если устали.",
+          "Как идут дела?",
+          "Идут куда-то. Хорошо или плохо — пока рано говорить.",
+          "Итак, вы здесь...",
+          "Этот парень, которого вы хотите повысить до Сокобана.",
+          "Я могу объяснить...",
+          "О, я вам доверяю. У вас уже есть опыт, и тот, последний, похоже, неплохо освоился, несмотря на все свои странности.",
+          "Он, конечно, тот ещё чудак.",
+          "Он старается заслужить своё место. Но что касается вашего нового чужеземца, Сокобана,",
+          "я хочу поговорить с ним. По причинам, связанным с моим расследованием.",
+          "Мне устроить вам разговор наедине?",
+          "Темы будут меняться. Можете подслушивать, если хотите.",
+          "Но сначала давайте наверстаем!.."
+        ],
+        "s-cn": [
+          "哟！有几年没见了！",
+          "按我这边的时间算，大概六年了。",
+          "所以……看你这副神情，是来接替我的吗？",
+          "我还在外面……调查。眼下你得继续打理这边的事务。",
+          "要是你累了，也可以指定继任者。",
+          "进展顺利吗？",
+          "项目总归在朝某个方向发展。好坏如何，现在下结论还太早。",
+          "所以，你来这里是……",
+          "就是你想提拔成守库人的这家伙。",
+          "这个我能解释——",
+          "哦，我信得过你。你以前就做过这种事， 而且上次那位——虽说古怪——似乎适应得还挺不错。",
+          "他这人确实挺有个性。",
+          "他正在尽自己的本分。不过，说到你那位新来的外乡守库人，",
+          "我想和他聊几次。这和我正在探究的问题有关。",
+          "我该安排你们单独谈谈吗？",
+          "话题会飘得很远。你想凑过来听也行。",
+          "不过先叙叙旧吧……！"
+        ],
+        "t-cn": [
+          "喲！有幾年沒見了！",
+          "按我這邊的時間算，大概六年了。",
+          "所以……看你這副神情，是來接替我的嗎？",
+          "我還在外面……調查。 眼下你得繼續打理這邊的事務。",
+          "要是你累了，也可以指定繼任者。",
+          "進展順利嗎？",
+          "計畫總歸在朝某個方向發展。 好壞如何，現在下結論還太早。",
+          "所以，你來這裡是……",
+          "就是你想提拔成守庫人的這傢伙。",
+          "這個我能解釋——",
+          "哦，我信得過你。你以前就做過這種事， 而且上次那位——雖說古怪——似乎適應得還挺不錯。",
+          "他這人確實挺有個性。",
+          "他正在儘自己的本分。不過，說到你那位新來的外鄉守庫人，",
+          "我想和他聊幾次。這和我正在探究的問題有關。",
+          "我該安排你們單獨談談嗎？",
+          "話題會飄得很遠。你想湊過來聽也行。",
+          "不過先敘敘舊吧……！"
         ]
       },
       "silentCues": [],

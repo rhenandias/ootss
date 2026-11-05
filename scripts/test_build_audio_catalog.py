@@ -8,7 +8,8 @@ import wave
 
 from export_audio_catalog import parse_subtitles, write_json
 from build_audio_catalog import (references_for_entity, expand_story_namespaces,
-    resolve_block, world_features, world_triggers, placement_audit, publish, digest, encode_clip, MEDIA_PROFILE)
+    resolve_block, world_features, world_triggers, placement_audit, publish, digest, encode_clip, MEDIA_PROFILE,
+    load_subtitles, maps_for_position)
 
 
 def entity(kind, fields, identity=1):
@@ -23,7 +24,50 @@ def wav_file(path):
         wav.writeframes(b'\0\0' * 8000)
 
 
+class SubtitleDiscoveryTests(unittest.TestCase):
+    def test_discovers_original_and_extracted_languages_with_unicode(self):
+        for suffix in ('.subtitles', '.subtitles.txt'):
+            with self.subTest(suffix=suffix), tempfile.TemporaryDirectory() as folder:
+                root = Path(folder)
+                for language, text in {'en': 'Hello', 'ja': 'こんにちは', 's-cn': '你好'}.items():
+                    (root / (language + suffix)).write_text(
+                        f'\ufeff:: scene\n= warrior +0 1\n{text}\n', encoding='utf-8')
+                (root / 'unrelated.txt').write_text('ignore', encoding='utf-8')
+                subtitles, hashes = load_subtitles(root)
+                self.assertEqual(list(subtitles), ['en', 'ja', 's-cn'])
+                self.assertEqual(subtitles['ja']['scene']['cues'][0]['textLines'], ['こんにちは'])
+                self.assertEqual(set(hashes), set(subtitles))
+
+    def test_requires_english_for_clip_identities(self):
+        with tempfile.TemporaryDirectory() as folder:
+            with self.assertRaisesRegex(ValueError, 'English subtitles are required'):
+                load_subtitles(Path(folder))
+
+
 class AssociationTests(unittest.TestCase):
+    def test_maps_keep_entity_coordinate_spaces_separate(self):
+        self.assertEqual(maps_for_position('overworld', [50, 30, 0]), ['overworld'])
+        self.assertEqual(maps_for_position('intro', [50, 30, 0]), ['intro'])
+        self.assertEqual(maps_for_position('skipping_stones', [50, 30, 0]), ['stones'])
+        self.assertEqual(maps_for_position('unmapped_puzzle', [50, 30, 0]), [])
+        self.assertEqual(maps_for_position('overworld', [60, 120, 89]), ['minimap'])
+        self.assertEqual(maps_for_position('overworld', [60, 120, 105]), ['minimap_high'])
+        self.assertEqual(maps_for_position('overworld', [60, 120, 78]), ['minimap_low'])
+        self.assertEqual(maps_for_position('overworld', [0, 0, 89]), [])
+
+    def test_intro_anchors_keep_local_coordinates_and_scoped_trigger_ids(self):
+        anchor = entity('Guy', {'initial_bark': 'scene', 'position.x': 50, 'position.y': 30}, 12)
+        triggers = world_triggers([anchor], {'scene': {}}, 'intro')
+        point = world_features([anchor], triggers, 'intro', 'data-common/intro.entities')[0]
+        props = point['properties']
+        self.assertEqual(props['audioKey'], 'intro_12')
+        self.assertEqual(props['entities'], 'intro')
+        self.assertEqual(props['source'], 'data-common/intro.entities')
+        self.assertEqual(props['coordinateSpace'], 'level-local')
+        self.assertEqual(props['mapLayers'], ['intro'])
+        self.assertTrue(props['mapReady'])
+        self.assertEqual(point['geometry']['coordinates'], [50, 30, 0])
+
     def test_movement_requires_bark_volume_and_keeps_conditional_variants(self):
         marker = entity('Marker', {'script_name': 'bark_conditional', 'string_parameter': 'scene',
             'is_point_marker': False, 'box_extents.x': 2, 'box_extents.y': 3, 'box_extents.z': 1,

@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "end2_sokoban_writing_choice_2",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,22 +32,85 @@
               "But I prefer to use the nonverbal channels, when I am able to employ them successfully.",
               "So I chose brevity, to give space for the Puzzles themselves to speak."
             ],
+            "de": [
+              "Wie bereits erwähnt, hatte ich die Wahl, zu diktieren oder Schilder zu beschriften, und ich habe mich für das Schreiben entschieden.",
+              "Dann musste ich natürlich noch entscheiden: wie viel ich schreiben sollte.",
+              "Würde ich sehr ausführlich schreiben, könnte ich dich ganz gezielt auf jede Einzelheit hinweisen, die du beachten sollst.",
+              "Doch ich nutze lieber die nonverbalen Kanäle, wenn ich sie wirkungsvoll einsetzen kann.",
+              "Ich habe mich für Kürze entschieden, damit die Rätsel selbst zu Wort kommen können."
+            ],
+            "es": [
+              "Como ya he mencionado, podía elegir entre dictar o escribir carteles, y elegí escribir.",
+              "Entonces, naturalmente, había otra decisión que tomar: cuánto escribir.",
+              "Si me extendiera mucho, podría señalar con precisión cada detalle en el que quiero que te fijes.",
+              "Pero prefiero usar los canales no verbales, cuando puedo emplearlos con éxito.",
+              "Elegí la brevedad, para dejar espacio a que hablen los propios puzles."
+            ],
+            "fr": [
+              "Comme je l'ai déjà dit, j'avais le choix entre dicter des messages ou écrire des panneaux, et j'ai choisi d'écrire.",
+              "Un autre choix s'imposait alors, naturellement : quelle quantité écrire.",
+              "En écrivant de longs paragraphes, je pourrais être très précis et vous signaler chaque détail que je souhaite vous voir remarquer.",
+              "Mais je préfère les moyens de communication non verbaux, quand je parviens à les employer efficacement.",
+              "J'ai choisi la brièveté, pour laisser les énigmes s'exprimer d'elles-mêmes."
+            ],
+            "it": [
+              "Come ho già detto, potevo scegliere se dettare o scrivere i cartelli, e ho scelto di scrivere.",
+              "Poi c'era, naturalmente, un'altra scelta: quanto scrivere.",
+              "Se scrivessi a lungo, potrei essere molto preciso nell'indicare ogni dettaglio che desidero farti osservare.",
+              "Ma preferisco usare i canali non verbali, quando riesco a farlo con successo.",
+              "Quindi ho scelto la brevità, per lasciare spazio ai rompicapo stessi perché parlino."
+            ],
+            "ja": [
+              "各ステージの導入文は 短くも、長くも書けた。",
+              "すると当然、もう一つ決めることがあった。 どれだけ書くか、ということだ。",
+              "長々と書けば、見てほしい細部を 一つ残らず、具体的に指し示すことができる。",
+              "別の形でも成り立つ。 それでも、私は こうすることにした。",
+              "私は短くした。 パズルに語らせたかったからだ。"
+            ],
+            "ko": [
+              "앞서 말했듯이, 나는 말을 녹음할지 표지판에 글을 쓸지 선택할 수 있었고, 글을 쓰기로 했어.",
+              "그러자 당연히 또 선택해야 했지: 얼마나 많이 쓸 것인가.",
+              "길게 쓴다면, 당신이 눈여겨봤으면 하는 모든 세부 사항을 아주 구체적으로 짚어 줄 수 있겠지.",
+              "하지만 효과적으로 활용할 수 있다면, 나는 비언어적 수단을 더 좋아해.",
+              "저는 짧게 쓰기로 했습니다. 퍼즐 자체가 말할 수 있는 공간을 남겨 두기 위해서요."
+            ],
             "pt-br": [
-              "Como já mencionei, eu podia escolher entre ditar ou escrever placas, e escolhi escrever.",
+              "Como já mencionei, eu podia escolher entre ditar ou escrever Sinais, e escolhi escrever.",
               "Havia então, naturalmente, mais uma escolha: quanto escrever.",
               "Se eu escrevesse longamente, poderia ser muito específico ao apontar cada detalhe que quero que você observe.",
               "Mas prefiro usar os canais não verbais, quando consigo empregá-los com sucesso.",
               "Escolhi a concisão, para abrir espaço para que os próprios quebra-cabeças falem."
+            ],
+            "ru": [
+              "Как я уже упоминал, у меня был выбор: записывать речь или писать таблички, и я выбрал таблички.",
+              "Затем, естественно, возник следующий вопрос: как много писать.",
+              "Если писать пространно, я мог бы точно указать на каждую деталь, которую хочу вам показать.",
+              "Но я предпочитаю обходиться без слов, если могу так донести свою мысль.",
+              "Я выбрал краткость, чтобы оставить место для самих головоломок, чтобы они говорили за себя."
+            ],
+            "s-cn": [
+              "正如我先前所说，我可以选择 是口述，还是书写标牌， 而我选择了书写。",
+              "那么自然还有更进一步的选择： 究竟要写多少。",
+              "如果我写得很长，就能非常具体地 指出我希望你观察的 每一个细节。",
+              "但在我能够顺利使用 那些非语言的渠道时， 我更倾向于用它们。",
+              "所以我选择了言简意赅，让谜题本身来说话。"
+            ],
+            "t-cn": [
+              "正如我先前所說，我可以選擇 是口述，還是書寫標牌， 而我選擇了書寫。",
+              "那麼自然還有更進一步的選擇： 究竟要寫多少。",
+              "如果我寫得很長，就能非常具體地 指出我希望你觀察的 每一個細節。",
+              "但在我能夠順利使用 那些非語言的渠道時， 我更傾向於用它們。",
+              "所以我選擇了言簡意賅，讓謎題本身來說話。"
             ]
           },
           "provenance": {
             "sourceWav": "end2_sokoban_writing_choice_2_1__sokoban.wav",
             "subtitleCueLines": [
-              11474,
-              11479,
-              11483,
-              11488,
-              11492
+              11484,
+              11489,
+              11493,
+              11498,
+              11502
             ],
             "explicitAudioReference": null
           }
@@ -56,12 +128,75 @@
           "But I prefer to use the nonverbal channels, when I am able to employ them successfully.",
           "So I chose brevity, to give space for the Puzzles themselves to speak."
         ],
+        "de": [
+          "Wie bereits erwähnt, hatte ich die Wahl, zu diktieren oder Schilder zu beschriften, und ich habe mich für das Schreiben entschieden.",
+          "Dann musste ich natürlich noch entscheiden: wie viel ich schreiben sollte.",
+          "Würde ich sehr ausführlich schreiben, könnte ich dich ganz gezielt auf jede Einzelheit hinweisen, die du beachten sollst.",
+          "Doch ich nutze lieber die nonverbalen Kanäle, wenn ich sie wirkungsvoll einsetzen kann.",
+          "Ich habe mich für Kürze entschieden, damit die Rätsel selbst zu Wort kommen können."
+        ],
+        "es": [
+          "Como ya he mencionado, podía elegir entre dictar o escribir carteles, y elegí escribir.",
+          "Entonces, naturalmente, había otra decisión que tomar: cuánto escribir.",
+          "Si me extendiera mucho, podría señalar con precisión cada detalle en el que quiero que te fijes.",
+          "Pero prefiero usar los canales no verbales, cuando puedo emplearlos con éxito.",
+          "Elegí la brevedad, para dejar espacio a que hablen los propios puzles."
+        ],
+        "fr": [
+          "Comme je l'ai déjà dit, j'avais le choix entre dicter des messages ou écrire des panneaux, et j'ai choisi d'écrire.",
+          "Un autre choix s'imposait alors, naturellement : quelle quantité écrire.",
+          "En écrivant de longs paragraphes, je pourrais être très précis et vous signaler chaque détail que je souhaite vous voir remarquer.",
+          "Mais je préfère les moyens de communication non verbaux, quand je parviens à les employer efficacement.",
+          "J'ai choisi la brièveté, pour laisser les énigmes s'exprimer d'elles-mêmes."
+        ],
+        "it": [
+          "Come ho già detto, potevo scegliere se dettare o scrivere i cartelli, e ho scelto di scrivere.",
+          "Poi c'era, naturalmente, un'altra scelta: quanto scrivere.",
+          "Se scrivessi a lungo, potrei essere molto preciso nell'indicare ogni dettaglio che desidero farti osservare.",
+          "Ma preferisco usare i canali non verbali, quando riesco a farlo con successo.",
+          "Quindi ho scelto la brevità, per lasciare spazio ai rompicapo stessi perché parlino."
+        ],
+        "ja": [
+          "各ステージの導入文は 短くも、長くも書けた。",
+          "すると当然、もう一つ決めることがあった。 どれだけ書くか、ということだ。",
+          "長々と書けば、見てほしい細部を 一つ残らず、具体的に指し示すことができる。",
+          "別の形でも成り立つ。 それでも、私は こうすることにした。",
+          "私は短くした。 パズルに語らせたかったからだ。"
+        ],
+        "ko": [
+          "앞서 말했듯이, 나는 말을 녹음할지 표지판에 글을 쓸지 선택할 수 있었고, 글을 쓰기로 했어.",
+          "그러자 당연히 또 선택해야 했지: 얼마나 많이 쓸 것인가.",
+          "길게 쓴다면, 당신이 눈여겨봤으면 하는 모든 세부 사항을 아주 구체적으로 짚어 줄 수 있겠지.",
+          "하지만 효과적으로 활용할 수 있다면, 나는 비언어적 수단을 더 좋아해.",
+          "저는 짧게 쓰기로 했습니다. 퍼즐 자체가 말할 수 있는 공간을 남겨 두기 위해서요."
+        ],
         "pt-br": [
-          "Como já mencionei, eu podia escolher entre ditar ou escrever placas, e escolhi escrever.",
+          "Como já mencionei, eu podia escolher entre ditar ou escrever Sinais, e escolhi escrever.",
           "Havia então, naturalmente, mais uma escolha: quanto escrever.",
           "Se eu escrevesse longamente, poderia ser muito específico ao apontar cada detalhe que quero que você observe.",
           "Mas prefiro usar os canais não verbais, quando consigo empregá-los com sucesso.",
           "Escolhi a concisão, para abrir espaço para que os próprios quebra-cabeças falem."
+        ],
+        "ru": [
+          "Как я уже упоминал, у меня был выбор: записывать речь или писать таблички, и я выбрал таблички.",
+          "Затем, естественно, возник следующий вопрос: как много писать.",
+          "Если писать пространно, я мог бы точно указать на каждую деталь, которую хочу вам показать.",
+          "Но я предпочитаю обходиться без слов, если могу так донести свою мысль.",
+          "Я выбрал краткость, чтобы оставить место для самих головоломок, чтобы они говорили за себя."
+        ],
+        "s-cn": [
+          "正如我先前所说，我可以选择 是口述，还是书写标牌， 而我选择了书写。",
+          "那么自然还有更进一步的选择： 究竟要写多少。",
+          "如果我写得很长，就能非常具体地 指出我希望你观察的 每一个细节。",
+          "但在我能够顺利使用 那些非语言的渠道时， 我更倾向于用它们。",
+          "所以我选择了言简意赅，让谜题本身来说话。"
+        ],
+        "t-cn": [
+          "正如我先前所說，我可以選擇 是口述，還是書寫標牌， 而我選擇了書寫。",
+          "那麼自然還有更進一步的選擇： 究竟要寫多少。",
+          "如果我寫得很長，就能非常具體地 指出我希望你觀察的 每一個細節。",
+          "但在我能夠順利使用 那些非語言的渠道時， 我更傾向於用它們。",
+          "所以我選擇了言簡意賅，讓謎題本身來說話。"
         ]
       },
       "silentCues": [],

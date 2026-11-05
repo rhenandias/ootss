@@ -259,6 +259,7 @@ if __name__ == "__main__":
     parser.add_argument("--schema", type=Path, help="Matching schema JSON or game executable; defaults to the executable next to data/")
     parser.add_argument('--ffmpeg', type=Path, default=shutil.which('ffmpeg'))
     parser.add_argument('--workers', type=int, default=4)
+    parser.add_argument('--subtitles-dir', type=Path, help='Original game subtitles directory or extracted subtitle TXT directory (full catalog only)')
     args = parser.parse_args()
     if args.config:
         export(args.extracted_root, args.package, args.config, args.output_root, args.schema)
@@ -269,4 +270,4 @@ if __name__ == "__main__":
         if not 1 <= args.workers <= 16:
             parser.error('--workers must be between 1 and 16')
         build(args.extracted_root, args.package, args.output_root, ROOT / 'data/markers.json',
-              args.ffmpeg, args.schema, args.workers)
+              args.ffmpeg, args.schema, args.workers, subtitles_dir=args.subtitles_dir)

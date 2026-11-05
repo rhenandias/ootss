@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -25,10 +34,55 @@
               "We're all good at moving things in our own ways,",
               "and we'd gained so much experience at loading docks and so forth."
             ],
+            "de": [
+              "... und da haben wir dann beschlossen, endlich die Firma zu gründen.",
+              "Wir sind alle richtig gut darin, Dinge auf unsere eigene Art zu bewegen,",
+              "und wir haben so viel Erfahrung gesammelt, bei der Arbeit an Laderampen und so."
+            ],
+            "es": [
+              "... y ahí fue cuando decidimos finalmente montar la empresa.",
+              "A todos se nos da bien portear cosas a nuestra manera,",
+              "y habíamos adquirido mucha experiencia trabajando en muelles de carga y cosas así."
+            ],
+            "fr": [
+              "... et c'est là qu'on a décidé de monter la boîte.",
+              "On est tous doués pour déplacer des trucs à notre façon,",
+              "et on avait acquis tellement d'expérience à bosser sur les quais de chargement et tout ça."
+            ],
+            "it": [
+              "... ed è stato allora che abbiamo deciso di fondare finalmente la compagnia.",
+              "Siamo tutti bravi a spostare le cose ciascuno a modo suo,",
+              "e avevamo acquisito tantissima esperienza sulle banchine di carico e in altri posti simili."
+            ],
+            "ja": [
+              "…それで、 みんなで会社を始めたの。",
+              "みんなモノを 動かすのが得意だし。",
+              "港とかで 働いた経験が 豊富だったからね。"
+            ],
+            "ko": [
+              "... 그래서 그때 결심했어, 마침내 회사를 차리기로 말이야.",
+              "우린 모두 각자의 방식으로 물건을 옮기는 데 소질이 있고,",
+              "하역장 같은 곳에서 일하면서 경험도 엄청 많이 쌓았거든."
+            ],
             "pt-br": [
               "... e foi aí que decidimos finalmente abrir a empresa.",
               "Somos todos bons em transportar coisas do nosso jeito,",
               "e ganhamos muita experiência trabalhando nas docas e por aí vai."
+            ],
+            "ru": [
+              "...и тогда мы решили наконец-то основать компанию.",
+              "Мы все по-своему хороши в перемещении грузов,",
+              "да и опыта мы набрались прилично в грузовых доках и всё в таком духе."
+            ],
+            "s-cn": [
+              "……我们就是在那时候终于决定开公司。",
+              "我们在搬东西这方面都有各自的妙招，",
+              "而且我们在码头干了那么久，经验已经够丰富了。"
+            ],
+            "t-cn": [
+              "……我們就是在那時候終於決定開公司。",
+              "我們在搬東西這方面都有各自的妙招，",
+              "而且我們在碼頭幹了那麼久，經驗已經夠豐富了。"
             ]
           },
           "provenance": {
@@ -52,10 +106,55 @@
           "We're all good at moving things in our own ways,",
           "and we'd gained so much experience at loading docks and so forth."
         ],
+        "de": [
+          "... und da haben wir dann beschlossen, endlich die Firma zu gründen.",
+          "Wir sind alle richtig gut darin, Dinge auf unsere eigene Art zu bewegen,",
+          "und wir haben so viel Erfahrung gesammelt, bei der Arbeit an Laderampen und so."
+        ],
+        "es": [
+          "... y ahí fue cuando decidimos finalmente montar la empresa.",
+          "A todos se nos da bien portear cosas a nuestra manera,",
+          "y habíamos adquirido mucha experiencia trabajando en muelles de carga y cosas así."
+        ],
+        "fr": [
+          "... et c'est là qu'on a décidé de monter la boîte.",
+          "On est tous doués pour déplacer des trucs à notre façon,",
+          "et on avait acquis tellement d'expérience à bosser sur les quais de chargement et tout ça."
+        ],
+        "it": [
+          "... ed è stato allora che abbiamo deciso di fondare finalmente la compagnia.",
+          "Siamo tutti bravi a spostare le cose ciascuno a modo suo,",
+          "e avevamo acquisito tantissima esperienza sulle banchine di carico e in altri posti simili."
+        ],
+        "ja": [
+          "…それで、 みんなで会社を始めたの。",
+          "みんなモノを 動かすのが得意だし。",
+          "港とかで 働いた経験が 豊富だったからね。"
+        ],
+        "ko": [
+          "... 그래서 그때 결심했어, 마침내 회사를 차리기로 말이야.",
+          "우린 모두 각자의 방식으로 물건을 옮기는 데 소질이 있고,",
+          "하역장 같은 곳에서 일하면서 경험도 엄청 많이 쌓았거든."
+        ],
         "pt-br": [
           "... e foi aí que decidimos finalmente abrir a empresa.",
           "Somos todos bons em transportar coisas do nosso jeito,",
           "e ganhamos muita experiência trabalhando nas docas e por aí vai."
+        ],
+        "ru": [
+          "...и тогда мы решили наконец-то основать компанию.",
+          "Мы все по-своему хороши в перемещении грузов,",
+          "да и опыта мы набрались прилично в грузовых доках и всё в таком духе."
+        ],
+        "s-cn": [
+          "……我们就是在那时候终于决定开公司。",
+          "我们在搬东西这方面都有各自的妙招，",
+          "而且我们在码头干了那么久，经验已经够丰富了。"
+        ],
+        "t-cn": [
+          "……我們就是在那時候終於決定開公司。",
+          "我們在搬東西這方面都有各自的妙招，",
+          "而且我們在碼頭幹了那麼久，經驗已經夠豐富了。"
         ]
       },
       "silentCues": [],
@@ -95,9 +194,45 @@
               "Do you know the Crawler? Valens and I worked there for a while. At the far other end of the route, I mean...",
               "Until I ... Well, it was a fun job while we had it."
             ],
+            "de": [
+              "Hast du vom Crawler gehört? Valens und ich haben da eine Weile gearbeitet. Ganz am anderen Ende der Strecke, meine ich ...",
+              "Bis ich ... Na ja, der Job hat Spaß gemacht, solange wir ihn hatten."
+            ],
+            "es": [
+              "¿Conoces La Oruga? Valens y yo trabajamos allí una temporada. En el otro extremo de la ruta, claro...",
+              "Hasta que... Bueno, fue un trabajo divertido mientras duró."
+            ],
+            "fr": [
+              "Vous connaissez le Rampant ? Valens et moi y avons travaillé quelque temps. À l'autre bout du trajet, je veux dire...",
+              "Jusqu'à ce que je... Enfin, c'était un travail agréable, à l'époque."
+            ],
+            "it": [
+              "Conosci il Crawler? Valens e io ci abbiamo lavorato per un po'. All'altro capo del percorso, intendo...",
+              "Finché io... Beh, è stato un lavoro divertente finché è durato."
+            ],
+            "ja": [
+              "クロウラーって知ってる？ ヴァレンスとあたし、しばらくそこで働いてたの。 路線のずっと向こう、西の端の方でね…",
+              "あたしが…その… まあ、続いてる間は楽しい仕事だったよ。"
+            ],
+            "ko": [
+              "크롤러를 알아? 발렌스와 난 거기서 한동안 일했어. 그러니까, 이 길의 저 멀리 반대쪽 끝에서...",
+              "그러다가... 음. 뭐, 일하는 동안에는 재미있었지."
+            ],
             "pt-br": [
               "Conhece a Esteira? Valens e eu trabalhamos lá por um tempo. Lá na outra ponta da rota, quero dizer...",
               "Até que eu... Bem, foi um trabalho divertido enquanto durou."
+            ],
+            "ru": [
+              "Знаешь Ползуна? Мы с Валенсом какое-то время там работали. На другом конце маршрута, я имею в виду...",
+              "Пока я не... В общем, хорошая была работа, пока она у нас была."
+            ],
+            "s-cn": [
+              "你知道“爬行者号”吗？ 瓦伦斯和我在那儿干过一阵子。 我是说，在那条路线很远的另一头……",
+              "直到我……嗯，那份活儿干着的时候还挺有意思的。"
+            ],
+            "t-cn": [
+              "你知道「爬行者號」嗎？瓦倫斯和我在那兒幹過一陣子。 我是說，在那條路線很遠的另一頭……",
+              "直到我……嗯，那份活兒幹著的時候還挺有意思的。"
             ]
           },
           "provenance": {
@@ -119,9 +254,45 @@
           "Do you know the Crawler? Valens and I worked there for a while. At the far other end of the route, I mean...",
           "Until I ... Well, it was a fun job while we had it."
         ],
+        "de": [
+          "Hast du vom Crawler gehört? Valens und ich haben da eine Weile gearbeitet. Ganz am anderen Ende der Strecke, meine ich ...",
+          "Bis ich ... Na ja, der Job hat Spaß gemacht, solange wir ihn hatten."
+        ],
+        "es": [
+          "¿Conoces La Oruga? Valens y yo trabajamos allí una temporada. En el otro extremo de la ruta, claro...",
+          "Hasta que... Bueno, fue un trabajo divertido mientras duró."
+        ],
+        "fr": [
+          "Vous connaissez le Rampant ? Valens et moi y avons travaillé quelque temps. À l'autre bout du trajet, je veux dire...",
+          "Jusqu'à ce que je... Enfin, c'était un travail agréable, à l'époque."
+        ],
+        "it": [
+          "Conosci il Crawler? Valens e io ci abbiamo lavorato per un po'. All'altro capo del percorso, intendo...",
+          "Finché io... Beh, è stato un lavoro divertente finché è durato."
+        ],
+        "ja": [
+          "クロウラーって知ってる？ ヴァレンスとあたし、しばらくそこで働いてたの。 路線のずっと向こう、西の端の方でね…",
+          "あたしが…その… まあ、続いてる間は楽しい仕事だったよ。"
+        ],
+        "ko": [
+          "크롤러를 알아? 발렌스와 난 거기서 한동안 일했어. 그러니까, 이 길의 저 멀리 반대쪽 끝에서...",
+          "그러다가... 음. 뭐, 일하는 동안에는 재미있었지."
+        ],
         "pt-br": [
           "Conhece a Esteira? Valens e eu trabalhamos lá por um tempo. Lá na outra ponta da rota, quero dizer...",
           "Até que eu... Bem, foi um trabalho divertido enquanto durou."
+        ],
+        "ru": [
+          "Знаешь Ползуна? Мы с Валенсом какое-то время там работали. На другом конце маршрута, я имею в виду...",
+          "Пока я не... В общем, хорошая была работа, пока она у нас была."
+        ],
+        "s-cn": [
+          "你知道“爬行者号”吗？ 瓦伦斯和我在那儿干过一阵子。 我是说，在那条路线很远的另一头……",
+          "直到我……嗯，那份活儿干着的时候还挺有意思的。"
+        ],
+        "t-cn": [
+          "你知道「爬行者號」嗎？瓦倫斯和我在那兒幹過一陣子。 我是說，在那條路線很遠的另一頭……",
+          "直到我……嗯，那份活兒幹著的時候還挺有意思的。"
         ]
       },
       "silentCues": [],

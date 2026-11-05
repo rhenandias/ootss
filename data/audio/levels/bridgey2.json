@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "Don't worry, Aiah, I'll find you. There's just a bunch of this 'water' in the way..."
             ],
+            "de": [
+              "Keine Sorge, Aiah, ich finde dich. Da ist nur jede Menge von diesem „Wasser“ im Weg ..."
+            ],
+            "es": [
+              "No te preocupes, Aiah, te encontraré. Solo hay un montón de esta «agua» por el medio..."
+            ],
+            "fr": [
+              "Ne t'inquiète pas, Aiah, je vais te trouver. Il y a juste toute cette « eau » qui me barre la route..."
+            ],
+            "it": [
+              "Non preoccuparti, Aiah, ti troverò. C'è solo tutta quest'\"acqua\" in mezzo..."
+            ],
+            "ja": [
+              "大丈夫、アイア。 助けに行くよ。 この水をどうにかしたら…"
+            ],
+            "ko": [
+              "걱정 마, 아이아, 내가 널 찾을게. 그냥 이 물이 방해가 될 뿐이야..."
+            ],
             "pt-br": [
               "Não se preocupe, Aiah, eu vou te encontrar. Só tem um monte dessa 'água' no meio..."
+            ],
+            "ru": [
+              "Не беспокойся, Ая, я найду тебя. Просто тут на пути столько этой «воды» скопилось..."
+            ],
+            "s-cn": [
+              "别担心，艾娅，我一定会找到你。 只是路上挡着这么一大片水……"
+            ],
+            "t-cn": [
+              "別擔心，艾婭，我一定會找到你。 只是路上擋著這麼一大片水……"
             ]
           },
           "provenance": {
             "sourceWav": "vm_thief_priestess_2_1__thief.wav",
             "subtitleCueLines": [
-              8441
+              8451
             ],
             "explicitAudioReference": null
           }
@@ -44,8 +80,35 @@
         "en": [
           "Don't worry, Aiah, I'll find you. There's just a bunch of this 'water' in the way..."
         ],
+        "de": [
+          "Keine Sorge, Aiah, ich finde dich. Da ist nur jede Menge von diesem „Wasser“ im Weg ..."
+        ],
+        "es": [
+          "No te preocupes, Aiah, te encontraré. Solo hay un montón de esta «agua» por el medio..."
+        ],
+        "fr": [
+          "Ne t'inquiète pas, Aiah, je vais te trouver. Il y a juste toute cette « eau » qui me barre la route..."
+        ],
+        "it": [
+          "Non preoccuparti, Aiah, ti troverò. C'è solo tutta quest'\"acqua\" in mezzo..."
+        ],
+        "ja": [
+          "大丈夫、アイア。 助けに行くよ。 この水をどうにかしたら…"
+        ],
+        "ko": [
+          "걱정 마, 아이아, 내가 널 찾을게. 그냥 이 물이 방해가 될 뿐이야..."
+        ],
         "pt-br": [
           "Não se preocupe, Aiah, eu vou te encontrar. Só tem um monte dessa 'água' no meio..."
+        ],
+        "ru": [
+          "Не беспокойся, Ая, я найду тебя. Просто тут на пути столько этой «воды» скопилось..."
+        ],
+        "s-cn": [
+          "别担心，艾娅，我一定会找到你。 只是路上挡着这么一大片水……"
+        ],
+        "t-cn": [
+          "別擔心，艾婭，我一定會找到你。 只是路上擋著這麼一大片水……"
         ]
       },
       "silentCues": [],
@@ -67,7 +130,7 @@
             "source": "data-common/bridgey2.entities"
           }
         ],
-        "subtitleLine": 8440,
+        "subtitleLine": 8450,
         "subtitleHeader": "::"
       }
     },
@@ -85,16 +148,52 @@
               "Big water, you're my enemy, and my friend. My enemy because, obviously, you're always blocking me.",
               "My friend, because you look and feel so calm. In troubled times, I feel your serenity. It helps me go on."
             ],
+            "de": [
+              "Großes Wasser, du bist mein Feind und mein Freund. Mein Feind, weil du mir ja ständig den Weg versperrst.",
+              "Mein Freund, weil du so ruhig aussiehst und dich auch so anfühlst. Wenn alles schwierig wird, spüre ich deine Ruhe. Das hilft mir, weiterzumachen."
+            ],
+            "es": [
+              "Agua inmensa, eres mi enemiga y mi amiga. Mi enemiga porque, obviamente, siempre me cortas el paso.",
+              "Mi amiga, porque transmites tanta calma... En tiempos difíciles, siento tu serenidad. Me ayuda a seguir adelante."
+            ],
+            "fr": [
+              "Grande étendue d'eau, tu es mon ennemie, et mon amie. Mon ennemie parce que, bien sûr, tu me barres toujours la route.",
+              "Mon amie, parce que tu dégages tant de calme. Dans les moments difficiles, je ressens ta sérénité. Ça m'aide à continuer."
+            ],
+            "it": [
+              "Grande acqua, sei mia nemica, e mia amica. Mia nemica perché, ovviamente, mi sbarri sempre la strada.",
+              "Mia amica, perché sembri così calma e trasmetti tanta pace. Nei momenti difficili, sento la tua serenità. Mi aiuta ad andare avanti."
+            ],
+            "ja": [
+              "大きな水って 悪くないかも。",
+              "慣れたら なんだか綺麗！"
+            ],
+            "ko": [
+              "드넓은 물아, 넌 나의 적이자, 친구야. 적이라는 건 당연히, 늘 내 앞을 가로막기 때문이지.",
+              "친구라는 건, 보고 느끼기에 참 잔잔하기 때문이야. 힘들 때면 네 평온함을 느껴. 그 덕에 계속 나아갈 수 있어."
+            ],
             "pt-br": [
               "Água imensa, você é minha inimiga, e minha amiga. Inimiga porque, claro, sempre bloqueia meu caminho.",
               "Amiga, porque sua aparência e sua presença transmitem calma. Em tempos difíceis, sinto sua serenidade. Ela me ajuda a seguir em frente."
+            ],
+            "ru": [
+              "Большая вода, ты мне и враг, и друг. Враг, потому что, конечно же, вечно стоишь на пути.",
+              "Друг, потому что от тебя веет покоем. В тяжёлые времена я чувствую твою безмятежность. Она помогает мне идти дальше."
+            ],
+            "s-cn": [
+              "大水啊，你是我的敌人，也是我的朋友。 是我的敌人，因为显而易见，你总在挡我的路。",
+              "是我的朋友，因为你看起来、感觉起来都那么平静。 在动荡的岁月里，我感受得到你的安宁。 它支撑着我继续走下去。"
+            ],
+            "t-cn": [
+              "大水啊，你是我的敵人，也是我的朋友。 是我的敵人，因為顯而易見，你總在擋我的路。",
+              "是我的朋友，因為你看起來、感覺起來都那麼平靜。 在動蕩的歲月裡，我感受得到你的安寧。 它支撐著我繼續走下去。"
             ]
           },
           "provenance": {
             "sourceWav": "vm_thief_priestess_2_mid_1__thief.wav",
             "subtitleCueLines": [
-              8451,
-              8456
+              8461,
+              8466
             ],
             "explicitAudioReference": null
           }
@@ -109,9 +208,45 @@
           "Big water, you're my enemy, and my friend. My enemy because, obviously, you're always blocking me.",
           "My friend, because you look and feel so calm. In troubled times, I feel your serenity. It helps me go on."
         ],
+        "de": [
+          "Großes Wasser, du bist mein Feind und mein Freund. Mein Feind, weil du mir ja ständig den Weg versperrst.",
+          "Mein Freund, weil du so ruhig aussiehst und dich auch so anfühlst. Wenn alles schwierig wird, spüre ich deine Ruhe. Das hilft mir, weiterzumachen."
+        ],
+        "es": [
+          "Agua inmensa, eres mi enemiga y mi amiga. Mi enemiga porque, obviamente, siempre me cortas el paso.",
+          "Mi amiga, porque transmites tanta calma... En tiempos difíciles, siento tu serenidad. Me ayuda a seguir adelante."
+        ],
+        "fr": [
+          "Grande étendue d'eau, tu es mon ennemie, et mon amie. Mon ennemie parce que, bien sûr, tu me barres toujours la route.",
+          "Mon amie, parce que tu dégages tant de calme. Dans les moments difficiles, je ressens ta sérénité. Ça m'aide à continuer."
+        ],
+        "it": [
+          "Grande acqua, sei mia nemica, e mia amica. Mia nemica perché, ovviamente, mi sbarri sempre la strada.",
+          "Mia amica, perché sembri così calma e trasmetti tanta pace. Nei momenti difficili, sento la tua serenità. Mi aiuta ad andare avanti."
+        ],
+        "ja": [
+          "大きな水って 悪くないかも。",
+          "慣れたら なんだか綺麗！"
+        ],
+        "ko": [
+          "드넓은 물아, 넌 나의 적이자, 친구야. 적이라는 건 당연히, 늘 내 앞을 가로막기 때문이지.",
+          "친구라는 건, 보고 느끼기에 참 잔잔하기 때문이야. 힘들 때면 네 평온함을 느껴. 그 덕에 계속 나아갈 수 있어."
+        ],
         "pt-br": [
           "Água imensa, você é minha inimiga, e minha amiga. Inimiga porque, claro, sempre bloqueia meu caminho.",
           "Amiga, porque sua aparência e sua presença transmitem calma. Em tempos difíceis, sinto sua serenidade. Ela me ajuda a seguir em frente."
+        ],
+        "ru": [
+          "Большая вода, ты мне и враг, и друг. Враг, потому что, конечно же, вечно стоишь на пути.",
+          "Друг, потому что от тебя веет покоем. В тяжёлые времена я чувствую твою безмятежность. Она помогает мне идти дальше."
+        ],
+        "s-cn": [
+          "大水啊，你是我的敌人，也是我的朋友。 是我的敌人，因为显而易见，你总在挡我的路。",
+          "是我的朋友，因为你看起来、感觉起来都那么平静。 在动荡的岁月里，我感受得到你的安宁。 它支撑着我继续走下去。"
+        ],
+        "t-cn": [
+          "大水啊，你是我的敵人，也是我的朋友。 是我的敵人，因為顯而易見，你總在擋我的路。",
+          "是我的朋友，因為你看起來、感覺起來都那麼平靜。 在動蕩的歲月裡，我感受得到你的安寧。 它支撐著我繼續走下去。"
         ]
       },
       "silentCues": [],
@@ -133,7 +268,7 @@
             "source": "data-common/bridgey2.entities"
           }
         ],
-        "subtitleLine": 8450,
+        "subtitleLine": 8460,
         "subtitleHeader": "::"
       }
     }

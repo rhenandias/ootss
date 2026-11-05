@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -24,16 +33,52 @@
               "Aiah, to be honest, I'm a bit jealous of the way you cross water with ease.",
               "It's so much more work for me."
             ],
+            "de": [
+              "Aiah, ehrlich gesagt bin ich etwas neidisch, weil du so mühelos übers Wasser kommst.",
+              "Für mich ist das viel mehr Arbeit."
+            ],
+            "es": [
+              "Aiah, la verdad es que me da un poco de envidia la facilidad con que cruzas el agua.",
+              "Para mí supone muchísimo más trabajo."
+            ],
+            "fr": [
+              "Aiah, pour être honnête, je suis un peu jalouse de la facilité avec laquelle tu traverses l'eau.",
+              "Pour moi, c'est tellement plus compliqué."
+            ],
+            "it": [
+              "Aiah, a dire il vero, sono un po' gelosa di come attraversi l'acqua senza sforzo.",
+              "Per me è molto più faticoso."
+            ],
+            "ja": [
+              "簡単に水の上を進めて うらやましいなぁ。",
+              "あたしはもっと大変だから。"
+            ],
+            "ko": [
+              "아이아, 솔직히 말하자면, 네가 물을 거뜬히 건너는 게 조금 부럽기도 해.",
+              "난 훨씬 더 고생해야 한다고."
+            ],
             "pt-br": [
-              "Aiah, pra ser sincero, tenho um pouco de inveja da facilidade com que você cruza a água.",
+              "Aiah, pra ser sincera, tenho um pouco de inveja da facilidade com que você cruza a água.",
               "Isso dá muito mais trabalho pra mim."
+            ],
+            "ru": [
+              "Ая, если честно, я немного завидую тому, как легко ты проходишь по воде.",
+              "Мне это даётся намного труднее."
+            ],
+            "s-cn": [
+              "艾娅，老实说，你渡水渡得那么轻松，我还有点眼红。",
+              "换成我就费劲多了。"
+            ],
+            "t-cn": [
+              "艾婭，老實說，你渡水渡得那麼輕鬆，我還有點眼紅。",
+              "換成我就費勁多了。"
             ]
           },
           "provenance": {
             "sourceWav": "vm_thief_priestess_3_1__thief.wav",
             "subtitleCueLines": [
-              8466,
-              8471
+              8476,
+              8481
             ],
             "explicitAudioReference": null
           }
@@ -48,9 +93,45 @@
           "Aiah, to be honest, I'm a bit jealous of the way you cross water with ease.",
           "It's so much more work for me."
         ],
+        "de": [
+          "Aiah, ehrlich gesagt bin ich etwas neidisch, weil du so mühelos übers Wasser kommst.",
+          "Für mich ist das viel mehr Arbeit."
+        ],
+        "es": [
+          "Aiah, la verdad es que me da un poco de envidia la facilidad con que cruzas el agua.",
+          "Para mí supone muchísimo más trabajo."
+        ],
+        "fr": [
+          "Aiah, pour être honnête, je suis un peu jalouse de la facilité avec laquelle tu traverses l'eau.",
+          "Pour moi, c'est tellement plus compliqué."
+        ],
+        "it": [
+          "Aiah, a dire il vero, sono un po' gelosa di come attraversi l'acqua senza sforzo.",
+          "Per me è molto più faticoso."
+        ],
+        "ja": [
+          "簡単に水の上を進めて うらやましいなぁ。",
+          "あたしはもっと大変だから。"
+        ],
+        "ko": [
+          "아이아, 솔직히 말하자면, 네가 물을 거뜬히 건너는 게 조금 부럽기도 해.",
+          "난 훨씬 더 고생해야 한다고."
+        ],
         "pt-br": [
-          "Aiah, pra ser sincero, tenho um pouco de inveja da facilidade com que você cruza a água.",
+          "Aiah, pra ser sincera, tenho um pouco de inveja da facilidade com que você cruza a água.",
           "Isso dá muito mais trabalho pra mim."
+        ],
+        "ru": [
+          "Ая, если честно, я немного завидую тому, как легко ты проходишь по воде.",
+          "Мне это даётся намного труднее."
+        ],
+        "s-cn": [
+          "艾娅，老实说，你渡水渡得那么轻松，我还有点眼红。",
+          "换成我就费劲多了。"
+        ],
+        "t-cn": [
+          "艾婭，老實說，你渡水渡得那麼輕鬆，我還有點眼紅。",
+          "換成我就費勁多了。"
         ]
       },
       "silentCues": [],
@@ -72,7 +153,7 @@
             "source": "data-common/bridgey2b.entities"
           }
         ],
-        "subtitleLine": 8465,
+        "subtitleLine": 8475,
         "subtitleHeader": "::"
       }
     },
@@ -90,16 +171,52 @@
               "It's so much work for me.",
               "But when I see you just float across... I'm inspired, and I'm all the happier to be your friend."
             ],
+            "de": [
+              "Für mich ist das so viel Arbeit.",
+              "Aber wenn ich sehe, wie du einfach hinüberschwebst ... dann macht mir das Mut. Und ich bin noch glücklicher, deine Freundin zu sein."
+            ],
+            "es": [
+              "Para mí supone más trabajo.",
+              "Pero cuando te veo cruzar flotando... me inspiras, y me alegro aún más de ser tu amiga."
+            ],
+            "fr": [
+              "C'est tellement compliqué pour moi.",
+              "Mais quand je te vois flotter comme ça... ça m'inspire, et me réjouit d'autant plus de notre amitié."
+            ],
+            "it": [
+              "Per me è molto faticoso.",
+              "Ma quando ti vedo fluttuare... mi sento ispirata e sono ancora più felice di essere tua amica."
+            ],
+            "ja": [
+              "大変だけど…",
+              "あんたみたいなすごい人と 友達になれて嬉しいよ。"
+            ],
+            "ko": [
+              "난 훨씬 더 고생해야 한다고.",
+              "하지만 네가 둥둥 떠서 건너가는 걸 보면... 나도 힘이 나고, 네 친구라는 게 더없이 기뻐."
+            ],
             "pt-br": [
               "Isso dá muito trabalho pra mim.",
-              "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser seu amigo."
+              "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser sua amiga."
+            ],
+            "ru": [
+              "Мне это даётся куда труднее.",
+              "Но когда я вижу, как ты просто плывёшь над водой... Это меня вдохновляет, и я ещё больше радуюсь нашей дружбе."
+            ],
+            "s-cn": [
+              "对我来说可太费劲了。",
+              "但当我看到你轻飘飘地越过去…… 我就受到了鼓舞，也更加庆幸 能成为你的朋友。"
+            ],
+            "t-cn": [
+              "對我來說可太費勁了。",
+              "但當我看到你輕飄飄地越過去…… 我就受到了鼓舞，也更加慶幸 能成為你的朋友。"
             ]
           },
           "provenance": {
             "sourceWav": "vm_thief_priestess_3_mid_1__thief.wav",
             "subtitleCueLines": [
-              8478,
-              8482
+              8488,
+              8492
             ],
             "explicitAudioReference": null
           }
@@ -114,9 +231,45 @@
           "It's so much work for me.",
           "But when I see you just float across... I'm inspired, and I'm all the happier to be your friend."
         ],
+        "de": [
+          "Für mich ist das so viel Arbeit.",
+          "Aber wenn ich sehe, wie du einfach hinüberschwebst ... dann macht mir das Mut. Und ich bin noch glücklicher, deine Freundin zu sein."
+        ],
+        "es": [
+          "Para mí supone más trabajo.",
+          "Pero cuando te veo cruzar flotando... me inspiras, y me alegro aún más de ser tu amiga."
+        ],
+        "fr": [
+          "C'est tellement compliqué pour moi.",
+          "Mais quand je te vois flotter comme ça... ça m'inspire, et me réjouit d'autant plus de notre amitié."
+        ],
+        "it": [
+          "Per me è molto faticoso.",
+          "Ma quando ti vedo fluttuare... mi sento ispirata e sono ancora più felice di essere tua amica."
+        ],
+        "ja": [
+          "大変だけど…",
+          "あんたみたいなすごい人と 友達になれて嬉しいよ。"
+        ],
+        "ko": [
+          "난 훨씬 더 고생해야 한다고.",
+          "하지만 네가 둥둥 떠서 건너가는 걸 보면... 나도 힘이 나고, 네 친구라는 게 더없이 기뻐."
+        ],
         "pt-br": [
           "Isso dá muito trabalho pra mim.",
-          "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser seu amigo."
+          "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser sua amiga."
+        ],
+        "ru": [
+          "Мне это даётся куда труднее.",
+          "Но когда я вижу, как ты просто плывёшь над водой... Это меня вдохновляет, и я ещё больше радуюсь нашей дружбе."
+        ],
+        "s-cn": [
+          "对我来说可太费劲了。",
+          "但当我看到你轻飘飘地越过去…… 我就受到了鼓舞，也更加庆幸 能成为你的朋友。"
+        ],
+        "t-cn": [
+          "對我來說可太費勁了。",
+          "但當我看到你輕飄飄地越過去…… 我就受到了鼓舞，也更加慶幸 能成為你的朋友。"
         ]
       },
       "silentCues": [],
@@ -138,7 +291,7 @@
             "source": "data-common/bridgey2b.entities"
           }
         ],
-        "subtitleLine": 8477,
+        "subtitleLine": 8487,
         "subtitleHeader": "::"
       }
     }

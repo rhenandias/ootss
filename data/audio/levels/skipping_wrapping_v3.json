@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -25,18 +34,63 @@
               "Borraidus? Are you there?",
               "Okay then. This is the situation."
             ],
+            "de": [
+              "Borraidus, was hältst du davon? Bei diesem hier habe ich ein seltsames Gefühl.",
+              "Borraidus? Bist du da?",
+              "Also gut. So sieht die Lage aus."
+            ],
+            "es": [
+              "Borraidus, ¿qué te parece esto? Me da mala espina esta vez.",
+              "¿Borraidus? ¿Estás ahí?",
+              "Vale, bien. Esta es la situación."
+            ],
+            "fr": [
+              "Borraidus, qu'est-ce que tu penses de tout ça ? Ça me met mal à l'aise.",
+              "Borraidus ? Tu es là ?",
+              "Bon. Voilà donc où j'en suis."
+            ],
+            "it": [
+              "Borraidus, che ne pensi? Mi sento strana al riguardo.",
+              "Borraidus? Ci sei?",
+              "Va bene, allora. Questa è la situazione."
+            ],
+            "ja": [
+              "ボライダス、どう思う？ なんだか妙な感じがする。",
+              "ボライダス？いる？",
+              "一人になったか。"
+            ],
+            "ko": [
+              "보라이두스, 이거 어떻게 생각해? 좀 이상하게 느껴지는데.",
+              "보라이두스? 거기 있어?",
+              "좋아. 상황은 바로 이런 거야."
+            ],
             "pt-br": [
               "Borraidus, o que você acha disso? Tenho uma sensação estranha sobre isso.",
               "Borraidus? Você está aí?",
               "Certo, então. Esta é a situação."
+            ],
+            "ru": [
+              "Боррайдус, что ты об этом думаешь? У меня по этому поводу странное чувство.",
+              "Боррайдус? Ты здесь?",
+              "Ладно. Вот какова обстановка."
+            ],
+            "s-cn": [
+              "博莱达斯，你怎么看？这一处总让我觉得不对劲。",
+              "博莱达斯？你在吗？",
+              "好吧，现在就是这么个情况。"
+            ],
+            "t-cn": [
+              "博萊達斯，你怎麼看？這一處總讓我覺得不對勁。",
+              "博萊達斯？你在嗎？",
+              "好吧，現在就是這麼個情況。"
             ]
           },
           "provenance": {
             "sourceWav": "sp_wrapping_level_intro_1__sailor.wav",
             "subtitleCueLines": [
-              7473,
-              7479,
-              7484
+              7483,
+              7489,
+              7494
             ],
             "explicitAudioReference": null
           }
@@ -52,10 +106,55 @@
           "Borraidus? Are you there?",
           "Okay then. This is the situation."
         ],
+        "de": [
+          "Borraidus, was hältst du davon? Bei diesem hier habe ich ein seltsames Gefühl.",
+          "Borraidus? Bist du da?",
+          "Also gut. So sieht die Lage aus."
+        ],
+        "es": [
+          "Borraidus, ¿qué te parece esto? Me da mala espina esta vez.",
+          "¿Borraidus? ¿Estás ahí?",
+          "Vale, bien. Esta es la situación."
+        ],
+        "fr": [
+          "Borraidus, qu'est-ce que tu penses de tout ça ? Ça me met mal à l'aise.",
+          "Borraidus ? Tu es là ?",
+          "Bon. Voilà donc où j'en suis."
+        ],
+        "it": [
+          "Borraidus, che ne pensi? Mi sento strana al riguardo.",
+          "Borraidus? Ci sei?",
+          "Va bene, allora. Questa è la situazione."
+        ],
+        "ja": [
+          "ボライダス、どう思う？ なんだか妙な感じがする。",
+          "ボライダス？いる？",
+          "一人になったか。"
+        ],
+        "ko": [
+          "보라이두스, 이거 어떻게 생각해? 좀 이상하게 느껴지는데.",
+          "보라이두스? 거기 있어?",
+          "좋아. 상황은 바로 이런 거야."
+        ],
         "pt-br": [
           "Borraidus, o que você acha disso? Tenho uma sensação estranha sobre isso.",
           "Borraidus? Você está aí?",
           "Certo, então. Esta é a situação."
+        ],
+        "ru": [
+          "Боррайдус, что ты об этом думаешь? У меня по этому поводу странное чувство.",
+          "Боррайдус? Ты здесь?",
+          "Ладно. Вот какова обстановка."
+        ],
+        "s-cn": [
+          "博莱达斯，你怎么看？这一处总让我觉得不对劲。",
+          "博莱达斯？你在吗？",
+          "好吧，现在就是这么个情况。"
+        ],
+        "t-cn": [
+          "博萊達斯，你怎麼看？這一處總讓我覺得不對勁。",
+          "博萊達斯？你在嗎？",
+          "好吧，現在就是這麼個情況。"
         ]
       },
       "silentCues": [],
@@ -77,7 +176,7 @@
             "source": "data-common/skipping_wrapping_v3.entities"
           }
         ],
-        "subtitleLine": 7472,
+        "subtitleLine": 7482,
         "subtitleHeader": "::"
       }
     },
@@ -94,14 +193,41 @@
             "en": [
               "Absurd, that a world could be this way."
             ],
+            "de": [
+              "Absurd, dass eine Welt so sein kann."
+            ],
+            "es": [
+              "Es absurdo que un mundo pueda ser así."
+            ],
+            "fr": [
+              "C'est absurde, qu'un monde puisse ressembler à ça."
+            ],
+            "it": [
+              "Assurdo, che un mondo possa essere così."
+            ],
+            "ja": [
+              "一体どうなってるんだ？ 無限に続くわけじゃない 小さな世界って…"
+            ],
+            "ko": [
+              "세상이 이럴 수도 있다니, 말도 안 되는군."
+            ],
             "pt-br": [
               "É absurdo que um mundo possa ser assim."
+            ],
+            "ru": [
+              "Нелепо, что мир может быть так устроен."
+            ],
+            "s-cn": [
+              "世界居然还能是这副模样，真荒唐。"
+            ],
+            "t-cn": [
+              "世界居然還能是這副模樣，真荒唐。"
             ]
           },
           "provenance": {
             "sourceWav": "sp_wrapping_level_intro_mid_1__sailor.wav",
             "subtitleCueLines": [
-              7493
+              7503
             ],
             "explicitAudioReference": null
           }
@@ -115,8 +241,35 @@
         "en": [
           "Absurd, that a world could be this way."
         ],
+        "de": [
+          "Absurd, dass eine Welt so sein kann."
+        ],
+        "es": [
+          "Es absurdo que un mundo pueda ser así."
+        ],
+        "fr": [
+          "C'est absurde, qu'un monde puisse ressembler à ça."
+        ],
+        "it": [
+          "Assurdo, che un mondo possa essere così."
+        ],
+        "ja": [
+          "一体どうなってるんだ？ 無限に続くわけじゃない 小さな世界って…"
+        ],
+        "ko": [
+          "세상이 이럴 수도 있다니, 말도 안 되는군."
+        ],
         "pt-br": [
           "É absurdo que um mundo possa ser assim."
+        ],
+        "ru": [
+          "Нелепо, что мир может быть так устроен."
+        ],
+        "s-cn": [
+          "世界居然还能是这副模样，真荒唐。"
+        ],
+        "t-cn": [
+          "世界居然還能是這副模樣，真荒唐。"
         ]
       },
       "silentCues": [],
@@ -138,7 +291,7 @@
             "source": "data-common/skipping_wrapping_v3.entities"
           }
         ],
-        "subtitleLine": 7492,
+        "subtitleLine": 7502,
         "subtitleHeader": "::"
       }
     },
@@ -155,14 +308,41 @@
             "en": [
               "I can't imagine what the Guild will make of this..."
             ],
+            "de": [
+              "Ich frage mich, was die Gilde wohl davon halten wird ..."
+            ],
+            "es": [
+              "No me imagino qué pensará el Gremio de todo esto..."
+            ],
+            "fr": [
+              "J'ai du mal à imaginer ce que la Guilde va penser de ça..."
+            ],
+            "it": [
+              "Non riesco a immaginare cosa farà la gilda di tutto questo..."
+            ],
+            "ja": [
+              "ギルドがどう考えるか 想像もできないな…"
+            ],
+            "ko": [
+              "길드가 이걸 보고 뭐라고 할지 상상이 안 돼..."
+            ],
             "pt-br": [
               "Não consigo imaginar o que a Guilda vai pensar disso..."
+            ],
+            "ru": [
+              "Не представляю, что из этого сделает Гильдия..."
+            ],
+            "s-cn": [
+              "真不知道公会会怎么看这里……"
+            ],
+            "t-cn": [
+              "真不知道公會會怎麼看這裡……"
             ]
           },
           "provenance": {
             "sourceWav": "sp_wrapping_level_intro_end_1__sailor.wav",
             "subtitleCueLines": [
-              7501
+              7511
             ],
             "explicitAudioReference": null
           }
@@ -176,8 +356,35 @@
         "en": [
           "I can't imagine what the Guild will make of this..."
         ],
+        "de": [
+          "Ich frage mich, was die Gilde wohl davon halten wird ..."
+        ],
+        "es": [
+          "No me imagino qué pensará el Gremio de todo esto..."
+        ],
+        "fr": [
+          "J'ai du mal à imaginer ce que la Guilde va penser de ça..."
+        ],
+        "it": [
+          "Non riesco a immaginare cosa farà la gilda di tutto questo..."
+        ],
+        "ja": [
+          "ギルドがどう考えるか 想像もできないな…"
+        ],
+        "ko": [
+          "길드가 이걸 보고 뭐라고 할지 상상이 안 돼..."
+        ],
         "pt-br": [
           "Não consigo imaginar o que a Guilda vai pensar disso..."
+        ],
+        "ru": [
+          "Не представляю, что из этого сделает Гильдия..."
+        ],
+        "s-cn": [
+          "真不知道公会会怎么看这里……"
+        ],
+        "t-cn": [
+          "真不知道公會會怎麼看這裡……"
         ]
       },
       "silentCues": [],
@@ -199,7 +406,7 @@
             "source": "data-common/skipping_wrapping_v3.entities"
           }
         ],
-        "subtitleLine": 7500,
+        "subtitleLine": 7510,
         "subtitleHeader": "::"
       }
     }

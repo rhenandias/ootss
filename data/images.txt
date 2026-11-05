@@ -11,6 +11,7 @@
 4wcn_all_fast.webp
 4wc_dragon_cyan_s_v2.webp
 accidentally_unlock_v2.webp
+across_the_fence_old.webp
 across_the_fence_vtrader_m_p.webp
 adjust_explorer_v4.webp
 after_wings.webp
@@ -91,6 +92,7 @@ cancel_out.webp
 carry_lily.webp
 carry_simplified.webp
 catching_fire_v2.webp
+catching_up_v0.webp
 catching_up_v2.webp
 catch_and_drop.webp
 catch_and_throw.webp
@@ -308,6 +310,7 @@ hanoi_3.webp
 hat_chain_vp.webp
 hat_maker.webp
 hat_tricks_0_v3.webp
+height_chooser.webp
 height_chooser_v0.webp
 help_drop.webp
 heroes1_1.webp
@@ -328,6 +331,7 @@ heroes1_4.webp
 heroes1_5_v2.webp
 heroes1_6.webp
 heroes1_7.5.webp
+heroes1_7.webp
 heroes1_7_v2.webp
 heroes1_8_v2.webp
 heroes1_9.webp
@@ -413,6 +417,7 @@ island_hopping.webp
 its_a_tall_order.webp
 i_beam_v2.webp
 jenga_assorted.webp
+jenga_dispenser.webp
 jenga_easier.webp
 jenga_shortstack_v2.webp
 juggalos.webp
@@ -437,6 +442,7 @@ lily_pull.webp
 lily_pull_intro.webp
 lily_switch_p.webp
 lily_two_cyan.webp
+lily_wearing_intro.webp
 limited_offsets.webp
 limited_offsets_surprise_v2.webp
 little_faith_alt.webp
@@ -641,6 +647,7 @@ pushing_orange.webp
 pushy.webp
 push_against.webp
 push_and_pull_zach.webp
+push_down_a_lot.webp
 push_down_a_lot_small.webp
 push_down_chain.webp
 push_down_v2.webp
@@ -649,6 +656,7 @@ quadrants.webp
 quadrants_follow_up.webp
 quadruple_skip.webp
 quad_torch.webp
+quad_torch_v1.webp
 quick_redirect_v5.webp
 raft_corners_2_small.webp
 raft_corners_4x4.webp
@@ -702,6 +710,8 @@ seeing_red.webp
 see_no_evil.webp
 see_through.webp
 self_teleporting.webp
+sender.webp
+sender_simplified.webp
 sender_simplified_v2.webp
 short_ride_option_b.webp
 shower.webp
@@ -783,6 +793,7 @@ stone_stopper3_v2.webp
 stone_stopper5.webp
 stone_stopper_intro.webp
 stopper_topper_v2.webp
+strategic_stack.webp
 strong_monsters_v2.webp
 stuck_up_v2.webp
 submarine.webp
@@ -834,6 +845,7 @@ tippy_towers_1.webp
 tippy_towers_4.webp
 toggler00.webp
 top_green_purple_v3.webp
+torcher.webp
 torcoban_2.webp
 torc_blocked.webp
 torc_blocked_easier.webp
@@ -884,6 +896,7 @@ weaklings_bard_v2.webp
 who_you_gonna_call.webp
 wider_ocean.webp
 wide_ocean.webp
+wizards_true_nature.webp
 wizard_and_druid_alt.webp
 wizard_and_druid_alt_5.webp
 wizard_finesse_1.webp
@@ -898,6 +911,9 @@ wizard_with_a_gun.webp
 wolf_boat_carry.webp
 worlds_collide_alt.webp
 worlds_collide_heroes_and_mirrors_v3.webp
+worlds_collide_heroes_and_promesst.webp
+worlds_collide_heroes_and_promesst_v2.webp
+worlds_collide_heroes_and_promesst_v3.webp
 worlds_collide_heroes_and_promesst_v4.webp
 worlds_collide_heroes_and_stones.webp
 worlds_collide_mirrors_and_stones_v2.webp

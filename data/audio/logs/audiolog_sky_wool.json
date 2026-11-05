@@ -2,8 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_sky_wool",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -20,16 +29,52 @@
               "... and some things just require immediate attention. Imagine that any single lunatic can unleash destruction, at a whim, across an entire city -- and the surrounding area --",
               "and this has already happened a few times, and the trend is accelerating."
             ],
+            "de": [
+              "... und manches duldet einfach keinen Aufschub. Stell dir vor, ein einziger Irrer kann eine ganze Stadt verwüsten, aus einer Laune heraus – und die Umgebung gleich mit –",
+              "und das ist schon ein paarmal passiert, und es passiert immer häufiger."
+            ],
+            "es": [
+              "... y hay cosas que requieren atención inmediata. Imagina que cualquier lunático pudiera sembrar la destrucción, por puro capricho, en toda una ciudad y sus alrededores,",
+              "y que esto ya haya ocurrido varias veces, cada vez con más frecuencia."
+            ],
+            "fr": [
+              "... et certaines choses exigent une attention immédiate. Imaginez qu'un seul timbré puisse ravager, sur un coup de tête, une ville entière – et ses alentours –",
+              "et que cela se soit déjà produit plusieurs fois, à un rythme qui ne fait que s'accélérer."
+            ],
+            "it": [
+              "... e certe cose richiedono attenzione immediata. Immagina che un pazzo qualsiasi possa scatenare la distruzione, per capriccio, in un'intera città e nei dintorni,",
+              "e che sia già successo qualche volta e che accada sempre più spesso."
+            ],
+            "ja": [
+              "…それに、即座に対処すべきこともある。 たった一人の人間が、ある日怒りに任せて、 惑星全体をめちゃくちゃにしたら。",
+              "しかも、それをいつでも、 何の前触れもなくできるとしたら、 そんな奴と同じ惑星に住みたいと思うか？"
+            ],
+            "ko": [
+              "... 그리고 당장 손써야만 하는 일도 있어. 미치광이 단 한 명이 변덕 한 번에 도시 전체를... 그 주변 지역까지... 파괴할 수 있다고 상상해 봐,",
+              "그런 일이 이미 몇 차례 일어났고, 점점 더 잦아지고 있다면."
+            ],
             "pt-br": [
               "... e certas coisas exigem atenção imediata. Imagine que qualquer maluco possa espalhar destruição, a seu bel-prazer, por uma cidade inteira, e pelos arredores,",
               "e que isso já tenha acontecido algumas vezes, com frequência cada vez maior."
+            ],
+            "ru": [
+              "... а некоторые дела просто не терпят отлагательств. Представь, что любой безумец способен по прихоти уничтожить целый город — и его окрестности —",
+              "и это уже случалось несколько раз, и случается всё чаще."
+            ],
+            "s-cn": [
+              "……还有些事情必须立刻处理。试想，任何一个疯子， 都能仅凭一时兴起，就让整座城市—— 连同周边一带——陷入毁灭，",
+              "而且这种事已经发生过几次，发生得还越来越频繁。"
+            ],
+            "t-cn": [
+              "……還有些事情必須立刻處理。 試想，任何一個瘋子，都能僅憑一時興起， 就讓整座城市——連同周邊一帶——陷入毀滅，",
+              "而且這種事已經發生過幾次，發生得還越來越頻繁。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_wool_1__acting.wav",
             "subtitleCueLines": [
-              10470,
-              10475
+              10480,
+              10485
             ],
             "explicitAudioReference": null
           }
@@ -45,16 +90,52 @@
               "I would regard that with the gravest apprehension. I should think it wise to remove myself some distance away.",
               "If you'd already developed the means of creating new volumes of space, that would have been a great help, I imagine."
             ],
+            "de": [
+              "Das würde ich mit größter Besorgnis betrachten. Es wäre wohl klug, mich ein gutes Stück davon zu entfernen.",
+              "Hättest du bereits die Mittel entwickelt, neue Raumvolumina zu erschaffen, wäre das wohl eine große Hilfe gewesen."
+            ],
+            "es": [
+              "Eso me causaría una profunda inquietud. Creo que lo prudente sería mantener cierta distancia.",
+              "Si ya habíais desarrollado la forma de crear nuevos volúmenes de espacio, imagino que os habría sido de gran ayuda."
+            ],
+            "fr": [
+              "J'en éprouverais la plus vive appréhension. Il me semblerait prudent de me tenir à bonne distance.",
+              "Si vous aviez déjà mis au point un moyen de créer de nouveaux volumes d'espace, cela vous aurait beaucoup aidé, j'imagine."
+            ],
+            "it": [
+              "La cosa mi desterebbe la più viva apprensione. Riterrei saggio allontanarmi di un bel po'.",
+              "Se aveste già sviluppato un modo per creare nuovi volumi di spazio, sarebbe stato di grande aiuto, immagino."
+            ],
+            "ja": [
+              "それは、非常に恐ろしい事態だと思います。 少し離れた場所に避難するのが 賢明でしょうね。",
+              "あなたが空間を作れるとしたら、 大いに役立つでしょうね。"
+            ],
+            "ko": [
+              "그건 몹시 염려스러운 일이겠군. 나는 좀 멀리 떨어져 있는 게 현명할 것 같아.",
+              "새로운 공간을 만들어 내는 방법을 이미 개발한 상태였다면, 아주 큰 도움이 됐을 것 같은데."
+            ],
             "pt-br": [
               "Eu veria isso com a mais profunda apreensão. Creio que seria prudente me retirar para um lugar um tanto distante.",
               "Se vocês já tivessem desenvolvido meios de criar novos volumes de espaço, isso teria ajudado muito, imagino."
+            ],
+            "ru": [
+              "Я бы отнёсся к этому с величайшей тревогой. Полагаю, разумнее было бы держаться на почтительном расстоянии.",
+              "Если бы вы уже тогда умели создавать новые объёмы пространства, это бы очень помогло, я полагаю."
+            ],
+            "s-cn": [
+              "换作是我，一定会非常不安。 我想，还是离那里远些为妙。",
+              "要是你们当时已经掌握了创造新空间的技术， 想必就能帮上大忙。"
+            ],
+            "t-cn": [
+              "換作是我，一定會非常不安。 我想，還是離那裡遠些為妙。",
+              "要是你們當時已經掌握了創造新空間的技術， 想必就能幫上大忙。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_wool_2__sokoban.wav",
             "subtitleCueLines": [
-              10479,
-              10484
+              10489,
+              10494
             ],
             "explicitAudioReference": null
           }
@@ -72,20 +153,74 @@
               "Reopen the door just a crack, once in a while, for carefully-scheduled rendezvous.",
               "And well that we got out, as the planet was soon gone; though the people of the time were surprised it lasted as long as it did."
             ],
+            "de": [
+              "Die Techniken waren noch kaum ausgereift, aber die Motivation war gewaltig.",
+              "Also haben wir es erreicht. Raum erschaffen, seine Regeln justieren, ins neue Haus einziehen, hinter sich die Tür schließen.",
+              "Die Tür nur ab und zu einen Spalt öffnen, für sorgfältig geplante Treffen.",
+              "Und gut, dass wir entkommen sind, denn bald darauf war der Planet verschwunden; wobei die Menschen damals überrascht waren, dass er überhaupt so lange durchgehalten hat."
+            ],
+            "es": [
+              "Las técnicas aún estaban en sus inicios, pero había una motivación enorme.",
+              "Así que lo conseguimos. Crear espacio, ajustar sus reglas, mudarse a la nueva casa y cerrar la puerta tras de sí.",
+              "Abrir la puerta apenas una rendija, de vez en cuando, para encuentros cuidadosamente programados.",
+              "Y menos mal que salimos, porque el planeta desapareció poco después; aunque la gente de la época se sorprendió de que durara tanto."
+            ],
+            "fr": [
+              "Ces techniques n'en étaient qu'à leurs débuts, mais la motivation était énorme.",
+              "Alors nous y sommes arrivés. Créer de l'espace, ajuster ses règles, emménager dans cette nouvelle maison, et fermer la porte derrière nous.",
+              "Puis l'entrouvrir de temps en temps, pour des rendez-vous soigneusement planifiés.",
+              "Et heureusement que nous sommes partis, car la planète a vite disparu ; même si les gens de l'époque étaient surpris qu'elle ait duré aussi longtemps."
+            ],
+            "it": [
+              "Le tecniche erano agli albori, ma c'era una motivazione enorme.",
+              "Così ci siamo arrivati. Crea spazio, modifica le sue regole, trasferisciti nella nuova casa, chiudi la porta dietro di te.",
+              "Riapri di poco la porta, ogni tanto, per incontri programmati con cura.",
+              "E meno male che siamo usciti, perché il pianeta è sparito poco dopo. Anche se la gente dell'epoca era sorpresa che fosse durato così a lungo."
+            ],
+            "ja": [
+              "技術はまだ生まれたばかりだったけれど、 どうしても発展させたいという強い思いがあった。",
+              "その通り。空間を作り、ルールを調整して、 そこへ移り住む。あとは後ろでドアを閉めて あらかじめ予定を決めた時だけ会いに行く。",
+              "綿密に予定を組んだ会合のために、 ときどき扉をほんの少し開ける。",
+              "それでよかった。結局、その惑星はすぐに 消えてしまったからな。それでも、 あれだけ長く持ったのは驚きだ。"
+            ],
+            "ko": [
+              "기술은 걸음마 단계였지만, 절실함만큼은 엄청났어.",
+              "그렇게 해냈지. 공간을 만들고, 규칙을 조금 손보고, 새 집으로 옮겨간 후 문을 닫는 거야.",
+              "가끔 문을 아주 조금만 열어서, 세심하게 일정을 잡아 만나는 거지.",
+              "그러길 잘했지. 얼마 지나지 않아 행성이 사라졌으니. 사실 당시 사람들 대부분은 그렇게 오래 버틴 것 자체에 놀랐어."
+            ],
             "pt-br": [
               "As técnicas ainda estavam engatinhando, mas havia uma motivação imensa.",
               "Então chegamos lá. Crie espaço, ajuste suas regras, mude-se para a nova casa, feche a porta atrás de si.",
               "Abra só uma fresta da porta, de vez em quando, para encontros cuidadosamente agendados.",
               "E ainda bem que saímos, porque o planeta logo se foi; embora as pessoas na época tenham se surpreendido com o fato de ele ter durado tanto."
+            ],
+            "ru": [
+              "Эти методы только зарождались, но стремление было невероятно сильным.",
+              "Так мы и добились. Создай пространство, измени правила, переезжай в новый дом, закрой за собой дверь.",
+              "Иногда приоткрывай дверь совсем чуть-чуть для тщательно оговорённых встреч.",
+              "И хорошо, что мы выбрались, потому что вскоре планета исчезла; хотя люди тогда удивлялись, как она вообще продержалась так долго."
+            ],
+            "s-cn": [
+              "那些技术当时还在起步阶段，但大家都迫切想把它发展成熟。",
+              "后来，我们终于做到了：创造新的空间，微调其中的法则， 搬进去安家，再把门关上。",
+              "偶尔才把门打开一条小缝，只进行事先精心安排的会面。",
+              "幸好我们逃了出来，那颗星球不久后就毁灭了； 不过当时的人反而惊讶，它竟然撑了那么久。"
+            ],
+            "t-cn": [
+              "那些技術當時還在起步階段， 但大家都迫切想把它發展成熟。",
+              "後來，我們終於做到了： 創造新的空間，微調其中的法則， 搬進去安家，再把門關上。",
+              "偶爾才把門打開一條小縫， 只進行事先精心安排的會面。",
+              "幸好我們逃了出來，那顆星球不久後就毀滅了； 不過當時的人反而驚訝，它竟然撐了那麼久。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_wool_3__acting.wav",
             "subtitleCueLines": [
-              10489,
-              10493,
-              10497,
-              10501
+              10499,
+              10503,
+              10507,
+              10511
             ],
             "explicitAudioReference": null
           }
@@ -100,14 +235,41 @@
             "en": [
               "So everyone lives ... where?"
             ],
+            "de": [
+              "Alle leben also ... wo?"
+            ],
+            "es": [
+              "Entonces, ¿dónde vive todo el mundo...?"
+            ],
+            "fr": [
+              "Alors tout le monde vit... où ?"
+            ],
+            "it": [
+              "Allora tutti vivono... dove?"
+            ],
+            "ja": [
+              "じゃあ、皆は…どこに住んでいるんです？"
+            ],
+            "ko": [
+              "그럼 모두들 지금은... 어디서 사는 건가요?"
+            ],
             "pt-br": [
               "Então todo mundo vive... onde?"
+            ],
+            "ru": [
+              "Так где же все живут?.."
+            ],
+            "s-cn": [
+              "那其他人都住在哪里？"
+            ],
+            "t-cn": [
+              "那其他人都住在哪裡？"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_wool_4__sokoban.wav",
             "subtitleCueLines": [
-              10508
+              10518
             ],
             "explicitAudioReference": null
           }
@@ -124,18 +286,63 @@
               "Zoom out, and it's spatial steel wool. It's a serious challenge to make maps, even of the well-known parts.",
               "And the scope of such maps is limited. Here, space is mostly private, mostly unknown to any individual."
             ],
+            "de": [
+              "Wo auch immer.",
+              "Aus der Ferne sieht es aus wie räumliche Stahlwolle. Selbst von den gut bekannten Bereichen Karten anzufertigen, ist eine gewaltige Herausforderung.",
+              "Und solche Karten decken nur einen begrenzten Bereich ab. Hier ist der Raum größtenteils privat, und jeder Einzelne kennt nur einen kleinen Teil davon."
+            ],
+            "es": [
+              "Donde sea.",
+              "Aleja el zoom, y verás un buen embrollo espacial. Es un desafío de verdad hacer mapas, incluso de las partes que todo el mundo conoce.",
+              "Y el alcance de esos mapas es limitado. Aquí, el espacio es en su mayor parte privado, en su mayor parte desconocido para cualquier individuo."
+            ],
+            "fr": [
+              "N'importe où.",
+              "Prenez du recul, et l'espace ressemble à de la laine d'acier. Même les régions bien connues sont très difficiles à cartographier.",
+              "Et la portée de telles cartes est limitée. Ici, l'espace reste pour l'essentiel privé, et largement inconnu de chacun."
+            ],
+            "it": [
+              "Ovunque.",
+              "Allontanando lo sguardo è una lana d'acciaio spaziale. È una vera sfida creare mappe, perfino delle parti ben note.",
+              "E la portata di tali mappe è limitata. Qui lo spazio è perlopiù privato, perlopiù sconosciuto a ogni singolo individuo."
+            ],
+            "ja": [
+              "好きな場所に。",
+              "どこにでも。遠目から見れば、 空間全体がスチールウールみたいなんだ。 よく知った場所ですら、 地図を作るのは難しい。",
+              "もちろん、そのほとんどは個人の所有物で、 ほとんど誰にも知られていない。"
+            ],
+            "ko": [
+              "어디든.",
+              "멀리서 보면 공간이 철솜처럼 얽혀 있어. 널리 알려진 곳들조차 지도로 만들기가 아주 어렵지.",
+              "그리고 그런 지도가 다루는 범위는 한정되어 있어. 여기서는 대부분의 공간이 사유지이고, 개개인에게는 거의 알려져 있지 않아."
+            ],
             "pt-br": [
               "Onde quer que seja.",
               "Afaste a câmera, e é uma palha de aço espacial. É um desafio sério fazer mapas, até mesmo das partes mais conhecidas.",
               "E o alcance desses mapas é limitado. Aqui, o espaço é, em sua maioria, privado, em sua maioria desconhecido para qualquer indivíduo."
+            ],
+            "ru": [
+              "Где угодно.",
+              "Издалека это пространственная металлическая мочалка. Крайне трудно составлять карты, даже хорошо изученных мест.",
+              "И охват таких карт ограничен. Здесь по большей части пространство частное, и почти никому не известно."
+            ],
+            "s-cn": [
+              "想住哪里都行。",
+              "从整体看，这些空间像钢丝绒一样缠成一团。 就连较熟悉的区域，要画出地图也很难。",
+              "而且，地图能涵盖的范围也有限。这里的空间大多归私人所有。 无论是谁，都对其中的大部分地方不了解。"
+            ],
+            "t-cn": [
+              "想住哪裡都行。",
+              "從整體看，這些空間像鋼絲絨一樣纏成一團。 就連較熟悉的區域，要畫出地圖也很難。",
+              "而且，地圖能涵蓋的範圍也有限。 這裡的空間大多歸私人所有。 無論是誰，都對其中的大部分地方不了解。"
             ]
           },
           "provenance": {
             "sourceWav": "audiolog_sky_wool_5__acting.wav",
             "subtitleCueLines": [
-              10512,
-              10516,
-              10522
+              10522,
+              10526,
+              10532
             ],
             "explicitAudioReference": null
           }
@@ -160,6 +367,90 @@
           "Zoom out, and it's spatial steel wool. It's a serious challenge to make maps, even of the well-known parts.",
           "And the scope of such maps is limited. Here, space is mostly private, mostly unknown to any individual."
         ],
+        "de": [
+          "... und manches duldet einfach keinen Aufschub. Stell dir vor, ein einziger Irrer kann eine ganze Stadt verwüsten, aus einer Laune heraus – und die Umgebung gleich mit –",
+          "und das ist schon ein paarmal passiert, und es passiert immer häufiger.",
+          "Das würde ich mit größter Besorgnis betrachten. Es wäre wohl klug, mich ein gutes Stück davon zu entfernen.",
+          "Hättest du bereits die Mittel entwickelt, neue Raumvolumina zu erschaffen, wäre das wohl eine große Hilfe gewesen.",
+          "Die Techniken waren noch kaum ausgereift, aber die Motivation war gewaltig.",
+          "Also haben wir es erreicht. Raum erschaffen, seine Regeln justieren, ins neue Haus einziehen, hinter sich die Tür schließen.",
+          "Die Tür nur ab und zu einen Spalt öffnen, für sorgfältig geplante Treffen.",
+          "Und gut, dass wir entkommen sind, denn bald darauf war der Planet verschwunden; wobei die Menschen damals überrascht waren, dass er überhaupt so lange durchgehalten hat.",
+          "Alle leben also ... wo?",
+          "Wo auch immer.",
+          "Aus der Ferne sieht es aus wie räumliche Stahlwolle. Selbst von den gut bekannten Bereichen Karten anzufertigen, ist eine gewaltige Herausforderung.",
+          "Und solche Karten decken nur einen begrenzten Bereich ab. Hier ist der Raum größtenteils privat, und jeder Einzelne kennt nur einen kleinen Teil davon."
+        ],
+        "es": [
+          "... y hay cosas que requieren atención inmediata. Imagina que cualquier lunático pudiera sembrar la destrucción, por puro capricho, en toda una ciudad y sus alrededores,",
+          "y que esto ya haya ocurrido varias veces, cada vez con más frecuencia.",
+          "Eso me causaría una profunda inquietud. Creo que lo prudente sería mantener cierta distancia.",
+          "Si ya habíais desarrollado la forma de crear nuevos volúmenes de espacio, imagino que os habría sido de gran ayuda.",
+          "Las técnicas aún estaban en sus inicios, pero había una motivación enorme.",
+          "Así que lo conseguimos. Crear espacio, ajustar sus reglas, mudarse a la nueva casa y cerrar la puerta tras de sí.",
+          "Abrir la puerta apenas una rendija, de vez en cuando, para encuentros cuidadosamente programados.",
+          "Y menos mal que salimos, porque el planeta desapareció poco después; aunque la gente de la época se sorprendió de que durara tanto.",
+          "Entonces, ¿dónde vive todo el mundo...?",
+          "Donde sea.",
+          "Aleja el zoom, y verás un buen embrollo espacial. Es un desafío de verdad hacer mapas, incluso de las partes que todo el mundo conoce.",
+          "Y el alcance de esos mapas es limitado. Aquí, el espacio es en su mayor parte privado, en su mayor parte desconocido para cualquier individuo."
+        ],
+        "fr": [
+          "... et certaines choses exigent une attention immédiate. Imaginez qu'un seul timbré puisse ravager, sur un coup de tête, une ville entière – et ses alentours –",
+          "et que cela se soit déjà produit plusieurs fois, à un rythme qui ne fait que s'accélérer.",
+          "J'en éprouverais la plus vive appréhension. Il me semblerait prudent de me tenir à bonne distance.",
+          "Si vous aviez déjà mis au point un moyen de créer de nouveaux volumes d'espace, cela vous aurait beaucoup aidé, j'imagine.",
+          "Ces techniques n'en étaient qu'à leurs débuts, mais la motivation était énorme.",
+          "Alors nous y sommes arrivés. Créer de l'espace, ajuster ses règles, emménager dans cette nouvelle maison, et fermer la porte derrière nous.",
+          "Puis l'entrouvrir de temps en temps, pour des rendez-vous soigneusement planifiés.",
+          "Et heureusement que nous sommes partis, car la planète a vite disparu ; même si les gens de l'époque étaient surpris qu'elle ait duré aussi longtemps.",
+          "Alors tout le monde vit... où ?",
+          "N'importe où.",
+          "Prenez du recul, et l'espace ressemble à de la laine d'acier. Même les régions bien connues sont très difficiles à cartographier.",
+          "Et la portée de telles cartes est limitée. Ici, l'espace reste pour l'essentiel privé, et largement inconnu de chacun."
+        ],
+        "it": [
+          "... e certe cose richiedono attenzione immediata. Immagina che un pazzo qualsiasi possa scatenare la distruzione, per capriccio, in un'intera città e nei dintorni,",
+          "e che sia già successo qualche volta e che accada sempre più spesso.",
+          "La cosa mi desterebbe la più viva apprensione. Riterrei saggio allontanarmi di un bel po'.",
+          "Se aveste già sviluppato un modo per creare nuovi volumi di spazio, sarebbe stato di grande aiuto, immagino.",
+          "Le tecniche erano agli albori, ma c'era una motivazione enorme.",
+          "Così ci siamo arrivati. Crea spazio, modifica le sue regole, trasferisciti nella nuova casa, chiudi la porta dietro di te.",
+          "Riapri di poco la porta, ogni tanto, per incontri programmati con cura.",
+          "E meno male che siamo usciti, perché il pianeta è sparito poco dopo. Anche se la gente dell'epoca era sorpresa che fosse durato così a lungo.",
+          "Allora tutti vivono... dove?",
+          "Ovunque.",
+          "Allontanando lo sguardo è una lana d'acciaio spaziale. È una vera sfida creare mappe, perfino delle parti ben note.",
+          "E la portata di tali mappe è limitata. Qui lo spazio è perlopiù privato, perlopiù sconosciuto a ogni singolo individuo."
+        ],
+        "ja": [
+          "…それに、即座に対処すべきこともある。 たった一人の人間が、ある日怒りに任せて、 惑星全体をめちゃくちゃにしたら。",
+          "しかも、それをいつでも、 何の前触れもなくできるとしたら、 そんな奴と同じ惑星に住みたいと思うか？",
+          "それは、非常に恐ろしい事態だと思います。 少し離れた場所に避難するのが 賢明でしょうね。",
+          "あなたが空間を作れるとしたら、 大いに役立つでしょうね。",
+          "技術はまだ生まれたばかりだったけれど、 どうしても発展させたいという強い思いがあった。",
+          "その通り。空間を作り、ルールを調整して、 そこへ移り住む。あとは後ろでドアを閉めて あらかじめ予定を決めた時だけ会いに行く。",
+          "綿密に予定を組んだ会合のために、 ときどき扉をほんの少し開ける。",
+          "それでよかった。結局、その惑星はすぐに 消えてしまったからな。それでも、 あれだけ長く持ったのは驚きだ。",
+          "じゃあ、皆は…どこに住んでいるんです？",
+          "好きな場所に。",
+          "どこにでも。遠目から見れば、 空間全体がスチールウールみたいなんだ。 よく知った場所ですら、 地図を作るのは難しい。",
+          "もちろん、そのほとんどは個人の所有物で、 ほとんど誰にも知られていない。"
+        ],
+        "ko": [
+          "... 그리고 당장 손써야만 하는 일도 있어. 미치광이 단 한 명이 변덕 한 번에 도시 전체를... 그 주변 지역까지... 파괴할 수 있다고 상상해 봐,",
+          "그런 일이 이미 몇 차례 일어났고, 점점 더 잦아지고 있다면.",
+          "그건 몹시 염려스러운 일이겠군. 나는 좀 멀리 떨어져 있는 게 현명할 것 같아.",
+          "새로운 공간을 만들어 내는 방법을 이미 개발한 상태였다면, 아주 큰 도움이 됐을 것 같은데.",
+          "기술은 걸음마 단계였지만, 절실함만큼은 엄청났어.",
+          "그렇게 해냈지. 공간을 만들고, 규칙을 조금 손보고, 새 집으로 옮겨간 후 문을 닫는 거야.",
+          "가끔 문을 아주 조금만 열어서, 세심하게 일정을 잡아 만나는 거지.",
+          "그러길 잘했지. 얼마 지나지 않아 행성이 사라졌으니. 사실 당시 사람들 대부분은 그렇게 오래 버틴 것 자체에 놀랐어.",
+          "그럼 모두들 지금은... 어디서 사는 건가요?",
+          "어디든.",
+          "멀리서 보면 공간이 철솜처럼 얽혀 있어. 널리 알려진 곳들조차 지도로 만들기가 아주 어렵지.",
+          "그리고 그런 지도가 다루는 범위는 한정되어 있어. 여기서는 대부분의 공간이 사유지이고, 개개인에게는 거의 알려져 있지 않아."
+        ],
         "pt-br": [
           "... e certas coisas exigem atenção imediata. Imagine que qualquer maluco possa espalhar destruição, a seu bel-prazer, por uma cidade inteira, e pelos arredores,",
           "e que isso já tenha acontecido algumas vezes, com frequência cada vez maior.",
@@ -173,6 +464,48 @@
           "Onde quer que seja.",
           "Afaste a câmera, e é uma palha de aço espacial. É um desafio sério fazer mapas, até mesmo das partes mais conhecidas.",
           "E o alcance desses mapas é limitado. Aqui, o espaço é, em sua maioria, privado, em sua maioria desconhecido para qualquer indivíduo."
+        ],
+        "ru": [
+          "... а некоторые дела просто не терпят отлагательств. Представь, что любой безумец способен по прихоти уничтожить целый город — и его окрестности —",
+          "и это уже случалось несколько раз, и случается всё чаще.",
+          "Я бы отнёсся к этому с величайшей тревогой. Полагаю, разумнее было бы держаться на почтительном расстоянии.",
+          "Если бы вы уже тогда умели создавать новые объёмы пространства, это бы очень помогло, я полагаю.",
+          "Эти методы только зарождались, но стремление было невероятно сильным.",
+          "Так мы и добились. Создай пространство, измени правила, переезжай в новый дом, закрой за собой дверь.",
+          "Иногда приоткрывай дверь совсем чуть-чуть для тщательно оговорённых встреч.",
+          "И хорошо, что мы выбрались, потому что вскоре планета исчезла; хотя люди тогда удивлялись, как она вообще продержалась так долго.",
+          "Так где же все живут?..",
+          "Где угодно.",
+          "Издалека это пространственная металлическая мочалка. Крайне трудно составлять карты, даже хорошо изученных мест.",
+          "И охват таких карт ограничен. Здесь по большей части пространство частное, и почти никому не известно."
+        ],
+        "s-cn": [
+          "……还有些事情必须立刻处理。试想，任何一个疯子， 都能仅凭一时兴起，就让整座城市—— 连同周边一带——陷入毁灭，",
+          "而且这种事已经发生过几次，发生得还越来越频繁。",
+          "换作是我，一定会非常不安。 我想，还是离那里远些为妙。",
+          "要是你们当时已经掌握了创造新空间的技术， 想必就能帮上大忙。",
+          "那些技术当时还在起步阶段，但大家都迫切想把它发展成熟。",
+          "后来，我们终于做到了：创造新的空间，微调其中的法则， 搬进去安家，再把门关上。",
+          "偶尔才把门打开一条小缝，只进行事先精心安排的会面。",
+          "幸好我们逃了出来，那颗星球不久后就毁灭了； 不过当时的人反而惊讶，它竟然撑了那么久。",
+          "那其他人都住在哪里？",
+          "想住哪里都行。",
+          "从整体看，这些空间像钢丝绒一样缠成一团。 就连较熟悉的区域，要画出地图也很难。",
+          "而且，地图能涵盖的范围也有限。这里的空间大多归私人所有。 无论是谁，都对其中的大部分地方不了解。"
+        ],
+        "t-cn": [
+          "……還有些事情必須立刻處理。 試想，任何一個瘋子，都能僅憑一時興起， 就讓整座城市——連同周邊一帶——陷入毀滅，",
+          "而且這種事已經發生過幾次，發生得還越來越頻繁。",
+          "換作是我，一定會非常不安。 我想，還是離那裡遠些為妙。",
+          "要是你們當時已經掌握了創造新空間的技術， 想必就能幫上大忙。",
+          "那些技術當時還在起步階段， 但大家都迫切想把它發展成熟。",
+          "後來，我們終於做到了： 創造新的空間，微調其中的法則， 搬進去安家，再把門關上。",
+          "偶爾才把門打開一條小縫， 只進行事先精心安排的會面。",
+          "幸好我們逃了出來，那顆星球不久後就毀滅了； 不過當時的人反而驚訝，它竟然撐了那麼久。",
+          "那其他人都住在哪裡？",
+          "想住哪裡都行。",
+          "從整體看，這些空間像鋼絲絨一樣纏成一團。 就連較熟悉的區域，要畫出地圖也很難。",
+          "而且，地圖能涵蓋的範圍也有限。 這裡的空間大多歸私人所有。 無論是誰，都對其中的大部分地方不了解。"
         ]
       },
       "silentCues": [],

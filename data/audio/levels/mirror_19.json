@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -26,20 +35,74 @@
               "I sought levity in a tavern I'd passed daily,",
               "but whose door I hadn't darkened in many years."
             ],
+            "de": [
+              "Ein Fremder hat mich überzeugt.",
+              "Ich trinke inzwischen kaum noch. Aber die Nachricht, dass ich bald sterben würde, hat schwer auf mir gelastet.",
+              "Ich habe Zerstreuung in einer Schenke gesucht, an der ich täglich vorbeigekommen bin,",
+              "die ich aber seit vielen Jahren nicht mehr betreten habe."
+            ],
+            "es": [
+              "Me convenció alguien desconocido.",
+              "Normalmente no bebo, pero la noticia de que pronto moriría me impactó.",
+              "Busqué desahogo en una taberna por la que pasaba cada día,",
+              "pero cuya puerta no había cruzado en muchos años."
+            ],
+            "fr": [
+              "J'ai été convaincu par un inconnu.",
+              "Je ne bois pas d'ordinaire, mais la nouvelle que j'allais bientôt mourir me pesait.",
+              "J'ai cherché un peu de légèreté dans une taverne devant laquelle je passais chaque jour,",
+              "mais dont je n'avais pas franchi la porte depuis bien des années."
+            ],
+            "it": [
+              "Mi ha convinto uno sconosciuto.",
+              "Di solito non bevo, ma la notizia che sarei morto presto mi opprimeva.",
+              "Cercai un po' di leggerezza in una taverna che vedevo ogni giorno,",
+              "ma in cui non ero mai entrato in tanti anni."
+            ],
+            "ja": [
+              "見知らぬ男に。",
+              "普段は飲まないが、 死ぬという話が重くのしかかった。",
+              "毎日通り過ぎていた酒場に 気晴らしを求めた。",
+              "何年も 入っていなかった店だ。"
+            ],
+            "ko": [
+              "낯선 사람에게 확신을 얻었어.",
+              "평소엔 술을 잘 안 마시지만, 곧 죽게 된다는 얘길 듣고 마음이 무거웠어.",
+              "마음을 좀 달래려고 매일 지나치기만 하던 선술집으로 향했어.",
+              "몇 년 동안 한 번도 들어가 본 적 없는 곳이었지."
+            ],
             "pt-br": [
               "Fui convencido por um estranho.",
               "Normalmente eu não bebo, mas a notícia de que eu morreria em breve pesou em mim.",
               "Fui buscar alívio numa taverna pela qual eu passava todo dia,",
               "mas cuja porta eu não cruzava há muitos anos."
+            ],
+            "ru": [
+              "Меня убедил незнакомец.",
+              "Я обычно не пью, но новость о том, что скоро умру, тяжело мне далась.",
+              "Я искал утешения в таверне, мимо которой проходил каждый день,",
+              "но порог которой не переступал много лет."
+            ],
+            "s-cn": [
+              "我被一个陌生人说服了。",
+              "如今我平时不喝酒，可自己命不久矣的消息压得我喘不过气。",
+              "我每天都会经过一家酒馆，那天便想进去解解愁，",
+              "尽管我已经许多年没踏进酒馆的大门。"
+            ],
+            "t-cn": [
+              "我被一個陌生人說服了。",
+              "如今我平時不喝酒， 可自己命不久矣的消息壓得我喘不過氣。",
+              "我每天都會經過一家酒館，那天便想進去解解愁，",
+              "儘管我已經許多年沒踏進酒館的大門。"
             ]
           },
           "provenance": {
             "sourceWav": "mirror_stranger_2_1__trader.wav",
             "subtitleCueLines": [
-              6353,
-              6356,
-              6360,
-              6364
+              6363,
+              6366,
+              6370,
+              6374
             ],
             "explicitAudioReference": null
           }
@@ -56,11 +119,65 @@
           "I sought levity in a tavern I'd passed daily,",
           "but whose door I hadn't darkened in many years."
         ],
+        "de": [
+          "Ein Fremder hat mich überzeugt.",
+          "Ich trinke inzwischen kaum noch. Aber die Nachricht, dass ich bald sterben würde, hat schwer auf mir gelastet.",
+          "Ich habe Zerstreuung in einer Schenke gesucht, an der ich täglich vorbeigekommen bin,",
+          "die ich aber seit vielen Jahren nicht mehr betreten habe."
+        ],
+        "es": [
+          "Me convenció alguien desconocido.",
+          "Normalmente no bebo, pero la noticia de que pronto moriría me impactó.",
+          "Busqué desahogo en una taberna por la que pasaba cada día,",
+          "pero cuya puerta no había cruzado en muchos años."
+        ],
+        "fr": [
+          "J'ai été convaincu par un inconnu.",
+          "Je ne bois pas d'ordinaire, mais la nouvelle que j'allais bientôt mourir me pesait.",
+          "J'ai cherché un peu de légèreté dans une taverne devant laquelle je passais chaque jour,",
+          "mais dont je n'avais pas franchi la porte depuis bien des années."
+        ],
+        "it": [
+          "Mi ha convinto uno sconosciuto.",
+          "Di solito non bevo, ma la notizia che sarei morto presto mi opprimeva.",
+          "Cercai un po' di leggerezza in una taverna che vedevo ogni giorno,",
+          "ma in cui non ero mai entrato in tanti anni."
+        ],
+        "ja": [
+          "見知らぬ男に。",
+          "普段は飲まないが、 死ぬという話が重くのしかかった。",
+          "毎日通り過ぎていた酒場に 気晴らしを求めた。",
+          "何年も 入っていなかった店だ。"
+        ],
+        "ko": [
+          "낯선 사람에게 확신을 얻었어.",
+          "평소엔 술을 잘 안 마시지만, 곧 죽게 된다는 얘길 듣고 마음이 무거웠어.",
+          "마음을 좀 달래려고 매일 지나치기만 하던 선술집으로 향했어.",
+          "몇 년 동안 한 번도 들어가 본 적 없는 곳이었지."
+        ],
         "pt-br": [
           "Fui convencido por um estranho.",
           "Normalmente eu não bebo, mas a notícia de que eu morreria em breve pesou em mim.",
           "Fui buscar alívio numa taverna pela qual eu passava todo dia,",
           "mas cuja porta eu não cruzava há muitos anos."
+        ],
+        "ru": [
+          "Меня убедил незнакомец.",
+          "Я обычно не пью, но новость о том, что скоро умру, тяжело мне далась.",
+          "Я искал утешения в таверне, мимо которой проходил каждый день,",
+          "но порог которой не переступал много лет."
+        ],
+        "s-cn": [
+          "我被一个陌生人说服了。",
+          "如今我平时不喝酒，可自己命不久矣的消息压得我喘不过气。",
+          "我每天都会经过一家酒馆，那天便想进去解解愁，",
+          "尽管我已经许多年没踏进酒馆的大门。"
+        ],
+        "t-cn": [
+          "我被一個陌生人說服了。",
+          "如今我平時不喝酒， 可自己命不久矣的消息壓得我喘不過氣。",
+          "我每天都會經過一家酒館，那天便想進去解解愁，",
+          "儘管我已經許多年沒踏進酒館的大門。"
         ]
       },
       "silentCues": [],
@@ -82,7 +199,7 @@
             "source": "data-common/mirror_19.entities"
           }
         ],
-        "subtitleLine": 6352,
+        "subtitleLine": 6362,
         "subtitleHeader": "::"
       }
     }

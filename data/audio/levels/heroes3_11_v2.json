@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "So. It is your charge to apprehend this man?"
             ],
+            "de": [
+              "Also, ihr habt den Auftrag, diesen Mann festzunehmen?"
+            ],
+            "es": [
+              "Entonces. ¿Tu misión es capturar a este hombre?"
+            ],
+            "fr": [
+              "Donc. C'est à toi qu'il revient de capturer cet homme ?"
+            ],
+            "it": [
+              "Dunque. Il tuo incarico è catturare quest'uomo?"
+            ],
+            "ja": [
+              "では、あの男を捕らえるのがお前の任務か？"
+            ],
+            "ko": [
+              "그래서. 이 남자를 잡는 게 임무인 건가?"
+            ],
             "pt-br": [
               "Então. Sua missão é prender esse homem?"
+            ],
+            "ru": [
+              "Итак. Тебе поручено схватить этого человека?"
+            ],
+            "s-cn": [
+              "这么说，你的任务就是逮捕这个人？"
+            ],
+            "t-cn": [
+              "這麼說，你的任務就是逮捕這個人？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Yes; he will answer to the King."
             ],
+            "de": [
+              "Ja. Er wird sich vor dem König verantworten müssen."
+            ],
+            "es": [
+              "Sí; responderá ante el rey."
+            ],
+            "fr": [
+              "Oui ; il répondra au roi."
+            ],
+            "it": [
+              "Sì: dovrà rispondere al Re."
+            ],
+            "ja": [
+              "ああ。王の前で裁きを受けさせる。"
+            ],
+            "ko": [
+              "맞아. 국왕 앞에서 죗값을 치르게 할 거야."
+            ],
             "pt-br": [
               "Sim; ele vai responder ao Rei."
+            ],
+            "ru": [
+              "Да; он ответит перед королём."
+            ],
+            "s-cn": [
+              "是的，他得向国王交代。"
+            ],
+            "t-cn": [
+              "是的，他得向國王交代。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "My charge is similar. Our Circle of Elders is ... quite angry."
             ],
+            "de": [
+              "Mein Auftrag ist ähnlich. Unser Kreis der Ältesten ist ... ziemlich verärgert."
+            ],
+            "es": [
+              "Mi misión es parecida. Nuestro Círculo de Ancianos está... bastante enfadado."
+            ],
+            "fr": [
+              "Ma mission est similaire. Le Cercle des anciens est... fort mécontent."
+            ],
+            "it": [
+              "Il mio incarico è simile. Il nostro Circolo degli anziani è... parecchio arrabbiato."
+            ],
+            "ja": [
+              "俺の任務も似たものだ。 長老会は…ひどく怒っている。"
+            ],
+            "ko": [
+              "내 임무도 비슷하지. 원로회가... 몹시 화가 났거든."
+            ],
             "pt-br": [
               "Minha missão é parecida. O Círculo dos Anciãos está... bem irritado."
+            ],
+            "ru": [
+              "Моё поручение схоже. Наш Круг старейшин... весьма разгневан."
+            ],
+            "s-cn": [
+              "我的任务也差不多。我们的长老团……非常愤怒。"
+            ],
+            "t-cn": [
+              "我的任務也差不多。 我們的長老團……非常憤怒。"
             ]
           },
           "provenance": {
@@ -90,10 +180,55 @@
           "Yes; he will answer to the King.",
           "My charge is similar. Our Circle of Elders is ... quite angry."
         ],
+        "de": [
+          "Also, ihr habt den Auftrag, diesen Mann festzunehmen?",
+          "Ja. Er wird sich vor dem König verantworten müssen.",
+          "Mein Auftrag ist ähnlich. Unser Kreis der Ältesten ist ... ziemlich verärgert."
+        ],
+        "es": [
+          "Entonces. ¿Tu misión es capturar a este hombre?",
+          "Sí; responderá ante el rey.",
+          "Mi misión es parecida. Nuestro Círculo de Ancianos está... bastante enfadado."
+        ],
+        "fr": [
+          "Donc. C'est à toi qu'il revient de capturer cet homme ?",
+          "Oui ; il répondra au roi.",
+          "Ma mission est similaire. Le Cercle des anciens est... fort mécontent."
+        ],
+        "it": [
+          "Dunque. Il tuo incarico è catturare quest'uomo?",
+          "Sì: dovrà rispondere al Re.",
+          "Il mio incarico è simile. Il nostro Circolo degli anziani è... parecchio arrabbiato."
+        ],
+        "ja": [
+          "では、あの男を捕らえるのがお前の任務か？",
+          "ああ。王の前で裁きを受けさせる。",
+          "俺の任務も似たものだ。 長老会は…ひどく怒っている。"
+        ],
+        "ko": [
+          "그래서. 이 남자를 잡는 게 임무인 건가?",
+          "맞아. 국왕 앞에서 죗값을 치르게 할 거야.",
+          "내 임무도 비슷하지. 원로회가... 몹시 화가 났거든."
+        ],
         "pt-br": [
           "Então. Sua missão é prender esse homem?",
           "Sim; ele vai responder ao Rei.",
           "Minha missão é parecida. O Círculo dos Anciãos está... bem irritado."
+        ],
+        "ru": [
+          "Итак. Тебе поручено схватить этого человека?",
+          "Да; он ответит перед королём.",
+          "Моё поручение схоже. Наш Круг старейшин... весьма разгневан."
+        ],
+        "s-cn": [
+          "这么说，你的任务就是逮捕这个人？",
+          "是的，他得向国王交代。",
+          "我的任务也差不多。我们的长老团……非常愤怒。"
+        ],
+        "t-cn": [
+          "這麼說，你的任務就是逮捕這個人？",
+          "是的，他得向國王交代。",
+          "我的任務也差不多。 我們的長老團……非常憤怒。"
         ]
       },
       "silentCues": [],

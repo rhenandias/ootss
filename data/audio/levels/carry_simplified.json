@@ -6,8 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -23,14 +32,41 @@
             "en": [
               "This isn't so bad, actually."
             ],
+            "de": [
+              "So schlimm ist es gar nicht."
+            ],
+            "es": [
+              "No está tan mal, la verdad."
+            ],
+            "fr": [
+              "Ce n'est pas si terrible, en vrai."
+            ],
+            "it": [
+              "Non è così male, in realtà."
+            ],
+            "ja": [
+              "悪くないね。"
+            ],
+            "ko": [
+              "이 정도면 그렇게 나쁘진 않네."
+            ],
             "pt-br": [
               "Isso não é tão ruim, na verdade."
+            ],
+            "ru": [
+              "Это не так уж плохо."
+            ],
+            "s-cn": [
+              "其实也没那么糟。"
+            ],
+            "t-cn": [
+              "其實也沒那麼糟。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_1__sailor_alt.wav",
             "subtitleCueLines": [
-              7092
+              7102
             ],
             "explicitAudioReference": null
           }
@@ -45,14 +81,41 @@
             "en": [
               "Not so bad?"
             ],
+            "de": [
+              "Nicht so schlimm?"
+            ],
+            "es": [
+              "¿No está tan mal?"
+            ],
+            "fr": [
+              "Pas si terrible ?"
+            ],
+            "it": [
+              "Non è così male?"
+            ],
+            "ja": [
+              "どういう意味？"
+            ],
+            "ko": [
+              "그렇게 안 나쁘다고?"
+            ],
             "pt-br": [
               "Não foi tão ruim?"
+            ],
+            "ru": [
+              "Не так уж плохо?"
+            ],
+            "s-cn": [
+              "没那么糟？"
+            ],
+            "t-cn": [
+              "沒那麼糟？"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_2__sailor.wav",
             "subtitleCueLines": [
-              7096
+              7106
             ],
             "explicitAudioReference": null
           }
@@ -67,14 +130,41 @@
             "en": [
               "Heights-wise."
             ],
+            "de": [
+              "Was die Höhe angeht."
+            ],
+            "es": [
+              "En cuanto a la altura."
+            ],
+            "fr": [
+              "La hauteur."
+            ],
+            "it": [
+              "Per quanto riguarda l'altezza."
+            ],
+            "ja": [
+              "高さの意味で。"
+            ],
+            "ko": [
+              "높이만 따지면."
+            ],
             "pt-br": [
               "No quesito altura."
+            ],
+            "ru": [
+              "В смысле высоты."
+            ],
+            "s-cn": [
+              "我是说高度。"
+            ],
+            "t-cn": [
+              "我是說高度。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_3__sailor_alt.wav",
             "subtitleCueLines": [
-              7099
+              7109
             ],
             "explicitAudioReference": null
           }
@@ -89,14 +179,41 @@
             "en": [
               "It isn't?"
             ],
+            "de": [
+              "Ist es nicht?"
+            ],
+            "es": [
+              "¿Ah, no?"
+            ],
+            "fr": [
+              "Ah non ?"
+            ],
+            "it": [
+              "Davvero?"
+            ],
+            "ja": [
+              "そうか？"
+            ],
+            "ko": [
+              "그런가?"
+            ],
             "pt-br": [
               "Não é?"
+            ],
+            "ru": [
+              "Не так уж?"
+            ],
+            "s-cn": [
+              "这还不算高？"
+            ],
+            "t-cn": [
+              "這還不算高？"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_4__sailor.wav",
             "subtitleCueLines": [
-              7102
+              7112
             ],
             "explicitAudioReference": null
           }
@@ -112,16 +229,52 @@
               "Just from here to where we need to go, I mean.",
               "Don't let the height phase you. If you don't look, there is nothing there. Simple."
             ],
+            "de": [
+              "Nur von hier bis dahin, wo wir hinmüssen, meine ich.",
+              "Lass dich von der Höhe nicht einschüchtern. Wenn du nicht hinsiehst, ist da nichts. Ganz einfach."
+            ],
+            "es": [
+              "Solo desde aquí hasta donde tenemos que ir, quiero decir.",
+              "No dejes que la altura te intimide. Si no miras, no hay nada. Así de simple."
+            ],
+            "fr": [
+              "D'ici à là où nous devons aller, je veux dire.",
+              "Ne pense pas à la hauteur. Si tu ne regardes pas en bas, il n'y a pas de danger. C'est simple."
+            ],
+            "it": [
+              "Solo da qui a dove dobbiamo andare, intendo.",
+              "Non lasciarti turbare dall'altezza. Se non guardi, laggiù non c'è nulla. Semplice."
+            ],
+            "ja": [
+              "目的地のことだよ。",
+              "下を見なきゃ いいだけさ。"
+            ],
+            "ko": [
+              "그러니까 여기서부터 우리가 가야 할 곳까지 말이야.",
+              "높다고 겁먹지 마. 안 내려다보면 아무것도 없는 거야. 간단하지."
+            ],
             "pt-br": [
               "Só daqui até onde precisamos ir, quero dizer.",
               "Não se deixe intimidar pela altura. Se você não olhar, não tem nada lá. Simples."
+            ],
+            "ru": [
+              "Просто отсюда туда, куда нам нужно идти, я имею в виду.",
+              "Пусть высота тебя не пугает. Если вниз не смотреть, то ничего и нет. Всё просто."
+            ],
+            "s-cn": [
+              "我是说，从这里到我们要去的地方，就这一段。",
+              "别怕高。不往下看，就没有高度这回事。就这么简单。"
+            ],
+            "t-cn": [
+              "我是說，從這裡到我們要去的地方，就這一段。",
+              "別怕高。不往下看，就沒有高度這回事。就這麼簡單。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_5__sailor_alt.wav",
             "subtitleCueLines": [
-              7105,
-              7111
+              7115,
+              7121
             ],
             "explicitAudioReference": null
           }
@@ -140,6 +293,54 @@
           "Just from here to where we need to go, I mean.",
           "Don't let the height phase you. If you don't look, there is nothing there. Simple."
         ],
+        "de": [
+          "So schlimm ist es gar nicht.",
+          "Nicht so schlimm?",
+          "Was die Höhe angeht.",
+          "Ist es nicht?",
+          "Nur von hier bis dahin, wo wir hinmüssen, meine ich.",
+          "Lass dich von der Höhe nicht einschüchtern. Wenn du nicht hinsiehst, ist da nichts. Ganz einfach."
+        ],
+        "es": [
+          "No está tan mal, la verdad.",
+          "¿No está tan mal?",
+          "En cuanto a la altura.",
+          "¿Ah, no?",
+          "Solo desde aquí hasta donde tenemos que ir, quiero decir.",
+          "No dejes que la altura te intimide. Si no miras, no hay nada. Así de simple."
+        ],
+        "fr": [
+          "Ce n'est pas si terrible, en vrai.",
+          "Pas si terrible ?",
+          "La hauteur.",
+          "Ah non ?",
+          "D'ici à là où nous devons aller, je veux dire.",
+          "Ne pense pas à la hauteur. Si tu ne regardes pas en bas, il n'y a pas de danger. C'est simple."
+        ],
+        "it": [
+          "Non è così male, in realtà.",
+          "Non è così male?",
+          "Per quanto riguarda l'altezza.",
+          "Davvero?",
+          "Solo da qui a dove dobbiamo andare, intendo.",
+          "Non lasciarti turbare dall'altezza. Se non guardi, laggiù non c'è nulla. Semplice."
+        ],
+        "ja": [
+          "悪くないね。",
+          "どういう意味？",
+          "高さの意味で。",
+          "そうか？",
+          "目的地のことだよ。",
+          "下を見なきゃ いいだけさ。"
+        ],
+        "ko": [
+          "이 정도면 그렇게 나쁘진 않네.",
+          "그렇게 안 나쁘다고?",
+          "높이만 따지면.",
+          "그런가?",
+          "그러니까 여기서부터 우리가 가야 할 곳까지 말이야.",
+          "높다고 겁먹지 마. 안 내려다보면 아무것도 없는 거야. 간단하지."
+        ],
         "pt-br": [
           "Isso não é tão ruim, na verdade.",
           "Não foi tão ruim?",
@@ -147,6 +348,30 @@
           "Não é?",
           "Só daqui até onde precisamos ir, quero dizer.",
           "Não se deixe intimidar pela altura. Se você não olhar, não tem nada lá. Simples."
+        ],
+        "ru": [
+          "Это не так уж плохо.",
+          "Не так уж плохо?",
+          "В смысле высоты.",
+          "Не так уж?",
+          "Просто отсюда туда, куда нам нужно идти, я имею в виду.",
+          "Пусть высота тебя не пугает. Если вниз не смотреть, то ничего и нет. Всё просто."
+        ],
+        "s-cn": [
+          "其实也没那么糟。",
+          "没那么糟？",
+          "我是说高度。",
+          "这还不算高？",
+          "我是说，从这里到我们要去的地方，就这一段。",
+          "别怕高。不往下看，就没有高度这回事。就这么简单。"
+        ],
+        "t-cn": [
+          "其實也沒那麼糟。",
+          "沒那麼糟？",
+          "我是說高度。",
+          "這還不算高？",
+          "我是說，從這裡到我們要去的地方，就這一段。",
+          "別怕高。不往下看，就沒有高度這回事。就這麼簡單。"
         ]
       },
       "silentCues": [],
@@ -168,7 +393,7 @@
             "source": "data-common/carry_simplified.entities"
           }
         ],
-        "subtitleLine": 7091,
+        "subtitleLine": 7101,
         "subtitleHeader": ":::"
       }
     },
@@ -185,14 +410,41 @@
             "en": [
               "Do I look funny?"
             ],
+            "de": [
+              "Sehe ich komisch aus?"
+            ],
+            "es": [
+              "¿Tengo una pinta ridícula?"
+            ],
+            "fr": [
+              "Est-ce que j'ai l'air bizarre ?"
+            ],
+            "it": [
+              "Ho un'aria buffa?"
+            ],
+            "ja": [
+              "アタシ、変に見える？"
+            ],
+            "ko": [
+              "내가 웃겨 보여?"
+            ],
             "pt-br": [
               "Estou com cara engraçada?"
+            ],
+            "ru": [
+              "Я смешно выгляжу?"
+            ],
+            "s-cn": [
+              "我看起来是不是很滑稽？"
+            ],
+            "t-cn": [
+              "我看起來是不是很滑稽？"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_actual_a_1__sailor.wav",
             "subtitleCueLines": [
-              7122
+              7132
             ],
             "explicitAudioReference": null
           }
@@ -207,14 +459,41 @@
             "en": [
               "As do you ever."
             ],
+            "de": [
+              "Wie immer."
+            ],
+            "es": [
+              "Como siempre."
+            ],
+            "fr": [
+              "Pas plus que d'habitude."
+            ],
+            "it": [
+              "Come sempre."
+            ],
+            "ja": [
+              "いつも変だよ。"
+            ],
+            "ko": [
+              "늘 그렇지."
+            ],
             "pt-br": [
               "Como sempre."
+            ],
+            "ru": [
+              "Как и всегда."
+            ],
+            "s-cn": [
+              "你哪次不滑稽？"
+            ],
+            "t-cn": [
+              "你哪次不滑稽？"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_actual_a_2__sailor_alt.wav",
             "subtitleCueLines": [
-              7126
+              7136
             ],
             "explicitAudioReference": null
           }
@@ -229,14 +508,41 @@
             "en": [
               "Shush now."
             ],
+            "de": [
+              "Jetzt sei still."
+            ],
+            "es": [
+              "Anda, calla."
+            ],
+            "fr": [
+              "Oh, la ferme."
+            ],
+            "it": [
+              "Zitto ora."
+            ],
+            "ja": [
+              "うるさいな。"
+            ],
+            "ko": [
+              "조용히 해."
+            ],
             "pt-br": [
               "Cala a boca."
+            ],
+            "ru": [
+              "Тихо теперь."
+            ],
+            "s-cn": [
+              "嘘，闭嘴。"
+            ],
+            "t-cn": [
+              "噓，閉嘴。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_actual_a_3__sailor.wav",
             "subtitleCueLines": [
-              7130
+              7140
             ],
             "explicitAudioReference": null
           }
@@ -252,10 +558,55 @@
           "As do you ever.",
           "Shush now."
         ],
+        "de": [
+          "Sehe ich komisch aus?",
+          "Wie immer.",
+          "Jetzt sei still."
+        ],
+        "es": [
+          "¿Tengo una pinta ridícula?",
+          "Como siempre.",
+          "Anda, calla."
+        ],
+        "fr": [
+          "Est-ce que j'ai l'air bizarre ?",
+          "Pas plus que d'habitude.",
+          "Oh, la ferme."
+        ],
+        "it": [
+          "Ho un'aria buffa?",
+          "Come sempre.",
+          "Zitto ora."
+        ],
+        "ja": [
+          "アタシ、変に見える？",
+          "いつも変だよ。",
+          "うるさいな。"
+        ],
+        "ko": [
+          "내가 웃겨 보여?",
+          "늘 그렇지.",
+          "조용히 해."
+        ],
         "pt-br": [
           "Estou com cara engraçada?",
           "Como sempre.",
           "Cala a boca."
+        ],
+        "ru": [
+          "Я смешно выгляжу?",
+          "Как и всегда.",
+          "Тихо теперь."
+        ],
+        "s-cn": [
+          "我看起来是不是很滑稽？",
+          "你哪次不滑稽？",
+          "嘘，闭嘴。"
+        ],
+        "t-cn": [
+          "我看起來是不是很滑稽？",
+          "你哪次不滑稽？",
+          "噓，閉嘴。"
         ]
       },
       "silentCues": [],
@@ -277,7 +628,7 @@
             "source": "data-common/carry_simplified.entities"
           }
         ],
-        "subtitleLine": 7121,
+        "subtitleLine": 7131,
         "subtitleHeader": ":::"
       }
     },
@@ -294,14 +645,41 @@
             "en": [
               "You look so funny!"
             ],
+            "de": [
+              "Du siehst so komisch aus!"
+            ],
+            "es": [
+              "¡Tienes una pinta graciosísima!"
+            ],
+            "fr": [
+              "Tu as l'air tellement drôle !"
+            ],
+            "it": [
+              "Hai un'aria buffissima!"
+            ],
+            "ja": [
+              "変な見た目！"
+            ],
+            "ko": [
+              "너무 웃겨 보여!"
+            ],
             "pt-br": [
               "Você está com uma cara tão engraçada!"
+            ],
+            "ru": [
+              "Ты так смешно выглядишь!"
+            ],
+            "s-cn": [
+              "你这样也太滑稽了！"
+            ],
+            "t-cn": [
+              "你這樣也太滑稽了！"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_actual_b_1__sailor.wav",
             "subtitleCueLines": [
-              7137
+              7147
             ],
             "explicitAudioReference": null
           }
@@ -316,14 +694,41 @@
             "en": [
               "Mind your mouth."
             ],
+            "de": [
+              "Pass auf, was du sagst."
+            ],
+            "es": [
+              "Cuidado con esa lengua."
+            ],
+            "fr": [
+              "Surveille ton langage."
+            ],
+            "it": [
+              "Modera il linguaggio."
+            ],
+            "ja": [
+              "黙りな。"
+            ],
+            "ko": [
+              "입 조심해."
+            ],
             "pt-br": [
               "Cuidado com a boca."
+            ],
+            "ru": [
+              "Следи за языком."
+            ],
+            "s-cn": [
+              "嘴上留点德。"
+            ],
+            "t-cn": [
+              "嘴上留點德。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_actual_b_2__sailor_alt.wav",
             "subtitleCueLines": [
-              7141
+              7151
             ],
             "explicitAudioReference": null
           }
@@ -338,14 +743,41 @@
             "en": [
               "I'm so pent up. No ship to berate."
             ],
+            "de": [
+              "In mir staut sich alles. Kein Schiff zum Anschnauzen."
+            ],
+            "es": [
+              "Estoy tensísima. No tengo barcos a los que criticar."
+            ],
+            "fr": [
+              "Je suis à cran. Sans navire à réprimander."
+            ],
+            "it": [
+              "Sono così tesa. Nessuna nave da rimproverare."
+            ],
+            "ja": [
+              "鬱憤溜まってんだよ。 八つ当たりできる船もないし。"
+            ],
+            "ko": [
+              "너무 갑갑해. 구박할 배도 없고."
+            ],
             "pt-br": [
               "Estou tão tensa. Sem navio para implicar."
+            ],
+            "ru": [
+              "Я вся измотана. Не на кого ворчать."
+            ],
+            "s-cn": [
+              "我都憋坏了，又没船可骂。"
+            ],
+            "t-cn": [
+              "我都憋壞了，又沒船可罵。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_actual_b_3__sailor.wav",
             "subtitleCueLines": [
-              7144
+              7154
             ],
             "explicitAudioReference": null
           }
@@ -360,14 +792,41 @@
             "en": [
               "You know -- I just realized. Me too."
             ],
+            "de": [
+              "Wo du es gerade sagst, das Gleiche gilt auch für mich."
+            ],
+            "es": [
+              "Acabo de darme cuenta yo también, ¿sabes?"
+            ],
+            "fr": [
+              "Tu sais quoi... je viens de m'en rendre compte. Moi aussi."
+            ],
+            "it": [
+              "Sai... me ne sono appena resa conto. Anch'io."
+            ],
+            "ja": [
+              "アタシもだ。"
+            ],
+            "ko": [
+              "있지... 방금 깨달았어. 나도 그래."
+            ],
             "pt-br": [
               "Sabe... só percebi agora. Eu também."
+            ],
+            "ru": [
+              "Знаешь — только сейчас поняла. Я тоже."
+            ],
+            "s-cn": [
+              "听你这么一说，我也有同感。"
+            ],
+            "t-cn": [
+              "聽你這麼一說，我也有同感。"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_actual_b_4__sailor_alt.wav",
             "subtitleCueLines": [
-              7148
+              7158
             ],
             "explicitAudioReference": null
           }
@@ -384,11 +843,65 @@
           "I'm so pent up. No ship to berate.",
           "You know -- I just realized. Me too."
         ],
+        "de": [
+          "Du siehst so komisch aus!",
+          "Pass auf, was du sagst.",
+          "In mir staut sich alles. Kein Schiff zum Anschnauzen.",
+          "Wo du es gerade sagst, das Gleiche gilt auch für mich."
+        ],
+        "es": [
+          "¡Tienes una pinta graciosísima!",
+          "Cuidado con esa lengua.",
+          "Estoy tensísima. No tengo barcos a los que criticar.",
+          "Acabo de darme cuenta yo también, ¿sabes?"
+        ],
+        "fr": [
+          "Tu as l'air tellement drôle !",
+          "Surveille ton langage.",
+          "Je suis à cran. Sans navire à réprimander.",
+          "Tu sais quoi... je viens de m'en rendre compte. Moi aussi."
+        ],
+        "it": [
+          "Hai un'aria buffissima!",
+          "Modera il linguaggio.",
+          "Sono così tesa. Nessuna nave da rimproverare.",
+          "Sai... me ne sono appena resa conto. Anch'io."
+        ],
+        "ja": [
+          "変な見た目！",
+          "黙りな。",
+          "鬱憤溜まってんだよ。 八つ当たりできる船もないし。",
+          "アタシもだ。"
+        ],
+        "ko": [
+          "너무 웃겨 보여!",
+          "입 조심해.",
+          "너무 갑갑해. 구박할 배도 없고.",
+          "있지... 방금 깨달았어. 나도 그래."
+        ],
         "pt-br": [
           "Você está com uma cara tão engraçada!",
           "Cuidado com a boca.",
           "Estou tão tensa. Sem navio para implicar.",
           "Sabe... só percebi agora. Eu também."
+        ],
+        "ru": [
+          "Ты так смешно выглядишь!",
+          "Следи за языком.",
+          "Я вся измотана. Не на кого ворчать.",
+          "Знаешь — только сейчас поняла. Я тоже."
+        ],
+        "s-cn": [
+          "你这样也太滑稽了！",
+          "嘴上留点德。",
+          "我都憋坏了，又没船可骂。",
+          "听你这么一说，我也有同感。"
+        ],
+        "t-cn": [
+          "你這樣也太滑稽了！",
+          "嘴上留點德。",
+          "我都憋壞了，又沒船可罵。",
+          "聽你這麼一說，我也有同感。"
         ]
       },
       "silentCues": [],
@@ -410,7 +923,7 @@
             "source": "data-common/carry_simplified.entities"
           }
         ],
-        "subtitleLine": 7136,
+        "subtitleLine": 7146,
         "subtitleHeader": ":::"
       }
     },
@@ -427,14 +940,41 @@
             "en": [
               "If we're this tricky, no-one can stop us!"
             ],
+            "de": [
+              "Wenn wir so gerissen vorgehen, kann uns niemand aufhalten!"
+            ],
+            "es": [
+              "Si somos así de ingeniosas, ¡nadie podrá detenernos!"
+            ],
+            "fr": [
+              "Si on est aussi malines, personne ne peut nous arrêter !"
+            ],
+            "it": [
+              "Se siamo così furbe, nessuno potrà fermarci!"
+            ],
+            "ja": [
+              "この調子でいけば アタシたちは無敵だ！"
+            ],
+            "ko": [
+              "우리 이렇게 잔꾀가 좋으면 아무도 우릴 못 막을 거야!"
+            ],
             "pt-br": [
               "Se estamos dando conta disso, ninguém pode nos parar!"
+            ],
+            "ru": [
+              "Если мы уж так ловко справляемся, нас никто не остановит!"
+            ],
+            "s-cn": [
+              "我们这么机灵，谁还拦得住！"
+            ],
+            "t-cn": [
+              "我們這麼機靈，誰還攔得住！"
             ]
           },
           "provenance": {
             "sourceWav": "3d_intro_carry_end_1__sailor.wav",
             "subtitleCueLines": [
-              7155
+              7165
             ],
             "explicitAudioReference": null
           }
@@ -448,8 +988,35 @@
         "en": [
           "If we're this tricky, no-one can stop us!"
         ],
+        "de": [
+          "Wenn wir so gerissen vorgehen, kann uns niemand aufhalten!"
+        ],
+        "es": [
+          "Si somos así de ingeniosas, ¡nadie podrá detenernos!"
+        ],
+        "fr": [
+          "Si on est aussi malines, personne ne peut nous arrêter !"
+        ],
+        "it": [
+          "Se siamo così furbe, nessuno potrà fermarci!"
+        ],
+        "ja": [
+          "この調子でいけば アタシたちは無敵だ！"
+        ],
+        "ko": [
+          "우리 이렇게 잔꾀가 좋으면 아무도 우릴 못 막을 거야!"
+        ],
         "pt-br": [
           "Se estamos dando conta disso, ninguém pode nos parar!"
+        ],
+        "ru": [
+          "Если мы уж так ловко справляемся, нас никто не остановит!"
+        ],
+        "s-cn": [
+          "我们这么机灵，谁还拦得住！"
+        ],
+        "t-cn": [
+          "我們這麼機靈，誰還攔得住！"
         ]
       },
       "silentCues": [],
@@ -471,7 +1038,7 @@
             "source": "data-common/carry_simplified.entities"
           }
         ],
-        "subtitleLine": 7154,
+        "subtitleLine": 7164,
         "subtitleHeader": ":::"
       }
     }
