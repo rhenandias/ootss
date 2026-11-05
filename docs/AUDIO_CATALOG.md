@@ -201,4 +201,4 @@ O backup do conversor foi mantido no mesmo diretório.
 
 A revisão detalhada, os novos pontos e as limitações estão em
 [AUDIO_PLACEMENT_REVIEW.md](AUDIO_PLACEMENT_REVIEW.md) e no registro
-[data/audio/upstream_update.json](data/audio/upstream_update.json).
+[data/audio/upstream_update.json](../data/audio/upstream_update.json).

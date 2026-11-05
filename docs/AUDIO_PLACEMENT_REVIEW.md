@@ -124,6 +124,6 @@ Restam 23 blocos, com 61 gravações, sem posição identificável: 20 não têm
 - As coordenadas das âncoras presentes no arquivo de marcadores coincidem exatamente com o original.
 - Chromium: reprodução na introdução, stones, minimapa e overworld; legendas PT-BR; sequência em uma fase; parada ao fechar e trocar de mapa; filtro 246/946 entradas; links para fonte e entidade; popup a 390 pixels. Sem erros JavaScript ou HTTP de áudio.
 
-Os hashes das fontes, os novos pontos, a mídia alterada e o resumo da extração ficam em [data/audio/upstream_update.json](data/audio/upstream_update.json). O histórico da extração de outubro continua em [data/audio/extraction_update.json](data/audio/extraction_update.json).
+Os hashes das fontes, os novos pontos, a mídia alterada e o resumo da extração ficam em [data/audio/upstream_update.json](../data/audio/upstream_update.json). O histórico da extração de outubro continua em [data/audio/extraction_update.json](../data/audio/extraction_update.json).
 
 A integração foi preparada localmente; não houve push nem publicação do site.
