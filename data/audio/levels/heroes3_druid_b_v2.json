@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "She's been with us a while. We wouldn't have gotten this far without her."
             ],
+            "de": [
+              "Sie ist schon eine Weile bei uns. Ohne sie wären wir nicht so weit gekommen."
+            ],
+            "es": [
+              "Lleva un tiempo con nosotros. No habríamos llegado tan lejos sin ella."
+            ],
+            "fr": [
+              "Elle est avec nous depuis un moment. Nous ne serions pas arrivés si loin sans elle."
+            ],
+            "it": [
+              "È con noi da un po'. Non saremmo arrivati fin qui senza di lei."
+            ],
+            "ja": [
+              "あいつとは、しばらく一緒に旅してきた。 あいつ抜きじゃ、ここまで来られなかった。"
+            ],
+            "ko": [
+              "우리와 함께한 지 꽤 됐어. 그 여자 없이는 여기까지 오지도 못했을 거야."
+            ],
             "pt-br": [
               "Ela está conosco há um tempo. Não teríamos chegado até aqui sem ela."
+            ],
+            "ru": [
+              "Она уже давно с нами. Без неё мы бы не продвинулись так далеко."
+            ],
+            "s-cn": [
+              "她跟着我们有一阵子了。没有她，我们不可能走到这里。"
+            ],
+            "t-cn": [
+              "她跟著我們有一陣子了。 沒有她，我們不可能走到這裡。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "I don't doubt your word."
             ],
+            "de": [
+              "Ich zweifle nicht an deinem Wort."
+            ],
+            "es": [
+              "No pongo en duda tu palabra."
+            ],
+            "fr": [
+              "Je ne mets pas ta parole en doute."
+            ],
+            "it": [
+              "Non dubito della tua parola."
+            ],
+            "ja": [
+              "お前の言葉を疑ってはいない。"
+            ],
+            "ko": [
+              "당신의 말을 의심하는 건 아닙니다."
+            ],
             "pt-br": [
               "Não duvido da sua palavra."
+            ],
+            "ru": [
+              "Я не сомневаюсь в твоих словах."
+            ],
+            "s-cn": [
+              "我不怀疑你的话。"
+            ],
+            "t-cn": [
+              "我不懷疑你的話。"
             ]
           },
           "provenance": {
@@ -67,9 +130,45 @@
           "She's been with us a while. We wouldn't have gotten this far without her.",
           "I don't doubt your word."
         ],
+        "de": [
+          "Sie ist schon eine Weile bei uns. Ohne sie wären wir nicht so weit gekommen.",
+          "Ich zweifle nicht an deinem Wort."
+        ],
+        "es": [
+          "Lleva un tiempo con nosotros. No habríamos llegado tan lejos sin ella.",
+          "No pongo en duda tu palabra."
+        ],
+        "fr": [
+          "Elle est avec nous depuis un moment. Nous ne serions pas arrivés si loin sans elle.",
+          "Je ne mets pas ta parole en doute."
+        ],
+        "it": [
+          "È con noi da un po'. Non saremmo arrivati fin qui senza di lei.",
+          "Non dubito della tua parola."
+        ],
+        "ja": [
+          "あいつとは、しばらく一緒に旅してきた。 あいつ抜きじゃ、ここまで来られなかった。",
+          "お前の言葉を疑ってはいない。"
+        ],
+        "ko": [
+          "우리와 함께한 지 꽤 됐어. 그 여자 없이는 여기까지 오지도 못했을 거야.",
+          "당신의 말을 의심하는 건 아닙니다."
+        ],
         "pt-br": [
           "Ela está conosco há um tempo. Não teríamos chegado até aqui sem ela.",
           "Não duvido da sua palavra."
+        ],
+        "ru": [
+          "Она уже давно с нами. Без неё мы бы не продвинулись так далеко.",
+          "Я не сомневаюсь в твоих словах."
+        ],
+        "s-cn": [
+          "她跟着我们有一阵子了。没有她，我们不可能走到这里。",
+          "我不怀疑你的话。"
+        ],
+        "t-cn": [
+          "她跟著我們有一陣子了。 沒有她，我們不可能走到這裡。",
+          "我不懷疑你的話。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Why hello there! We seem to be in a spot of trouble."
             ],
+            "de": [
+              "Oh, hallo! Offenbar stecken wir in einer gewissen Zwangslage."
+            ],
+            "es": [
+              "¡Hola! Parece que tenemos un pequeño problema."
+            ],
+            "fr": [
+              "Eh bien, bonjour ! Il semblerait qu'on soit dans le pétrin."
+            ],
+            "it": [
+              "Ma guarda chi c'è! Sembra proprio che siamo nei guai."
+            ],
+            "ja": [
+              "やあ！実は少し 困っていてのう。"
+            ],
+            "ko": [
+              "오, 안녕하세요! 우리가 좀 곤란한 상황에 처한 것 같군요."
+            ],
             "pt-br": [
               "Olá! Parece que estamos com um problema."
+            ],
+            "ru": [
+              "Ну здравствуйте! Похоже, у нас небольшие неприятности."
+            ],
+            "s-cn": [
+              "你好呀！我们好像遇到了点麻烦。"
+            ],
+            "t-cn": [
+              "你好呀！我們好像遇到了點麻煩。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Normally, goblins are no problem for me, no problem at all, but, this passageway is so narrow..."
             ],
+            "de": [
+              "Normalerweise sind Goblins für mich kein Problem, überhaupt kein Problem, aber dieser Durchgang ist so eng ..."
+            ],
+            "es": [
+              "Normalmente, los goblins no me suponen ningún problema, ninguno en absoluto, pero este pasadizo es tan estrecho..."
+            ],
+            "fr": [
+              "Normalement, les gobelins ne sont pas un problème pour moi, pas du tout, mais ce passage est si étroit..."
+            ],
+            "it": [
+              "Di solito, i goblin non sono un problema per me, davvero, ma questo passaggio è così stretto..."
+            ],
+            "ja": [
+              "普段ならゴブリンなんぞ 敵ではないが、 ここは通路が狭くてのう…"
+            ],
+            "ko": [
+              "평소라면 고블린 정도야 아무 문제 없이 처리할 수 있는데, 이 통로가 워낙 좁아서 말이야..."
+            ],
             "pt-br": [
               "Goblins não costumam ser problema pra mim, de jeito nenhum, mas este corredor é tão estreito..."
+            ],
+            "ru": [
+              "Обычно гоблины мне нипочём, совсем не проблема, но этот проход такой узкий..."
+            ],
+            "s-cn": [
+              "搁平时，哥布林根本挡不了我的路， 完全不是什么问题，可这条通道实在太窄了……"
+            ],
+            "t-cn": [
+              "擱平時，哥布林根本擋不了我的路， 完全不是什麼問題，可這條通道實在太窄了……"
             ]
           },
           "provenance": {
@@ -69,11 +132,65 @@
           "Normally, goblins are no problem for me, no problem at all, but, this passageway is so narrow...",
           "..."
         ],
+        "de": [
+          "Oh, hallo! Offenbar stecken wir in einer gewissen Zwangslage.",
+          "...",
+          "Normalerweise sind Goblins für mich kein Problem, überhaupt kein Problem, aber dieser Durchgang ist so eng ...",
+          "..."
+        ],
+        "es": [
+          "¡Hola! Parece que tenemos un pequeño problema.",
+          "...",
+          "Normalmente, los goblins no me suponen ningún problema, ninguno en absoluto, pero este pasadizo es tan estrecho...",
+          "..."
+        ],
+        "fr": [
+          "Eh bien, bonjour ! Il semblerait qu'on soit dans le pétrin.",
+          "...",
+          "Normalement, les gobelins ne sont pas un problème pour moi, pas du tout, mais ce passage est si étroit...",
+          "..."
+        ],
+        "it": [
+          "Ma guarda chi c'è! Sembra proprio che siamo nei guai.",
+          "...",
+          "Di solito, i goblin non sono un problema per me, davvero, ma questo passaggio è così stretto...",
+          "..."
+        ],
+        "ja": [
+          "やあ！実は少し 困っていてのう。",
+          "…",
+          "普段ならゴブリンなんぞ 敵ではないが、 ここは通路が狭くてのう…",
+          "…"
+        ],
+        "ko": [
+          "오, 안녕하세요! 우리가 좀 곤란한 상황에 처한 것 같군요.",
+          "...",
+          "평소라면 고블린 정도야 아무 문제 없이 처리할 수 있는데, 이 통로가 워낙 좁아서 말이야...",
+          "..."
+        ],
         "pt-br": [
           "Olá! Parece que estamos com um problema.",
           "...",
           "Goblins não costumam ser problema pra mim, de jeito nenhum, mas este corredor é tão estreito...",
           "..."
+        ],
+        "ru": [
+          "Ну здравствуйте! Похоже, у нас небольшие неприятности.",
+          "...",
+          "Обычно гоблины мне нипочём, совсем не проблема, но этот проход такой узкий...",
+          "..."
+        ],
+        "s-cn": [
+          "你好呀！我们好像遇到了点麻烦。",
+          "……",
+          "搁平时，哥布林根本挡不了我的路， 完全不是什么问题，可这条通道实在太窄了……",
+          "……"
+        ],
+        "t-cn": [
+          "你好呀！我們好像遇到了點麻煩。",
+          "……",
+          "擱平時，哥布林根本擋不了我的路， 完全不是什麼問題，可這條通道實在太窄了……",
+          "……"
         ]
       },
       "silentCues": [
@@ -133,8 +250,35 @@
             "en": [
               "Thank you, good ... miss?"
             ],
+            "de": [
+              "Vielen Dank, gute ... Dame?"
+            ],
+            "es": [
+              "Gracias, buena... ¿señorita?"
+            ],
+            "fr": [
+              "Merci, bonne... demoiselle ?"
+            ],
+            "it": [
+              "Grazie, signorina...?"
+            ],
+            "ja": [
+              "ありがとう、えっと…お嬢さん？"
+            ],
+            "ko": [
+              "고맙습니다, 친절한... 아가씨?"
+            ],
             "pt-br": [
               "Obrigado, boa... senhorita?"
+            ],
+            "ru": [
+              "Спасибо, добрая... барышня?"
+            ],
+            "s-cn": [
+              "谢谢你，这位好心……小姐？"
+            ],
+            "t-cn": [
+              "謝謝你，這位好心……小姐？"
             ]
           },
           "provenance": {
@@ -154,8 +298,35 @@
         "en": [
           "Thank you, good ... miss?"
         ],
+        "de": [
+          "Vielen Dank, gute ... Dame?"
+        ],
+        "es": [
+          "Gracias, buena... ¿señorita?"
+        ],
+        "fr": [
+          "Merci, bonne... demoiselle ?"
+        ],
+        "it": [
+          "Grazie, signorina...?"
+        ],
+        "ja": [
+          "ありがとう、えっと…お嬢さん？"
+        ],
+        "ko": [
+          "고맙습니다, 친절한... 아가씨?"
+        ],
         "pt-br": [
           "Obrigado, boa... senhorita?"
+        ],
+        "ru": [
+          "Спасибо, добрая... барышня?"
+        ],
+        "s-cn": [
+          "谢谢你，这位好心……小姐？"
+        ],
+        "t-cn": [
+          "謝謝你，這位好心……小姐？"
         ]
       },
       "silentCues": [],

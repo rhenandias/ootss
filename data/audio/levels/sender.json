@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -28,6 +37,54 @@
               "into a suspicious position, where you can teleport it directly onto the button --",
               "which is not part of the solution."
             ],
+            "de": [
+              "Hier geht es darum, ein Monster verschwinden zu lassen, indem man es ins Unendliche teleportiert, und zwar in vertikaler Richtung.",
+              "Das ist eine hübsche Idee, für den Aufbau braucht es aber ein paar Kunstgriffe.",
+              "Dieser erste Versuch ist anfangs etwas schwer zu durchschauen,",
+              "und er führt einen etwas in die Irre, weil der Goblin",
+              "an einer verdächtig auffälligen Stelle steht, von der aus man ihn direkt auf den Schalter teleportieren kann –",
+              "was gar nicht zur Lösung gehört."
+            ],
+            "es": [
+              "Esta va de hacer desaparecer a un Monstruo teletransportándolo al infinito, en vertical.",
+              "Una idea muy ingeniosa, pero que requiere cierta artificiosidad para montarla.",
+              "Este primer intento es un poco difícil de leer al principio,",
+              "y resulta algo engañoso porque coloca al goblin",
+              "en una posición sospechosa, de modo que puedes teletransportarlo directamente al botón...",
+              "lo cual no forma parte de la solución."
+            ],
+            "fr": [
+              "Celui-ci consiste à faire disparaître un monstre en le téléportant à l'infini, dans la direction verticale.",
+              "Ce qui est une idée intéressante, mais qui demande un peu d'artifice pour être mise en place.",
+              "Cette première tentative est un peu difficile à lire au premier abord,",
+              "et elle est quelque peu trompeuse parce qu'elle place le gobelin",
+              "dans une position suspecte, où vous pouvez le téléporter directement sur le bouton –",
+              "ce qui ne fait pas partie de la solution."
+            ],
+            "it": [
+              "Questo riguarda far sparire un mostro teletrasportandolo all'infinito in verticale.",
+              "Che è una bella idea, ma richiede un po' di artificio per essere preparata.",
+              "Questo primo tentativo inizialmente è un po' difficile da leggere,",
+              "ed è in parte fuorviante perché colloca il goblin",
+              "in una posizione sospetta, dove puoi teletrasportarlo direttamente sul pulsante...",
+              "cosa che non fa parte della soluzione."
+            ],
+            "ja": [
+              "これは、怪物を垂直方向に無限の彼方へ 転送することで消滅させるというものだ。",
+              "なかなかいいアイデアだが、 準備に少し工夫がいる。",
+              "この最初の試みは、 最初は少し読み解きにくく、",
+              "モンスターをボタン上に転送して、 再び戻せる場所に配置しているから",
+              "少し誤解を招く可能性がある。",
+              "…これでは解決策とは呼べない。"
+            ],
+            "ko": [
+              "이건 텔레포트를 사용해 괴물을 수직으로 무한히 멀리 보내 소멸시키는 퍼즐이야.",
+              "멋진 아이디어지만 설정하려면 약간 억지스러운 장치가 필요해.",
+              "첫 시도는 처음엔 조금 이해하기 어렵고",
+              "다소 오해를 불러일으킬 수 있지. 왜냐하면 고블린이",
+              "바로 버튼 위로 텔레포트시킬 수 있는 뭔가 의도가 있어 보이는 위치에 있거든.",
+              "하지만 그건 해결법의 일부가 아니지."
+            ],
             "pt-br": [
               "Nesta aqui, é preciso fazer um Monstro desaparecer, teletransportando-o para o infinito, na direção vertical.",
               "O que é uma ideia legal, mas exige uma certa artificialidade para montar.",
@@ -35,6 +92,30 @@
               "e é meio enganosa porque coloca o Goblin",
               "numa posição suspeita, onde você pode teletransportá-lo direto para o botão,",
               "o que não faz parte da solução."
+            ],
+            "ru": [
+              "Это уровень про устранение монстра путём телепортации его в бесконечность, в вертикальном направлении.",
+              "Идея классная, но для её реализации нужно немного выдумки.",
+              "Эту первую попытку сначала немного трудно прочитать,",
+              "и она в некотором смысле вводит в заблуждение, потому что помещает гоблина",
+              "в подозрительную позицию, где его можно телепортировать прямо на кнопку —",
+              "что не входит в решение."
+            ],
+            "s-cn": [
+              "这一关的构思，是沿垂直方向把怪物传送到无穷远处，让它消失。",
+              "这个构想很巧妙，不过要把它做成关卡，就难免得刻意安排一番。",
+              "第一次尝试的版本乍看上去有些难懂，",
+              "而且还容易误导玩家，问题就出在哥布林的位置上：",
+              "这个位置很容易让人多想，因为你能把它直接传送到按钮上……",
+              "可这并不是解法的一部分。"
+            ],
+            "t-cn": [
+              "這一關的構思，是沿垂直方向把怪物傳送到無窮遠處，讓它消失。",
+              "這個構想很巧妙，不過要把它做成關卡， 就難免得刻意安排一番。",
+              "第一次嘗試的版本乍看上去有些難懂，",
+              "而且還容易誤導玩家，問題就出在哥布林的位置上：",
+              "這個位置很容易讓人多想，因為你能把它直接傳送到按鈕上……",
+              "可這並不是解法的一部分。"
             ]
           },
           "provenance": {
@@ -64,6 +145,54 @@
           "into a suspicious position, where you can teleport it directly onto the button --",
           "which is not part of the solution."
         ],
+        "de": [
+          "Hier geht es darum, ein Monster verschwinden zu lassen, indem man es ins Unendliche teleportiert, und zwar in vertikaler Richtung.",
+          "Das ist eine hübsche Idee, für den Aufbau braucht es aber ein paar Kunstgriffe.",
+          "Dieser erste Versuch ist anfangs etwas schwer zu durchschauen,",
+          "und er führt einen etwas in die Irre, weil der Goblin",
+          "an einer verdächtig auffälligen Stelle steht, von der aus man ihn direkt auf den Schalter teleportieren kann –",
+          "was gar nicht zur Lösung gehört."
+        ],
+        "es": [
+          "Esta va de hacer desaparecer a un Monstruo teletransportándolo al infinito, en vertical.",
+          "Una idea muy ingeniosa, pero que requiere cierta artificiosidad para montarla.",
+          "Este primer intento es un poco difícil de leer al principio,",
+          "y resulta algo engañoso porque coloca al goblin",
+          "en una posición sospechosa, de modo que puedes teletransportarlo directamente al botón...",
+          "lo cual no forma parte de la solución."
+        ],
+        "fr": [
+          "Celui-ci consiste à faire disparaître un monstre en le téléportant à l'infini, dans la direction verticale.",
+          "Ce qui est une idée intéressante, mais qui demande un peu d'artifice pour être mise en place.",
+          "Cette première tentative est un peu difficile à lire au premier abord,",
+          "et elle est quelque peu trompeuse parce qu'elle place le gobelin",
+          "dans une position suspecte, où vous pouvez le téléporter directement sur le bouton –",
+          "ce qui ne fait pas partie de la solution."
+        ],
+        "it": [
+          "Questo riguarda far sparire un mostro teletrasportandolo all'infinito in verticale.",
+          "Che è una bella idea, ma richiede un po' di artificio per essere preparata.",
+          "Questo primo tentativo inizialmente è un po' difficile da leggere,",
+          "ed è in parte fuorviante perché colloca il goblin",
+          "in una posizione sospetta, dove puoi teletrasportarlo direttamente sul pulsante...",
+          "cosa che non fa parte della soluzione."
+        ],
+        "ja": [
+          "これは、怪物を垂直方向に無限の彼方へ 転送することで消滅させるというものだ。",
+          "なかなかいいアイデアだが、 準備に少し工夫がいる。",
+          "この最初の試みは、 最初は少し読み解きにくく、",
+          "モンスターをボタン上に転送して、 再び戻せる場所に配置しているから",
+          "少し誤解を招く可能性がある。",
+          "…これでは解決策とは呼べない。"
+        ],
+        "ko": [
+          "이건 텔레포트를 사용해 괴물을 수직으로 무한히 멀리 보내 소멸시키는 퍼즐이야.",
+          "멋진 아이디어지만 설정하려면 약간 억지스러운 장치가 필요해.",
+          "첫 시도는 처음엔 조금 이해하기 어렵고",
+          "다소 오해를 불러일으킬 수 있지. 왜냐하면 고블린이",
+          "바로 버튼 위로 텔레포트시킬 수 있는 뭔가 의도가 있어 보이는 위치에 있거든.",
+          "하지만 그건 해결법의 일부가 아니지."
+        ],
         "pt-br": [
           "Nesta aqui, é preciso fazer um Monstro desaparecer, teletransportando-o para o infinito, na direção vertical.",
           "O que é uma ideia legal, mas exige uma certa artificialidade para montar.",
@@ -71,6 +200,30 @@
           "e é meio enganosa porque coloca o Goblin",
           "numa posição suspeita, onde você pode teletransportá-lo direto para o botão,",
           "o que não faz parte da solução."
+        ],
+        "ru": [
+          "Это уровень про устранение монстра путём телепортации его в бесконечность, в вертикальном направлении.",
+          "Идея классная, но для её реализации нужно немного выдумки.",
+          "Эту первую попытку сначала немного трудно прочитать,",
+          "и она в некотором смысле вводит в заблуждение, потому что помещает гоблина",
+          "в подозрительную позицию, где его можно телепортировать прямо на кнопку —",
+          "что не входит в решение."
+        ],
+        "s-cn": [
+          "这一关的构思，是沿垂直方向把怪物传送到无穷远处，让它消失。",
+          "这个构想很巧妙，不过要把它做成关卡，就难免得刻意安排一番。",
+          "第一次尝试的版本乍看上去有些难懂，",
+          "而且还容易误导玩家，问题就出在哥布林的位置上：",
+          "这个位置很容易让人多想，因为你能把它直接传送到按钮上……",
+          "可这并不是解法的一部分。"
+        ],
+        "t-cn": [
+          "這一關的構思，是沿垂直方向把怪物傳送到無窮遠處，讓它消失。",
+          "這個構想很巧妙，不過要把它做成關卡， 就難免得刻意安排一番。",
+          "第一次嘗試的版本乍看上去有些難懂，",
+          "而且還容易誤導玩家，問題就出在哥布林的位置上：",
+          "這個位置很容易讓人多想，因為你能把它直接傳送到按鈕上……",
+          "可這並不是解法的一部分。"
         ]
       },
       "silentCues": [],

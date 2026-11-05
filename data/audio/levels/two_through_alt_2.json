@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "I know Valens cares most about capturing the Magistrate, and the King pretends to care as well,",
               "but this could mean more for all of us than any of that political nonsense."
             ],
+            "de": [
+              "Ich weiß, für Valens ist es am wichtigsten, den Magistrat festzunehmen, und der König gibt vor, ihm gehe es genauso,",
+              "doch dies könnte für uns alle bedeutsamer sein als dieser ganze politische Unsinn."
+            ],
+            "es": [
+              "Sé que a Valens le importa más capturar al magistrado, y el rey finge que también le importa,",
+              "pero esto podría significar mucho más para todos nosotros que toda esta palabrería política."
+            ],
+            "fr": [
+              "Je sais que Valens tient surtout à capturer le magistrat, et que le roi prétend y tenir,",
+              "mais ça pourrait compter davantage pour nous tous que cette absurdité politique."
+            ],
+            "it": [
+              "So che a Valens importa soprattutto catturare il magistrato, e il Re finge che anche a lui importi,",
+              "ma questo potrebbe significare di più per tutti noi di qualsiasi di queste sciocchezze politiche."
+            ],
+            "ja": [
+              "ヴァレンスは何より 判事を捕らえたがっておる。 王もそういうフリをしとるが、",
+              "じゃがこれはワシらにとって、 こんな政治ごとより、 重要な意味があるかもしれん。"
+            ],
+            "ko": [
+              "발렌스는 치안판사를 잡는 걸 가장 중요하게 여기고, 국왕도 그런 척한다는 거 알지만",
+              "이건 그런 정치적 헛소리보다 우리 모두에게 더 중요한 일이 될 수 있어."
+            ],
             "pt-br": [
               "Eu sei que Valens se importa mais com capturar o Magistrado, e o Rei finge que também se importa,",
               "mas isso pode significar mais para todos nós do que toda essa bobagem política."
+            ],
+            "ru": [
+              "Я знаю, Валенс больше всего хочет поймать Магистрата, а король делает вид, что хочет,",
+              "но это может значить для всех нас больше, чем весь этот политический вздор."
+            ],
+            "s-cn": [
+              "我知道，瓦伦斯一心想抓住执政官，国王也装得好像很上心，",
+              "但这项发现对我们所有人的意义，或许远胜于那些政治闹剧。"
+            ],
+            "t-cn": [
+              "我知道，瓦倫斯一心想抓住執政官， 國王也裝得好像很上心，",
+              "但這項發現對我們所有人的意義， 或許遠勝於那些政治鬧劇。"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "I know Valens cares most about capturing the Magistrate, and the King pretends to care as well,",
           "but this could mean more for all of us than any of that political nonsense."
         ],
+        "de": [
+          "Ich weiß, für Valens ist es am wichtigsten, den Magistrat festzunehmen, und der König gibt vor, ihm gehe es genauso,",
+          "doch dies könnte für uns alle bedeutsamer sein als dieser ganze politische Unsinn."
+        ],
+        "es": [
+          "Sé que a Valens le importa más capturar al magistrado, y el rey finge que también le importa,",
+          "pero esto podría significar mucho más para todos nosotros que toda esta palabrería política."
+        ],
+        "fr": [
+          "Je sais que Valens tient surtout à capturer le magistrat, et que le roi prétend y tenir,",
+          "mais ça pourrait compter davantage pour nous tous que cette absurdité politique."
+        ],
+        "it": [
+          "So che a Valens importa soprattutto catturare il magistrato, e il Re finge che anche a lui importi,",
+          "ma questo potrebbe significare di più per tutti noi di qualsiasi di queste sciocchezze politiche."
+        ],
+        "ja": [
+          "ヴァレンスは何より 判事を捕らえたがっておる。 王もそういうフリをしとるが、",
+          "じゃがこれはワシらにとって、 こんな政治ごとより、 重要な意味があるかもしれん。"
+        ],
+        "ko": [
+          "발렌스는 치안판사를 잡는 걸 가장 중요하게 여기고, 국왕도 그런 척한다는 거 알지만",
+          "이건 그런 정치적 헛소리보다 우리 모두에게 더 중요한 일이 될 수 있어."
+        ],
         "pt-br": [
           "Eu sei que Valens se importa mais com capturar o Magistrado, e o Rei finge que também se importa,",
           "mas isso pode significar mais para todos nós do que toda essa bobagem política."
+        ],
+        "ru": [
+          "Я знаю, Валенс больше всего хочет поймать Магистрата, а король делает вид, что хочет,",
+          "но это может значить для всех нас больше, чем весь этот политический вздор."
+        ],
+        "s-cn": [
+          "我知道，瓦伦斯一心想抓住执政官，国王也装得好像很上心，",
+          "但这项发现对我们所有人的意义，或许远胜于那些政治闹剧。"
+        ],
+        "t-cn": [
+          "我知道，瓦倫斯一心想抓住執政官， 國王也裝得好像很上心，",
+          "但這項發現對我們所有人的意義， 或許遠勝於那些政治鬧劇。"
         ]
       },
       "silentCues": [],

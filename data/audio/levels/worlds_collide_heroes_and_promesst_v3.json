@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Hello over there! Have you any idea about this ... red ... gate?"
             ],
+            "de": [
+              "Hallo da drüben! Weißt du vielleicht, was es mit diesem ... roten ... Tor auf sich hat?"
+            ],
+            "es": [
+              "¡Hola, hola! ¿Tienes idea de qué es este... portal... rojo?"
+            ],
+            "fr": [
+              "Hé, vous là-bas ! Vous savez ce que c'est, cette... porte... rouge ?"
+            ],
+            "it": [
+              "Ehilà! Hai qualche idea su questo... portale... rosso?"
+            ],
+            "ja": [
+              "そこの人！ この…赤い門について 何か知らないか？"
+            ],
+            "ko": [
+              "저기! 이... 빨간... 관문에 대해 아는 게 있어?"
+            ],
             "pt-br": [
               "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?"
+            ],
+            "ru": [
+              "Эй, там! У вас есть хоть какие-то мысли насчет этих... красных... ворот?"
+            ],
+            "s-cn": [
+              "那边的朋友！你知道这道……红色的……门是怎么回事吗？"
+            ],
+            "t-cn": [
+              "那邊的朋友！你知道這道…… 紅色的……門是怎麼回事嗎？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "It reminds me of something I know, but, it's also different..."
             ],
+            "de": [
+              "Es erinnert mich an etwas, das ich kenne, aber es ist auch anders ..."
+            ],
+            "es": [
+              "Me recuerda a algo que conozco, pero también es distinto de alguna forma..."
+            ],
+            "fr": [
+              "Ça me rappelle certaines choses que je connais, mais c'est aussi différent..."
+            ],
+            "it": [
+              "Mi ricorda qualcosa che conosco, ma è anche diverso..."
+            ],
+            "ja": [
+              "見覚えのあるものに似てるが、 どこか違う…"
+            ],
+            "ko": [
+              "익숙한 게 떠오르긴 하는데... 또 다르기도 해서..."
+            ],
             "pt-br": [
               "Ele me lembra algo que me é familiar, mas também é diferente..."
+            ],
+            "ru": [
+              "Это напоминает мне кое-что знакомое, но при этом отличается..."
+            ],
+            "s-cn": [
+              "它让我想起一些熟悉的东西，但又不太一样……"
+            ],
+            "t-cn": [
+              "它讓我想起一些熟悉的東西，但又不太一樣……"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
             ],
+            "de": [
+              "Tut mir leid, wenn ich lästig falle. Aber ich fürchte, mit meinen Mitteln schaffe ich das nicht, nicht allein ..."
+            ],
+            "es": [
+              "Siento molestar. Pero dudo que tenga las herramientas para encargarme de esto, al menos no a solas..."
+            ],
+            "fr": [
+              "Désolé de vous importuner, mais je doute d'avoir les outils pour gérer ça. Pas tout seul..."
+            ],
+            "it": [
+              "Scusa il disturbo. Ma dubito di avere gli strumenti per gestire questa cosa, non da solo..."
+            ],
+            "ja": [
+              "邪魔して悪い。 だが俺の道具だけじゃ どうにもできそうにない。"
+            ],
+            "ko": [
+              "귀찮게 해서 미안. 하지만 이걸 처리할 방법이 없는 것 같아... 나 혼자서는..."
+            ],
             "pt-br": [
               "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+            ],
+            "ru": [
+              "Простите, что докучаю. Но, боюсь, у меня нет инструментов, чтобы с этим справиться, не в одиночку..."
+            ],
+            "s-cn": [
+              "抱歉给你添麻烦了。可光靠我手头的工具，恐怕对付不了…… 至少我一个人不行。"
+            ],
+            "t-cn": [
+              "抱歉給你添麻煩了。 可光靠我手頭的工具，恐怕對付不了……至少我一個人不行。"
             ]
           },
           "provenance": {
@@ -92,12 +182,75 @@
           "...",
           "Sorry to be a nuisance. But I doubt I have the tools to deal with this, not alone..."
         ],
+        "de": [
+          "Hallo da drüben! Weißt du vielleicht, was es mit diesem ... roten ... Tor auf sich hat?",
+          "...",
+          "Es erinnert mich an etwas, das ich kenne, aber es ist auch anders ...",
+          "...",
+          "Tut mir leid, wenn ich lästig falle. Aber ich fürchte, mit meinen Mitteln schaffe ich das nicht, nicht allein ..."
+        ],
+        "es": [
+          "¡Hola, hola! ¿Tienes idea de qué es este... portal... rojo?",
+          "...",
+          "Me recuerda a algo que conozco, pero también es distinto de alguna forma...",
+          "...",
+          "Siento molestar. Pero dudo que tenga las herramientas para encargarme de esto, al menos no a solas..."
+        ],
+        "fr": [
+          "Hé, vous là-bas ! Vous savez ce que c'est, cette... porte... rouge ?",
+          "...",
+          "Ça me rappelle certaines choses que je connais, mais c'est aussi différent...",
+          "...",
+          "Désolé de vous importuner, mais je doute d'avoir les outils pour gérer ça. Pas tout seul..."
+        ],
+        "it": [
+          "Ehilà! Hai qualche idea su questo... portale... rosso?",
+          "...",
+          "Mi ricorda qualcosa che conosco, ma è anche diverso...",
+          "...",
+          "Scusa il disturbo. Ma dubito di avere gli strumenti per gestire questa cosa, non da solo..."
+        ],
+        "ja": [
+          "そこの人！ この…赤い門について 何か知らないか？",
+          "…",
+          "見覚えのあるものに似てるが、 どこか違う…",
+          "…",
+          "邪魔して悪い。 だが俺の道具だけじゃ どうにもできそうにない。"
+        ],
+        "ko": [
+          "저기! 이... 빨간... 관문에 대해 아는 게 있어?",
+          "...",
+          "익숙한 게 떠오르긴 하는데... 또 다르기도 해서...",
+          "...",
+          "귀찮게 해서 미안. 하지만 이걸 처리할 방법이 없는 것 같아... 나 혼자서는..."
+        ],
         "pt-br": [
           "Olá, olá! Você tem alguma ideia sobre esse... portal... vermelho?",
           "...",
           "Ele me lembra algo que me é familiar, mas também é diferente...",
           "...",
           "Desculpe incomodar. Mas duvido que eu tenha as ferramentas para lidar com isso, não a sós..."
+        ],
+        "ru": [
+          "Эй, там! У вас есть хоть какие-то мысли насчет этих... красных... ворот?",
+          "...",
+          "Это напоминает мне кое-что знакомое, но при этом отличается...",
+          "...",
+          "Простите, что докучаю. Но, боюсь, у меня нет инструментов, чтобы с этим справиться, не в одиночку..."
+        ],
+        "s-cn": [
+          "那边的朋友！你知道这道……红色的……门是怎么回事吗？",
+          "……",
+          "它让我想起一些熟悉的东西，但又不太一样……",
+          "……",
+          "抱歉给你添麻烦了。可光靠我手头的工具，恐怕对付不了…… 至少我一个人不行。"
+        ],
+        "t-cn": [
+          "那邊的朋友！你知道這道…… 紅色的……門是怎麼回事嗎？",
+          "……",
+          "它讓我想起一些熟悉的東西，但又不太一樣……",
+          "……",
+          "抱歉給你添麻煩了。 可光靠我手頭的工具，恐怕對付不了……至少我一個人不行。"
         ]
       },
       "silentCues": [
@@ -157,8 +310,35 @@
             "en": [
               "God, I hope I see her again."
             ],
+            "de": [
+              "Gott, hoffentlich sehe ich sie wieder."
+            ],
+            "es": [
+              "Dios, ojalá la vuelva a ver."
+            ],
+            "fr": [
+              "Mon Dieu, j'espère la revoir un jour."
+            ],
+            "it": [
+              "Dannazione, spero di rivederla."
+            ],
+            "ja": [
+              "また会えるといいな。"
+            ],
+            "ko": [
+              "신이시여, 다시 그녀를 볼 수 있다면 좋겠어."
+            ],
             "pt-br": [
               "Meu Deus, espero vê-la de novo."
+            ],
+            "ru": [
+              "Боже, надеюсь, я её ещё увижу."
+            ],
+            "s-cn": [
+              "天啊，真希望还能再见到她。"
+            ],
+            "t-cn": [
+              "天啊，真希望還能再見到她。"
             ]
           },
           "provenance": {
@@ -178,8 +358,35 @@
         "en": [
           "God, I hope I see her again."
         ],
+        "de": [
+          "Gott, hoffentlich sehe ich sie wieder."
+        ],
+        "es": [
+          "Dios, ojalá la vuelva a ver."
+        ],
+        "fr": [
+          "Mon Dieu, j'espère la revoir un jour."
+        ],
+        "it": [
+          "Dannazione, spero di rivederla."
+        ],
+        "ja": [
+          "また会えるといいな。"
+        ],
+        "ko": [
+          "신이시여, 다시 그녀를 볼 수 있다면 좋겠어."
+        ],
         "pt-br": [
           "Meu Deus, espero vê-la de novo."
+        ],
+        "ru": [
+          "Боже, надеюсь, я её ещё увижу."
+        ],
+        "s-cn": [
+          "天啊，真希望还能再见到她。"
+        ],
+        "t-cn": [
+          "天啊，真希望還能再見到她。"
         ]
       },
       "silentCues": [],
@@ -218,8 +425,35 @@
             "en": [
               "Amazing!"
             ],
+            "de": [
+              "Unglaublich!"
+            ],
+            "es": [
+              "¡Impresionante!"
+            ],
+            "fr": [
+              "Incroyable !"
+            ],
+            "it": [
+              "Incredibile!"
+            ],
+            "ja": [
+              "すごい！"
+            ],
+            "ko": [
+              "놀라워!"
+            ],
             "pt-br": [
               "Incrível!"
+            ],
+            "ru": [
+              "Потрясающе!"
+            ],
+            "s-cn": [
+              "太神奇了！"
+            ],
+            "t-cn": [
+              "太神奇了！"
             ]
           },
           "provenance": {
@@ -239,8 +473,35 @@
         "en": [
           "Amazing!"
         ],
+        "de": [
+          "Unglaublich!"
+        ],
+        "es": [
+          "¡Impresionante!"
+        ],
+        "fr": [
+          "Incroyable !"
+        ],
+        "it": [
+          "Incredibile!"
+        ],
+        "ja": [
+          "すごい！"
+        ],
+        "ko": [
+          "놀라워!"
+        ],
         "pt-br": [
           "Incrível!"
+        ],
+        "ru": [
+          "Потрясающе!"
+        ],
+        "s-cn": [
+          "太神奇了！"
+        ],
+        "t-cn": [
+          "太神奇了！"
         ]
       },
       "silentCues": [],
@@ -296,6 +557,126 @@
               "This isn't the worst exploit, since it's still the same basic idea,",
               "but we wanted this level to require more use of the Strength Beam. So we fixed that in the next version..."
             ],
+            "de": [
+              "Wir haben das Level weiter überarbeitet.",
+              "Hier haben wir die Felsen auf der Seite des Strahlenwerfers entfernt,",
+              "weil sie keine interessante Funktion hatten, außer dass man einen davon durch die Wand zwischen den Welten versetzt hat ...",
+              "Um diesen Zweck zu erfüllen, haben wir stattdessen einen zweiten Edelstein platziert.",
+              "Dass es zwei Edelsteine gibt, aber nur eine Fassung,",
+              "sollte sofort die Frage aufwerfen, wofür der zweite Edelstein gedacht ist.",
+              "Statt 5 Monstern haben wir die Zahl auf 3 reduziert,",
+              "also ist die Aufgabe klar: alle drei zusammenzubringen.",
+              "Das Versetzen ist jetzt sogar noch interessanter, weil man die Priesterin selbst",
+              "als zusätzliche Masse einsetzen muss, um den Goblin durch die Wand zu bewegen.",
+              "Leider gibt es aber ein Problem mit diesem kleinen Goblinraum.",
+              "Die vorgesehene Lösung besteht darin, ihn durch die Wand zu versetzen,",
+              "(nachdem man die anderen Goblins nach Norden geschoben hat, damit sie aus dem Weg sind)",
+              "und ihn dann nach Süden, 1 Feld nach Osten und nach Norden zu bewegen, sodass die 3 Goblins nebeneinanderstehen.",
+              "Aber es gibt noch eine andere Lösung: Man schiebt einfach die beiden äußeren Goblins ein Feld nach Süden,",
+              "dann versetzt man den dritten Goblin durch die Wand und bildet so eine drei Felder breite Gruppe.",
+              "Das ist nicht der schlimmste Exploit, denn im Grunde ist es noch dieselbe Idee,",
+              "aber wir wollten bei diesem Level erreichen, dass man den Stärkestrahl häufiger einsetzen muss. Also haben wir das in der nächsten Version behoben ..."
+            ],
+            "es": [
+              "Seguimos revisándolo.",
+              "Aquí nos deshicimos de las rocas del lado del proyector de haces,",
+              "ya que no servían para nada interesante, salvo que desplazarías a uno de ellos a través de la pared entre los mundos...",
+              "a tal fin, hemos colocado en su lugar una segunda gema.",
+              "El hecho de que haya dos gemas y solo una ranura",
+              "debería plantear de inmediato preguntas sobre para qué sirve la segunda gema.",
+              "En vez de 5 monstruos, lo redujimos a 3,",
+              "y el desafío es claramente poner a los 3 juntos.",
+              "El desplazamiento resulta aún más interesante ahora, ya que tienes que usar a la propia Sacerdotisa",
+              "como masa adicional para hacer al goblin atravesar la pared.",
+              "Por desgracia, sin embargo, hay un problema con esta pequeña sala del goblin.",
+              "La solución prevista es desplazarlo a través de la pared,",
+              "(después de haber movido a los otros goblins hacia el norte para apartarlos),",
+              "luego al sur, al este 1 casilla, y al norte, para formar un grupo de goblins de 3 de ancho.",
+              "Pero hay otra solución, en la que simplemente empujas a los dos goblins de los extremos al sur una casilla,",
+              "luego alcanzas al tercero con un haz a través de la pared para formar un grupo de 3 de ancho.",
+              "Este no es el peor exploit, ya que sigue siendo la misma idea básica,",
+              "pero queríamos que este nivel requiriese un uso mayor del haz de fuerza. Así que lo arreglamos en la siguiente versión..."
+            ],
+            "fr": [
+              "On a continué à réviser.",
+              "Ici, on a supprimé les rochers du côté du projecteur,",
+              "puisqu'ils ne servaient à rien d'intéressant, si ce n'est que vous déplaceriez l'un d'eux à travers le mur entre les mondes –",
+              "pour cet usage, on a placé une deuxième gemme à la place.",
+              "Le fait qu'il y ait deux gemmes et un seul emplacement",
+              "devrait immédiatement soulever des questions sur l'utilité de la deuxième gemme.",
+              "Au lieu de 5 monstres, on est passé à 3,",
+              "et le défi consiste clairement à les réunir tous les 3.",
+              "Le déplacement devient encore plus intéressant, puisqu'il faut utiliser la Prêtresse elle-même",
+              "comme masse supplémentaire pour faire passer le gobelin à travers le mur.",
+              "Malheureusement, il y a un problème avec cette petite salle pleine de gobelins.",
+              "La solution prévue consiste à le déplacer à travers le mur,",
+              "(après avoir déplacé les autres gobelins au nord pour dégager le passage),",
+              "puis au sud, à l'est d'une case, puis au nord, pour former un groupe de 3 gobelins.",
+              "Mais il existe une autre solution, où il suffit de pousser les deux gobelins extérieurs d'une case vers le sud,",
+              "puis de téléporter le troisième à travers le mur pour former un groupe de 3.",
+              "Ce n'est pas le pire des abus, puisque l'idée de base reste la même,",
+              "mais on voulait que ce niveau fasse davantage appel au faisceau de force. On a donc corrigé ça dans la version suivante..."
+            ],
+            "it": [
+              "Abbiamo continuato a rivedere.",
+              "Qui abbiamo eliminato i massi sul lato del lanciaraggio,",
+              "dato che non servivano ad alcuno scopo interessante, se non che avresti spostato uno di loro attraverso il muro tra i mondi...",
+              "per quello scopo, abbiamo invece collocato una seconda gemma.",
+              "Il fatto che ci siano due gemme e solo una sede",
+              "dovrebbe far sorgere subito domande su a cosa serva la seconda gemma.",
+              "Invece di 5 mostri, li abbiamo ridotti a 3,",
+              "quindi la sfida è chiaramente metterli tutti e 3 insieme.",
+              "Lo spostamento è ancora più interessante ora, dato che devi usare la stessa sacerdotessa",
+              "come massa aggiuntiva per muovere il goblin attraverso il muro.",
+              "Purtroppo, però, c'è un problema con questa piccola stanza dei goblin.",
+              "La soluzione prevista è spostarlo attraverso il muro,",
+              "(dopo aver mosso gli altri goblin a nord fuori dai piedi),",
+              "poi a sud, 1 casella a est, e a nord, per creare un gruppo di goblin largo 3.",
+              "Ma c'è un'altra soluzione, in cui puoi semplicemente spingere i due goblin esterni a sud di una casella,",
+              "poi fulmini il terzo attraverso il muro per creare un gruppo largo 3.",
+              "Questo non è la peggiore delle scorciatoie, dato che idea di base è comunque la stessa,",
+              "ma volevamo che questo livello facesse più uso del raggio di forza. Quindi l'abbiamo sistemato nella versione successiva..."
+            ],
+            "ja": [
+              "引き続き、何度も改訂を重ねた。",
+              "ここではビーム放射器側の岩をなくした。",
+              "岩を使ってやることが、世界間の 壁を通して1個をずらすこと以外、 あまり面白くなかったからだ。",
+              "そのために、今度は代わりに 2つ目の宝石を置いた。",
+              "宝石が2つあるのに、 受け口が1つしかない。",
+              "これなら、2つ目の宝石を何に使うのか、 すぐに気になるはずだ。",
+              "モンスターも5体から3体に減らした。",
+              "そして、3体全部をひとまとめに することが、明確な目的になっている。",
+              "置き換えもさらに面白くなった。 今度は女司祭も追加の重りとして使い、",
+              "ゴブリンを壁越しに 移動させなければならない。",
+              "ただ、残念ながら、 この小さなゴブリン部屋には問題がある。",
+              "意図した解法は、他のゴブリンが 邪魔にならないよう北へ動かしてから",
+              "ゴブリンを壁越しに移動させること。",
+              "そのあと南へ動かし、東へ1マス、 そして北へ動かせば、横幅3マスの ゴブリンのグループができる。",
+              "でも別の解法もある。もう2体のゴブリンを 南へ1マス押すだけでいい。",
+              "そうすれば、ゴブリンを直接壁の向こうへ 転送し、3体のグループを作れてしまう。",
+              "これは最悪の抜け道というわけじゃない。 基本的なアイデア自体は同じだからだ。",
+              "でも、このレベルではストロングビームを もっと活用してほしいので、 次のバージョンで修正を入れた。"
+            ],
+            "ko": [
+              "우린 계속해서 수정했어.",
+              "여기서는 빔캐스터 쪽의 바위를 제거했지.",
+              "그중 하나를 두 세계 사이의 벽 너머로 옮긴다는 점을 빼면, 딱히 흥미로운 역할이 없었거든.",
+              "그 목적을 위해, 대신 두 번째 보석을 배치했어.",
+              "보석은 두 개인데 소켓은 하나뿐이라는 사실은",
+              "두 번째 보석이 무슨 용도인지 곧바로 의문을 품게 하지.",
+              "괴물도 5마리 대신 3마리로 줄였고,",
+              "그래서 3마리를 모두 한데 모아야 한다는 목표가 명확해졌지.",
+              "변위 과정도 흥미로워졌어. 이제는 사제 자신을 사용해",
+              "고블린을 벽 너머로 옮겨야 하니까.",
+              "하지만 안타깝게도 이 작은 고블린 방에는 문제가 있어.",
+              "의도된 해결법은 고블린을 벽 너머로 변위시키는 거야.",
+              "(다른 고블린들을 북쪽으로 옮겨 길을 비워 두고.)",
+              "남쪽, 동쪽으로 1칸, 다시 북쪽으로 옮겨 고블린 3마리를 가로로 나란히 모으는 거야.",
+              "다른 해결법도 있어. 바깥쪽 두 고블린을 한 칸 남쪽으로 밀어",
+              "그런 다음 세 번째 고블린에게 광선을 쏴 벽 너머로 보내서 가로로 3칸짜리 무리를 만드는 거야.",
+              "기본 아이디어는 같으니 최악의 허점은 아니지만",
+              "이 레벨에서는 강화 빔이 더 많이 쓰이길 바랐어. 그래서 다음 버전에서 이 문제를 고쳤지..."
+            ],
             "pt-br": [
               "Continuamos revisando.",
               "Aqui, nos livramos das Rochas no lado do Lança-feixes,",
@@ -315,6 +696,66 @@
               "depois teletransporta o terceiro cara pela parede para formar um grupo de 3 de largura.",
               "Isso não é o pior ponto vulnerável, já que ainda é a mesma ideia básica,",
               "mas queríamos que esta fase exigisse mais uso do Feixe de Força. Então corrigimos isso na versão seguinte..."
+            ],
+            "ru": [
+              "Мы продолжили переработку.",
+              "Здесь мы убрали валуны со стороны лучемета,",
+              "поскольку они не служили никакой интересной цели, кроме того, что вы сдвигали один из них сквозь стену между мирами;",
+              "для этой цели, мы вместо него разместили второй самоцвет.",
+              "Сам факт, что есть два самоцвета и только одна ячейка,",
+              "должен сразу навести на мысль о том, для чего нужен второй самоцвет.",
+              "Вместо 5 монстров мы оставили 3,",
+              "так что задача явно состоит в том, чтобы собрать всех трёх вместе.",
+              "Смещение стало ещё интереснее, потому что теперь нужно использовать саму Жрицу",
+              "как дополнительную массу, чтобы протолкнуть гоблина сквозь стену.",
+              "Однако, к сожалению, тут есть проблема с этой маленькой комнатой гоблина.",
+              "Задуманное решение — сместить его через стену,",
+              "(после того как отодвинете остальных гоблинов на север, чтобы не мешали),",
+              "затем на юг, на восток на 1 клетку и на север, чтобы выстроить гоблинов в группу шириной 3 гоблина.",
+              "Но есть и другое решение: просто толкнуть двух крайних гоблинов на юг на одну клетку,",
+              "а потом телепортировать третьего гоблина сквозь стену, чтобы получилась группа шириной в 3 клетки.",
+              "Это не самая худшая лазейка, ведь по сути идея всё та же,",
+              "но мы хотели, чтобы на этом уровне больше использовался луч силы. Так что в следующей версии мы это исправили..."
+            ],
+            "s-cn": [
+              "我们继续修改。",
+              "这一版删掉了光束发射器一侧的石头，",
+              "因为除了把其中一块穿过世界之间的墙壁移到另一侧， 它们的用法都没什么意思……",
+              "为了保留这个用途，我们改放了第二颗宝石。",
+              "关卡里有两颗宝石，却只有一个插槽，",
+              "应该会让玩家立刻产生疑问：第二颗宝石是做什么的？",
+              "怪物则从五只减到了三只，",
+              "目标也很明确：把三只全部凑到一起。",
+              "位移机制现在更加有趣，因为你必须把女祭司本人也算作额外的质量，",
+              "才能把哥布林位移到墙的另一边。",
+              "但很遗憾，这个小小的哥布林房间有个问题。",
+              "预期解法是把哥布林位移到墙的另一边，",
+              "（得先把其他哥布林向北移开，腾出地方。）",
+              "再依次向南、向东一格、再向北移动，让三只哥布林横向排成一组。",
+              "但还有另一种解法：只需把外侧的两只哥布林向南推一格，",
+              "再把第三只传送到墙的另一边，凑成横向并排的三只。",
+              "这个取巧方式倒不算太糟，因为核心思路仍然相同，",
+              "但我们希望玩家能更多地运用力量光束。 所以下一版修正了这个问题……"
+            ],
+            "t-cn": [
+              "我們繼續修改。",
+              "這一版刪掉了光束發射器一側的石頭，",
+              "因為除了把其中一塊穿過世界之間的牆壁移到另一側， 它們的用法都沒什麼意思……",
+              "為了保留這個用途，我們改放了第二顆寶石。",
+              "關卡裡有兩顆寶石，卻只有一個插槽，",
+              "應該會讓玩家立刻產生疑問： 第二顆寶石是做什麼的？",
+              "怪物則從五隻減到了三隻，",
+              "目標也很明確：把三隻全部湊到一起。",
+              "位移機制現在更加有趣， 因為你必須把女祭司本人也算作額外的質量，",
+              "才能把哥布林位移到牆的另一邊。",
+              "但很遺憾，這個小小的哥布林房間有個問題。",
+              "預期解法是把哥布林位移到牆的另一邊，",
+              "（得先把其他哥布林向北移開，騰出地方。）",
+              "再依次向南、向東一格、再向北移動， 讓三隻哥布林橫向排成一組。",
+              "但還有另一種解法： 只需把外側的兩隻哥布林向南推一格，",
+              "再把第三隻傳送到牆的另一邊，湊成橫向並排的三隻。",
+              "這個取巧方式倒不算太糟，因為核心思路仍然相同，",
+              "但我們希望玩家能更多地運用力量光束。 所以下一版修正了這個問題……"
             ]
           },
           "provenance": {
@@ -368,6 +809,126 @@
           "This isn't the worst exploit, since it's still the same basic idea,",
           "but we wanted this level to require more use of the Strength Beam. So we fixed that in the next version..."
         ],
+        "de": [
+          "Wir haben das Level weiter überarbeitet.",
+          "Hier haben wir die Felsen auf der Seite des Strahlenwerfers entfernt,",
+          "weil sie keine interessante Funktion hatten, außer dass man einen davon durch die Wand zwischen den Welten versetzt hat ...",
+          "Um diesen Zweck zu erfüllen, haben wir stattdessen einen zweiten Edelstein platziert.",
+          "Dass es zwei Edelsteine gibt, aber nur eine Fassung,",
+          "sollte sofort die Frage aufwerfen, wofür der zweite Edelstein gedacht ist.",
+          "Statt 5 Monstern haben wir die Zahl auf 3 reduziert,",
+          "also ist die Aufgabe klar: alle drei zusammenzubringen.",
+          "Das Versetzen ist jetzt sogar noch interessanter, weil man die Priesterin selbst",
+          "als zusätzliche Masse einsetzen muss, um den Goblin durch die Wand zu bewegen.",
+          "Leider gibt es aber ein Problem mit diesem kleinen Goblinraum.",
+          "Die vorgesehene Lösung besteht darin, ihn durch die Wand zu versetzen,",
+          "(nachdem man die anderen Goblins nach Norden geschoben hat, damit sie aus dem Weg sind)",
+          "und ihn dann nach Süden, 1 Feld nach Osten und nach Norden zu bewegen, sodass die 3 Goblins nebeneinanderstehen.",
+          "Aber es gibt noch eine andere Lösung: Man schiebt einfach die beiden äußeren Goblins ein Feld nach Süden,",
+          "dann versetzt man den dritten Goblin durch die Wand und bildet so eine drei Felder breite Gruppe.",
+          "Das ist nicht der schlimmste Exploit, denn im Grunde ist es noch dieselbe Idee,",
+          "aber wir wollten bei diesem Level erreichen, dass man den Stärkestrahl häufiger einsetzen muss. Also haben wir das in der nächsten Version behoben ..."
+        ],
+        "es": [
+          "Seguimos revisándolo.",
+          "Aquí nos deshicimos de las rocas del lado del proyector de haces,",
+          "ya que no servían para nada interesante, salvo que desplazarías a uno de ellos a través de la pared entre los mundos...",
+          "a tal fin, hemos colocado en su lugar una segunda gema.",
+          "El hecho de que haya dos gemas y solo una ranura",
+          "debería plantear de inmediato preguntas sobre para qué sirve la segunda gema.",
+          "En vez de 5 monstruos, lo redujimos a 3,",
+          "y el desafío es claramente poner a los 3 juntos.",
+          "El desplazamiento resulta aún más interesante ahora, ya que tienes que usar a la propia Sacerdotisa",
+          "como masa adicional para hacer al goblin atravesar la pared.",
+          "Por desgracia, sin embargo, hay un problema con esta pequeña sala del goblin.",
+          "La solución prevista es desplazarlo a través de la pared,",
+          "(después de haber movido a los otros goblins hacia el norte para apartarlos),",
+          "luego al sur, al este 1 casilla, y al norte, para formar un grupo de goblins de 3 de ancho.",
+          "Pero hay otra solución, en la que simplemente empujas a los dos goblins de los extremos al sur una casilla,",
+          "luego alcanzas al tercero con un haz a través de la pared para formar un grupo de 3 de ancho.",
+          "Este no es el peor exploit, ya que sigue siendo la misma idea básica,",
+          "pero queríamos que este nivel requiriese un uso mayor del haz de fuerza. Así que lo arreglamos en la siguiente versión..."
+        ],
+        "fr": [
+          "On a continué à réviser.",
+          "Ici, on a supprimé les rochers du côté du projecteur,",
+          "puisqu'ils ne servaient à rien d'intéressant, si ce n'est que vous déplaceriez l'un d'eux à travers le mur entre les mondes –",
+          "pour cet usage, on a placé une deuxième gemme à la place.",
+          "Le fait qu'il y ait deux gemmes et un seul emplacement",
+          "devrait immédiatement soulever des questions sur l'utilité de la deuxième gemme.",
+          "Au lieu de 5 monstres, on est passé à 3,",
+          "et le défi consiste clairement à les réunir tous les 3.",
+          "Le déplacement devient encore plus intéressant, puisqu'il faut utiliser la Prêtresse elle-même",
+          "comme masse supplémentaire pour faire passer le gobelin à travers le mur.",
+          "Malheureusement, il y a un problème avec cette petite salle pleine de gobelins.",
+          "La solution prévue consiste à le déplacer à travers le mur,",
+          "(après avoir déplacé les autres gobelins au nord pour dégager le passage),",
+          "puis au sud, à l'est d'une case, puis au nord, pour former un groupe de 3 gobelins.",
+          "Mais il existe une autre solution, où il suffit de pousser les deux gobelins extérieurs d'une case vers le sud,",
+          "puis de téléporter le troisième à travers le mur pour former un groupe de 3.",
+          "Ce n'est pas le pire des abus, puisque l'idée de base reste la même,",
+          "mais on voulait que ce niveau fasse davantage appel au faisceau de force. On a donc corrigé ça dans la version suivante..."
+        ],
+        "it": [
+          "Abbiamo continuato a rivedere.",
+          "Qui abbiamo eliminato i massi sul lato del lanciaraggio,",
+          "dato che non servivano ad alcuno scopo interessante, se non che avresti spostato uno di loro attraverso il muro tra i mondi...",
+          "per quello scopo, abbiamo invece collocato una seconda gemma.",
+          "Il fatto che ci siano due gemme e solo una sede",
+          "dovrebbe far sorgere subito domande su a cosa serva la seconda gemma.",
+          "Invece di 5 mostri, li abbiamo ridotti a 3,",
+          "quindi la sfida è chiaramente metterli tutti e 3 insieme.",
+          "Lo spostamento è ancora più interessante ora, dato che devi usare la stessa sacerdotessa",
+          "come massa aggiuntiva per muovere il goblin attraverso il muro.",
+          "Purtroppo, però, c'è un problema con questa piccola stanza dei goblin.",
+          "La soluzione prevista è spostarlo attraverso il muro,",
+          "(dopo aver mosso gli altri goblin a nord fuori dai piedi),",
+          "poi a sud, 1 casella a est, e a nord, per creare un gruppo di goblin largo 3.",
+          "Ma c'è un'altra soluzione, in cui puoi semplicemente spingere i due goblin esterni a sud di una casella,",
+          "poi fulmini il terzo attraverso il muro per creare un gruppo largo 3.",
+          "Questo non è la peggiore delle scorciatoie, dato che idea di base è comunque la stessa,",
+          "ma volevamo che questo livello facesse più uso del raggio di forza. Quindi l'abbiamo sistemato nella versione successiva..."
+        ],
+        "ja": [
+          "引き続き、何度も改訂を重ねた。",
+          "ここではビーム放射器側の岩をなくした。",
+          "岩を使ってやることが、世界間の 壁を通して1個をずらすこと以外、 あまり面白くなかったからだ。",
+          "そのために、今度は代わりに 2つ目の宝石を置いた。",
+          "宝石が2つあるのに、 受け口が1つしかない。",
+          "これなら、2つ目の宝石を何に使うのか、 すぐに気になるはずだ。",
+          "モンスターも5体から3体に減らした。",
+          "そして、3体全部をひとまとめに することが、明確な目的になっている。",
+          "置き換えもさらに面白くなった。 今度は女司祭も追加の重りとして使い、",
+          "ゴブリンを壁越しに 移動させなければならない。",
+          "ただ、残念ながら、 この小さなゴブリン部屋には問題がある。",
+          "意図した解法は、他のゴブリンが 邪魔にならないよう北へ動かしてから",
+          "ゴブリンを壁越しに移動させること。",
+          "そのあと南へ動かし、東へ1マス、 そして北へ動かせば、横幅3マスの ゴブリンのグループができる。",
+          "でも別の解法もある。もう2体のゴブリンを 南へ1マス押すだけでいい。",
+          "そうすれば、ゴブリンを直接壁の向こうへ 転送し、3体のグループを作れてしまう。",
+          "これは最悪の抜け道というわけじゃない。 基本的なアイデア自体は同じだからだ。",
+          "でも、このレベルではストロングビームを もっと活用してほしいので、 次のバージョンで修正を入れた。"
+        ],
+        "ko": [
+          "우린 계속해서 수정했어.",
+          "여기서는 빔캐스터 쪽의 바위를 제거했지.",
+          "그중 하나를 두 세계 사이의 벽 너머로 옮긴다는 점을 빼면, 딱히 흥미로운 역할이 없었거든.",
+          "그 목적을 위해, 대신 두 번째 보석을 배치했어.",
+          "보석은 두 개인데 소켓은 하나뿐이라는 사실은",
+          "두 번째 보석이 무슨 용도인지 곧바로 의문을 품게 하지.",
+          "괴물도 5마리 대신 3마리로 줄였고,",
+          "그래서 3마리를 모두 한데 모아야 한다는 목표가 명확해졌지.",
+          "변위 과정도 흥미로워졌어. 이제는 사제 자신을 사용해",
+          "고블린을 벽 너머로 옮겨야 하니까.",
+          "하지만 안타깝게도 이 작은 고블린 방에는 문제가 있어.",
+          "의도된 해결법은 고블린을 벽 너머로 변위시키는 거야.",
+          "(다른 고블린들을 북쪽으로 옮겨 길을 비워 두고.)",
+          "남쪽, 동쪽으로 1칸, 다시 북쪽으로 옮겨 고블린 3마리를 가로로 나란히 모으는 거야.",
+          "다른 해결법도 있어. 바깥쪽 두 고블린을 한 칸 남쪽으로 밀어",
+          "그런 다음 세 번째 고블린에게 광선을 쏴 벽 너머로 보내서 가로로 3칸짜리 무리를 만드는 거야.",
+          "기본 아이디어는 같으니 최악의 허점은 아니지만",
+          "이 레벨에서는 강화 빔이 더 많이 쓰이길 바랐어. 그래서 다음 버전에서 이 문제를 고쳤지..."
+        ],
         "pt-br": [
           "Continuamos revisando.",
           "Aqui, nos livramos das Rochas no lado do Lança-feixes,",
@@ -387,6 +948,66 @@
           "depois teletransporta o terceiro cara pela parede para formar um grupo de 3 de largura.",
           "Isso não é o pior ponto vulnerável, já que ainda é a mesma ideia básica,",
           "mas queríamos que esta fase exigisse mais uso do Feixe de Força. Então corrigimos isso na versão seguinte..."
+        ],
+        "ru": [
+          "Мы продолжили переработку.",
+          "Здесь мы убрали валуны со стороны лучемета,",
+          "поскольку они не служили никакой интересной цели, кроме того, что вы сдвигали один из них сквозь стену между мирами;",
+          "для этой цели, мы вместо него разместили второй самоцвет.",
+          "Сам факт, что есть два самоцвета и только одна ячейка,",
+          "должен сразу навести на мысль о том, для чего нужен второй самоцвет.",
+          "Вместо 5 монстров мы оставили 3,",
+          "так что задача явно состоит в том, чтобы собрать всех трёх вместе.",
+          "Смещение стало ещё интереснее, потому что теперь нужно использовать саму Жрицу",
+          "как дополнительную массу, чтобы протолкнуть гоблина сквозь стену.",
+          "Однако, к сожалению, тут есть проблема с этой маленькой комнатой гоблина.",
+          "Задуманное решение — сместить его через стену,",
+          "(после того как отодвинете остальных гоблинов на север, чтобы не мешали),",
+          "затем на юг, на восток на 1 клетку и на север, чтобы выстроить гоблинов в группу шириной 3 гоблина.",
+          "Но есть и другое решение: просто толкнуть двух крайних гоблинов на юг на одну клетку,",
+          "а потом телепортировать третьего гоблина сквозь стену, чтобы получилась группа шириной в 3 клетки.",
+          "Это не самая худшая лазейка, ведь по сути идея всё та же,",
+          "но мы хотели, чтобы на этом уровне больше использовался луч силы. Так что в следующей версии мы это исправили..."
+        ],
+        "s-cn": [
+          "我们继续修改。",
+          "这一版删掉了光束发射器一侧的石头，",
+          "因为除了把其中一块穿过世界之间的墙壁移到另一侧， 它们的用法都没什么意思……",
+          "为了保留这个用途，我们改放了第二颗宝石。",
+          "关卡里有两颗宝石，却只有一个插槽，",
+          "应该会让玩家立刻产生疑问：第二颗宝石是做什么的？",
+          "怪物则从五只减到了三只，",
+          "目标也很明确：把三只全部凑到一起。",
+          "位移机制现在更加有趣，因为你必须把女祭司本人也算作额外的质量，",
+          "才能把哥布林位移到墙的另一边。",
+          "但很遗憾，这个小小的哥布林房间有个问题。",
+          "预期解法是把哥布林位移到墙的另一边，",
+          "（得先把其他哥布林向北移开，腾出地方。）",
+          "再依次向南、向东一格、再向北移动，让三只哥布林横向排成一组。",
+          "但还有另一种解法：只需把外侧的两只哥布林向南推一格，",
+          "再把第三只传送到墙的另一边，凑成横向并排的三只。",
+          "这个取巧方式倒不算太糟，因为核心思路仍然相同，",
+          "但我们希望玩家能更多地运用力量光束。 所以下一版修正了这个问题……"
+        ],
+        "t-cn": [
+          "我們繼續修改。",
+          "這一版刪掉了光束發射器一側的石頭，",
+          "因為除了把其中一塊穿過世界之間的牆壁移到另一側， 它們的用法都沒什麼意思……",
+          "為了保留這個用途，我們改放了第二顆寶石。",
+          "關卡裡有兩顆寶石，卻只有一個插槽，",
+          "應該會讓玩家立刻產生疑問： 第二顆寶石是做什麼的？",
+          "怪物則從五隻減到了三隻，",
+          "目標也很明確：把三隻全部湊到一起。",
+          "位移機制現在更加有趣， 因為你必須把女祭司本人也算作額外的質量，",
+          "才能把哥布林位移到牆的另一邊。",
+          "但很遺憾，這個小小的哥布林房間有個問題。",
+          "預期解法是把哥布林位移到牆的另一邊，",
+          "（得先把其他哥布林向北移開，騰出地方。）",
+          "再依次向南、向東一格、再向北移動， 讓三隻哥布林橫向排成一組。",
+          "但還有另一種解法： 只需把外側的兩隻哥布林向南推一格，",
+          "再把第三隻傳送到牆的另一邊，湊成橫向並排的三隻。",
+          "這個取巧方式倒不算太糟，因為核心思路仍然相同，",
+          "但我們希望玩家能更多地運用力量光束。 所以下一版修正了這個問題……"
         ]
       },
       "silentCues": [],

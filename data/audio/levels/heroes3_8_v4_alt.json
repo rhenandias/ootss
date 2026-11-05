@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Western fire lizard.",
               "Got to be quite wary with these, so my new friends said."
             ],
+            "de": [
+              "Eine Westliche Feuerechse.",
+              "Bei denen muss man sehr vorsichtig sein, haben meine neuen Freunde gesagt."
+            ],
+            "es": [
+              "Un lagarto de fuego occidental.",
+              "Hay que andarse con mucho cuidado con estos, por lo que me han dicho mis nuevos amigos."
+            ],
+            "fr": [
+              "Un lézard de feu occidental.",
+              "Il faut se méfier d'eux, m'ont dit mes nouveaux amis."
+            ],
+            "it": [
+              "Una lucertola di fuoco occidentale.",
+              "Bisogna stare molto attenti con queste, così mi hanno detto i miei nuovi amici."
+            ],
+            "ja": [
+              "ゴブリンの次は 西の炎トカゲか。",
+              "こいつらには特に注意って 新しい友達が言ってたわね！"
+            ],
+            "ko": [
+              "서부 불도마뱀이네.",
+              "이런 녀석들은 꽤 조심해야 한다고 새 친구들이 말해 줬어."
+            ],
             "pt-br": [
               "Lagarto de fogo do Oeste.",
               "Tem que tomar muito cuidado com esses, foi o que meus novos amigos disseram."
+            ],
+            "ru": [
+              "Западная огненная ящерица.",
+              "С ними надо быть очень осторожным, так сказали мои новые друзья."
+            ],
+            "s-cn": [
+              "西部火蜥蜴。",
+              "新朋友们说，对付这些家伙可得小心。"
+            ],
+            "t-cn": [
+              "西部火蜥蜴。",
+              "新朋友們說，對付這些傢伙可得小心。"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "Western fire lizard.",
           "Got to be quite wary with these, so my new friends said."
         ],
+        "de": [
+          "Eine Westliche Feuerechse.",
+          "Bei denen muss man sehr vorsichtig sein, haben meine neuen Freunde gesagt."
+        ],
+        "es": [
+          "Un lagarto de fuego occidental.",
+          "Hay que andarse con mucho cuidado con estos, por lo que me han dicho mis nuevos amigos."
+        ],
+        "fr": [
+          "Un lézard de feu occidental.",
+          "Il faut se méfier d'eux, m'ont dit mes nouveaux amis."
+        ],
+        "it": [
+          "Una lucertola di fuoco occidentale.",
+          "Bisogna stare molto attenti con queste, così mi hanno detto i miei nuovi amici."
+        ],
+        "ja": [
+          "ゴブリンの次は 西の炎トカゲか。",
+          "こいつらには特に注意って 新しい友達が言ってたわね！"
+        ],
+        "ko": [
+          "서부 불도마뱀이네.",
+          "이런 녀석들은 꽤 조심해야 한다고 새 친구들이 말해 줬어."
+        ],
         "pt-br": [
           "Lagarto de fogo do Oeste.",
           "Tem que tomar muito cuidado com esses, foi o que meus novos amigos disseram."
+        ],
+        "ru": [
+          "Западная огненная ящерица.",
+          "С ними надо быть очень осторожным, так сказали мои новые друзья."
+        ],
+        "s-cn": [
+          "西部火蜥蜴。",
+          "新朋友们说，对付这些家伙可得小心。"
+        ],
+        "t-cn": [
+          "西部火蜥蜴。",
+          "新朋友們說，對付這些傢伙可得小心。"
         ]
       },
       "silentCues": [],

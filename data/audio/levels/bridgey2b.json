@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Aiah, to be honest, I'm a bit jealous of the way you cross water with ease.",
               "It's so much more work for me."
             ],
+            "de": [
+              "Aiah, ehrlich gesagt bin ich etwas neidisch, weil du so mühelos übers Wasser kommst.",
+              "Für mich ist das viel mehr Arbeit."
+            ],
+            "es": [
+              "Aiah, la verdad es que me da un poco de envidia la facilidad con que cruzas el agua.",
+              "Para mí supone muchísimo más trabajo."
+            ],
+            "fr": [
+              "Aiah, pour être honnête, je suis un peu jalouse de la facilité avec laquelle tu traverses l'eau.",
+              "Pour moi, c'est tellement plus compliqué."
+            ],
+            "it": [
+              "Aiah, a dire il vero, sono un po' geloso di come attraversi l'acqua senza sforzo.",
+              "Per me è molto più faticoso."
+            ],
+            "ja": [
+              "簡単に水の上を進めて うらやましいなぁ。",
+              "あたしはもっと大変だから。"
+            ],
+            "ko": [
+              "아이아, 솔직히 말하자면, 네가 물을 거뜬히 건너는 게 조금 부럽기도 해.",
+              "난 훨씬 더 고생해야 한다고."
+            ],
             "pt-br": [
               "Aiah, pra ser sincero, tenho um pouco de inveja da facilidade com que você cruza a água.",
               "Isso dá muito mais trabalho pra mim."
+            ],
+            "ru": [
+              "Ая, если честно, я немного завидую тому, как легко ты проходишь через воду.",
+              "Мне это даётся намного труднее."
+            ],
+            "s-cn": [
+              "艾娅，老实说，你渡水渡得那么轻松，我还有点眼红。",
+              "换成我就费劲多了。"
+            ],
+            "t-cn": [
+              "艾婭，老實說，你渡水渡得那麼輕鬆，我還有點眼紅。",
+              "換成我就費勁多了。"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "Aiah, to be honest, I'm a bit jealous of the way you cross water with ease.",
           "It's so much more work for me."
         ],
+        "de": [
+          "Aiah, ehrlich gesagt bin ich etwas neidisch, weil du so mühelos übers Wasser kommst.",
+          "Für mich ist das viel mehr Arbeit."
+        ],
+        "es": [
+          "Aiah, la verdad es que me da un poco de envidia la facilidad con que cruzas el agua.",
+          "Para mí supone muchísimo más trabajo."
+        ],
+        "fr": [
+          "Aiah, pour être honnête, je suis un peu jalouse de la facilité avec laquelle tu traverses l'eau.",
+          "Pour moi, c'est tellement plus compliqué."
+        ],
+        "it": [
+          "Aiah, a dire il vero, sono un po' geloso di come attraversi l'acqua senza sforzo.",
+          "Per me è molto più faticoso."
+        ],
+        "ja": [
+          "簡単に水の上を進めて うらやましいなぁ。",
+          "あたしはもっと大変だから。"
+        ],
+        "ko": [
+          "아이아, 솔직히 말하자면, 네가 물을 거뜬히 건너는 게 조금 부럽기도 해.",
+          "난 훨씬 더 고생해야 한다고."
+        ],
         "pt-br": [
           "Aiah, pra ser sincero, tenho um pouco de inveja da facilidade com que você cruza a água.",
           "Isso dá muito mais trabalho pra mim."
+        ],
+        "ru": [
+          "Ая, если честно, я немного завидую тому, как легко ты проходишь через воду.",
+          "Мне это даётся намного труднее."
+        ],
+        "s-cn": [
+          "艾娅，老实说，你渡水渡得那么轻松，我还有点眼红。",
+          "换成我就费劲多了。"
+        ],
+        "t-cn": [
+          "艾婭，老實說，你渡水渡得那麼輕鬆，我還有點眼紅。",
+          "換成我就費勁多了。"
         ]
       },
       "silentCues": [],
@@ -90,9 +171,45 @@
               "It's so much work for me.",
               "But when I see you just float across... I'm inspired, and I'm all the happier to be your friend."
             ],
+            "de": [
+              "Für mich ist das so viel Arbeit.",
+              "Aber wenn ich sehe, wie du einfach hinüberschwebst ... dann macht mir das Mut. Und ich bin noch glücklicher, deine Freundin zu sein."
+            ],
+            "es": [
+              "Para mí supone más trabajo.",
+              "Pero cuando te veo cruzar flotando... me inspiras, y me alegro aún más de ser tu amiga."
+            ],
+            "fr": [
+              "C'est tellement compliqué pour moi.",
+              "Mais quand je te vois flotter comme ça... ça m'inspire, et me réjouit d'autant plus de notre amitié."
+            ],
+            "it": [
+              "Per me è molto faticoso.",
+              "Ma quando ti vedo semplicemente fluttuare sull'acqua... mi sento ispirato, e sono ancora più felice di essere tuo amico."
+            ],
+            "ja": [
+              "大変だけど…",
+              "あんたみたいなすごい人と 友達になれて嬉しいよ。"
+            ],
+            "ko": [
+              "난 훨씬 더 고생해야 한다고.",
+              "하지만 네가 둥둥 떠서 건너가는 걸 보면... 나도 힘이 나고, 네 친구라는 게 더없이 기뻐."
+            ],
             "pt-br": [
               "Isso dá muito trabalho pra mim.",
               "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser seu amigo."
+            ],
+            "ru": [
+              "Мне это даётся куда труднее.",
+              "Но когда я вижу, как ты просто плывёшь над водой... Это меня вдохновляет, и я ещё больше радуюсь нашей дружбе."
+            ],
+            "s-cn": [
+              "对我来说可太费劲了。",
+              "但当我看到你轻飘飘地越过去…… 我就受到了鼓舞，也更加庆幸 能成为你的朋友。"
+            ],
+            "t-cn": [
+              "對我來說可太費勁了。",
+              "但當我看到你輕飄飄地越過去…… 我就受到了鼓舞，也更加慶幸 能成為你的朋友。"
             ]
           },
           "provenance": {
@@ -114,9 +231,45 @@
           "It's so much work for me.",
           "But when I see you just float across... I'm inspired, and I'm all the happier to be your friend."
         ],
+        "de": [
+          "Für mich ist das so viel Arbeit.",
+          "Aber wenn ich sehe, wie du einfach hinüberschwebst ... dann macht mir das Mut. Und ich bin noch glücklicher, deine Freundin zu sein."
+        ],
+        "es": [
+          "Para mí supone más trabajo.",
+          "Pero cuando te veo cruzar flotando... me inspiras, y me alegro aún más de ser tu amiga."
+        ],
+        "fr": [
+          "C'est tellement compliqué pour moi.",
+          "Mais quand je te vois flotter comme ça... ça m'inspire, et me réjouit d'autant plus de notre amitié."
+        ],
+        "it": [
+          "Per me è molto faticoso.",
+          "Ma quando ti vedo semplicemente fluttuare sull'acqua... mi sento ispirato, e sono ancora più felice di essere tuo amico."
+        ],
+        "ja": [
+          "大変だけど…",
+          "あんたみたいなすごい人と 友達になれて嬉しいよ。"
+        ],
+        "ko": [
+          "난 훨씬 더 고생해야 한다고.",
+          "하지만 네가 둥둥 떠서 건너가는 걸 보면... 나도 힘이 나고, 네 친구라는 게 더없이 기뻐."
+        ],
         "pt-br": [
           "Isso dá muito trabalho pra mim.",
           "Mas quando vejo você atravessar flutuando... isso me inspira, e fico ainda mais feliz por ser seu amigo."
+        ],
+        "ru": [
+          "Мне это даётся куда труднее.",
+          "Но когда я вижу, как ты просто плывёшь над водой... Это меня вдохновляет, и я ещё больше радуюсь нашей дружбе."
+        ],
+        "s-cn": [
+          "对我来说可太费劲了。",
+          "但当我看到你轻飘飘地越过去…… 我就受到了鼓舞，也更加庆幸 能成为你的朋友。"
+        ],
+        "t-cn": [
+          "對我來說可太費勁了。",
+          "但當我看到你輕飄飄地越過去…… 我就受到了鼓舞，也更加慶幸 能成為你的朋友。"
         ]
       },
       "silentCues": [],

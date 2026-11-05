@@ -3,7 +3,16 @@
   "audioLog": "psalm_139_part_2",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -28,6 +37,78 @@
               "If I should count them, they are more in number than the sand:",
               "when I awake, I am still with thee."
             ],
+            "de": [
+              "Ich will Dich preisen; denn ich bin ehrfurchtgebietend und wunderbar gemacht:",
+              "Wunderbar sind Deine Werke; und meine Seele erkennt das sehr wohl.",
+              "Mein Gebein war Dir nicht verborgen, als ich im Verborgenen gemacht ward,",
+              "und kunstvoll gewirkt – tief unten in der Erde.",
+              "Deine Augen sahen meine Gestalt, als sie noch unvollkommen war;",
+              "und in Deinem Buch waren all meine Glieder verzeichnet,",
+              "die nach und nach Gestalt annahmen, als noch keines von ihnen da war.",
+              "Wie kostbar sind mir Deine Gedanken, o Gott! Wie gewaltig ist ihre Summe!",
+              "Wollte ich sie zählen, so wären ihrer mehr als Sand:",
+              "Wenn ich erwache, bin ich noch immer bei Dir."
+            ],
+            "es": [
+              "Os alabaré; pues formidables, maravillosas son vuesas obras:",
+              "maravillada me hallo y mi alma bien lo sabe.",
+              "No fue encubierta de vos mi esencia, aunque en oculto me conformaron,",
+              "y me entretejieron en lo más profundo de la tierra.",
+              "Mi embrión vieron vuesos ojos y en vueso libro estaban escritas",
+              "todas aquellas cosas que fueron luego formadas,",
+              "sin faltar ni una de ellas cuando todavía no existía ninguna.",
+              "¡Cuán preciosos me son también vuesos pensamientos, oh, Dios! ¡Cuán grande es la suma de ellos!",
+              "Si los contara, serían más que la arena:",
+              "despierto, y aún estoy con vos."
+            ],
+            "fr": [
+              "Je te célébrerai, de ce que j'ai été fait d'une étrange et admirable manière :",
+              "tes œuvres sont merveilleuses ; et mon âme le sait très bien.",
+              "Mes os ne t'ont point été cachés lorsque j'ai été fait dans le secret,",
+              "façonné comme une broderie dans les lieux bas de la terre.",
+              "Quand je n'étais qu'une masse informe, tes yeux me voyaient ;",
+              "et dans ton livre mes membres étaient tous écrits ;",
+              "de jour en jour ils se formaient, lorsqu'il n'y en avait encore aucun.",
+              "Et combien me sont précieuses tes pensées, ô Dieu ! combien en est grande la somme !",
+              "Si je veux les compter, elles sont plus nombreuses que le sable.",
+              "Si je me réveille, je suis encore avec toi."
+            ],
+            "it": [
+              "Ti loderò; perché sono fatta in modo terribile e meraviglioso:",
+              "meravigliose sono le Tue opere; e la mia anima lo sa benissimo.",
+              "La mia sostanza non Ti era nascosta, quando fui fatto in segreto,",
+              "e modellata con cura nelle profondità della terra.",
+              "I tuoi occhi videro la mia sostanza, ancora informe;",
+              "e nel Tuo libro tutte le mie membra erano scritte,",
+              "che si formavano a loro tempo, quando ancora nessuna di esse esisteva.",
+              "Quanto sono preziosi i Tuoi pensieri per me, Oh Dio! quanto grande è la somma di essi!",
+              "Se volessi contarli, sono più numerosi della sabbia:",
+              "quando mi sveglio, sono ancora con Te."
+            ],
+            "ja": [
+              "私はあなたをたたえる。 私は畏るべきほど、 不思議に造られた。",
+              "あなたの御業は驚くべきもの。 私はそれをよく知っている。",
+              "ひそかに造られ、 地の奥深くで形づくられた時も、",
+              "私の姿はあなたから 隠されなかった。",
+              "まだ形を成さぬ私を あなたの目は見ていた。",
+              "そしてあなたの書には、 私のすべてが記されていた。",
+              "やがて形づくられるすべてが、 まだ一つも存在しない時から。",
+              "神よ、あなたの御思いは なんと尊いことでしょう。 なんと多いことでしょう。",
+              "数えようとしても、 砂より多い。",
+              "目覚めてもなお 私はあなたと共にいる。"
+            ],
+            "ko": [
+              "내가 당신을 찬양하리이다. 나는 두렵고도 놀랍게 지음 받았나이다.",
+              "당신의 일하심이 놀라우니, 내 영혼이 그것을 잘 아나이다.",
+              "내 형질이 당신에게 숨겨지지 않았나이다. 내가 은밀한 곳에서 지음을 받고,",
+              "땅 깊은 곳에서 기묘하게 만들어질 때에도.",
+              "내 형체가 아직 완전하지 못할 때에도 당신의 눈은 나를 보셨으며,",
+              "당신의 책에 내 지체가 다 기록되었나이다.",
+              "그것들이 아직 하나도 존재하지 않았을 때부터 훗날 이루어질 것들이 기록되어 있었나이다.",
+              "오, 신이시여. 당신의 생각이 어찌 그리 귀한지요! 그 수가 어찌 그리 많은지요!",
+              "제가 그것들을 헤아린다 해도, 모래보다 많으며",
+              "제가 깨어날 때에도 전 여전히 당신과 함께 있나이다."
+            ],
             "pt-br": [
               "Eu te louvarei; porque de um modo assombroso e maravilhoso fui feito:",
               "maravilhosas são as tuas obras; e isso bem sabe a minha alma.",
@@ -39,6 +120,42 @@
               "Quão preciosos também são para mim os teus pensamentos, Ó Deus! Quão grande é a soma deles!",
               "Se os contasse, seriam mais numerosos que a areia:",
               "quando acordo, ainda estou contigo."
+            ],
+            "ru": [
+              "Я прославлю Тебя, ибо страшен и удивителен Ты,",
+              "чудны дела Твои, и душа моя хорошо это знает.",
+              "Не сокрылись кости мои от Тебя, которые сотворил Ты втайне,",
+              "и существо моё — в глубинах земли:",
+              "незавершённой меня видели очи Твои;",
+              "и в книгу Твою все будут вписаны:",
+              "в течение дней будут созданы, и никто среди них — по-иному.",
+              "А для меня весьма почтенны стали друзья Твои, Боже, весьма укрепились владычества их:",
+              "буду исчислять их — и более песка умножатся;",
+              "я пробуждена — и снова с Тобою."
+            ],
+            "s-cn": [
+              "我要称谢祢，因我受造，奇妙可畏；",
+              "祢的作为何等奇妙，我内心深知这一点。",
+              "我在隐秘之处受造时，我的形体并不向祢隐藏，",
+              "我在地底深处，被精巧地编织成形。",
+              "我尚未成形，祢的眼便已看见；",
+              "我那后来逐渐成形的肢体，",
+              "在尚无一处成形时，就都已记在祢的册上。",
+              "神灵啊，祢的意念于我何等宝贵！其数何等众多！",
+              "我若数，则比海沙更多；",
+              "我睡醒的时候，仍和祢同在。"
+            ],
+            "t-cn": [
+              "我要稱謝祢，因我受造，奇妙可畏；",
+              "祢的作為何等奇妙，我內心深知這一點。",
+              "我在隱秘之處受造時，我的形體並不向祢隱藏，",
+              "我在地底深處，被精巧地編織成形。",
+              "我尚未成形，祢的眼便已看見；",
+              "我那後來逐漸成形的肢體，",
+              "在尚無一處成形時，就都已記在祢的冊上。",
+              "神靈啊，祢的意念於我何等寶貴！ 其數何等眾多！",
+              "我若數，則比海沙更多；",
+              "我睡醒的時候，仍和祢同在。"
             ]
           },
           "provenance": {
@@ -76,6 +193,78 @@
           "If I should count them, they are more in number than the sand:",
           "when I awake, I am still with thee."
         ],
+        "de": [
+          "Ich will Dich preisen; denn ich bin ehrfurchtgebietend und wunderbar gemacht:",
+          "Wunderbar sind Deine Werke; und meine Seele erkennt das sehr wohl.",
+          "Mein Gebein war Dir nicht verborgen, als ich im Verborgenen gemacht ward,",
+          "und kunstvoll gewirkt – tief unten in der Erde.",
+          "Deine Augen sahen meine Gestalt, als sie noch unvollkommen war;",
+          "und in Deinem Buch waren all meine Glieder verzeichnet,",
+          "die nach und nach Gestalt annahmen, als noch keines von ihnen da war.",
+          "Wie kostbar sind mir Deine Gedanken, o Gott! Wie gewaltig ist ihre Summe!",
+          "Wollte ich sie zählen, so wären ihrer mehr als Sand:",
+          "Wenn ich erwache, bin ich noch immer bei Dir."
+        ],
+        "es": [
+          "Os alabaré; pues formidables, maravillosas son vuesas obras:",
+          "maravillada me hallo y mi alma bien lo sabe.",
+          "No fue encubierta de vos mi esencia, aunque en oculto me conformaron,",
+          "y me entretejieron en lo más profundo de la tierra.",
+          "Mi embrión vieron vuesos ojos y en vueso libro estaban escritas",
+          "todas aquellas cosas que fueron luego formadas,",
+          "sin faltar ni una de ellas cuando todavía no existía ninguna.",
+          "¡Cuán preciosos me son también vuesos pensamientos, oh, Dios! ¡Cuán grande es la suma de ellos!",
+          "Si los contara, serían más que la arena:",
+          "despierto, y aún estoy con vos."
+        ],
+        "fr": [
+          "Je te célébrerai, de ce que j'ai été fait d'une étrange et admirable manière :",
+          "tes œuvres sont merveilleuses ; et mon âme le sait très bien.",
+          "Mes os ne t'ont point été cachés lorsque j'ai été fait dans le secret,",
+          "façonné comme une broderie dans les lieux bas de la terre.",
+          "Quand je n'étais qu'une masse informe, tes yeux me voyaient ;",
+          "et dans ton livre mes membres étaient tous écrits ;",
+          "de jour en jour ils se formaient, lorsqu'il n'y en avait encore aucun.",
+          "Et combien me sont précieuses tes pensées, ô Dieu ! combien en est grande la somme !",
+          "Si je veux les compter, elles sont plus nombreuses que le sable.",
+          "Si je me réveille, je suis encore avec toi."
+        ],
+        "it": [
+          "Ti loderò; perché sono fatta in modo terribile e meraviglioso:",
+          "meravigliose sono le Tue opere; e la mia anima lo sa benissimo.",
+          "La mia sostanza non Ti era nascosta, quando fui fatto in segreto,",
+          "e modellata con cura nelle profondità della terra.",
+          "I tuoi occhi videro la mia sostanza, ancora informe;",
+          "e nel Tuo libro tutte le mie membra erano scritte,",
+          "che si formavano a loro tempo, quando ancora nessuna di esse esisteva.",
+          "Quanto sono preziosi i Tuoi pensieri per me, Oh Dio! quanto grande è la somma di essi!",
+          "Se volessi contarli, sono più numerosi della sabbia:",
+          "quando mi sveglio, sono ancora con Te."
+        ],
+        "ja": [
+          "私はあなたをたたえる。 私は畏るべきほど、 不思議に造られた。",
+          "あなたの御業は驚くべきもの。 私はそれをよく知っている。",
+          "ひそかに造られ、 地の奥深くで形づくられた時も、",
+          "私の姿はあなたから 隠されなかった。",
+          "まだ形を成さぬ私を あなたの目は見ていた。",
+          "そしてあなたの書には、 私のすべてが記されていた。",
+          "やがて形づくられるすべてが、 まだ一つも存在しない時から。",
+          "神よ、あなたの御思いは なんと尊いことでしょう。 なんと多いことでしょう。",
+          "数えようとしても、 砂より多い。",
+          "目覚めてもなお 私はあなたと共にいる。"
+        ],
+        "ko": [
+          "내가 당신을 찬양하리이다. 나는 두렵고도 놀랍게 지음 받았나이다.",
+          "당신의 일하심이 놀라우니, 내 영혼이 그것을 잘 아나이다.",
+          "내 형질이 당신에게 숨겨지지 않았나이다. 내가 은밀한 곳에서 지음을 받고,",
+          "땅 깊은 곳에서 기묘하게 만들어질 때에도.",
+          "내 형체가 아직 완전하지 못할 때에도 당신의 눈은 나를 보셨으며,",
+          "당신의 책에 내 지체가 다 기록되었나이다.",
+          "그것들이 아직 하나도 존재하지 않았을 때부터 훗날 이루어질 것들이 기록되어 있었나이다.",
+          "오, 신이시여. 당신의 생각이 어찌 그리 귀한지요! 그 수가 어찌 그리 많은지요!",
+          "제가 그것들을 헤아린다 해도, 모래보다 많으며",
+          "제가 깨어날 때에도 전 여전히 당신과 함께 있나이다."
+        ],
         "pt-br": [
           "Eu te louvarei; porque de um modo assombroso e maravilhoso fui feito:",
           "maravilhosas são as tuas obras; e isso bem sabe a minha alma.",
@@ -87,6 +276,42 @@
           "Quão preciosos também são para mim os teus pensamentos, Ó Deus! Quão grande é a soma deles!",
           "Se os contasse, seriam mais numerosos que a areia:",
           "quando acordo, ainda estou contigo."
+        ],
+        "ru": [
+          "Я прославлю Тебя, ибо страшен и удивителен Ты,",
+          "чудны дела Твои, и душа моя хорошо это знает.",
+          "Не сокрылись кости мои от Тебя, которые сотворил Ты втайне,",
+          "и существо моё — в глубинах земли:",
+          "незавершённой меня видели очи Твои;",
+          "и в книгу Твою все будут вписаны:",
+          "в течение дней будут созданы, и никто среди них — по-иному.",
+          "А для меня весьма почтенны стали друзья Твои, Боже, весьма укрепились владычества их:",
+          "буду исчислять их — и более песка умножатся;",
+          "я пробуждена — и снова с Тобою."
+        ],
+        "s-cn": [
+          "我要称谢祢，因我受造，奇妙可畏；",
+          "祢的作为何等奇妙，我内心深知这一点。",
+          "我在隐秘之处受造时，我的形体并不向祢隐藏，",
+          "我在地底深处，被精巧地编织成形。",
+          "我尚未成形，祢的眼便已看见；",
+          "我那后来逐渐成形的肢体，",
+          "在尚无一处成形时，就都已记在祢的册上。",
+          "神灵啊，祢的意念于我何等宝贵！其数何等众多！",
+          "我若数，则比海沙更多；",
+          "我睡醒的时候，仍和祢同在。"
+        ],
+        "t-cn": [
+          "我要稱謝祢，因我受造，奇妙可畏；",
+          "祢的作為何等奇妙，我內心深知這一點。",
+          "我在隱秘之處受造時，我的形體並不向祢隱藏，",
+          "我在地底深處，被精巧地編織成形。",
+          "我尚未成形，祢的眼便已看見；",
+          "我那後來逐漸成形的肢體，",
+          "在尚無一處成形時，就都已記在祢的冊上。",
+          "神靈啊，祢的意念於我何等寶貴！ 其數何等眾多！",
+          "我若數，則比海沙更多；",
+          "我睡醒的時候，仍和祢同在。"
         ]
       },
       "silentCues": [],

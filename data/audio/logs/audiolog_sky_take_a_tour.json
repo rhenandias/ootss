@@ -3,7 +3,16 @@
   "audioLog": "audiolog_sky_take_a_tour",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -19,8 +28,35 @@
             "en": [
               "... your manners, sir! That look could be taken in quite the wrong way."
             ],
+            "de": [
+              "... wo sind deine Manieren! Dieser Blick könnte gründlich missverstanden werden."
+            ],
+            "es": [
+              "... ¡Esos modales, señor! Esa mirada podría interpretarse de muy mala manera."
+            ],
+            "fr": [
+              "... un peu de tenue, monsieur ! Ce regard pourrait être très mal interprété."
+            ],
+            "it": [
+              "... le tue maniere, signore! Quello sguardo potrebbe essere frainteso parecchio."
+            ],
+            "ja": [
+              "…お行儀が悪いわよ！ そんな目で見ていると、 勘違いされてしまうわ。"
+            ],
+            "ko": [
+              "... 예의를 지키시지! 그런 눈빛은 자칫 엉뚱한 오해를 살 수 있다고."
+            ],
             "pt-br": [
               "...seus modos, senhor! Esse olhar pode ser interpretado de um jeito bem errado."
+            ],
+            "ru": [
+              "...ваши манеры, сэр! Такой взгляд можно понять совсем неправильно."
+            ],
+            "s-cn": [
+              "……注意你的举止，先生！你那种眼神很容易让人误会。"
+            ],
+            "t-cn": [
+              "……注意你的舉止，先生！ 你那種眼神很容易讓人誤會。"
             ]
           },
           "provenance": {
@@ -42,9 +78,45 @@
               "Forgive me. You are the first person I have seen in ... quite some time.",
               "The first person *in* person, I mean, not as a ... figment? What do you call it."
             ],
+            "de": [
+              "Verzeih mir. Du bist der erste Mensch, den ich seit ... sehr langer Zeit gesehen habe.",
+              "Ich meine, der erste Mensch aus Fleisch und Blut, nicht als ... Trugbild? Wie nennt man das?"
+            ],
+            "es": [
+              "Mil perdones. Eres la primera persona que veo en... bastante tiempo.",
+              "La primera persona en persona, quiero decir, no como una... ¿ilusión? Como se diga."
+            ],
+            "fr": [
+              "Pardonnez-moi. Vous êtes la première personne que je vois... depuis un bon moment.",
+              "La première personne en chair et en os, je veux dire, pas une... projection ? Je ne sais pas comment on dit."
+            ],
+            "it": [
+              "Perdonami. Sei la prima persona che vedo... da parecchio tempo.",
+              "La prima persona in carne e ossa, intendo, non una... proiezione? Come si chiama."
+            ],
+            "ja": [
+              "人に会うのは… ずいぶん久しぶりだ。 投影ではなく、本物の…人なのか？",
+              "初めて実際に会う人という意味です。 あの…幻、でしたか？ 何と呼ぶんでしょう。"
+            ],
+            "ko": [
+              "실례했습니다. 이렇게 사람을 보는 건... 정말 오랜만이군요.",
+              "그러니까 직접 만난 사람은 처음이라는 거죠, 그런... 허상이 아니라요? 뭐라고 부르던가요."
+            ],
             "pt-br": [
               "Perdoe-me. Você é a primeira pessoa que vejo em... bastante tempo.",
               "A primeira pessoa em pessoa, quero dizer, não como uma... ilusão? Como é que se chama."
+            ],
+            "ru": [
+              "Простите. Вы первый человек, которого я вижу за... уже довольно долгое время.",
+              "Первый человек вживую, то есть, а не... видение? Как это называется."
+            ],
+            "s-cn": [
+              "请原谅。我已经……很久没见过其他人了。",
+              "我是说，第一个真人，而不是……幻影？ 你们管那叫什么来着。"
+            ],
+            "t-cn": [
+              "請原諒。我已經……很久沒見過其他人了。",
+              "我是說，第一個真人，而不是…… 幻影？你們管那叫什麼來著。"
             ]
           },
           "provenance": {
@@ -66,8 +138,35 @@
             "en": [
               "Let not your heart be troubled. I'm your friend."
             ],
+            "de": [
+              "Lass dein Herz nicht verzagen. Ich bin deine Freundin."
+            ],
+            "es": [
+              "Que no se turbe tu corazón. Soy tu amiga."
+            ],
+            "fr": [
+              "Ne vous inquiétez pas. Je suis votre amie."
+            ],
+            "it": [
+              "Non lasciare che il tuo cuore si turbi. Sono tua amica."
+            ],
+            "ja": [
+              "心を落ち着かせなさい。 私はあなたの味方です。"
+            ],
+            "ko": [
+              "마음 졸이지 마. 난 당신 친구니까."
+            ],
             "pt-br": [
               "Não deixe seu coração se afligir. Sou seu amigo."
+            ],
+            "ru": [
+              "Не волнуйся. Я твой друг."
+            ],
+            "s-cn": [
+              "莫让你的心忧虑。我是你的朋友。"
+            ],
+            "t-cn": [
+              "莫讓你的心憂慮。我是你的朋友。"
             ]
           },
           "provenance": {
@@ -88,8 +187,35 @@
             "en": [
               "Good to hear."
             ],
+            "de": [
+              "Das ist gut zu hören."
+            ],
+            "es": [
+              "Me alegra oírlo."
+            ],
+            "fr": [
+              "Ravi de l'entendre."
+            ],
+            "it": [
+              "Meno male."
+            ],
+            "ja": [
+              "それならよかった。"
+            ],
+            "ko": [
+              "반가운 말이군요."
+            ],
             "pt-br": [
               "Que bom ouvir isso."
+            ],
+            "ru": [
+              "Рад слышать."
+            ],
+            "s-cn": [
+              "那就好。"
+            ],
+            "t-cn": [
+              "那就好。"
             ]
           },
           "provenance": {
@@ -112,10 +238,55 @@
               "Walk with me, and I will tell you about the history of this place:",
               "how it came to be, and why things are the way they are."
             ],
+            "de": [
+              "Lass die Arbeit für einen Moment ruhen.",
+              "Komm mit, dann erzähle ich dir von der Geschichte dieses Ortes:",
+              "wie er entstanden ist und warum hier alles so ist, wie es ist."
+            ],
+            "es": [
+              "Deja de trabajar un rato y levanta la vista.",
+              "Camina conmigo y te contaré la historia de este lugar:",
+              "cómo llegó a existir y por qué las cosas son como son."
+            ],
+            "fr": [
+              "Levez un peu le nez de votre travail.",
+              "Marchez avec moi, et je vous parlerai de l'histoire de cet endroit :",
+              "comment il est né, et pourquoi les choses sont comme elles sont."
+            ],
+            "it": [
+              "Alza la testa dal lavoro per un po'.",
+              "Cammina con me e ti dirò della storia di questo posto:",
+              "come è nato, e perché le cose sono come sono."
+            ],
+            "ja": [
+              "++ \"Lift your nose from the grindstone\" refers to the way he is grinding through the puzzles without much in the way of breaks. She's been watching him, unseen, for a while. この場所の歴史や成り立ち、",
+              "さあ、一緒に見て回ろう。 歩きながら話す。",
+              "なぜ今こうなっているのかを。"
+            ],
+            "ko": [
+              "일에서 잠깐 눈을 돌려 봐.",
+              "나와 함께 걷지. 그러면 내가 이곳의 역사를 이야기해 주겠어.",
+              "이곳이 어떻게 생겼는지, 왜 지금과 같은 모습이 되었는지도."
+            ],
             "pt-br": [
               "Deixe o trabalho de lado um pouco.",
               "Caminhe comigo, e eu lhe contarei sobre a história deste lugar:",
               "como ele veio a existir, e por que as coisas são como são."
+            ],
+            "ru": [
+              "Отвлекись ненадолго от работы.",
+              "Пойдём со мной, и я расскажу тебе об истории этого места:",
+              "о том, как оно возникло, и почему всё здесь таково, каково есть."
+            ],
+            "s-cn": [
+              "暂且从埋头苦干中抬起头来，歇一歇吧。",
+              "跟我走走吧，我来给你讲讲 这个地方的历史：",
+              "它是如何形成的，以及一切为何会是如今的模样。"
+            ],
+            "t-cn": [
+              "暫且從埋頭苦幹中抬起頭來，歇一歇吧。",
+              "跟我走走吧，我來給你講講 這個地方的歷史：",
+              "它是如何形成的，以及一切為何會是如今的模樣。"
             ]
           },
           "provenance": {
@@ -144,6 +315,66 @@
           "Walk with me, and I will tell you about the history of this place:",
           "how it came to be, and why things are the way they are."
         ],
+        "de": [
+          "... wo sind deine Manieren! Dieser Blick könnte gründlich missverstanden werden.",
+          "Verzeih mir. Du bist der erste Mensch, den ich seit ... sehr langer Zeit gesehen habe.",
+          "Ich meine, der erste Mensch aus Fleisch und Blut, nicht als ... Trugbild? Wie nennt man das?",
+          "Lass dein Herz nicht verzagen. Ich bin deine Freundin.",
+          "Das ist gut zu hören.",
+          "Lass die Arbeit für einen Moment ruhen.",
+          "Komm mit, dann erzähle ich dir von der Geschichte dieses Ortes:",
+          "wie er entstanden ist und warum hier alles so ist, wie es ist."
+        ],
+        "es": [
+          "... ¡Esos modales, señor! Esa mirada podría interpretarse de muy mala manera.",
+          "Mil perdones. Eres la primera persona que veo en... bastante tiempo.",
+          "La primera persona en persona, quiero decir, no como una... ¿ilusión? Como se diga.",
+          "Que no se turbe tu corazón. Soy tu amiga.",
+          "Me alegra oírlo.",
+          "Deja de trabajar un rato y levanta la vista.",
+          "Camina conmigo y te contaré la historia de este lugar:",
+          "cómo llegó a existir y por qué las cosas son como son."
+        ],
+        "fr": [
+          "... un peu de tenue, monsieur ! Ce regard pourrait être très mal interprété.",
+          "Pardonnez-moi. Vous êtes la première personne que je vois... depuis un bon moment.",
+          "La première personne en chair et en os, je veux dire, pas une... projection ? Je ne sais pas comment on dit.",
+          "Ne vous inquiétez pas. Je suis votre amie.",
+          "Ravi de l'entendre.",
+          "Levez un peu le nez de votre travail.",
+          "Marchez avec moi, et je vous parlerai de l'histoire de cet endroit :",
+          "comment il est né, et pourquoi les choses sont comme elles sont."
+        ],
+        "it": [
+          "... le tue maniere, signore! Quello sguardo potrebbe essere frainteso parecchio.",
+          "Perdonami. Sei la prima persona che vedo... da parecchio tempo.",
+          "La prima persona in carne e ossa, intendo, non una... proiezione? Come si chiama.",
+          "Non lasciare che il tuo cuore si turbi. Sono tua amica.",
+          "Meno male.",
+          "Alza la testa dal lavoro per un po'.",
+          "Cammina con me e ti dirò della storia di questo posto:",
+          "come è nato, e perché le cose sono come sono."
+        ],
+        "ja": [
+          "…お行儀が悪いわよ！ そんな目で見ていると、 勘違いされてしまうわ。",
+          "人に会うのは… ずいぶん久しぶりだ。 投影ではなく、本物の…人なのか？",
+          "初めて実際に会う人という意味です。 あの…幻、でしたか？ 何と呼ぶんでしょう。",
+          "心を落ち着かせなさい。 私はあなたの味方です。",
+          "それならよかった。",
+          "++ \"Lift your nose from the grindstone\" refers to the way he is grinding through the puzzles without much in the way of breaks. She's been watching him, unseen, for a while. この場所の歴史や成り立ち、",
+          "さあ、一緒に見て回ろう。 歩きながら話す。",
+          "なぜ今こうなっているのかを。"
+        ],
+        "ko": [
+          "... 예의를 지키시지! 그런 눈빛은 자칫 엉뚱한 오해를 살 수 있다고.",
+          "실례했습니다. 이렇게 사람을 보는 건... 정말 오랜만이군요.",
+          "그러니까 직접 만난 사람은 처음이라는 거죠, 그런... 허상이 아니라요? 뭐라고 부르던가요.",
+          "마음 졸이지 마. 난 당신 친구니까.",
+          "반가운 말이군요.",
+          "일에서 잠깐 눈을 돌려 봐.",
+          "나와 함께 걷지. 그러면 내가 이곳의 역사를 이야기해 주겠어.",
+          "이곳이 어떻게 생겼는지, 왜 지금과 같은 모습이 되었는지도."
+        ],
         "pt-br": [
           "...seus modos, senhor! Esse olhar pode ser interpretado de um jeito bem errado.",
           "Perdoe-me. Você é a primeira pessoa que vejo em... bastante tempo.",
@@ -153,6 +384,36 @@
           "Deixe o trabalho de lado um pouco.",
           "Caminhe comigo, e eu lhe contarei sobre a história deste lugar:",
           "como ele veio a existir, e por que as coisas são como são."
+        ],
+        "ru": [
+          "...ваши манеры, сэр! Такой взгляд можно понять совсем неправильно.",
+          "Простите. Вы первый человек, которого я вижу за... уже довольно долгое время.",
+          "Первый человек вживую, то есть, а не... видение? Как это называется.",
+          "Не волнуйся. Я твой друг.",
+          "Рад слышать.",
+          "Отвлекись ненадолго от работы.",
+          "Пойдём со мной, и я расскажу тебе об истории этого места:",
+          "о том, как оно возникло, и почему всё здесь таково, каково есть."
+        ],
+        "s-cn": [
+          "……注意你的举止，先生！你那种眼神很容易让人误会。",
+          "请原谅。我已经……很久没见过其他人了。",
+          "我是说，第一个真人，而不是……幻影？ 你们管那叫什么来着。",
+          "莫让你的心忧虑。我是你的朋友。",
+          "那就好。",
+          "暂且从埋头苦干中抬起头来，歇一歇吧。",
+          "跟我走走吧，我来给你讲讲 这个地方的历史：",
+          "它是如何形成的，以及一切为何会是如今的模样。"
+        ],
+        "t-cn": [
+          "……注意你的舉止，先生！ 你那種眼神很容易讓人誤會。",
+          "請原諒。我已經……很久沒見過其他人了。",
+          "我是說，第一個真人，而不是…… 幻影？你們管那叫什麼來著。",
+          "莫讓你的心憂慮。我是你的朋友。",
+          "那就好。",
+          "暫且從埋頭苦幹中抬起頭來，歇一歇吧。",
+          "跟我走走吧，我來給你講講 這個地方的歷史：",
+          "它是如何形成的，以及一切為何會是如今的模樣。"
         ]
       },
       "silentCues": [],

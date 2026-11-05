@@ -3,7 +3,16 @@
   "audioLog": "audiolog_g_no_eating",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -28,6 +37,78 @@
               "Parsons always complains of the nuisance of eating.",
               "Send him through if you get a chance; he'll love it here."
             ],
+            "de": [
+              "Ich habe nur noch fünf Signalgeber, diesen nicht mitgerechnet.",
+              "Nachdem ich mich nun in mehrere Richtungen weiter vom Zentrum entfernt habe,",
+              "Ich habe festgestellt, dass die Sterne – die Zugänge zu anderen Welten – immer spärlicher werden.",
+              "Ich kenne das volle Ausmaß ihrer Verbreitung noch nicht, doch ihre abnehmende Dichte lässt mich hoffen, dass das Ganze eine überschaubare, endliche Größe hat.",
+              "Quigley, du bist noch immer nicht hier. Ich hoffe, bei dir ist alles in Ordnung.",
+              "Inzwischen sollte mich der Mangel an Nahrung und frischem Wasser eigentlich beunruhigen.",
+              "Doch hier scheine ich nichts essen zu müssen. Du weißt, wie sehr ich ein gutes Brisket liebe,",
+              "aber hier stellt sich körperlicher Hunger einfach nie ein. Ein weiterer Punkt, den es zu untersuchen gilt.",
+              "Parsons beklagt sich immer darüber, wie lästig das Essen ist.",
+              "Schick ihn durch, wenn du Gelegenheit hast; er wird es hier lieben."
+            ],
+            "es": [
+              "Me quedan cinco balizas, sin contar esta.",
+              "A medida que me he ido aventurando más lejos del centro, en varias direcciones ya,",
+              "He visto que las estrellas (las entradas a otros mundos) bueno, disminuyen en densidad.",
+              "Aún no sé hasta dónde se extienden, pero su menor densidad me da esperanzas de que su extensión sea razonable y finita.",
+              "Quigley, sigues sin estar aquí. Espero que todo vaya bien por tu parte.",
+              "Ya debería estar alarmado a estas alturas, por la falta de comida y agua fresca.",
+              "Pero aquí parece que no necesito comer. Sabes que me encanta un buen pecho de ternera,",
+              "pero aquí el hambre física nunca llega a aparecer. Eso es una cosa más que investigar.",
+              "Parsons siempre se queja de lo molesto que es comer.",
+              "Envíalo si tienes ocasión; le encantará este lugar."
+            ],
+            "fr": [
+              "Il ne me reste plus que cinq balises, sans compter celle-ci.",
+              "Maintenant que je me suis aventuré plus loin du centre dans plusieurs directions,",
+              "J'ai remarqué que les étoiles, les entrées vers d'autres mondes... Eh bien, leur densité diminue.",
+              "J'ignore encore jusqu'où elles vont, mais leur raréfaction me donne l'espoir d'une étendue raisonnable et finie.",
+              "Quigley, vous n'êtes toujours pas là. J'espère que tout va bien de votre côté.",
+              "Je devrais déjà commencer à m'inquiéter, à cause du manque de nourriture et d'eau fraîche.",
+              "Mais ici, je ne semble pas avoir besoin de manger. Vous savez que j'adore un bon steak,",
+              "mais ici, la faim physique ne se manifeste jamais. Voilà encore un point à examiner.",
+              "Parsons se plaint toujours de la corvée que représente le fait de manger.",
+              "Envoyez-le ici si vous en avez l'occasion ; il adorera cet endroit."
+            ],
+            "it": [
+              "Mi restano cinque segnali, senza contare questo.",
+              "Man mano che mi sono spinto più lontano dal centro, in diverse direzioni ormai,",
+              "Ho visto che le stelle... gli ingressi ad altri mondi... beh, diminuiscono di densità.",
+              "Non so ancora fin dove si estendano, ma il loro diradarsi mi fa sperare in dimensioni ragionevoli e finite.",
+              "Quigley, non sei ancora qui. Spero che da te vada tutto bene.",
+              "Ormai dovrei essere in allarme, per la mancanza di cibo e acqua fresca.",
+              "Ma qui, a quanto pare, non devo mangiare. Sai che adoro un bel pezzo di manzo,",
+              "ma qui la fame fisica non arriva mai. È un'altra cosa su cui indagare.",
+              "Parsons si lamenta sempre del fastidio di mangiare.",
+              "Mandalo di qua, se capita l'occasione; qui gli piacerà un sacco."
+            ],
+            "ja": [
+              "これを使えば、 帯革に残る記録ビーコンは 残り6つになる。",
+              "中心を離れ、 いくつかの方向に進んでみたが、",
+              "印、つまり世界への入口の数が 少し減っていることに気づいた。",
+              "ここがどこまで続くかはわからないが、 少なくとも無限ではないと 希望が持てる。",
+              "クイグリー、まだ来ないな。 そちらは問題ないか？",
+              "本来なら水も食料もなく 私は取り乱していただろうが、",
+              "ここでは食べる必要がないらしい。 好物のブリスケットを",
+              "体がまるで求めない。 どうなっているのか 見当もつかない。",
+              "調査することが増えた。 だがパーソンズはいつも 食事を面倒くさがっていたな。",
+              "機会があれば彼を送ってくれ。 きっと気に入るぞ。"
+            ],
+            "ko": [
+              "이걸 빼면 신호기가 다섯 개 남았군.",
+              "이제 몇몇 방향으로 중심에서 더 멀리 나가 보니",
+              "별들이... 각 세계로 들어가는 입구들이... 점점 드문드문 나타나더군.",
+              "얼마나 널리 퍼져 있는지는 아직 모르지만, 점점 드문드문 나타나는 걸 보면 감당할 만한 크기에 끝도 있으리라는 희망이 생겨.",
+              "퀴글리, 아직도 안 왔군. 그쪽에 별일 없길 바라지.",
+              "지금쯤이면 먹을 것과 마실 물이 없어 불안해져야 할 텐데.",
+              "하지만 여기선 먹을 필요가 없는 것 같군. 알다시피 난 맛있는 브리스킷을 정말 좋아하지만",
+              "하지만 여기서는 몸이 전혀 허기를 느끼지 않아. 이것도 조사할 목록에 추가해야겠어.",
+              "파슨스는 늘 먹는 게 귀찮다고 투덜대곤 하잖아.",
+              "기회가 된다면 그 친구를 여기로 보내줘. 분명 마음에 들어할 테니."
+            ],
             "pt-br": [
               "Estou com apenas cinco sinalizadores, sem contar este.",
               "À medida que me aventurei mais longe do centro em algumas direções,",
@@ -39,6 +120,42 @@
               "mas aqui a fome física simplesmente nunca aparece. Isso é mais um item a investigar.",
               "Parsons sempre reclama do incômodo de comer.",
               "Mande-o para cá se tiver oportunidade; ele vai adorar este lugar."
+            ],
+            "ru": [
+              "У меня осталось пять маяков, не считая этого.",
+              "Поскольку я отходил всё дальше от центра в разных направлениях,",
+              "Я видел, что звёзды — входы в другие миры — становятся всё реже.",
+              "Я всё ещё не знаю, насколько далеко они простираются, но по мере продвижения их всё меньше, и это даёт надежду, что их число конечно и не так уж велико.",
+              "Квигли, ты всё ещё не здесь. Надеюсь, у тебя всё хорошо.",
+              "Я должен уже тревожиться из-за нехватки еды и свежей воды.",
+              "Но здесь, похоже, мне не нужно есть. Ты же знаешь, я люблю хороший брискет,",
+              "но здесь физический голод просто не возникает. Вот ещё один пункт для изучения.",
+              "Парсонс всегда жалуется на неудобства, связанные с едой.",
+              "Проведи его сюда, если будет возможность; ему здесь понравится."
+            ],
+            "s-cn": [
+              "除去这一枚，我只剩五枚信标了。",
+              "如今，我已经从中心朝好几个方向走出了很远，",
+              "我发现，那些星形标志—— 也就是通往其他世界的入口——分布得越来越稀疏。",
+              "我仍不清楚它们分布得多广，但既然越来越稀疏， 我便盼着这里终有尽头，不会太过辽阔。",
+              "奎格利，你还是没来。希望你那边一切都好。",
+              "照理说，缺少食物和淡水这么久，我早就该慌了。",
+              "但在这里，我似乎不需要进食。你知道我最爱吃烤牛胸肉，",
+              "可在这里，身体根本不会感到饥饿。又多了一件需要调查的事。",
+              "帕森斯总抱怨吃饭麻烦。",
+              "有机会就把他送过来吧，他肯定会爱上这里。"
+            ],
+            "t-cn": [
+              "除去這一枚，我只剩五枚信標了。",
+              "如今，我已經從中心朝好幾個方向走出了很遠，",
+              "我發現，那些星形標誌—— 也就是通往其他世界的入口——分布得越來越稀疏。",
+              "我仍不清楚它們分布得多廣，但既然越來越稀疏， 我便盼著這裡終有盡頭，不會太過遼闊。",
+              "奎格利，你還是沒來。希望你那邊一切都好。",
+              "照理說，缺少食物和淡水這麼久，我早就該慌了。",
+              "但在這裡，我似乎不需要進食。你知道我最愛吃烤牛胸肉，",
+              "可在這裡，身體根本不會感到飢餓。 又多了一件需要調查的事。",
+              "帕森斯總抱怨吃飯麻煩。",
+              "有機會就把他送過來吧，他肯定會愛上這裡。"
             ]
           },
           "provenance": {
@@ -76,6 +193,78 @@
           "Parsons always complains of the nuisance of eating.",
           "Send him through if you get a chance; he'll love it here."
         ],
+        "de": [
+          "Ich habe nur noch fünf Signalgeber, diesen nicht mitgerechnet.",
+          "Nachdem ich mich nun in mehrere Richtungen weiter vom Zentrum entfernt habe,",
+          "Ich habe festgestellt, dass die Sterne – die Zugänge zu anderen Welten – immer spärlicher werden.",
+          "Ich kenne das volle Ausmaß ihrer Verbreitung noch nicht, doch ihre abnehmende Dichte lässt mich hoffen, dass das Ganze eine überschaubare, endliche Größe hat.",
+          "Quigley, du bist noch immer nicht hier. Ich hoffe, bei dir ist alles in Ordnung.",
+          "Inzwischen sollte mich der Mangel an Nahrung und frischem Wasser eigentlich beunruhigen.",
+          "Doch hier scheine ich nichts essen zu müssen. Du weißt, wie sehr ich ein gutes Brisket liebe,",
+          "aber hier stellt sich körperlicher Hunger einfach nie ein. Ein weiterer Punkt, den es zu untersuchen gilt.",
+          "Parsons beklagt sich immer darüber, wie lästig das Essen ist.",
+          "Schick ihn durch, wenn du Gelegenheit hast; er wird es hier lieben."
+        ],
+        "es": [
+          "Me quedan cinco balizas, sin contar esta.",
+          "A medida que me he ido aventurando más lejos del centro, en varias direcciones ya,",
+          "He visto que las estrellas (las entradas a otros mundos) bueno, disminuyen en densidad.",
+          "Aún no sé hasta dónde se extienden, pero su menor densidad me da esperanzas de que su extensión sea razonable y finita.",
+          "Quigley, sigues sin estar aquí. Espero que todo vaya bien por tu parte.",
+          "Ya debería estar alarmado a estas alturas, por la falta de comida y agua fresca.",
+          "Pero aquí parece que no necesito comer. Sabes que me encanta un buen pecho de ternera,",
+          "pero aquí el hambre física nunca llega a aparecer. Eso es una cosa más que investigar.",
+          "Parsons siempre se queja de lo molesto que es comer.",
+          "Envíalo si tienes ocasión; le encantará este lugar."
+        ],
+        "fr": [
+          "Il ne me reste plus que cinq balises, sans compter celle-ci.",
+          "Maintenant que je me suis aventuré plus loin du centre dans plusieurs directions,",
+          "J'ai remarqué que les étoiles, les entrées vers d'autres mondes... Eh bien, leur densité diminue.",
+          "J'ignore encore jusqu'où elles vont, mais leur raréfaction me donne l'espoir d'une étendue raisonnable et finie.",
+          "Quigley, vous n'êtes toujours pas là. J'espère que tout va bien de votre côté.",
+          "Je devrais déjà commencer à m'inquiéter, à cause du manque de nourriture et d'eau fraîche.",
+          "Mais ici, je ne semble pas avoir besoin de manger. Vous savez que j'adore un bon steak,",
+          "mais ici, la faim physique ne se manifeste jamais. Voilà encore un point à examiner.",
+          "Parsons se plaint toujours de la corvée que représente le fait de manger.",
+          "Envoyez-le ici si vous en avez l'occasion ; il adorera cet endroit."
+        ],
+        "it": [
+          "Mi restano cinque segnali, senza contare questo.",
+          "Man mano che mi sono spinto più lontano dal centro, in diverse direzioni ormai,",
+          "Ho visto che le stelle... gli ingressi ad altri mondi... beh, diminuiscono di densità.",
+          "Non so ancora fin dove si estendano, ma il loro diradarsi mi fa sperare in dimensioni ragionevoli e finite.",
+          "Quigley, non sei ancora qui. Spero che da te vada tutto bene.",
+          "Ormai dovrei essere in allarme, per la mancanza di cibo e acqua fresca.",
+          "Ma qui, a quanto pare, non devo mangiare. Sai che adoro un bel pezzo di manzo,",
+          "ma qui la fame fisica non arriva mai. È un'altra cosa su cui indagare.",
+          "Parsons si lamenta sempre del fastidio di mangiare.",
+          "Mandalo di qua, se capita l'occasione; qui gli piacerà un sacco."
+        ],
+        "ja": [
+          "これを使えば、 帯革に残る記録ビーコンは 残り6つになる。",
+          "中心を離れ、 いくつかの方向に進んでみたが、",
+          "印、つまり世界への入口の数が 少し減っていることに気づいた。",
+          "ここがどこまで続くかはわからないが、 少なくとも無限ではないと 希望が持てる。",
+          "クイグリー、まだ来ないな。 そちらは問題ないか？",
+          "本来なら水も食料もなく 私は取り乱していただろうが、",
+          "ここでは食べる必要がないらしい。 好物のブリスケットを",
+          "体がまるで求めない。 どうなっているのか 見当もつかない。",
+          "調査することが増えた。 だがパーソンズはいつも 食事を面倒くさがっていたな。",
+          "機会があれば彼を送ってくれ。 きっと気に入るぞ。"
+        ],
+        "ko": [
+          "이걸 빼면 신호기가 다섯 개 남았군.",
+          "이제 몇몇 방향으로 중심에서 더 멀리 나가 보니",
+          "별들이... 각 세계로 들어가는 입구들이... 점점 드문드문 나타나더군.",
+          "얼마나 널리 퍼져 있는지는 아직 모르지만, 점점 드문드문 나타나는 걸 보면 감당할 만한 크기에 끝도 있으리라는 희망이 생겨.",
+          "퀴글리, 아직도 안 왔군. 그쪽에 별일 없길 바라지.",
+          "지금쯤이면 먹을 것과 마실 물이 없어 불안해져야 할 텐데.",
+          "하지만 여기선 먹을 필요가 없는 것 같군. 알다시피 난 맛있는 브리스킷을 정말 좋아하지만",
+          "하지만 여기서는 몸이 전혀 허기를 느끼지 않아. 이것도 조사할 목록에 추가해야겠어.",
+          "파슨스는 늘 먹는 게 귀찮다고 투덜대곤 하잖아.",
+          "기회가 된다면 그 친구를 여기로 보내줘. 분명 마음에 들어할 테니."
+        ],
         "pt-br": [
           "Estou com apenas cinco sinalizadores, sem contar este.",
           "À medida que me aventurei mais longe do centro em algumas direções,",
@@ -87,6 +276,42 @@
           "mas aqui a fome física simplesmente nunca aparece. Isso é mais um item a investigar.",
           "Parsons sempre reclama do incômodo de comer.",
           "Mande-o para cá se tiver oportunidade; ele vai adorar este lugar."
+        ],
+        "ru": [
+          "У меня осталось пять маяков, не считая этого.",
+          "Поскольку я отходил всё дальше от центра в разных направлениях,",
+          "Я видел, что звёзды — входы в другие миры — становятся всё реже.",
+          "Я всё ещё не знаю, насколько далеко они простираются, но по мере продвижения их всё меньше, и это даёт надежду, что их число конечно и не так уж велико.",
+          "Квигли, ты всё ещё не здесь. Надеюсь, у тебя всё хорошо.",
+          "Я должен уже тревожиться из-за нехватки еды и свежей воды.",
+          "Но здесь, похоже, мне не нужно есть. Ты же знаешь, я люблю хороший брискет,",
+          "но здесь физический голод просто не возникает. Вот ещё один пункт для изучения.",
+          "Парсонс всегда жалуется на неудобства, связанные с едой.",
+          "Проведи его сюда, если будет возможность; ему здесь понравится."
+        ],
+        "s-cn": [
+          "除去这一枚，我只剩五枚信标了。",
+          "如今，我已经从中心朝好几个方向走出了很远，",
+          "我发现，那些星形标志—— 也就是通往其他世界的入口——分布得越来越稀疏。",
+          "我仍不清楚它们分布得多广，但既然越来越稀疏， 我便盼着这里终有尽头，不会太过辽阔。",
+          "奎格利，你还是没来。希望你那边一切都好。",
+          "照理说，缺少食物和淡水这么久，我早就该慌了。",
+          "但在这里，我似乎不需要进食。你知道我最爱吃烤牛胸肉，",
+          "可在这里，身体根本不会感到饥饿。又多了一件需要调查的事。",
+          "帕森斯总抱怨吃饭麻烦。",
+          "有机会就把他送过来吧，他肯定会爱上这里。"
+        ],
+        "t-cn": [
+          "除去這一枚，我只剩五枚信標了。",
+          "如今，我已經從中心朝好幾個方向走出了很遠，",
+          "我發現，那些星形標誌—— 也就是通往其他世界的入口——分布得越來越稀疏。",
+          "我仍不清楚它們分布得多廣，但既然越來越稀疏， 我便盼著這裡終有盡頭，不會太過遼闊。",
+          "奎格利，你還是沒來。希望你那邊一切都好。",
+          "照理說，缺少食物和淡水這麼久，我早就該慌了。",
+          "但在這裡，我似乎不需要進食。你知道我最愛吃烤牛胸肉，",
+          "可在這裡，身體根本不會感到飢餓。 又多了一件需要調查的事。",
+          "帕森斯總抱怨吃飯麻煩。",
+          "有機會就把他送過來吧，他肯定會愛上這裡。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "We were just giving him our estimate for the move -- as we'd agreed --",
               "and slammo, he jails us. I still don't understand."
             ],
+            "de": [
+              "Wir haben ihm doch bloß den Kostenvoranschlag für den Umzug gegeben – wie vereinbart –",
+              "und zack, hat er uns eingesperrt. Ich verstehe es noch immer nicht."
+            ],
+            "es": [
+              "Solo le estábamos pasando el presupuesto por la mudanza... Como habíamos acordado.",
+              "Y zas, va y nos encierra. Todavía no lo entiendo."
+            ],
+            "fr": [
+              "On était juste en train de lui donner notre devis pour le déménagement – comme convenu –",
+              "et paf, il nous jette en prison. Je ne comprends toujours pas."
+            ],
+            "it": [
+              "Stavamo solo presentandogli il preventivo per il trasloco... come avevamo concordato...",
+              "e zac, ci rinchiude. Ancora non capisco."
+            ],
+            "ja": [
+              "移動費の支払いを 要求しただけで",
+              "牢屋に入れられるとは どうなってるんじゃ。"
+            ],
+            "ko": [
+              "이사 비용 견적서를 전해 주려던 참이었어... 약속한 대로...",
+              "그랬더니, 바로 우릴 감옥에 넣었지. 아직도 영문을 모르겠어."
+            ],
             "pt-br": [
               "Estávamos só passando a ele o orçamento da mudança... como combinamos...",
               "e pronto, ele nos prende. Ainda não entendo."
+            ],
+            "ru": [
+              "Мы просто передавали ему смету на перевозку — как и договаривались —",
+              "а потом бац — и он сажает нас в тюрьму. Я до сих пор не понимаю."
+            ],
+            "s-cn": [
+              "我们只是按约定，告诉他这次搬运大概要多少钱……",
+              "他砰的一下，就把我们关了。我还是想不通。"
+            ],
+            "t-cn": [
+              "我們只是按約定，告訴他這次搬運大概要多少錢……",
+              "他砰的一下，就把我們關了。我還是想不通。"
             ]
           },
           "provenance": {
@@ -49,9 +94,45 @@
               "It would've been a far bigger job than he'd told me at the banquet.",
               "Did he think we were exaggerating, trying to overbill?"
             ],
+            "de": [
+              "Das wäre ein weitaus größerer Umzug geworden, als er mir beim Bankett angekündigt hat.",
+              "Hat er gedacht, wir übertreiben, um ihm zu viel zu berechnen?"
+            ],
+            "es": [
+              "Habría sido una mudanza mucho más grande de lo que me dijo en el banquete.",
+              "¿Pensaría que exagerábamos, que intentábamos cobrarle de más?"
+            ],
+            "fr": [
+              "Ça aurait été un boulot bien plus important que ce qu'il m'avait dit au banquet.",
+              "Il a peut-être pensé qu'on exagérait et essayait de l'arnaquer ?"
+            ],
+            "it": [
+              "C'era da spostare molta più roba di quella che mi aveva detto al banchetto.",
+              "Pensava che stessimo esagerando, che volevamo gonfiare il conto?"
+            ],
+            "ja": [
+              "宴で聞いた話より 大移動だったしな。",
+              "俺たちがぼったくろうと したと思ったのか？"
+            ],
+            "ko": [
+              "연회 때 나한테 말한 것보다 훨씬 큰 이사였을 거야.",
+              "우리가 일을 부풀려 말하고, 과다 청구하려는 줄 알았던 걸까?"
+            ],
             "pt-br": [
               "Isso teria sido um trabalho muito maior do que ele me disse no banquete.",
               "Ele achou que estávamos exagerando, tentando cobrar a mais?"
+            ],
+            "ru": [
+              "Это была бы куда более масштабная работа, чем он говорил мне на пиру.",
+              "Он что, решил, что мы завысили цену, пытаясь его надуть?"
+            ],
+            "s-cn": [
+              "实际要干的活儿，比他在宴会上说的多得多。",
+              "他是不是以为我们夸大工作量，想多收钱？"
+            ],
+            "t-cn": [
+              "實際要幹的活兒，比他在宴會上說的多得多。",
+              "他是不是以為我們誇大工作量，想多收錢？"
             ]
           },
           "provenance": {
@@ -73,8 +154,35 @@
             "en": [
               "Bit of an overreaction..."
             ],
+            "de": [
+              "Eine etwas heftige Reaktion..."
+            ],
+            "es": [
+              "Se ha pasado con la reacción..."
+            ],
+            "fr": [
+              "Un peu excessive, comme réaction..."
+            ],
+            "it": [
+              "Un po' esagerato..."
+            ],
+            "ja": [
+              "それにしてはやりすぎじゃ…"
+            ],
+            "ko": [
+              "좀 과한 반응이네..."
+            ],
             "pt-br": [
               "Uma reação meio exagerada..."
+            ],
+            "ru": [
+              "Перебор..."
+            ],
+            "s-cn": [
+              "这反应有点过了……"
+            ],
+            "t-cn": [
+              "這反應有點過了……"
             ]
           },
           "provenance": {
@@ -98,12 +206,75 @@
           "Did he think we were exaggerating, trying to overbill?",
           "Bit of an overreaction..."
         ],
+        "de": [
+          "Wir haben ihm doch bloß den Kostenvoranschlag für den Umzug gegeben – wie vereinbart –",
+          "und zack, hat er uns eingesperrt. Ich verstehe es noch immer nicht.",
+          "Das wäre ein weitaus größerer Umzug geworden, als er mir beim Bankett angekündigt hat.",
+          "Hat er gedacht, wir übertreiben, um ihm zu viel zu berechnen?",
+          "Eine etwas heftige Reaktion..."
+        ],
+        "es": [
+          "Solo le estábamos pasando el presupuesto por la mudanza... Como habíamos acordado.",
+          "Y zas, va y nos encierra. Todavía no lo entiendo.",
+          "Habría sido una mudanza mucho más grande de lo que me dijo en el banquete.",
+          "¿Pensaría que exagerábamos, que intentábamos cobrarle de más?",
+          "Se ha pasado con la reacción..."
+        ],
+        "fr": [
+          "On était juste en train de lui donner notre devis pour le déménagement – comme convenu –",
+          "et paf, il nous jette en prison. Je ne comprends toujours pas.",
+          "Ça aurait été un boulot bien plus important que ce qu'il m'avait dit au banquet.",
+          "Il a peut-être pensé qu'on exagérait et essayait de l'arnaquer ?",
+          "Un peu excessive, comme réaction..."
+        ],
+        "it": [
+          "Stavamo solo presentandogli il preventivo per il trasloco... come avevamo concordato...",
+          "e zac, ci rinchiude. Ancora non capisco.",
+          "C'era da spostare molta più roba di quella che mi aveva detto al banchetto.",
+          "Pensava che stessimo esagerando, che volevamo gonfiare il conto?",
+          "Un po' esagerato..."
+        ],
+        "ja": [
+          "移動費の支払いを 要求しただけで",
+          "牢屋に入れられるとは どうなってるんじゃ。",
+          "宴で聞いた話より 大移動だったしな。",
+          "俺たちがぼったくろうと したと思ったのか？",
+          "それにしてはやりすぎじゃ…"
+        ],
+        "ko": [
+          "이사 비용 견적서를 전해 주려던 참이었어... 약속한 대로...",
+          "그랬더니, 바로 우릴 감옥에 넣었지. 아직도 영문을 모르겠어.",
+          "연회 때 나한테 말한 것보다 훨씬 큰 이사였을 거야.",
+          "우리가 일을 부풀려 말하고, 과다 청구하려는 줄 알았던 걸까?",
+          "좀 과한 반응이네..."
+        ],
         "pt-br": [
           "Estávamos só passando a ele o orçamento da mudança... como combinamos...",
           "e pronto, ele nos prende. Ainda não entendo.",
           "Isso teria sido um trabalho muito maior do que ele me disse no banquete.",
           "Ele achou que estávamos exagerando, tentando cobrar a mais?",
           "Uma reação meio exagerada..."
+        ],
+        "ru": [
+          "Мы просто передавали ему смету на перевозку — как и договаривались —",
+          "а потом бац — и он сажает нас в тюрьму. Я до сих пор не понимаю.",
+          "Это была бы куда более масштабная работа, чем он говорил мне на пиру.",
+          "Он что, решил, что мы завысили цену, пытаясь его надуть?",
+          "Перебор..."
+        ],
+        "s-cn": [
+          "我们只是按约定，告诉他这次搬运大概要多少钱……",
+          "他砰的一下，就把我们关了。我还是想不通。",
+          "实际要干的活儿，比他在宴会上说的多得多。",
+          "他是不是以为我们夸大工作量，想多收钱？",
+          "这反应有点过了……"
+        ],
+        "t-cn": [
+          "我們只是按約定，告訴他這次搬運大概要多少錢……",
+          "他砰的一下，就把我們關了。我還是想不通。",
+          "實際要幹的活兒，比他在宴會上說的多得多。",
+          "他是不是以為我們誇大工作量，想多收錢？",
+          "這反應有點過了……"
         ]
       },
       "silentCues": [],
@@ -142,8 +313,35 @@
             "en": [
               "When he ordered his guards to seize us... Tif didn't seem surprised."
             ],
+            "de": [
+              "Als er seinen Wachen befohlen hat, uns festzunehmen ... Tif hat gar nicht überrascht gewirkt."
+            ],
+            "es": [
+              "Cuando mandó a sus guardias detenernos... Tif no parecía sorprendida."
+            ],
+            "fr": [
+              "Quand il a ordonné à ses gardes de nous arrêter... Tif n'avait pas l'air surprise."
+            ],
+            "it": [
+              "Quando ci ha fatto arrestare dalle guardie... Tif non sembrava sorpresa."
+            ],
+            "ja": [
+              "俺らが捕まった時、 ティフは驚いてなかったな。"
+            ],
+            "ko": [
+              "그가 경비병들에게 우릴 잡아오게 했을 때... 티프는 놀라지 않은 것 같았어."
+            ],
             "pt-br": [
               "Quando ele mandou os guardas nos prenderem... a Tif não pareceu surpresa."
+            ],
+            "ru": [
+              "Когда он приказал стражникам схватить нас... Тиф, похоже, не удивилась."
+            ],
+            "s-cn": [
+              "他命令卫兵抓我们的时候…… 蒂芙好像一点也不意外。"
+            ],
+            "t-cn": [
+              "他命令衛兵抓我們的時候……蒂芙好像一點也不意外。"
             ]
           },
           "provenance": {
@@ -164,8 +362,35 @@
             "en": [
               "Come to think ... did she look a bit sheepish to you?"
             ],
+            "de": [
+              "Wenn ich genauer darüber nachdenke ... Ist sie dir auch wie ein ertapptes Unschuldslamm vorgekommen?"
+            ],
+            "es": [
+              "Pensándolo bien... ¿no parecía un poco avergonzada?"
+            ],
+            "fr": [
+              "À bien y penser... elle se faisait petite comme une souris, non ?"
+            ],
+            "it": [
+              "A pensarci bene... sembrava un po' mortificata, secondo te?"
+            ],
+            "ja": [
+              "アイツ… ばつが悪そうじゃなかったか？"
+            ],
+            "ko": [
+              "그러고 보니... 티프가 좀 머쓱해 보이지 않았어?"
+            ],
             "pt-br": [
               "Pensando bem... ela parecia meio sem graça, não parecia?"
+            ],
+            "ru": [
+              "Кстати... она не выглядела немного смущённой, тебе не показалось?"
+            ],
+            "s-cn": [
+              "现在想想……她当时是不是有点心虚？"
+            ],
+            "t-cn": [
+              "現在想想……她當時是不是有點心虛？"
             ]
           },
           "provenance": {
@@ -186,8 +411,35 @@
             "en": [
               "Not *sheep*ish. Is there an animal more guilty than a sheep?"
             ],
+            "de": [
+              "Nicht bloß wie ein ertapptes Unschuldslamm. Welches Tier sieht denn noch schuldiger aus?"
+            ],
+            "es": [
+              "No exactamente avergonzada. ¿Qué animal tiene pinta de culpable?"
+            ],
+            "fr": [
+              "Pas une souris. Comment on dit, quand un animal a l'air penaud et coupable ?"
+            ],
+            "it": [
+              "Non proprio mortificata. Come si dice quando uno ha quell'aria... colpevole, come un animale?"
+            ],
+            "ja": [
+              "ばつが悪そうな羊、って程度じゃねえ。 もっと後ろめたそうな動物って何だ？"
+            ],
+            "ko": [
+              "당황했다기보다는... 뭐랄까, 잘못한 게 있는 것 같은 표정?"
+            ],
             "pt-br": [
               "Não exatamente sem graça. Que bicho fica com aquela cara de culpado?"
+            ],
+            "ru": [
+              "Не совсем смущённой. Как там говорят, когда у человека такой виноватый вид... ну, как у животного?"
+            ],
+            "s-cn": [
+              "不是羊那种心虚。还有比羊更心虚的动物吗？"
+            ],
+            "t-cn": [
+              "不是羊那種心虛。還有比羊更心虛的動物嗎？"
             ]
           },
           "provenance": {
@@ -208,8 +460,35 @@
             "en": [
               "A dog."
             ],
+            "de": [
+              "Ein Hund."
+            ],
+            "es": [
+              "Un perro."
+            ],
+            "fr": [
+              "Un air de chien battu."
+            ],
+            "it": [
+              "Come un cane bastonato."
+            ],
+            "ja": [
+              "犬じゃ。"
+            ],
+            "ko": [
+              "개."
+            ],
             "pt-br": [
               "Um cachorro."
+            ],
+            "ru": [
+              "Как у побитой собаки."
+            ],
+            "s-cn": [
+              "狗。"
+            ],
+            "t-cn": [
+              "狗。"
             ]
           },
           "provenance": {
@@ -230,8 +509,35 @@
             "en": [
               "A dog??"
             ],
+            "de": [
+              "Ein Hund??"
+            ],
+            "es": [
+              "¿¿Un perro??"
+            ],
+            "fr": [
+              "Un chien battu ??"
+            ],
+            "it": [
+              "Un cane bastonato??"
+            ],
+            "ja": [
+              "犬だって？"
+            ],
+            "ko": [
+              "개??"
+            ],
             "pt-br": [
               "Um cachorro??"
+            ],
+            "ru": [
+              "У побитой собаки??"
+            ],
+            "s-cn": [
+              "狗？？"
+            ],
+            "t-cn": [
+              "狗？？"
             ]
           },
           "provenance": {
@@ -252,8 +558,35 @@
             "en": [
               "A dog who dragged your big juicy leg of mutton off the table the moment you turned your back!"
             ],
+            "de": [
+              "Ein Hund, der deine große, saftige Hammelkeule vom Tisch gezogen hat, kaum dass du ihm den Rücken zugedreht hast!"
+            ],
+            "es": [
+              "¡Sí! Un perro con el rabo entre las piernas después de robar un buen muslo de cordero de la mesa mientras no mirabas."
+            ],
+            "fr": [
+              "Le chien puni pour avoir chipé un gigot bien juteux sur la table dès que tu as eu le dos tourné !"
+            ],
+            "it": [
+              "Un cane bastonato perché si è fregato un bel cosciotto succulento dal tavolo appena ti sei girato!"
+            ],
+            "ja": [
+              "お前が背を向けた途端、 食卓から大きくて肉汁たっぷりの羊の脚肉を かっさらうような犬じゃ！"
+            ],
+            "ko": [
+              "그래! 네가 돌아선 사이 식탁에서 큼지막하고 맛있는 양고기 다리를 훔쳐 먹은 개 같은 표정 말이야!"
+            ],
             "pt-br": [
               "É! Um cachorro com o rabo entre as pernas depois de roubar um belo pernil da mesa enquanto você não olhava!"
+            ],
+            "ru": [
+              "Ну да! Как у собаки, что стащила со стола сочный бараний окорок, стоило тебе отвернуться!"
+            ],
+            "s-cn": [
+              "一只趁你一转身， 就把你那根肥美多汁的羊腿从桌上拖走的狗！"
+            ],
+            "t-cn": [
+              "一隻趁你一轉身， 就把你那根肥美多汁的羊腿從桌上拖走的狗！"
             ]
           },
           "provenance": {
@@ -274,8 +607,35 @@
             "en": [
               "Yeah. That's the look."
             ],
+            "de": [
+              "Ja. Genau der Blick."
+            ],
+            "es": [
+              "Sí. Esa era exactamente la cara."
+            ],
+            "fr": [
+              "Oui. C'était exactement cet air-là."
+            ],
+            "it": [
+              "Sì. Esattamente quell'aria lì."
+            ],
+            "ja": [
+              "むしろ、 後ろめたそうだった。"
+            ],
+            "ko": [
+              "맞아. 딱 그런 표정이었어."
+            ],
             "pt-br": [
               "Isso. Era exatamente essa cara."
+            ],
+            "ru": [
+              "Да. Вот именно такой у неё был вид."
+            ],
+            "s-cn": [
+              "对，就是那副神情。"
+            ],
+            "t-cn": [
+              "對，就是那副神情。"
             ]
           },
           "provenance": {
@@ -301,6 +661,60 @@
           "A dog who dragged your big juicy leg of mutton off the table the moment you turned your back!",
           "Yeah. That's the look."
         ],
+        "de": [
+          "Als er seinen Wachen befohlen hat, uns festzunehmen ... Tif hat gar nicht überrascht gewirkt.",
+          "Wenn ich genauer darüber nachdenke ... Ist sie dir auch wie ein ertapptes Unschuldslamm vorgekommen?",
+          "Nicht bloß wie ein ertapptes Unschuldslamm. Welches Tier sieht denn noch schuldiger aus?",
+          "Ein Hund.",
+          "Ein Hund??",
+          "Ein Hund, der deine große, saftige Hammelkeule vom Tisch gezogen hat, kaum dass du ihm den Rücken zugedreht hast!",
+          "Ja. Genau der Blick."
+        ],
+        "es": [
+          "Cuando mandó a sus guardias detenernos... Tif no parecía sorprendida.",
+          "Pensándolo bien... ¿no parecía un poco avergonzada?",
+          "No exactamente avergonzada. ¿Qué animal tiene pinta de culpable?",
+          "Un perro.",
+          "¿¿Un perro??",
+          "¡Sí! Un perro con el rabo entre las piernas después de robar un buen muslo de cordero de la mesa mientras no mirabas.",
+          "Sí. Esa era exactamente la cara."
+        ],
+        "fr": [
+          "Quand il a ordonné à ses gardes de nous arrêter... Tif n'avait pas l'air surprise.",
+          "À bien y penser... elle se faisait petite comme une souris, non ?",
+          "Pas une souris. Comment on dit, quand un animal a l'air penaud et coupable ?",
+          "Un air de chien battu.",
+          "Un chien battu ??",
+          "Le chien puni pour avoir chipé un gigot bien juteux sur la table dès que tu as eu le dos tourné !",
+          "Oui. C'était exactement cet air-là."
+        ],
+        "it": [
+          "Quando ci ha fatto arrestare dalle guardie... Tif non sembrava sorpresa.",
+          "A pensarci bene... sembrava un po' mortificata, secondo te?",
+          "Non proprio mortificata. Come si dice quando uno ha quell'aria... colpevole, come un animale?",
+          "Come un cane bastonato.",
+          "Un cane bastonato??",
+          "Un cane bastonato perché si è fregato un bel cosciotto succulento dal tavolo appena ti sei girato!",
+          "Sì. Esattamente quell'aria lì."
+        ],
+        "ja": [
+          "俺らが捕まった時、 ティフは驚いてなかったな。",
+          "アイツ… ばつが悪そうじゃなかったか？",
+          "ばつが悪そうな羊、って程度じゃねえ。 もっと後ろめたそうな動物って何だ？",
+          "犬じゃ。",
+          "犬だって？",
+          "お前が背を向けた途端、 食卓から大きくて肉汁たっぷりの羊の脚肉を かっさらうような犬じゃ！",
+          "むしろ、 後ろめたそうだった。"
+        ],
+        "ko": [
+          "그가 경비병들에게 우릴 잡아오게 했을 때... 티프는 놀라지 않은 것 같았어.",
+          "그러고 보니... 티프가 좀 머쓱해 보이지 않았어?",
+          "당황했다기보다는... 뭐랄까, 잘못한 게 있는 것 같은 표정?",
+          "개.",
+          "개??",
+          "그래! 네가 돌아선 사이 식탁에서 큼지막하고 맛있는 양고기 다리를 훔쳐 먹은 개 같은 표정 말이야!",
+          "맞아. 딱 그런 표정이었어."
+        ],
         "pt-br": [
           "Quando ele mandou os guardas nos prenderem... a Tif não pareceu surpresa.",
           "Pensando bem... ela parecia meio sem graça, não parecia?",
@@ -309,6 +723,33 @@
           "Um cachorro??",
           "É! Um cachorro com o rabo entre as pernas depois de roubar um belo pernil da mesa enquanto você não olhava!",
           "Isso. Era exatamente essa cara."
+        ],
+        "ru": [
+          "Когда он приказал стражникам схватить нас... Тиф, похоже, не удивилась.",
+          "Кстати... она не выглядела немного смущённой, тебе не показалось?",
+          "Не совсем смущённой. Как там говорят, когда у человека такой виноватый вид... ну, как у животного?",
+          "Как у побитой собаки.",
+          "У побитой собаки??",
+          "Ну да! Как у собаки, что стащила со стола сочный бараний окорок, стоило тебе отвернуться!",
+          "Да. Вот именно такой у неё был вид."
+        ],
+        "s-cn": [
+          "他命令卫兵抓我们的时候…… 蒂芙好像一点也不意外。",
+          "现在想想……她当时是不是有点心虚？",
+          "不是羊那种心虚。还有比羊更心虚的动物吗？",
+          "狗。",
+          "狗？？",
+          "一只趁你一转身， 就把你那根肥美多汁的羊腿从桌上拖走的狗！",
+          "对，就是那副神情。"
+        ],
+        "t-cn": [
+          "他命令衛兵抓我們的時候……蒂芙好像一點也不意外。",
+          "現在想想……她當時是不是有點心虛？",
+          "不是羊那種心虛。還有比羊更心虛的動物嗎？",
+          "狗。",
+          "狗？？",
+          "一隻趁你一轉身， 就把你那根肥美多汁的羊腿從桌上拖走的狗！",
+          "對，就是那副神情。"
         ]
       },
       "silentCues": [],

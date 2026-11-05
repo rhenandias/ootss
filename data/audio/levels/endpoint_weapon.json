@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "I supppose we're here too late to see the nice parts."
             ],
+            "de": [
+              "Wir sind wohl zu spät hier angekommen, um noch die schönen Seiten zu sehen."
+            ],
+            "es": [
+              "Supongo que llegamos demasiado tarde para ver las partes bonitas."
+            ],
+            "fr": [
+              "Je crois que nous sommes arrivés trop tard pour voir les beaux coins."
+            ],
+            "it": [
+              "Credo che siamo arrivati troppo tardi per vedere le parti belle."
+            ],
+            "ja": [
+              "いいところを見るには 遅かったみたい。"
+            ],
+            "ko": [
+              "좋은 부분은 이미 끝난 뒤에 도착한 모양이네."
+            ],
             "pt-br": [
               "Acho que chegamos tarde demais para ver as partes bonitas."
+            ],
+            "ru": [
+              "Похоже, мы пришли сюда слишком поздно, чтобы увидеть хорошие стороны."
+            ],
+            "s-cn": [
+              "看来我们来得太晚，没赶上这里最美好的时候。"
+            ],
+            "t-cn": [
+              "看來我們來得太晚，沒趕上這裡最美好的時候。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Unfortunately, you're right. A hand, please?"
             ],
+            "de": [
+              "Leider hast du recht. Hilfst du mir bitte?"
+            ],
+            "es": [
+              "Por desgracia, tienes razón. ¿Me echas una mano?"
+            ],
+            "fr": [
+              "Malheureusement, tu as raison. Un coup de main, s'il te plaît ?"
+            ],
+            "it": [
+              "Purtroppo, hai ragione. Mi dai una mano?"
+            ],
+            "ja": [
+              "残念ながらね。 手伝ってくれる？"
+            ],
+            "ko": [
+              "안타깝게도. 손 좀 빌려줄래?"
+            ],
             "pt-br": [
               "Infelizmente, você tem razão. Uma mão, por favor?"
+            ],
+            "ru": [
+              "К сожалению, ты права. Руку, пожалуйста?"
+            ],
+            "s-cn": [
+              "可惜，你说得对。 搭把手？"
+            ],
+            "t-cn": [
+              "可惜，你說得對。 搭把手？"
             ]
           },
           "provenance": {
@@ -67,9 +130,45 @@
           "I supppose we're here too late to see the nice parts.",
           "Unfortunately, you're right. A hand, please?"
         ],
+        "de": [
+          "Wir sind wohl zu spät hier angekommen, um noch die schönen Seiten zu sehen.",
+          "Leider hast du recht. Hilfst du mir bitte?"
+        ],
+        "es": [
+          "Supongo que llegamos demasiado tarde para ver las partes bonitas.",
+          "Por desgracia, tienes razón. ¿Me echas una mano?"
+        ],
+        "fr": [
+          "Je crois que nous sommes arrivés trop tard pour voir les beaux coins.",
+          "Malheureusement, tu as raison. Un coup de main, s'il te plaît ?"
+        ],
+        "it": [
+          "Credo che siamo arrivati troppo tardi per vedere le parti belle.",
+          "Purtroppo, hai ragione. Mi dai una mano?"
+        ],
+        "ja": [
+          "いいところを見るには 遅かったみたい。",
+          "残念ながらね。 手伝ってくれる？"
+        ],
+        "ko": [
+          "좋은 부분은 이미 끝난 뒤에 도착한 모양이네.",
+          "안타깝게도. 손 좀 빌려줄래?"
+        ],
         "pt-br": [
           "Acho que chegamos tarde demais para ver as partes bonitas.",
           "Infelizmente, você tem razão. Uma mão, por favor?"
+        ],
+        "ru": [
+          "Похоже, мы пришли сюда слишком поздно, чтобы увидеть хорошие стороны.",
+          "К сожалению, ты права. Руку, пожалуйста?"
+        ],
+        "s-cn": [
+          "看来我们来得太晚，没赶上这里最美好的时候。",
+          "可惜，你说得对。 搭把手？"
+        ],
+        "t-cn": [
+          "看來我們來得太晚，沒趕上這裡最美好的時候。",
+          "可惜，你說得對。 搭把手？"
         ]
       },
       "silentCues": [],
@@ -108,8 +207,35 @@
             "en": [
               "Just ... gone ... I *almost* feel bad for the goblins."
             ],
+            "de": [
+              "Einfach ... weg ... Die Goblins könnten einem fast leid tun."
+            ],
+            "es": [
+              "Simplemente... desaparecieron... Casi me dan pena los goblins."
+            ],
+            "fr": [
+              "... Plus rien... J'en viens presque à plaindre les gobelins."
+            ],
+            "it": [
+              "Solo... scomparsi... Mi fanno quasi pena i goblin."
+            ],
+            "ja": [
+              "ただ…しーんとしてる。 ゴブリンがちょっとかわいそう。"
+            ],
+            "ko": [
+              "그냥... 사라졌잖아... 고블린들이 좀 불쌍하게 느껴질 정도야."
+            ],
             "pt-br": [
               "Simplesmente... sumiu... Quase sinto pena dos goblins."
+            ],
+            "ru": [
+              "Просто... всё исчезло... Мне почти жаль гоблинов."
+            ],
+            "s-cn": [
+              "就这么……没了……我差点都要同情那些哥布林了。"
+            ],
+            "t-cn": [
+              "就這麼……沒了……我差點都要同情那些哥布林了。"
             ]
           },
           "provenance": {
@@ -130,8 +256,35 @@
             "en": [
               "They asked for it, didn't they."
             ],
+            "de": [
+              "Sie haben es doch so gewollt."
+            ],
+            "es": [
+              "Se lo buscaron, ¿no?"
+            ],
+            "fr": [
+              "Ils l'ont bien cherché, non ?"
+            ],
+            "it": [
+              "Se la sono cercata, no?"
+            ],
+            "ja": [
+              "身から出た錆よ。"
+            ],
+            "ko": [
+              "자기들이 자초한 건데, 뭐."
+            ],
             "pt-br": [
               "Foram eles que quiseram, não foi?"
+            ],
+            "ru": [
+              "Они сами напросились, разве нет."
+            ],
+            "s-cn": [
+              "它们是自找的，不是吗？"
+            ],
+            "t-cn": [
+              "它們是自找的，不是嗎？"
             ]
           },
           "provenance": {
@@ -152,8 +305,35 @@
             "en": [
               "I did say, 'almost'!"
             ],
+            "de": [
+              "Ich habe ja „fast“ gesagt!"
+            ],
+            "es": [
+              "¡He dicho «casi»!"
+            ],
+            "fr": [
+              "J'ai dit « presque » !"
+            ],
+            "it": [
+              "Ho detto, \"quasi\"!"
+            ],
+            "ja": [
+              "ちょっとだけだって！"
+            ],
+            "ko": [
+              "그래서 내가 \"좀\" 불쌍하다고 했잖아!"
+            ],
             "pt-br": [
               "Eu disse “quase”!"
+            ],
+            "ru": [
+              "Я же сказала: «почти»!"
+            ],
+            "s-cn": [
+              "我说了，是“差点”！"
+            ],
+            "t-cn": [
+              "我說了，是「差點」！"
             ]
           },
           "provenance": {
@@ -175,10 +355,55 @@
           "They asked for it, didn't they.",
           "I did say, 'almost'!"
         ],
+        "de": [
+          "Einfach ... weg ... Die Goblins könnten einem fast leid tun.",
+          "Sie haben es doch so gewollt.",
+          "Ich habe ja „fast“ gesagt!"
+        ],
+        "es": [
+          "Simplemente... desaparecieron... Casi me dan pena los goblins.",
+          "Se lo buscaron, ¿no?",
+          "¡He dicho «casi»!"
+        ],
+        "fr": [
+          "... Plus rien... J'en viens presque à plaindre les gobelins.",
+          "Ils l'ont bien cherché, non ?",
+          "J'ai dit « presque » !"
+        ],
+        "it": [
+          "Solo... scomparsi... Mi fanno quasi pena i goblin.",
+          "Se la sono cercata, no?",
+          "Ho detto, \"quasi\"!"
+        ],
+        "ja": [
+          "ただ…しーんとしてる。 ゴブリンがちょっとかわいそう。",
+          "身から出た錆よ。",
+          "ちょっとだけだって！"
+        ],
+        "ko": [
+          "그냥... 사라졌잖아... 고블린들이 좀 불쌍하게 느껴질 정도야.",
+          "자기들이 자초한 건데, 뭐.",
+          "그래서 내가 \"좀\" 불쌍하다고 했잖아!"
+        ],
         "pt-br": [
           "Simplesmente... sumiu... Quase sinto pena dos goblins.",
           "Foram eles que quiseram, não foi?",
           "Eu disse “quase”!"
+        ],
+        "ru": [
+          "Просто... всё исчезло... Мне почти жаль гоблинов.",
+          "Они сами напросились, разве нет.",
+          "Я же сказала: «почти»!"
+        ],
+        "s-cn": [
+          "就这么……没了……我差点都要同情那些哥布林了。",
+          "它们是自找的，不是吗？",
+          "我说了，是“差点”！"
+        ],
+        "t-cn": [
+          "就這麼……沒了……我差點都要同情那些哥布林了。",
+          "它們是自找的，不是嗎？",
+          "我說了，是「差點」！"
         ]
       },
       "silentCues": [],
@@ -218,9 +443,45 @@
               "The question though: Did they ravage the town, then transport it here?,",
               "or is this ... a duplicate, timber for timber, built to be burned... and the original remains unscathed?"
             ],
+            "de": [
+              "Aber die Frage ist doch: Haben sie die Stadt verwüstet und sie dann hierhergebracht?",
+              "Oder ist das ... ein Nachbau, Balken für Balken, nur zum Niederbrennen gebaut ... und die echte Stadt ist heil geblieben?"
+            ],
+            "es": [
+              "Pero he ahí la cuestión. ¿Arrasaron el pueblo y luego lo trajeron aquí?",
+              "¿O esto es... una réplica, tablón por tablón, construida para quemarla... y el original sigue intacto?"
+            ],
+            "fr": [
+              "Mais la vraie question, c'est... ont-ils d'abord ravagé la ville, puis ils l'ont amenée ici ?",
+              "ou est-ce... une réplique, planche pour planche, construite pour être brûlée... tandis que l'original reste intact ?"
+            ],
+            "it": [
+              "Però, ecco la domanda. Hanno devastato la città, poi l'hanno portata qui?",
+              "O questa è... una copia, asse per asse, costruita per essere bruciata... mentre l'originale resta intatta?"
+            ],
+            "ja": [
+              "けど問題は… 元の町が燃やされたの？",
+              "それともここは複製で、 本物は無事なの？"
+            ],
+            "ko": [
+              "그런데 질문이 있어. 그들이 원래 마을을 쑥대밭으로 만든 다음, 여기로 가져온 거야,",
+              "아니면 이건... 불태우려고 만든, 목재 하나하나까지 똑같은 복제품이고... 원본은 멀쩡히 남아 있는 건가?"
+            ],
             "pt-br": [
               "Mas aqui vai a pergunta: Eles devastaram a cidade, depois a trouxeram para cá?",
               "Ou isto é... uma réplica, tábua por tábua, feita para ser queimada... e a original continua intacta?"
+            ],
+            "ru": [
+              "Но вот в чём вопрос. Они разорили город, а потом перенесли его сюда?",
+              "Или это... точная копия, бревно в бревно, построенная для сожжения... а оригинал остался цел?"
+            ],
+            "s-cn": [
+              "不过问题是：他们是先毁了这座城镇，再把它搬到这里来，",
+              "还是说，这里只是照原样一木一梁仿造、专门用来烧的复制品…… 而原来的镇子毫发无损？"
+            ],
+            "t-cn": [
+              "不過問題是：他們是先毀了這座城鎮， 再把它搬到這裡來，",
+              "還是說，這裡只是照原樣一木一梁仿造、 專門用來燒的複製品……而原來的鎮子毫髮無損？"
             ]
           },
           "provenance": {
@@ -242,8 +503,35 @@
             "en": [
               "We'll find out when we get back home."
             ],
+            "de": [
+              "Das finden wir heraus, wenn wir wieder zu Hause sind."
+            ],
+            "es": [
+              "Lo averiguaremos cuando volvamos a casa."
+            ],
+            "fr": [
+              "On le saura quand on rentrera chez nous."
+            ],
+            "it": [
+              "Lo scopriremo quando torneremo a casa."
+            ],
+            "ja": [
+              "帰ったらきっとわかるわ。"
+            ],
+            "ko": [
+              "집에 돌아가면 알 수 있겠지."
+            ],
             "pt-br": [
               "Vamos descobrir quando voltarmos para casa."
+            ],
+            "ru": [
+              "Узнаем, когда вернёмся домой."
+            ],
+            "s-cn": [
+              "等回到家就知道了。"
+            ],
+            "t-cn": [
+              "等回到家就知道了。"
             ]
           },
           "provenance": {
@@ -265,10 +553,55 @@
           "or is this ... a duplicate, timber for timber, built to be burned... and the original remains unscathed?",
           "We'll find out when we get back home."
         ],
+        "de": [
+          "Aber die Frage ist doch: Haben sie die Stadt verwüstet und sie dann hierhergebracht?",
+          "Oder ist das ... ein Nachbau, Balken für Balken, nur zum Niederbrennen gebaut ... und die echte Stadt ist heil geblieben?",
+          "Das finden wir heraus, wenn wir wieder zu Hause sind."
+        ],
+        "es": [
+          "Pero he ahí la cuestión. ¿Arrasaron el pueblo y luego lo trajeron aquí?",
+          "¿O esto es... una réplica, tablón por tablón, construida para quemarla... y el original sigue intacto?",
+          "Lo averiguaremos cuando volvamos a casa."
+        ],
+        "fr": [
+          "Mais la vraie question, c'est... ont-ils d'abord ravagé la ville, puis ils l'ont amenée ici ?",
+          "ou est-ce... une réplique, planche pour planche, construite pour être brûlée... tandis que l'original reste intact ?",
+          "On le saura quand on rentrera chez nous."
+        ],
+        "it": [
+          "Però, ecco la domanda. Hanno devastato la città, poi l'hanno portata qui?",
+          "O questa è... una copia, asse per asse, costruita per essere bruciata... mentre l'originale resta intatta?",
+          "Lo scopriremo quando torneremo a casa."
+        ],
+        "ja": [
+          "けど問題は… 元の町が燃やされたの？",
+          "それともここは複製で、 本物は無事なの？",
+          "帰ったらきっとわかるわ。"
+        ],
+        "ko": [
+          "그런데 질문이 있어. 그들이 원래 마을을 쑥대밭으로 만든 다음, 여기로 가져온 거야,",
+          "아니면 이건... 불태우려고 만든, 목재 하나하나까지 똑같은 복제품이고... 원본은 멀쩡히 남아 있는 건가?",
+          "집에 돌아가면 알 수 있겠지."
+        ],
         "pt-br": [
           "Mas aqui vai a pergunta: Eles devastaram a cidade, depois a trouxeram para cá?",
           "Ou isto é... uma réplica, tábua por tábua, feita para ser queimada... e a original continua intacta?",
           "Vamos descobrir quando voltarmos para casa."
+        ],
+        "ru": [
+          "Но вот в чём вопрос. Они разорили город, а потом перенесли его сюда?",
+          "Или это... точная копия, бревно в бревно, построенная для сожжения... а оригинал остался цел?",
+          "Узнаем, когда вернёмся домой."
+        ],
+        "s-cn": [
+          "不过问题是：他们是先毁了这座城镇，再把它搬到这里来，",
+          "还是说，这里只是照原样一木一梁仿造、专门用来烧的复制品…… 而原来的镇子毫发无损？",
+          "等回到家就知道了。"
+        ],
+        "t-cn": [
+          "不過問題是：他們是先毀了這座城鎮， 再把它搬到這裡來，",
+          "還是說，這裡只是照原樣一木一梁仿造、 專門用來燒的複製品……而原來的鎮子毫髮無損？",
+          "等回到家就知道了。"
         ]
       },
       "silentCues": [],
@@ -307,8 +640,35 @@
             "en": [
               "I'm sorry if I'm being rude."
             ],
+            "de": [
+              "Tut mir leid, falls ich unhöflich bin."
+            ],
+            "es": [
+              "Lo siento si estoy siendo grosera."
+            ],
+            "fr": [
+              "Je suis désolée si je te parais malpolie."
+            ],
+            "it": [
+              "Mi dispiace se sono scortese."
+            ],
+            "ja": [
+              "失礼だったらごめんね。"
+            ],
+            "ko": [
+              "무례했다면 미안해."
+            ],
             "pt-br": [
               "Desculpe se estou sendo rude."
+            ],
+            "ru": [
+              "Извини, если я грублю."
+            ],
+            "s-cn": [
+              "要是我刚才失礼了，对不起。"
+            ],
+            "t-cn": [
+              "要是我剛才失禮了，對不起。"
             ]
           },
           "provenance": {
@@ -330,9 +690,45 @@
               "What, why would you think you're being rude?",
               "It seems to me you're getting a lot done. We work well together."
             ],
+            "de": [
+              "Was? Wie kommst du denn darauf, dass du unhöflich wärst?",
+              "Meiner Meinung nach kriegst du viel hin. Wir arbeiten gut zusammen."
+            ],
+            "es": [
+              "¿Qué? ¿Por qué crees que estás siendo grosera?",
+              "Me parece que estás consiguiendo muchas cosas. Trabajamos bien juntas."
+            ],
+            "fr": [
+              "Quoi, pourquoi penserais-tu être malpolie ?",
+              "Il me semble que tu fais de l'excellent travail. On forme une belle équipe."
+            ],
+            "it": [
+              "Cosa, perché pensi di essere stata scortese?",
+              "Mi sembra che tu stia facendo molto. Lavoriamo bene insieme."
+            ],
+            "ja": [
+              "なんでそんな心配を？",
+              "息が合うし、 順調に進んでるでしょ？"
+            ],
+            "ko": [
+              "뭐가, 왜 무례하다고 생각하는 거야?",
+              "내 보기엔 일이 꽤 많이 진척된 것 같은데. 우리 꽤 잘 맞는 것 같아."
+            ],
             "pt-br": [
               "O quê? Por que você acha que está sendo rude?",
               "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntos."
+            ],
+            "ru": [
+              "А почему ты решила, что грубишь?",
+              "По-моему, ты многое успеваешь. Мы хорошо работаем вместе."
+            ],
+            "s-cn": [
+              "什么？你怎么会觉得自己失礼？",
+              "我倒觉得你做成了不少事。咱们配合得也很好。"
+            ],
+            "t-cn": [
+              "什麼？你怎麼會覺得自己失禮？",
+              "我倒覺得你做成了不少事。咱們配合得也很好。"
             ]
           },
           "provenance": {
@@ -354,8 +750,35 @@
             "en": [
               "Well, you don't seem yourself today..."
             ],
+            "de": [
+              "Na ja, du bist heute irgendwie nicht du selbst..."
+            ],
+            "es": [
+              "Bueno, hoy no pareces tú misma..."
+            ],
+            "fr": [
+              "Eh bien, tu n'as pas l'air dans ton assiette aujourd'hui..."
+            ],
+            "it": [
+              "Be', oggi non sembri tu..."
+            ],
+            "ja": [
+              "なんだか上の空みたいだから…"
+            ],
+            "ko": [
+              "음, 오늘은 좀 평소답지 않은걸..."
+            ],
             "pt-br": [
               "Bem, você não parece você hoje..."
+            ],
+            "ru": [
+              "Ну, сегодня ты не похожа на себя..."
+            ],
+            "s-cn": [
+              "可是你今天……不太像平时的你。"
+            ],
+            "t-cn": [
+              "可是你今天……不太像平時的你。"
             ]
           },
           "provenance": {
@@ -378,11 +801,65 @@
           "It seems to me you're getting a lot done. We work well together.",
           "Well, you don't seem yourself today..."
         ],
+        "de": [
+          "Tut mir leid, falls ich unhöflich bin.",
+          "Was? Wie kommst du denn darauf, dass du unhöflich wärst?",
+          "Meiner Meinung nach kriegst du viel hin. Wir arbeiten gut zusammen.",
+          "Na ja, du bist heute irgendwie nicht du selbst..."
+        ],
+        "es": [
+          "Lo siento si estoy siendo grosera.",
+          "¿Qué? ¿Por qué crees que estás siendo grosera?",
+          "Me parece que estás consiguiendo muchas cosas. Trabajamos bien juntas.",
+          "Bueno, hoy no pareces tú misma..."
+        ],
+        "fr": [
+          "Je suis désolée si je te parais malpolie.",
+          "Quoi, pourquoi penserais-tu être malpolie ?",
+          "Il me semble que tu fais de l'excellent travail. On forme une belle équipe.",
+          "Eh bien, tu n'as pas l'air dans ton assiette aujourd'hui..."
+        ],
+        "it": [
+          "Mi dispiace se sono scortese.",
+          "Cosa, perché pensi di essere stata scortese?",
+          "Mi sembra che tu stia facendo molto. Lavoriamo bene insieme.",
+          "Be', oggi non sembri tu..."
+        ],
+        "ja": [
+          "失礼だったらごめんね。",
+          "なんでそんな心配を？",
+          "息が合うし、 順調に進んでるでしょ？",
+          "なんだか上の空みたいだから…"
+        ],
+        "ko": [
+          "무례했다면 미안해.",
+          "뭐가, 왜 무례하다고 생각하는 거야?",
+          "내 보기엔 일이 꽤 많이 진척된 것 같은데. 우리 꽤 잘 맞는 것 같아.",
+          "음, 오늘은 좀 평소답지 않은걸..."
+        ],
         "pt-br": [
           "Desculpe se estou sendo rude.",
           "O quê? Por que você acha que está sendo rude?",
           "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntos.",
           "Bem, você não parece você hoje..."
+        ],
+        "ru": [
+          "Извини, если я грублю.",
+          "А почему ты решила, что грубишь?",
+          "По-моему, ты многое успеваешь. Мы хорошо работаем вместе.",
+          "Ну, сегодня ты не похожа на себя..."
+        ],
+        "s-cn": [
+          "要是我刚才失礼了，对不起。",
+          "什么？你怎么会觉得自己失礼？",
+          "我倒觉得你做成了不少事。咱们配合得也很好。",
+          "可是你今天……不太像平时的你。"
+        ],
+        "t-cn": [
+          "要是我剛才失禮了，對不起。",
+          "什麼？你怎麼會覺得自己失禮？",
+          "我倒覺得你做成了不少事。咱們配合得也很好。",
+          "可是你今天……不太像平時的你。"
         ]
       },
       "silentCues": [],
@@ -421,8 +898,35 @@
             "en": [
               "This destruction has put me in a mood. It feels ... symbolic."
             ],
+            "de": [
+              "Diese Zerstörung hat mich in eine seltsame Stimmung versetzt. Das Ganze wirkt ... symbolisch."
+            ],
+            "es": [
+              "Esta destrucción me ha puesto de un humor raro. Me resulta... simbólico."
+            ],
+            "fr": [
+              "Toute cette destruction m'a affectée. Ça me paraît... symbolique."
+            ],
+            "it": [
+              "Questo disastro mi ha sconvolta. Sembra... simbolica."
+            ],
+            "ja": [
+              "この惨状、 何か…意味がある気がするの。"
+            ],
+            "ko": [
+              "파괴 때문에 그런 거야. 뭔가... 상징적인 느낌이 들어."
+            ],
             "pt-br": [
               "Essa destruição me deixou num estado. Parece... simbólico."
+            ],
+            "ru": [
+              "Это разрушение привело меня в особое настроение. Я чувствую что-то... символическое."
+            ],
+            "s-cn": [
+              "看到这里被毁成这样，我心里很不是滋味。总觉得……它象征着什么。"
+            ],
+            "t-cn": [
+              "看到這裡被毀成這樣，我心裡很不是滋味。 總覺得……它象徵著什麼。"
             ]
           },
           "provenance": {
@@ -443,8 +947,35 @@
             "en": [
               "Of what?"
             ],
+            "de": [
+              "Wofür?"
+            ],
+            "es": [
+              "¿Y qué simboliza?"
+            ],
+            "fr": [
+              "De quoi ?"
+            ],
+            "it": [
+              "Per cosa?"
+            ],
+            "ja": [
+              "どんな？"
+            ],
+            "ko": [
+              "무슨 상징?"
+            ],
             "pt-br": [
               "De quê?"
+            ],
+            "ru": [
+              "Чего?"
+            ],
+            "s-cn": [
+              "象征什么？"
+            ],
+            "t-cn": [
+              "象徵什麼？"
             ]
           },
           "provenance": {
@@ -465,8 +996,35 @@
             "en": [
               "I don't quite know, and this is what bothers me."
             ],
+            "de": [
+              "Ich weiß es nicht genau, und das beunruhigt mich."
+            ],
+            "es": [
+              "No lo sé muy bien, y eso me preocupa."
+            ],
+            "fr": [
+              "Je ne sais pas trop, et c'est ce qui m'inquiète."
+            ],
+            "it": [
+              "Non lo so bene, e la cosa mi disturba."
+            ],
+            "ja": [
+              "わからないから気がかりなのよ。"
+            ],
+            "ko": [
+              "정확히는 모르겠는데, 그게 나를 불편하게 해."
+            ],
             "pt-br": [
               "Não sei ao certo, e isso me incomoda."
+            ],
+            "ru": [
+              "Я и сама толком не знаю, и это меня тревожит."
+            ],
+            "s-cn": [
+              "我也说不上来。正因如此，我才不安。"
+            ],
+            "t-cn": [
+              "我也說不上來。正因如此，我才不安。"
             ]
           },
           "provenance": {
@@ -488,10 +1046,55 @@
           "Of what?",
           "I don't quite know, and this is what bothers me."
         ],
+        "de": [
+          "Diese Zerstörung hat mich in eine seltsame Stimmung versetzt. Das Ganze wirkt ... symbolisch.",
+          "Wofür?",
+          "Ich weiß es nicht genau, und das beunruhigt mich."
+        ],
+        "es": [
+          "Esta destrucción me ha puesto de un humor raro. Me resulta... simbólico.",
+          "¿Y qué simboliza?",
+          "No lo sé muy bien, y eso me preocupa."
+        ],
+        "fr": [
+          "Toute cette destruction m'a affectée. Ça me paraît... symbolique.",
+          "De quoi ?",
+          "Je ne sais pas trop, et c'est ce qui m'inquiète."
+        ],
+        "it": [
+          "Questo disastro mi ha sconvolta. Sembra... simbolica.",
+          "Per cosa?",
+          "Non lo so bene, e la cosa mi disturba."
+        ],
+        "ja": [
+          "この惨状、 何か…意味がある気がするの。",
+          "どんな？",
+          "わからないから気がかりなのよ。"
+        ],
+        "ko": [
+          "파괴 때문에 그런 거야. 뭔가... 상징적인 느낌이 들어.",
+          "무슨 상징?",
+          "정확히는 모르겠는데, 그게 나를 불편하게 해."
+        ],
         "pt-br": [
           "Essa destruição me deixou num estado. Parece... simbólico.",
           "De quê?",
           "Não sei ao certo, e isso me incomoda."
+        ],
+        "ru": [
+          "Это разрушение привело меня в особое настроение. Я чувствую что-то... символическое.",
+          "Чего?",
+          "Я и сама толком не знаю, и это меня тревожит."
+        ],
+        "s-cn": [
+          "看到这里被毁成这样，我心里很不是滋味。总觉得……它象征着什么。",
+          "象征什么？",
+          "我也说不上来。正因如此，我才不安。"
+        ],
+        "t-cn": [
+          "看到這裡被毀成這樣，我心裡很不是滋味。 總覺得……它象徵著什麼。",
+          "象徵什麼？",
+          "我也說不上來。正因如此，我才不安。"
         ]
       },
       "silentCues": [],
@@ -530,8 +1133,35 @@
             "en": [
               "What does it feel like?"
             ],
+            "de": [
+              "Wie fühlt es sich denn an?"
+            ],
+            "es": [
+              "¿A qué te recuerda?"
+            ],
+            "fr": [
+              "Qu'est-ce que tu ressens ?"
+            ],
+            "it": [
+              "Che sensazione ti dà?"
+            ],
+            "ja": [
+              "どんな気分なの？"
+            ],
+            "ko": [
+              "어떤 느낌인데?"
+            ],
             "pt-br": [
               "Como é essa sensação?"
+            ],
+            "ru": [
+              "На что это похоже?"
+            ],
+            "s-cn": [
+              "像什么？"
+            ],
+            "t-cn": [
+              "像什麼？"
             ]
           },
           "provenance": {
@@ -553,9 +1183,45 @@
               "Happy memories, burned like an old manuscript that was fake;",
               "or a manuscript that was real, but I treated it as a fake."
             ],
+            "de": [
+              "Schöne Erinnerungen an früher, verbrannt wie ein altes Manuskript, das eine Fälschung war;",
+              "oder ein Manuskript, das echt war, das ich aber wie eine Fälschung behandelt habe."
+            ],
+            "es": [
+              "Felices recuerdos, abrasados como un viejo manuscrito que era falso;",
+              "o un manuscrito que era verdadero, pero yo lo traté como si fuera falso."
+            ],
+            "fr": [
+              "Comme si de bons souvenirs avaient été brûlés, comme un vieux manuscrit qui était un faux ;",
+              "ou un manuscrit qui était vrai, mais que j'ai traité comme un faux."
+            ],
+            "it": [
+              "Bei ricordi, bruciati come un vecchio manoscritto che era falso;",
+              "o un manoscritto che era vero, ma che ho trattato come se fosse falso."
+            ],
+            "ja": [
+              "昔の幸せな記憶が 偽物の古文書のように焼かれた気分。",
+              "あるいは本物だったのに 偽物として扱ったような気分。"
+            ],
+            "ko": [
+              "과거의 행복한 기억이 마치 오래된 가짜 필사본처럼 불타 버린 느낌이랄까.",
+              "아니면 진짜였는데 가짜인 줄 알고 취급한 것 같기도 하고."
+            ],
             "pt-br": [
               "Lembranças felizes, queimadas como um velho manuscrito que era falso;",
               "ou um manuscrito que era verdadeiro, mas eu tratei como se fosse falso."
+            ],
+            "ru": [
+              "Счастливые воспоминания, сожжённые как старый фальшивый манускрипт;",
+              "или как настоящий, но я обращалась с ним как с подделкой."
+            ],
+            "s-cn": [
+              "美好的回忆付之一炬，就像烧掉一卷伪造的旧手稿，",
+              "又或许本是真迹，却被我当成了赝品。"
+            ],
+            "t-cn": [
+              "美好的回憶付之一炬，就像燒掉一卷偽造的舊手稿，",
+              "又或許本是真跡，卻被我當成了贗品。"
             ]
           },
           "provenance": {
@@ -577,8 +1243,35 @@
             "en": [
               "I don't fully follow, but I'm with you. Let's keep going."
             ],
+            "de": [
+              "Ich verstehe nicht alles, aber ich bin dabei. Gehen wir weiter."
+            ],
+            "es": [
+              "No lo entiendo del todo, pero estoy contigo. Sigamos."
+            ],
+            "fr": [
+              "Je ne comprends pas tout, mais je suis là pour te soutenir. Continuons."
+            ],
+            "it": [
+              "Non capisco del tutto, ma sono con te. Andiamo avanti."
+            ],
+            "ja": [
+              "意味はよくわからないけど、 気持ちはわかるよ。"
+            ],
+            "ko": [
+              "완전히 이해하진 못했지만, 함께할게. 계속 가자."
+            ],
             "pt-br": [
               "Não entendo tudo, mas estou com você. Vamos em frente."
+            ],
+            "ru": [
+              "Не до конца понимаю, но я с тобой. Продолжим."
+            ],
+            "s-cn": [
+              "我没完全听懂，但我会陪着你。咱们继续走吧。"
+            ],
+            "t-cn": [
+              "我沒完全聽懂，但我會陪著你。咱們繼續走吧。"
             ]
           },
           "provenance": {
@@ -601,11 +1294,65 @@
           "or a manuscript that was real, but I treated it as a fake.",
           "I don't fully follow, but I'm with you. Let's keep going."
         ],
+        "de": [
+          "Wie fühlt es sich denn an?",
+          "Schöne Erinnerungen an früher, verbrannt wie ein altes Manuskript, das eine Fälschung war;",
+          "oder ein Manuskript, das echt war, das ich aber wie eine Fälschung behandelt habe.",
+          "Ich verstehe nicht alles, aber ich bin dabei. Gehen wir weiter."
+        ],
+        "es": [
+          "¿A qué te recuerda?",
+          "Felices recuerdos, abrasados como un viejo manuscrito que era falso;",
+          "o un manuscrito que era verdadero, pero yo lo traté como si fuera falso.",
+          "No lo entiendo del todo, pero estoy contigo. Sigamos."
+        ],
+        "fr": [
+          "Qu'est-ce que tu ressens ?",
+          "Comme si de bons souvenirs avaient été brûlés, comme un vieux manuscrit qui était un faux ;",
+          "ou un manuscrit qui était vrai, mais que j'ai traité comme un faux.",
+          "Je ne comprends pas tout, mais je suis là pour te soutenir. Continuons."
+        ],
+        "it": [
+          "Che sensazione ti dà?",
+          "Bei ricordi, bruciati come un vecchio manoscritto che era falso;",
+          "o un manoscritto che era vero, ma che ho trattato come se fosse falso.",
+          "Non capisco del tutto, ma sono con te. Andiamo avanti."
+        ],
+        "ja": [
+          "どんな気分なの？",
+          "昔の幸せな記憶が 偽物の古文書のように焼かれた気分。",
+          "あるいは本物だったのに 偽物として扱ったような気分。",
+          "意味はよくわからないけど、 気持ちはわかるよ。"
+        ],
+        "ko": [
+          "어떤 느낌인데?",
+          "과거의 행복한 기억이 마치 오래된 가짜 필사본처럼 불타 버린 느낌이랄까.",
+          "아니면 진짜였는데 가짜인 줄 알고 취급한 것 같기도 하고.",
+          "완전히 이해하진 못했지만, 함께할게. 계속 가자."
+        ],
         "pt-br": [
           "Como é essa sensação?",
           "Lembranças felizes, queimadas como um velho manuscrito que era falso;",
           "ou um manuscrito que era verdadeiro, mas eu tratei como se fosse falso.",
           "Não entendo tudo, mas estou com você. Vamos em frente."
+        ],
+        "ru": [
+          "На что это похоже?",
+          "Счастливые воспоминания, сожжённые как старый фальшивый манускрипт;",
+          "или как настоящий, но я обращалась с ним как с подделкой.",
+          "Не до конца понимаю, но я с тобой. Продолжим."
+        ],
+        "s-cn": [
+          "像什么？",
+          "美好的回忆付之一炬，就像烧掉一卷伪造的旧手稿，",
+          "又或许本是真迹，却被我当成了赝品。",
+          "我没完全听懂，但我会陪着你。咱们继续走吧。"
+        ],
+        "t-cn": [
+          "像什麼？",
+          "美好的回憶付之一炬，就像燒掉一卷偽造的舊手稿，",
+          "又或許本是真跡，卻被我當成了贗品。",
+          "我沒完全聽懂，但我會陪著你。咱們繼續走吧。"
         ]
       },
       "silentCues": [],
@@ -644,8 +1391,35 @@
             "en": [
               "I'm glad we had so much time together."
             ],
+            "de": [
+              "Ich bin froh, dass wir so viel Zeit zusammen hatten."
+            ],
+            "es": [
+              "Me alegra que hayamos pasado tanto tiempo juntas."
+            ],
+            "fr": [
+              "Je suis contente qu'on ait pu passer autant de temps ensemble."
+            ],
+            "it": [
+              "Sono felice che abbiamo avuto così tanto tempo insieme."
+            ],
+            "ja": [
+              "一緒に行動できてよかった。"
+            ],
+            "ko": [
+              "이렇게 오랜 시간을 함께 보내서 다행이야!"
+            ],
             "pt-br": [
               "Que bom ter tido tanto tempo juntos."
+            ],
+            "ru": [
+              "Я рада, что мы провели столько времени вместе."
+            ],
+            "s-cn": [
+              "很高兴我们能一起度过这么多时光。"
+            ],
+            "t-cn": [
+              "很高興我們能一起度過這麼多時光。"
             ]
           },
           "provenance": {
@@ -666,8 +1440,35 @@
             "en": [
               "We did well, friend."
             ],
+            "de": [
+              "Das haben wir gut gemacht, meine Freundin."
+            ],
+            "es": [
+              "Lo hicimos bien, amiga."
+            ],
+            "fr": [
+              "On s'en est bien sorties, mon amie."
+            ],
+            "it": [
+              "Ce la siamo cavata bene, amico."
+            ],
+            "ja": [
+              "私もよ。 そう見えなくても。"
+            ],
+            "ko": [
+              "우린 잘 해냈어, 친구."
+            ],
             "pt-br": [
               "Nos saímos bem, amigo."
+            ],
+            "ru": [
+              "Мы хорошо справились, друг."
+            ],
+            "s-cn": [
+              "我们干得不错，朋友。"
+            ],
+            "t-cn": [
+              "我們幹得不錯，朋友。"
             ]
           },
           "provenance": {
@@ -688,9 +1489,45 @@
           "I'm glad we had so much time together.",
           "We did well, friend."
         ],
+        "de": [
+          "Ich bin froh, dass wir so viel Zeit zusammen hatten.",
+          "Das haben wir gut gemacht, meine Freundin."
+        ],
+        "es": [
+          "Me alegra que hayamos pasado tanto tiempo juntas.",
+          "Lo hicimos bien, amiga."
+        ],
+        "fr": [
+          "Je suis contente qu'on ait pu passer autant de temps ensemble.",
+          "On s'en est bien sorties, mon amie."
+        ],
+        "it": [
+          "Sono felice che abbiamo avuto così tanto tempo insieme.",
+          "Ce la siamo cavata bene, amico."
+        ],
+        "ja": [
+          "一緒に行動できてよかった。",
+          "私もよ。 そう見えなくても。"
+        ],
+        "ko": [
+          "이렇게 오랜 시간을 함께 보내서 다행이야!",
+          "우린 잘 해냈어, 친구."
+        ],
         "pt-br": [
           "Que bom ter tido tanto tempo juntos.",
           "Nos saímos bem, amigo."
+        ],
+        "ru": [
+          "Я рада, что мы провели столько времени вместе.",
+          "Мы хорошо справились, друг."
+        ],
+        "s-cn": [
+          "很高兴我们能一起度过这么多时光。",
+          "我们干得不错，朋友。"
+        ],
+        "t-cn": [
+          "很高興我們能一起度過這麼多時光。",
+          "我們幹得不錯，朋友。"
         ]
       },
       "silentCues": [],

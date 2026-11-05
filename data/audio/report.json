@@ -20,7 +20,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "sources": {
     "packageSha256": "408aba3676925faea0c823f8c231e30844feffe9c32ae42644d273ef31863589",
@@ -7923,25 +7932,82 @@
   },
   "translationIssues": {
     "audiolog_s_magistrate": {
-      "pt-br": "Clip identities differ from English"
+      "de": "Clip identities differ from English",
+      "es": "Clip identities differ from English",
+      "fr": "Clip identities differ from English",
+      "it": "Clip identities differ from English",
+      "ko": "Clip identities differ from English",
+      "pt-br": "Clip identities differ from English",
+      "ru": "Clip identities differ from English",
+      "s-cn": "Clip identities differ from English",
+      "t-cn": "Clip identities differ from English"
     },
     "audiolog_sky_laws_of_form": {
-      "pt-br": "Clip identities differ from English"
+      "de": "Clip identities differ from English",
+      "es": "Clip identities differ from English",
+      "fr": "Clip identities differ from English",
+      "it": "Clip identities differ from English",
+      "ko": "Clip identities differ from English",
+      "pt-br": "Clip identities differ from English",
+      "ru": "Clip identities differ from English",
+      "s-cn": "Clip identities differ from English",
+      "t-cn": "Clip identities differ from English"
     },
     "audiolog_sky_play_of_form_3": {
-      "pt-br": "Clip identities differ from English"
+      "de": "Clip identities differ from English",
+      "es": "Clip identities differ from English",
+      "fr": "Clip identities differ from English",
+      "it": "Clip identities differ from English",
+      "ko": "Clip identities differ from English",
+      "pt-br": "Clip identities differ from English",
+      "ru": "Clip identities differ from English",
+      "s-cn": "Clip identities differ from English",
+      "t-cn": "Clip identities differ from English"
     },
     "all_together_now_reassembly_1": {
-      "pt-br": "Clip identities differ from English"
+      "de": "Clip identities differ from English",
+      "es": "Clip identities differ from English",
+      "fr": "Clip identities differ from English",
+      "it": "Clip identities differ from English",
+      "ja": "Ambiguous clip boundary in all_together_now_reassembly_1 at line 11887",
+      "ko": "Clip identities differ from English",
+      "pt-br": "Clip identities differ from English",
+      "ru": "Clip identities differ from English",
+      "s-cn": "Clip identities differ from English",
+      "t-cn": "Clip identities differ from English"
     },
     "paradise_lost_invocation_credits": {
-      "pt-br": "Clip has no transcript in paradise_lost_invocation_credits"
+      "de": "Clip has no transcript in paradise_lost_invocation_credits",
+      "es": "Clip has no transcript in paradise_lost_invocation_credits",
+      "fr": "Clip has no transcript in paradise_lost_invocation_credits",
+      "it": "Clip has no transcript in paradise_lost_invocation_credits",
+      "ko": "Clip has no transcript in paradise_lost_invocation_credits",
+      "pt-br": "Clip has no transcript in paradise_lost_invocation_credits",
+      "ru": "Clip has no transcript in paradise_lost_invocation_credits",
+      "s-cn": "Clip has no transcript in paradise_lost_invocation_credits",
+      "t-cn": "Clip has no transcript in paradise_lost_invocation_credits"
     },
     "paradise_lost_invocation_2": {
-      "pt-br": "Clip identities differ from English"
+      "de": "Clip identities differ from English",
+      "es": "Clip identities differ from English",
+      "fr": "Clip identities differ from English",
+      "it": "Clip identities differ from English",
+      "ko": "Clip identities differ from English",
+      "pt-br": "Clip identities differ from English",
+      "ru": "Clip identities differ from English",
+      "s-cn": "Clip identities differ from English",
+      "t-cn": "Clip identities differ from English"
     },
     "actor_credits": {
-      "pt-br": "'actor_credits'"
+      "de": "'actor_credits'",
+      "es": "'actor_credits'",
+      "fr": "'actor_credits'",
+      "it": "'actor_credits'",
+      "ko": "'actor_credits'",
+      "pt-br": "'actor_credits'",
+      "ru": "'actor_credits'",
+      "s-cn": "'actor_credits'",
+      "t-cn": "'actor_credits'"
     }
   },
   "unreferencedBlocks": [

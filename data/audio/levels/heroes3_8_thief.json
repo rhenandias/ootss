@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "So I found out he'd been crystalizing people,",
               "and he locked us in his dungeon. But we escaped, we told the King, the King deputized us, and now we're here."
             ],
+            "de": [
+              "Also, ich habe rausgefunden, dass er Menschen in Kristalle verwandelt,",
+              "und er hat uns in seinen Kerker gesperrt. Aber wir sind entkommen, haben's dem König erzählt, der hat uns zu seinen Beauftragten gemacht, und jetzt sind wir hier."
+            ],
+            "es": [
+              "El caso es que me enteré de que había estado cristalizando a la gente,",
+              "y nos encerró en su mazmorra. Pero escapamos, se lo contamos al rey, el rey nos hizo el encargo, y aquí estamos ahora."
+            ],
+            "fr": [
+              "Et donc, j'ai découvert qu'il transformait les gens en cristaux,",
+              "et il nous a enfermés dans son donjon. Mais on a réussi à s'échapper, on a tout raconté au roi, le roi nous a mandatés, et maintenant on est là."
+            ],
+            "it": [
+              "Quindi ho scoperto che stava cristallizzando le persone,",
+              "e ci ha rinchiusi in prigione. Ma siamo scappati, abbiamo detto quello che succedeva al Re, che ci ha dato potere e ora siamo qui."
+            ],
+            "ja": [
+              "ヤツが人をクリスタルに 変えてるって突き止めたら、",
+              "あたしたち、捕まったんだ。 でも逃げ出して王に伝えた。"
+            ],
+            "ko": [
+              "그래서 치안판사가 사람들을 수정으로 바꾸고 있었다는 걸 알게 됐고,",
+              "놈은 우릴 감옥에 가뒀지. 하지만 우린 탈출했고, 그 일에 대해 국왕께 알렸어. 국왕께서 우리를 대리인으로 임명하셨고, 그래서 여기 온 거야."
+            ],
             "pt-br": [
               "Então descobri que ele estava cristalizando pessoas,",
               "e nos trancou na masmorra dele. Mas a gente escapou, contamos isso ao Rei, o Rei nos nomeou, e agora estamos aqui."
+            ],
+            "ru": [
+              "Итак, я узнала, что он превращал людей в кристаллы,",
+              "и он запер нас в своей темнице. Но мы сбежали, рассказали об этом королю, король дал нам полномочия, и вот мы здесь."
+            ],
+            "s-cn": [
+              "所以后来我发现他一直在把人变成水晶，",
+              "他把我们关进了他的地牢，但我们逃了出去， 还把事情告诉了国王。 国王授权我们追捕他，于是我们就来了。"
+            ],
+            "t-cn": [
+              "所以後來我發現他一直在把人變成水晶，",
+              "他把我們關進了他的地牢，但我們逃了出去， 還把事情告訴了國王。國王授權我們追捕他，於是我們就來了。"
             ]
           },
           "provenance": {
@@ -50,10 +95,55 @@
               "And in such a savvy outfit!",
               "It shows you know how to make friends with all manner of folk."
             ],
+            "de": [
+              "Wie mutig von euch, so weit zu reisen, durch all das Chaos und Unheil.",
+              "Und das in einer so schicken Aufmachung!",
+              "Sie zeigt, dass du weißt, wie man Freunde gewinnt, und zwar in den unterschiedlichsten Kreisen."
+            ],
+            "es": [
+              "Qué valiente por tu parte viajar hasta aquí, atravesando el caos y la calamidad.",
+              "¡Y con un atuendo tan elegante!",
+              "Demuestra que sabes hacer amigos con todo tipo de personas."
+            ],
+            "fr": [
+              "Comme c'est courageux d'avoir fait tout ce chemin à travers le chaos et les calamités.",
+              "Et avec une tenue si stylée !",
+              "Ça montre que tu sais te faire des amis parmi toutes sortes de gens."
+            ],
+            "it": [
+              "Coraggioso da parte tua venire fin qui, attraverso caos e calamità.",
+              "E con un abito così elegante!",
+              "Dimostra che sai fare amicizia con gente di ogni tipo."
+            ],
+            "ja": [
+              "危険を賭してここまで来て 度胸があるのね！",
+              "それにあなたの服、いいわね。 どんな人とでも",
+              "仲良くなれる… それがよく表れてるわ。"
+            ],
+            "ko": [
+              "이 먼 길까지 온 건 용감한 일이야. 혼란과 재앙을 뚫고 말이지.",
+              "그리고 옷차림도 정말 멋진걸!",
+              "네가 온갖 사람들과 친해지는 법을 안다는 게 딱 보인다."
+            ],
             "pt-br": [
               "Foi corajoso da sua parte viajar até aqui, atravessando o caos e a calamidade.",
               "E com uma roupa tão elegante!",
               "Mostra que você sabe fazer amizade com todo tipo de gente."
+            ],
+            "ru": [
+              "Смело с твоей стороны — проделать весь этот путь, сквозь хаос и бедствия.",
+              "И в таком стильном наряде!",
+              "Он сразу показывает, что ты умеешь дружить с самыми разными людьми."
+            ],
+            "s-cn": [
+              "一路混乱不堪、灾祸不断，你们还能走到这里，真勇敢。",
+              "而且还穿得这么有品位！",
+              "一看就知道，你们懂得怎么和形形色色的人交朋友。"
+            ],
+            "t-cn": [
+              "一路混亂不堪、災禍不斷，你們還能走到這裡，真勇敢。",
+              "而且還穿得這麼有品位！",
+              "一看就知道，你們懂得怎麼和形形色色的人交朋友。"
             ]
           },
           "provenance": {
@@ -76,8 +166,35 @@
             "en": [
               "Awww. Thank you. Your dress is really pretty."
             ],
+            "de": [
+              "Awww. Danke. Dein Kleid ist wirklich hübsch."
+            ],
+            "es": [
+              "Aaahh. Gracias. Tu vestido es muy bonito."
+            ],
+            "fr": [
+              "Oh, merci ! Ta robe est vraiment jolie aussi."
+            ],
+            "it": [
+              "Oohhh. Grazie. Il tuo vestito è davvero bello."
+            ],
+            "ja": [
+              "ええ～！ありがとう！ あんたのドレスもすごくキレイ。"
+            ],
+            "ko": [
+              "어머, 고마워. 네 드레스도 정말 예쁘다."
+            ],
             "pt-br": [
               "Óun. Obrigado. Seu vestido é muito bonito."
+            ],
+            "ru": [
+              "О-о. Спасибо. У тебя платье очень красивое."
+            ],
+            "s-cn": [
+              "哎呀，谢谢。你的裙子也特别漂亮。"
+            ],
+            "t-cn": [
+              "哎呀，謝謝。你的裙子也特別漂亮。"
             ]
           },
           "provenance": {
@@ -102,6 +219,54 @@
           "It shows you know how to make friends with all manner of folk.",
           "Awww. Thank you. Your dress is really pretty."
         ],
+        "de": [
+          "Also, ich habe rausgefunden, dass er Menschen in Kristalle verwandelt,",
+          "und er hat uns in seinen Kerker gesperrt. Aber wir sind entkommen, haben's dem König erzählt, der hat uns zu seinen Beauftragten gemacht, und jetzt sind wir hier.",
+          "Wie mutig von euch, so weit zu reisen, durch all das Chaos und Unheil.",
+          "Und das in einer so schicken Aufmachung!",
+          "Sie zeigt, dass du weißt, wie man Freunde gewinnt, und zwar in den unterschiedlichsten Kreisen.",
+          "Awww. Danke. Dein Kleid ist wirklich hübsch."
+        ],
+        "es": [
+          "El caso es que me enteré de que había estado cristalizando a la gente,",
+          "y nos encerró en su mazmorra. Pero escapamos, se lo contamos al rey, el rey nos hizo el encargo, y aquí estamos ahora.",
+          "Qué valiente por tu parte viajar hasta aquí, atravesando el caos y la calamidad.",
+          "¡Y con un atuendo tan elegante!",
+          "Demuestra que sabes hacer amigos con todo tipo de personas.",
+          "Aaahh. Gracias. Tu vestido es muy bonito."
+        ],
+        "fr": [
+          "Et donc, j'ai découvert qu'il transformait les gens en cristaux,",
+          "et il nous a enfermés dans son donjon. Mais on a réussi à s'échapper, on a tout raconté au roi, le roi nous a mandatés, et maintenant on est là.",
+          "Comme c'est courageux d'avoir fait tout ce chemin à travers le chaos et les calamités.",
+          "Et avec une tenue si stylée !",
+          "Ça montre que tu sais te faire des amis parmi toutes sortes de gens.",
+          "Oh, merci ! Ta robe est vraiment jolie aussi."
+        ],
+        "it": [
+          "Quindi ho scoperto che stava cristallizzando le persone,",
+          "e ci ha rinchiusi in prigione. Ma siamo scappati, abbiamo detto quello che succedeva al Re, che ci ha dato potere e ora siamo qui.",
+          "Coraggioso da parte tua venire fin qui, attraverso caos e calamità.",
+          "E con un abito così elegante!",
+          "Dimostra che sai fare amicizia con gente di ogni tipo.",
+          "Oohhh. Grazie. Il tuo vestito è davvero bello."
+        ],
+        "ja": [
+          "ヤツが人をクリスタルに 変えてるって突き止めたら、",
+          "あたしたち、捕まったんだ。 でも逃げ出して王に伝えた。",
+          "危険を賭してここまで来て 度胸があるのね！",
+          "それにあなたの服、いいわね。 どんな人とでも",
+          "仲良くなれる… それがよく表れてるわ。",
+          "ええ～！ありがとう！ あんたのドレスもすごくキレイ。"
+        ],
+        "ko": [
+          "그래서 치안판사가 사람들을 수정으로 바꾸고 있었다는 걸 알게 됐고,",
+          "놈은 우릴 감옥에 가뒀지. 하지만 우린 탈출했고, 그 일에 대해 국왕께 알렸어. 국왕께서 우리를 대리인으로 임명하셨고, 그래서 여기 온 거야.",
+          "이 먼 길까지 온 건 용감한 일이야. 혼란과 재앙을 뚫고 말이지.",
+          "그리고 옷차림도 정말 멋진걸!",
+          "네가 온갖 사람들과 친해지는 법을 안다는 게 딱 보인다.",
+          "어머, 고마워. 네 드레스도 정말 예쁘다."
+        ],
         "pt-br": [
           "Então descobri que ele estava cristalizando pessoas,",
           "e nos trancou na masmorra dele. Mas a gente escapou, contamos isso ao Rei, o Rei nos nomeou, e agora estamos aqui.",
@@ -109,6 +274,30 @@
           "E com uma roupa tão elegante!",
           "Mostra que você sabe fazer amizade com todo tipo de gente.",
           "Óun. Obrigado. Seu vestido é muito bonito."
+        ],
+        "ru": [
+          "Итак, я узнала, что он превращал людей в кристаллы,",
+          "и он запер нас в своей темнице. Но мы сбежали, рассказали об этом королю, король дал нам полномочия, и вот мы здесь.",
+          "Смело с твоей стороны — проделать весь этот путь, сквозь хаос и бедствия.",
+          "И в таком стильном наряде!",
+          "Он сразу показывает, что ты умеешь дружить с самыми разными людьми.",
+          "О-о. Спасибо. У тебя платье очень красивое."
+        ],
+        "s-cn": [
+          "所以后来我发现他一直在把人变成水晶，",
+          "他把我们关进了他的地牢，但我们逃了出去， 还把事情告诉了国王。 国王授权我们追捕他，于是我们就来了。",
+          "一路混乱不堪、灾祸不断，你们还能走到这里，真勇敢。",
+          "而且还穿得这么有品位！",
+          "一看就知道，你们懂得怎么和形形色色的人交朋友。",
+          "哎呀，谢谢。你的裙子也特别漂亮。"
+        ],
+        "t-cn": [
+          "所以後來我發現他一直在把人變成水晶，",
+          "他把我們關進了他的地牢，但我們逃了出去， 還把事情告訴了國王。國王授權我們追捕他，於是我們就來了。",
+          "一路混亂不堪、災禍不斷，你們還能走到這裡，真勇敢。",
+          "而且還穿得這麼有品位！",
+          "一看就知道，你們懂得怎麼和形形色色的人交朋友。",
+          "哎呀，謝謝。你的裙子也特別漂亮。"
         ]
       },
       "silentCues": [],
@@ -147,8 +336,35 @@
             "en": [
               "This man who makes the crystals, what does he look like?"
             ],
+            "de": [
+              "Dieser Mann, der die Kristalle herstellt – wie sieht er aus?"
+            ],
+            "es": [
+              "Ese hombre que hace los cristales, ¿cómo es?"
+            ],
+            "fr": [
+              "Cet homme qui fabrique les cristaux, à quoi ressemble-t-il ?"
+            ],
+            "it": [
+              "Com'è fatto, quest'uomo che crea i cristalli? Che aspetto ha?"
+            ],
+            "ja": [
+              "このクリスタルを作ったのは どんな人なの？"
+            ],
+            "ko": [
+              "수정을 만드는 그 남자, 어떻게 생겼어?"
+            ],
             "pt-br": [
               "Esse homem que faz os cristais, como ele é?"
+            ],
+            "ru": [
+              "Этот человек, который делает кристаллы, как он выглядит?"
+            ],
+            "s-cn": [
+              "那个制造水晶的男人，长什么样？"
+            ],
+            "t-cn": [
+              "那個製造水晶的男人，長什麼樣？"
             ]
           },
           "provenance": {
@@ -169,8 +385,35 @@
             "en": [
               "Rich. Manicured... Theatrical."
             ],
+            "de": [
+              "Reich. Gepflegt ... Theatralisch."
+            ],
+            "es": [
+              "Rico. Se hace la manicura... Es histriónico."
+            ],
+            "fr": [
+              "Riche. Soigné... Théâtral."
+            ],
+            "it": [
+              "Ricco. Curato... Teatrale."
+            ],
+            "ja": [
+              "金持ちで、小綺麗で、冷たい。"
+            ],
+            "ko": [
+              "부유해 보이고, 단정하고... 연극적이야."
+            ],
             "pt-br": [
               "Rico. Bem-cuidado... Histriônico."
+            ],
+            "ru": [
+              "Богатый. Ухоженный... Напыщенный."
+            ],
+            "s-cn": [
+              "有钱。打扮精致……爱演戏。"
+            ],
+            "t-cn": [
+              "有錢。打扮精緻……愛演戲。"
             ]
           },
           "provenance": {
@@ -191,8 +434,35 @@
             "en": [
               "Wearing typical garb of your people?"
             ],
+            "de": [
+              "Trägt er die typische Kleidung deines Volkes?"
+            ],
+            "es": [
+              "¿Lleva la vestimenta típica de los tuyos?"
+            ],
+            "fr": [
+              "Porte-t-il l'habit traditionnel de ton peuple ?"
+            ],
+            "it": [
+              "Porta gli abiti tipici della tua gente?"
+            ],
+            "ja": [
+              "あなたたちと同じような服を着てるの？"
+            ],
+            "ko": [
+              "너희 민족 특유의 옷을 입었어?"
+            ],
             "pt-br": [
               "Usando as roupas típicas do seu povo?"
+            ],
+            "ru": [
+              "Одет по обычаю вашего народа?"
+            ],
+            "s-cn": [
+              "穿的是你们那边的典型服饰？"
+            ],
+            "t-cn": [
+              "穿的是你們那邊的典型服飾？"
             ]
           },
           "provenance": {
@@ -213,8 +483,35 @@
             "en": [
               "Of the highest station! Great taste in clothes, really."
             ],
+            "de": [
+              "Ja, die der allerhöchsten Kreise! Ein großartiger Modegeschmack, wirklich."
+            ],
+            "es": [
+              "¡De la más alta alcurnia! Y con muy buen gusto para vestir, la verdad."
+            ],
+            "fr": [
+              "Du plus haut rang ! Un goût vestimentaire exquis, vraiment."
+            ],
+            "it": [
+              "Di altissimo rango! Gran gusto nel vestire, davvero."
+            ],
+            "ja": [
+              "最高級のやつをね！"
+            ],
+            "ko": [
+              "아주 높은 신분이지! 옷 입는 안목도 정말 뛰어나고."
+            ],
             "pt-br": [
               "Da mais alta posição! Um ótimo gosto para roupas, aliás."
+            ],
+            "ru": [
+              "Самого знатного рода! И в одежде толк знает, надо признать."
+            ],
+            "s-cn": [
+              "是最上流阶层穿的那种！衣服品味真是一流。"
+            ],
+            "t-cn": [
+              "是最上流階層穿的那種！ 衣服品味真是一流。"
             ]
           },
           "provenance": {
@@ -235,8 +532,35 @@
             "en": [
               "Strange. That's not the description I've heard."
             ],
+            "de": [
+              "Merkwürdig. So hat man ihn mir nicht beschrieben."
+            ],
+            "es": [
+              "Qué raro. No es esa la descripción que había oído."
+            ],
+            "fr": [
+              "Étrange. Ce n'est pas la description que j'avais entendue."
+            ],
+            "it": [
+              "Strano. Non è la descrizione che ho sentito."
+            ],
+            "ja": [
+              "変ね。 私が聞いた話と違うわ。"
+            ],
+            "ko": [
+              "이상하네. 내가 들은 설명과는 다르군."
+            ],
             "pt-br": [
               "Estranho. Essa não é a descrição que ouvi."
+            ],
+            "ru": [
+              "Странно. Мне говорили, что он выглядит не так."
+            ],
+            "s-cn": [
+              "奇怪。和我听到的描述不一样。"
+            ],
+            "t-cn": [
+              "奇怪。和我聽到的描述不一樣。"
             ]
           },
           "provenance": {
@@ -260,12 +584,75 @@
           "Of the highest station! Great taste in clothes, really.",
           "Strange. That's not the description I've heard."
         ],
+        "de": [
+          "Dieser Mann, der die Kristalle herstellt – wie sieht er aus?",
+          "Reich. Gepflegt ... Theatralisch.",
+          "Trägt er die typische Kleidung deines Volkes?",
+          "Ja, die der allerhöchsten Kreise! Ein großartiger Modegeschmack, wirklich.",
+          "Merkwürdig. So hat man ihn mir nicht beschrieben."
+        ],
+        "es": [
+          "Ese hombre que hace los cristales, ¿cómo es?",
+          "Rico. Se hace la manicura... Es histriónico.",
+          "¿Lleva la vestimenta típica de los tuyos?",
+          "¡De la más alta alcurnia! Y con muy buen gusto para vestir, la verdad.",
+          "Qué raro. No es esa la descripción que había oído."
+        ],
+        "fr": [
+          "Cet homme qui fabrique les cristaux, à quoi ressemble-t-il ?",
+          "Riche. Soigné... Théâtral.",
+          "Porte-t-il l'habit traditionnel de ton peuple ?",
+          "Du plus haut rang ! Un goût vestimentaire exquis, vraiment.",
+          "Étrange. Ce n'est pas la description que j'avais entendue."
+        ],
+        "it": [
+          "Com'è fatto, quest'uomo che crea i cristalli? Che aspetto ha?",
+          "Ricco. Curato... Teatrale.",
+          "Porta gli abiti tipici della tua gente?",
+          "Di altissimo rango! Gran gusto nel vestire, davvero.",
+          "Strano. Non è la descrizione che ho sentito."
+        ],
+        "ja": [
+          "このクリスタルを作ったのは どんな人なの？",
+          "金持ちで、小綺麗で、冷たい。",
+          "あなたたちと同じような服を着てるの？",
+          "最高級のやつをね！",
+          "変ね。 私が聞いた話と違うわ。"
+        ],
+        "ko": [
+          "수정을 만드는 그 남자, 어떻게 생겼어?",
+          "부유해 보이고, 단정하고... 연극적이야.",
+          "너희 민족 특유의 옷을 입었어?",
+          "아주 높은 신분이지! 옷 입는 안목도 정말 뛰어나고.",
+          "이상하네. 내가 들은 설명과는 다르군."
+        ],
         "pt-br": [
           "Esse homem que faz os cristais, como ele é?",
           "Rico. Bem-cuidado... Histriônico.",
           "Usando as roupas típicas do seu povo?",
           "Da mais alta posição! Um ótimo gosto para roupas, aliás.",
           "Estranho. Essa não é a descrição que ouvi."
+        ],
+        "ru": [
+          "Этот человек, который делает кристаллы, как он выглядит?",
+          "Богатый. Ухоженный... Напыщенный.",
+          "Одет по обычаю вашего народа?",
+          "Самого знатного рода! И в одежде толк знает, надо признать.",
+          "Странно. Мне говорили, что он выглядит не так."
+        ],
+        "s-cn": [
+          "那个制造水晶的男人，长什么样？",
+          "有钱。打扮精致……爱演戏。",
+          "穿的是你们那边的典型服饰？",
+          "是最上流阶层穿的那种！衣服品味真是一流。",
+          "奇怪。和我听到的描述不一样。"
+        ],
+        "t-cn": [
+          "那個製造水晶的男人，長什麼樣？",
+          "有錢。打扮精緻……愛演戲。",
+          "穿的是你們那邊的典型服飾？",
+          "是最上流階層穿的那種！ 衣服品味真是一流。",
+          "奇怪。和我聽到的描述不一樣。"
         ]
       },
       "silentCues": [],

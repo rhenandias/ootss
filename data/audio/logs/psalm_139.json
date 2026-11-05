@@ -3,7 +3,16 @@
   "audioLog": "psalm_139",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -25,6 +34,60 @@
               "Yea, the darkness hideth not from thee; but the night shineth as the day:",
               "the darkness and the light are both alike to thee."
             ],
+            "de": [
+              "Führe ich gen Himmel, so bist Du da;",
+              "bettete ich mich in der Hölle, siehe, so bist Du da.",
+              "Nähme ich die Flügel der Morgenröte und bliebe am äußersten Meer;",
+              "so würde mich auch dort Deine Hand führen und Deine Rechte mich halten.",
+              "Spräche ich: Gewiss, die Finsternis wird mich bedecken; selbst die Nacht wird Licht um mich sein.",
+              "Ja, auch die Finsternis verbirgt nichts vor Dir; sondern die Nacht leuchtet wie der Tag:",
+              "Finsternis und Licht sind für Dich dasselbe."
+            ],
+            "es": [
+              "Si ascendiere a los cielos, ahí estaríais vos:",
+              "si en el averno plantare mi lecho, he ahí, vos estaríais allí.",
+              "Si tomare las alas del alba, y habitare en el extremo del mar;",
+              "aun allí me guiaría vuesa mano y me asiría vuesa diestra.",
+              "Si dijere: ciertamente las tinieblas me encubrirán; aun la noche resplandecerá alrededor de mí.",
+              "Sí, las tinieblas no encubren de vos; mas la noche resplandece como el día:",
+              "las tinieblas y la luz aseméjanse a vos."
+            ],
+            "fr": [
+              "Si je monte aux cieux, tu y es ;",
+              "si je me couche au séjour des morts, t'y voilà.",
+              "Si je prends les ailes de l'aube du jour, si je fais ma demeure au bout de la mer,",
+              "Là aussi ta main me conduira, et ta droite me soutiendra.",
+              "Et si je dis : Au moins les ténèbres m'envelopperont, alors la nuit est lumière autour de moi.",
+              "Même les ténèbres ne sont pas obscures pour me cacher à toi, et la nuit resplendit comme le jour,",
+              "l'ombre et la lumière sont pareilles à tes yeux."
+            ],
+            "it": [
+              "Se salgo in cielo, Tu sei là:",
+              "se mi stendo nell'inferno, ecco, Tu sei là.",
+              "Se prendo le ali dell'aurora, e dimoro nelle estremità del mare;",
+              "anche là mi guiderà la Tua mano, e la Tua destra mi sosterrà.",
+              "Se dicessi: Certo, le tenebre mi copriranno; anche la notte sarà luce intorno a me.",
+              "Sì, le tenebre non ti nascondono; ma la notte splende come il giorno:",
+              "le tenebre e la luce per te sono la stessa cosa."
+            ],
+            "ja": [
+              "たとえ天に昇ろうとも あなたはそこにおられる。",
+              "たとえ地獄に下っても そこにもあなたはおられる。",
+              "朝の翼を借り、 海の果てに住もうとも、",
+              "そこでも御手は私を導き、 右の御手が私を支える。",
+              "闇が私を覆うとも、 夜さえ私の周りで光となる。",
+              "闇もあなたを隠せず、 夜は昼のように輝く。",
+              "闇も光も あなたには同じ。"
+            ],
+            "ko": [
+              "내가 하늘에 올라갈지라도, 당신이 거기 계시며.",
+              "내가 지옥에 침상을 펼지라도, 보라, 당신이 거기 계시도다.",
+              "내가 새벽의 날개를 치며, 바다 끝자락에 거할지라도",
+              "거기서도 당신의 손이 나를 인도하시며, 당신의 오른손이 나를 붙드시리이다.",
+              "내가 말하기를, 반드시 어둠이 나를 덮으리라 해도, 밤조차 내게 빛이 되리이다.",
+              "참으로 어둠이 당신에게는 감추어지지 않으며, 오히려 밤이 낮처럼 빛나나니.",
+              "어둠과 빛이 다름이 당신께는 없습니다."
+            ],
             "pt-br": [
               "Se eu subir aos céus, lá tu estás:",
               "se eu fizer da sepultura meu leito, eis que tu estás ali.",
@@ -33,6 +96,33 @@
               "Se eu disser, certamente a escuridão me cobrirá; até a noite será luz ao meu redor.",
               "Sim, a escuridão não te encobre; mas a noite resplandece como o dia:",
               "a escuridão e a luz são ambas iguais a ti."
+            ],
+            "ru": [
+              "Если взойду на небо — Ты там,",
+              "если сойду во ад — Ты и там пребываешь.",
+              "Если бы я подняла мои крылья с рассветом и переселилась на край моря,",
+              "даже и там рука Твоя направит меня, и удержит меня десница Твоя.",
+              "И сказала я: «Вот, тьма покроет меня», — но и ночь есть свет в усладе моей!",
+              "Ибо тьма не будет мраком у Тебя, и ночь, как день, осветится:",
+              "какова тьма её, таков и свет её будет!"
+            ],
+            "s-cn": [
+              "我若升到天上，祢在那里；",
+              "我若在阴间下榻，看哪，祢也在那里。",
+              "我若展开清晨的翅膀，飞到海的一角居住；",
+              "就是在那里，祢的手必引导我，祢的右手也必扶持我。",
+              "我若说：“黑暗必定遮蔽我”，连我周围的黑夜也必成为光明。",
+              "黑暗也不能遮蔽我，使祢不见；黑夜却如白昼发亮：",
+              "黑暗和光明，在祢看来都是一样。"
+            ],
+            "t-cn": [
+              "我若升到天上，祢在那裡；",
+              "我若在陰間下榻，看哪，祢也在那裡。",
+              "我若展開清晨的翅膀，飛到海的一角居住；",
+              "就是在那裡，祢的手必引導我，祢的右手也必扶持我。",
+              "我若說：「黑暗必定遮蔽我」， 連我周圍的黑夜也必成為光明。",
+              "黑暗也不能遮蔽我，使祢不見； 黑夜卻如白晝發亮：",
+              "黑暗和光明，在祢看來都是一樣。"
             ]
           },
           "provenance": {
@@ -64,6 +154,60 @@
           "Yea, the darkness hideth not from thee; but the night shineth as the day:",
           "the darkness and the light are both alike to thee."
         ],
+        "de": [
+          "Führe ich gen Himmel, so bist Du da;",
+          "bettete ich mich in der Hölle, siehe, so bist Du da.",
+          "Nähme ich die Flügel der Morgenröte und bliebe am äußersten Meer;",
+          "so würde mich auch dort Deine Hand führen und Deine Rechte mich halten.",
+          "Spräche ich: Gewiss, die Finsternis wird mich bedecken; selbst die Nacht wird Licht um mich sein.",
+          "Ja, auch die Finsternis verbirgt nichts vor Dir; sondern die Nacht leuchtet wie der Tag:",
+          "Finsternis und Licht sind für Dich dasselbe."
+        ],
+        "es": [
+          "Si ascendiere a los cielos, ahí estaríais vos:",
+          "si en el averno plantare mi lecho, he ahí, vos estaríais allí.",
+          "Si tomare las alas del alba, y habitare en el extremo del mar;",
+          "aun allí me guiaría vuesa mano y me asiría vuesa diestra.",
+          "Si dijere: ciertamente las tinieblas me encubrirán; aun la noche resplandecerá alrededor de mí.",
+          "Sí, las tinieblas no encubren de vos; mas la noche resplandece como el día:",
+          "las tinieblas y la luz aseméjanse a vos."
+        ],
+        "fr": [
+          "Si je monte aux cieux, tu y es ;",
+          "si je me couche au séjour des morts, t'y voilà.",
+          "Si je prends les ailes de l'aube du jour, si je fais ma demeure au bout de la mer,",
+          "Là aussi ta main me conduira, et ta droite me soutiendra.",
+          "Et si je dis : Au moins les ténèbres m'envelopperont, alors la nuit est lumière autour de moi.",
+          "Même les ténèbres ne sont pas obscures pour me cacher à toi, et la nuit resplendit comme le jour,",
+          "l'ombre et la lumière sont pareilles à tes yeux."
+        ],
+        "it": [
+          "Se salgo in cielo, Tu sei là:",
+          "se mi stendo nell'inferno, ecco, Tu sei là.",
+          "Se prendo le ali dell'aurora, e dimoro nelle estremità del mare;",
+          "anche là mi guiderà la Tua mano, e la Tua destra mi sosterrà.",
+          "Se dicessi: Certo, le tenebre mi copriranno; anche la notte sarà luce intorno a me.",
+          "Sì, le tenebre non ti nascondono; ma la notte splende come il giorno:",
+          "le tenebre e la luce per te sono la stessa cosa."
+        ],
+        "ja": [
+          "たとえ天に昇ろうとも あなたはそこにおられる。",
+          "たとえ地獄に下っても そこにもあなたはおられる。",
+          "朝の翼を借り、 海の果てに住もうとも、",
+          "そこでも御手は私を導き、 右の御手が私を支える。",
+          "闇が私を覆うとも、 夜さえ私の周りで光となる。",
+          "闇もあなたを隠せず、 夜は昼のように輝く。",
+          "闇も光も あなたには同じ。"
+        ],
+        "ko": [
+          "내가 하늘에 올라갈지라도, 당신이 거기 계시며.",
+          "내가 지옥에 침상을 펼지라도, 보라, 당신이 거기 계시도다.",
+          "내가 새벽의 날개를 치며, 바다 끝자락에 거할지라도",
+          "거기서도 당신의 손이 나를 인도하시며, 당신의 오른손이 나를 붙드시리이다.",
+          "내가 말하기를, 반드시 어둠이 나를 덮으리라 해도, 밤조차 내게 빛이 되리이다.",
+          "참으로 어둠이 당신에게는 감추어지지 않으며, 오히려 밤이 낮처럼 빛나나니.",
+          "어둠과 빛이 다름이 당신께는 없습니다."
+        ],
         "pt-br": [
           "Se eu subir aos céus, lá tu estás:",
           "se eu fizer da sepultura meu leito, eis que tu estás ali.",
@@ -72,6 +216,33 @@
           "Se eu disser, certamente a escuridão me cobrirá; até a noite será luz ao meu redor.",
           "Sim, a escuridão não te encobre; mas a noite resplandece como o dia:",
           "a escuridão e a luz são ambas iguais a ti."
+        ],
+        "ru": [
+          "Если взойду на небо — Ты там,",
+          "если сойду во ад — Ты и там пребываешь.",
+          "Если бы я подняла мои крылья с рассветом и переселилась на край моря,",
+          "даже и там рука Твоя направит меня, и удержит меня десница Твоя.",
+          "И сказала я: «Вот, тьма покроет меня», — но и ночь есть свет в усладе моей!",
+          "Ибо тьма не будет мраком у Тебя, и ночь, как день, осветится:",
+          "какова тьма её, таков и свет её будет!"
+        ],
+        "s-cn": [
+          "我若升到天上，祢在那里；",
+          "我若在阴间下榻，看哪，祢也在那里。",
+          "我若展开清晨的翅膀，飞到海的一角居住；",
+          "就是在那里，祢的手必引导我，祢的右手也必扶持我。",
+          "我若说：“黑暗必定遮蔽我”，连我周围的黑夜也必成为光明。",
+          "黑暗也不能遮蔽我，使祢不见；黑夜却如白昼发亮：",
+          "黑暗和光明，在祢看来都是一样。"
+        ],
+        "t-cn": [
+          "我若升到天上，祢在那裡；",
+          "我若在陰間下榻，看哪，祢也在那裡。",
+          "我若展開清晨的翅膀，飛到海的一角居住；",
+          "就是在那裡，祢的手必引導我，祢的右手也必扶持我。",
+          "我若說：「黑暗必定遮蔽我」， 連我周圍的黑夜也必成為光明。",
+          "黑暗也不能遮蔽我，使祢不見； 黑夜卻如白晝發亮：",
+          "黑暗和光明，在祢看來都是一樣。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Hey! Finally we're all together, at once!"
             ],
+            "de": [
+              "Hey! Jetzt sind wir endlich alle zusammen!"
+            ],
+            "es": [
+              "¡Eh! Por fin estamos todos juntos, ¡y a la vez!"
+            ],
+            "fr": [
+              "Hé ! Enfin, nous sommes tous réunis, en même temps !"
+            ],
+            "it": [
+              "Ehi! Finalmente siamo tutti insieme, tutti in una volta!"
+            ],
+            "ja": [
+              "やっとみんな揃ったね！"
+            ],
+            "ko": [
+              "이야! 드디어 우리 모두 한자리에 모였네!"
+            ],
             "pt-br": [
               "Ei! Finalmente estamos todos juntos, ao mesmo tempo!"
+            ],
+            "ru": [
+              "Эй! Наконец-то мы все вместе, все сразу!"
+            ],
+            "s-cn": [
+              "嘿！大家总算都聚齐了！"
+            ],
+            "t-cn": [
+              "嘿！大家總算都聚齊了！"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Charming venue for a party."
             ],
+            "de": [
+              "Reizender Ort für eine Feier."
+            ],
+            "es": [
+              "Es un lugar encantador para una fiesta."
+            ],
+            "fr": [
+              "Charmant endroit pour une fête."
+            ],
+            "it": [
+              "Posto delizioso per una festa."
+            ],
+            "ja": [
+              "宴を催すには、実に素晴らしい場所だな。"
+            ],
+            "ko": [
+              "모임 장소가 근사하군."
+            ],
             "pt-br": [
               "Lugar charmoso pra uma festa."
+            ],
+            "ru": [
+              "Очаровательное место для вечеринки."
+            ],
+            "s-cn": [
+              "真是个聚会的好地方。"
+            ],
+            "t-cn": [
+              "真是個聚會的好地方。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "A bit claustrophobic!"
             ],
+            "de": [
+              "Ein wenig beklemmend!"
+            ],
+            "es": [
+              "¡Da un poco de claustrofobia!"
+            ],
+            "fr": [
+              "Un peu claustrophobique !"
+            ],
+            "it": [
+              "Un po' claustrofobico!"
+            ],
+            "ja": [
+              "もっといい状況がよかったがな！"
+            ],
+            "ko": [
+              "좀 답답한데!"
+            ],
             "pt-br": [
               "Um pouco claustrofóbico!"
+            ],
+            "ru": [
+              "Немного тесновато!"
+            ],
+            "s-cn": [
+              "挤得我喘不过气！"
+            ],
+            "t-cn": [
+              "擠得我喘不過氣！"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "If we keep pushing forward, we'll get out of this, like always."
             ],
+            "de": [
+              "Wenn wir uns weiter den Weg freischieben, schaffen wir es hier raus. Wie immer."
+            ],
+            "es": [
+              "Si seguimos avanzando, saldremos de esta, como siempre."
+            ],
+            "fr": [
+              "Si on continue d'avancer, on va s'en sortir, comme toujours."
+            ],
+            "it": [
+              "Se continuiamo ad andare avanti, usciremo da qui, come sempre."
+            ],
+            "ja": [
+              "このまま進めば きっと出られる。"
+            ],
+            "ko": [
+              "계속 앞으로 나아가면 늘 그랬듯 여기서 빠져나갈 수 있을 거야."
+            ],
             "pt-br": [
               "Se a gente continuar avançando, vamos sair dessa, como sempre."
+            ],
+            "ru": [
+              "Если мы продолжим идти вперёд, мы выберемся отсюда, как всегда."
+            ],
+            "s-cn": [
+              "只要继续往前推，我们就能像往常一样脱身。"
+            ],
+            "t-cn": [
+              "只要繼續往前推，我們就能像往常一樣脫身。"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "That's the spirit!"
             ],
+            "de": [
+              "Das ist die richtige Einstellung!"
+            ],
+            "es": [
+              "¡Esa es la actitud!"
+            ],
+            "fr": [
+              "Bien dit !"
+            ],
+            "it": [
+              "Così si fa!"
+            ],
+            "ja": [
+              "その意気よ！"
+            ],
+            "ko": [
+              "그래, 바로 그 기세야!"
+            ],
             "pt-br": [
               "Isso aí!"
+            ],
+            "ru": [
+              "Вот это настрой!"
+            ],
+            "s-cn": [
+              "这才对嘛！"
+            ],
+            "t-cn": [
+              "這才對嘛！"
             ]
           },
           "provenance": {
@@ -136,12 +280,75 @@
           "If we keep pushing forward, we'll get out of this, like always.",
           "That's the spirit!"
         ],
+        "de": [
+          "Hey! Jetzt sind wir endlich alle zusammen!",
+          "Reizender Ort für eine Feier.",
+          "Ein wenig beklemmend!",
+          "Wenn wir uns weiter den Weg freischieben, schaffen wir es hier raus. Wie immer.",
+          "Das ist die richtige Einstellung!"
+        ],
+        "es": [
+          "¡Eh! Por fin estamos todos juntos, ¡y a la vez!",
+          "Es un lugar encantador para una fiesta.",
+          "¡Da un poco de claustrofobia!",
+          "Si seguimos avanzando, saldremos de esta, como siempre.",
+          "¡Esa es la actitud!"
+        ],
+        "fr": [
+          "Hé ! Enfin, nous sommes tous réunis, en même temps !",
+          "Charmant endroit pour une fête.",
+          "Un peu claustrophobique !",
+          "Si on continue d'avancer, on va s'en sortir, comme toujours.",
+          "Bien dit !"
+        ],
+        "it": [
+          "Ehi! Finalmente siamo tutti insieme, tutti in una volta!",
+          "Posto delizioso per una festa.",
+          "Un po' claustrofobico!",
+          "Se continuiamo ad andare avanti, usciremo da qui, come sempre.",
+          "Così si fa!"
+        ],
+        "ja": [
+          "やっとみんな揃ったね！",
+          "宴を催すには、実に素晴らしい場所だな。",
+          "もっといい状況がよかったがな！",
+          "このまま進めば きっと出られる。",
+          "その意気よ！"
+        ],
+        "ko": [
+          "이야! 드디어 우리 모두 한자리에 모였네!",
+          "모임 장소가 근사하군.",
+          "좀 답답한데!",
+          "계속 앞으로 나아가면 늘 그랬듯 여기서 빠져나갈 수 있을 거야.",
+          "그래, 바로 그 기세야!"
+        ],
         "pt-br": [
           "Ei! Finalmente estamos todos juntos, ao mesmo tempo!",
           "Lugar charmoso pra uma festa.",
           "Um pouco claustrofóbico!",
           "Se a gente continuar avançando, vamos sair dessa, como sempre.",
           "Isso aí!"
+        ],
+        "ru": [
+          "Эй! Наконец-то мы все вместе, все сразу!",
+          "Очаровательное место для вечеринки.",
+          "Немного тесновато!",
+          "Если мы продолжим идти вперёд, мы выберемся отсюда, как всегда.",
+          "Вот это настрой!"
+        ],
+        "s-cn": [
+          "嘿！大家总算都聚齐了！",
+          "真是个聚会的好地方。",
+          "挤得我喘不过气！",
+          "只要继续往前推，我们就能像往常一样脱身。",
+          "这才对嘛！"
+        ],
+        "t-cn": [
+          "嘿！大家總算都聚齊了！",
+          "真是個聚會的好地方。",
+          "擠得我喘不過氣！",
+          "只要繼續往前推，我們就能像往常一樣脫身。",
+          "這才對嘛！"
         ]
       },
       "silentCues": [],

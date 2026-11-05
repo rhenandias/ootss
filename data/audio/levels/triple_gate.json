@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -29,6 +38,60 @@
               "so the Player spends no time being confused about that.",
               "He just knows that he has to get past the Gates somehow."
             ],
+            "de": [
+              "Hier ist Patricks Überarbeitung. Die Kernidee ist ähnlich (einen Kristall unter einem Spiegel wegzuteleportieren),",
+              "aber warum man das tut, ist völlig anders;",
+              "und hier tut man es zweimal, was sich besser anfühlt",
+              "und dafür sorgt, dass sich die Idee besser einprägt.",
+              "Vor allem ist hier, anders als im Original, ganz offensichtlich, welchen Weg man nehmen soll,",
+              "sodass man keine Zeit damit verbringt, darüber zu rätseln.",
+              "Man weiß einfach, dass man irgendwie an den Toren vorbeikommen muss."
+            ],
+            "es": [
+              "Aquí está la revisión de Patrick. La idea central es similar (teletransportar un cristal desde debajo de un Espejo),",
+              "pero la razón por la que lo haces es totalmente distinta;",
+              "y aquí se hace dos veces, lo cual da una mejor sensación",
+              "y ayuda a fijar la idea en tu mente.",
+              "Y lo más importante, a diferencia de la versión original, es muy obvio qué ruta estás intentando tomar,",
+              "así que el jugador no pierde tiempo confundido por eso.",
+              "Solo sabe que tiene que atravesar los portales de algún modo."
+            ],
+            "fr": [
+              "Voici la révision de Patrick. L'idée de base est similaire (téléporter un cristal situé sous un miroir pour l'en sortir),",
+              "mais la raison pour laquelle on le fait est totalement différente ;",
+              "et, ici, on le fait deux fois, ce qui fonctionne mieux",
+              "et aide à ancrer l'idée dans votre esprit.",
+              "Surtout, contrairement à la version originale, on voit très clairement le chemin que vous essayez de prendre,",
+              "pour que le joueur ne perde pas de temps à se poser des questions là-dessus.",
+              "Il sait juste qu'il doit franchir les portes, d'une manière ou d'une autre."
+            ],
+            "it": [
+              "Ecco la revisione di Patrick. L'idea centrale è simile (teletrasportare un cristallo da sotto uno specchio),",
+              "ma il motivo per cui lo fai è totalmente diverso;",
+              "e, qui, lo fai due volte, il che sembra meglio",
+              "e aiuta a fissare l'idea nella tua mente.",
+              "Soprattutto, a differenza della versione originale, è molto ovvio quale percorso stai cercando di prendere,",
+              "quindi il giocatore non perde tempo a confondersi su quello.",
+              "Sa solo che deve in qualche modo superare i portali."
+            ],
+            "ja": [
+              "これがパトリックによる改訂版だ。 中心となるアイデアは似ている。 （鏡の下からクリスタルを テレポートさせるというもの）",
+              "ただし、それをする理由はまったく異なる。",
+              "ここでは2回繰り返すことで ステージとしても手応えが改善され",
+              "ステージがテーマに焦点を当てた 配置になっている。",
+              "そして何より、オリジナル版と違って、 出口へ向かうために、どのルートを 進むべきなのかが一目で分かる。",
+              "そこで混乱して時間を使わずに済む。",
+              "とにかく何らかの方法でゲートを越えるが 目的なのは分かっている。"
+            ],
+            "ko": [
+              "이건 패트릭이 수정한 버전이야. 핵심 아이디어는 비슷해. (거울 아래에 있는 수정을 밖으로 텔레포트시키는 거지.)",
+              "하지만 그 이유는 완전히 달라.",
+              "그리고 여기서는 그걸 두 번 하는데 그 편이 더 좋고",
+              "그 개념을 머릿속에 확실히 새기는 데 도움이 돼.",
+              "무엇보다 원래 버전과 달리 어떤 경로로 가려는지 아주 명확해.",
+              "그러면 플레이어는 그 부분 때문에 헤매며 시간을 쓰지 않게 되지.",
+              "그는 그냥 어떻게든 관문을 통과해야 한다는 것만 알아."
+            ],
             "pt-br": [
               "Aqui está a revisão de Patrick. A ideia central é parecida (teletransportar um Cristal para fora de baixo de um Espelho),",
               "mas o motivo para fazer isso é totalmente diferente;",
@@ -37,6 +100,33 @@
               "Mais importante, ao contrário da versão original, fica muito óbvio qual rota você está tentando seguir,",
               "então o Jogador não perde tempo ficando confuso com isso.",
               "Ele só sabe que precisa passar pelos Portões de algum jeito."
+            ],
+            "ru": [
+              "Вот переработка Патрика. Основная идея похожа (телепортировать кристалл из-под зеркала),",
+              "но причина, по которой вы это делаете, совсем другая;",
+              "и здесь вы делаете это дважды, что ощущается лучше",
+              "и помогает закрепить идею в голове.",
+              "И что важнее всего, в отличие от оригинальной версии, тут сразу понятно, по какому маршруту вы пытаетесь пройти,",
+              "так что игрок не тратит время на путаницу по этому поводу.",
+              "Он просто знает, что как-то нужно пройти через врата."
+            ],
+            "s-cn": [
+              "这是帕特里克的改版。 核心思路相近（把镜子下方的水晶传送出去），",
+              "但这么做的理由完全不同；",
+              "而且这里要做两次，感觉更完整，",
+              "也能让你把这个思路记得更牢。",
+              "最重要的是，与初版不同，你很容易就能看清该走哪条路线，",
+              "这样玩家就不用再为路线问题犯迷糊了。",
+              "玩家很清楚，自己得想办法穿过那些界门。"
+            ],
+            "t-cn": [
+              "這是派屈克的改版。核心思路相近 （把鏡子下方的水晶傳送出去），",
+              "但這麼做的理由完全不同；",
+              "而且這裡要做兩次，感覺更完整，",
+              "也能讓你把這個思路記得更牢。",
+              "最重要的是，與初版不同， 你很容易就能看清該走哪條路線，",
+              "這樣玩家就不用再為路線問題犯迷糊了。",
+              "玩家很清楚，自己得想辦法穿過那些界門。"
             ]
           },
           "provenance": {
@@ -68,6 +158,60 @@
           "so the Player spends no time being confused about that.",
           "He just knows that he has to get past the Gates somehow."
         ],
+        "de": [
+          "Hier ist Patricks Überarbeitung. Die Kernidee ist ähnlich (einen Kristall unter einem Spiegel wegzuteleportieren),",
+          "aber warum man das tut, ist völlig anders;",
+          "und hier tut man es zweimal, was sich besser anfühlt",
+          "und dafür sorgt, dass sich die Idee besser einprägt.",
+          "Vor allem ist hier, anders als im Original, ganz offensichtlich, welchen Weg man nehmen soll,",
+          "sodass man keine Zeit damit verbringt, darüber zu rätseln.",
+          "Man weiß einfach, dass man irgendwie an den Toren vorbeikommen muss."
+        ],
+        "es": [
+          "Aquí está la revisión de Patrick. La idea central es similar (teletransportar un cristal desde debajo de un Espejo),",
+          "pero la razón por la que lo haces es totalmente distinta;",
+          "y aquí se hace dos veces, lo cual da una mejor sensación",
+          "y ayuda a fijar la idea en tu mente.",
+          "Y lo más importante, a diferencia de la versión original, es muy obvio qué ruta estás intentando tomar,",
+          "así que el jugador no pierde tiempo confundido por eso.",
+          "Solo sabe que tiene que atravesar los portales de algún modo."
+        ],
+        "fr": [
+          "Voici la révision de Patrick. L'idée de base est similaire (téléporter un cristal situé sous un miroir pour l'en sortir),",
+          "mais la raison pour laquelle on le fait est totalement différente ;",
+          "et, ici, on le fait deux fois, ce qui fonctionne mieux",
+          "et aide à ancrer l'idée dans votre esprit.",
+          "Surtout, contrairement à la version originale, on voit très clairement le chemin que vous essayez de prendre,",
+          "pour que le joueur ne perde pas de temps à se poser des questions là-dessus.",
+          "Il sait juste qu'il doit franchir les portes, d'une manière ou d'une autre."
+        ],
+        "it": [
+          "Ecco la revisione di Patrick. L'idea centrale è simile (teletrasportare un cristallo da sotto uno specchio),",
+          "ma il motivo per cui lo fai è totalmente diverso;",
+          "e, qui, lo fai due volte, il che sembra meglio",
+          "e aiuta a fissare l'idea nella tua mente.",
+          "Soprattutto, a differenza della versione originale, è molto ovvio quale percorso stai cercando di prendere,",
+          "quindi il giocatore non perde tempo a confondersi su quello.",
+          "Sa solo che deve in qualche modo superare i portali."
+        ],
+        "ja": [
+          "これがパトリックによる改訂版だ。 中心となるアイデアは似ている。 （鏡の下からクリスタルを テレポートさせるというもの）",
+          "ただし、それをする理由はまったく異なる。",
+          "ここでは2回繰り返すことで ステージとしても手応えが改善され",
+          "ステージがテーマに焦点を当てた 配置になっている。",
+          "そして何より、オリジナル版と違って、 出口へ向かうために、どのルートを 進むべきなのかが一目で分かる。",
+          "そこで混乱して時間を使わずに済む。",
+          "とにかく何らかの方法でゲートを越えるが 目的なのは分かっている。"
+        ],
+        "ko": [
+          "이건 패트릭이 수정한 버전이야. 핵심 아이디어는 비슷해. (거울 아래에 있는 수정을 밖으로 텔레포트시키는 거지.)",
+          "하지만 그 이유는 완전히 달라.",
+          "그리고 여기서는 그걸 두 번 하는데 그 편이 더 좋고",
+          "그 개념을 머릿속에 확실히 새기는 데 도움이 돼.",
+          "무엇보다 원래 버전과 달리 어떤 경로로 가려는지 아주 명확해.",
+          "그러면 플레이어는 그 부분 때문에 헤매며 시간을 쓰지 않게 되지.",
+          "그는 그냥 어떻게든 관문을 통과해야 한다는 것만 알아."
+        ],
         "pt-br": [
           "Aqui está a revisão de Patrick. A ideia central é parecida (teletransportar um Cristal para fora de baixo de um Espelho),",
           "mas o motivo para fazer isso é totalmente diferente;",
@@ -76,6 +220,33 @@
           "Mais importante, ao contrário da versão original, fica muito óbvio qual rota você está tentando seguir,",
           "então o Jogador não perde tempo ficando confuso com isso.",
           "Ele só sabe que precisa passar pelos Portões de algum jeito."
+        ],
+        "ru": [
+          "Вот переработка Патрика. Основная идея похожа (телепортировать кристалл из-под зеркала),",
+          "но причина, по которой вы это делаете, совсем другая;",
+          "и здесь вы делаете это дважды, что ощущается лучше",
+          "и помогает закрепить идею в голове.",
+          "И что важнее всего, в отличие от оригинальной версии, тут сразу понятно, по какому маршруту вы пытаетесь пройти,",
+          "так что игрок не тратит время на путаницу по этому поводу.",
+          "Он просто знает, что как-то нужно пройти через врата."
+        ],
+        "s-cn": [
+          "这是帕特里克的改版。 核心思路相近（把镜子下方的水晶传送出去），",
+          "但这么做的理由完全不同；",
+          "而且这里要做两次，感觉更完整，",
+          "也能让你把这个思路记得更牢。",
+          "最重要的是，与初版不同，你很容易就能看清该走哪条路线，",
+          "这样玩家就不用再为路线问题犯迷糊了。",
+          "玩家很清楚，自己得想办法穿过那些界门。"
+        ],
+        "t-cn": [
+          "這是派屈克的改版。核心思路相近 （把鏡子下方的水晶傳送出去），",
+          "但這麼做的理由完全不同；",
+          "而且這裡要做兩次，感覺更完整，",
+          "也能讓你把這個思路記得更牢。",
+          "最重要的是，與初版不同， 你很容易就能看清該走哪條路線，",
+          "這樣玩家就不用再為路線問題犯迷糊了。",
+          "玩家很清楚，自己得想辦法穿過那些界門。"
         ]
       },
       "silentCues": [],

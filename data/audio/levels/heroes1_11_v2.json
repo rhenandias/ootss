@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Valens! Finally!"
             ],
+            "de": [
+              "Valens! Endlich!"
+            ],
+            "es": [
+              "¡Valens! ¡Por fin!"
+            ],
+            "fr": [
+              "Valens ! Enfin !"
+            ],
+            "it": [
+              "Valens! Finalmente!"
+            ],
+            "ja": [
+              "ヴァレンス！やっと見つけた！"
+            ],
+            "ko": [
+              "발렌스! 드디어!"
+            ],
             "pt-br": [
               "Valens! Até que enfim!"
+            ],
+            "ru": [
+              "Валенс! Наконец-то!"
+            ],
+            "s-cn": [
+              "瓦伦斯！总算找到你了！"
+            ],
+            "t-cn": [
+              "瓦倫斯！總算找到你了！"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Hey Izzy..."
             ],
+            "de": [
+              "Hey, Izzy ..."
+            ],
+            "es": [
+              "Hola, Izzy..."
+            ],
+            "fr": [
+              "Salut, Izzy..."
+            ],
+            "it": [
+              "Ehi, Izzy..."
+            ],
+            "ja": [
+              "よお、イジー…"
+            ],
+            "ko": [
+              "안녕, 이지..."
+            ],
             "pt-br": [
               "Oi, Izzy..."
+            ],
+            "ru": [
+              "Привет, Иззи..."
+            ],
+            "s-cn": [
+              "嘿，伊兹……"
+            ],
+            "t-cn": [
+              "嘿，伊茲……"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "I am glad you came along; it seems I can't get out my way."
             ],
+            "de": [
+              "Ich bin froh, dass du gekommen bist; auf meine Art komme ich hier wohl nicht heraus."
+            ],
+            "es": [
+              "Me alegra que hayas venido, parece que no consigo salir por allí."
+            ],
+            "fr": [
+              "Je suis content que tu sois venu, je n'arrive pas à m'en sortir à ma manière."
+            ],
+            "it": [
+              "Mi fa piacere che tu sia qui. A quanto pare da solo non posso farcela."
+            ],
+            "ja": [
+              "ちょうどいいところに来てくれた。 こちらからじゃ出られなくてのう。"
+            ],
+            "ko": [
+              "이렇게 만나 다행이야. 나 혼자서는 빠져나갈 수 없는 것 같아."
+            ],
             "pt-br": [
               "Que bom que você veio, parece que só consigo atrapalhar a mim mesmo."
+            ],
+            "ru": [
+              "Я рад, что ты пришёл, похоже, я сам себе мешаю."
+            ],
+            "s-cn": [
+              "你来得正好，我怎么也找不到出路。"
+            ],
+            "t-cn": [
+              "你來得正好，我怎麼也找不到出路。"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "I can't get out my way either."
             ],
+            "de": [
+              "Auf meine Art komme ich auch nicht raus."
+            ],
+            "es": [
+              "Yo tampoco consigo salir por aquí."
+            ],
+            "fr": [
+              "Moi non plus, je n'arrive pas à m'en sortir."
+            ],
+            "it": [
+              "Neanch'io."
+            ],
+            "ja": [
+              "こっちも無理だ。"
+            ],
+            "ko": [
+              "나도 빠져나갈 수 없긴 매한가지야."
+            ],
             "pt-br": [
               "Eu também não consigo."
+            ],
+            "ru": [
+              "Я тоже не могу сдвинуться с места."
+            ],
+            "s-cn": [
+              "我也出不去。"
+            ],
+            "t-cn": [
+              "我也出不去。"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "We'll figure it out."
             ],
+            "de": [
+              "Wir finden schon eine Lösung."
+            ],
+            "es": [
+              "Lo resolveremos."
+            ],
+            "fr": [
+              "On va trouver une solution."
+            ],
+            "it": [
+              "Troveremo una soluzione."
+            ],
+            "ja": [
+              "まあどうにかなるじゃろう。"
+            ],
+            "ko": [
+              "우린 방법을 찾을 거야."
+            ],
             "pt-br": [
               "Vamos dar um jeito."
+            ],
+            "ru": [
+              "Разберёмся."
+            ],
+            "s-cn": [
+              "总会有办法的。"
+            ],
+            "t-cn": [
+              "總會有辦法的。"
             ]
           },
           "provenance": {
@@ -133,8 +277,35 @@
             "en": [
               "We always do!"
             ],
+            "de": [
+              "Das tun wir immer!"
+            ],
+            "es": [
+              "¡Siempre lo hacemos!"
+            ],
+            "fr": [
+              "Comme toujours !"
+            ],
+            "it": [
+              "Ce la facciamo sempre!"
+            ],
+            "ja": [
+              "いつも通りな！"
+            ],
+            "ko": [
+              "늘 그랬듯이!"
+            ],
             "pt-br": [
               "Sempre damos!"
+            ],
+            "ru": [
+              "Как всегда!"
+            ],
+            "s-cn": [
+              "我们总能逃出生天！"
+            ],
+            "t-cn": [
+              "我們總能逃出生天！"
             ]
           },
           "provenance": {
@@ -155,8 +326,35 @@
             "en": [
               "Now, Ratleigh, observe the way they work together. There is a lesson in this."
             ],
+            "de": [
+              "Ratleigh, beobachte, wie sie zusammenarbeiten. Daraus lässt sich etwas lernen."
+            ],
+            "es": [
+              "Ahora, Ratleigh, observa cómo trabajan juntos. Hay una lección en todo esto."
+            ],
+            "fr": [
+              "À présent, Ratleigh, observe comment ils travaillent ensemble. Il y a une leçon à en tirer."
+            ],
+            "it": [
+              "Ora, Ratleigh, osserva come collaborano. C'è una lezione da imparare."
+            ],
+            "ja": [
+              "ラトレイ、あの者たちが どう協力するか見ておけ。 学ぶべきものがある。"
+            ],
+            "ko": [
+              "자, 래틀리, 저들이 어떻게 힘을 합치는지 잘 보거라. 배울 점이 있으니."
+            ],
             "pt-br": [
               "Agora, Ratleigh, observe como eles trabalham juntos. Há uma lição nisso."
+            ],
+            "ru": [
+              "А теперь, Рэтли, посмотри, как они действуют сообща. Из этого можно извлечь урок."
+            ],
+            "s-cn": [
+              "拉特利，好好看看他们是怎么配合的。这里头有学问。"
+            ],
+            "t-cn": [
+              "拉特利，好好看看他們是怎麼配合的。這裡頭有學問。"
             ]
           },
           "provenance": {
@@ -177,8 +375,35 @@
             "en": [
               "I'll keep a close -"
             ],
+            "de": [
+              "Ich werde ein wachsames ..."
+            ],
+            "es": [
+              "Estaré al -"
+            ],
+            "fr": [
+              "Je garderai un—"
+            ],
+            "it": [
+              "Terrò d'occhio -"
+            ],
+            "ja": [
+              "よく見ておきま――"
+            ],
+            "ko": [
+              "눈을 떼지..."
+            ],
             "pt-br": [
               "Vou ficar de -"
+            ],
+            "ru": [
+              "Я буду смо-"
+            ],
+            "s-cn": [
+              "我会仔细盯着——"
+            ],
+            "t-cn": [
+              "我會仔細盯著——"
             ]
           },
           "provenance": {
@@ -199,8 +424,35 @@
             "en": [
               "Shush!!"
             ],
+            "de": [
+              "Sei still!!"
+            ],
+            "es": [
+              "¡Anda, calla!"
+            ],
+            "fr": [
+              "Chut !!"
+            ],
+            "it": [
+              "Zitto!!"
+            ],
+            "ja": [
+              "静かに！！"
+            ],
+            "ko": [
+              "조용히 해!!"
+            ],
             "pt-br": [
               "Cala a boca!!"
+            ],
+            "ru": [
+              "Тихо!!"
+            ],
+            "s-cn": [
+              "嘘！！"
+            ],
+            "t-cn": [
+              "噓！！"
             ]
           },
           "provenance": {
@@ -228,6 +480,72 @@
           "I'll keep a close -",
           "Shush!!"
         ],
+        "de": [
+          "Valens! Endlich!",
+          "Hey, Izzy ...",
+          "Ich bin froh, dass du gekommen bist; auf meine Art komme ich hier wohl nicht heraus.",
+          "Auf meine Art komme ich auch nicht raus.",
+          "Wir finden schon eine Lösung.",
+          "Das tun wir immer!",
+          "Ratleigh, beobachte, wie sie zusammenarbeiten. Daraus lässt sich etwas lernen.",
+          "Ich werde ein wachsames ...",
+          "Sei still!!"
+        ],
+        "es": [
+          "¡Valens! ¡Por fin!",
+          "Hola, Izzy...",
+          "Me alegra que hayas venido, parece que no consigo salir por allí.",
+          "Yo tampoco consigo salir por aquí.",
+          "Lo resolveremos.",
+          "¡Siempre lo hacemos!",
+          "Ahora, Ratleigh, observa cómo trabajan juntos. Hay una lección en todo esto.",
+          "Estaré al -",
+          "¡Anda, calla!"
+        ],
+        "fr": [
+          "Valens ! Enfin !",
+          "Salut, Izzy...",
+          "Je suis content que tu sois venu, je n'arrive pas à m'en sortir à ma manière.",
+          "Moi non plus, je n'arrive pas à m'en sortir.",
+          "On va trouver une solution.",
+          "Comme toujours !",
+          "À présent, Ratleigh, observe comment ils travaillent ensemble. Il y a une leçon à en tirer.",
+          "Je garderai un—",
+          "Chut !!"
+        ],
+        "it": [
+          "Valens! Finalmente!",
+          "Ehi, Izzy...",
+          "Mi fa piacere che tu sia qui. A quanto pare da solo non posso farcela.",
+          "Neanch'io.",
+          "Troveremo una soluzione.",
+          "Ce la facciamo sempre!",
+          "Ora, Ratleigh, osserva come collaborano. C'è una lezione da imparare.",
+          "Terrò d'occhio -",
+          "Zitto!!"
+        ],
+        "ja": [
+          "ヴァレンス！やっと見つけた！",
+          "よお、イジー…",
+          "ちょうどいいところに来てくれた。 こちらからじゃ出られなくてのう。",
+          "こっちも無理だ。",
+          "まあどうにかなるじゃろう。",
+          "いつも通りな！",
+          "ラトレイ、あの者たちが どう協力するか見ておけ。 学ぶべきものがある。",
+          "よく見ておきま――",
+          "静かに！！"
+        ],
+        "ko": [
+          "발렌스! 드디어!",
+          "안녕, 이지...",
+          "이렇게 만나 다행이야. 나 혼자서는 빠져나갈 수 없는 것 같아.",
+          "나도 빠져나갈 수 없긴 매한가지야.",
+          "우린 방법을 찾을 거야.",
+          "늘 그랬듯이!",
+          "자, 래틀리, 저들이 어떻게 힘을 합치는지 잘 보거라. 배울 점이 있으니.",
+          "눈을 떼지...",
+          "조용히 해!!"
+        ],
         "pt-br": [
           "Valens! Até que enfim!",
           "Oi, Izzy...",
@@ -238,6 +556,39 @@
           "Agora, Ratleigh, observe como eles trabalham juntos. Há uma lição nisso.",
           "Vou ficar de -",
           "Cala a boca!!"
+        ],
+        "ru": [
+          "Валенс! Наконец-то!",
+          "Привет, Иззи...",
+          "Я рад, что ты пришёл, похоже, я сам себе мешаю.",
+          "Я тоже не могу сдвинуться с места.",
+          "Разберёмся.",
+          "Как всегда!",
+          "А теперь, Рэтли, посмотри, как они действуют сообща. Из этого можно извлечь урок.",
+          "Я буду смо-",
+          "Тихо!!"
+        ],
+        "s-cn": [
+          "瓦伦斯！总算找到你了！",
+          "嘿，伊兹……",
+          "你来得正好，我怎么也找不到出路。",
+          "我也出不去。",
+          "总会有办法的。",
+          "我们总能逃出生天！",
+          "拉特利，好好看看他们是怎么配合的。这里头有学问。",
+          "我会仔细盯着——",
+          "嘘！！"
+        ],
+        "t-cn": [
+          "瓦倫斯！總算找到你了！",
+          "嘿，伊茲……",
+          "你來得正好，我怎麼也找不到出路。",
+          "我也出不去。",
+          "總會有辦法的。",
+          "我們總能逃出生天！",
+          "拉特利，好好看看他們是怎麼配合的。這裡頭有學問。",
+          "我會仔細盯著——",
+          "噓！！"
         ]
       },
       "silentCues": [],

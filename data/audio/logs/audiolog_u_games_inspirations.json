@@ -3,7 +3,16 @@
   "audioLog": "audiolog_u_games_inspirations",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -26,6 +35,66 @@
               "to return to a childlike state, to try and notice what we've lost in the modern day.",
               "And sometimes, we do find litle nuggets of gold."
             ],
+            "de": [
+              "Mit unserer Technologie entwickelten sich auch unsere Spiele weiter. Spiele haben wir stets mitgenommen,",
+              "durch die Umwälzungen und Katastrophen, die wir mit viel Glück überlebt haben – zumindest schien es ein Glück, sie zu überleben.",
+              "Was wir heute in diesen Lagerhäusern tun, kann man kaum noch dasselbe nennen.",
+              "Doch seine Wurzeln liegen in den Spielen unserer Ältesten,",
+              "und unser Orden zollt jener Epoche größten Respekt.",
+              "Bisweilen blicken wir zurück und erleben die Werke jener Zeit noch einmal, so gut es uns möglich ist,",
+              "um wieder wie Kinder zu werden und zu erkennen, was uns in der heutigen Zeit verloren gegangen ist.",
+              "Bisweilen stoßen wir tatsächlich auf kleine wahre Juwelen."
+            ],
+            "es": [
+              "Con nuestra tecnología, avanzaron nuestros juegos. Siempre llevábamos juegos con nosotros,",
+              "durante los trastornos y calamidades a los que tuvimos la suerte de sobrevivir... o eso parecía.",
+              "Lo que hacemos hoy, en estos almacenes, no podría llamarse exactamente así.",
+              "Pero tiene sus raíces en los juegos de nuestros mayores",
+              "y nuestra Orden tiene esa época en gran estima.",
+              "De vez en cuando miramos atrás y volvemos a experimentar las obras de aquella época, lo mejor que podemos,",
+              "para regresar a un estado infantil, para intentar percibir lo que hemos perdido en la época moderna.",
+              "De vez en cuando, encontramos pequeñas pepitas de oro."
+            ],
+            "fr": [
+              "À mesure que notre technologie avançait, nos jeux aussi. Nous avons toujours emporté des jeux avec nous,",
+              "à travers les bouleversements et les calamités auxquels nous avons eu la chance de survivre – si on peut appeler ça de la chance.",
+              "Ce que nous faisons aujourd'hui, dans ces entrepôts, n'est pas vraiment comparable.",
+              "Mais cela prend racine dans les jeux de nos aînés,",
+              "et notre Ordre tient cette époque en très haute estime.",
+              "De temps en temps, nous regardons en arrière et nous redécouvrons ces anciennes œuvres du mieux que nous pouvons,",
+              "pour revenir à un état enfantin et essayer de remarquer ce que nous avons perdu à l'époque moderne.",
+              "Et de temps en temps, nous y trouvons de vraies pépites."
+            ],
+            "it": [
+              "Con l'avanzare della nostra tecnologia, avanzarono anche i nostri giochi. Portammo sempre i giochi con noi,",
+              "attraverso eventi sconvolgenti e calamità che fummo fortunati a superare... Sembrammo fortunati a superare.",
+              "Quello che facciamo oggi, in questi depositi, non lo si potrebbe chiamare la stessa cosa.",
+              "Ma affonda le sue radici nei giochi dei nostri anziani,",
+              "e il nostro Ordine considera questo periodo con grande rispetto.",
+              "Ogni tanto guardiamo indietro e riviviamo le opere di quel tempo, per quanto ci è possibile,",
+              "per tornare a uno stato infantile, per cercare di notare ciò che abbiamo perso al giorno d'oggi.",
+              "Ogni tanto, troviamo davvero delle piccole pepite d'oro."
+            ],
+            "ja": [
+              "技術の進歩とともに、私たちのゲームも 進化していった。そして私たちは、 常に遊びを持ち歩いてきた。",
+              "動乱や大惨事の真っ只中でも、 運良く生き延びることができた… 少なくとも、自分たちにはそう見えた。",
+              "私たちが今日やっていることは、 もはや同じものとは呼べないだろうね。",
+              "しかし、そのルーツは 我々の祖先が培ってきた慣習にある。",
+              "だから私たち沈み行く星の教団は、 その時代に深い敬意を抱いているんだ。",
+              "時々、そんな作品を 振り返ることもある。",
+              "童心に帰って、技術を洗練させる過程で 失われたものがないかを見極めるために。",
+              "そのようなものを、 時たま見つけることもある。"
+            ],
+            "ko": [
+              "기술이 발전하면서 게임도 발전했어. 우리는 항상 게임을 가지고 다녔지.",
+              "우리가 운 좋게 살아남았던... 살아남은 게 운이 좋았던 것처럼 보였던 그 격변과 재난들을 통과해서 말이야.",
+              "우리가 오늘 이 창고들에서 하는 것을 같은 것이라 할 수는 없어.",
+              "하지만 그 뿌리는 선조들의 게임에 있고",
+              "우리 결사단은 그 시대를 매우 중요하게 여기지.",
+              "가끔 우리는 과거를 돌아보고 그 시절의 작품들을 가능한 한 다시 경험해 봐.",
+              "어린아이 같은 마음으로 돌아가서, 현대에 우리가 무엇을 잃었는지 알아보려는 거야.",
+              "가끔 작은 금덩이를 발견하기도 해."
+            ],
             "pt-br": [
               "Com o avanço da tecnologia, nossos jogos evoluíam. Sempre levávamos os jogos conosco,",
               "através das convulsões e calamidades às quais tivemos a sorte de sobreviver... parecia sorte sobreviver.",
@@ -35,6 +104,36 @@
               "De vez em quando, olhamos para trás e revivemos as obras daquela época, da melhor forma que podemos,",
               "para voltar a um estado infantil, para tentar notar o que perdemos nos dias de hoje.",
               "De vez em quando, encontramos pequenas pepitas de ouro."
+            ],
+            "ru": [
+              "По мере развития нашей технологии развивались и наши игры. Мы всегда брали игры с собой,",
+              "сквозь потрясения и бедствия которые нам посчастливилось пережить — казалось, посчастливилось пережить.",
+              "То, что мы делаем сегодня в этих складах, нельзя назвать тем же самым.",
+              "Но корни этого уходят в игры старейшин,",
+              "и наш Орден относится к той эпохе с большим уважением.",
+              "Иногда мы оглядываемся назад и заново переживаем работы того времени, как можем,",
+              "чтобы вернуться в детское состояние, попытаться заметить, что мы потеряли в современном мире.",
+              "Иногда мы и правда находим маленькие золотые крупинки."
+            ],
+            "s-cn": [
+              "随着技术不断进步，我们的游戏也随之发展。",
+              "即使历经一场场动荡与灾难，游戏也始终与我们相伴。 我们幸运地活了下来——至少，当时我们还觉得这是件幸事。",
+              "我们如今在仓库里做的事，已经不能和当年的游戏相提并论了。",
+              "但它的根源可以追溯到前人玩的游戏，",
+              "沉星之序也一直十分敬重那个时代。",
+              "偶尔，我们会回头尽可能重温那个时代的作品，",
+              "让自己回到孩童般的状态，试着回头看看，我们在现代生活中失去了什么。",
+              "而有的时候，我们确实能淘到几粒金子。"
+            ],
+            "t-cn": [
+              "隨著技術不斷進步，我們的遊戲也隨之發展。",
+              "即使歷經一場場動蕩與災難，遊戲也始終與我們相伴。 我們幸運地活了下來—— 至少，當時我們還覺得這是件幸事。",
+              "我們如今在倉庫裡做的事， 已經不能和當年的遊戲相提並論了。",
+              "但它的根源可以追溯到前人玩的遊戲，",
+              "沉星之序也一直十分敬重那個時代。",
+              "偶爾，我們會回頭儘可能重溫那個時代的作品，",
+              "讓自己回到孩童般的狀態，試著回頭看看， 我們在現代生活中失去了什麼。",
+              "而有的時候，我們確實能淘到幾粒金子。"
             ]
           },
           "provenance": {
@@ -68,6 +167,66 @@
           "to return to a childlike state, to try and notice what we've lost in the modern day.",
           "And sometimes, we do find litle nuggets of gold."
         ],
+        "de": [
+          "Mit unserer Technologie entwickelten sich auch unsere Spiele weiter. Spiele haben wir stets mitgenommen,",
+          "durch die Umwälzungen und Katastrophen, die wir mit viel Glück überlebt haben – zumindest schien es ein Glück, sie zu überleben.",
+          "Was wir heute in diesen Lagerhäusern tun, kann man kaum noch dasselbe nennen.",
+          "Doch seine Wurzeln liegen in den Spielen unserer Ältesten,",
+          "und unser Orden zollt jener Epoche größten Respekt.",
+          "Bisweilen blicken wir zurück und erleben die Werke jener Zeit noch einmal, so gut es uns möglich ist,",
+          "um wieder wie Kinder zu werden und zu erkennen, was uns in der heutigen Zeit verloren gegangen ist.",
+          "Bisweilen stoßen wir tatsächlich auf kleine wahre Juwelen."
+        ],
+        "es": [
+          "Con nuestra tecnología, avanzaron nuestros juegos. Siempre llevábamos juegos con nosotros,",
+          "durante los trastornos y calamidades a los que tuvimos la suerte de sobrevivir... o eso parecía.",
+          "Lo que hacemos hoy, en estos almacenes, no podría llamarse exactamente así.",
+          "Pero tiene sus raíces en los juegos de nuestros mayores",
+          "y nuestra Orden tiene esa época en gran estima.",
+          "De vez en cuando miramos atrás y volvemos a experimentar las obras de aquella época, lo mejor que podemos,",
+          "para regresar a un estado infantil, para intentar percibir lo que hemos perdido en la época moderna.",
+          "De vez en cuando, encontramos pequeñas pepitas de oro."
+        ],
+        "fr": [
+          "À mesure que notre technologie avançait, nos jeux aussi. Nous avons toujours emporté des jeux avec nous,",
+          "à travers les bouleversements et les calamités auxquels nous avons eu la chance de survivre – si on peut appeler ça de la chance.",
+          "Ce que nous faisons aujourd'hui, dans ces entrepôts, n'est pas vraiment comparable.",
+          "Mais cela prend racine dans les jeux de nos aînés,",
+          "et notre Ordre tient cette époque en très haute estime.",
+          "De temps en temps, nous regardons en arrière et nous redécouvrons ces anciennes œuvres du mieux que nous pouvons,",
+          "pour revenir à un état enfantin et essayer de remarquer ce que nous avons perdu à l'époque moderne.",
+          "Et de temps en temps, nous y trouvons de vraies pépites."
+        ],
+        "it": [
+          "Con l'avanzare della nostra tecnologia, avanzarono anche i nostri giochi. Portammo sempre i giochi con noi,",
+          "attraverso eventi sconvolgenti e calamità che fummo fortunati a superare... Sembrammo fortunati a superare.",
+          "Quello che facciamo oggi, in questi depositi, non lo si potrebbe chiamare la stessa cosa.",
+          "Ma affonda le sue radici nei giochi dei nostri anziani,",
+          "e il nostro Ordine considera questo periodo con grande rispetto.",
+          "Ogni tanto guardiamo indietro e riviviamo le opere di quel tempo, per quanto ci è possibile,",
+          "per tornare a uno stato infantile, per cercare di notare ciò che abbiamo perso al giorno d'oggi.",
+          "Ogni tanto, troviamo davvero delle piccole pepite d'oro."
+        ],
+        "ja": [
+          "技術の進歩とともに、私たちのゲームも 進化していった。そして私たちは、 常に遊びを持ち歩いてきた。",
+          "動乱や大惨事の真っ只中でも、 運良く生き延びることができた… 少なくとも、自分たちにはそう見えた。",
+          "私たちが今日やっていることは、 もはや同じものとは呼べないだろうね。",
+          "しかし、そのルーツは 我々の祖先が培ってきた慣習にある。",
+          "だから私たち沈み行く星の教団は、 その時代に深い敬意を抱いているんだ。",
+          "時々、そんな作品を 振り返ることもある。",
+          "童心に帰って、技術を洗練させる過程で 失われたものがないかを見極めるために。",
+          "そのようなものを、 時たま見つけることもある。"
+        ],
+        "ko": [
+          "기술이 발전하면서 게임도 발전했어. 우리는 항상 게임을 가지고 다녔지.",
+          "우리가 운 좋게 살아남았던... 살아남은 게 운이 좋았던 것처럼 보였던 그 격변과 재난들을 통과해서 말이야.",
+          "우리가 오늘 이 창고들에서 하는 것을 같은 것이라 할 수는 없어.",
+          "하지만 그 뿌리는 선조들의 게임에 있고",
+          "우리 결사단은 그 시대를 매우 중요하게 여기지.",
+          "가끔 우리는 과거를 돌아보고 그 시절의 작품들을 가능한 한 다시 경험해 봐.",
+          "어린아이 같은 마음으로 돌아가서, 현대에 우리가 무엇을 잃었는지 알아보려는 거야.",
+          "가끔 작은 금덩이를 발견하기도 해."
+        ],
         "pt-br": [
           "Com o avanço da tecnologia, nossos jogos evoluíam. Sempre levávamos os jogos conosco,",
           "através das convulsões e calamidades às quais tivemos a sorte de sobreviver... parecia sorte sobreviver.",
@@ -77,6 +236,36 @@
           "De vez em quando, olhamos para trás e revivemos as obras daquela época, da melhor forma que podemos,",
           "para voltar a um estado infantil, para tentar notar o que perdemos nos dias de hoje.",
           "De vez em quando, encontramos pequenas pepitas de ouro."
+        ],
+        "ru": [
+          "По мере развития нашей технологии развивались и наши игры. Мы всегда брали игры с собой,",
+          "сквозь потрясения и бедствия которые нам посчастливилось пережить — казалось, посчастливилось пережить.",
+          "То, что мы делаем сегодня в этих складах, нельзя назвать тем же самым.",
+          "Но корни этого уходят в игры старейшин,",
+          "и наш Орден относится к той эпохе с большим уважением.",
+          "Иногда мы оглядываемся назад и заново переживаем работы того времени, как можем,",
+          "чтобы вернуться в детское состояние, попытаться заметить, что мы потеряли в современном мире.",
+          "Иногда мы и правда находим маленькие золотые крупинки."
+        ],
+        "s-cn": [
+          "随着技术不断进步，我们的游戏也随之发展。",
+          "即使历经一场场动荡与灾难，游戏也始终与我们相伴。 我们幸运地活了下来——至少，当时我们还觉得这是件幸事。",
+          "我们如今在仓库里做的事，已经不能和当年的游戏相提并论了。",
+          "但它的根源可以追溯到前人玩的游戏，",
+          "沉星之序也一直十分敬重那个时代。",
+          "偶尔，我们会回头尽可能重温那个时代的作品，",
+          "让自己回到孩童般的状态，试着回头看看，我们在现代生活中失去了什么。",
+          "而有的时候，我们确实能淘到几粒金子。"
+        ],
+        "t-cn": [
+          "隨著技術不斷進步，我們的遊戲也隨之發展。",
+          "即使歷經一場場動蕩與災難，遊戲也始終與我們相伴。 我們幸運地活了下來—— 至少，當時我們還覺得這是件幸事。",
+          "我們如今在倉庫裡做的事， 已經不能和當年的遊戲相提並論了。",
+          "但它的根源可以追溯到前人玩的遊戲，",
+          "沉星之序也一直十分敬重那個時代。",
+          "偶爾，我們會回頭儘可能重溫那個時代的作品，",
+          "讓自己回到孩童般的狀態，試著回頭看看， 我們在現代生活中失去了什麼。",
+          "而有的時候，我們確實能淘到幾粒金子。"
         ]
       },
       "silentCues": [],

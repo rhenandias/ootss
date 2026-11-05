@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Hello over there!"
             ],
+            "de": [
+              "Hallo da drüben!"
+            ],
+            "es": [
+              "¡Hola!"
+            ],
+            "fr": [
+              "Hé, vous là-bas !"
+            ],
+            "it": [
+              "Ehilà!"
+            ],
+            "ja": [
+              "やあ！"
+            ],
+            "ko": [
+              "거기 안녕!"
+            ],
             "pt-br": [
               "Olá, olá!"
+            ],
+            "ru": [
+              "Привет там!"
+            ],
+            "s-cn": [
+              "那边的朋友，你好啊！"
+            ],
+            "t-cn": [
+              "那邊的朋友，你好啊！"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Hello again."
             ],
+            "de": [
+              "Hallo noch mal."
+            ],
+            "es": [
+              "Hola otra vez."
+            ],
+            "fr": [
+              "Rebonjour."
+            ],
+            "it": [
+              "Ciao di nuovo."
+            ],
+            "ja": [
+              "また会ったな。"
+            ],
+            "ko": [
+              "또 만났네."
+            ],
             "pt-br": [
               "Olá de novo."
+            ],
+            "ru": [
+              "Снова привет."
+            ],
+            "s-cn": [
+              "又见面了。"
+            ],
+            "t-cn": [
+              "又見面了。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "The Chiefs want me to tell you they think you're doing well."
             ],
+            "de": [
+              "Die Obersten lassen ausrichten, sie finden, du machst das gut."
+            ],
+            "es": [
+              "Los jefes quieren que te diga que creen que lo estás haciendo muy bien."
+            ],
+            "fr": [
+              "Les chefs m'ont demandé de vous dire qu'ils trouvent que vous vous en sortez très bien."
+            ],
+            "it": [
+              "I Capi vogliono che ti dica che pensano che te la stia cavando alla grande."
+            ],
+            "ja": [
+              "長から伝言だ。 君はよくやってるって。"
+            ],
+            "ko": [
+              "수석님들이 네가 잘하고 있다고 전해 달라더군."
+            ],
             "pt-br": [
               "Os chefes querem que eu te diga que acham que você está indo muito bem."
+            ],
+            "ru": [
+              "Главы велели передать тебе, что считают, будто у тебя всё отлично получается."
+            ],
+            "s-cn": [
+              "诸位首席镜匠让我转告你，他们觉得你干得不错。"
+            ],
+            "t-cn": [
+              "諸位首席鏡匠讓我轉告你，他們覺得你幹得不錯。"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "What do they want me to do?"
             ],
+            "de": [
+              "Was soll ich für sie tun?"
+            ],
+            "es": [
+              "¿Qué quieren que haga?"
+            ],
+            "fr": [
+              "Qu'est-ce qu'ils veulent que je fasse ?"
+            ],
+            "it": [
+              "Che cosa vogliono che faccia?"
+            ],
+            "ja": [
+              "何をしてほしいんだ。"
+            ],
+            "ko": [
+              "나한테 뭘 하라고 하셨지?"
+            ],
             "pt-br": [
               "O que eles querem que eu faça?"
+            ],
+            "ru": [
+              "Что они хотят от меня?"
+            ],
+            "s-cn": [
+              "那他们想让我做什么？"
+            ],
+            "t-cn": [
+              "那他們想讓我做什麼？"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "Just keep going. When the time comes, we'll give you word."
             ],
+            "de": [
+              "Mach einfach weiter. Wir melden uns, wenn die Zeit dafür gekommen ist."
+            ],
+            "es": [
+              "Sigue adelante, simplemente. Te avisaremos cuando llegue el momento."
+            ],
+            "fr": [
+              "Continuez simplement. Le moment venu, on vous fera signe."
+            ],
+            "it": [
+              "Vai avanti. Ti faremo sapere quando sarà il momento."
+            ],
+            "ja": [
+              "とにかく進め。 その時が来たら知らせる。"
+            ],
+            "ko": [
+              "그냥 계속 가. 때가 되면 알려줄게."
+            ],
             "pt-br": [
               "Só continua. Vamos avisar quando chegar a hora."
+            ],
+            "ru": [
+              "Просто иди дальше. Мы дадим тебе знать, когда придёт время."
+            ],
+            "s-cn": [
+              "继续往前走。 时机一到，我们会给你消息。"
+            ],
+            "t-cn": [
+              "繼續往前走。 時機一到，我們會給你消息。"
             ]
           },
           "provenance": {
@@ -133,8 +277,35 @@
             "en": [
               "I don't like being kept in the dark."
             ],
+            "de": [
+              "Ich mag es nicht, im Dunkeln gelassen zu werden."
+            ],
+            "es": [
+              "No me gusta que me oculten cosas."
+            ],
+            "fr": [
+              "Je n'aime pas qu'on me cache les choses."
+            ],
+            "it": [
+              "Non mi piace essere tenuto all'oscuro."
+            ],
+            "ja": [
+              "秘密は嫌いだ。"
+            ],
+            "ko": [
+              "난 어둠 속에 놓이는 게 싫어."
+            ],
             "pt-br": [
               "Não gosto de ficar no escuro."
+            ],
+            "ru": [
+              "Мне не нравится быть в неведении."
+            ],
+            "s-cn": [
+              "我不喜欢被蒙在鼓里。"
+            ],
+            "t-cn": [
+              "我不喜歡被蒙在鼓裡。"
             ]
           },
           "provenance": {
@@ -159,6 +330,54 @@
           "Just keep going. When the time comes, we'll give you word.",
           "I don't like being kept in the dark."
         ],
+        "de": [
+          "Hallo da drüben!",
+          "Hallo noch mal.",
+          "Die Obersten lassen ausrichten, sie finden, du machst das gut.",
+          "Was soll ich für sie tun?",
+          "Mach einfach weiter. Wir melden uns, wenn die Zeit dafür gekommen ist.",
+          "Ich mag es nicht, im Dunkeln gelassen zu werden."
+        ],
+        "es": [
+          "¡Hola!",
+          "Hola otra vez.",
+          "Los jefes quieren que te diga que creen que lo estás haciendo muy bien.",
+          "¿Qué quieren que haga?",
+          "Sigue adelante, simplemente. Te avisaremos cuando llegue el momento.",
+          "No me gusta que me oculten cosas."
+        ],
+        "fr": [
+          "Hé, vous là-bas !",
+          "Rebonjour.",
+          "Les chefs m'ont demandé de vous dire qu'ils trouvent que vous vous en sortez très bien.",
+          "Qu'est-ce qu'ils veulent que je fasse ?",
+          "Continuez simplement. Le moment venu, on vous fera signe.",
+          "Je n'aime pas qu'on me cache les choses."
+        ],
+        "it": [
+          "Ehilà!",
+          "Ciao di nuovo.",
+          "I Capi vogliono che ti dica che pensano che te la stia cavando alla grande.",
+          "Che cosa vogliono che faccia?",
+          "Vai avanti. Ti faremo sapere quando sarà il momento.",
+          "Non mi piace essere tenuto all'oscuro."
+        ],
+        "ja": [
+          "やあ！",
+          "また会ったな。",
+          "長から伝言だ。 君はよくやってるって。",
+          "何をしてほしいんだ。",
+          "とにかく進め。 その時が来たら知らせる。",
+          "秘密は嫌いだ。"
+        ],
+        "ko": [
+          "거기 안녕!",
+          "또 만났네.",
+          "수석님들이 네가 잘하고 있다고 전해 달라더군.",
+          "나한테 뭘 하라고 하셨지?",
+          "그냥 계속 가. 때가 되면 알려줄게.",
+          "난 어둠 속에 놓이는 게 싫어."
+        ],
         "pt-br": [
           "Olá, olá!",
           "Olá de novo.",
@@ -166,6 +385,30 @@
           "O que eles querem que eu faça?",
           "Só continua. Vamos avisar quando chegar a hora.",
           "Não gosto de ficar no escuro."
+        ],
+        "ru": [
+          "Привет там!",
+          "Снова привет.",
+          "Главы велели передать тебе, что считают, будто у тебя всё отлично получается.",
+          "Что они хотят от меня?",
+          "Просто иди дальше. Мы дадим тебе знать, когда придёт время.",
+          "Мне не нравится быть в неведении."
+        ],
+        "s-cn": [
+          "那边的朋友，你好啊！",
+          "又见面了。",
+          "诸位首席镜匠让我转告你，他们觉得你干得不错。",
+          "那他们想让我做什么？",
+          "继续往前走。 时机一到，我们会给你消息。",
+          "我不喜欢被蒙在鼓里。"
+        ],
+        "t-cn": [
+          "那邊的朋友，你好啊！",
+          "又見面了。",
+          "諸位首席鏡匠讓我轉告你，他們覺得你幹得不錯。",
+          "那他們想讓我做什麼？",
+          "繼續往前走。 時機一到，我們會給你消息。",
+          "我不喜歡被蒙在鼓裡。"
         ]
       },
       "silentCues": [],

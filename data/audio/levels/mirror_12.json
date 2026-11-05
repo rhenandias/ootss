@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "I know it's hard, but we must press forward."
             ],
+            "de": [
+              "Ich weiß, es ist schwer, aber wir müssen weiter vorankommen."
+            ],
+            "es": [
+              "Sé que es difícil, pero debemos seguir adelante."
+            ],
+            "fr": [
+              "Je sais que c'est difficile, mais il faut continuer."
+            ],
+            "it": [
+              "So che è difficile, ma dobbiamo andare avanti."
+            ],
+            "ja": [
+              "つらいだろうが、進まなくては。"
+            ],
+            "ko": [
+              "힘든 건 알지만, 우린 계속 나아가야 해."
+            ],
             "pt-br": [
               "Eu sei que é difícil, mas precisamos seguir em frente."
+            ],
+            "ru": [
+              "Я знаю, это тяжело, но нам нужно идти вперёд."
+            ],
+            "s-cn": [
+              "我知道很难，但我们必须继续前进。"
+            ],
+            "t-cn": [
+              "我知道很難，但我們必須繼續前進。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "No no no. We must return at once to manage intake of the week's merchantman."
             ],
+            "de": [
+              "Nein, nein, nein. Wir müssen sofort zurück, um die Entladung des wöchentlichen Handelsschiffs zu beaufsichtigen."
+            ],
+            "es": [
+              "No, no, no. Debemos volver de inmediato para gestionar la recepción del mercante de la semana."
+            ],
+            "fr": [
+              "Non, non, non. Nous devons rentrer immédiatement pour gérer l'arrivée du navire marchand de la semaine."
+            ],
+            "it": [
+              "No no no. Dobbiamo tornare subito a gestire l'arrivo della nave mercantile della settimana."
+            ],
+            "ja": [
+              "いいや。すぐ戻って 今週の商船を受け入れねば。"
+            ],
+            "ko": [
+              "헛소리. 우리는 당장 돌아가야 해. 이번 주의 상선 입고를 처리해야 하니까."
+            ],
             "pt-br": [
               "Não, não, não. Precisamos voltar já para cuidar da recepção do mercante da semana."
+            ],
+            "ru": [
+              "Нет, нет, нет. Нам нужно немедленно вернуться и принять торговое судно этой недели."
+            ],
+            "s-cn": [
+              "不不不。我们必须马上回去，处理本周商船进港的事。"
+            ],
+            "t-cn": [
+              "不不不。我們必須馬上回去，處理本周商船進港的事。"
             ]
           },
           "provenance": {
@@ -69,10 +132,55 @@
               "And these mirrors are cold.",
               "Just leave to nowhere special -- become itinerant -- a life of freedom."
             ],
+            "de": [
+              "Nur Scherereien. Meiner Frau bin ich egal. Das Kind ist alt genug.",
+              "Und diese Spiegel sind kalt.",
+              "Einfach fort, ohne bestimmtes Ziel – auf Wanderschaft gehen – ein Leben in Freiheit."
+            ],
+            "es": [
+              "Eso no traería más que problemas. A mi mujer no le importo. El crío ya está suficientemente criado.",
+              "Y estos espejos están fríos.",
+              "Solo quiero vagar por ahí... volverme un nómada... una vida de libertad."
+            ],
+            "fr": [
+              "Tant de tracas. Ma femme ne veut plus de moi. Mon gamin est assez grand maintenant.",
+              "Et ces miroirs sont froids.",
+              "Il suffit de partir, n'importe où – devenir itinérant – une vie de liberté."
+            ],
+            "it": [
+              "Che seccatura. Mia moglie non mi sopporta. Mio figlio è ormai cresciuto.",
+              "E questi specchi sono freddi.",
+              "Andarsene verso il nulla... diventare itineranti... una vita di libertà."
+            ],
+            "ja": [
+              "ああ面倒だ。妻には愛想を尽かされ、 子供ももう手が離れた。",
+              "それにこの鏡は冷たい。",
+              "どこか遠くへいって―― 流れ者になればいい―― 自由な人生だ。"
+            ],
+            "ko": [
+              "귀찮은 일들 뿐이야. 마누라도 날 신경 안 써. 애는 충분히 컸고.",
+              "게다가 이 거울들은 차갑거든.",
+              "아무 데도 아닌 곳으로 그냥 떠나버려. 유랑하는 거야. 자유로운 삶이지."
+            ],
             "pt-br": [
               "Burocracia, burocracia. A esposa não liga pra mim. O filho já está criado o suficiente.",
               "E esses espelhos são frios.",
               "Só ir para lugar nenhum em especial, virar itinerante, uma vida de liberdade."
+            ],
+            "ru": [
+              "Хлопоты, хлопоты. Жене я не нужен. Ребёнок уже достаточно вырос.",
+              "И эти зеркала холодные.",
+              "Просто уйти в никуда — стать бродягой — свободная жизнь."
+            ],
+            "s-cn": [
+              "麻烦，真麻烦。妻子不待见我，孩子也大到不用操心了。",
+              "再说这些镜子还冷冰冰的。",
+              "干脆走了算了，去哪儿都行……四处漂泊……落个自在。"
+            ],
+            "t-cn": [
+              "麻煩，真麻煩。妻子不待見我，孩子也大到不用操心了。",
+              "再說這些鏡子還冷冰冰的。",
+              "乾脆走了算了，去哪兒都行……四處漂泊……落個自在。"
             ]
           },
           "provenance": {
@@ -98,12 +206,75 @@
           "And these mirrors are cold.",
           "Just leave to nowhere special -- become itinerant -- a life of freedom."
         ],
+        "de": [
+          "Ich weiß, es ist schwer, aber wir müssen weiter vorankommen.",
+          "Nein, nein, nein. Wir müssen sofort zurück, um die Entladung des wöchentlichen Handelsschiffs zu beaufsichtigen.",
+          "Nur Scherereien. Meiner Frau bin ich egal. Das Kind ist alt genug.",
+          "Und diese Spiegel sind kalt.",
+          "Einfach fort, ohne bestimmtes Ziel – auf Wanderschaft gehen – ein Leben in Freiheit."
+        ],
+        "es": [
+          "Sé que es difícil, pero debemos seguir adelante.",
+          "No, no, no. Debemos volver de inmediato para gestionar la recepción del mercante de la semana.",
+          "Eso no traería más que problemas. A mi mujer no le importo. El crío ya está suficientemente criado.",
+          "Y estos espejos están fríos.",
+          "Solo quiero vagar por ahí... volverme un nómada... una vida de libertad."
+        ],
+        "fr": [
+          "Je sais que c'est difficile, mais il faut continuer.",
+          "Non, non, non. Nous devons rentrer immédiatement pour gérer l'arrivée du navire marchand de la semaine.",
+          "Tant de tracas. Ma femme ne veut plus de moi. Mon gamin est assez grand maintenant.",
+          "Et ces miroirs sont froids.",
+          "Il suffit de partir, n'importe où – devenir itinérant – une vie de liberté."
+        ],
+        "it": [
+          "So che è difficile, ma dobbiamo andare avanti.",
+          "No no no. Dobbiamo tornare subito a gestire l'arrivo della nave mercantile della settimana.",
+          "Che seccatura. Mia moglie non mi sopporta. Mio figlio è ormai cresciuto.",
+          "E questi specchi sono freddi.",
+          "Andarsene verso il nulla... diventare itineranti... una vita di libertà."
+        ],
+        "ja": [
+          "つらいだろうが、進まなくては。",
+          "いいや。すぐ戻って 今週の商船を受け入れねば。",
+          "ああ面倒だ。妻には愛想を尽かされ、 子供ももう手が離れた。",
+          "それにこの鏡は冷たい。",
+          "どこか遠くへいって―― 流れ者になればいい―― 自由な人生だ。"
+        ],
+        "ko": [
+          "힘든 건 알지만, 우린 계속 나아가야 해.",
+          "헛소리. 우리는 당장 돌아가야 해. 이번 주의 상선 입고를 처리해야 하니까.",
+          "귀찮은 일들 뿐이야. 마누라도 날 신경 안 써. 애는 충분히 컸고.",
+          "게다가 이 거울들은 차갑거든.",
+          "아무 데도 아닌 곳으로 그냥 떠나버려. 유랑하는 거야. 자유로운 삶이지."
+        ],
         "pt-br": [
           "Eu sei que é difícil, mas precisamos seguir em frente.",
           "Não, não, não. Precisamos voltar já para cuidar da recepção do mercante da semana.",
           "Burocracia, burocracia. A esposa não liga pra mim. O filho já está criado o suficiente.",
           "E esses espelhos são frios.",
           "Só ir para lugar nenhum em especial, virar itinerante, uma vida de liberdade."
+        ],
+        "ru": [
+          "Я знаю, это тяжело, но нам нужно идти вперёд.",
+          "Нет, нет, нет. Нам нужно немедленно вернуться и принять торговое судно этой недели.",
+          "Хлопоты, хлопоты. Жене я не нужен. Ребёнок уже достаточно вырос.",
+          "И эти зеркала холодные.",
+          "Просто уйти в никуда — стать бродягой — свободная жизнь."
+        ],
+        "s-cn": [
+          "我知道很难，但我们必须继续前进。",
+          "不不不。我们必须马上回去，处理本周商船进港的事。",
+          "麻烦，真麻烦。妻子不待见我，孩子也大到不用操心了。",
+          "再说这些镜子还冷冰冰的。",
+          "干脆走了算了，去哪儿都行……四处漂泊……落个自在。"
+        ],
+        "t-cn": [
+          "我知道很難，但我們必須繼續前進。",
+          "不不不。我們必須馬上回去，處理本周商船進港的事。",
+          "麻煩，真麻煩。妻子不待見我，孩子也大到不用操心了。",
+          "再說這些鏡子還冷冰冰的。",
+          "乾脆走了算了，去哪兒都行……四處漂泊……落個自在。"
         ]
       },
       "silentCues": [],

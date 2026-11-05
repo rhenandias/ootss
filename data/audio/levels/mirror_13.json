@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "We could work together like this, normally."
             ],
+            "de": [
+              "Wir könnten auf diese Weise zusammenarbeiten, ganz regulär."
+            ],
+            "es": [
+              "Podríamos trabajar juntos así, normalmente."
+            ],
+            "fr": [
+              "On pourrait travailler ensemble comme ça, normalement."
+            ],
+            "it": [
+              "Potremmo lavorare insieme così, normalmente."
+            ],
+            "ja": [
+              "普段から、 こうして協力すればいいじゃないか。"
+            ],
+            "ko": [
+              "우린 이런 식으로 함께 일할 수도 있잖아, 평범하게."
+            ],
             "pt-br": [
               "Poderíamos trabalhar juntos assim, normalmente."
+            ],
+            "ru": [
+              "Мы могли бы так работать вместе, как обычно."
+            ],
+            "s-cn": [
+              "平时我们也可以这样合作。"
+            ],
+            "t-cn": [
+              "平時我們也可以這樣合作。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "It's a thought."
             ],
+            "de": [
+              "Das ist eine Überlegung wert."
+            ],
+            "es": [
+              "Es solo una idea."
+            ],
+            "fr": [
+              "C'est une idée."
+            ],
+            "it": [
+              "È un'idea."
+            ],
+            "ja": [
+              "それもいいかもしれない。"
+            ],
+            "ko": [
+              "그럴 수도 있지."
+            ],
             "pt-br": [
               "É uma ideia."
+            ],
+            "ru": [
+              "Есть о чём подумать."
+            ],
+            "s-cn": [
+              "倒是个主意。"
+            ],
+            "t-cn": [
+              "倒是個主意。"
             ]
           },
           "provenance": {
@@ -67,9 +130,45 @@
           "We could work together like this, normally.",
           "It's a thought."
         ],
+        "de": [
+          "Wir könnten auf diese Weise zusammenarbeiten, ganz regulär.",
+          "Das ist eine Überlegung wert."
+        ],
+        "es": [
+          "Podríamos trabajar juntos así, normalmente.",
+          "Es solo una idea."
+        ],
+        "fr": [
+          "On pourrait travailler ensemble comme ça, normalement.",
+          "C'est une idée."
+        ],
+        "it": [
+          "Potremmo lavorare insieme così, normalmente.",
+          "È un'idea."
+        ],
+        "ja": [
+          "普段から、 こうして協力すればいいじゃないか。",
+          "それもいいかもしれない。"
+        ],
+        "ko": [
+          "우린 이런 식으로 함께 일할 수도 있잖아, 평범하게.",
+          "그럴 수도 있지."
+        ],
         "pt-br": [
           "Poderíamos trabalhar juntos assim, normalmente.",
           "É uma ideia."
+        ],
+        "ru": [
+          "Мы могли бы так работать вместе, как обычно.",
+          "Есть о чём подумать."
+        ],
+        "s-cn": [
+          "平时我们也可以这样合作。",
+          "倒是个主意。"
+        ],
+        "t-cn": [
+          "平時我們也可以這樣合作。",
+          "倒是個主意。"
         ]
       },
       "silentCues": [],
@@ -108,8 +207,35 @@
             "en": [
               "We need to focus."
             ],
+            "de": [
+              "Wir müssen uns konzentrieren."
+            ],
+            "es": [
+              "Tenemos que concentrarnos."
+            ],
+            "fr": [
+              "Nous devons nous concentrer."
+            ],
+            "it": [
+              "Dobbiamo concentrarci."
+            ],
+            "ja": [
+              "集中しなければ。"
+            ],
+            "ko": [
+              "집중해야 해."
+            ],
             "pt-br": [
               "Precisamos focar."
+            ],
+            "ru": [
+              "Нам нужно сосредоточиться."
+            ],
+            "s-cn": [
+              "得集中精神。"
+            ],
+            "t-cn": [
+              "得集中精神。"
             ]
           },
           "provenance": {
@@ -129,8 +255,35 @@
         "en": [
           "We need to focus."
         ],
+        "de": [
+          "Wir müssen uns konzentrieren."
+        ],
+        "es": [
+          "Tenemos que concentrarnos."
+        ],
+        "fr": [
+          "Nous devons nous concentrer."
+        ],
+        "it": [
+          "Dobbiamo concentrarci."
+        ],
+        "ja": [
+          "集中しなければ。"
+        ],
+        "ko": [
+          "집중해야 해."
+        ],
         "pt-br": [
           "Precisamos focar."
+        ],
+        "ru": [
+          "Нам нужно сосредоточиться."
+        ],
+        "s-cn": [
+          "得集中精神。"
+        ],
+        "t-cn": [
+          "得集中精神。"
         ]
       },
       "silentCues": [],

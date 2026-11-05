@@ -3,7 +3,16 @@
   "audioLog": "audiolog_s_tradition_of_our_people_part_3",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -22,11 +31,65 @@
               "Just put it in an easy place, and it will feel like a small gift,",
               "because you're acknowledging the Visitor's progress to a new area."
             ],
+            "de": [
+              "Ist eine Aufnahme kurz, zu kurz, um allein eine befriedigende Belohnung zu sein,",
+              "dann platziere sie nicht an einem schwer erreichbaren Ort. Wir dürfen niemanden enttäuschen!",
+              "Platziere sie einfach an einem leicht erreichbaren Ort, dann wirkt sie wie ein kleines Geschenk,",
+              "weil du damit den Fortschritt des Besuchers in ein neues Gebiet würdigst."
+            ],
+            "es": [
+              "Si la grabación es corta, demasiado corta para ser una recompensa satisfactoria por sí sola,",
+              "no la pongas en un lugar difícil de alcanzar. ¡No debemos decepcionar!",
+              "Ponla sencillamente en un lugar accesible y parecerá un pequeño regalo,",
+              "porque estarás reconociendo el progreso del Visitante hacia una nueva zona."
+            ],
+            "fr": [
+              "Si l'enregistrement est court, trop court pour être une récompense satisfaisante à lui seul,",
+              "ne le placez pas dans un endroit difficile d'accès. Ce serait décevant !",
+              "Mettez-le simplement dans un endroit facile d'accès, et il donnera l'impression d'un petit cadeau,",
+              "parce que vous reconnaissez le passage du Visiteur à une nouvelle zone."
+            ],
+            "it": [
+              "Se la registrazione è breve, troppo breve per essere una ricompensa soddisfacente da sola,",
+              "non metterla in un punto difficile da raggiungere. Non dobbiamo deludere!",
+              "Mettila semplicemente in un punto facile, e sembrerà un piccolo regalo,",
+              "perché stai riconoscendo il progresso del Visitatore verso una nuova area."
+            ],
+            "ja": [
+              "短くて物足りない記録なら 難しい場所には置かないこと。",
+              "訪問者をがっかりさせるな！",
+              "簡単な場所に置けば、 ちょっとした褒美になるうえ、",
+              "新たな領域へ 進んだことを示せる。"
+            ],
+            "ko": [
+              "녹음이 그 자체로 만족스러운 보상이 되기엔 너무 짧다면,",
+              "어려운 곳에는 두지 마. 실망시키면 안 되니까!",
+              "그냥 쉬운 곳에 두면 돼. 그래도 작은 선물처럼 느껴질 거야.",
+              "방문자가 새로운 지역으로 나아간 걸 인정해 주는 셈이니까."
+            ],
             "pt-br": [
               "Se a gravação for curta, curta demais para ser uma recompensa satisfatória por si só,",
               "não a coloque em um lugar difícil de alcançar. Não podemos decepcionar!",
               "Basta colocá-la em um lugar fácil, e ela vai parecer um pequeno presente,",
               "porque você está reconhecendo o progresso do Visitante para uma nova área."
+            ],
+            "ru": [
+              "Если запись короткая, слишком короткая, чтобы быть достойной наградой сама по себе,",
+              "не размещай её в труднодоступном месте. Мы не должны разочаровать!",
+              "Просто помести её в легкодоступном месте, и она будет ощущаться как маленький подарок,",
+              "потому что так ты отмечаешь прогресс Гостя при переходе в новую область."
+            ],
+            "s-cn": [
+              "如果录音很短，单独作为奖励又显得分量不够，",
+              "就别把它放在难以抵达的地方。我们不能让人失望！",
+              "只要把它放在容易找到的地方，它就会像是一份小礼物，",
+              "因为这是在肯定访客已经成功进入新的区域。"
+            ],
+            "t-cn": [
+              "如果錄音很短，單獨作為獎勵又顯得分量不夠，",
+              "就別把它放在難以抵達的地方。 我們不能讓人失望！",
+              "只要把它放在容易找到的地方， 它就會像是一份小禮物，",
+              "因為這是在肯定訪客已經成功進入新的區域。"
             ]
           },
           "provenance": {
@@ -52,11 +115,65 @@
           "Just put it in an easy place, and it will feel like a small gift,",
           "because you're acknowledging the Visitor's progress to a new area."
         ],
+        "de": [
+          "Ist eine Aufnahme kurz, zu kurz, um allein eine befriedigende Belohnung zu sein,",
+          "dann platziere sie nicht an einem schwer erreichbaren Ort. Wir dürfen niemanden enttäuschen!",
+          "Platziere sie einfach an einem leicht erreichbaren Ort, dann wirkt sie wie ein kleines Geschenk,",
+          "weil du damit den Fortschritt des Besuchers in ein neues Gebiet würdigst."
+        ],
+        "es": [
+          "Si la grabación es corta, demasiado corta para ser una recompensa satisfactoria por sí sola,",
+          "no la pongas en un lugar difícil de alcanzar. ¡No debemos decepcionar!",
+          "Ponla sencillamente en un lugar accesible y parecerá un pequeño regalo,",
+          "porque estarás reconociendo el progreso del Visitante hacia una nueva zona."
+        ],
+        "fr": [
+          "Si l'enregistrement est court, trop court pour être une récompense satisfaisante à lui seul,",
+          "ne le placez pas dans un endroit difficile d'accès. Ce serait décevant !",
+          "Mettez-le simplement dans un endroit facile d'accès, et il donnera l'impression d'un petit cadeau,",
+          "parce que vous reconnaissez le passage du Visiteur à une nouvelle zone."
+        ],
+        "it": [
+          "Se la registrazione è breve, troppo breve per essere una ricompensa soddisfacente da sola,",
+          "non metterla in un punto difficile da raggiungere. Non dobbiamo deludere!",
+          "Mettila semplicemente in un punto facile, e sembrerà un piccolo regalo,",
+          "perché stai riconoscendo il progresso del Visitatore verso una nuova area."
+        ],
+        "ja": [
+          "短くて物足りない記録なら 難しい場所には置かないこと。",
+          "訪問者をがっかりさせるな！",
+          "簡単な場所に置けば、 ちょっとした褒美になるうえ、",
+          "新たな領域へ 進んだことを示せる。"
+        ],
+        "ko": [
+          "녹음이 그 자체로 만족스러운 보상이 되기엔 너무 짧다면,",
+          "어려운 곳에는 두지 마. 실망시키면 안 되니까!",
+          "그냥 쉬운 곳에 두면 돼. 그래도 작은 선물처럼 느껴질 거야.",
+          "방문자가 새로운 지역으로 나아간 걸 인정해 주는 셈이니까."
+        ],
         "pt-br": [
           "Se a gravação for curta, curta demais para ser uma recompensa satisfatória por si só,",
           "não a coloque em um lugar difícil de alcançar. Não podemos decepcionar!",
           "Basta colocá-la em um lugar fácil, e ela vai parecer um pequeno presente,",
           "porque você está reconhecendo o progresso do Visitante para uma nova área."
+        ],
+        "ru": [
+          "Если запись короткая, слишком короткая, чтобы быть достойной наградой сама по себе,",
+          "не размещай её в труднодоступном месте. Мы не должны разочаровать!",
+          "Просто помести её в легкодоступном месте, и она будет ощущаться как маленький подарок,",
+          "потому что так ты отмечаешь прогресс Гостя при переходе в новую область."
+        ],
+        "s-cn": [
+          "如果录音很短，单独作为奖励又显得分量不够，",
+          "就别把它放在难以抵达的地方。我们不能让人失望！",
+          "只要把它放在容易找到的地方，它就会像是一份小礼物，",
+          "因为这是在肯定访客已经成功进入新的区域。"
+        ],
+        "t-cn": [
+          "如果錄音很短，單獨作為獎勵又顯得分量不夠，",
+          "就別把它放在難以抵達的地方。 我們不能讓人失望！",
+          "只要把它放在容易找到的地方， 它就會像是一份小禮物，",
+          "因為這是在肯定訪客已經成功進入新的區域。"
         ]
       },
       "silentCues": [],

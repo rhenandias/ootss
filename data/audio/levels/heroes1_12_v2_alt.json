@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "I told him we need to get out of this ... echoey lonely place, then head to the retrenchment."
             ],
+            "de": [
+              "Ich habe ihm gesagt, wir müssen raus aus diesem ... einsamen Ort, wo alles so hallt, und dann zur Schanze."
+            ],
+            "es": [
+              "Le dije que tenemos que salir de este... lugar vacío y con eco, y luego dirigirnos al atrincheramiento."
+            ],
+            "fr": [
+              "Je lui ai dit qu'il faut qu'on se tire de cet endroit... triste et plein d'écho, puis qu'on se dirige vers le retranchement."
+            ],
+            "it": [
+              "Gli ho detto che dobbiamo andarcene da questo... posto solitario e rimbombante, poi dirigerci verso il trinceramento."
+            ],
+            "ja": [
+              "この寂しい場所を出たら 退避所へ向かってって"
+            ],
+            "ko": [
+              "내가 그 사람한테 말했거든, 이... 울리고 외로운 곳에서 나가서, 방어 진지로 가야 한다고."
+            ],
             "pt-br": [
               "Eu disse que a gente precisa sair desse... lugar solitário e ecoante, depois seguir para o entrincheiramento."
+            ],
+            "ru": [
+              "Я сказала ему, что нам нужно выбираться из этого... гулкого, одинокого места, а затем направиться к укреплениям."
+            ],
+            "s-cn": [
+              "我跟他说了，我们得离开这个…… 空空荡荡的鬼地方，然后去驿堡。"
+            ],
+            "t-cn": [
+              "我跟他說了，我們得離開這個…… 空空蕩蕩的鬼地方，然後去驛堡。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "The where?"
             ],
+            "de": [
+              "Zur was?"
+            ],
+            "es": [
+              "¿Al qué?"
+            ],
+            "fr": [
+              "Le quoi ?"
+            ],
+            "it": [
+              "Dove?"
+            ],
+            "ja": [
+              "どこへ？"
+            ],
+            "ko": [
+              "어디라고?"
+            ],
             "pt-br": [
               "Aonde?"
+            ],
+            "ru": [
+              "Куда?"
+            ],
+            "s-cn": [
+              "去哪儿？"
+            ],
+            "t-cn": [
+              "去哪兒？"
             ]
           },
           "provenance": {
@@ -68,9 +131,45 @@
               "The passengers' retrenchment. For the Crawler.",
               "*If* we get there before it leaves, we can stop him."
             ],
+            "de": [
+              "Zur Passagierschanze. Für den Crawler.",
+              "Wenn wir dorthin gelangen, bevor der Crawler abfährt, können wir ihn aufhalten."
+            ],
+            "es": [
+              "Al punto de reunión de pasajeros. Para La Oruga.",
+              "Si llegamos antes de que parta, podremos detenerlo."
+            ],
+            "fr": [
+              "Le retranchement des passagers. Pour le Rampant.",
+              "Si nous arrivons avant son départ, nous pourrons l'arrêter."
+            ],
+            "it": [
+              "Il punto di raccolta dei passeggeri. Per il Crawler.",
+              "Se arriviamo prima che parta, possiamo fermarlo."
+            ],
+            "ja": [
+              "退避所。 クロウラーの乗客の。",
+              "言わなかったっけ？ でもこれでわかったでしょ！"
+            ],
+            "ko": [
+              "승객 대기소 말이야. 크롤러용.",
+              "떠나기 전에 도착할 수만 있다면, 그자를 막을 수 있어."
+            ],
             "pt-br": [
               "A retenção dos passageiros. Para a Esteira.",
               "Se chegarmos antes da partida, podemos detê-lo."
+            ],
+            "ru": [
+              "К пассажирскому укреплению. Для Ползуна.",
+              "Если мы успеем туда до отправления, то сможем его остановить."
+            ],
+            "s-cn": [
+              "旅客驿堡啊。坐“爬行者号”的地方。",
+              "要是在它离开之前赶到，我们就能拦住他。"
+            ],
+            "t-cn": [
+              "旅客驛堡啊。坐「爬行者號」的地方。",
+              "要是在它離開之前趕到，我們就能攔住他。"
             ]
           },
           "provenance": {
@@ -94,11 +193,65 @@
           "The passengers' retrenchment. For the Crawler.",
           "*If* we get there before it leaves, we can stop him."
         ],
+        "de": [
+          "Ich habe ihm gesagt, wir müssen raus aus diesem ... einsamen Ort, wo alles so hallt, und dann zur Schanze.",
+          "Zur was?",
+          "Zur Passagierschanze. Für den Crawler.",
+          "Wenn wir dorthin gelangen, bevor der Crawler abfährt, können wir ihn aufhalten."
+        ],
+        "es": [
+          "Le dije que tenemos que salir de este... lugar vacío y con eco, y luego dirigirnos al atrincheramiento.",
+          "¿Al qué?",
+          "Al punto de reunión de pasajeros. Para La Oruga.",
+          "Si llegamos antes de que parta, podremos detenerlo."
+        ],
+        "fr": [
+          "Je lui ai dit qu'il faut qu'on se tire de cet endroit... triste et plein d'écho, puis qu'on se dirige vers le retranchement.",
+          "Le quoi ?",
+          "Le retranchement des passagers. Pour le Rampant.",
+          "Si nous arrivons avant son départ, nous pourrons l'arrêter."
+        ],
+        "it": [
+          "Gli ho detto che dobbiamo andarcene da questo... posto solitario e rimbombante, poi dirigerci verso il trinceramento.",
+          "Dove?",
+          "Il punto di raccolta dei passeggeri. Per il Crawler.",
+          "Se arriviamo prima che parta, possiamo fermarlo."
+        ],
+        "ja": [
+          "この寂しい場所を出たら 退避所へ向かってって",
+          "どこへ？",
+          "退避所。 クロウラーの乗客の。",
+          "言わなかったっけ？ でもこれでわかったでしょ！"
+        ],
+        "ko": [
+          "내가 그 사람한테 말했거든, 이... 울리고 외로운 곳에서 나가서, 방어 진지로 가야 한다고.",
+          "어디라고?",
+          "승객 대기소 말이야. 크롤러용.",
+          "떠나기 전에 도착할 수만 있다면, 그자를 막을 수 있어."
+        ],
         "pt-br": [
           "Eu disse que a gente precisa sair desse... lugar solitário e ecoante, depois seguir para o entrincheiramento.",
           "Aonde?",
           "A retenção dos passageiros. Para a Esteira.",
           "Se chegarmos antes da partida, podemos detê-lo."
+        ],
+        "ru": [
+          "Я сказала ему, что нам нужно выбираться из этого... гулкого, одинокого места, а затем направиться к укреплениям.",
+          "Куда?",
+          "К пассажирскому укреплению. Для Ползуна.",
+          "Если мы успеем туда до отправления, то сможем его остановить."
+        ],
+        "s-cn": [
+          "我跟他说了，我们得离开这个…… 空空荡荡的鬼地方，然后去驿堡。",
+          "去哪儿？",
+          "旅客驿堡啊。坐“爬行者号”的地方。",
+          "要是在它离开之前赶到，我们就能拦住他。"
+        ],
+        "t-cn": [
+          "我跟他說了，我們得離開這個…… 空空蕩蕩的鬼地方，然後去驛堡。",
+          "去哪兒？",
+          "旅客驛堡啊。坐「爬行者號」的地方。",
+          "要是在它離開之前趕到，我們就能攔住他。"
         ]
       },
       "silentCues": [],

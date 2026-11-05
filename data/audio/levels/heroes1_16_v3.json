@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Tif. Open the bag. What did you do?"
             ],
+            "de": [
+              "Tif. Mach die Tasche auf. Was hast du getan?"
+            ],
+            "es": [
+              "Tif. Abre la bolsa. ¿Qué hiciste?"
+            ],
+            "fr": [
+              "Tif. Vide ton sac. Qu'est-ce que tu as fait ?"
+            ],
+            "it": [
+              "Tif. Apri la borsa. Cos'hai fatto?"
+            ],
+            "ja": [
+              "ティフ、お前何かしたのか？"
+            ],
+            "ko": [
+              "티프. 가방 열어. 무슨 짓을 한 거야?"
+            ],
             "pt-br": [
               "Tif. Abra a bolsa. O que você fez?"
+            ],
+            "ru": [
+              "Тиф. Открой сумку. Что ты натворила?"
+            ],
+            "s-cn": [
+              "蒂芙，老实交代。你干什么了？"
+            ],
+            "t-cn": [
+              "蒂芙，老實交代。你幹什麼了？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Well, you see, the Magistrate has been up to something."
             ],
+            "de": [
+              "Also, weißt du, der Magistrat hat irgendwas ausgeheckt."
+            ],
+            "es": [
+              "Bueno, verás, el magistrado estaba tramando algo."
+            ],
+            "fr": [
+              "Eh bien, tu vois, le magistrat prépare un mauvais coup."
+            ],
+            "it": [
+              "Beh, vedi, il magistrato stava tramando qualcosa."
+            ],
+            "ja": [
+              "それは… 判事はよくないことを企んでて…"
+            ],
+            "ko": [
+              "음, 그러니까, 치안판사가 무슨 꿍꿍이가 있었나 봐."
+            ],
             "pt-br": [
               "Então, veja bem, o Magistrado tá aprontando alguma."
+            ],
+            "ru": [
+              "В общем, Магистрат что-то замышляет."
+            ],
+            "s-cn": [
+              "这个嘛……你们也看见了，执政官一直在搞事情。"
+            ],
+            "t-cn": [
+              "這個嘛……你們也看見了， 執政官一直在搞事情。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Yeah, locking us up in his dungeon!"
             ],
+            "de": [
+              "Ja, er hat uns in seinen Kerker gesperrt!"
+            ],
+            "es": [
+              "Sí, ¡encerrarnos en su mazmorra!"
+            ],
+            "fr": [
+              "Ouais : nous jeter en prison !"
+            ],
+            "it": [
+              "Sì, tipo rinchiuderci in prigione!"
+            ],
+            "ja": [
+              "俺らを牢屋にぶち込んだりか？"
+            ],
+            "ko": [
+              "그래, 우릴 감옥에 가뒀잖아!"
+            ],
             "pt-br": [
               "É! Prendeu a gente na masmorra dele!"
+            ],
+            "ru": [
+              "Ага, запереть нас в тюрьме!"
+            ],
+            "s-cn": [
+              "是啊，把我们关进他的地牢！"
+            ],
+            "t-cn": [
+              "是啊，把我們關進他的地牢！"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "That could have been a misunderstanding."
             ],
+            "de": [
+              "Das könnte ein Missverständnis gewesen sein."
+            ],
+            "es": [
+              "Quizá solo fue un malentendido."
+            ],
+            "fr": [
+              "Ça pourrait être un simple malentendu."
+            ],
+            "it": [
+              "Potrebbe essere stato un malinteso."
+            ],
+            "ja": [
+              "その… 大きな誤解があるというか…"
+            ],
+            "ko": [
+              "그건 오해였을 수도 있어."
+            ],
             "pt-br": [
               "Pode ter sido um mal-entendido."
+            ],
+            "ru": [
+              "Может, это было недоразумением."
+            ],
+            "s-cn": [
+              "那可能只是一场误会。"
+            ],
+            "t-cn": [
+              "那可能只是一場誤會。"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "Hardly!"
             ],
+            "de": [
+              "Wohl kaum!"
+            ],
+            "es": [
+              "¡Para nada!"
+            ],
+            "fr": [
+              "Tu parles !"
+            ],
+            "it": [
+              "Macché!"
+            ],
+            "ja": [
+              "どこがだ！"
+            ],
+            "ko": [
+              "말도 안 돼!"
+            ],
             "pt-br": [
               "Duvido muito!"
+            ],
+            "ru": [
+              "Вряд ли!"
+            ],
+            "s-cn": [
+              "怎么可能！"
+            ],
+            "t-cn": [
+              "怎麼可能！"
             ]
           },
           "provenance": {
@@ -133,8 +277,35 @@
             "en": [
               "It's ... somewhat disturbing."
             ],
+            "de": [
+              "Das ist ... ein bisschen verstörend."
+            ],
+            "es": [
+              "Es... un tanto inquietante."
+            ],
+            "fr": [
+              "C'est... assez troublant."
+            ],
+            "it": [
+              "È... piuttosto inquietante."
+            ],
+            "ja": [
+              "アイツ、悪いことを 企んでるんだよ！"
+            ],
+            "ko": [
+              "좀... 섬뜩하네."
+            ],
             "pt-br": [
               "É... um tanto perturbador."
+            ],
+            "ru": [
+              "От этого... немного не по себе."
+            ],
+            "s-cn": [
+              "这……多少有点让人不安。"
+            ],
+            "t-cn": [
+              "這……多少有點讓人不安。"
             ]
           },
           "provenance": {
@@ -159,6 +330,54 @@
           "Hardly!",
           "It's ... somewhat disturbing."
         ],
+        "de": [
+          "Tif. Mach die Tasche auf. Was hast du getan?",
+          "Also, weißt du, der Magistrat hat irgendwas ausgeheckt.",
+          "Ja, er hat uns in seinen Kerker gesperrt!",
+          "Das könnte ein Missverständnis gewesen sein.",
+          "Wohl kaum!",
+          "Das ist ... ein bisschen verstörend."
+        ],
+        "es": [
+          "Tif. Abre la bolsa. ¿Qué hiciste?",
+          "Bueno, verás, el magistrado estaba tramando algo.",
+          "Sí, ¡encerrarnos en su mazmorra!",
+          "Quizá solo fue un malentendido.",
+          "¡Para nada!",
+          "Es... un tanto inquietante."
+        ],
+        "fr": [
+          "Tif. Vide ton sac. Qu'est-ce que tu as fait ?",
+          "Eh bien, tu vois, le magistrat prépare un mauvais coup.",
+          "Ouais : nous jeter en prison !",
+          "Ça pourrait être un simple malentendu.",
+          "Tu parles !",
+          "C'est... assez troublant."
+        ],
+        "it": [
+          "Tif. Apri la borsa. Cos'hai fatto?",
+          "Beh, vedi, il magistrato stava tramando qualcosa.",
+          "Sì, tipo rinchiuderci in prigione!",
+          "Potrebbe essere stato un malinteso.",
+          "Macché!",
+          "È... piuttosto inquietante."
+        ],
+        "ja": [
+          "ティフ、お前何かしたのか？",
+          "それは… 判事はよくないことを企んでて…",
+          "俺らを牢屋にぶち込んだりか？",
+          "その… 大きな誤解があるというか…",
+          "どこがだ！",
+          "アイツ、悪いことを 企んでるんだよ！"
+        ],
+        "ko": [
+          "티프. 가방 열어. 무슨 짓을 한 거야?",
+          "음, 그러니까, 치안판사가 무슨 꿍꿍이가 있었나 봐.",
+          "그래, 우릴 감옥에 가뒀잖아!",
+          "그건 오해였을 수도 있어.",
+          "말도 안 돼!",
+          "좀... 섬뜩하네."
+        ],
         "pt-br": [
           "Tif. Abra a bolsa. O que você fez?",
           "Então, veja bem, o Magistrado tá aprontando alguma.",
@@ -166,6 +385,30 @@
           "Pode ter sido um mal-entendido.",
           "Duvido muito!",
           "É... um tanto perturbador."
+        ],
+        "ru": [
+          "Тиф. Открой сумку. Что ты натворила?",
+          "В общем, Магистрат что-то замышляет.",
+          "Ага, запереть нас в тюрьме!",
+          "Может, это было недоразумением.",
+          "Вряд ли!",
+          "От этого... немного не по себе."
+        ],
+        "s-cn": [
+          "蒂芙，老实交代。你干什么了？",
+          "这个嘛……你们也看见了，执政官一直在搞事情。",
+          "是啊，把我们关进他的地牢！",
+          "那可能只是一场误会。",
+          "怎么可能！",
+          "这……多少有点让人不安。"
+        ],
+        "t-cn": [
+          "蒂芙，老實交代。你幹什麼了？",
+          "這個嘛……你們也看見了， 執政官一直在搞事情。",
+          "是啊，把我們關進他的地牢！",
+          "那可能只是一場誤會。",
+          "怎麼可能！",
+          "這……多少有點讓人不安。"
         ]
       },
       "silentCues": [],
@@ -204,8 +447,35 @@
             "en": [
               "So, Tif ... you *did* do something."
             ],
+            "de": [
+              "Tif ... du hast also doch was angestellt."
+            ],
+            "es": [
+              "Así que, Tif... sí que hiciste algo."
+            ],
+            "fr": [
+              "Alors, Tif... tu as bel et bien fait quelque chose."
+            ],
+            "it": [
+              "Quindi, Tif... qualcosa hai fatto."
+            ],
+            "ja": [
+              "ティフ…やっぱり何かやったんだな。"
+            ],
+            "ko": [
+              "그러니까, 티프... 정말 뭔가 저질렀구나."
+            ],
             "pt-br": [
               "Então, Tif... você fez alguma coisa."
+            ],
+            "ru": [
+              "Так, Тиф... значит, ты всё-таки что-то натворила."
+            ],
+            "s-cn": [
+              "所以，蒂芙……你确实做了什么。"
+            ],
+            "t-cn": [
+              "所以，蒂芙……你確實做了什麼。"
             ]
           },
           "provenance": {
@@ -226,8 +496,35 @@
             "en": [
               "He locked us up ... because of you?"
             ],
+            "de": [
+              "Der Grund dafür, dass er uns eingesperrt hat, bist du?"
+            ],
+            "es": [
+              "¿Nos encerró... por tu culpa?"
+            ],
+            "fr": [
+              "Il nous a enfermés... à cause de toi ?"
+            ],
+            "it": [
+              "Quindi ci ha rinchiusi... per colpa tua?"
+            ],
+            "ja": [
+              "ティフ… ワシらが捕まったのは お前さんのせいなのか？"
+            ],
+            "ko": [
+              "그 녀석이 우릴 가둔 건... 너 때문이야?"
+            ],
             "pt-br": [
               "Ele trancou a gente... por sua causa?"
+            ],
+            "ru": [
+              "Он запер нас... из-за тебя?"
+            ],
+            "s-cn": [
+              "他把我们关起来……是因为你？"
+            ],
+            "t-cn": [
+              "他把我們關起來……是因為你？"
             ]
           },
           "provenance": {
@@ -248,8 +545,35 @@
             "en": [
               "It's a bit like that."
             ],
+            "de": [
+              "So in etwa."
+            ],
+            "es": [
+              "Más o menos."
+            ],
+            "fr": [
+              "C'est un peu ça."
+            ],
+            "it": [
+              "Più o meno."
+            ],
+            "ja": [
+              "そうとも言えるかも。"
+            ],
+            "ko": [
+              "약간은 그런 셈이지."
+            ],
             "pt-br": [
               "É mais ou menos isso."
+            ],
+            "ru": [
+              "Что-то вроде того."
+            ],
+            "s-cn": [
+              "差不多吧。"
+            ],
+            "t-cn": [
+              "差不多吧。"
             ]
           },
           "provenance": {
@@ -271,10 +595,55 @@
           "He locked us up ... because of you?",
           "It's a bit like that."
         ],
+        "de": [
+          "Tif ... du hast also doch was angestellt.",
+          "Der Grund dafür, dass er uns eingesperrt hat, bist du?",
+          "So in etwa."
+        ],
+        "es": [
+          "Así que, Tif... sí que hiciste algo.",
+          "¿Nos encerró... por tu culpa?",
+          "Más o menos."
+        ],
+        "fr": [
+          "Alors, Tif... tu as bel et bien fait quelque chose.",
+          "Il nous a enfermés... à cause de toi ?",
+          "C'est un peu ça."
+        ],
+        "it": [
+          "Quindi, Tif... qualcosa hai fatto.",
+          "Quindi ci ha rinchiusi... per colpa tua?",
+          "Più o meno."
+        ],
+        "ja": [
+          "ティフ…やっぱり何かやったんだな。",
+          "ティフ… ワシらが捕まったのは お前さんのせいなのか？",
+          "そうとも言えるかも。"
+        ],
+        "ko": [
+          "그러니까, 티프... 정말 뭔가 저질렀구나.",
+          "그 녀석이 우릴 가둔 건... 너 때문이야?",
+          "약간은 그런 셈이지."
+        ],
         "pt-br": [
           "Então, Tif... você fez alguma coisa.",
           "Ele trancou a gente... por sua causa?",
           "É mais ou menos isso."
+        ],
+        "ru": [
+          "Так, Тиф... значит, ты всё-таки что-то натворила.",
+          "Он запер нас... из-за тебя?",
+          "Что-то вроде того."
+        ],
+        "s-cn": [
+          "所以，蒂芙……你确实做了什么。",
+          "他把我们关起来……是因为你？",
+          "差不多吧。"
+        ],
+        "t-cn": [
+          "所以，蒂芙……你確實做了什麼。",
+          "他把我們關起來……是因為你？",
+          "差不多吧。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "If Golden Girl were here, I could freeze that Goblin and we'd be done."
             ],
+            "de": [
+              "Wäre das Goldmädchen hier, könnte ich diesen Goblin einfrieren, und wir wären fertig."
+            ],
+            "es": [
+              "Si la Chica Dorada estuviera aquí, podría congelar a ese goblin y habríamos terminado."
+            ],
+            "fr": [
+              "Si notre rayonnante amie était là, je pourrais geler ce gobelin et ce serait réglé."
+            ],
+            "it": [
+              "Se la ragazza d'oro fosse qui, potrei congelare quel goblin e avremmo finito."
+            ],
+            "ja": [
+              "あの黄金の女がいれば、 ゴブリンを凍らせて すぐ終わったんだが。"
+            ],
+            "ko": [
+              "골든 걸이 여기 있었으면, 저 고블린을 얼려 버리고 끝났을 텐데."
+            ],
             "pt-br": [
               "Se a Garota de Ouro estivesse aqui, eu poderia congelar esse Goblin e teríamos acabado."
+            ],
+            "ru": [
+              "Если бы Золотая девочка была здесь, я бы заморозил этого гоблина и на этом бы всё закончилось."
+            ],
+            "s-cn": [
+              "要是金发姑娘在的话，我就能冻住那个哥布林， 事情也就解决了。"
+            ],
+            "t-cn": [
+              "要是金髮姑娘在的話，我就能凍住那個哥布林， 事情也就解決了。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "I thought you were wary of her!"
             ],
+            "de": [
+              "Ich habe gedacht, du traust ihr nicht!"
+            ],
+            "es": [
+              "¡Pensaba que desconfiabas de ella!"
+            ],
+            "fr": [
+              "Je croyais que tu te méfiais d'elle !"
+            ],
+            "it": [
+              "Pensavo fossi diffidente nei suoi confronti!"
+            ],
+            "ja": [
+              "アイツを嫌ってただろ！"
+            ],
+            "ko": [
+              "그 여자를 경계하는 줄 알았는데!"
+            ],
             "pt-br": [
               "Achei que você estivesse desconfiado dela!"
+            ],
+            "ru": [
+              "Я думал, ты ей не доверяешь!"
+            ],
+            "s-cn": [
+              "我还以为你在提防她呢！"
+            ],
+            "t-cn": [
+              "我還以為你在提防她呢！"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "I'm warming up to her. She's been a consistent ... godsend. Quite pretty as well."
             ],
+            "de": [
+              "Ich finde sie allmählich sympathisch. Sie war bisher immer ein ... Segen. Und recht hübsch ist sie auch."
+            ],
+            "es": [
+              "Le estoy cogiendo cariño. Ha sido en todo momento... una bendición. Y además es bastante guapa."
+            ],
+            "fr": [
+              "Je commence à l'apprécier. Elle a toujours été... providentielle. Et plutôt jolie, qui plus est."
+            ],
+            "it": [
+              "Comincia a piacermi. È sempre stata una... manna dal cielo. Ed è anche piuttosto carina."
+            ],
+            "ja": [
+              "役には立つ。 それに美人だ。"
+            ],
+            "ko": [
+              "점점 그 여자가 마음에 들어. 늘... 하늘이 내린 구원자 같았지. 상당히 예쁘기도 하고."
+            ],
             "pt-br": [
               "Estou começando a gostar dela. Ela tem sido uma verdadeira... bênção. Muito bonita também."
+            ],
+            "ru": [
+              "Она мне всё больше нравится. Она для нас всякий раз... просто спасение. И весьма хороша собой."
+            ],
+            "s-cn": [
+              "我对她越来越有好感了。她一直是我们的…… 天降紫微星。人也很漂亮。"
+            ],
+            "t-cn": [
+              "我對她越來越有好感了。她一直是我們的…… 天降紫微星。人也很漂亮。"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Prettier than me?"
             ],
+            "de": [
+              "Hübscher als ich?"
+            ],
+            "es": [
+              "¿Más guapa que yo?"
+            ],
+            "fr": [
+              "Plus jolie que moi ?"
+            ],
+            "it": [
+              "Più bella di me?"
+            ],
+            "ja": [
+              "私よりも？"
+            ],
+            "ko": [
+              "나보다 예뻐?"
+            ],
             "pt-br": [
               "Mais bonita que eu?"
+            ],
+            "ru": [
+              "Красивее меня?"
+            ],
+            "s-cn": [
+              "比我还漂亮？"
+            ],
+            "t-cn": [
+              "比我還漂亮？"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "Let's get that button pressed."
             ],
+            "de": [
+              "Wir sollten jetzt diesen Schalter drücken."
+            ],
+            "es": [
+              "Vayamos a pulsar ese botón."
+            ],
+            "fr": [
+              "Appuyons sur ce bouton."
+            ],
+            "it": [
+              "Premiamo quel pulsante."
+            ],
+            "ja": [
+              "とっととボタンを押しにいくぞ。"
+            ],
+            "ko": [
+              "저 버튼을 누르자."
+            ],
             "pt-br": [
               "Vamos apertar aquele botão logo."
+            ],
+            "ru": [
+              "Давайте нажмём эту кнопку."
+            ],
+            "s-cn": [
+              "去按那个按钮吧。"
+            ],
+            "t-cn": [
+              "去按那個按鈕吧。"
             ]
           },
           "provenance": {
@@ -136,12 +280,75 @@
           "Prettier than me?",
           "Let's get that button pressed."
         ],
+        "de": [
+          "Wäre das Goldmädchen hier, könnte ich diesen Goblin einfrieren, und wir wären fertig.",
+          "Ich habe gedacht, du traust ihr nicht!",
+          "Ich finde sie allmählich sympathisch. Sie war bisher immer ein ... Segen. Und recht hübsch ist sie auch.",
+          "Hübscher als ich?",
+          "Wir sollten jetzt diesen Schalter drücken."
+        ],
+        "es": [
+          "Si la Chica Dorada estuviera aquí, podría congelar a ese goblin y habríamos terminado.",
+          "¡Pensaba que desconfiabas de ella!",
+          "Le estoy cogiendo cariño. Ha sido en todo momento... una bendición. Y además es bastante guapa.",
+          "¿Más guapa que yo?",
+          "Vayamos a pulsar ese botón."
+        ],
+        "fr": [
+          "Si notre rayonnante amie était là, je pourrais geler ce gobelin et ce serait réglé.",
+          "Je croyais que tu te méfiais d'elle !",
+          "Je commence à l'apprécier. Elle a toujours été... providentielle. Et plutôt jolie, qui plus est.",
+          "Plus jolie que moi ?",
+          "Appuyons sur ce bouton."
+        ],
+        "it": [
+          "Se la ragazza d'oro fosse qui, potrei congelare quel goblin e avremmo finito.",
+          "Pensavo fossi diffidente nei suoi confronti!",
+          "Comincia a piacermi. È sempre stata una... manna dal cielo. Ed è anche piuttosto carina.",
+          "Più bella di me?",
+          "Premiamo quel pulsante."
+        ],
+        "ja": [
+          "あの黄金の女がいれば、 ゴブリンを凍らせて すぐ終わったんだが。",
+          "アイツを嫌ってただろ！",
+          "役には立つ。 それに美人だ。",
+          "私よりも？",
+          "とっととボタンを押しにいくぞ。"
+        ],
+        "ko": [
+          "골든 걸이 여기 있었으면, 저 고블린을 얼려 버리고 끝났을 텐데.",
+          "그 여자를 경계하는 줄 알았는데!",
+          "점점 그 여자가 마음에 들어. 늘... 하늘이 내린 구원자 같았지. 상당히 예쁘기도 하고.",
+          "나보다 예뻐?",
+          "저 버튼을 누르자."
+        ],
         "pt-br": [
           "Se a Garota de Ouro estivesse aqui, eu poderia congelar esse Goblin e teríamos acabado.",
           "Achei que você estivesse desconfiado dela!",
           "Estou começando a gostar dela. Ela tem sido uma verdadeira... bênção. Muito bonita também.",
           "Mais bonita que eu?",
           "Vamos apertar aquele botão logo."
+        ],
+        "ru": [
+          "Если бы Золотая девочка была здесь, я бы заморозил этого гоблина и на этом бы всё закончилось.",
+          "Я думал, ты ей не доверяешь!",
+          "Она мне всё больше нравится. Она для нас всякий раз... просто спасение. И весьма хороша собой.",
+          "Красивее меня?",
+          "Давайте нажмём эту кнопку."
+        ],
+        "s-cn": [
+          "要是金发姑娘在的话，我就能冻住那个哥布林， 事情也就解决了。",
+          "我还以为你在提防她呢！",
+          "我对她越来越有好感了。她一直是我们的…… 天降紫微星。人也很漂亮。",
+          "比我还漂亮？",
+          "去按那个按钮吧。"
+        ],
+        "t-cn": [
+          "要是金髮姑娘在的話，我就能凍住那個哥布林， 事情也就解決了。",
+          "我還以為你在提防她呢！",
+          "我對她越來越有好感了。她一直是我們的…… 天降紫微星。人也很漂亮。",
+          "比我還漂亮？",
+          "去按那個按鈕吧。"
         ]
       },
       "silentCues": [],

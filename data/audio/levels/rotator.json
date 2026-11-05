@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Lately I've been getting *so* confused. I don't know where I am, I don't know which direction to go."
             ],
+            "de": [
+              "In letzter Zeit bin ich so verwirrt. Ich weiß nicht, wo ich bin, und nicht, in welche Richtung ich gehen soll."
+            ],
+            "es": [
+              "Últimamente me estoy liando muchísimo. No sé dónde estoy, no sé hacia dónde ir."
+            ],
+            "fr": [
+              "Ces derniers temps, je suis complètement perdu. Je ne sais pas où je suis, je ne sais pas vers où aller..."
+            ],
+            "it": [
+              "Ultimamente sono *così* confuso. Non so dove sono, non so in che direzione andare."
+            ],
+            "ja": [
+              "わけがわからねぇ。 今どこにいるのかも、 どこへ行くべきかも。"
+            ],
+            "ko": [
+              "요즘은 너무 헷갈려. 내가 어디 있는지도 모르겠고, 어느 방향으로 가야 할지도 모르겠어."
+            ],
             "pt-br": [
               "Ultimamente tenho ficado *tão* confuso. Não sei onde estou, não sei pra que direção ir."
+            ],
+            "ru": [
+              "В последнее время я совсем запутался. Не знаю, где я, не знаю, куда идти."
+            ],
+            "s-cn": [
+              "最近我老是晕头转向，既不知道自己在哪儿，也不知道该往哪儿走。"
+            ],
+            "t-cn": [
+              "最近我老是暈頭轉向，既不知道自己在哪兒， 也不知道該往哪兒走。"
             ]
           },
           "provenance": {
@@ -46,9 +82,45 @@
               "Sometimes it takes a lot of faffing about before I find a good direction.",
               "But I suppose I haven't *failed* yet."
             ],
+            "de": [
+              "Manchmal muss ich lange herumprobieren, bis ich eine gute Richtung finde.",
+              "Aber bisher bin ich wohl noch nicht gescheitert."
+            ],
+            "es": [
+              "A veces doy muchas vueltas antes de encontrar una buena dirección.",
+              "Pero supongo que todavía no he fracasado."
+            ],
+            "fr": [
+              "Parfois, je dois tellement tâtonner avant de trouver la bonne direction.",
+              "Mais je suppose que je n'ai pas encore échoué."
+            ],
+            "it": [
+              "A volte ci vuole un bel po' di giri a vuoto prima che trovi una buona direzione.",
+              "Ma immagino di non aver ancora *fallito*."
+            ],
+            "ja": [
+              "方向がわかるまで、 迷うこともある。",
+              "だからまだ失敗したわけじゃない。"
+            ],
+            "ko": [
+              "가끔은 한참 헤매고 나서야 제대로 된 방향을 찾기도 하지.",
+              "그래도 아직 실패하진 않은 것 같아."
+            ],
             "pt-br": [
               "Às vezes eu preciso enrolar bastante antes de encontrar uma boa direção.",
               "Mas acho que ainda não *falhei*."
+            ],
+            "ru": [
+              "Иногда приходится долго блуждать, прежде чем я нахожу верное направление.",
+              "Но, полагаю, я ещё не потерпел неудачу."
+            ],
+            "s-cn": [
+              "有时得瞎折腾半天，才能找准方向。",
+              "不过我好像还从没失败过。"
+            ],
+            "t-cn": [
+              "有時得瞎折騰半天，才能找準方向。",
+              "不過我好像還從沒失敗過。"
             ]
           },
           "provenance": {
@@ -73,12 +145,75 @@
           "But I suppose I haven't *failed* yet.",
           "..."
         ],
+        "de": [
+          "In letzter Zeit bin ich so verwirrt. Ich weiß nicht, wo ich bin, und nicht, in welche Richtung ich gehen soll.",
+          "...",
+          "Manchmal muss ich lange herumprobieren, bis ich eine gute Richtung finde.",
+          "Aber bisher bin ich wohl noch nicht gescheitert.",
+          "..."
+        ],
+        "es": [
+          "Últimamente me estoy liando muchísimo. No sé dónde estoy, no sé hacia dónde ir.",
+          "...",
+          "A veces doy muchas vueltas antes de encontrar una buena dirección.",
+          "Pero supongo que todavía no he fracasado.",
+          "..."
+        ],
+        "fr": [
+          "Ces derniers temps, je suis complètement perdu. Je ne sais pas où je suis, je ne sais pas vers où aller...",
+          "...",
+          "Parfois, je dois tellement tâtonner avant de trouver la bonne direction.",
+          "Mais je suppose que je n'ai pas encore échoué.",
+          "..."
+        ],
+        "it": [
+          "Ultimamente sono *così* confuso. Non so dove sono, non so in che direzione andare.",
+          "...",
+          "A volte ci vuole un bel po' di giri a vuoto prima che trovi una buona direzione.",
+          "Ma immagino di non aver ancora *fallito*.",
+          "..."
+        ],
+        "ja": [
+          "わけがわからねぇ。 今どこにいるのかも、 どこへ行くべきかも。",
+          "…",
+          "方向がわかるまで、 迷うこともある。",
+          "だからまだ失敗したわけじゃない。",
+          "…"
+        ],
+        "ko": [
+          "요즘은 너무 헷갈려. 내가 어디 있는지도 모르겠고, 어느 방향으로 가야 할지도 모르겠어.",
+          "...",
+          "가끔은 한참 헤매고 나서야 제대로 된 방향을 찾기도 하지.",
+          "그래도 아직 실패하진 않은 것 같아.",
+          "..."
+        ],
         "pt-br": [
           "Ultimamente tenho ficado *tão* confuso. Não sei onde estou, não sei pra que direção ir.",
           "...",
           "Às vezes eu preciso enrolar bastante antes de encontrar uma boa direção.",
           "Mas acho que ainda não *falhei*.",
           "..."
+        ],
+        "ru": [
+          "В последнее время я совсем запутался. Не знаю, где я, не знаю, куда идти.",
+          "...",
+          "Иногда приходится долго блуждать, прежде чем я нахожу верное направление.",
+          "Но, полагаю, я ещё не потерпел неудачу.",
+          "..."
+        ],
+        "s-cn": [
+          "最近我老是晕头转向，既不知道自己在哪儿，也不知道该往哪儿走。",
+          "……",
+          "有时得瞎折腾半天，才能找准方向。",
+          "不过我好像还从没失败过。",
+          "……"
+        ],
+        "t-cn": [
+          "最近我老是暈頭轉向，既不知道自己在哪兒， 也不知道該往哪兒走。",
+          "……",
+          "有時得瞎折騰半天，才能找準方向。",
+          "不過我好像還從沒失敗過。",
+          "……"
         ]
       },
       "silentCues": [

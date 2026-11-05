@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -25,10 +34,55 @@
               "I asked him about what this meant for magic in his world, but he didn't understand the term.",
               "Like 'magic' meant 'fairy tale' to him."
             ],
+            "de": [
+              "Er hat so beiläufig davon gesprochen. Dabei ist es unglaublich!",
+              "Ich habe ihn gefragt, was dies für die Magie in seiner Welt bedeute, aber er hat den Begriff nicht verstanden.",
+              "Als würde „Magie“ für ihn „Märchen“ bedeuten."
+            ],
+            "es": [
+              "Hablaba de esto con tanta naturalidad. ¡Pero es increíble!",
+              "Le pregunté qué suponía esto para la magia en su mundo, pero no entendió el término.",
+              "Como si eso de «magia» fuera como un «cuento de hadas» para él."
+            ],
+            "fr": [
+              "Il en parlait avec tant de naturel. Mais c'est incroyable !",
+              "Je lui ai demandé ce que ça impliquait pour la magie dans son monde, mais il ne comprenait pas le terme.",
+              "Comme si, pour lui, « magie » voulait dire « conte de fées »."
+            ],
+            "it": [
+              "Ne parlava con tanta noncuranza. Ma è incredibile!",
+              "Gli ho chiesto cosa significasse questo per la magia nel suo mondo, ma non capiva il termine.",
+              "Come se per lui \"magia\" volesse dire \"fiaba\"."
+            ],
+            "ja": [
+              "彼はさも当たり前のように話してた。 信じられんかった。",
+              "それが彼の世界の魔法に どう影響するのか聞いたんじゃが、",
+              "彼にとって「魔法」という言葉は、 「おとぎ話」と同じ意味らしい。"
+            ],
+            "ko": [
+              "그 사람은 이걸 너무나 아무렇지도 않게 말했어. 하지만 이건 정말 엄청난 일이야!",
+              "그래서 그쪽 세계의 마법에서 이게 어떤 의미인지 내가 물었더니 용어 자체를 이해하지 못하더군.",
+              "'마법'이 자기한텐 '동화' 같은 뜻이래."
+            ],
             "pt-br": [
               "Ele falou disso com tanta naturalidade. Mas é incrível!",
               "Perguntei a ele o que isso significava para a magia no mundo dele, mas ele não entendeu o termo.",
               "Como se “magia” significasse “conto de fadas” para ele."
+            ],
+            "ru": [
+              "Он говорил об этом так буднично. Но это же невероятно!",
+              "Я спросил его, что это значит для магии в его мире, но он не понял сам термин.",
+              "Как будто для него «магия» значила «сказка»."
+            ],
+            "s-cn": [
+              "他说这事说得那么轻描淡写。可这实在太不可思议了！",
+              "我问他，这对他那个世界的魔法意味着什么， 但他根本不懂“魔法”这个词。",
+              "就好像对他来说，“魔法”就等于“童话故事”。"
+            ],
+            "t-cn": [
+              "他說這事說得那麼輕描淡寫。可這實在太不可思議了！",
+              "我問他，這對他那個世界的魔法意味著什麼， 但他根本不懂「魔法」這個詞。",
+              "就好像對他來說，「魔法」就等於「童話故事」。"
             ]
           },
           "provenance": {
@@ -52,10 +106,55 @@
           "I asked him about what this meant for magic in his world, but he didn't understand the term.",
           "Like 'magic' meant 'fairy tale' to him."
         ],
+        "de": [
+          "Er hat so beiläufig davon gesprochen. Dabei ist es unglaublich!",
+          "Ich habe ihn gefragt, was dies für die Magie in seiner Welt bedeute, aber er hat den Begriff nicht verstanden.",
+          "Als würde „Magie“ für ihn „Märchen“ bedeuten."
+        ],
+        "es": [
+          "Hablaba de esto con tanta naturalidad. ¡Pero es increíble!",
+          "Le pregunté qué suponía esto para la magia en su mundo, pero no entendió el término.",
+          "Como si eso de «magia» fuera como un «cuento de hadas» para él."
+        ],
+        "fr": [
+          "Il en parlait avec tant de naturel. Mais c'est incroyable !",
+          "Je lui ai demandé ce que ça impliquait pour la magie dans son monde, mais il ne comprenait pas le terme.",
+          "Comme si, pour lui, « magie » voulait dire « conte de fées »."
+        ],
+        "it": [
+          "Ne parlava con tanta noncuranza. Ma è incredibile!",
+          "Gli ho chiesto cosa significasse questo per la magia nel suo mondo, ma non capiva il termine.",
+          "Come se per lui \"magia\" volesse dire \"fiaba\"."
+        ],
+        "ja": [
+          "彼はさも当たり前のように話してた。 信じられんかった。",
+          "それが彼の世界の魔法に どう影響するのか聞いたんじゃが、",
+          "彼にとって「魔法」という言葉は、 「おとぎ話」と同じ意味らしい。"
+        ],
+        "ko": [
+          "그 사람은 이걸 너무나 아무렇지도 않게 말했어. 하지만 이건 정말 엄청난 일이야!",
+          "그래서 그쪽 세계의 마법에서 이게 어떤 의미인지 내가 물었더니 용어 자체를 이해하지 못하더군.",
+          "'마법'이 자기한텐 '동화' 같은 뜻이래."
+        ],
         "pt-br": [
           "Ele falou disso com tanta naturalidade. Mas é incrível!",
           "Perguntei a ele o que isso significava para a magia no mundo dele, mas ele não entendeu o termo.",
           "Como se “magia” significasse “conto de fadas” para ele."
+        ],
+        "ru": [
+          "Он говорил об этом так буднично. Но это же невероятно!",
+          "Я спросил его, что это значит для магии в его мире, но он не понял сам термин.",
+          "Как будто для него «магия» значила «сказка»."
+        ],
+        "s-cn": [
+          "他说这事说得那么轻描淡写。可这实在太不可思议了！",
+          "我问他，这对他那个世界的魔法意味着什么， 但他根本不懂“魔法”这个词。",
+          "就好像对他来说，“魔法”就等于“童话故事”。"
+        ],
+        "t-cn": [
+          "他說這事說得那麼輕描淡寫。可這實在太不可思議了！",
+          "我問他，這對他那個世界的魔法意味著什麼， 但他根本不懂「魔法」這個詞。",
+          "就好像對他來說，「魔法」就等於「童話故事」。"
         ]
       },
       "silentCues": [],

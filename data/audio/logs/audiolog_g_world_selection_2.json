@@ -3,7 +3,16 @@
   "audioLog": "audiolog_g_world_selection_2",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -27,6 +36,72 @@
               "So their techniques must be of a different nature -- and vastly more effective.",
               "If we could learn even a small bit about this, our progress would accelerate tremendously."
             ],
+            "de": [
+              "Bevor sie eine Welt nutzen können, um ihre rätselhaften Ziele zu erreichen, müssen sie sie irgendwie finden und eine Verbindung zu ihr herstellen.",
+              "Nach welchen Kriterien suchen sie? „Ich will einen Ort, an dem Maschinen Lichtstrahlen aussenden, angetrieben von riesigen Edelsteinen ...“",
+              "Wie sollte das überhaupt funktionieren? Oder werden die Kriterien auf eine andere Weise festgelegt, sodass das Ganze einen Sinn ergibt?",
+              "Quigley, wenn du in meiner Abwesenheit nicht beträchtliche Entdeckungen gemacht hast,",
+              "wäre das mit den Torstätten eine reine Zufallssuche –",
+              "wir müssten unsere Vermutungen lückenlos überprüfen und den Reisenden dabei jedes Mal unbekannten Gefahren aussetzen.",
+              "Bei einem solchen Würfelspiel würde das Unglück gewiss eher früher als später zuschlagen.",
+              "Ihre Verfahren müssen also ganz anderer Natur sein – und weitaus wirksamer.",
+              "Wenn wir auch nur ein wenig darüber erfahren könnten, ließe sich unser Fortschritt ungeheuer beschleunigen."
+            ],
+            "es": [
+              "Antes de poder emplear un mundo para sus misteriosos fines, tienen que encontrarlo de alguna manera y conectar con él.",
+              "¿Con qué criterio los encuentran? «Quiero un lugar donde las máquinas proyecten haces de luz gracias a Gemas Gigantes...».",
+              "¿Cómo iba a funcionar eso? ¿O es que los criterios se especifican de alguna otra manera que ayude a que esto tenga sentido?",
+              "Quigley, a menos que hayas hecho descubrimientos considerables en mi ausencia,",
+              "según funcionan nuestros umbrales, sería una búsqueda al azar...",
+              "tendríamos que probar nuestras hipótesis exhaustivamente, exponiendo al viajero a peligros desconocidos en cada ocasión.",
+              "Sin duda, tirar así los dados traería desgracias más pronto que tarde.",
+              "Así que sus técnicas deben de ser de otra naturaleza... y muchísimo más eficaces.",
+              "Si pudiéramos averiguar aunque fuera algún que otro detalle al respecto, nuestro progreso podría acelerarse enormemente."
+            ],
+            "fr": [
+              "Avant de pouvoir utiliser un monde à leurs mystérieuses fins, ils doivent d'abord le trouver et s'y connecter.",
+              "Selon quels critères les cherchent-ils ? « Je veux un endroit où des machines projettent des rayons de lumière alimentés par d'énormes gemmes... »",
+              "Comment cela pourrait-il fonctionner ? Ou bien les critères sont-ils définis d'une autre manière qui permette de donner un sens à tout ça ?",
+              "Quigley, à moins que vous n'ayez fait d'importantes découvertes en mon absence,",
+              "en suivant notre approche des portes, ce serait une recherche aléatoire –",
+              "nous devrions tester nos hypothèses de façon exhaustive, en exposant le voyageur à des dangers inconnus à chaque fois.",
+              "Ce « lancer de dés » finirait sûrement par apporter le malheur tôt ou tard.",
+              "Donc, quelle que soit leur technique, elle doit être d'une autre nature – et bien plus efficace.",
+              "Si nous pouvions en apprendre ne serait-ce qu'un peu, nos progrès s'accélèreraient de façon prodigieuse."
+            ],
+            "it": [
+              "Prima di poter usare un mondo per i loro misteriosi fini, devono in qualche modo trovarlo e collegarsi.",
+              "Con quali criteri li trovano? \"Voglio un posto in cui dei macchinari emettano raggi di luce, alimentati da gemme giganti --\"",
+              "Come potrebbe funzionare? O i criteri sono specificati in qualche altro modo che aiuti a dare un senso a tutto questo?",
+              "Quigley, a meno che tu non abbia fatto scoperte considerevoli in mia assenza,",
+              "secondo il nostro modo di usare le porte, sarebbe una ricerca casuale --",
+              "dovremmo testare le nostre ipotesi in modo esaustivo, esponendo ogni volta il viaggiatore a pericoli sconosciuti.",
+              "Di certo il lancio dei dadi porterebbe sventura prima o poi.",
+              "Quindi le loro tecniche devono essere di natura diversa -- e immensamente più efficaci.",
+              "Se riuscissimo a scoprire anche solo una piccola parte di questo, il nostro progresso accelererebbe enormemente."
+            ],
+            "ja": [
+              "そして世界を利用するには どうにかして世界を見つけ出し…",
+              "基準は何だ？『巨大な宝石で 光線を生み出す世界がいい』とか…？",
+              "それで実現可能なのか？ それとも基準を 決める方法があるのか？",
+              "クイグリー、私が不在の間に 大発見をしていない限り…",
+              "私は手当たり次第に 探すしかない。",
+              "世界をひとつずつ回って 調べていくしかないが…",
+              "そして世界を融合させる 方法については…",
+              "なら、彼らにはより効率的な 方法があるはずだ。",
+              "少しでも解明できれば、 進歩は格段に速くなるだろう。"
+            ],
+            "ko": [
+              "저들이 자신만의 수수께끼 같은 목적에 어떤 세계를 이용하려면 우선 어떻게든 그 세계를 찾아 연결해야 할 텐데.",
+              "어떤 기준으로 찾는 거지? \"거대한 보석의 힘으로 기계가 빛의 빔을 쏘는 곳이면 좋겠어...\"",
+              "그게 대체 어떻게 가능하지? 아니면 이치에 맞도록 다른 방식으로 기준을 정하는 건가?",
+              "퀴글리, 내가 없는 동안 상당한 발견을 해낸 게 아니라면",
+              "우리가 출입구를 만드는 방식으로는 완전한 무작위 탐색이 될 텐데...",
+              "가능성을 하나하나 전부 시험해야 할 테고 그때마다 여행자는 미지의 위험에 노출되겠지.",
+              "그렇게 주사위를 던지다 보면 머지않아 반드시 불운이 닥칠 거야.",
+              "그러니 저들은 분명 본질적으로 다르고 훨씬 더 효율적인 방법을 사용하고 있을 거야.",
+              "그걸 조금이라도 배울 수 있다면, 우리도 엄청난 진척을 보겠지."
+            ],
             "pt-br": [
               "Antes que possam usar um mundo para seus fins misteriosos, eles precisam encontrá-lo de algum modo e se conectar a ele.",
               "Por quais critérios eles procuram? “Quero um lugar onde máquinas emitem feixes de luz, alimentadas por gemas gigantes...”",
@@ -37,6 +112,39 @@
               "Certamente o lançamento dos dados traria desgraça mais cedo ou mais tarde.",
               "Então suas técnicas devem ser de outra natureza — e muito mais eficazes.",
               "Se pudéssemos aprender nem que fosse um pouco sobre isso, nosso progresso aceleraria tremendamente."
+            ],
+            "ru": [
+              "Прежде чем они смогут использовать мир для своих таинственных целей, они должны как-то его найти и установить связь.",
+              "По каким критериям они ищут? «Мне нужно место, где механизмы испускают лучи, питаясь от гигантских самоцветов...»",
+              "Как это вообще работает? Или критерии задаются как-то иначе, так что в этом появляется смысл?",
+              "Квигли, если только ты не сделал серьёзных открытий в моё отсутствие,",
+              "с нашими проходами это был бы случайный поиск...",
+              "нам пришлось бы без конца проверять догадки, всякий раз подвергая путника неизвестной опасности.",
+              "Пожалуй, бросание костей принесло бы несчастье раньше или позже.",
+              "Значит, то, что они делают, должно быть совсем иного рода — и куда эффективней.",
+              "Если бы мы узнали об этом хотя бы немного, наш прогресс мог бы резко ускориться."
+            ],
+            "s-cn": [
+              "那些建造者若想利用某个世界实现不为人知的目的， 首先得想办法找到它，并与之建立连接。",
+              "他们按什么标准来寻找？难道只要想着： “我要一个机器能借巨型宝石之力射出光束的地方……”",
+              "可这要怎么实现？还是说，筛选标准是以其他方式设定的， 好让这一切说得通？",
+              "奎格利，除非我不在时你有了什么重大发现，",
+              "否则按我们的界门探索方式，就只能靠碰运气瞎找……",
+              "我们只能逐一验证所有猜测， 每次验证还会让旅行者置身于未知的危险之中。",
+              "这样碰运气，迟早会有不幸。",
+              "所以，他们的方法必然在本质上有所不同，且有效得多。",
+              "哪怕只弄明白一点，我们的研究也能突飞猛进。"
+            ],
+            "t-cn": [
+              "那些建造者若想利用某個世界實現不為人知的目的， 首先得想辦法找到它，並與之建立連接。",
+              "他們按什麼標準來尋找？難道只要想著： 「我要一個機器能借巨型寶石之力射出光束的地方……」",
+              "可這要怎麼實現？ 還是說，篩選標準是以其他方式設定的， 好讓這一切說得通？",
+              "奎格利，除非我不在時你有了什麼重大發現，",
+              "否則按我們的界門探索方式，就只能靠碰運氣瞎找……",
+              "我們只能逐一驗證所有猜測， 每次驗證還會讓旅行者置身於未知的危險之中。",
+              "這樣碰運氣，遲早會有不幸。",
+              "所以，他們的方法必然在本質上有所不同，且有效得多。",
+              "哪怕只弄明白一點，我們的研究也能突飛猛進。"
             ]
           },
           "provenance": {
@@ -72,6 +180,72 @@
           "So their techniques must be of a different nature -- and vastly more effective.",
           "If we could learn even a small bit about this, our progress would accelerate tremendously."
         ],
+        "de": [
+          "Bevor sie eine Welt nutzen können, um ihre rätselhaften Ziele zu erreichen, müssen sie sie irgendwie finden und eine Verbindung zu ihr herstellen.",
+          "Nach welchen Kriterien suchen sie? „Ich will einen Ort, an dem Maschinen Lichtstrahlen aussenden, angetrieben von riesigen Edelsteinen ...“",
+          "Wie sollte das überhaupt funktionieren? Oder werden die Kriterien auf eine andere Weise festgelegt, sodass das Ganze einen Sinn ergibt?",
+          "Quigley, wenn du in meiner Abwesenheit nicht beträchtliche Entdeckungen gemacht hast,",
+          "wäre das mit den Torstätten eine reine Zufallssuche –",
+          "wir müssten unsere Vermutungen lückenlos überprüfen und den Reisenden dabei jedes Mal unbekannten Gefahren aussetzen.",
+          "Bei einem solchen Würfelspiel würde das Unglück gewiss eher früher als später zuschlagen.",
+          "Ihre Verfahren müssen also ganz anderer Natur sein – und weitaus wirksamer.",
+          "Wenn wir auch nur ein wenig darüber erfahren könnten, ließe sich unser Fortschritt ungeheuer beschleunigen."
+        ],
+        "es": [
+          "Antes de poder emplear un mundo para sus misteriosos fines, tienen que encontrarlo de alguna manera y conectar con él.",
+          "¿Con qué criterio los encuentran? «Quiero un lugar donde las máquinas proyecten haces de luz gracias a Gemas Gigantes...».",
+          "¿Cómo iba a funcionar eso? ¿O es que los criterios se especifican de alguna otra manera que ayude a que esto tenga sentido?",
+          "Quigley, a menos que hayas hecho descubrimientos considerables en mi ausencia,",
+          "según funcionan nuestros umbrales, sería una búsqueda al azar...",
+          "tendríamos que probar nuestras hipótesis exhaustivamente, exponiendo al viajero a peligros desconocidos en cada ocasión.",
+          "Sin duda, tirar así los dados traería desgracias más pronto que tarde.",
+          "Así que sus técnicas deben de ser de otra naturaleza... y muchísimo más eficaces.",
+          "Si pudiéramos averiguar aunque fuera algún que otro detalle al respecto, nuestro progreso podría acelerarse enormemente."
+        ],
+        "fr": [
+          "Avant de pouvoir utiliser un monde à leurs mystérieuses fins, ils doivent d'abord le trouver et s'y connecter.",
+          "Selon quels critères les cherchent-ils ? « Je veux un endroit où des machines projettent des rayons de lumière alimentés par d'énormes gemmes... »",
+          "Comment cela pourrait-il fonctionner ? Ou bien les critères sont-ils définis d'une autre manière qui permette de donner un sens à tout ça ?",
+          "Quigley, à moins que vous n'ayez fait d'importantes découvertes en mon absence,",
+          "en suivant notre approche des portes, ce serait une recherche aléatoire –",
+          "nous devrions tester nos hypothèses de façon exhaustive, en exposant le voyageur à des dangers inconnus à chaque fois.",
+          "Ce « lancer de dés » finirait sûrement par apporter le malheur tôt ou tard.",
+          "Donc, quelle que soit leur technique, elle doit être d'une autre nature – et bien plus efficace.",
+          "Si nous pouvions en apprendre ne serait-ce qu'un peu, nos progrès s'accélèreraient de façon prodigieuse."
+        ],
+        "it": [
+          "Prima di poter usare un mondo per i loro misteriosi fini, devono in qualche modo trovarlo e collegarsi.",
+          "Con quali criteri li trovano? \"Voglio un posto in cui dei macchinari emettano raggi di luce, alimentati da gemme giganti --\"",
+          "Come potrebbe funzionare? O i criteri sono specificati in qualche altro modo che aiuti a dare un senso a tutto questo?",
+          "Quigley, a meno che tu non abbia fatto scoperte considerevoli in mia assenza,",
+          "secondo il nostro modo di usare le porte, sarebbe una ricerca casuale --",
+          "dovremmo testare le nostre ipotesi in modo esaustivo, esponendo ogni volta il viaggiatore a pericoli sconosciuti.",
+          "Di certo il lancio dei dadi porterebbe sventura prima o poi.",
+          "Quindi le loro tecniche devono essere di natura diversa -- e immensamente più efficaci.",
+          "Se riuscissimo a scoprire anche solo una piccola parte di questo, il nostro progresso accelererebbe enormemente."
+        ],
+        "ja": [
+          "そして世界を利用するには どうにかして世界を見つけ出し…",
+          "基準は何だ？『巨大な宝石で 光線を生み出す世界がいい』とか…？",
+          "それで実現可能なのか？ それとも基準を 決める方法があるのか？",
+          "クイグリー、私が不在の間に 大発見をしていない限り…",
+          "私は手当たり次第に 探すしかない。",
+          "世界をひとつずつ回って 調べていくしかないが…",
+          "そして世界を融合させる 方法については…",
+          "なら、彼らにはより効率的な 方法があるはずだ。",
+          "少しでも解明できれば、 進歩は格段に速くなるだろう。"
+        ],
+        "ko": [
+          "저들이 자신만의 수수께끼 같은 목적에 어떤 세계를 이용하려면 우선 어떻게든 그 세계를 찾아 연결해야 할 텐데.",
+          "어떤 기준으로 찾는 거지? \"거대한 보석의 힘으로 기계가 빛의 빔을 쏘는 곳이면 좋겠어...\"",
+          "그게 대체 어떻게 가능하지? 아니면 이치에 맞도록 다른 방식으로 기준을 정하는 건가?",
+          "퀴글리, 내가 없는 동안 상당한 발견을 해낸 게 아니라면",
+          "우리가 출입구를 만드는 방식으로는 완전한 무작위 탐색이 될 텐데...",
+          "가능성을 하나하나 전부 시험해야 할 테고 그때마다 여행자는 미지의 위험에 노출되겠지.",
+          "그렇게 주사위를 던지다 보면 머지않아 반드시 불운이 닥칠 거야.",
+          "그러니 저들은 분명 본질적으로 다르고 훨씬 더 효율적인 방법을 사용하고 있을 거야.",
+          "그걸 조금이라도 배울 수 있다면, 우리도 엄청난 진척을 보겠지."
+        ],
         "pt-br": [
           "Antes que possam usar um mundo para seus fins misteriosos, eles precisam encontrá-lo de algum modo e se conectar a ele.",
           "Por quais critérios eles procuram? “Quero um lugar onde máquinas emitem feixes de luz, alimentadas por gemas gigantes...”",
@@ -82,6 +256,39 @@
           "Certamente o lançamento dos dados traria desgraça mais cedo ou mais tarde.",
           "Então suas técnicas devem ser de outra natureza — e muito mais eficazes.",
           "Se pudéssemos aprender nem que fosse um pouco sobre isso, nosso progresso aceleraria tremendamente."
+        ],
+        "ru": [
+          "Прежде чем они смогут использовать мир для своих таинственных целей, они должны как-то его найти и установить связь.",
+          "По каким критериям они ищут? «Мне нужно место, где механизмы испускают лучи, питаясь от гигантских самоцветов...»",
+          "Как это вообще работает? Или критерии задаются как-то иначе, так что в этом появляется смысл?",
+          "Квигли, если только ты не сделал серьёзных открытий в моё отсутствие,",
+          "с нашими проходами это был бы случайный поиск...",
+          "нам пришлось бы без конца проверять догадки, всякий раз подвергая путника неизвестной опасности.",
+          "Пожалуй, бросание костей принесло бы несчастье раньше или позже.",
+          "Значит, то, что они делают, должно быть совсем иного рода — и куда эффективней.",
+          "Если бы мы узнали об этом хотя бы немного, наш прогресс мог бы резко ускориться."
+        ],
+        "s-cn": [
+          "那些建造者若想利用某个世界实现不为人知的目的， 首先得想办法找到它，并与之建立连接。",
+          "他们按什么标准来寻找？难道只要想着： “我要一个机器能借巨型宝石之力射出光束的地方……”",
+          "可这要怎么实现？还是说，筛选标准是以其他方式设定的， 好让这一切说得通？",
+          "奎格利，除非我不在时你有了什么重大发现，",
+          "否则按我们的界门探索方式，就只能靠碰运气瞎找……",
+          "我们只能逐一验证所有猜测， 每次验证还会让旅行者置身于未知的危险之中。",
+          "这样碰运气，迟早会有不幸。",
+          "所以，他们的方法必然在本质上有所不同，且有效得多。",
+          "哪怕只弄明白一点，我们的研究也能突飞猛进。"
+        ],
+        "t-cn": [
+          "那些建造者若想利用某個世界實現不為人知的目的， 首先得想辦法找到它，並與之建立連接。",
+          "他們按什麼標準來尋找？難道只要想著： 「我要一個機器能借巨型寶石之力射出光束的地方……」",
+          "可這要怎麼實現？ 還是說，篩選標準是以其他方式設定的， 好讓這一切說得通？",
+          "奎格利，除非我不在時你有了什麼重大發現，",
+          "否則按我們的界門探索方式，就只能靠碰運氣瞎找……",
+          "我們只能逐一驗證所有猜測， 每次驗證還會讓旅行者置身於未知的危險之中。",
+          "這樣碰運氣，遲早會有不幸。",
+          "所以，他們的方法必然在本質上有所不同，且有效得多。",
+          "哪怕只弄明白一點，我們的研究也能突飛猛進。"
         ]
       },
       "silentCues": [],

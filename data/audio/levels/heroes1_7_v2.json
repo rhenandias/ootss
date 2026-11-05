@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "So many odd-shapen courts; The architect's mind must have been a maze. My sort of fellow!"
             ],
+            "de": [
+              "So viele sonderbar geschnittene Höfe; der Geist des Architekten muss ein Labyrinth gewesen sein. Ein Mann ganz nach meinem Geschmack!"
+            ],
+            "es": [
+              "Con tantos patios de formas extrañas, la mente del arquitecto debía de ser un laberinto. ¡De los míos!"
+            ],
+            "fr": [
+              "Tellement de cours de formes étranges ; L'architecte devait avoir l'esprit tortueux. J'aurais bien aimé le rencontrer !"
+            ],
+            "it": [
+              "Quanti cortili bizzarri; la mente dell'architetto doveva essere un labirinto. Uno dei miei!"
+            ],
+            "ja": [
+              "変な形の庭ばかりだね。 どんなおかしな建築家が造ったの？ 会ってみたいかも！"
+            ],
+            "ko": [
+              "이상하게 생긴 뜰도 많군; 설계자의 머릿속은 미로 같았겠어. 나랑 잘 맞는 사람이겠는데!"
+            ],
             "pt-br": [
               "Tantos pátios esquisitos; a mente do arquiteto devia ser um labirinto. Dos meus!"
+            ],
+            "ru": [
+              "Столько странных залов; у архитектора, должно быть, в голове был лабиринт. Не отказалась бы с ним познакомиться!"
+            ],
+            "s-cn": [
+              "这么多奇形怪状的院子，设计者脑子一定跟迷宫似的。 倒是对我胃口！"
+            ],
+            "t-cn": [
+              "這麼多奇形怪狀的院子，設計者腦子一定跟迷宮似的。 倒是對我胃口！"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "So many odd-shapen courts; The architect's mind must have been a maze. My sort of fellow!"
         ],
+        "de": [
+          "So viele sonderbar geschnittene Höfe; der Geist des Architekten muss ein Labyrinth gewesen sein. Ein Mann ganz nach meinem Geschmack!"
+        ],
+        "es": [
+          "Con tantos patios de formas extrañas, la mente del arquitecto debía de ser un laberinto. ¡De los míos!"
+        ],
+        "fr": [
+          "Tellement de cours de formes étranges ; L'architecte devait avoir l'esprit tortueux. J'aurais bien aimé le rencontrer !"
+        ],
+        "it": [
+          "Quanti cortili bizzarri; la mente dell'architetto doveva essere un labirinto. Uno dei miei!"
+        ],
+        "ja": [
+          "変な形の庭ばかりだね。 どんなおかしな建築家が造ったの？ 会ってみたいかも！"
+        ],
+        "ko": [
+          "이상하게 생긴 뜰도 많군; 설계자의 머릿속은 미로 같았겠어. 나랑 잘 맞는 사람이겠는데!"
+        ],
         "pt-br": [
           "Tantos pátios esquisitos; a mente do arquiteto devia ser um labirinto. Dos meus!"
+        ],
+        "ru": [
+          "Столько странных залов; у архитектора, должно быть, в голове был лабиринт. Не отказалась бы с ним познакомиться!"
+        ],
+        "s-cn": [
+          "这么多奇形怪状的院子，设计者脑子一定跟迷宫似的。 倒是对我胃口！"
+        ],
+        "t-cn": [
+          "這麼多奇形怪狀的院子，設計者腦子一定跟迷宮似的。 倒是對我胃口！"
         ]
       },
       "silentCues": [],
@@ -84,8 +147,35 @@
             "en": [
               "Come along, crystal friend, we've somewhere you need to go."
             ],
+            "de": [
+              "Komm mit, Kristallfreund, es gibt da einen Ort, an dem du gebraucht wirst."
+            ],
+            "es": [
+              "Ven, amigo cristal, tenemos que llevarte a un sitio."
+            ],
+            "fr": [
+              "Viens, mon ami de cristal. Je dois t'accompagner quelque part."
+            ],
+            "it": [
+              "Vieni, amico cristallo, c’è un posto dove devi andare."
+            ],
+            "ja": [
+              "さあクリスタル。 一緒に来てもらうよ。"
+            ],
+            "ko": [
+              "이리 와, 수정 친구, 네가 가야 할 곳이 있어."
+            ],
             "pt-br": [
               "Vamos, colega de cristal, temos um destino pra você."
+            ],
+            "ru": [
+              "Идем, кристальный друг, нам нужно тебя кое-куда доставить."
+            ],
+            "s-cn": [
+              "走吧，水晶朋友，该带你去个地方了。"
+            ],
+            "t-cn": [
+              "走吧，水晶朋友，該帶你去個地方了。"
             ]
           },
           "provenance": {
@@ -105,8 +195,35 @@
         "en": [
           "Come along, crystal friend, we've somewhere you need to go."
         ],
+        "de": [
+          "Komm mit, Kristallfreund, es gibt da einen Ort, an dem du gebraucht wirst."
+        ],
+        "es": [
+          "Ven, amigo cristal, tenemos que llevarte a un sitio."
+        ],
+        "fr": [
+          "Viens, mon ami de cristal. Je dois t'accompagner quelque part."
+        ],
+        "it": [
+          "Vieni, amico cristallo, c’è un posto dove devi andare."
+        ],
+        "ja": [
+          "さあクリスタル。 一緒に来てもらうよ。"
+        ],
+        "ko": [
+          "이리 와, 수정 친구, 네가 가야 할 곳이 있어."
+        ],
         "pt-br": [
           "Vamos, colega de cristal, temos um destino pra você."
+        ],
+        "ru": [
+          "Идем, кристальный друг, нам нужно тебя кое-куда доставить."
+        ],
+        "s-cn": [
+          "走吧，水晶朋友，该带你去个地方了。"
+        ],
+        "t-cn": [
+          "走吧，水晶朋友，該帶你去個地方了。"
         ]
       },
       "silentCues": [],
@@ -145,8 +262,35 @@
             "en": [
               "We'll be back for you. Don't worry."
             ],
+            "de": [
+              "Wir kommen zurück und holen dich. Keine Sorge."
+            ],
+            "es": [
+              "Volveremos por ti. No te preocupes."
+            ],
+            "fr": [
+              "On reviendra te chercher. Ne t'inquiète pas."
+            ],
+            "it": [
+              "Torneremo da te. Non preoccuparti."
+            ],
+            "ja": [
+              "大丈夫。 助けに戻ってくるから。"
+            ],
+            "ko": [
+              "우리가 데리러 올게. 걱정 마."
+            ],
             "pt-br": [
               "Vamos voltar pra te buscar. Não se preocupe."
+            ],
+            "ru": [
+              "Мы ещё вернёмся за тобой. Не волнуйся."
+            ],
+            "s-cn": [
+              "我们会回来接你的。别担心。"
+            ],
+            "t-cn": [
+              "我們會回來接你的。別擔心。"
             ]
           },
           "provenance": {
@@ -166,8 +310,35 @@
         "en": [
           "We'll be back for you. Don't worry."
         ],
+        "de": [
+          "Wir kommen zurück und holen dich. Keine Sorge."
+        ],
+        "es": [
+          "Volveremos por ti. No te preocupes."
+        ],
+        "fr": [
+          "On reviendra te chercher. Ne t'inquiète pas."
+        ],
+        "it": [
+          "Torneremo da te. Non preoccuparti."
+        ],
+        "ja": [
+          "大丈夫。 助けに戻ってくるから。"
+        ],
+        "ko": [
+          "우리가 데리러 올게. 걱정 마."
+        ],
         "pt-br": [
           "Vamos voltar pra te buscar. Não se preocupe."
+        ],
+        "ru": [
+          "Мы ещё вернёмся за тобой. Не волнуйся."
+        ],
+        "s-cn": [
+          "我们会回来接你的。别担心。"
+        ],
+        "t-cn": [
+          "我們會回來接你的。別擔心。"
         ]
       },
       "silentCues": [],
@@ -225,6 +396,138 @@
               "Instead, it's about walls: the Thief cannot ever pull an object up to a wall,",
               "and this is part of what makes things silly."
             ],
+            "de": [
+              "So habe ich Jonahs Idee überarbeitet und daraus ein völlig anderes Level gemacht.",
+              "Es ist viel größer, für die frühen Helden-Level ungewöhnlich groß, aber es hat mir gefallen, also ist es so geblieben.",
+              "Mein Ziel war, den Spielern mehr Übung mit der Diebin zu geben, damit sie verinnerlichen, wie sie sich bewegt,",
+              "und zugleich ein Level zu bauen, bei dem klarer ist, worum es eigentlich geht –",
+              "Bei der ursprünglichen Version ist bei mir irgendwie nie eine nennenswerte Erkenntnis hängen geblieben.",
+              "Weil das hier ein frühes Übungslevel ist, wollte ich Formen verwenden, denen man im Spiel immer wieder begegnet –",
+              "die Säulen aus Jonahs Version sieht man sonst einfach nicht oft.",
+              "Hier haben wir also eine Reihe von Räumen, die durch Gänge verbunden sind.",
+              "Die witzige Situation mit dem Schalter bleibt erhalten,",
+              "aber wir betonen sie, indem die Diebin direkt neben dem Schalter startet (wahrscheinlich tritt sie gleich mit ihrem ersten Zug darauf),",
+              "und der Kristall weit entfernt liegt. Zum Kristall zu laufen ist einfach,",
+              "aber ihn durch die Räume zurückzuziehen, ist gar nicht so leicht.",
+              "Bei diesen Räumen ist es schon ein bisschen absurd, wie viele Umwege du machen musst,",
+              "nur um den Kristall dorthin zu bekommen, wo du ihn haben willst.",
+              "Bei diesem Entwurf spiele ich mit den Bewegungsmustern der Diebin, einfach aus Spaß;",
+              "aber man könnte auch sagen, dass der Grundriss des Levels eine Veranschaulichung der Bewegungsmuster der Diebin ist,",
+              "weil die Raumgrenzen den Bereich abstecken, der spielerisch am interessantesten ist.",
+              "In dieser Version des Levels haben wir die ursprüngliche Idee mit den Säulen und Ecken aufgegeben.",
+              "Stattdessen geht es um Wände: Die Diebin kann einen Gegenstand nie so weit ziehen, dass er direkt an einer Wand steht,",
+              "und auch das macht die Sache so albern."
+            ],
+            "es": [
+              "Aquí está la forma en que revisé la idea de Jonah para convertirla en un nivel completamente distinto.",
+              "Es mucho más grande, un tamaño atípico para los primeros héroes, pero me gustó, así que lo dejé tal cual.",
+              "Mi objetivo era darle al jugador más práctica usando a la Ladrona e interiorizando cómo se mueve,",
+              "al mismo tiempo que hacíamos un nivel más fácil de entender...",
+              "había algo en la versión original que nunca dejó en mi cabeza ninguna conclusión útil.",
+              "Como este es un nivel de entrenamiento temprano, quería usar formas que se ven a menudo a lo largo del juego...",
+              "Las columnas de la versión de Jonah no son algo que se suela ver.",
+              "Así que aquí tenemos una serie de salas conectadas por pasillos.",
+              "La situación sigue siendo curiosa con el botón,",
+              "pero la enfatizamos poniendo a la Ladrona justo al lado del botón (lo más probable es que lo pise en su primer movimiento)",
+              "y colocando el cristal muy lejos. Es fácil caminar hasta el cristal,",
+              "pero no tan sencillo arrastrarlo de vuelta por las salas.",
+              "Las salas son un poco ridículas por la cantidad de desvíos necesarios",
+              "solo para llevar el cristal adonde quieres.",
+              "Este diseño soy yo divirtiéndome con los patrones de movimiento de la Ladrona;",
+              "pero también se podría decir que el mapa del nivel es una ilustración de los patrones de movimiento de la Ladrona,",
+              "en el sentido de que los bordes de las salas muestran el límite que maximiza el interés.",
+              "En esta versión del nivel, abandonamos la idea original sobre columnas y esquinas.",
+              "En cambio, trata sobre las paredes: la Ladrona nunca puede tirar de un objeto hasta una pared,",
+              "y eso forma parte de lo que hace que todo sea ridículo."
+            ],
+            "fr": [
+              "Voici comment j'ai repris l'idée de Jonah pour en faire un niveau complètement différent.",
+              "Il est beaucoup plus grand, une taille atypique pour les premiers héros, mais il me plaisait, alors je l'ai gardé ainsi.",
+              "Mon objectif était de donner au joueur plus d'entraînement avec la Voleuse pour mieux intégrer ses déplacements,",
+              "tout en créant un niveau dont le principe était plus facile à comprendre –",
+              "ce qui me chiffonnait dans la version originale, c'est que je n'en retenais jamais rien de marquant.",
+              "Comme il s'agit d'un des premiers niveaux d'entraînement, je voulais utiliser des formes qu'on voit souvent tout au long du jeu –",
+              "les colonnes de la version de Jonah ne sont pas vraiment quelque chose qu'on voit souvent.",
+              "Ici, nous avons donc une série de salles reliées par des couloirs.",
+              "Nous conservons la situation amusante avec le bouton,",
+              "mais nous l'accentuons en plaçant la Voleuse juste à côté du bouton (elle risque fort d'y marcher dès son premier déplacement),",
+              "et en mettant le cristal très loin. Il est facile d'aller jusqu'au cristal,",
+              "mais beaucoup moins simple de le traîner à travers les salles.",
+              "Les salles sont un peu absurdes par le nombre de détours nécessaires",
+              "pour amener le cristal là où on veut.",
+              "Je m'amuse ici avec les schémas de déplacement de la Voleuse ;",
+              "mais on pourrait aussi dire que la carte du niveau est une illustration des schémas de déplacement de la Voleuse,",
+              "en ce sens que les limites des salles montrent une contrainte qui maximise l'intérêt.",
+              "Dans cette version du niveau, nous avons abandonné l'idée originale des colonnes et des coins.",
+              "C'est plutôt une question de murs : la Voleuse ne peut jamais tirer un objet jusqu'à un mur,",
+              "et c'est en partie ce qui rend les choses amusantes."
+            ],
+            "it": [
+              "Ecco come ho revisionato l'idea di Jonah in un livello completamente diverso.",
+              "È molto più grande, una dimensione atipica per i primi eroi, ma mi piaceva e l'ho lasciato così.",
+              "Il mio obiettivo era far esercitare di più il giocatore nell'usare la ladra e nell'interiorizzare come si muove,",
+              "pur creando anche un livello più facile da capire...",
+              "c'era qualcosa nella versione originale che non mi ha mai lasciato in testa un vero insegnamento.",
+              "Dato che questo è un livello di addestramento iniziale, volevo usare forme che si vedono spesso nel gioco...",
+              "le colonne nella versione di Jonah non sono qualcosa che si veda molto.",
+              "Quindi, qui abbiamo una serie di stanze collegate da corridoi.",
+              "Manteniamo la situazione buffa con il pulsante,",
+              "ma lo sottolineiamo iniziando la ladra proprio accanto al pulsante (probabilmente ci salirà sopra come prima mossa),",
+              "e mettendo il cristallo lontano. È facile andare a piedi fino al cristallo,",
+              "ma non così semplice trascinarlo indietro attraverso le stanze.",
+              "Le stanze sono un po' ridicole per il numero di deviazioni richieste",
+              "solo per portare il cristallo dove vuoi.",
+              "Questo è il mio modo di divertirmi con gli schemi di movimento della ladra;",
+              "ma si potrebbe anche dire che la mappa del livello è un'illustrazione dei modelli di movimento della ladra,",
+              "nel senso che i bordi delle stanze mostrano il confine che massimizza l'interesse.",
+              "In questa versione del livello, abbiamo abbandonato l'idea originale di colonne e angoli.",
+              "Invece, riguarda i muri: la ladra non può mai tirare un oggetto fino a un muro,",
+              "e questo è parte di ciò che rende le cose assurde."
+            ],
+            "ja": [
+              "今度は、ジョナのアイデアを変更して 別のステージを作成した方法を見せよう。",
+              "かなり大きい。初期の英雄たちとしては 普通とは呼べないサイズだが、 気に入ったからそのまま残した。",
+              "目的は、盗賊の動かし方をもっと練習させ、 その動きを体に覚えてもらうことだった。",
+              "同時に、もっと観察しやすく、 理解しやすいステージにもしたかった。",
+              "オリジナル版には、どうしても 頭に引っかからないところがあったんだ。",
+              "これは初期のチュートリアル的な ステージなので、後半でも よく出てくる形を使いたかった。",
+              "ジョナのバージョンにある柱は、 後のゲームではあまり見かけない 型だったからね。",
+              "そこで、廊下でつながった部屋を いくつも用意した。",
+              "ボタンをめぐる不思議な仕掛けは残したが、",
+              "それをもっと強調するために、 盗賊を最初からボタンのすぐ横に置いた。 （彼女なら、最初の一手でそのまま ボタンの上に乗ってしまう可能性が高い）",
+              "その一方で、クリスタルは ずっと遠くに置いた。 クリスタルのところまで 歩いていくのは簡単でも、",
+              "それを部屋から部屋へ 引っ張っていくのはそう簡単じゃない。",
+              "クリスタルを目的の場所まで 運ぶだけなのに、",
+              "通らなければならない寄り道が やたら多い。その意味では、 少し混乱しそうな部屋構成になっている。",
+              "ここは自分が、盗賊の移動パターンで 遊んでいた部分だ。",
+              "でも、こののマップそのものが、 盗賊の移動パターンを 図解したものだとも言える。",
+              "部屋の境界が、興味深さを 最大限に引き出す境界になっているからだ。",
+              "もうオリジナル版の柱や 角のアイデアじゃないということ。",
+              "その代わり、壁が中心となる。 盗賊は決して、オブジェクトを壁まで運んで",
+              "登る事はできないので、 それがまた面白さを引き立てているんだ。"
+            ],
+            "ko": [
+              "그래서 나는 조나의 아이디어를 이런 식으로 수정해 완전히 다른 레벨로 만들었어.",
+              "훨씬 더 크지. 초기 영웅 치고는 이례적인 크기지만, 마음에 들어서 그대로 뒀어.",
+              "내 목표는 플레이어가 도둑을 더 많이 연습하고 움직임을 자연스럽게 익히는 동시에",
+              "요점을 더 이해하기 쉬운 레벨을 만드는 거였지.",
+              "원래 버전에는 어딘가 머릿속에 의미 있는 깨달음을 전혀 남기지 못하는 부분이 있었거든.",
+              "이건 초반 훈련 레벨이니까, 게임 전반에서 자주 접하게 될 형태를 사용하고 싶었어.",
+              "조나 버전의 기둥들은 게임에서 그다지 자주 보이는 게 아니니까.",
+              "그래서 여기서는 복도로 연결된 여러 개의 방을 만들었어.",
+              "버튼과 관련된 재미있는 상황은 그대로 유지하되,",
+              "도둑을 버튼 바로 옆에서 시작하게 해서 그 점을 더 강조했지. (첫 행동으로 버튼을 밟을 가능성이 높으니까.)",
+              "그리고 수정을 멀찍이 뒀어. 수정까지 걸어가는 건 쉽지만,",
+              "그걸 방들을 지나 다시 끌고 오는 건 그리 간단한 일이 아니야.",
+              "방의 구조는 좀 우스꽝스러울 정도야. 원하는 곳까지 수정을 가져가려면",
+              "쓸데없이 여러 번 우회해야 하거든.",
+              "이건 도둑의 이동 패턴으로 재미있게 변형해 본 거야.",
+              "하지만 이 레벨의 지도 자체가 도둑의 이동 패턴을 시각적으로 보여주는 예시라고도 할 수 있어.",
+              "방의 경계선이 가장 흥미로운 상황이 만들어지는 범위를 보여주거든.",
+              "이 버전의 레벨에서는 기둥과 모퉁이에 관한 원래 구상을 포기했어.",
+              "대신, 여기서는 성벽에 관한 거지. 도둑은 물체를 성벽 바로 앞까지 끌어당길 수 없고,",
+              "바로 그 점 때문에 재미있는 상황이 생겨."
+            ],
             "pt-br": [
               "Aqui está a forma como revisei a ideia de Jonah em um nível completamente diferente.",
               "Ele é muito maior, um tamanho atípico para os primeiros Heróis, mas eu gostei dele, então mantive assim.",
@@ -246,6 +549,72 @@
               "Nesta versão do nível, abandonamos a ideia original das colunas e dos cantos.",
               "Em vez disso, é sobre paredes: a Ladra nunca consegue puxar um objeto até uma parede,",
               "e isso faz parte do que torna as coisas bobas."
+            ],
+            "ru": [
+              "Вот так я переработал идею Йоны в совершенно другой уровень.",
+              "Он намного больше, нетипичный размер для ранних Героев, но мне он понравился, так что я оставил всё как есть.",
+              "Моей целью было дать игроку больше поиграть с Воровкой и лучше понять то, как она движется,",
+              "при этом сделав уровень с более понятной идеей —",
+              "в оригинальной версии было что-то такое, что так и не отпечаталось у меня в голове.",
+              "Поскольку это ранний обучающий уровень, я хотел использовать формы, которые часто встречаются по ходу игры —",
+              "колонны в версии Йоны — такие штуки вы видите не часто.",
+              "Так что здесь у нас серия комнат, соединённых коридорами.",
+              "Мы сохраняем забавную ситуацию с кнопкой,",
+              "но подчёркиваем её, поставив Воровку прямо рядом с кнопкой (она, скорее всего, наступит на неё своим первым ходом)",
+              "и разместив кристалл далеко. До кристалла дойти легко,",
+              "но уже не так просто тащить его обратно через комнаты.",
+              "Комнаты немного нелепы по количеству обходных путей, необходимых",
+              "просто чтобы доставить кристалл туда, куда нужно.",
+              "Мне просто весело играться с шаблонами движения Воровки;",
+              "но можно сказать и так, что карта уровня — это иллюстрация к схемам движения Воровки,",
+              "поскольку границы комнат показывают предел, который делает процесс интереснее всего.",
+              "В этой версии уровня мы отказались от первоначальной идеи с колоннами и углами.",
+              "Вместо этого речь идёт о стенах: Воровка никогда не сможет притянуть предмет вплотную к стене,",
+              "и отчасти именно это делает ситуацию такой нелепой."
+            ],
+            "s-cn": [
+              "这是我把乔纳的创意改成一道完全不同的关卡后的方案。",
+              "它大了很多，作为英雄世界的前期关卡而言很不寻常， 但我喜欢，所以就保留下来了。",
+              "我的目标是让玩家多练一练盗贼，把她的移动方式化成直觉，",
+              "同时也让玩家更容易看出这关的核心思路，",
+              "我玩完初版之后，始终说不清这关究竟教会了我什么。",
+              "因为这是前期训练关，我想采用游戏中经常出现的形状，",
+              "乔纳版本里的柱子，往后的关卡里其实很少见。",
+              "所以这一版改成了一连串由走廊相连的房间。",
+              "我们保留了按钮所造成的有趣局面，",
+              "不过，我们让盗贼开场就站在按钮旁， 以此加以强调（她的第一步很可能就是踩上去），",
+              "再把水晶放到远处。走到水晶那儿很容易，",
+              "难的是把它一路拖回去，穿过这些房间。",
+              "这些房间要绕的路多得有点离谱，",
+              "光是把水晶送到想要的位置，你就得兜好几个圈。",
+              "这个设计是我在拿盗贼的移动规律找乐子；",
+              "不过也可以说，关卡地图本身就是一幅盗贼移动规律的示意图，",
+              "房间边界恰好圈出了最有意思的活动范围。",
+              "这一版里，我们放弃了初版围绕柱子和转角展开的构思。",
+              "新的设计重点落到了墙上：盗贼永远无法把一个物体一路拉到墙边，",
+              "这也让局面变得有些滑稽。"
+            ],
+            "t-cn": [
+              "這是我把喬納的創意改成一道完全不同的關卡後的方案。",
+              "它大了很多，作為英雄世界的前期關卡而言很不尋常， 但我喜歡，所以就保留下來了。",
+              "我的目標是讓玩家多練一練盜賊，把她的移動方式化成直覺，",
+              "同時也讓玩家更容易看出這關的核心思路，",
+              "我玩完初版之後，始終說不清這關究竟教會了我什麼。",
+              "因為這是前期訓練關， 我想採用遊戲中經常出現的形狀，",
+              "喬納版本裡的柱子，往後的關卡裡其實很少見。",
+              "所以這一版改成了一連串由走廊相連的房間。",
+              "我們保留了按鈕所造成的有趣局面，",
+              "不過，我們讓盜賊開場就站在按鈕旁， 以此加以強調（她的第一步很可能就是踩上去），",
+              "再把水晶放到遠處。走到水晶那兒很容易，",
+              "難的是把它一路拖回去，穿過這些房間。",
+              "這些房間要繞的路多得有點離譜，",
+              "光是把水晶送到想要的位置，你就得兜好幾個圈。",
+              "這個設計是我在拿盜賊的移動規律找樂子；",
+              "不過也可以說， 關卡地圖本身就是一幅盜賊移動規律的示意圖，",
+              "房間邊界恰好圈出了最有意思的活動範圍。",
+              "這一版裡，我們放棄了初版圍繞柱子和轉角展開的構思。",
+              "新的設計重點落到了牆上： 盜賊永遠無法把一個物體一路拉到牆邊，",
+              "這也讓局面變得有些滑稽。"
             ]
           },
           "provenance": {
@@ -303,6 +672,138 @@
           "Instead, it's about walls: the Thief cannot ever pull an object up to a wall,",
           "and this is part of what makes things silly."
         ],
+        "de": [
+          "So habe ich Jonahs Idee überarbeitet und daraus ein völlig anderes Level gemacht.",
+          "Es ist viel größer, für die frühen Helden-Level ungewöhnlich groß, aber es hat mir gefallen, also ist es so geblieben.",
+          "Mein Ziel war, den Spielern mehr Übung mit der Diebin zu geben, damit sie verinnerlichen, wie sie sich bewegt,",
+          "und zugleich ein Level zu bauen, bei dem klarer ist, worum es eigentlich geht –",
+          "Bei der ursprünglichen Version ist bei mir irgendwie nie eine nennenswerte Erkenntnis hängen geblieben.",
+          "Weil das hier ein frühes Übungslevel ist, wollte ich Formen verwenden, denen man im Spiel immer wieder begegnet –",
+          "die Säulen aus Jonahs Version sieht man sonst einfach nicht oft.",
+          "Hier haben wir also eine Reihe von Räumen, die durch Gänge verbunden sind.",
+          "Die witzige Situation mit dem Schalter bleibt erhalten,",
+          "aber wir betonen sie, indem die Diebin direkt neben dem Schalter startet (wahrscheinlich tritt sie gleich mit ihrem ersten Zug darauf),",
+          "und der Kristall weit entfernt liegt. Zum Kristall zu laufen ist einfach,",
+          "aber ihn durch die Räume zurückzuziehen, ist gar nicht so leicht.",
+          "Bei diesen Räumen ist es schon ein bisschen absurd, wie viele Umwege du machen musst,",
+          "nur um den Kristall dorthin zu bekommen, wo du ihn haben willst.",
+          "Bei diesem Entwurf spiele ich mit den Bewegungsmustern der Diebin, einfach aus Spaß;",
+          "aber man könnte auch sagen, dass der Grundriss des Levels eine Veranschaulichung der Bewegungsmuster der Diebin ist,",
+          "weil die Raumgrenzen den Bereich abstecken, der spielerisch am interessantesten ist.",
+          "In dieser Version des Levels haben wir die ursprüngliche Idee mit den Säulen und Ecken aufgegeben.",
+          "Stattdessen geht es um Wände: Die Diebin kann einen Gegenstand nie so weit ziehen, dass er direkt an einer Wand steht,",
+          "und auch das macht die Sache so albern."
+        ],
+        "es": [
+          "Aquí está la forma en que revisé la idea de Jonah para convertirla en un nivel completamente distinto.",
+          "Es mucho más grande, un tamaño atípico para los primeros héroes, pero me gustó, así que lo dejé tal cual.",
+          "Mi objetivo era darle al jugador más práctica usando a la Ladrona e interiorizando cómo se mueve,",
+          "al mismo tiempo que hacíamos un nivel más fácil de entender...",
+          "había algo en la versión original que nunca dejó en mi cabeza ninguna conclusión útil.",
+          "Como este es un nivel de entrenamiento temprano, quería usar formas que se ven a menudo a lo largo del juego...",
+          "Las columnas de la versión de Jonah no son algo que se suela ver.",
+          "Así que aquí tenemos una serie de salas conectadas por pasillos.",
+          "La situación sigue siendo curiosa con el botón,",
+          "pero la enfatizamos poniendo a la Ladrona justo al lado del botón (lo más probable es que lo pise en su primer movimiento)",
+          "y colocando el cristal muy lejos. Es fácil caminar hasta el cristal,",
+          "pero no tan sencillo arrastrarlo de vuelta por las salas.",
+          "Las salas son un poco ridículas por la cantidad de desvíos necesarios",
+          "solo para llevar el cristal adonde quieres.",
+          "Este diseño soy yo divirtiéndome con los patrones de movimiento de la Ladrona;",
+          "pero también se podría decir que el mapa del nivel es una ilustración de los patrones de movimiento de la Ladrona,",
+          "en el sentido de que los bordes de las salas muestran el límite que maximiza el interés.",
+          "En esta versión del nivel, abandonamos la idea original sobre columnas y esquinas.",
+          "En cambio, trata sobre las paredes: la Ladrona nunca puede tirar de un objeto hasta una pared,",
+          "y eso forma parte de lo que hace que todo sea ridículo."
+        ],
+        "fr": [
+          "Voici comment j'ai repris l'idée de Jonah pour en faire un niveau complètement différent.",
+          "Il est beaucoup plus grand, une taille atypique pour les premiers héros, mais il me plaisait, alors je l'ai gardé ainsi.",
+          "Mon objectif était de donner au joueur plus d'entraînement avec la Voleuse pour mieux intégrer ses déplacements,",
+          "tout en créant un niveau dont le principe était plus facile à comprendre –",
+          "ce qui me chiffonnait dans la version originale, c'est que je n'en retenais jamais rien de marquant.",
+          "Comme il s'agit d'un des premiers niveaux d'entraînement, je voulais utiliser des formes qu'on voit souvent tout au long du jeu –",
+          "les colonnes de la version de Jonah ne sont pas vraiment quelque chose qu'on voit souvent.",
+          "Ici, nous avons donc une série de salles reliées par des couloirs.",
+          "Nous conservons la situation amusante avec le bouton,",
+          "mais nous l'accentuons en plaçant la Voleuse juste à côté du bouton (elle risque fort d'y marcher dès son premier déplacement),",
+          "et en mettant le cristal très loin. Il est facile d'aller jusqu'au cristal,",
+          "mais beaucoup moins simple de le traîner à travers les salles.",
+          "Les salles sont un peu absurdes par le nombre de détours nécessaires",
+          "pour amener le cristal là où on veut.",
+          "Je m'amuse ici avec les schémas de déplacement de la Voleuse ;",
+          "mais on pourrait aussi dire que la carte du niveau est une illustration des schémas de déplacement de la Voleuse,",
+          "en ce sens que les limites des salles montrent une contrainte qui maximise l'intérêt.",
+          "Dans cette version du niveau, nous avons abandonné l'idée originale des colonnes et des coins.",
+          "C'est plutôt une question de murs : la Voleuse ne peut jamais tirer un objet jusqu'à un mur,",
+          "et c'est en partie ce qui rend les choses amusantes."
+        ],
+        "it": [
+          "Ecco come ho revisionato l'idea di Jonah in un livello completamente diverso.",
+          "È molto più grande, una dimensione atipica per i primi eroi, ma mi piaceva e l'ho lasciato così.",
+          "Il mio obiettivo era far esercitare di più il giocatore nell'usare la ladra e nell'interiorizzare come si muove,",
+          "pur creando anche un livello più facile da capire...",
+          "c'era qualcosa nella versione originale che non mi ha mai lasciato in testa un vero insegnamento.",
+          "Dato che questo è un livello di addestramento iniziale, volevo usare forme che si vedono spesso nel gioco...",
+          "le colonne nella versione di Jonah non sono qualcosa che si veda molto.",
+          "Quindi, qui abbiamo una serie di stanze collegate da corridoi.",
+          "Manteniamo la situazione buffa con il pulsante,",
+          "ma lo sottolineiamo iniziando la ladra proprio accanto al pulsante (probabilmente ci salirà sopra come prima mossa),",
+          "e mettendo il cristallo lontano. È facile andare a piedi fino al cristallo,",
+          "ma non così semplice trascinarlo indietro attraverso le stanze.",
+          "Le stanze sono un po' ridicole per il numero di deviazioni richieste",
+          "solo per portare il cristallo dove vuoi.",
+          "Questo è il mio modo di divertirmi con gli schemi di movimento della ladra;",
+          "ma si potrebbe anche dire che la mappa del livello è un'illustrazione dei modelli di movimento della ladra,",
+          "nel senso che i bordi delle stanze mostrano il confine che massimizza l'interesse.",
+          "In questa versione del livello, abbiamo abbandonato l'idea originale di colonne e angoli.",
+          "Invece, riguarda i muri: la ladra non può mai tirare un oggetto fino a un muro,",
+          "e questo è parte di ciò che rende le cose assurde."
+        ],
+        "ja": [
+          "今度は、ジョナのアイデアを変更して 別のステージを作成した方法を見せよう。",
+          "かなり大きい。初期の英雄たちとしては 普通とは呼べないサイズだが、 気に入ったからそのまま残した。",
+          "目的は、盗賊の動かし方をもっと練習させ、 その動きを体に覚えてもらうことだった。",
+          "同時に、もっと観察しやすく、 理解しやすいステージにもしたかった。",
+          "オリジナル版には、どうしても 頭に引っかからないところがあったんだ。",
+          "これは初期のチュートリアル的な ステージなので、後半でも よく出てくる形を使いたかった。",
+          "ジョナのバージョンにある柱は、 後のゲームではあまり見かけない 型だったからね。",
+          "そこで、廊下でつながった部屋を いくつも用意した。",
+          "ボタンをめぐる不思議な仕掛けは残したが、",
+          "それをもっと強調するために、 盗賊を最初からボタンのすぐ横に置いた。 （彼女なら、最初の一手でそのまま ボタンの上に乗ってしまう可能性が高い）",
+          "その一方で、クリスタルは ずっと遠くに置いた。 クリスタルのところまで 歩いていくのは簡単でも、",
+          "それを部屋から部屋へ 引っ張っていくのはそう簡単じゃない。",
+          "クリスタルを目的の場所まで 運ぶだけなのに、",
+          "通らなければならない寄り道が やたら多い。その意味では、 少し混乱しそうな部屋構成になっている。",
+          "ここは自分が、盗賊の移動パターンで 遊んでいた部分だ。",
+          "でも、こののマップそのものが、 盗賊の移動パターンを 図解したものだとも言える。",
+          "部屋の境界が、興味深さを 最大限に引き出す境界になっているからだ。",
+          "もうオリジナル版の柱や 角のアイデアじゃないということ。",
+          "その代わり、壁が中心となる。 盗賊は決して、オブジェクトを壁まで運んで",
+          "登る事はできないので、 それがまた面白さを引き立てているんだ。"
+        ],
+        "ko": [
+          "그래서 나는 조나의 아이디어를 이런 식으로 수정해 완전히 다른 레벨로 만들었어.",
+          "훨씬 더 크지. 초기 영웅 치고는 이례적인 크기지만, 마음에 들어서 그대로 뒀어.",
+          "내 목표는 플레이어가 도둑을 더 많이 연습하고 움직임을 자연스럽게 익히는 동시에",
+          "요점을 더 이해하기 쉬운 레벨을 만드는 거였지.",
+          "원래 버전에는 어딘가 머릿속에 의미 있는 깨달음을 전혀 남기지 못하는 부분이 있었거든.",
+          "이건 초반 훈련 레벨이니까, 게임 전반에서 자주 접하게 될 형태를 사용하고 싶었어.",
+          "조나 버전의 기둥들은 게임에서 그다지 자주 보이는 게 아니니까.",
+          "그래서 여기서는 복도로 연결된 여러 개의 방을 만들었어.",
+          "버튼과 관련된 재미있는 상황은 그대로 유지하되,",
+          "도둑을 버튼 바로 옆에서 시작하게 해서 그 점을 더 강조했지. (첫 행동으로 버튼을 밟을 가능성이 높으니까.)",
+          "그리고 수정을 멀찍이 뒀어. 수정까지 걸어가는 건 쉽지만,",
+          "그걸 방들을 지나 다시 끌고 오는 건 그리 간단한 일이 아니야.",
+          "방의 구조는 좀 우스꽝스러울 정도야. 원하는 곳까지 수정을 가져가려면",
+          "쓸데없이 여러 번 우회해야 하거든.",
+          "이건 도둑의 이동 패턴으로 재미있게 변형해 본 거야.",
+          "하지만 이 레벨의 지도 자체가 도둑의 이동 패턴을 시각적으로 보여주는 예시라고도 할 수 있어.",
+          "방의 경계선이 가장 흥미로운 상황이 만들어지는 범위를 보여주거든.",
+          "이 버전의 레벨에서는 기둥과 모퉁이에 관한 원래 구상을 포기했어.",
+          "대신, 여기서는 성벽에 관한 거지. 도둑은 물체를 성벽 바로 앞까지 끌어당길 수 없고,",
+          "바로 그 점 때문에 재미있는 상황이 생겨."
+        ],
         "pt-br": [
           "Aqui está a forma como revisei a ideia de Jonah em um nível completamente diferente.",
           "Ele é muito maior, um tamanho atípico para os primeiros Heróis, mas eu gostei dele, então mantive assim.",
@@ -324,6 +825,72 @@
           "Nesta versão do nível, abandonamos a ideia original das colunas e dos cantos.",
           "Em vez disso, é sobre paredes: a Ladra nunca consegue puxar um objeto até uma parede,",
           "e isso faz parte do que torna as coisas bobas."
+        ],
+        "ru": [
+          "Вот так я переработал идею Йоны в совершенно другой уровень.",
+          "Он намного больше, нетипичный размер для ранних Героев, но мне он понравился, так что я оставил всё как есть.",
+          "Моей целью было дать игроку больше поиграть с Воровкой и лучше понять то, как она движется,",
+          "при этом сделав уровень с более понятной идеей —",
+          "в оригинальной версии было что-то такое, что так и не отпечаталось у меня в голове.",
+          "Поскольку это ранний обучающий уровень, я хотел использовать формы, которые часто встречаются по ходу игры —",
+          "колонны в версии Йоны — такие штуки вы видите не часто.",
+          "Так что здесь у нас серия комнат, соединённых коридорами.",
+          "Мы сохраняем забавную ситуацию с кнопкой,",
+          "но подчёркиваем её, поставив Воровку прямо рядом с кнопкой (она, скорее всего, наступит на неё своим первым ходом)",
+          "и разместив кристалл далеко. До кристалла дойти легко,",
+          "но уже не так просто тащить его обратно через комнаты.",
+          "Комнаты немного нелепы по количеству обходных путей, необходимых",
+          "просто чтобы доставить кристалл туда, куда нужно.",
+          "Мне просто весело играться с шаблонами движения Воровки;",
+          "но можно сказать и так, что карта уровня — это иллюстрация к схемам движения Воровки,",
+          "поскольку границы комнат показывают предел, который делает процесс интереснее всего.",
+          "В этой версии уровня мы отказались от первоначальной идеи с колоннами и углами.",
+          "Вместо этого речь идёт о стенах: Воровка никогда не сможет притянуть предмет вплотную к стене,",
+          "и отчасти именно это делает ситуацию такой нелепой."
+        ],
+        "s-cn": [
+          "这是我把乔纳的创意改成一道完全不同的关卡后的方案。",
+          "它大了很多，作为英雄世界的前期关卡而言很不寻常， 但我喜欢，所以就保留下来了。",
+          "我的目标是让玩家多练一练盗贼，把她的移动方式化成直觉，",
+          "同时也让玩家更容易看出这关的核心思路，",
+          "我玩完初版之后，始终说不清这关究竟教会了我什么。",
+          "因为这是前期训练关，我想采用游戏中经常出现的形状，",
+          "乔纳版本里的柱子，往后的关卡里其实很少见。",
+          "所以这一版改成了一连串由走廊相连的房间。",
+          "我们保留了按钮所造成的有趣局面，",
+          "不过，我们让盗贼开场就站在按钮旁， 以此加以强调（她的第一步很可能就是踩上去），",
+          "再把水晶放到远处。走到水晶那儿很容易，",
+          "难的是把它一路拖回去，穿过这些房间。",
+          "这些房间要绕的路多得有点离谱，",
+          "光是把水晶送到想要的位置，你就得兜好几个圈。",
+          "这个设计是我在拿盗贼的移动规律找乐子；",
+          "不过也可以说，关卡地图本身就是一幅盗贼移动规律的示意图，",
+          "房间边界恰好圈出了最有意思的活动范围。",
+          "这一版里，我们放弃了初版围绕柱子和转角展开的构思。",
+          "新的设计重点落到了墙上：盗贼永远无法把一个物体一路拉到墙边，",
+          "这也让局面变得有些滑稽。"
+        ],
+        "t-cn": [
+          "這是我把喬納的創意改成一道完全不同的關卡後的方案。",
+          "它大了很多，作為英雄世界的前期關卡而言很不尋常， 但我喜歡，所以就保留下來了。",
+          "我的目標是讓玩家多練一練盜賊，把她的移動方式化成直覺，",
+          "同時也讓玩家更容易看出這關的核心思路，",
+          "我玩完初版之後，始終說不清這關究竟教會了我什麼。",
+          "因為這是前期訓練關， 我想採用遊戲中經常出現的形狀，",
+          "喬納版本裡的柱子，往後的關卡裡其實很少見。",
+          "所以這一版改成了一連串由走廊相連的房間。",
+          "我們保留了按鈕所造成的有趣局面，",
+          "不過，我們讓盜賊開場就站在按鈕旁， 以此加以強調（她的第一步很可能就是踩上去），",
+          "再把水晶放到遠處。走到水晶那兒很容易，",
+          "難的是把它一路拖回去，穿過這些房間。",
+          "這些房間要繞的路多得有點離譜，",
+          "光是把水晶送到想要的位置，你就得兜好幾個圈。",
+          "這個設計是我在拿盜賊的移動規律找樂子；",
+          "不過也可以說， 關卡地圖本身就是一幅盜賊移動規律的示意圖，",
+          "房間邊界恰好圈出了最有意思的活動範圍。",
+          "這一版裡，我們放棄了初版圍繞柱子和轉角展開的構思。",
+          "新的設計重點落到了牆上： 盜賊永遠無法把一個物體一路拉到牆邊，",
+          "這也讓局面變得有些滑稽。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "So ... Borraidus told me who you really are."
             ],
+            "de": [
+              "Also ... Borraidus hat mir gesagt, wer du wirklich bist."
+            ],
+            "es": [
+              "Bueno... Borraidus me ha dicho quién eres en realidad."
+            ],
+            "fr": [
+              "Bon... Borraidus m'a dit qui tu es vraiment."
+            ],
+            "it": [
+              "Allora... Borraidus mi ha detto chi sei davvero."
+            ],
+            "ja": [
+              "ボライダスから聞いたよ…あんたの正体。"
+            ],
+            "ko": [
+              "그게... 보라이두스가 네 정체를 알려 줬어."
+            ],
             "pt-br": [
               "Então... Borraidus me contou quem você realmente é."
+            ],
+            "ru": [
+              "Так... Боррайдус рассказал мне, кто ты на самом деле."
+            ],
+            "s-cn": [
+              "所以……博莱达斯告诉我你的真实身份了。"
+            ],
+            "t-cn": [
+              "所以……博萊達斯告訴我你的真實身份了。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Did he? I doubt he knows the whole story."
             ],
+            "de": [
+              "Ach ja? Ich bezweifle, dass er die ganze Geschichte kennt."
+            ],
+            "es": [
+              "¿Sí? Dudo que conozca toda la historia."
+            ],
+            "fr": [
+              "Ah oui ? J'ai du mal à croire qu'il connaisse toute l'histoire."
+            ],
+            "it": [
+              "Davvero? Dubito che conosca tutta la storia."
+            ],
+            "ja": [
+              "へえ？でもアイツも全部は知らない。"
+            ],
+            "ko": [
+              "그랬어? 전부는 모를 걸."
+            ],
             "pt-br": [
               "Contou? Duvido que ele saiba a história toda."
+            ],
+            "ru": [
+              "Правда? Сомневаюсь, что он знает всю историю."
+            ],
+            "s-cn": [
+              "是吗？可他恐怕不知道完整的来龙去脉。"
+            ],
+            "t-cn": [
+              "是嗎？可他恐怕不知道完整的來龍去脈。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Want to help mend my ignorance?"
             ],
+            "de": [
+              "Willst mir nicht auf die Sprünge helfen?"
+            ],
+            "es": [
+              "¿Quieres ayudarme a remediar mi ignorancia?"
+            ],
+            "fr": [
+              "Tu veux bien m'aider à combler mon ignorance ?"
+            ],
+            "it": [
+              "Vuoi aiutarmi a colmare le mie lacune?"
+            ],
+            "ja": [
+              "なら教えてよ。"
+            ],
+            "ko": [
+              "내 무지를 깨우치는 데 힘 좀 보태 줄래?"
+            ],
             "pt-br": [
               "Quer me ajudar a sanar minha ignorância?"
+            ],
+            "ru": [
+              "Поможешь восполнить пробелы в моих знаниях?"
+            ],
+            "s-cn": [
+              "那你愿意帮我解解惑吗？"
+            ],
+            "t-cn": [
+              "那你願意幫我解解惑嗎？"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Not at this time."
             ],
+            "de": [
+              "Im Moment nicht."
+            ],
+            "es": [
+              "No en esta ocasión."
+            ],
+            "fr": [
+              "Pas pour le moment."
+            ],
+            "it": [
+              "Non in questo momento."
+            ],
+            "ja": [
+              "今は無理だ。"
+            ],
+            "ko": [
+              "지금은 안 돼."
+            ],
             "pt-br": [
               "Não, desta vez não."
+            ],
+            "ru": [
+              "Не сейчас."
+            ],
+            "s-cn": [
+              "现在还不行。"
+            ],
+            "t-cn": [
+              "現在還不行。"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "He told me to trust you anyway, regardless. For now."
             ],
+            "de": [
+              "Er hat mir gesagt, dass ich dir trotzdem vertrauen soll. Vorerst."
+            ],
+            "es": [
+              "Bueno, me dijo que me fiara de ti de todas formas, por ahora."
+            ],
+            "fr": [
+              "Eh bien, il m'a dit de te faire confiance quand même, pour l'instant."
+            ],
+            "it": [
+              "Mi ha detto di fidarmi di te comunque, per ora."
+            ],
+            "ja": [
+              "まあ、ひとまずアンタを信用しろと 言われたけど。"
+            ],
+            "ko": [
+              "뭐, 그래도 널 믿으라고 하더라. 일단은 말이야."
+            ],
             "pt-br": [
               "Ele me disse para confiar em você de qualquer jeito. Por enquanto."
+            ],
+            "ru": [
+              "Ну, он велел мне всё равно доверять тебе, по крайней мере пока."
+            ],
+            "s-cn": [
+              "不过他说，眼下我还是应该信任你。"
+            ],
+            "t-cn": [
+              "不過他說，眼下我還是應該信任你。"
             ]
           },
           "provenance": {
@@ -133,8 +277,35 @@
             "en": [
               "We have shared interests here."
             ],
+            "de": [
+              "Wir verfolgen hier dieselben Interessen."
+            ],
+            "es": [
+              "Aquí tenemos intereses en común."
+            ],
+            "fr": [
+              "Nous avons des intérêts communs ici."
+            ],
+            "it": [
+              "Qui abbiamo interessi in comune."
+            ],
+            "ja": [
+              "目的は一緒だからね。"
+            ],
+            "ko": [
+              "이 일에서 우린 이해관계가 같으니까."
+            ],
             "pt-br": [
               "Temos interesses em comum aqui."
+            ],
+            "ru": [
+              "У нас здесь общие интересы."
+            ],
+            "s-cn": [
+              "我们在这里目标一致。"
+            ],
+            "t-cn": [
+              "我們在這裡目標一致。"
             ]
           },
           "provenance": {
@@ -155,8 +326,35 @@
             "en": [
               "Is there something I should know about?"
             ],
+            "de": [
+              "Gibt es da etwas, das ich wissen sollte?"
+            ],
+            "es": [
+              "¿Hay algo... que debería saber?"
+            ],
+            "fr": [
+              "Y a-t-il quelque chose que je devrais savoir ?"
+            ],
+            "it": [
+              "C'è qualcosa che dovrei sapere?"
+            ],
+            "ja": [
+              "俺が知っておくべきことは あるか…？"
+            ],
+            "ko": [
+              "내가 알아야 할... 뭔가가 있어?"
+            ],
             "pt-br": [
               "Há alguma coisa que eu deva saber?"
+            ],
+            "ru": [
+              "Тут есть что-то, что мне следует знать?"
+            ],
+            "s-cn": [
+              "是不是有什么……我也该知道的事？"
+            ],
+            "t-cn": [
+              "是不是有什麼……我也該知道的事？"
             ]
           },
           "provenance": {
@@ -182,6 +380,60 @@
           "We have shared interests here.",
           "Is there something I should know about?"
         ],
+        "de": [
+          "Also ... Borraidus hat mir gesagt, wer du wirklich bist.",
+          "Ach ja? Ich bezweifle, dass er die ganze Geschichte kennt.",
+          "Willst mir nicht auf die Sprünge helfen?",
+          "Im Moment nicht.",
+          "Er hat mir gesagt, dass ich dir trotzdem vertrauen soll. Vorerst.",
+          "Wir verfolgen hier dieselben Interessen.",
+          "Gibt es da etwas, das ich wissen sollte?"
+        ],
+        "es": [
+          "Bueno... Borraidus me ha dicho quién eres en realidad.",
+          "¿Sí? Dudo que conozca toda la historia.",
+          "¿Quieres ayudarme a remediar mi ignorancia?",
+          "No en esta ocasión.",
+          "Bueno, me dijo que me fiara de ti de todas formas, por ahora.",
+          "Aquí tenemos intereses en común.",
+          "¿Hay algo... que debería saber?"
+        ],
+        "fr": [
+          "Bon... Borraidus m'a dit qui tu es vraiment.",
+          "Ah oui ? J'ai du mal à croire qu'il connaisse toute l'histoire.",
+          "Tu veux bien m'aider à combler mon ignorance ?",
+          "Pas pour le moment.",
+          "Eh bien, il m'a dit de te faire confiance quand même, pour l'instant.",
+          "Nous avons des intérêts communs ici.",
+          "Y a-t-il quelque chose que je devrais savoir ?"
+        ],
+        "it": [
+          "Allora... Borraidus mi ha detto chi sei davvero.",
+          "Davvero? Dubito che conosca tutta la storia.",
+          "Vuoi aiutarmi a colmare le mie lacune?",
+          "Non in questo momento.",
+          "Mi ha detto di fidarmi di te comunque, per ora.",
+          "Qui abbiamo interessi in comune.",
+          "C'è qualcosa che dovrei sapere?"
+        ],
+        "ja": [
+          "ボライダスから聞いたよ…あんたの正体。",
+          "へえ？でもアイツも全部は知らない。",
+          "なら教えてよ。",
+          "今は無理だ。",
+          "まあ、ひとまずアンタを信用しろと 言われたけど。",
+          "目的は一緒だからね。",
+          "俺が知っておくべきことは あるか…？"
+        ],
+        "ko": [
+          "그게... 보라이두스가 네 정체를 알려 줬어.",
+          "그랬어? 전부는 모를 걸.",
+          "내 무지를 깨우치는 데 힘 좀 보태 줄래?",
+          "지금은 안 돼.",
+          "뭐, 그래도 널 믿으라고 하더라. 일단은 말이야.",
+          "이 일에서 우린 이해관계가 같으니까.",
+          "내가 알아야 할... 뭔가가 있어?"
+        ],
         "pt-br": [
           "Então... Borraidus me contou quem você realmente é.",
           "Contou? Duvido que ele saiba a história toda.",
@@ -190,6 +442,33 @@
           "Ele me disse para confiar em você de qualquer jeito. Por enquanto.",
           "Temos interesses em comum aqui.",
           "Há alguma coisa que eu deva saber?"
+        ],
+        "ru": [
+          "Так... Боррайдус рассказал мне, кто ты на самом деле.",
+          "Правда? Сомневаюсь, что он знает всю историю.",
+          "Поможешь восполнить пробелы в моих знаниях?",
+          "Не сейчас.",
+          "Ну, он велел мне всё равно доверять тебе, по крайней мере пока.",
+          "У нас здесь общие интересы.",
+          "Тут есть что-то, что мне следует знать?"
+        ],
+        "s-cn": [
+          "所以……博莱达斯告诉我你的真实身份了。",
+          "是吗？可他恐怕不知道完整的来龙去脉。",
+          "那你愿意帮我解解惑吗？",
+          "现在还不行。",
+          "不过他说，眼下我还是应该信任你。",
+          "我们在这里目标一致。",
+          "是不是有什么……我也该知道的事？"
+        ],
+        "t-cn": [
+          "所以……博萊達斯告訴我你的真實身份了。",
+          "是嗎？可他恐怕不知道完整的來龍去脈。",
+          "那你願意幫我解解惑嗎？",
+          "現在還不行。",
+          "不過他說，眼下我還是應該信任你。",
+          "我們在這裡目標一致。",
+          "是不是有什麼……我也該知道的事？"
         ]
       },
       "silentCues": [],

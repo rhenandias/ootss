@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "So, what did Izzy say he was looking for?"
             ],
+            "de": [
+              "Also, wonach sucht Izzy noch mal?"
+            ],
+            "es": [
+              "Entonces, ¿qué dijo Izzy que estaba buscando?"
+            ],
+            "fr": [
+              "Alors, qu'est-ce qu'Izzy disait qu'il cherchait ?"
+            ],
+            "it": [
+              "Allora, che cosa stava cercando Izzy?"
+            ],
+            "ja": [
+              "イジーは何を探してるって？"
+            ],
+            "ko": [
+              "그래서, 이지가 찾는다고 했던 게 뭐였지?"
+            ],
             "pt-br": [
               "Então, o que o Izzy disse que estava procurando?"
+            ],
+            "ru": [
+              "Так что же Иззи сказал, что он ищет?"
+            ],
+            "s-cn": [
+              "话说，伊兹说他在找什么来着？"
+            ],
+            "t-cn": [
+              "話說，伊茲說他在找什麼來著？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Can't say I understood. He said, it's a place where the air, the open space, is not that big."
             ],
+            "de": [
+              "Ich kann nicht behaupten, dass ich es verstanden habe. Er hat gesagt, es sei ein Ort, an dem die Luft, der freie Raum, nicht besonders groß wäre."
+            ],
+            "es": [
+              "No lo acabé de entender muy bien. Dijo que es un lugar donde el aire, el espacio abierto, no es tan grande."
+            ],
+            "fr": [
+              "Je n'ai pas vraiment compris. Il a dit que c'est un endroit où l'air, l'espace ouvert, n'est pas si grand."
+            ],
+            "it": [
+              "Non posso dire di aver capito. Ha detto, che è un posto in cui l'aria, lo spazio aperto, non è così grande."
+            ],
+            "ja": [
+              "わからん。 空間がそれほど大きくない場所、 と言ってた。"
+            ],
+            "ko": [
+              "잘 이해한 건지 모르겠어. 공기랄까. 그러니까 열린 공간이 그렇게 크지 않은 곳이라고 했어."
+            ],
             "pt-br": [
               "Não posso dizer que entendi. Ele disse que é um lugar onde o ar, o espaço aberto, não é tão grande."
+            ],
+            "ru": [
+              "Не скажу, что я понял. Он сказал, это место, где воздух, открытое пространство, не такое большое."
+            ],
+            "s-cn": [
+              "我也没怎么听懂。他说，那地方的空间很小，没多少空旷的地方。"
+            ],
+            "t-cn": [
+              "我也沒怎麼聽懂。他說，那地方的空間很小， 沒多少空曠的地方。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Like a cave? Or a small room?"
             ],
+            "de": [
+              "Wie eine Höhle? Oder ein kleines Zimmer?"
+            ],
+            "es": [
+              "¿Como una cueva? ¿O una estancia pequeña?"
+            ],
+            "fr": [
+              "Comme une grotte ? Ou une petite pièce ?"
+            ],
+            "it": [
+              "Come una caverna? O una stanza piccola?"
+            ],
+            "ja": [
+              "小さな部屋とか？"
+            ],
+            "ko": [
+              "동굴이나 작은 방 같은 건가?"
+            ],
             "pt-br": [
               "Como uma caverna? Ou um cômodo pequeno?"
+            ],
+            "ru": [
+              "Как пещера? Или маленькая комната?"
+            ],
+            "s-cn": [
+              "像山洞那么大？还是一间小屋？"
+            ],
+            "t-cn": [
+              "像山洞那麼大？還是一間小屋？"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Like the whole of everything is akin to a small room. He said, it turns around to itself like a doughnut."
             ],
+            "de": [
+              "Als wäre alles zusammen nur ein kleines Zimmer. Er hat gesagt, es führt wie ein Donut zu sich selbst zurück."
+            ],
+            "es": [
+              "Como si todo el universo fuera una estancia pequeña. Dijo que gira sobre sí mismo como un dónut."
+            ],
+            "fr": [
+              "Comme si tout l'univers n'était qu'une petite pièce. Il a dit que l'univers se replie sur lui-même comme un donut."
+            ],
+            "it": [
+              "Come se tutto l'universo fosse una stanza piccola. Ha detto che gira su se stesso come una ciambella."
+            ],
+            "ja": [
+              "世界全体が小部屋みたいで ドーナツみたいに 元に戻るんだそうだ。"
+            ],
+            "ko": [
+              "세상 전체가 작은 방인 것 같은 곳이래. 도넛처럼 한 바퀴 돌아 이어진다고 했어."
+            ],
             "pt-br": [
               "Como se todo o universo fosse um cômodo pequeno. Ele disse que se volta sobre si mesmo como uma rosquinha."
+            ],
+            "ru": [
+              "Как будто всё целиком — это маленькая комната. Он сказал, что оно само на себя сворачивается, как пончик."
+            ],
+            "s-cn": [
+              "像是世上的一切都挤在一间小屋里。他说，那里像个甜甜圈， 绕着绕着就会回到原处。"
+            ],
+            "t-cn": [
+              "像是世上的一切都擠在一間小屋裡。 他說，那裡像個甜甜圈，繞著繞著就會回到原處。"
             ]
           },
           "provenance": {
@@ -111,8 +228,35 @@
             "en": [
               "I like doughnuts!"
             ],
+            "de": [
+              "Ich mag Donuts!"
+            ],
+            "es": [
+              "¡Me gustan los dónuts!"
+            ],
+            "fr": [
+              "J'aime les donuts !"
+            ],
+            "it": [
+              "Mi piacciono le ciambelle!"
+            ],
+            "ja": [
+              "ドーナツ好きだよ！"
+            ],
+            "ko": [
+              "난 도넛 좋아해!"
+            ],
             "pt-br": [
               "Eu gosto de rosquinhas!"
+            ],
+            "ru": [
+              "Я люблю пончики!"
+            ],
+            "s-cn": [
+              "我喜欢甜甜圈！"
+            ],
+            "t-cn": [
+              "我喜歡甜甜圈！"
             ]
           },
           "provenance": {
@@ -133,8 +277,35 @@
             "en": [
               "We all like doughnuts."
             ],
+            "de": [
+              "Wir alle mögen Donuts."
+            ],
+            "es": [
+              "A todos nos gustan los dónuts."
+            ],
+            "fr": [
+              "On aime tous les donuts."
+            ],
+            "it": [
+              "Piacciono a tutti le ciambelle."
+            ],
+            "ja": [
+              "俺たちみんな、な。"
+            ],
+            "ko": [
+              "도넛은 다들 좋아하지."
+            ],
             "pt-br": [
               "Todo mundo gosta de rosquinhas."
+            ],
+            "ru": [
+              "Мы все любим пончики."
+            ],
+            "s-cn": [
+              "谁不喜欢甜甜圈呢。"
+            ],
+            "t-cn": [
+              "誰不喜歡甜甜圈呢。"
             ]
           },
           "provenance": {
@@ -155,8 +326,35 @@
             "en": [
               "And I do quite well in curvy small rooms...! Even better if I've recently had a doughnut!"
             ],
+            "de": [
+              "Und in kleinen, krummen Zimmern komme ich prima klar ...! Erst recht, wenn ich gerade einen Donut gegessen habe!"
+            ],
+            "es": [
+              "¡Y se me dan muy bien las habitaciones pequeñas y curvas...! ¡Mejor aún si acabo de comerme un dónut!"
+            ],
+            "fr": [
+              "Et je me débrouille très bien dans les petites pièces incurvées... ! Encore mieux si je viens de manger un donut !"
+            ],
+            "it": [
+              "E me la cavo benissimo nelle stanzette curve...! Ancora meglio se ho appena mangiato una ciambella!"
+            ],
+            "ja": [
+              "曲がりくねった狭い部屋は得意なのよ…！ ドーナツを食べた後なら、もっとね！"
+            ],
+            "ko": [
+              "그리고 난 구불구불한 작은 방에서 꽤 잘한다고...! 얼마 전에 도넛을 먹었다면 더 잘하지!"
+            ],
             "pt-br": [
               "E eu me saio muito bem em salinhas curvas...! Melhor ainda se acabei de comer uma rosquinha!"
+            ],
+            "ru": [
+              "А в тесных округлых комнатах я отлично справляюсь...! Особенно если недавно съела пончик!"
+            ],
+            "s-cn": [
+              "而且在这种弯弯绕绕的小房间里，我特别得心应手……！ 要是刚吃过一个甜甜圈，那就更没得说啦！"
+            ],
+            "t-cn": [
+              "而且在這種彎彎繞繞的小房間裡，我特別得心應手……！ 要是剛吃過一個甜甜圈，那就更沒得說啦！"
             ]
           },
           "provenance": {
@@ -182,6 +380,60 @@
           "We all like doughnuts.",
           "And I do quite well in curvy small rooms...! Even better if I've recently had a doughnut!"
         ],
+        "de": [
+          "Also, wonach sucht Izzy noch mal?",
+          "Ich kann nicht behaupten, dass ich es verstanden habe. Er hat gesagt, es sei ein Ort, an dem die Luft, der freie Raum, nicht besonders groß wäre.",
+          "Wie eine Höhle? Oder ein kleines Zimmer?",
+          "Als wäre alles zusammen nur ein kleines Zimmer. Er hat gesagt, es führt wie ein Donut zu sich selbst zurück.",
+          "Ich mag Donuts!",
+          "Wir alle mögen Donuts.",
+          "Und in kleinen, krummen Zimmern komme ich prima klar ...! Erst recht, wenn ich gerade einen Donut gegessen habe!"
+        ],
+        "es": [
+          "Entonces, ¿qué dijo Izzy que estaba buscando?",
+          "No lo acabé de entender muy bien. Dijo que es un lugar donde el aire, el espacio abierto, no es tan grande.",
+          "¿Como una cueva? ¿O una estancia pequeña?",
+          "Como si todo el universo fuera una estancia pequeña. Dijo que gira sobre sí mismo como un dónut.",
+          "¡Me gustan los dónuts!",
+          "A todos nos gustan los dónuts.",
+          "¡Y se me dan muy bien las habitaciones pequeñas y curvas...! ¡Mejor aún si acabo de comerme un dónut!"
+        ],
+        "fr": [
+          "Alors, qu'est-ce qu'Izzy disait qu'il cherchait ?",
+          "Je n'ai pas vraiment compris. Il a dit que c'est un endroit où l'air, l'espace ouvert, n'est pas si grand.",
+          "Comme une grotte ? Ou une petite pièce ?",
+          "Comme si tout l'univers n'était qu'une petite pièce. Il a dit que l'univers se replie sur lui-même comme un donut.",
+          "J'aime les donuts !",
+          "On aime tous les donuts.",
+          "Et je me débrouille très bien dans les petites pièces incurvées... ! Encore mieux si je viens de manger un donut !"
+        ],
+        "it": [
+          "Allora, che cosa stava cercando Izzy?",
+          "Non posso dire di aver capito. Ha detto, che è un posto in cui l'aria, lo spazio aperto, non è così grande.",
+          "Come una caverna? O una stanza piccola?",
+          "Come se tutto l'universo fosse una stanza piccola. Ha detto che gira su se stesso come una ciambella.",
+          "Mi piacciono le ciambelle!",
+          "Piacciono a tutti le ciambelle.",
+          "E me la cavo benissimo nelle stanzette curve...! Ancora meglio se ho appena mangiato una ciambella!"
+        ],
+        "ja": [
+          "イジーは何を探してるって？",
+          "わからん。 空間がそれほど大きくない場所、 と言ってた。",
+          "小さな部屋とか？",
+          "世界全体が小部屋みたいで ドーナツみたいに 元に戻るんだそうだ。",
+          "ドーナツ好きだよ！",
+          "俺たちみんな、な。",
+          "曲がりくねった狭い部屋は得意なのよ…！ ドーナツを食べた後なら、もっとね！"
+        ],
+        "ko": [
+          "그래서, 이지가 찾는다고 했던 게 뭐였지?",
+          "잘 이해한 건지 모르겠어. 공기랄까. 그러니까 열린 공간이 그렇게 크지 않은 곳이라고 했어.",
+          "동굴이나 작은 방 같은 건가?",
+          "세상 전체가 작은 방인 것 같은 곳이래. 도넛처럼 한 바퀴 돌아 이어진다고 했어.",
+          "난 도넛 좋아해!",
+          "도넛은 다들 좋아하지.",
+          "그리고 난 구불구불한 작은 방에서 꽤 잘한다고...! 얼마 전에 도넛을 먹었다면 더 잘하지!"
+        ],
         "pt-br": [
           "Então, o que o Izzy disse que estava procurando?",
           "Não posso dizer que entendi. Ele disse que é um lugar onde o ar, o espaço aberto, não é tão grande.",
@@ -190,6 +442,33 @@
           "Eu gosto de rosquinhas!",
           "Todo mundo gosta de rosquinhas.",
           "E eu me saio muito bem em salinhas curvas...! Melhor ainda se acabei de comer uma rosquinha!"
+        ],
+        "ru": [
+          "Так что же Иззи сказал, что он ищет?",
+          "Не скажу, что я понял. Он сказал, это место, где воздух, открытое пространство, не такое большое.",
+          "Как пещера? Или маленькая комната?",
+          "Как будто всё целиком — это маленькая комната. Он сказал, что оно само на себя сворачивается, как пончик.",
+          "Я люблю пончики!",
+          "Мы все любим пончики.",
+          "А в тесных округлых комнатах я отлично справляюсь...! Особенно если недавно съела пончик!"
+        ],
+        "s-cn": [
+          "话说，伊兹说他在找什么来着？",
+          "我也没怎么听懂。他说，那地方的空间很小，没多少空旷的地方。",
+          "像山洞那么大？还是一间小屋？",
+          "像是世上的一切都挤在一间小屋里。他说，那里像个甜甜圈， 绕着绕着就会回到原处。",
+          "我喜欢甜甜圈！",
+          "谁不喜欢甜甜圈呢。",
+          "而且在这种弯弯绕绕的小房间里，我特别得心应手……！ 要是刚吃过一个甜甜圈，那就更没得说啦！"
+        ],
+        "t-cn": [
+          "話說，伊茲說他在找什麼來著？",
+          "我也沒怎麼聽懂。他說，那地方的空間很小， 沒多少空曠的地方。",
+          "像山洞那麼大？還是一間小屋？",
+          "像是世上的一切都擠在一間小屋裡。 他說，那裡像個甜甜圈，繞著繞著就會回到原處。",
+          "我喜歡甜甜圈！",
+          "誰不喜歡甜甜圈呢。",
+          "而且在這種彎彎繞繞的小房間裡，我特別得心應手……！ 要是剛吃過一個甜甜圈，那就更沒得說啦！"
         ]
       },
       "silentCues": [],

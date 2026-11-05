@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "He locked us up because you stole his case?"
             ],
+            "de": [
+              "Er hat uns eingesperrt, weil du sein Kästchen gestohlen hast?"
+            ],
+            "es": [
+              "¿Nos encerró porque le robaste el estuche?"
+            ],
+            "fr": [
+              "Il nous a enfermés parce que tu as volé sa malle ?"
+            ],
+            "it": [
+              "Ci ha rinchiusi perché hai rubato la sua valigetta?"
+            ],
+            "ja": [
+              "そのせいで俺たち捕まったのか？"
+            ],
+            "ko": [
+              "네가 그놈 상자를 훔쳐서 놈이 우릴 가뒀다고?"
+            ],
             "pt-br": [
               "Ele trancou a gente porque você roubou a maleta dele?"
+            ],
+            "ru": [
+              "Он запер нас из-за того, что ты украла его ранец?"
+            ],
+            "s-cn": [
+              "合着他把我们关起来，就因为你偷了他的箱子？"
+            ],
+            "t-cn": [
+              "合著他把我們關起來，就因為你偷了他的箱子？"
             ]
           },
           "provenance": {
@@ -46,9 +82,45 @@
               "At first I was disappointed. But then I realized,",
               "little notes tell you a lot about people, you know? Reading between the lines. So I took a little peek."
             ],
+            "de": [
+              "Erst war ich enttäuscht. Aber dann ist mir klar geworden,",
+              "kleine Notizen verraten viel über Menschen, wisst ihr? Man muss zwischen den Zeilen lesen. Also habe ich mal reingelinst."
+            ],
+            "es": [
+              "Al principio me decepcionó. Pero luego me di cuenta,",
+              "las notas dicen mucho de la gente, ¿sabes? Puedes leer entre líneas. Así que les eché un vistazo."
+            ],
+            "fr": [
+              "Au début, j'étais déçue. Mais ensuite, j'ai réalisé",
+              "que les écrits en disent long sur les gens, tu sais... surtout quand on lit entre les lignes. Alors j'ai jeté un coup d'œil."
+            ],
+            "it": [
+              "All'inizio è stata una delusione. Ma poi ho capito,",
+              "gli appunti rivelano molto delle persone, sai? Bisogna leggere tra le righe. Quindi ho dato una sbirciatina."
+            ],
+            "ja": [
+              "ヤツの本性を知るために 読んでみたの。",
+              "走り書きのメモにこそ 人となりが出るんだよ！"
+            ],
+            "ko": [
+              "처음엔 실망했어. 하지만 곧 깨달았지,",
+              "사소한 메모만 봐도 어떤 사람에 대해 많은 걸 알 수 있잖아? 행간을 읽는 거지. 그래서 살짝 들여다봤어."
+            ],
             "pt-br": [
               "De início fiquei decepcionado. Mas depois percebi,",
               "pequenas anotações dizem muito sobre as pessoas, sabe? Lendo nas entrelinhas. Então dei uma espiadinha."
+            ],
+            "ru": [
+              "Сначала меня это разочаровало. Но потом пришло понимание,",
+              "заметки много рассказывают о людях, знаешь? Читать между строк. Вот я и заглянула одним глазком."
+            ],
+            "s-cn": [
+              "起初我很失望。但随后我意识到，",
+              "小小几张笔记，最能看出一个人的底细。 你知道吗？字里行间，全是门道。 于是我就偷偷瞄了一眼。"
+            ],
+            "t-cn": [
+              "起初我很失望。但隨後我意識到，",
+              "小小几張筆記，最能看出一個人的底細。 你知道嗎？字裡行間，全是門道。於是我就偷偷瞄了一眼。"
             ]
           },
           "provenance": {
@@ -70,8 +142,35 @@
             "en": [
               "And?"
             ],
+            "de": [
+              "Und?"
+            ],
+            "es": [
+              "¿Y?"
+            ],
+            "fr": [
+              "Et ?"
+            ],
+            "it": [
+              "E...?"
+            ],
+            "ja": [
+              "で？"
+            ],
+            "ko": [
+              "그래서?"
+            ],
             "pt-br": [
               "E aí?"
+            ],
+            "ru": [
+              "И?"
+            ],
+            "s-cn": [
+              "然后呢？"
+            ],
+            "t-cn": [
+              "然後呢？"
             ]
           },
           "provenance": {
@@ -93,9 +192,45 @@
               "We should have never taken this job, or maybe we should have -- as we did -- because if we didn't,",
               "we wouldn't know what we know, which is, we have to stop him... as soon as possible."
             ],
+            "de": [
+              "Wir hätten diesen Auftrag nie annehmen dürfen, oder vielleicht doch – so wie wir es getan haben – denn sonst",
+              "wüssten wir nicht, was wir wissen, nämlich dass wir ihn aufhalten müssen ... so schnell wie möglich."
+            ],
+            "es": [
+              "No deberíamos haber aceptado nunca este trabajo, o quizá sí deberíamos haberlo hecho... como hicimos... porque si no...",
+              "no sabríamos lo que sabemos, que es que tenemos que detenerlo... lo antes posible."
+            ],
+            "fr": [
+              "On n'aurait jamais dû accepter ce boulot... ou peut-être que si, comme on l'a fait, parce que si on avait refusé,",
+              "on n'aurait jamais su ce qu'on sait maintenant, à savoir qu'on doit l'arrêter... le plus vite possible."
+            ],
+            "it": [
+              "Non avremmo mai dovuto accettare questo lavoro, o forse avremmo dovuto... come abbiamo fatto... perché se non l'avessimo fatto,",
+              "non sapremmo quello che sappiamo, ovvero che dobbiamo fermarlo... il prima possibile."
+            ],
+            "ja": [
+              "この仕事を請けるべきじゃなかった。 でも請けなければ――",
+              "ヤツは止めるべきだって わからなかった。"
+            ],
+            "ko": [
+              "우린 이 일을 맡지 말았어야 했어. 아니, 맡길 잘했을지도 몰라... 안 그랬더라면",
+              "지금 우리가 아는 사실을 몰랐을 테니까. 놈을 막아야 한다는 거 말이야... 최대한 빨리."
+            ],
             "pt-br": [
               "Nunca deveríamos ter aceitado esse serviço, ou talvez devêssemos ter — como fizemos — porque, se não tivéssemos,",
               "não saberíamos o que sabemos, que é: temos que impedir ele... o mais rápido possível."
+            ],
+            "ru": [
+              "Нам вообще не следовало брать этот заказ, или, может, следовало — как мы и сделали — потому что если бы нет,",
+              "мы бы не узнали того, что знаем сейчас, а именно — что мы должны его остановить... как можно скорее."
+            ],
+            "s-cn": [
+              "这份活儿我们本来就不该接，可或许又该接…… 毕竟接都接了……因为要是没接的话，",
+              "我们就不会知道这些事，也不会知道我们必须阻止他…… 而且要尽快。"
+            ],
+            "t-cn": [
+              "這份活兒我們本來就不該接，可或許又該接…… 畢竟接都接了……因為要是沒接的話，",
+              "我們就不會知道這些事， 也不會知道我們必須阻止他……而且要儘快。"
             ]
           },
           "provenance": {
@@ -121,6 +256,54 @@
           "We should have never taken this job, or maybe we should have -- as we did -- because if we didn't,",
           "we wouldn't know what we know, which is, we have to stop him... as soon as possible."
         ],
+        "de": [
+          "Er hat uns eingesperrt, weil du sein Kästchen gestohlen hast?",
+          "Erst war ich enttäuscht. Aber dann ist mir klar geworden,",
+          "kleine Notizen verraten viel über Menschen, wisst ihr? Man muss zwischen den Zeilen lesen. Also habe ich mal reingelinst.",
+          "Und?",
+          "Wir hätten diesen Auftrag nie annehmen dürfen, oder vielleicht doch – so wie wir es getan haben – denn sonst",
+          "wüssten wir nicht, was wir wissen, nämlich dass wir ihn aufhalten müssen ... so schnell wie möglich."
+        ],
+        "es": [
+          "¿Nos encerró porque le robaste el estuche?",
+          "Al principio me decepcionó. Pero luego me di cuenta,",
+          "las notas dicen mucho de la gente, ¿sabes? Puedes leer entre líneas. Así que les eché un vistazo.",
+          "¿Y?",
+          "No deberíamos haber aceptado nunca este trabajo, o quizá sí deberíamos haberlo hecho... como hicimos... porque si no...",
+          "no sabríamos lo que sabemos, que es que tenemos que detenerlo... lo antes posible."
+        ],
+        "fr": [
+          "Il nous a enfermés parce que tu as volé sa malle ?",
+          "Au début, j'étais déçue. Mais ensuite, j'ai réalisé",
+          "que les écrits en disent long sur les gens, tu sais... surtout quand on lit entre les lignes. Alors j'ai jeté un coup d'œil.",
+          "Et ?",
+          "On n'aurait jamais dû accepter ce boulot... ou peut-être que si, comme on l'a fait, parce que si on avait refusé,",
+          "on n'aurait jamais su ce qu'on sait maintenant, à savoir qu'on doit l'arrêter... le plus vite possible."
+        ],
+        "it": [
+          "Ci ha rinchiusi perché hai rubato la sua valigetta?",
+          "All'inizio è stata una delusione. Ma poi ho capito,",
+          "gli appunti rivelano molto delle persone, sai? Bisogna leggere tra le righe. Quindi ho dato una sbirciatina.",
+          "E...?",
+          "Non avremmo mai dovuto accettare questo lavoro, o forse avremmo dovuto... come abbiamo fatto... perché se non l'avessimo fatto,",
+          "non sapremmo quello che sappiamo, ovvero che dobbiamo fermarlo... il prima possibile."
+        ],
+        "ja": [
+          "そのせいで俺たち捕まったのか？",
+          "ヤツの本性を知るために 読んでみたの。",
+          "走り書きのメモにこそ 人となりが出るんだよ！",
+          "で？",
+          "この仕事を請けるべきじゃなかった。 でも請けなければ――",
+          "ヤツは止めるべきだって わからなかった。"
+        ],
+        "ko": [
+          "네가 그놈 상자를 훔쳐서 놈이 우릴 가뒀다고?",
+          "처음엔 실망했어. 하지만 곧 깨달았지,",
+          "사소한 메모만 봐도 어떤 사람에 대해 많은 걸 알 수 있잖아? 행간을 읽는 거지. 그래서 살짝 들여다봤어.",
+          "그래서?",
+          "우린 이 일을 맡지 말았어야 했어. 아니, 맡길 잘했을지도 몰라... 안 그랬더라면",
+          "지금 우리가 아는 사실을 몰랐을 테니까. 놈을 막아야 한다는 거 말이야... 최대한 빨리."
+        ],
         "pt-br": [
           "Ele trancou a gente porque você roubou a maleta dele?",
           "De início fiquei decepcionado. Mas depois percebi,",
@@ -128,6 +311,30 @@
           "E aí?",
           "Nunca deveríamos ter aceitado esse serviço, ou talvez devêssemos ter — como fizemos — porque, se não tivéssemos,",
           "não saberíamos o que sabemos, que é: temos que impedir ele... o mais rápido possível."
+        ],
+        "ru": [
+          "Он запер нас из-за того, что ты украла его ранец?",
+          "Сначала меня это разочаровало. Но потом пришло понимание,",
+          "заметки много рассказывают о людях, знаешь? Читать между строк. Вот я и заглянула одним глазком.",
+          "И?",
+          "Нам вообще не следовало брать этот заказ, или, может, следовало — как мы и сделали — потому что если бы нет,",
+          "мы бы не узнали того, что знаем сейчас, а именно — что мы должны его остановить... как можно скорее."
+        ],
+        "s-cn": [
+          "合着他把我们关起来，就因为你偷了他的箱子？",
+          "起初我很失望。但随后我意识到，",
+          "小小几张笔记，最能看出一个人的底细。 你知道吗？字里行间，全是门道。 于是我就偷偷瞄了一眼。",
+          "然后呢？",
+          "这份活儿我们本来就不该接，可或许又该接…… 毕竟接都接了……因为要是没接的话，",
+          "我们就不会知道这些事，也不会知道我们必须阻止他…… 而且要尽快。"
+        ],
+        "t-cn": [
+          "合著他把我們關起來，就因為你偷了他的箱子？",
+          "起初我很失望。但隨後我意識到，",
+          "小小几張筆記，最能看出一個人的底細。 你知道嗎？字裡行間，全是門道。於是我就偷偷瞄了一眼。",
+          "然後呢？",
+          "這份活兒我們本來就不該接，可或許又該接…… 畢竟接都接了……因為要是沒接的話，",
+          "我們就不會知道這些事， 也不會知道我們必須阻止他……而且要儘快。"
         ]
       },
       "silentCues": [],
@@ -166,8 +373,35 @@
             "en": [
               "Stop him, from what?"
             ],
+            "de": [
+              "Ihn aufhalten? Wobei?"
+            ],
+            "es": [
+              "¿Impedirle qué?"
+            ],
+            "fr": [
+              "L'arrêter, de faire quoi ?"
+            ],
+            "it": [
+              "Fermarlo, da cosa?"
+            ],
+            "ja": [
+              "何から？"
+            ],
+            "ko": [
+              "그를 막는다고, 무엇으로부터?"
+            ],
             "pt-br": [
               "Impedir ele de quê?"
+            ],
+            "ru": [
+              "Остановить его? Но от чего?"
+            ],
+            "s-cn": [
+              "阻止他做什么？"
+            ],
+            "t-cn": [
+              "阻止他做什麼？"
             ]
           },
           "provenance": {
@@ -188,8 +422,35 @@
             "en": [
               "These crystals. We need to talk about ... how they're made."
             ],
+            "de": [
+              "Diese Kristalle. Wir müssen darüber reden ... wie sie hergestellt werden."
+            ],
+            "es": [
+              "Tenemos que hablar sobre estos cristales... sobre cómo se fabrican."
+            ],
+            "fr": [
+              "Il faut qu'on parle de ces cristaux... de la façon dont ils sont fabriqués."
+            ],
+            "it": [
+              "Dobbiamo parlare di questi cristalli... di come vengono fatti."
+            ],
+            "ja": [
+              "まずはクリスタルをどうにかしよう。"
+            ],
+            "ko": [
+              "이 수정들 얘기 좀 해야겠어... 어떻게 만들어지는지."
+            ],
             "pt-br": [
               "Esses cristais. Precisamos conversar sobre... como são feitos."
+            ],
+            "ru": [
+              "Эти кристаллы. Нам нужно поговорить о том... как их делают."
+            ],
+            "s-cn": [
+              "我们得谈谈……这些水晶是怎么造出来的。"
+            ],
+            "t-cn": [
+              "我們得談談……這些水晶是怎麼造出來的。"
             ]
           },
           "provenance": {
@@ -210,9 +471,45 @@
           "Stop him, from what?",
           "These crystals. We need to talk about ... how they're made."
         ],
+        "de": [
+          "Ihn aufhalten? Wobei?",
+          "Diese Kristalle. Wir müssen darüber reden ... wie sie hergestellt werden."
+        ],
+        "es": [
+          "¿Impedirle qué?",
+          "Tenemos que hablar sobre estos cristales... sobre cómo se fabrican."
+        ],
+        "fr": [
+          "L'arrêter, de faire quoi ?",
+          "Il faut qu'on parle de ces cristaux... de la façon dont ils sont fabriqués."
+        ],
+        "it": [
+          "Fermarlo, da cosa?",
+          "Dobbiamo parlare di questi cristalli... di come vengono fatti."
+        ],
+        "ja": [
+          "何から？",
+          "まずはクリスタルをどうにかしよう。"
+        ],
+        "ko": [
+          "그를 막는다고, 무엇으로부터?",
+          "이 수정들 얘기 좀 해야겠어... 어떻게 만들어지는지."
+        ],
         "pt-br": [
           "Impedir ele de quê?",
           "Esses cristais. Precisamos conversar sobre... como são feitos."
+        ],
+        "ru": [
+          "Остановить его? Но от чего?",
+          "Эти кристаллы. Нам нужно поговорить о том... как их делают."
+        ],
+        "s-cn": [
+          "阻止他做什么？",
+          "我们得谈谈……这些水晶是怎么造出来的。"
+        ],
+        "t-cn": [
+          "阻止他做什麼？",
+          "我們得談談……這些水晶是怎麼造出來的。"
         ]
       },
       "silentCues": [],

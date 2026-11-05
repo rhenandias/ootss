@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Beamcasters! I've got this; it's my home turf."
             ],
+            "de": [
+              "Strahlenwerfer! Das übernehm ich, hier bin ich in meinem Revier."
+            ],
+            "es": [
+              "¡Proyectores de haces! Yo me encargo; este es mi territorio."
+            ],
+            "fr": [
+              "Des projecteurs ! Je m'en charge ; c'est ma spécialité."
+            ],
+            "it": [
+              "Lanciaraggi! Ce la faccio: è il mio campo."
+            ],
+            "ja": [
+              "ビーム放射器！ これは俺の得意分野だ。"
+            ],
+            "ko": [
+              "빔캐스터잖아! 내가 해볼게. 이건 내 전문이거든."
+            ],
             "pt-br": [
               "Lança-feixes! Eu dou conta; esse é meu território."
+            ],
+            "ru": [
+              "Лучеметы! Я справлюсь; это моя стихия."
+            ],
+            "s-cn": [
+              "光束发射器！这关交给我，这可是我的主场。"
+            ],
+            "t-cn": [
+              "光束發射器！這關交給我，這可是我的主場。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "You sure? Looks like my home turf."
             ],
+            "de": [
+              "Bist du sicher? Sieht eher nach meinem Revier aus."
+            ],
+            "es": [
+              "¿Seguro? Parece mi territorio."
+            ],
+            "fr": [
+              "Vous êtes sûr ? On dirait plutôt ma spécialité."
+            ],
+            "it": [
+              "Sicuro? Sembra più il mio."
+            ],
+            "ja": [
+              "本当か？ 俺の得意分野にも見えるぞ。"
+            ],
+            "ko": [
+              "확실해? 내 전문 같은데."
+            ],
             "pt-br": [
               "Tem certeza? Parece meu território."
+            ],
+            "ru": [
+              "Уверен? Похоже, это моя стихия."
+            ],
+            "s-cn": [
+              "你确定？看着更像我的主场。"
+            ],
+            "t-cn": [
+              "你確定？看著更像我的主場。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "We'll see, won't we."
             ],
+            "de": [
+              "Das werden wir ja sehen."
+            ],
+            "es": [
+              "Ya veremos, ¿no?"
+            ],
+            "fr": [
+              "On verra bien."
+            ],
+            "it": [
+              "Vedremo, no?"
+            ],
+            "ja": [
+              "どうだろうな。"
+            ],
+            "ko": [
+              "그럼 어디 두고 보자고."
+            ],
             "pt-br": [
               "Veremos, não é?"
+            ],
+            "ru": [
+              "Проверим, не так ли."
+            ],
+            "s-cn": [
+              "那就走着瞧。"
+            ],
+            "t-cn": [
+              "那就走著瞧。"
             ]
           },
           "provenance": {
@@ -90,10 +180,55 @@
           "You sure? Looks like my home turf.",
           "We'll see, won't we."
         ],
+        "de": [
+          "Strahlenwerfer! Das übernehm ich, hier bin ich in meinem Revier.",
+          "Bist du sicher? Sieht eher nach meinem Revier aus.",
+          "Das werden wir ja sehen."
+        ],
+        "es": [
+          "¡Proyectores de haces! Yo me encargo; este es mi territorio.",
+          "¿Seguro? Parece mi territorio.",
+          "Ya veremos, ¿no?"
+        ],
+        "fr": [
+          "Des projecteurs ! Je m'en charge ; c'est ma spécialité.",
+          "Vous êtes sûr ? On dirait plutôt ma spécialité.",
+          "On verra bien."
+        ],
+        "it": [
+          "Lanciaraggi! Ce la faccio: è il mio campo.",
+          "Sicuro? Sembra più il mio.",
+          "Vedremo, no?"
+        ],
+        "ja": [
+          "ビーム放射器！ これは俺の得意分野だ。",
+          "本当か？ 俺の得意分野にも見えるぞ。",
+          "どうだろうな。"
+        ],
+        "ko": [
+          "빔캐스터잖아! 내가 해볼게. 이건 내 전문이거든.",
+          "확실해? 내 전문 같은데.",
+          "그럼 어디 두고 보자고."
+        ],
         "pt-br": [
           "Lança-feixes! Eu dou conta; esse é meu território.",
           "Tem certeza? Parece meu território.",
           "Veremos, não é?"
+        ],
+        "ru": [
+          "Лучеметы! Я справлюсь; это моя стихия.",
+          "Уверен? Похоже, это моя стихия.",
+          "Проверим, не так ли."
+        ],
+        "s-cn": [
+          "光束发射器！这关交给我，这可是我的主场。",
+          "你确定？看着更像我的主场。",
+          "那就走着瞧。"
+        ],
+        "t-cn": [
+          "光束發射器！這關交給我，這可是我的主場。",
+          "你確定？看著更像我的主場。",
+          "那就走著瞧。"
         ]
       },
       "silentCues": [],
@@ -132,8 +267,35 @@
             "en": [
               "I wish that Druid were here; he could help with these Goblins."
             ],
+            "de": [
+              "Wenn doch nur der Druide hier wäre. Er könnte uns gegen diese Goblins helfen."
+            ],
+            "es": [
+              "Ojalá el Druida estuviera aquí; podría ayudar a ocuparse de estos goblins."
+            ],
+            "fr": [
+              "J'aimerais que le druide soit là pour nous aider avec ces gobelins."
+            ],
+            "it": [
+              "Vorrei che il druido fosse qui; potrebbe aiutare a occuparsi di questi goblin."
+            ],
+            "ja": [
+              "ドルイドがいれば、 この怪物どもを 片づけてくれたのにな。"
+            ],
+            "ko": [
+              "드루이드가 여기 있었다면 저 고블린들을 처리하는 걸 도와줬을 텐데."
+            ],
             "pt-br": [
               "Queria que o Druida estivesse aqui; ele poderia ajudar a lidar com esses goblins."
+            ],
+            "ru": [
+              "Жаль, что Друида здесь нет, он бы помог расправиться с этими гоблинами."
+            ],
+            "s-cn": [
+              "要是德鲁伊也在就好了，他能帮忙收拾这些哥布林。"
+            ],
+            "t-cn": [
+              "要是德魯伊也在就好了，他能幫忙收拾這些哥布林。"
             ]
           },
           "provenance": {
@@ -154,8 +316,35 @@
             "en": [
               "Wait, who? How?"
             ],
+            "de": [
+              "Warte, wer? Und wie?"
+            ],
+            "es": [
+              "Espera, ¿quién? ¿Cómo?"
+            ],
+            "fr": [
+              "Attendez, qui ? Comment ?"
+            ],
+            "it": [
+              "Aspetta, chi? Come?"
+            ],
+            "ja": [
+              "誰だ？どうやって？"
+            ],
+            "ko": [
+              "잠깐, 누구 말이야? 어떻게 한다는 건데?"
+            ],
             "pt-br": [
               "Espera, quem? Como?"
+            ],
+            "ru": [
+              "Подожди, кто? Как?"
+            ],
+            "s-cn": [
+              "等等，谁？怎么收拾？"
+            ],
+            "t-cn": [
+              "等等，誰？怎麼收拾？"
             ]
           },
           "provenance": {
@@ -176,8 +365,35 @@
             "en": [
               "Oh, you haven't met him yet?"
             ],
+            "de": [
+              "Ach, du hast ihn noch nicht kennengelernt?"
+            ],
+            "es": [
+              "Ah, ¿todavía no lo has conocido?"
+            ],
+            "fr": [
+              "Oh, vous ne l'avez pas encore rencontré ?"
+            ],
+            "it": [
+              "Oh, non l'hai ancora incontrato?"
+            ],
+            "ja": [
+              "ああ、まだ会ってないのか？"
+            ],
+            "ko": [
+              "아, 아직 못 만났어?"
+            ],
             "pt-br": [
               "Ah, vocês ainda não o conheceram?"
+            ],
+            "ru": [
+              "О, ты с ним ещё не встречался?"
+            ],
+            "s-cn": [
+              "哦，你还没见过他？"
+            ],
+            "t-cn": [
+              "哦，你還沒見過他？"
             ]
           },
           "provenance": {
@@ -198,8 +414,35 @@
             "en": [
               "I'm not sure. What's he look like?"
             ],
+            "de": [
+              "Weiß nicht. Wie sieht er denn aus?"
+            ],
+            "es": [
+              "No lo tengo claro. ¿Cómo es?"
+            ],
+            "fr": [
+              "Je ne sais pas. Il ressemble à quoi ?"
+            ],
+            "it": [
+              "Non ne sono sicuro. Com'è fatto?"
+            ],
+            "ja": [
+              "分からない。 見た目は？"
+            ],
+            "ko": [
+              "잘 모르겠어. 생김새가 어때?"
+            ],
             "pt-br": [
               "Não tenho certeza. Como ele é?"
+            ],
+            "ru": [
+              "Не уверен. Как он выглядит?"
+            ],
+            "s-cn": [
+              "不确定。他长什么样？"
+            ],
+            "t-cn": [
+              "不確定。他長什麼樣？"
             ]
           },
           "provenance": {
@@ -220,8 +463,35 @@
             "en": [
               "Surly guy."
             ],
+            "de": [
+              "Mürrischer Kerl."
+            ],
+            "es": [
+              "Un tipo hosco."
+            ],
+            "fr": [
+              "Un type bourru."
+            ],
+            "it": [
+              "Tipo burbero."
+            ],
+            "ja": [
+              "無愛想なヤツ。"
+            ],
+            "ko": [
+              "심술궂게 생겼어."
+            ],
             "pt-br": [
               "Cara rabugento."
+            ],
+            "ru": [
+              "Мрачный тип."
+            ],
+            "s-cn": [
+              "脾气很臭的家伙。"
+            ],
+            "t-cn": [
+              "脾氣很臭的傢伙。"
             ]
           },
           "provenance": {
@@ -242,8 +512,35 @@
             "en": [
               "I've met a lot of surly guys."
             ],
+            "de": [
+              "Ich hab schon viele mürrische Kerle getroffen."
+            ],
+            "es": [
+              "He conocido a muchos tipos hoscos."
+            ],
+            "fr": [
+              "J'en ai rencontré beaucoup, des types bourrus."
+            ],
+            "it": [
+              "Ho incontrato un sacco di tipi burberi."
+            ],
+            "ja": [
+              "無愛想なヤツなら 大勢会ったぞ。"
+            ],
+            "ko": [
+              "심술궂은 친구들은 많이 만나봤지."
+            ],
             "pt-br": [
               "Já conheci muitos caras rabugentos."
+            ],
+            "ru": [
+              "Я встречал немало мрачных типов."
+            ],
+            "s-cn": [
+              "脾气臭的家伙，我见多了。"
+            ],
+            "t-cn": [
+              "脾氣臭的傢伙，我見多了。"
             ]
           },
           "provenance": {
@@ -264,8 +561,35 @@
             "en": [
               "Yeah, you know, me too."
             ],
+            "de": [
+              "Ja, weißt du was? Ich auch."
+            ],
+            "es": [
+              "Sí, ya, yo también."
+            ],
+            "fr": [
+              "Ouais, en vrai, moi aussi."
+            ],
+            "it": [
+              "Sì, sai, anch'io."
+            ],
+            "ja": [
+              "ああ、俺もだ。"
+            ],
+            "ko": [
+              "그러게. 나도 그런 것 같아."
+            ],
             "pt-br": [
               "É, sabe, eu também."
+            ],
+            "ru": [
+              "Да, знаешь, я тоже."
+            ],
+            "s-cn": [
+              "嗯，这么一说，我也是。"
+            ],
+            "t-cn": [
+              "嗯，這麼一說，我也是。"
             ]
           },
           "provenance": {
@@ -291,6 +615,60 @@
           "I've met a lot of surly guys.",
           "Yeah, you know, me too."
         ],
+        "de": [
+          "Wenn doch nur der Druide hier wäre. Er könnte uns gegen diese Goblins helfen.",
+          "Warte, wer? Und wie?",
+          "Ach, du hast ihn noch nicht kennengelernt?",
+          "Weiß nicht. Wie sieht er denn aus?",
+          "Mürrischer Kerl.",
+          "Ich hab schon viele mürrische Kerle getroffen.",
+          "Ja, weißt du was? Ich auch."
+        ],
+        "es": [
+          "Ojalá el Druida estuviera aquí; podría ayudar a ocuparse de estos goblins.",
+          "Espera, ¿quién? ¿Cómo?",
+          "Ah, ¿todavía no lo has conocido?",
+          "No lo tengo claro. ¿Cómo es?",
+          "Un tipo hosco.",
+          "He conocido a muchos tipos hoscos.",
+          "Sí, ya, yo también."
+        ],
+        "fr": [
+          "J'aimerais que le druide soit là pour nous aider avec ces gobelins.",
+          "Attendez, qui ? Comment ?",
+          "Oh, vous ne l'avez pas encore rencontré ?",
+          "Je ne sais pas. Il ressemble à quoi ?",
+          "Un type bourru.",
+          "J'en ai rencontré beaucoup, des types bourrus.",
+          "Ouais, en vrai, moi aussi."
+        ],
+        "it": [
+          "Vorrei che il druido fosse qui; potrebbe aiutare a occuparsi di questi goblin.",
+          "Aspetta, chi? Come?",
+          "Oh, non l'hai ancora incontrato?",
+          "Non ne sono sicuro. Com'è fatto?",
+          "Tipo burbero.",
+          "Ho incontrato un sacco di tipi burberi.",
+          "Sì, sai, anch'io."
+        ],
+        "ja": [
+          "ドルイドがいれば、 この怪物どもを 片づけてくれたのにな。",
+          "誰だ？どうやって？",
+          "ああ、まだ会ってないのか？",
+          "分からない。 見た目は？",
+          "無愛想なヤツ。",
+          "無愛想なヤツなら 大勢会ったぞ。",
+          "ああ、俺もだ。"
+        ],
+        "ko": [
+          "드루이드가 여기 있었다면 저 고블린들을 처리하는 걸 도와줬을 텐데.",
+          "잠깐, 누구 말이야? 어떻게 한다는 건데?",
+          "아, 아직 못 만났어?",
+          "잘 모르겠어. 생김새가 어때?",
+          "심술궂게 생겼어.",
+          "심술궂은 친구들은 많이 만나봤지.",
+          "그러게. 나도 그런 것 같아."
+        ],
         "pt-br": [
           "Queria que o Druida estivesse aqui; ele poderia ajudar a lidar com esses goblins.",
           "Espera, quem? Como?",
@@ -299,6 +677,33 @@
           "Cara rabugento.",
           "Já conheci muitos caras rabugentos.",
           "É, sabe, eu também."
+        ],
+        "ru": [
+          "Жаль, что Друида здесь нет, он бы помог расправиться с этими гоблинами.",
+          "Подожди, кто? Как?",
+          "О, ты с ним ещё не встречался?",
+          "Не уверен. Как он выглядит?",
+          "Мрачный тип.",
+          "Я встречал немало мрачных типов.",
+          "Да, знаешь, я тоже."
+        ],
+        "s-cn": [
+          "要是德鲁伊也在就好了，他能帮忙收拾这些哥布林。",
+          "等等，谁？怎么收拾？",
+          "哦，你还没见过他？",
+          "不确定。他长什么样？",
+          "脾气很臭的家伙。",
+          "脾气臭的家伙，我见多了。",
+          "嗯，这么一说，我也是。"
+        ],
+        "t-cn": [
+          "要是德魯伊也在就好了，他能幫忙收拾這些哥布林。",
+          "等等，誰？怎麼收拾？",
+          "哦，你還沒見過他？",
+          "不確定。他長什麼樣？",
+          "脾氣很臭的傢伙。",
+          "脾氣臭的傢伙，我見多了。",
+          "嗯，這麼一說，我也是。"
         ]
       },
       "silentCues": [],

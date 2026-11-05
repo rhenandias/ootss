@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -26,11 +35,65 @@
               "that hides itself away, cloaked in the guise of clumsiness.",
               "A background mind that creates misadventures just to steer us where it wants us."
             ],
+            "de": [
+              "Ich frage mich nur, ob hinter dem Geist noch ein anderer Geist steckt,",
+              "der unser Leben durch solche Missgeschicke in andere Bahnen lenkt, indem er Dramen heraufbeschwört, die wir vermeintlich nicht wollen;",
+              "der sich verborgen hält, getarnt als bloße Ungeschicklichkeit.",
+              "Ein Geist im Hintergrund, der Missgeschicke herbeiführt, nur um uns dorthin zu lenken, wo er uns haben will."
+            ],
+            "es": [
+              "Solo me pregunto si hay una mente detrás de la mente,",
+              "que se sirve de esas torpezas para reorientar nuestras vidas, añadiendo un drama que creemos no desear;",
+              "que permanece oculta, disfrazada de torpeza.",
+              "Una mente en segundo plano que provoca contratiempos solo para llevarnos adonde quiere que estemos."
+            ],
+            "fr": [
+              "Dans ces moments-là, je me demande s'il n'y a pas un esprit derrière l'esprit,",
+              "qui utilise ces bévues pour réorienter nos vies, en y introduisant des drames que nous pensons ne pas vouloir,",
+              "et se dissimule sous le masque de la maladresse.",
+              "Un esprit en arrière-plan qui provoque des mésaventures juste pour nous mettre là où il le veut."
+            ],
+            "it": [
+              "Mi chiedo solo se ci sia una mente dietro la mente,",
+              "che usa questi incidenti per deviare le nostre vite, introducendo drammi che crediamo di non volere;",
+              "che si nasconde, sotto le spoglie della goffaggine.",
+              "Una mente nascosta che crea disavventure solo per portarci dove vuole."
+            ],
+            "ja": [
+              "たまに考えるんじゃ。 ワシらとは別の頭脳が、",
+              "ワシらの望みとは 異なる目的を持つ何かが、",
+              "不器用さを装って、 姿を隠しておるのじゃ。",
+              "ワシらを導くために 厄介事を仕組んでるのではないか、と。"
+            ],
+            "ko": [
+              "난 그저 궁금해져, 마음 이면에 또 다른 마음이 있는 건 아닌지,",
+              "그런 실수로 우리 삶의 방향을 바꾸는 거야, 우리가 원치 않는다고 여기는 파란을 일으켜서;",
+              "그러면서 제 모습은 감추는 거지, 서투름이라는 탈을 쓰고.",
+              "우리를 원하는 곳에 두기 위해 이런 불운들을 만들어 내는 건 아닐까 하고."
+            ],
             "pt-br": [
               "Eu só me pergunto se existe uma mente por trás da mente,",
               "que usa esses deslizes para mudar o rumo de nossas vidas, inserindo um drama que achamos que não queremos;",
               "que se mantém oculta, disfarçada de falta de jeito.",
               "Uma mente nos bastidores que cria confusões só pra nos colocar onde quer."
+            ],
+            "ru": [
+              "Я просто задумываюсь, а вдруг есть какой-то разум за пределами разума,",
+              "который через такие промахи меняет ход нашей жизни, наполняя её драмой, на наш взгляд ненужной;",
+              "который прячется, прикрываясь нашей неловкостью.",
+              "Скрытый разум, который создаёт злоключения просто для того, чтобы поместить нас туда, куда ему нужно."
+            ],
+            "s-cn": [
+              "我在想：我们的意识背后，会不会还藏着另一个意识？",
+              "它借这些失手，给生活添上我们自以为不想经历的波折， 从而改变我们的人生走向；",
+              "它把自己藏起来，让我们以为只是自己笨手笨脚。",
+              "它潜藏在暗处，制造种种波折， 只为把我们引向它想让我们去的地方。"
+            ],
+            "t-cn": [
+              "我在想：我們的意識背後，會不會還藏著另一個意識？",
+              "它借這些失手，給生活添上我們自以為不想經歷的波折， 從而改變我們的人生走向；",
+              "它把自己藏起來，讓我們以為只是自己笨手笨腳。",
+              "它潛藏在暗處，製造種種波折， 只為把我們引向它想讓我們去的地方。"
             ]
           },
           "provenance": {
@@ -56,11 +119,65 @@
           "that hides itself away, cloaked in the guise of clumsiness.",
           "A background mind that creates misadventures just to steer us where it wants us."
         ],
+        "de": [
+          "Ich frage mich nur, ob hinter dem Geist noch ein anderer Geist steckt,",
+          "der unser Leben durch solche Missgeschicke in andere Bahnen lenkt, indem er Dramen heraufbeschwört, die wir vermeintlich nicht wollen;",
+          "der sich verborgen hält, getarnt als bloße Ungeschicklichkeit.",
+          "Ein Geist im Hintergrund, der Missgeschicke herbeiführt, nur um uns dorthin zu lenken, wo er uns haben will."
+        ],
+        "es": [
+          "Solo me pregunto si hay una mente detrás de la mente,",
+          "que se sirve de esas torpezas para reorientar nuestras vidas, añadiendo un drama que creemos no desear;",
+          "que permanece oculta, disfrazada de torpeza.",
+          "Una mente en segundo plano que provoca contratiempos solo para llevarnos adonde quiere que estemos."
+        ],
+        "fr": [
+          "Dans ces moments-là, je me demande s'il n'y a pas un esprit derrière l'esprit,",
+          "qui utilise ces bévues pour réorienter nos vies, en y introduisant des drames que nous pensons ne pas vouloir,",
+          "et se dissimule sous le masque de la maladresse.",
+          "Un esprit en arrière-plan qui provoque des mésaventures juste pour nous mettre là où il le veut."
+        ],
+        "it": [
+          "Mi chiedo solo se ci sia una mente dietro la mente,",
+          "che usa questi incidenti per deviare le nostre vite, introducendo drammi che crediamo di non volere;",
+          "che si nasconde, sotto le spoglie della goffaggine.",
+          "Una mente nascosta che crea disavventure solo per portarci dove vuole."
+        ],
+        "ja": [
+          "たまに考えるんじゃ。 ワシらとは別の頭脳が、",
+          "ワシらの望みとは 異なる目的を持つ何かが、",
+          "不器用さを装って、 姿を隠しておるのじゃ。",
+          "ワシらを導くために 厄介事を仕組んでるのではないか、と。"
+        ],
+        "ko": [
+          "난 그저 궁금해져, 마음 이면에 또 다른 마음이 있는 건 아닌지,",
+          "그런 실수로 우리 삶의 방향을 바꾸는 거야, 우리가 원치 않는다고 여기는 파란을 일으켜서;",
+          "그러면서 제 모습은 감추는 거지, 서투름이라는 탈을 쓰고.",
+          "우리를 원하는 곳에 두기 위해 이런 불운들을 만들어 내는 건 아닐까 하고."
+        ],
         "pt-br": [
           "Eu só me pergunto se existe uma mente por trás da mente,",
           "que usa esses deslizes para mudar o rumo de nossas vidas, inserindo um drama que achamos que não queremos;",
           "que se mantém oculta, disfarçada de falta de jeito.",
           "Uma mente nos bastidores que cria confusões só pra nos colocar onde quer."
+        ],
+        "ru": [
+          "Я просто задумываюсь, а вдруг есть какой-то разум за пределами разума,",
+          "который через такие промахи меняет ход нашей жизни, наполняя её драмой, на наш взгляд ненужной;",
+          "который прячется, прикрываясь нашей неловкостью.",
+          "Скрытый разум, который создаёт злоключения просто для того, чтобы поместить нас туда, куда ему нужно."
+        ],
+        "s-cn": [
+          "我在想：我们的意识背后，会不会还藏着另一个意识？",
+          "它借这些失手，给生活添上我们自以为不想经历的波折， 从而改变我们的人生走向；",
+          "它把自己藏起来，让我们以为只是自己笨手笨脚。",
+          "它潜藏在暗处，制造种种波折， 只为把我们引向它想让我们去的地方。"
+        ],
+        "t-cn": [
+          "我在想：我們的意識背後，會不會還藏著另一個意識？",
+          "它借這些失手，給生活添上我們自以為不想經歷的波折， 從而改變我們的人生走向；",
+          "它把自己藏起來，讓我們以為只是自己笨手笨腳。",
+          "它潛藏在暗處，製造種種波折， 只為把我們引向它想讓我們去的地方。"
         ]
       },
       "silentCues": [],

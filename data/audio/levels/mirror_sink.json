@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -29,6 +38,60 @@
               "a boy who had failed.",
               "Now a man nearing the end of his allotment, I felt relief as the confessions welled out."
             ],
+            "de": [
+              "Der Fremde hat mich nach meiner Geschichte gefragt. Ganz untypisch für mich ist alles aus mir herausgebrochen.",
+              "Mein Schifffahrtsimperium, das ich langsam aufgebaut habe, angefangen mit einer einzigen, bescheidenen Route,",
+              "die ich mit dem Gewinn finanziert habe, den mir mein kleiner Marktstand eingebracht hat,",
+              "den ich mit meinen zusammengesparten Pfennigen eröffnet habe, verdient in meiner Jugend mit Gelegenheitsarbeiten, mit allem, was sich angeboten hat,",
+              "dieses junge Leben, das ich aus den Trümmern zusammengefügt habe, nachdem die Spiegelwirker mich abgewiesen hatten ...",
+              "ein Junge, der versagt hat.",
+              "Nun, als Mann kurz vor dem Ende meiner zugemessenen Zeit, war ich erleichtert, als die Bekenntnisse aus mir hervorgequollen sind."
+            ],
+            "es": [
+              "El desconocido me preguntó por mi historia. Se lo conté todo, y eso es poco habitual en mí.",
+              "Mi imperio naviero, que había levantado poco a poco, a partir de una única y modesta ruta,",
+              "que había establecido invirtiendo los beneficios de mi humilde puesto del mercado,",
+              "que monté con las monedas que había ahorrado durante mi juventud haciendo trabajos sueltos, de lo que fuera,",
+              "esa juventud que había recompuesto con los restos del rechazo de los espejistas...",
+              "un chico que había fracasado.",
+              "Ahora, cerca del final de mi vida, sentí alivio al ver aflorar las confesiones."
+            ],
+            "fr": [
+              "L'inconnu m'a demandé de raconter mon histoire. Et, chose inhabituelle chez moi, j'ai tout déballé.",
+              "Mon empire maritime, que j'avais bâti peu à peu, à partir d'une seule liaison modeste,",
+              "que j'avais établie en investissant les bénéfices de mon humble étal,",
+              "que j'avais ouvert avec les sous économisés durant ma jeunesse à faire de petits boulots, tout ce qui se présentait,",
+              "cette jeunesse que j'avais reconstruite sur les décombres de mon rejet par les forgemiroirs...",
+              "un enfant qui avait échoué.",
+              "Moi qui approchais de ma dernière heure, je ressentais un soulagement à mesure que les aveux jaillissaient."
+            ],
+            "it": [
+              "Lo sconosciuto mi chiese la mia storia. Stranamente, gli raccontai tutto.",
+              "Il mio impero mercantile, che avevo ampliato lentamente, partendo da una sola modesta rotta,",
+              "che avevo avviato investendo i profitti della mia umile bancarella al mercato,",
+              "che avevo aperto con gli spiccioli accumulati in una giovinezza di lavoretti, di ogni genere,",
+              "quella giovane vita che avevo rimesso insieme dopo il rifiuto degli Artefici degli specchi...",
+              "un ragazzo che aveva fallito.",
+              "Essendo vicino alla fine, provai sollievo a raccontargli tutto."
+            ],
+            "ja": [
+              "男は私の話を聞いた。 珍しく口が軽くなってしまった。",
+              "露店商から身を起こして築いた 私の海運事業。",
+              "そのさらに前には",
+              "元手は、若い頃に雑用をして こつこつ貯めた小銭だった。 仕事なら何でもやった。",
+              "鏡職人に拒まれ、打ちのめされながらも どうにか暮らしていた、あの若い日々にね…",
+              "少年の頃に鏡職人に志願し… 失敗したこと。",
+              "死期が近づいて すべてをさらけ出して 私は楽になっていった。"
+            ],
+            "ko": [
+              "낯선 사람은 내 이야기를 물었고, 난 평소의 나답지 않게 다 털어놓게 됐지.",
+              "변변찮은 항로 하나에서 시작해, 차근차근 키워 온 내 해운 제국은,",
+              "초라한 시장 가판대에서 번 돈을 투자해서 세운 것이었고,",
+              "그 가판대는 젊어서 온갖 허드렛일을 하며, 무슨 일이든 가리지 않고, 한 푼 두 푼 모은 돈으로 시작했지,",
+              "거울 장인들에게 거부당한 폐허 위에서 어찌어찌 꾸려 나간 그 젊은 날...",
+              "실패한 소년이었어.",
+              "인생의 끝자락에 있다고 생각하니 내 이야기를 쏟아놓을수록 안도가 되더군."
+            ],
             "pt-br": [
               "O estranho me perguntou minha história. Atipicamente para mim, saiu tudo.",
               "Meu império de transporte marítimo, que ampliei aos poucos, começando com uma única rota modesta,",
@@ -37,6 +100,33 @@
               "aquela vida jovem que remendei com os destroços da rejeição dos Espelhistas...",
               "um garoto que havia fracassado.",
               "Agora, um homem perto do fim de sua cota, senti alívio à medida que as confissões jorravam."
+            ],
+            "ru": [
+              "Незнакомец попросил рассказать мою историю. Что для меня необычно, я всё выложил.",
+              "Моя судоходная империя, которую я постепенно выстроил, начав с одного скромного маршрута,",
+              "который я открыл, вложив прибыль от своей неприметной рыночной лавки,",
+              "которую я открыл на гроши, накопленные за юность, проведённую на случайных заработках, на любой работе,",
+              "юность, которую я по крупицам собрал из обломков, после того как зеркальные мастера отвергли меня...",
+              "мальчишку, потерпевшего неудачу.",
+              "Теперь, приближаясь к концу отпущенного мне срока, я чувствовал облегчение, когда изливал признания."
+            ],
+            "s-cn": [
+              "陌生人问起我的经历。我一反常态，竟一股脑全说了。",
+              "我的航运帝国，我是慢慢把它做大的， 起初只是一条不起眼的航线，",
+              "而这条航线，是靠我那个简陋的 集市小摊赚来的利润才建起来的，",
+              "而那个小摊，又是靠我年轻时 打零工、什么都干，攒下的 一枚枚硬币才开起来的，",
+              "我年轻时的生活，就是在遭到镜匠们拒绝后留下的废墟上， 一点点拼凑起来的……",
+              "一个失败了的男孩。",
+              "如今我这个大限将至的人，说出这些心底话后，竟觉得如释重负。"
+            ],
+            "t-cn": [
+              "陌生人問起我的經歷。我一反常態，竟一股腦全說了。",
+              "我的航運帝國，我是慢慢把它做大的， 起初只是一條不起眼的航線，",
+              "而這條航線，是靠我那個簡陋的 集市小攤賺來的利潤才建起來的，",
+              "而那個小攤，又是靠我年輕時 打零工、什麼都幹，攢下的 一枚枚硬幣才開起來的，",
+              "我年輕時的生活，就是在遭到鏡匠們拒絕後留下的廢墟上， 一點點拼湊起來的……",
+              "一個失敗了的男孩。",
+              "如今我這個大限將至的人， 說出這些心底話後，竟覺得如釋重負。"
             ]
           },
           "provenance": {
@@ -68,6 +158,60 @@
           "a boy who had failed.",
           "Now a man nearing the end of his allotment, I felt relief as the confessions welled out."
         ],
+        "de": [
+          "Der Fremde hat mich nach meiner Geschichte gefragt. Ganz untypisch für mich ist alles aus mir herausgebrochen.",
+          "Mein Schifffahrtsimperium, das ich langsam aufgebaut habe, angefangen mit einer einzigen, bescheidenen Route,",
+          "die ich mit dem Gewinn finanziert habe, den mir mein kleiner Marktstand eingebracht hat,",
+          "den ich mit meinen zusammengesparten Pfennigen eröffnet habe, verdient in meiner Jugend mit Gelegenheitsarbeiten, mit allem, was sich angeboten hat,",
+          "dieses junge Leben, das ich aus den Trümmern zusammengefügt habe, nachdem die Spiegelwirker mich abgewiesen hatten ...",
+          "ein Junge, der versagt hat.",
+          "Nun, als Mann kurz vor dem Ende meiner zugemessenen Zeit, war ich erleichtert, als die Bekenntnisse aus mir hervorgequollen sind."
+        ],
+        "es": [
+          "El desconocido me preguntó por mi historia. Se lo conté todo, y eso es poco habitual en mí.",
+          "Mi imperio naviero, que había levantado poco a poco, a partir de una única y modesta ruta,",
+          "que había establecido invirtiendo los beneficios de mi humilde puesto del mercado,",
+          "que monté con las monedas que había ahorrado durante mi juventud haciendo trabajos sueltos, de lo que fuera,",
+          "esa juventud que había recompuesto con los restos del rechazo de los espejistas...",
+          "un chico que había fracasado.",
+          "Ahora, cerca del final de mi vida, sentí alivio al ver aflorar las confesiones."
+        ],
+        "fr": [
+          "L'inconnu m'a demandé de raconter mon histoire. Et, chose inhabituelle chez moi, j'ai tout déballé.",
+          "Mon empire maritime, que j'avais bâti peu à peu, à partir d'une seule liaison modeste,",
+          "que j'avais établie en investissant les bénéfices de mon humble étal,",
+          "que j'avais ouvert avec les sous économisés durant ma jeunesse à faire de petits boulots, tout ce qui se présentait,",
+          "cette jeunesse que j'avais reconstruite sur les décombres de mon rejet par les forgemiroirs...",
+          "un enfant qui avait échoué.",
+          "Moi qui approchais de ma dernière heure, je ressentais un soulagement à mesure que les aveux jaillissaient."
+        ],
+        "it": [
+          "Lo sconosciuto mi chiese la mia storia. Stranamente, gli raccontai tutto.",
+          "Il mio impero mercantile, che avevo ampliato lentamente, partendo da una sola modesta rotta,",
+          "che avevo avviato investendo i profitti della mia umile bancarella al mercato,",
+          "che avevo aperto con gli spiccioli accumulati in una giovinezza di lavoretti, di ogni genere,",
+          "quella giovane vita che avevo rimesso insieme dopo il rifiuto degli Artefici degli specchi...",
+          "un ragazzo che aveva fallito.",
+          "Essendo vicino alla fine, provai sollievo a raccontargli tutto."
+        ],
+        "ja": [
+          "男は私の話を聞いた。 珍しく口が軽くなってしまった。",
+          "露店商から身を起こして築いた 私の海運事業。",
+          "そのさらに前には",
+          "元手は、若い頃に雑用をして こつこつ貯めた小銭だった。 仕事なら何でもやった。",
+          "鏡職人に拒まれ、打ちのめされながらも どうにか暮らしていた、あの若い日々にね…",
+          "少年の頃に鏡職人に志願し… 失敗したこと。",
+          "死期が近づいて すべてをさらけ出して 私は楽になっていった。"
+        ],
+        "ko": [
+          "낯선 사람은 내 이야기를 물었고, 난 평소의 나답지 않게 다 털어놓게 됐지.",
+          "변변찮은 항로 하나에서 시작해, 차근차근 키워 온 내 해운 제국은,",
+          "초라한 시장 가판대에서 번 돈을 투자해서 세운 것이었고,",
+          "그 가판대는 젊어서 온갖 허드렛일을 하며, 무슨 일이든 가리지 않고, 한 푼 두 푼 모은 돈으로 시작했지,",
+          "거울 장인들에게 거부당한 폐허 위에서 어찌어찌 꾸려 나간 그 젊은 날...",
+          "실패한 소년이었어.",
+          "인생의 끝자락에 있다고 생각하니 내 이야기를 쏟아놓을수록 안도가 되더군."
+        ],
         "pt-br": [
           "O estranho me perguntou minha história. Atipicamente para mim, saiu tudo.",
           "Meu império de transporte marítimo, que ampliei aos poucos, começando com uma única rota modesta,",
@@ -76,6 +220,33 @@
           "aquela vida jovem que remendei com os destroços da rejeição dos Espelhistas...",
           "um garoto que havia fracassado.",
           "Agora, um homem perto do fim de sua cota, senti alívio à medida que as confissões jorravam."
+        ],
+        "ru": [
+          "Незнакомец попросил рассказать мою историю. Что для меня необычно, я всё выложил.",
+          "Моя судоходная империя, которую я постепенно выстроил, начав с одного скромного маршрута,",
+          "который я открыл, вложив прибыль от своей неприметной рыночной лавки,",
+          "которую я открыл на гроши, накопленные за юность, проведённую на случайных заработках, на любой работе,",
+          "юность, которую я по крупицам собрал из обломков, после того как зеркальные мастера отвергли меня...",
+          "мальчишку, потерпевшего неудачу.",
+          "Теперь, приближаясь к концу отпущенного мне срока, я чувствовал облегчение, когда изливал признания."
+        ],
+        "s-cn": [
+          "陌生人问起我的经历。我一反常态，竟一股脑全说了。",
+          "我的航运帝国，我是慢慢把它做大的， 起初只是一条不起眼的航线，",
+          "而这条航线，是靠我那个简陋的 集市小摊赚来的利润才建起来的，",
+          "而那个小摊，又是靠我年轻时 打零工、什么都干，攒下的 一枚枚硬币才开起来的，",
+          "我年轻时的生活，就是在遭到镜匠们拒绝后留下的废墟上， 一点点拼凑起来的……",
+          "一个失败了的男孩。",
+          "如今我这个大限将至的人，说出这些心底话后，竟觉得如释重负。"
+        ],
+        "t-cn": [
+          "陌生人問起我的經歷。我一反常態，竟一股腦全說了。",
+          "我的航運帝國，我是慢慢把它做大的， 起初只是一條不起眼的航線，",
+          "而這條航線，是靠我那個簡陋的 集市小攤賺來的利潤才建起來的，",
+          "而那個小攤，又是靠我年輕時 打零工、什麼都幹，攢下的 一枚枚硬幣才開起來的，",
+          "我年輕時的生活，就是在遭到鏡匠們拒絕後留下的廢墟上， 一點點拼湊起來的……",
+          "一個失敗了的男孩。",
+          "如今我這個大限將至的人， 說出這些心底話後，竟覺得如釋重負。"
         ]
       },
       "silentCues": [],

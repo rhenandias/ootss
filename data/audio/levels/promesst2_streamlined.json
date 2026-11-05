@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "A lucite torc, to be worn about the neck."
             ],
+            "de": [
+              "Ein Halsreif aus Acrylharz, zum Tragen um den Hals."
+            ],
+            "es": [
+              "Un torques de lucita, para llevarlo al cuello."
+            ],
+            "fr": [
+              "Un torque de lucite, à porter autour du cou."
+            ],
+            "it": [
+              "Un collare di lucite, da portare al collo."
+            ],
+            "ja": [
+              "ルーサイトの 首飾り。"
+            ],
+            "ko": [
+              "목에 두르는 루사이트 토크야."
+            ],
             "pt-br": [
               "Um torque de lucita, para ser usado no pescoço."
+            ],
+            "ru": [
+              "Люцитовый торк, носится на шее."
+            ],
+            "s-cn": [
+              "一只有机玻璃制成的项环，应该戴在脖子上。"
+            ],
+            "t-cn": [
+              "一隻有機玻璃製成的項環，應該戴在脖子上。"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "A lucite torc, to be worn about the neck."
         ],
+        "de": [
+          "Ein Halsreif aus Acrylharz, zum Tragen um den Hals."
+        ],
+        "es": [
+          "Un torques de lucita, para llevarlo al cuello."
+        ],
+        "fr": [
+          "Un torque de lucite, à porter autour du cou."
+        ],
+        "it": [
+          "Un collare di lucite, da portare al collo."
+        ],
+        "ja": [
+          "ルーサイトの 首飾り。"
+        ],
+        "ko": [
+          "목에 두르는 루사이트 토크야."
+        ],
         "pt-br": [
           "Um torque de lucita, para ser usado no pescoço."
+        ],
+        "ru": [
+          "Люцитовый торк, носится на шее."
+        ],
+        "s-cn": [
+          "一只有机玻璃制成的项环，应该戴在脖子上。"
+        ],
+        "t-cn": [
+          "一隻有機玻璃製成的項環，應該戴在脖子上。"
         ]
       },
       "silentCues": [],
@@ -98,9 +161,45 @@
               "Get the gems. Get them all.",
               "Get them all!!"
             ],
+            "de": [
+              "Hol die Edelsteine. Hol sie alle.",
+              "Hol sie alle!!"
+            ],
+            "es": [
+              "Coge las gemas. Cógelas todas.",
+              "¡Cógelas todas!"
+            ],
+            "fr": [
+              "Prends les gemmes. Prends-les toutes.",
+              "Prends-les toutes !!"
+            ],
+            "it": [
+              "Prendi le gemme. Prendile tutte.",
+              "Prendile tutte!!"
+            ],
+            "ja": [
+              "宝石を取れ。 全部。",
+              "全部取れ！！"
+            ],
+            "ko": [
+              "보석을 가져와. 전부.",
+              "전부 가져와!!"
+            ],
             "pt-br": [
               "Peguem as gemas. Peguem todas.",
               "Peguem todas!!"
+            ],
+            "ru": [
+              "Бери самоцветы. Бери все.",
+              "Бери все!!"
+            ],
+            "s-cn": [
+              "去拿宝石。全部拿来。",
+              "全部拿来！！"
+            ],
+            "t-cn": [
+              "去拿寶石。全部拿來。",
+              "全部拿來！！"
             ]
           },
           "provenance": {
@@ -122,9 +221,45 @@
           "Get the gems. Get them all.",
           "Get them all!!"
         ],
+        "de": [
+          "Hol die Edelsteine. Hol sie alle.",
+          "Hol sie alle!!"
+        ],
+        "es": [
+          "Coge las gemas. Cógelas todas.",
+          "¡Cógelas todas!"
+        ],
+        "fr": [
+          "Prends les gemmes. Prends-les toutes.",
+          "Prends-les toutes !!"
+        ],
+        "it": [
+          "Prendi le gemme. Prendile tutte.",
+          "Prendile tutte!!"
+        ],
+        "ja": [
+          "宝石を取れ。 全部。",
+          "全部取れ！！"
+        ],
+        "ko": [
+          "보석을 가져와. 전부.",
+          "전부 가져와!!"
+        ],
         "pt-br": [
           "Peguem as gemas. Peguem todas.",
           "Peguem todas!!"
+        ],
+        "ru": [
+          "Бери самоцветы. Бери все.",
+          "Бери все!!"
+        ],
+        "s-cn": [
+          "去拿宝石。全部拿来。",
+          "全部拿来！！"
+        ],
+        "t-cn": [
+          "去拿寶石。全部拿來。",
+          "全部拿來！！"
         ]
       },
       "silentCues": [],
@@ -164,9 +299,45 @@
               "Give gems to me now. More gems deeper.",
               "Many more. Priceless. You get those. I get these."
             ],
+            "de": [
+              "Gib mir jetzt Edelsteine. Tiefer gibt es mehr.",
+              "Noch viel mehr. Unbezahlbar. Du holst die anderen. Ich nehme diese."
+            ],
+            "es": [
+              "Dame las gemas ahora. Hay más gemas más adentro.",
+              "Muchas más. De valor incalculable. Tú coge esas. Yo cojo estas."
+            ],
+            "fr": [
+              "Donne-moi les gemmes maintenant. Il y en a d'autres plus bas.",
+              "Beaucoup plus. Inestimables. Toi, prends celles-là. Moi, je prends celles-ci."
+            ],
+            "it": [
+              "Dammi le gemme adesso. Più gemme più in profondità.",
+              "Molte di più. Inestimabili. Prendi quelle. Io prendo queste."
+            ],
+            "ja": [
+              "宝石をよこせ。 深くにもっとある。",
+              "まだある。お宝。 あっち取ってこい。 こっち取る。"
+            ],
+            "ko": [
+              "보석을 당장 내게 줘. 더 깊은 곳에 더 많은 보석이 있다.",
+              "훨씬 더 많아. 값을 매길 수 없을 만큼 귀중하지. 그건 네가 가져가. 이건 내가 가져갈 테니."
+            ],
             "pt-br": [
               "Me deem as gemas agora. Mais gemas, mais fundo.",
               "Muito mais. Incalculáveis. Você pega essas. Eu fico com estas."
+            ],
+            "ru": [
+              "Дай мне самоцветы сейчас. Ещё самоцветы глубже.",
+              "Ещё много. Бесценно. Ты бери эти. Я возьму те."
+            ],
+            "s-cn": [
+              "现在把宝石给我。更深处还有宝石。",
+              "还有好多。无比珍贵。你拿那些。我拿这些。"
+            ],
+            "t-cn": [
+              "現在把寶石給我。更深處還有寶石。",
+              "還有好多。無比珍貴。你拿那些。我拿這些。"
             ]
           },
           "provenance": {
@@ -188,9 +359,45 @@
           "Give gems to me now. More gems deeper.",
           "Many more. Priceless. You get those. I get these."
         ],
+        "de": [
+          "Gib mir jetzt Edelsteine. Tiefer gibt es mehr.",
+          "Noch viel mehr. Unbezahlbar. Du holst die anderen. Ich nehme diese."
+        ],
+        "es": [
+          "Dame las gemas ahora. Hay más gemas más adentro.",
+          "Muchas más. De valor incalculable. Tú coge esas. Yo cojo estas."
+        ],
+        "fr": [
+          "Donne-moi les gemmes maintenant. Il y en a d'autres plus bas.",
+          "Beaucoup plus. Inestimables. Toi, prends celles-là. Moi, je prends celles-ci."
+        ],
+        "it": [
+          "Dammi le gemme adesso. Più gemme più in profondità.",
+          "Molte di più. Inestimabili. Prendi quelle. Io prendo queste."
+        ],
+        "ja": [
+          "宝石をよこせ。 深くにもっとある。",
+          "まだある。お宝。 あっち取ってこい。 こっち取る。"
+        ],
+        "ko": [
+          "보석을 당장 내게 줘. 더 깊은 곳에 더 많은 보석이 있다.",
+          "훨씬 더 많아. 값을 매길 수 없을 만큼 귀중하지. 그건 네가 가져가. 이건 내가 가져갈 테니."
+        ],
         "pt-br": [
           "Me deem as gemas agora. Mais gemas, mais fundo.",
           "Muito mais. Incalculáveis. Você pega essas. Eu fico com estas."
+        ],
+        "ru": [
+          "Дай мне самоцветы сейчас. Ещё самоцветы глубже.",
+          "Ещё много. Бесценно. Ты бери эти. Я возьму те."
+        ],
+        "s-cn": [
+          "现在把宝石给我。更深处还有宝石。",
+          "还有好多。无比珍贵。你拿那些。我拿这些。"
+        ],
+        "t-cn": [
+          "現在把寶石給我。更深處還有寶石。",
+          "還有好多。無比珍貴。你拿那些。我拿這些。"
         ]
       },
       "silentCues": [],
@@ -242,8 +449,35 @@
             "en": [
               "Very hungry now. Give me all. All."
             ],
+            "de": [
+              "Jetzt sehr hungrig. Gib mir alle. Alle."
+            ],
+            "es": [
+              "Ahora tengo muchísima hambre. Dámelo todo. Todo."
+            ],
+            "fr": [
+              "J'ai si faim. Donne-moi tout. Tout."
+            ],
+            "it": [
+              "Ora molto affamato. Dammi tutto. Tutto."
+            ],
+            "ja": [
+              "腹減った。 全部よこせ。 全部。"
+            ],
+            "ko": [
+              "지금 너무 배고파. 전부 줘. 전부."
+            ],
             "pt-br": [
               "Muita fome agora. Me dê tudo. Tudo."
+            ],
+            "ru": [
+              "Теперь очень голоден. Дай всё. Всё."
+            ],
+            "s-cn": [
+              "好饿。全部给我。全部。"
+            ],
+            "t-cn": [
+              "好餓。全部給我。全部。"
             ]
           },
           "provenance": {
@@ -263,8 +497,35 @@
         "en": [
           "Very hungry now. Give me all. All."
         ],
+        "de": [
+          "Jetzt sehr hungrig. Gib mir alle. Alle."
+        ],
+        "es": [
+          "Ahora tengo muchísima hambre. Dámelo todo. Todo."
+        ],
+        "fr": [
+          "J'ai si faim. Donne-moi tout. Tout."
+        ],
+        "it": [
+          "Ora molto affamato. Dammi tutto. Tutto."
+        ],
+        "ja": [
+          "腹減った。 全部よこせ。 全部。"
+        ],
+        "ko": [
+          "지금 너무 배고파. 전부 줘. 전부."
+        ],
         "pt-br": [
           "Muita fome agora. Me dê tudo. Tudo."
+        ],
+        "ru": [
+          "Теперь очень голоден. Дай всё. Всё."
+        ],
+        "s-cn": [
+          "好饿。全部给我。全部。"
+        ],
+        "t-cn": [
+          "好餓。全部給我。全部。"
         ]
       },
       "silentCues": [],
@@ -303,8 +564,35 @@
             "en": [
               "Feed me now! Just a few."
             ],
+            "de": [
+              "Füttere mich jetzt! Nur ein paar."
+            ],
+            "es": [
+              "¡Dame de comer ahora! Aunque sean solo unas pocas."
+            ],
+            "fr": [
+              "Nourris-moi, maintenant ! Juste quelques-unes."
+            ],
+            "it": [
+              "Nutrimi subito! Solo poche."
+            ],
+            "ja": [
+              "食わせろ！ いくつか。"
+            ],
+            "ko": [
+              "지금 먹을 걸 줘! 조금만이면 돼."
+            ],
             "pt-br": [
               "Alimentem-me agora! Só algumas."
+            ],
+            "ru": [
+              "Накорми меня сейчас! Ещё немного."
+            ],
+            "s-cn": [
+              "快喂我！就几颗就好。"
+            ],
+            "t-cn": [
+              "快餵我！就幾顆就好。"
             ]
           },
           "provenance": {
@@ -324,8 +612,35 @@
         "en": [
           "Feed me now! Just a few."
         ],
+        "de": [
+          "Füttere mich jetzt! Nur ein paar."
+        ],
+        "es": [
+          "¡Dame de comer ahora! Aunque sean solo unas pocas."
+        ],
+        "fr": [
+          "Nourris-moi, maintenant ! Juste quelques-unes."
+        ],
+        "it": [
+          "Nutrimi subito! Solo poche."
+        ],
+        "ja": [
+          "食わせろ！ いくつか。"
+        ],
+        "ko": [
+          "지금 먹을 걸 줘! 조금만이면 돼."
+        ],
         "pt-br": [
           "Alimentem-me agora! Só algumas."
+        ],
+        "ru": [
+          "Накорми меня сейчас! Ещё немного."
+        ],
+        "s-cn": [
+          "快喂我！就几颗就好。"
+        ],
+        "t-cn": [
+          "快餵我！就幾顆就好。"
         ]
       },
       "silentCues": [],
@@ -364,8 +679,35 @@
             "en": [
               "Feed me gems. Gems give life!"
             ],
+            "de": [
+              "Füttere mich mit Edelsteinen. Edelsteine geben Leben!"
+            ],
+            "es": [
+              "Dame gemas de comer. ¡Las gemas dan vida!"
+            ],
+            "fr": [
+              "Nourris-moi de gemmes. Les gemmes donnent la vie !"
+            ],
+            "it": [
+              "Nutrimi con gemme. Le gemme danno vita!"
+            ],
+            "ja": [
+              "宝石を食わせろ。 宝石は命！"
+            ],
+            "ko": [
+              "보석을 먹여 줘. 보석은 생명을 주지!"
+            ],
             "pt-br": [
               "Me alimentem com gemas. Gemas dão vida!"
+            ],
+            "ru": [
+              "Корми меня самоцветами. Самоцветы дают жизнь!"
+            ],
+            "s-cn": [
+              "喂我宝石。宝石带来生命！"
+            ],
+            "t-cn": [
+              "餵我寶石。寶石帶來生命！"
             ]
           },
           "provenance": {
@@ -385,8 +727,35 @@
         "en": [
           "Feed me gems. Gems give life!"
         ],
+        "de": [
+          "Füttere mich mit Edelsteinen. Edelsteine geben Leben!"
+        ],
+        "es": [
+          "Dame gemas de comer. ¡Las gemas dan vida!"
+        ],
+        "fr": [
+          "Nourris-moi de gemmes. Les gemmes donnent la vie !"
+        ],
+        "it": [
+          "Nutrimi con gemme. Le gemme danno vita!"
+        ],
+        "ja": [
+          "宝石を食わせろ。 宝石は命！"
+        ],
+        "ko": [
+          "보석을 먹여 줘. 보석은 생명을 주지!"
+        ],
         "pt-br": [
           "Me alimentem com gemas. Gemas dão vida!"
+        ],
+        "ru": [
+          "Корми меня самоцветами. Самоцветы дают жизнь!"
+        ],
+        "s-cn": [
+          "喂我宝石。宝石带来生命！"
+        ],
+        "t-cn": [
+          "餵我寶石。寶石帶來生命！"
         ]
       },
       "silentCues": [],
@@ -425,8 +794,35 @@
             "en": [
               "Hungry. Hungry! Give food. Give food."
             ],
+            "de": [
+              "Hungrig. Hungrig! Gib Futter. Gib Futter."
+            ],
+            "es": [
+              "Tengo hambre. ¡Hambre! Dame comida. Dame comida."
+            ],
+            "fr": [
+              "Faim. Faim ! Donne à manger. Donne à manger."
+            ],
+            "it": [
+              "Affamato. Affamato! Dammi cibo. Dammi cibo."
+            ],
+            "ja": [
+              "腹減った。腹減った！ 飯よこせ。飯。"
+            ],
+            "ko": [
+              "배고파. 배고파! 먹을 걸 줘. 먹을 걸 줘."
+            ],
             "pt-br": [
               "Fome. Fome! Me dê comida. Me dê comida."
+            ],
+            "ru": [
+              "Голоден. Голоден! Дай еды. Дай еды."
+            ],
+            "s-cn": [
+              "饿。好饿！给食物。给食物。"
+            ],
+            "t-cn": [
+              "餓。好餓！給食物。給食物。"
             ]
           },
           "provenance": {
@@ -446,8 +842,35 @@
         "en": [
           "Hungry. Hungry! Give food. Give food."
         ],
+        "de": [
+          "Hungrig. Hungrig! Gib Futter. Gib Futter."
+        ],
+        "es": [
+          "Tengo hambre. ¡Hambre! Dame comida. Dame comida."
+        ],
+        "fr": [
+          "Faim. Faim ! Donne à manger. Donne à manger."
+        ],
+        "it": [
+          "Affamato. Affamato! Dammi cibo. Dammi cibo."
+        ],
+        "ja": [
+          "腹減った。腹減った！ 飯よこせ。飯。"
+        ],
+        "ko": [
+          "배고파. 배고파! 먹을 걸 줘. 먹을 걸 줘."
+        ],
         "pt-br": [
           "Fome. Fome! Me dê comida. Me dê comida."
+        ],
+        "ru": [
+          "Голоден. Голоден! Дай еды. Дай еды."
+        ],
+        "s-cn": [
+          "饿。好饿！给食物。给食物。"
+        ],
+        "t-cn": [
+          "餓。好餓！給食物。給食物。"
         ]
       },
       "silentCues": [],
@@ -486,8 +909,35 @@
             "en": [
               "Feed me!"
             ],
+            "de": [
+              "Füttere mich!"
+            ],
+            "es": [
+              "¡Dame de comer!"
+            ],
+            "fr": [
+              "Nourris-moi !"
+            ],
+            "it": [
+              "Nutrimi!"
+            ],
+            "ja": [
+              "飯を食わせろ！"
+            ],
+            "ko": [
+              "먹을 걸 줘!"
+            ],
             "pt-br": [
               "Me alimentem!"
+            ],
+            "ru": [
+              "Накорми меня!"
+            ],
+            "s-cn": [
+              "喂我！"
+            ],
+            "t-cn": [
+              "餵我！"
             ]
           },
           "provenance": {
@@ -507,8 +957,35 @@
         "en": [
           "Feed me!"
         ],
+        "de": [
+          "Füttere mich!"
+        ],
+        "es": [
+          "¡Dame de comer!"
+        ],
+        "fr": [
+          "Nourris-moi !"
+        ],
+        "it": [
+          "Nutrimi!"
+        ],
+        "ja": [
+          "飯を食わせろ！"
+        ],
+        "ko": [
+          "먹을 걸 줘!"
+        ],
         "pt-br": [
           "Me alimentem!"
+        ],
+        "ru": [
+          "Накорми меня!"
+        ],
+        "s-cn": [
+          "喂我！"
+        ],
+        "t-cn": [
+          "餵我！"
         ]
       },
       "silentCues": [],
@@ -547,8 +1024,35 @@
             "en": [
               "Find more foods."
             ],
+            "de": [
+              "Finde mehr Futter."
+            ],
+            "es": [
+              "Busca más comida."
+            ],
+            "fr": [
+              "Trouve d'autres aliments."
+            ],
+            "it": [
+              "Trova altri cibi."
+            ],
+            "ja": [
+              "飯を探せ。"
+            ],
+            "ko": [
+              "먹을 걸 더 많이 찾아."
+            ],
             "pt-br": [
               "Encontrem mais comidas."
+            ],
+            "ru": [
+              "Найди ещё еды."
+            ],
+            "s-cn": [
+              "再找食物。"
+            ],
+            "t-cn": [
+              "再找食物。"
             ]
           },
           "provenance": {
@@ -568,8 +1072,35 @@
         "en": [
           "Find more foods."
         ],
+        "de": [
+          "Finde mehr Futter."
+        ],
+        "es": [
+          "Busca más comida."
+        ],
+        "fr": [
+          "Trouve d'autres aliments."
+        ],
+        "it": [
+          "Trova altri cibi."
+        ],
+        "ja": [
+          "飯を探せ。"
+        ],
+        "ko": [
+          "먹을 걸 더 많이 찾아."
+        ],
         "pt-br": [
           "Encontrem mais comidas."
+        ],
+        "ru": [
+          "Найди ещё еды."
+        ],
+        "s-cn": [
+          "再找食物。"
+        ],
+        "t-cn": [
+          "再找食物。"
         ]
       },
       "silentCues": [],
@@ -608,8 +1139,35 @@
             "en": [
               "Get more gems. Get more foods!"
             ],
+            "de": [
+              "Hol mehr Edelsteine. Hol mehr Futter!"
+            ],
+            "es": [
+              "Consigue más gemas. ¡Consigue más comida!"
+            ],
+            "fr": [
+              "Prends encore plus de gemmes. Prends encore plus de nourriture !"
+            ],
+            "it": [
+              "Prendi altre gemme. Prendi altro cibo!"
+            ],
+            "ja": [
+              "宝石取ってこい。 飯取ってこい！"
+            ],
+            "ko": [
+              "보석을 더 가져와. 먹을 걸 더 가져와!"
+            ],
             "pt-br": [
               "Arranjem mais gemas. Arranjem mais comidas!"
+            ],
+            "ru": [
+              "Бери больше самоцветов. Бери больше еды!"
+            ],
+            "s-cn": [
+              "多拿宝石。多拿食物！"
+            ],
+            "t-cn": [
+              "多拿寶石。多拿食物！"
             ]
           },
           "provenance": {
@@ -629,8 +1187,35 @@
         "en": [
           "Get more gems. Get more foods!"
         ],
+        "de": [
+          "Hol mehr Edelsteine. Hol mehr Futter!"
+        ],
+        "es": [
+          "Consigue más gemas. ¡Consigue más comida!"
+        ],
+        "fr": [
+          "Prends encore plus de gemmes. Prends encore plus de nourriture !"
+        ],
+        "it": [
+          "Prendi altre gemme. Prendi altro cibo!"
+        ],
+        "ja": [
+          "宝石取ってこい。 飯取ってこい！"
+        ],
+        "ko": [
+          "보석을 더 가져와. 먹을 걸 더 가져와!"
+        ],
         "pt-br": [
           "Arranjem mais gemas. Arranjem mais comidas!"
+        ],
+        "ru": [
+          "Бери больше самоцветов. Бери больше еды!"
+        ],
+        "s-cn": [
+          "多拿宝石。多拿食物！"
+        ],
+        "t-cn": [
+          "多拿寶石。多拿食物！"
         ]
       },
       "silentCues": [],
@@ -669,8 +1254,35 @@
             "en": [
               "Go get. Bring back."
             ],
+            "de": [
+              "Geh holen. Bring her."
+            ],
+            "es": [
+              "Ve a buscarlas. Tráelas de vuelta."
+            ],
+            "fr": [
+              "Va chercher. Ramène."
+            ],
+            "it": [
+              "Vai a prenderne. Riporta."
+            ],
+            "ja": [
+              "取ってこい。"
+            ],
+            "ko": [
+              "가서 가져와. 다시 가져와."
+            ],
             "pt-br": [
               "Vão buscar. Tragam de volta."
+            ],
+            "ru": [
+              "Иди добудь. Принеси сюда."
+            ],
+            "s-cn": [
+              "快去拿。拿回来。"
+            ],
+            "t-cn": [
+              "快去拿。拿回來。"
             ]
           },
           "provenance": {
@@ -690,8 +1302,35 @@
         "en": [
           "Go get. Bring back."
         ],
+        "de": [
+          "Geh holen. Bring her."
+        ],
+        "es": [
+          "Ve a buscarlas. Tráelas de vuelta."
+        ],
+        "fr": [
+          "Va chercher. Ramène."
+        ],
+        "it": [
+          "Vai a prenderne. Riporta."
+        ],
+        "ja": [
+          "取ってこい。"
+        ],
+        "ko": [
+          "가서 가져와. 다시 가져와."
+        ],
         "pt-br": [
           "Vão buscar. Tragam de volta."
+        ],
+        "ru": [
+          "Иди добудь. Принеси сюда."
+        ],
+        "s-cn": [
+          "快去拿。拿回来。"
+        ],
+        "t-cn": [
+          "快去拿。拿回來。"
         ]
       },
       "silentCues": [],
@@ -730,8 +1369,35 @@
             "en": [
               "Search. Find. Bring."
             ],
+            "de": [
+              "Suchen. Finden. Bringen."
+            ],
+            "es": [
+              "Busca. Encuentra. Trae."
+            ],
+            "fr": [
+              "Cherche. Trouve. Apporte."
+            ],
+            "it": [
+              "Cerca. Trova. Porta."
+            ],
+            "ja": [
+              "探せ。持ってこい。"
+            ],
+            "ko": [
+              "찾아서 발견하고, 가져와."
+            ],
             "pt-br": [
               "Procurem. Encontrem. Tragam."
+            ],
+            "ru": [
+              "Ищи. Найди. Принеси."
+            ],
+            "s-cn": [
+              "搜索。找到。拿回。"
+            ],
+            "t-cn": [
+              "搜索。找到。拿回。"
             ]
           },
           "provenance": {
@@ -751,8 +1417,35 @@
         "en": [
           "Search. Find. Bring."
         ],
+        "de": [
+          "Suchen. Finden. Bringen."
+        ],
+        "es": [
+          "Busca. Encuentra. Trae."
+        ],
+        "fr": [
+          "Cherche. Trouve. Apporte."
+        ],
+        "it": [
+          "Cerca. Trova. Porta."
+        ],
+        "ja": [
+          "探せ。持ってこい。"
+        ],
+        "ko": [
+          "찾아서 발견하고, 가져와."
+        ],
         "pt-br": [
           "Procurem. Encontrem. Tragam."
+        ],
+        "ru": [
+          "Ищи. Найди. Принеси."
+        ],
+        "s-cn": [
+          "搜索。找到。拿回。"
+        ],
+        "t-cn": [
+          "搜索。找到。拿回。"
         ]
       },
       "silentCues": [],
@@ -791,8 +1484,35 @@
             "en": [
               "Tastes cold. Cold and good."
             ],
+            "de": [
+              "Schmeckt kalt. Kalt und gut."
+            ],
+            "es": [
+              "Sabe fría. Fría y buena."
+            ],
+            "fr": [
+              "Ça a un goût froid. Froid et bon."
+            ],
+            "it": [
+              "Ha un sapore freddo. Freddo e buono."
+            ],
+            "ja": [
+              "冷たい。うまい。"
+            ],
+            "ko": [
+              "차갑게 느껴져. 차갑고 좋아."
+            ],
             "pt-br": [
               "Tá fria. Fria e boa."
+            ],
+            "ru": [
+              "На вкус холодно. Холодно и хорошо."
+            ],
+            "s-cn": [
+              "尝着冰冰的。冰冰的，好吃。"
+            ],
+            "t-cn": [
+              "嘗著冰冰的。冰冰的，好吃。"
             ]
           },
           "provenance": {
@@ -812,8 +1532,35 @@
         "en": [
           "Tastes cold. Cold and good."
         ],
+        "de": [
+          "Schmeckt kalt. Kalt und gut."
+        ],
+        "es": [
+          "Sabe fría. Fría y buena."
+        ],
+        "fr": [
+          "Ça a un goût froid. Froid et bon."
+        ],
+        "it": [
+          "Ha un sapore freddo. Freddo e buono."
+        ],
+        "ja": [
+          "冷たい。うまい。"
+        ],
+        "ko": [
+          "차갑게 느껴져. 차갑고 좋아."
+        ],
         "pt-br": [
           "Tá fria. Fria e boa."
+        ],
+        "ru": [
+          "На вкус холодно. Холодно и хорошо."
+        ],
+        "s-cn": [
+          "尝着冰冰的。冰冰的，好吃。"
+        ],
+        "t-cn": [
+          "嘗著冰冰的。冰冰的，好吃。"
         ]
       },
       "silentCues": [],
@@ -852,8 +1599,35 @@
             "en": [
               "Energy builds inside."
             ],
+            "de": [
+              "Energie wächst in mir."
+            ],
+            "es": [
+              "La energía se acumula en el interior."
+            ],
+            "fr": [
+              "L'énergie monte en moi."
+            ],
+            "it": [
+              "L'energia cresce dentro."
+            ],
+            "ja": [
+              "力が溜まってる。"
+            ],
+            "ko": [
+              "안에서 힘이 차올라."
+            ],
             "pt-br": [
               "A energia se acumula dentro de mim."
+            ],
+            "ru": [
+              "Внутри нарастает энергия."
+            ],
+            "s-cn": [
+              "能量在体内积聚。"
+            ],
+            "t-cn": [
+              "能量在體內積聚。"
             ]
           },
           "provenance": {
@@ -873,8 +1647,35 @@
         "en": [
           "Energy builds inside."
         ],
+        "de": [
+          "Energie wächst in mir."
+        ],
+        "es": [
+          "La energía se acumula en el interior."
+        ],
+        "fr": [
+          "L'énergie monte en moi."
+        ],
+        "it": [
+          "L'energia cresce dentro."
+        ],
+        "ja": [
+          "力が溜まってる。"
+        ],
+        "ko": [
+          "안에서 힘이 차올라."
+        ],
         "pt-br": [
           "A energia se acumula dentro de mim."
+        ],
+        "ru": [
+          "Внутри нарастает энергия."
+        ],
+        "s-cn": [
+          "能量在体内积聚。"
+        ],
+        "t-cn": [
+          "能量在體內積聚。"
         ]
       },
       "silentCues": [],
@@ -913,8 +1714,35 @@
             "en": [
               "I feel my insides turning..."
             ],
+            "de": [
+              "Ich fühle, wie mein Inneres sich wandelt ..."
+            ],
+            "es": [
+              "Siento que se me remueven las entrañas..."
+            ],
+            "fr": [
+              "Je sens mes entrailles se retourner..."
+            ],
+            "it": [
+              "Sento le mie viscere che si muovono..."
+            ],
+            "ja": [
+              "体の中に変化が…"
+            ],
+            "ko": [
+              "내 속이 뒤집히는 것 같아..."
+            ],
             "pt-br": [
               "Sinto minhas entranhas se mexendo..."
+            ],
+            "ru": [
+              "Чувствую, как у меня внутри всё переворачивается..."
+            ],
+            "s-cn": [
+              "感觉内脏在翻腾……"
+            ],
+            "t-cn": [
+              "感覺內臟在翻騰……"
             ]
           },
           "provenance": {
@@ -934,8 +1762,35 @@
         "en": [
           "I feel my insides turning..."
         ],
+        "de": [
+          "Ich fühle, wie mein Inneres sich wandelt ..."
+        ],
+        "es": [
+          "Siento que se me remueven las entrañas..."
+        ],
+        "fr": [
+          "Je sens mes entrailles se retourner..."
+        ],
+        "it": [
+          "Sento le mie viscere che si muovono..."
+        ],
+        "ja": [
+          "体の中に変化が…"
+        ],
+        "ko": [
+          "내 속이 뒤집히는 것 같아..."
+        ],
         "pt-br": [
           "Sinto minhas entranhas se mexendo..."
+        ],
+        "ru": [
+          "Чувствую, как у меня внутри всё переворачивается..."
+        ],
+        "s-cn": [
+          "感觉内脏在翻腾……"
+        ],
+        "t-cn": [
+          "感覺內臟在翻騰……"
         ]
       },
       "silentCues": [],
@@ -974,8 +1829,35 @@
             "en": [
               "The cold light is growing."
             ],
+            "de": [
+              "Das kalte Licht wächst."
+            ],
+            "es": [
+              "La luz fría está creciendo."
+            ],
+            "fr": [
+              "La lumière froide grandit."
+            ],
+            "it": [
+              "La fredda luce sta crescendo."
+            ],
+            "ja": [
+              "冷たい光が強くなってる。"
+            ],
+            "ko": [
+              "차가운 빛이 자라고 있어."
+            ],
             "pt-br": [
               "A luz fria está crescendo."
+            ],
+            "ru": [
+              "Холодный свет разрастается."
+            ],
+            "s-cn": [
+              "冰冷的光越来越强。"
+            ],
+            "t-cn": [
+              "冰冷的光越來越強。"
             ]
           },
           "provenance": {
@@ -995,8 +1877,35 @@
         "en": [
           "The cold light is growing."
         ],
+        "de": [
+          "Das kalte Licht wächst."
+        ],
+        "es": [
+          "La luz fría está creciendo."
+        ],
+        "fr": [
+          "La lumière froide grandit."
+        ],
+        "it": [
+          "La fredda luce sta crescendo."
+        ],
+        "ja": [
+          "冷たい光が強くなってる。"
+        ],
+        "ko": [
+          "차가운 빛이 자라고 있어."
+        ],
         "pt-br": [
           "A luz fria está crescendo."
+        ],
+        "ru": [
+          "Холодный свет разрастается."
+        ],
+        "s-cn": [
+          "冰冷的光越来越强。"
+        ],
+        "t-cn": [
+          "冰冷的光越來越強。"
         ]
       },
       "silentCues": [],
@@ -1035,8 +1944,35 @@
             "en": [
               "Very close now..."
             ],
+            "de": [
+              "Jetzt ganz nah ..."
+            ],
+            "es": [
+              "Ya casi..."
+            ],
+            "fr": [
+              "On y est presque..."
+            ],
+            "it": [
+              "Ormai molto vicino..."
+            ],
+            "ja": [
+              "あと少し…"
+            ],
+            "ko": [
+              "이제 정말 가까워..."
+            ],
             "pt-br": [
               "Estamos muito perto..."
+            ],
+            "ru": [
+              "Уже совсем близко..."
+            ],
+            "s-cn": [
+              "就快了……"
+            ],
+            "t-cn": [
+              "就快了……"
             ]
           },
           "provenance": {
@@ -1056,8 +1992,35 @@
         "en": [
           "Very close now..."
         ],
+        "de": [
+          "Jetzt ganz nah ..."
+        ],
+        "es": [
+          "Ya casi..."
+        ],
+        "fr": [
+          "On y est presque..."
+        ],
+        "it": [
+          "Ormai molto vicino..."
+        ],
+        "ja": [
+          "あと少し…"
+        ],
+        "ko": [
+          "이제 정말 가까워..."
+        ],
         "pt-br": [
           "Estamos muito perto..."
+        ],
+        "ru": [
+          "Уже совсем близко..."
+        ],
+        "s-cn": [
+          "就快了……"
+        ],
+        "t-cn": [
+          "就快了……"
         ]
       },
       "silentCues": [],
@@ -1098,10 +2061,55 @@
               "The tomes said buildings were *rare* in pocket mines, and near the surface.",
               "This mine is special..."
             ],
+            "de": [
+              "Je weiter wir nach unten kommen, desto mehr Bauwerke gibt es ...",
+              "Den Folianten zufolge sind Bauwerke in Taschenminen selten und liegen nahe der Oberfläche.",
+              "Diese Mine ist etwas Besonderes ..."
+            ],
+            "es": [
+              "La cantidad de arquitectura va en aumento a medida que bajamos...",
+              "Los tomos decían que los edificios raras veces se encontraban en las minas de las dimensiones de bolsillo, y cerca de la superficie.",
+              "Esta mina es especial..."
+            ],
+            "fr": [
+              "La quantité d'architecture augmente à mesure que nous descendons...",
+              "Les ouvrages disaient que les bâtiments étaient rares dans les poches minières, et près de la surface.",
+              "Cette mine est spéciale..."
+            ],
+            "it": [
+              "La quantità di architetture aumenta mentre scendiamo più in basso...",
+              "I tomi dicevano che gli edifici si trovano raramente nelle miniere di sacca, e vicino alla superficie.",
+              "Questa miniera è speciale..."
+            ],
+            "ja": [
+              "下へ行くほど 建造物が増える…",
+              "文献によれば、鉱山に 建物はほとんどないらしい。",
+              "ここは特別なんだな…"
+            ],
+            "ko": [
+              "내려갈수록 건축물이 많아지고 있어...",
+              "고서에는 구덩이 광산에 건물은 드물게 있고, 지표면 가까이에 있다고 적혀 있었는데.",
+              "이 광산은 특별해..."
+            ],
             "pt-br": [
               "A quantidade de arquitetura está aumentando à medida que vamos descendo...",
               "Os tomos diziam que construções eram raramente encontradas em bolsões minerais, e perto da superfície.",
               "Esta mina é especial..."
+            ],
+            "ru": [
+              "Количество построек увеличивается по мере того, как мы идём вниз...",
+              "В книгах говорилось, что здания редко встречаются в шахтах-тайниках, да и то у поверхности.",
+              "Эта шахта особенная..."
+            ],
+            "s-cn": [
+              "我们越往下走，建筑反而越多……",
+              "古籍上说，口袋矿里很少有建筑，即使有，也都靠近地表。",
+              "这座矿不一般……"
+            ],
+            "t-cn": [
+              "我們越往下走，建築反而越多……",
+              "古籍上說，口袋礦裡很少有建築， 即使有，也都靠近地表。",
+              "這座礦不一般……"
             ]
           },
           "provenance": {
@@ -1125,10 +2133,55 @@
           "The tomes said buildings were *rare* in pocket mines, and near the surface.",
           "This mine is special..."
         ],
+        "de": [
+          "Je weiter wir nach unten kommen, desto mehr Bauwerke gibt es ...",
+          "Den Folianten zufolge sind Bauwerke in Taschenminen selten und liegen nahe der Oberfläche.",
+          "Diese Mine ist etwas Besonderes ..."
+        ],
+        "es": [
+          "La cantidad de arquitectura va en aumento a medida que bajamos...",
+          "Los tomos decían que los edificios raras veces se encontraban en las minas de las dimensiones de bolsillo, y cerca de la superficie.",
+          "Esta mina es especial..."
+        ],
+        "fr": [
+          "La quantité d'architecture augmente à mesure que nous descendons...",
+          "Les ouvrages disaient que les bâtiments étaient rares dans les poches minières, et près de la surface.",
+          "Cette mine est spéciale..."
+        ],
+        "it": [
+          "La quantità di architetture aumenta mentre scendiamo più in basso...",
+          "I tomi dicevano che gli edifici si trovano raramente nelle miniere di sacca, e vicino alla superficie.",
+          "Questa miniera è speciale..."
+        ],
+        "ja": [
+          "下へ行くほど 建造物が増える…",
+          "文献によれば、鉱山に 建物はほとんどないらしい。",
+          "ここは特別なんだな…"
+        ],
+        "ko": [
+          "내려갈수록 건축물이 많아지고 있어...",
+          "고서에는 구덩이 광산에 건물은 드물게 있고, 지표면 가까이에 있다고 적혀 있었는데.",
+          "이 광산은 특별해..."
+        ],
         "pt-br": [
           "A quantidade de arquitetura está aumentando à medida que vamos descendo...",
           "Os tomos diziam que construções eram raramente encontradas em bolsões minerais, e perto da superfície.",
           "Esta mina é especial..."
+        ],
+        "ru": [
+          "Количество построек увеличивается по мере того, как мы идём вниз...",
+          "В книгах говорилось, что здания редко встречаются в шахтах-тайниках, да и то у поверхности.",
+          "Эта шахта особенная..."
+        ],
+        "s-cn": [
+          "我们越往下走，建筑反而越多……",
+          "古籍上说，口袋矿里很少有建筑，即使有，也都靠近地表。",
+          "这座矿不一般……"
+        ],
+        "t-cn": [
+          "我們越往下走，建築反而越多……",
+          "古籍上說，口袋礦裡很少有建築， 即使有，也都靠近地表。",
+          "這座礦不一般……"
         ]
       },
       "silentCues": [],
@@ -1180,8 +2233,35 @@
             "en": [
               "This place again..."
             ],
+            "de": [
+              "Schon wieder dieser Ort ..."
+            ],
+            "es": [
+              "Otra vez este lugar..."
+            ],
+            "fr": [
+              "Encore cet endroit..."
+            ],
+            "it": [
+              "Di nuovo questo posto..."
+            ],
+            "ja": [
+              "またか。 奇妙な感じだ…"
+            ],
+            "ko": [
+              "또 이곳이네..."
+            ],
             "pt-br": [
               "Esse lugar de novo..."
+            ],
+            "ru": [
+              "Опять это место..."
+            ],
+            "s-cn": [
+              "又是这个地方……"
+            ],
+            "t-cn": [
+              "又是這個地方……"
             ]
           },
           "provenance": {
@@ -1201,8 +2281,35 @@
         "en": [
           "This place again..."
         ],
+        "de": [
+          "Schon wieder dieser Ort ..."
+        ],
+        "es": [
+          "Otra vez este lugar..."
+        ],
+        "fr": [
+          "Encore cet endroit..."
+        ],
+        "it": [
+          "Di nuovo questo posto..."
+        ],
+        "ja": [
+          "またか。 奇妙な感じだ…"
+        ],
+        "ko": [
+          "또 이곳이네..."
+        ],
         "pt-br": [
           "Esse lugar de novo..."
+        ],
+        "ru": [
+          "Опять это место..."
+        ],
+        "s-cn": [
+          "又是这个地方……"
+        ],
+        "t-cn": [
+          "又是這個地方……"
         ]
       },
       "silentCues": [],
@@ -1255,9 +2362,45 @@
               "Useful!",
               "Wish I'd had this thing earlier."
             ],
+            "de": [
+              "Nützlich!",
+              "Hätte ich das Ding doch schon früher gehabt."
+            ],
+            "es": [
+              "¡Qué útil!",
+              "Ojalá hubiera tenido esto antes."
+            ],
+            "fr": [
+              "Plutôt utile !",
+              "J'aurais aimé avoir ça plus tôt."
+            ],
+            "it": [
+              "Utile!",
+              "Avrei voluto averlo prima."
+            ],
+            "ja": [
+              "便利だ！",
+              "もっと早くほしかった。"
+            ],
+            "ko": [
+              "유용해!",
+              "이전에 이게 있었다면 좋았을 텐데."
+            ],
             "pt-br": [
               "Útil!",
               "Queria ter tido isso antes."
+            ],
+            "ru": [
+              "Полезно!",
+              "Жаль, что у меня не было этого раньше."
+            ],
+            "s-cn": [
+              "真好用！",
+              "早有这个就好了。"
+            ],
+            "t-cn": [
+              "真好用！",
+              "早有這個就好了。"
             ]
           },
           "provenance": {
@@ -1279,9 +2422,45 @@
           "Useful!",
           "Wish I'd had this thing earlier."
         ],
+        "de": [
+          "Nützlich!",
+          "Hätte ich das Ding doch schon früher gehabt."
+        ],
+        "es": [
+          "¡Qué útil!",
+          "Ojalá hubiera tenido esto antes."
+        ],
+        "fr": [
+          "Plutôt utile !",
+          "J'aurais aimé avoir ça plus tôt."
+        ],
+        "it": [
+          "Utile!",
+          "Avrei voluto averlo prima."
+        ],
+        "ja": [
+          "便利だ！",
+          "もっと早くほしかった。"
+        ],
+        "ko": [
+          "유용해!",
+          "이전에 이게 있었다면 좋았을 텐데."
+        ],
         "pt-br": [
           "Útil!",
           "Queria ter tido isso antes."
+        ],
+        "ru": [
+          "Полезно!",
+          "Жаль, что у меня не было этого раньше."
+        ],
+        "s-cn": [
+          "真好用！",
+          "早有这个就好了。"
+        ],
+        "t-cn": [
+          "真好用！",
+          "早有這個就好了。"
         ]
       },
       "silentCues": [],
@@ -1333,8 +2512,35 @@
             "en": [
               "Come with me. We have much work ahead of us."
             ],
+            "de": [
+              "Komm mit mir. Wir haben viel Arbeit vor uns."
+            ],
+            "es": [
+              "Ven conmigo. Tenemos mucho trabajo por hacer."
+            ],
+            "fr": [
+              "Viens avec moi. Nous avons beaucoup de travail."
+            ],
+            "it": [
+              "Vieni con me. Abbiamo molto lavoro da fare."
+            ],
+            "ja": [
+              "一緒に来い。 やることが多い。"
+            ],
+            "ko": [
+              "나와 함께 가자. 할 일이 많다."
+            ],
             "pt-br": [
               "Venha comigo. Temos muito trabalho a fazer."
+            ],
+            "ru": [
+              "Идём со мной. У нас много работы."
+            ],
+            "s-cn": [
+              "跟我来。我们还有很多事要做。"
+            ],
+            "t-cn": [
+              "跟我來。我們還有很多事要做。"
             ]
           },
           "provenance": {
@@ -1354,8 +2560,35 @@
         "en": [
           "Come with me. We have much work ahead of us."
         ],
+        "de": [
+          "Komm mit mir. Wir haben viel Arbeit vor uns."
+        ],
+        "es": [
+          "Ven conmigo. Tenemos mucho trabajo por hacer."
+        ],
+        "fr": [
+          "Viens avec moi. Nous avons beaucoup de travail."
+        ],
+        "it": [
+          "Vieni con me. Abbiamo molto lavoro da fare."
+        ],
+        "ja": [
+          "一緒に来い。 やることが多い。"
+        ],
+        "ko": [
+          "나와 함께 가자. 할 일이 많다."
+        ],
         "pt-br": [
           "Venha comigo. Temos muito trabalho a fazer."
+        ],
+        "ru": [
+          "Идём со мной. У нас много работы."
+        ],
+        "s-cn": [
+          "跟我来。我们还有很多事要做。"
+        ],
+        "t-cn": [
+          "跟我來。我們還有很多事要做。"
         ]
       },
       "silentCues": [],
@@ -1395,9 +2628,45 @@
               "So hungry, but I will not eat.",
               "Keep 9 foods until the end."
             ],
+            "de": [
+              "So hungrig, aber ich esse nicht.",
+              "Behalte 9 Stück Futter bis zum Ende."
+            ],
+            "es": [
+              "Qué hambre tengo, pero no comeré.",
+              "Guarda 9 comidas hasta el final."
+            ],
+            "fr": [
+              "J'ai faim mais je ne mangerai pas.",
+              "Garde 9 aliments jusqu'à la fin."
+            ],
+            "it": [
+              "Ho così fame, ma non mangerò.",
+              "Conserva 9 cibi fino alla fine."
+            ],
+            "ja": [
+              "腹減った。 けど食べない。",
+              "最後まで 飯を9個もっとけ。"
+            ],
+            "ko": [
+              "너무 배고프지만, 먹지는 않겠다.",
+              "내가 먹을 것 9개를 끝날 때까지 지켜라."
+            ],
             "pt-br": [
               "Muita fome, mas não vou comer.",
               "Guarde 9 comidas até o fim."
+            ],
+            "ru": [
+              "Так голоден, но я не буду есть.",
+              "Сохраняй 9 еды до самого конца."
+            ],
+            "s-cn": [
+              "好饿，但我不能吃。",
+              "留九份食物，直到最后。"
+            ],
+            "t-cn": [
+              "好餓，但我不能吃。",
+              "留九份食物，直到最後。"
             ]
           },
           "provenance": {
@@ -1419,9 +2688,45 @@
           "So hungry, but I will not eat.",
           "Keep 9 foods until the end."
         ],
+        "de": [
+          "So hungrig, aber ich esse nicht.",
+          "Behalte 9 Stück Futter bis zum Ende."
+        ],
+        "es": [
+          "Qué hambre tengo, pero no comeré.",
+          "Guarda 9 comidas hasta el final."
+        ],
+        "fr": [
+          "J'ai faim mais je ne mangerai pas.",
+          "Garde 9 aliments jusqu'à la fin."
+        ],
+        "it": [
+          "Ho così fame, ma non mangerò.",
+          "Conserva 9 cibi fino alla fine."
+        ],
+        "ja": [
+          "腹減った。 けど食べない。",
+          "最後まで 飯を9個もっとけ。"
+        ],
+        "ko": [
+          "너무 배고프지만, 먹지는 않겠다.",
+          "내가 먹을 것 9개를 끝날 때까지 지켜라."
+        ],
         "pt-br": [
           "Muita fome, mas não vou comer.",
           "Guarde 9 comidas até o fim."
+        ],
+        "ru": [
+          "Так голоден, но я не буду есть.",
+          "Сохраняй 9 еды до самого конца."
+        ],
+        "s-cn": [
+          "好饿，但我不能吃。",
+          "留九份食物，直到最后。"
+        ],
+        "t-cn": [
+          "好餓，但我不能吃。",
+          "留九份食物，直到最後。"
         ]
       },
       "silentCues": [],
@@ -1462,10 +2767,55 @@
               "To get them, foods you need.",
               "Keep 9 until we are done."
             ],
+            "de": [
+              "All das Futter ... Wir müssen es haben.",
+              "Um es zu bekommen, brauchst du Futter.",
+              "Behalte 9, bis wir fertig sind."
+            ],
+            "es": [
+              "Todas las comidas las tenemos que conseguir.",
+              "Para conseguirlas, necesitas comida.",
+              "Guarda 9 hasta que terminemos."
+            ],
+            "fr": [
+              "Tous les aliments, il nous les faut.",
+              "Pour les obtenir, il te faut des aliments.",
+              "Gardes-en 9 jusqu'à ce que nous ayons fini."
+            ],
+            "it": [
+              "Tutti i cibi ci servono.",
+              "Per ottenerli, ti servono i cibi.",
+              "Tienine 9 finché non avremo finito."
+            ],
+            "ja": [
+              "飯は 全部要る。",
+              "手に入れるには、 飯が要る。",
+              "終わるまで 9個もっとけ。"
+            ],
+            "ko": [
+              "우리에겐 먹을 것이 필요하다.",
+              "그걸 얻으려면, 먹을 것이 필요하다.",
+              "9개는 끝날 때까지 지켜라."
+            ],
             "pt-br": [
               "Todas as comidas que precisamos ter.",
               "Para consegui-las, comidas você vai precisar.",
               "Guarde 9 até terminarmos."
+            ],
+            "ru": [
+              "Вся еда нам нужна.",
+              "Чтобы их добыть, нужную тебе еду.",
+              "Сохраняй 9 до тех пор, пока мы не закончим."
+            ],
+            "s-cn": [
+              "所有食物我们都要。",
+              "想拿到它们，你需要食物。",
+              "留九份食物，等事情结束。"
+            ],
+            "t-cn": [
+              "所有食物我們都要。",
+              "想拿到它們，你需要食物。",
+              "留九份食物，等事情結束。"
             ]
           },
           "provenance": {
@@ -1489,10 +2839,55 @@
           "To get them, foods you need.",
           "Keep 9 until we are done."
         ],
+        "de": [
+          "All das Futter ... Wir müssen es haben.",
+          "Um es zu bekommen, brauchst du Futter.",
+          "Behalte 9, bis wir fertig sind."
+        ],
+        "es": [
+          "Todas las comidas las tenemos que conseguir.",
+          "Para conseguirlas, necesitas comida.",
+          "Guarda 9 hasta que terminemos."
+        ],
+        "fr": [
+          "Tous les aliments, il nous les faut.",
+          "Pour les obtenir, il te faut des aliments.",
+          "Gardes-en 9 jusqu'à ce que nous ayons fini."
+        ],
+        "it": [
+          "Tutti i cibi ci servono.",
+          "Per ottenerli, ti servono i cibi.",
+          "Tienine 9 finché non avremo finito."
+        ],
+        "ja": [
+          "飯は 全部要る。",
+          "手に入れるには、 飯が要る。",
+          "終わるまで 9個もっとけ。"
+        ],
+        "ko": [
+          "우리에겐 먹을 것이 필요하다.",
+          "그걸 얻으려면, 먹을 것이 필요하다.",
+          "9개는 끝날 때까지 지켜라."
+        ],
         "pt-br": [
           "Todas as comidas que precisamos ter.",
           "Para consegui-las, comidas você vai precisar.",
           "Guarde 9 até terminarmos."
+        ],
+        "ru": [
+          "Вся еда нам нужна.",
+          "Чтобы их добыть, нужную тебе еду.",
+          "Сохраняй 9 до тех пор, пока мы не закончим."
+        ],
+        "s-cn": [
+          "所有食物我们都要。",
+          "想拿到它们，你需要食物。",
+          "留九份食物，等事情结束。"
+        ],
+        "t-cn": [
+          "所有食物我們都要。",
+          "想拿到它們，你需要食物。",
+          "留九份食物，等事情結束。"
         ]
       },
       "silentCues": [],
@@ -1533,10 +2928,55 @@
               "But also I must wait. Temper hunger.",
               "Keep 9 for now."
             ],
+            "de": [
+              "Frisches Futter finden. So gut.",
+              "Aber ich muss auch warten. Hunger zügeln.",
+              "Behalte vorerst 9."
+            ],
+            "es": [
+              "Encontrar comida fresca. Muy bueno.",
+              "Pero también debo esperar. Domar el hambre.",
+              "Guarda 9 por ahora."
+            ],
+            "fr": [
+              "Trouver des aliments frais. C'est vraiment très bon.",
+              "Mais je dois aussi attendre. Tempérer la faim.",
+              "Gardes-en 9 pour l'instant."
+            ],
+            "it": [
+              "Trovare cibi freschi. Molto bene.",
+              "Ma devo anche aspettare. Controllare la fame.",
+              "Conservane 9 per ora."
+            ],
+            "ja": [
+              "新鮮な飯。 いいぞ。",
+              "だが我慢。 空腹をこらえる。",
+              "9個もっとけ。"
+            ],
+            "ko": [
+              "신선한 먹을 것을 찾아서 정말 좋다.",
+              "하지만 나도 기다려야 한다. 배고픔을 다스려야 해.",
+              "일단 9개를 지켜."
+            ],
             "pt-br": [
               "Encontrando comidas frescas. Muito bom.",
               "Mas também preciso esperar. Conter a fome.",
               "Guarde 9 por enquanto."
+            ],
+            "ru": [
+              "Находить свежую еду. Так хорошо.",
+              "Но ещё я должен ждать. Унять голод.",
+              "Сохраняй 9 пока."
+            ],
+            "s-cn": [
+              "找到新鲜食物了。真是太好了。",
+              "但我也得等着。忍住饥饿。",
+              "现在先留九份。"
+            ],
+            "t-cn": [
+              "找到新鮮食物了。真是太好了。",
+              "但我也得等著。忍住飢餓。",
+              "現在先留九份。"
             ]
           },
           "provenance": {
@@ -1560,10 +3000,55 @@
           "But also I must wait. Temper hunger.",
           "Keep 9 for now."
         ],
+        "de": [
+          "Frisches Futter finden. So gut.",
+          "Aber ich muss auch warten. Hunger zügeln.",
+          "Behalte vorerst 9."
+        ],
+        "es": [
+          "Encontrar comida fresca. Muy bueno.",
+          "Pero también debo esperar. Domar el hambre.",
+          "Guarda 9 por ahora."
+        ],
+        "fr": [
+          "Trouver des aliments frais. C'est vraiment très bon.",
+          "Mais je dois aussi attendre. Tempérer la faim.",
+          "Gardes-en 9 pour l'instant."
+        ],
+        "it": [
+          "Trovare cibi freschi. Molto bene.",
+          "Ma devo anche aspettare. Controllare la fame.",
+          "Conservane 9 per ora."
+        ],
+        "ja": [
+          "新鮮な飯。 いいぞ。",
+          "だが我慢。 空腹をこらえる。",
+          "9個もっとけ。"
+        ],
+        "ko": [
+          "신선한 먹을 것을 찾아서 정말 좋다.",
+          "하지만 나도 기다려야 한다. 배고픔을 다스려야 해.",
+          "일단 9개를 지켜."
+        ],
         "pt-br": [
           "Encontrando comidas frescas. Muito bom.",
           "Mas também preciso esperar. Conter a fome.",
           "Guarde 9 por enquanto."
+        ],
+        "ru": [
+          "Находить свежую еду. Так хорошо.",
+          "Но ещё я должен ждать. Унять голод.",
+          "Сохраняй 9 пока."
+        ],
+        "s-cn": [
+          "找到新鲜食物了。真是太好了。",
+          "但我也得等着。忍住饥饿。",
+          "现在先留九份。"
+        ],
+        "t-cn": [
+          "找到新鮮食物了。真是太好了。",
+          "但我也得等著。忍住飢餓。",
+          "現在先留九份。"
         ]
       },
       "silentCues": [],
@@ -1602,8 +3087,35 @@
             "en": [
               "Tempting me. I can hardly stand it! But keep 9. Just a little longer."
             ],
+            "de": [
+              "Es lockt mich. Ich halte es kaum aus! Aber behalte 9. Nur noch ein wenig länger."
+            ],
+            "es": [
+              "Me tientas. ¡Casi no me aguanto! Pero guarda 9. Solo un poco más."
+            ],
+            "fr": [
+              "Tu me tentes. Je n'en peux plus ! Mais gardes-en 9. Juste un peu plus longtemps."
+            ],
+            "it": [
+              "Mi tenti. A stento riesco a resistere! Ma conservane 9. Ancora un po'."
+            ],
+            "ja": [
+              "食べたい。 我慢できない！ でも9個。あと少し。"
+            ],
+            "ko": [
+              "날 유혹하는군. 도저히 못 참겠어! 그래도 9개는 지켜라. 조금만 더."
+            ],
             "pt-br": [
               "Me tentando. Quase não aguento! Mas guarde 9. Só mais um pouco."
+            ],
+            "ru": [
+              "Искушаешь меня. Я еле терплю! Но сохрани 9. Ещё чуть-чуть."
+            ],
+            "s-cn": [
+              "食物一直在诱惑我。快忍不住了！但要留九份。再等一会儿。"
+            ],
+            "t-cn": [
+              "食物一直在誘惑我。快忍不住了！ 但要留九份。再等一會兒。"
             ]
           },
           "provenance": {
@@ -1623,8 +3135,35 @@
         "en": [
           "Tempting me. I can hardly stand it! But keep 9. Just a little longer."
         ],
+        "de": [
+          "Es lockt mich. Ich halte es kaum aus! Aber behalte 9. Nur noch ein wenig länger."
+        ],
+        "es": [
+          "Me tientas. ¡Casi no me aguanto! Pero guarda 9. Solo un poco más."
+        ],
+        "fr": [
+          "Tu me tentes. Je n'en peux plus ! Mais gardes-en 9. Juste un peu plus longtemps."
+        ],
+        "it": [
+          "Mi tenti. A stento riesco a resistere! Ma conservane 9. Ancora un po'."
+        ],
+        "ja": [
+          "食べたい。 我慢できない！ でも9個。あと少し。"
+        ],
+        "ko": [
+          "날 유혹하는군. 도저히 못 참겠어! 그래도 9개는 지켜라. 조금만 더."
+        ],
         "pt-br": [
           "Me tentando. Quase não aguento! Mas guarde 9. Só mais um pouco."
+        ],
+        "ru": [
+          "Искушаешь меня. Я еле терплю! Но сохрани 9. Ещё чуть-чуть."
+        ],
+        "s-cn": [
+          "食物一直在诱惑我。快忍不住了！但要留九份。再等一会儿。"
+        ],
+        "t-cn": [
+          "食物一直在誘惑我。快忍不住了！ 但要留九份。再等一會兒。"
         ]
       },
       "silentCues": [],

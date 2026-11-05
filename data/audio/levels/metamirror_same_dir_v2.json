@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Why are we here?"
             ],
+            "de": [
+              "Warum sind wir hier?"
+            ],
+            "es": [
+              "¿Por qué estamos aquí?"
+            ],
+            "fr": [
+              "Pourquoi sommes-nous ici ?"
+            ],
+            "it": [
+              "Perché siamo qui?"
+            ],
+            "ja": [
+              "なぜここに来たんだ？"
+            ],
+            "ko": [
+              "우린 왜 여기 있는 거지?"
+            ],
             "pt-br": [
               "Por que estamos aqui?"
+            ],
+            "ru": [
+              "Почему мы здесь?"
+            ],
+            "s-cn": [
+              "我们为什么在这里？"
+            ],
+            "t-cn": [
+              "我們為什麼在這裡？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "The Chiefs want you to see this sequence. They said you'll need these ideas where you're going."
             ],
+            "de": [
+              "Die Obersten möchten, dass du dir diese Sequenz ansiehst. Sie haben gesagt, dort, wo du hingehst, wirst du diese Prinzipien brauchen."
+            ],
+            "es": [
+              "Los jefes quieren que veas esta secuencia. Dijeron que necesitarás estas ideas allá adonde vas a ir."
+            ],
+            "fr": [
+              "Les chefs veulent que vous voyiez cette séquence. Ils ont dit que vous aurez besoin de ces notions là où vous allez."
+            ],
+            "it": [
+              "I Capi vogliono che tu veda questa sequenza. Hanno detto che ti serviranno queste idee dove stai andando."
+            ],
+            "ja": [
+              "長たちが、この一連の課題を 君に見せたいと言ってね。 これから行く場所で、 ここで得る考え方が必要になるそうだ。"
+            ],
+            "ko": [
+              "원로회에서 네게 이걸 알려 주라고 했어. 네가 가려는 곳에서는 이런 개념을 알아야 할 거라더군."
+            ],
             "pt-br": [
               "Os chefes querem que você veja esta sequência. Disseram que você vai precisar dessas ideias pra onde está indo."
+            ],
+            "ru": [
+              "Главы хотят, чтобы ты увидел эту последовательность. Они сказали, что эти идеи понадобятся тебе там, куда ты направляешься."
+            ],
+            "s-cn": [
+              "首席镜匠们想让你过一下这组试炼。他们说，到了你要去的地方，这些思路会派上用场。"
+            ],
+            "t-cn": [
+              "首席鏡匠們想讓你過一下這組試煉。 他們說，到了你要去的地方，這些思路會派上用場。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Where I'm going? I've gone pretty far by now, I thought."
             ],
+            "de": [
+              "Wo ich hingehe? Ich habe gedacht, ich wäre inzwischen schon ziemlich weit gekommen."
+            ],
+            "es": [
+              "¿Adónde voy? Ya he llegado bastante lejos a estas alturas, pensé."
+            ],
+            "fr": [
+              "Là où je vais ? Il me semblait pourtant être déjà allé assez loin."
+            ],
+            "it": [
+              "Dove sto andando? Ne ho già fatta di strada finora, pensai."
+            ],
+            "ja": [
+              "これから行く場所？ もうずいぶん遠くまで来たつもりだけど。"
+            ],
+            "ko": [
+              "내가 가려는 곳? 이제 꽤 멀리까지 왔다는 생각이 들었어."
+            ],
             "pt-br": [
               "Pra onde eu vou? Já fui bem longe até aqui, pensei."
+            ],
+            "ru": [
+              "Куда я направляюсь? Да я уже довольно далеко забрался, подумал я."
+            ],
+            "s-cn": [
+              "我要去哪儿？我还以为 自己已经走得够远了。"
+            ],
+            "t-cn": [
+              "我要去哪兒？我還以為 自己已經走得夠遠了。"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Try it."
             ],
+            "de": [
+              "Probier's aus."
+            ],
+            "es": [
+              "Pruébalo."
+            ],
+            "fr": [
+              "Essayez."
+            ],
+            "it": [
+              "Prova."
+            ],
+            "ja": [
+              "やってごらん。"
+            ],
+            "ko": [
+              "해 봐."
+            ],
             "pt-br": [
               "Tente."
+            ],
+            "ru": [
+              "Попробуй."
+            ],
+            "s-cn": [
+              "试试吧。"
+            ],
+            "t-cn": [
+              "試試吧。"
             ]
           },
           "provenance": {
@@ -113,11 +230,65 @@
           "Where I'm going? I've gone pretty far by now, I thought.",
           "Try it."
         ],
+        "de": [
+          "Warum sind wir hier?",
+          "Die Obersten möchten, dass du dir diese Sequenz ansiehst. Sie haben gesagt, dort, wo du hingehst, wirst du diese Prinzipien brauchen.",
+          "Wo ich hingehe? Ich habe gedacht, ich wäre inzwischen schon ziemlich weit gekommen.",
+          "Probier's aus."
+        ],
+        "es": [
+          "¿Por qué estamos aquí?",
+          "Los jefes quieren que veas esta secuencia. Dijeron que necesitarás estas ideas allá adonde vas a ir.",
+          "¿Adónde voy? Ya he llegado bastante lejos a estas alturas, pensé.",
+          "Pruébalo."
+        ],
+        "fr": [
+          "Pourquoi sommes-nous ici ?",
+          "Les chefs veulent que vous voyiez cette séquence. Ils ont dit que vous aurez besoin de ces notions là où vous allez.",
+          "Là où je vais ? Il me semblait pourtant être déjà allé assez loin.",
+          "Essayez."
+        ],
+        "it": [
+          "Perché siamo qui?",
+          "I Capi vogliono che tu veda questa sequenza. Hanno detto che ti serviranno queste idee dove stai andando.",
+          "Dove sto andando? Ne ho già fatta di strada finora, pensai.",
+          "Prova."
+        ],
+        "ja": [
+          "なぜここに来たんだ？",
+          "長たちが、この一連の課題を 君に見せたいと言ってね。 これから行く場所で、 ここで得る考え方が必要になるそうだ。",
+          "これから行く場所？ もうずいぶん遠くまで来たつもりだけど。",
+          "やってごらん。"
+        ],
+        "ko": [
+          "우린 왜 여기 있는 거지?",
+          "원로회에서 네게 이걸 알려 주라고 했어. 네가 가려는 곳에서는 이런 개념을 알아야 할 거라더군.",
+          "내가 가려는 곳? 이제 꽤 멀리까지 왔다는 생각이 들었어.",
+          "해 봐."
+        ],
         "pt-br": [
           "Por que estamos aqui?",
           "Os chefes querem que você veja esta sequência. Disseram que você vai precisar dessas ideias pra onde está indo.",
           "Pra onde eu vou? Já fui bem longe até aqui, pensei.",
           "Tente."
+        ],
+        "ru": [
+          "Почему мы здесь?",
+          "Главы хотят, чтобы ты увидел эту последовательность. Они сказали, что эти идеи понадобятся тебе там, куда ты направляешься.",
+          "Куда я направляюсь? Да я уже довольно далеко забрался, подумал я.",
+          "Попробуй."
+        ],
+        "s-cn": [
+          "我们为什么在这里？",
+          "首席镜匠们想让你过一下这组试炼。他们说，到了你要去的地方，这些思路会派上用场。",
+          "我要去哪儿？我还以为 自己已经走得够远了。",
+          "试试吧。"
+        ],
+        "t-cn": [
+          "我們為什麼在這裡？",
+          "首席鏡匠們想讓你過一下這組試煉。 他們說，到了你要去的地方，這些思路會派上用場。",
+          "我要去哪兒？我還以為 自己已經走得夠遠了。",
+          "試試吧。"
         ]
       },
       "silentCues": [],

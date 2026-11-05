@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -26,11 +35,65 @@
               "but wood, metal, and stone block these beams and your suit does not.",
               "It must be built from materials... exotic and far advanced."
             ],
+            "de": [
+              "Diese Apparatur von dir ... Bei einem solchen Gerät würde ich erwarten, dass die Streben aus leichtem, lackiertem Holz gefertigt sind,",
+              "vielleicht etwas Metall an den Gelenken, aufgeladene Steine als Antrieb;",
+              "aber Holz, Metall und Stein blockieren diese Strahlen, dein Anzug hingegen nicht.",
+              "Er muss aus exotischen, hochentwickelten Werkstoffen gefertigt sein."
+            ],
+            "es": [
+              "Ese artilugio tuyo... Lo normal sería que los soportes de un aparato así fuesen de madera ligera, lacada,",
+              "quizá con algo de metal en las uniones, y piedras cargadas para impulsarlo;",
+              "pero la madera, el metal y la piedra bloquean estos haces y tu traje no.",
+              "Debe de estar hecho de materiales... exóticos y muy avanzados."
+            ],
+            "fr": [
+              "Votre attirail... Je m'attendrais à ce que les montants d'un tel dispositif soient faits de bois léger, laqué,",
+              "avec peut-être du métal aux articulations, et des pierres chargées pour la propulsion ;",
+              "mais le bois, le métal et la pierre bloquent ces rayons, contrairement à votre combinaison.",
+              "Elle doit être fabriquée à partir de matériaux... exotiques et très avancés."
+            ],
+            "it": [
+              "Quell'aggeggio che indossi... Mi aspetterei che i sostegni di un simile dispositivo fossero fatti di legno leggero, laccato,",
+              "magari un po' di metallo alle giunture, pietre cariche come forza motrice;",
+              "ma legno, metallo e pietra bloccano questi raggi e la tua tuta no.",
+              "Dev'essere fatta di materiali... esotici e molto avanzati."
+            ],
+            "ja": [
+              "そのスーツ、見た目も音も… 変わっとるな。",
+              "鋼や鉄と違って 光を遮らんのだな。",
+              "木も金属も石も、このビームを遮る。 じゃが、おぬしの服は遮らぬ。",
+              "特殊な素材なのか？"
+            ],
+            "ko": [
+              "네가 쓰는 그 장치... 그런 장치의 지지대라면 가벼운 나무를 깎아서 옻칠을 했을 법한데,",
+              "연결 부위에는 금속을 좀 쓰고, 충전된 돌을 동력원으로 삼고;",
+              "그런데 나무도, 금속도, 돌도 이 빔을 막는데 네 작업복은 그렇지 않네.",
+              "분명 특수한 재료로 만들었겠군... 훨씬 진보된 재료로."
+            ],
             "pt-br": [
               "Essa sua engenhoca... Eu esperaria que as hastes de um aparelho assim fossem feitas de madeira leve, laqueada,",
               "talvez com metal nas articulações, e pedras carregadas para gerar movimento;",
               "mas madeira, metal e pedra bloqueiam esses feixes e seu traje não.",
               "Deve ser feito de materiais... exóticos e muito avançados."
+            ],
+            "ru": [
+              "Это твоё приспособление... Я бы ожидал, что каркас такого устройства сделан из лёгкого дерева, покрытого лаком,",
+              "может, с металлическими креплениями, а приводят его в движение заряженные камни;",
+              "но дерево, металл и камень задерживают эти лучи, а твой костюм нет.",
+              "Должно быть, он сделан из материалов... диковинных и весьма совершенных."
+            ],
+            "s-cn": [
+              "你那套装置…… 我本以为这种器械的支架 会是用轻木制成、再上漆的，",
+              "接合处或许会用到些金属， 再以充能石作为动力；",
+              "可木头、金属和石头都会挡住这些光束，而你那套采晶服却不会。",
+              "它必定是用某种…… 奇异而极其先进的材料制成的。"
+            ],
+            "t-cn": [
+              "你那套裝置…… 我本以為這種器械的支架 會是用輕木製成、再上漆的，",
+              "接合處或許會用到些金屬， 再以充能石作為動力；",
+              "可木頭、金屬和石頭都會擋住這些光束， 而你那套採晶服卻不會。",
+              "它必定是用某種…… 奇異而極其先進的材料製成的。"
             ]
           },
           "provenance": {
@@ -54,8 +117,35 @@
             "en": [
               "Quite the opposite, really."
             ],
+            "de": [
+              "Eigentlich genau das Gegenteil."
+            ],
+            "es": [
+              "Más bien al contrario."
+            ],
+            "fr": [
+              "Tout le contraire, en réalité."
+            ],
+            "it": [
+              "Al contrario, in realtà."
+            ],
+            "ja": [
+              "むしろその逆だ。"
+            ],
+            "ko": [
+              "사실은 정반대야."
+            ],
             "pt-br": [
               "Muito pelo contrário, na verdade."
+            ],
+            "ru": [
+              "На самом деле всё наоборот."
+            ],
+            "s-cn": [
+              "恰恰相反。"
+            ],
+            "t-cn": [
+              "恰恰相反。"
             ]
           },
           "provenance": {
@@ -76,8 +166,35 @@
             "en": [
               "Oh?"
             ],
+            "de": [
+              "Oh?"
+            ],
+            "es": [
+              "¿Eh?"
+            ],
+            "fr": [
+              "Ah bon ?"
+            ],
+            "it": [
+              "Oh?"
+            ],
+            "ja": [
+              "ほう？"
+            ],
+            "ko": [
+              "오?"
+            ],
             "pt-br": [
               "Ah?"
+            ],
+            "ru": [
+              "А?"
+            ],
+            "s-cn": [
+              "哦？"
+            ],
+            "t-cn": [
+              "哦？"
             ]
           },
           "provenance": {
@@ -98,8 +215,35 @@
             "en": [
               "It's made of animal bone, leather, sewn with sinews..."
             ],
+            "de": [
+              "Er besteht aus Tierknochen und Leder, vernäht mit Sehnen ..."
+            ],
+            "es": [
+              "Está hecho de hueso de animal, cuero, cosido con tendones..."
+            ],
+            "fr": [
+              "Elle est faite d'os d'animaux et de cuir, cousu avec des tendons..."
+            ],
+            "it": [
+              "È fatta di ossa di animale, cuoio, cucita con tendini..."
+            ],
+            "ja": [
+              "動物の骨と革を 腱で縫い合わせてる…"
+            ],
+            "ko": [
+              "동물의 뼈와 가죽으로 만들어졌고, 힘줄로 꿰맸지..."
+            ],
             "pt-br": [
               "É feito de osso de animal, couro, costurado com tendões..."
+            ],
+            "ru": [
+              "Он сделан из костей, кожи животных, сшит жилами..."
+            ],
+            "s-cn": [
+              "那是兽骨和皮革做的，再用筋腱缝起来……"
+            ],
+            "t-cn": [
+              "那是獸骨和皮革做的，再用筋腱縫起來……"
             ]
           },
           "provenance": {
@@ -120,8 +264,35 @@
             "en": [
               "Because the beams were made to permeate people, so if the suit's more like a person, ... !"
             ],
+            "de": [
+              "Weil die Strahlen darauf ausgelegt sind, Menschen zu durchdringen! Wenn der Anzug also einem Menschen ähnlicher ist ...!"
+            ],
+            "es": [
+              "¡Porque los haces se hicieron para atravesar personas, así que, si el traje se parece más a una persona...!"
+            ],
+            "fr": [
+              "Parce que les faisceaux ont été faits pour traverser les gens, donc si la combinaison est comme une personne... !"
+            ],
+            "it": [
+              "Perché i raggi erano fatti per attraversare le persone, quindi se la tuta è più simile a una persona...!"
+            ],
+            "ja": [
+              "光線は人を通すよう作られてるからか？"
+            ],
+            "ko": [
+              "빔이 사람을 통과하도록 만들어졌기 때문이야. 그러니까 작업복이 사람에 더 가까워지면...!"
+            ],
             "pt-br": [
               "Porque os feixes foram feitos para atravessar pessoas, então, se o traje for mais parecido com uma pessoa...!"
+            ],
+            "ru": [
+              "Ведь лучи были созданы, чтобы проходить сквозь людей, так что если костюм больше похож на человека...!"
+            ],
+            "s-cn": [
+              "因为这些光束本是为了穿透人体而造的， 所以如果采晶服在材质上更接近人体……！"
+            ],
+            "t-cn": [
+              "因為這些光束本是為了穿透人體而造的， 所以如果採晶服在材質上更接近人體……！"
             ]
           },
           "provenance": {
@@ -144,10 +315,55 @@
               "That's the requirement. The suit is just the design that solves the problem.",
               "Sometimes you end up somewhere that would have seemed weird, beforehand."
             ],
+            "de": [
+              "Ja. Unsere Arbeiter mussten in den Strahlen stehen und dabei die Anzüge tragen.",
+              "Das ist die Vorgabe. Der Anzug ist einfach so entworfen, dass er das Problem löst.",
+              "Manchmal landet man an einem Ort, der einem vorher noch komisch vorgekommen wäre."
+            ],
+            "es": [
+              "Sí. Nuestros trabajadores tenían que situarse dentro de los haces con los trajes puestos.",
+              "Ese es el requisito. El traje no es más que el diseño que resuelve el problema.",
+              "A veces acabas en una situación que antes te habría parecido extraña."
+            ],
+            "fr": [
+              "Exact. Nos ouvriers devaient se tenir dans les faisceaux en portant ces combinaisons.",
+              "C'était la contrainte. Cette combinaison n'est que la réponse à un problème technique.",
+              "Parfois, on arrive à une solution qui nous aurait semblé bizarre au départ."
+            ],
+            "it": [
+              "Sì. I nostri operai dovevano stare dentro i raggi indossando le tute.",
+              "Era questo il requisito. La tuta è solo la soluzione progettata per risolvere il problema.",
+              "A volte si arriva a qualcosa che prima sarebbe sembrato strano."
+            ],
+            "ja": [
+              "そうだ。作業員は、この服を着たまま ビームの中に立つ必要があった。",
+              "それが必要だったんだ。 この服は、その条件を満たすように 設計しただけだ。",
+              "ああ、先代の職人の道具だった。"
+            ],
+            "ko": [
+              "그래. 우리 작업자들은 작업복을 입은 채로 빔 안에 서 있어야 했거든.",
+              "그게 필수 조건이야. 작업복은 그저 그 문제를 해결하도록 설계한 결과물이지.",
+              "하다 보면 미리 알았더라면 이상하게 여겼을 결과에 도달하기도 해."
+            ],
             "pt-br": [
               "Sim. Nossos operários precisavam ficar no meio dos feixes enquanto usavam os trajes.",
               "Essa era a exigência. O traje é só o projeto que resolve o problema.",
               "Às vezes você acaba chegando a um resultado que antes teria parecido estranho."
+            ],
+            "ru": [
+              "Да. Нашим рабочим нужно было стоять в лучах в этих костюмах.",
+              "Такова была задача. А костюм — просто конструкция, которая её решает.",
+              "Порой приходишь к такому, что прежде показалось бы странным."
+            ],
+            "s-cn": [
+              "对，我们的工人以前需要穿着采晶服站在光束里。",
+              "要求就是这样。这身采晶服就是为满足这个要求设计出来的。",
+              "有些最终采用的设计，你一开始可能还会觉得很古怪。"
+            ],
+            "t-cn": [
+              "對，我們的工人以前需要穿著採晶服站在光束裡。",
+              "要求就是這樣。這身採晶服就是為滿足這個要求設計出來的。",
+              "有些最終採用的設計，你一開始可能還會覺得很古怪。"
             ]
           },
           "provenance": {
@@ -179,6 +395,84 @@
           "That's the requirement. The suit is just the design that solves the problem.",
           "Sometimes you end up somewhere that would have seemed weird, beforehand."
         ],
+        "de": [
+          "Diese Apparatur von dir ... Bei einem solchen Gerät würde ich erwarten, dass die Streben aus leichtem, lackiertem Holz gefertigt sind,",
+          "vielleicht etwas Metall an den Gelenken, aufgeladene Steine als Antrieb;",
+          "aber Holz, Metall und Stein blockieren diese Strahlen, dein Anzug hingegen nicht.",
+          "Er muss aus exotischen, hochentwickelten Werkstoffen gefertigt sein.",
+          "Eigentlich genau das Gegenteil.",
+          "Oh?",
+          "Er besteht aus Tierknochen und Leder, vernäht mit Sehnen ...",
+          "Weil die Strahlen darauf ausgelegt sind, Menschen zu durchdringen! Wenn der Anzug also einem Menschen ähnlicher ist ...!",
+          "Ja. Unsere Arbeiter mussten in den Strahlen stehen und dabei die Anzüge tragen.",
+          "Das ist die Vorgabe. Der Anzug ist einfach so entworfen, dass er das Problem löst.",
+          "Manchmal landet man an einem Ort, der einem vorher noch komisch vorgekommen wäre."
+        ],
+        "es": [
+          "Ese artilugio tuyo... Lo normal sería que los soportes de un aparato así fuesen de madera ligera, lacada,",
+          "quizá con algo de metal en las uniones, y piedras cargadas para impulsarlo;",
+          "pero la madera, el metal y la piedra bloquean estos haces y tu traje no.",
+          "Debe de estar hecho de materiales... exóticos y muy avanzados.",
+          "Más bien al contrario.",
+          "¿Eh?",
+          "Está hecho de hueso de animal, cuero, cosido con tendones...",
+          "¡Porque los haces se hicieron para atravesar personas, así que, si el traje se parece más a una persona...!",
+          "Sí. Nuestros trabajadores tenían que situarse dentro de los haces con los trajes puestos.",
+          "Ese es el requisito. El traje no es más que el diseño que resuelve el problema.",
+          "A veces acabas en una situación que antes te habría parecido extraña."
+        ],
+        "fr": [
+          "Votre attirail... Je m'attendrais à ce que les montants d'un tel dispositif soient faits de bois léger, laqué,",
+          "avec peut-être du métal aux articulations, et des pierres chargées pour la propulsion ;",
+          "mais le bois, le métal et la pierre bloquent ces rayons, contrairement à votre combinaison.",
+          "Elle doit être fabriquée à partir de matériaux... exotiques et très avancés.",
+          "Tout le contraire, en réalité.",
+          "Ah bon ?",
+          "Elle est faite d'os d'animaux et de cuir, cousu avec des tendons...",
+          "Parce que les faisceaux ont été faits pour traverser les gens, donc si la combinaison est comme une personne... !",
+          "Exact. Nos ouvriers devaient se tenir dans les faisceaux en portant ces combinaisons.",
+          "C'était la contrainte. Cette combinaison n'est que la réponse à un problème technique.",
+          "Parfois, on arrive à une solution qui nous aurait semblé bizarre au départ."
+        ],
+        "it": [
+          "Quell'aggeggio che indossi... Mi aspetterei che i sostegni di un simile dispositivo fossero fatti di legno leggero, laccato,",
+          "magari un po' di metallo alle giunture, pietre cariche come forza motrice;",
+          "ma legno, metallo e pietra bloccano questi raggi e la tua tuta no.",
+          "Dev'essere fatta di materiali... esotici e molto avanzati.",
+          "Al contrario, in realtà.",
+          "Oh?",
+          "È fatta di ossa di animale, cuoio, cucita con tendini...",
+          "Perché i raggi erano fatti per attraversare le persone, quindi se la tuta è più simile a una persona...!",
+          "Sì. I nostri operai dovevano stare dentro i raggi indossando le tute.",
+          "Era questo il requisito. La tuta è solo la soluzione progettata per risolvere il problema.",
+          "A volte si arriva a qualcosa che prima sarebbe sembrato strano."
+        ],
+        "ja": [
+          "そのスーツ、見た目も音も… 変わっとるな。",
+          "鋼や鉄と違って 光を遮らんのだな。",
+          "木も金属も石も、このビームを遮る。 じゃが、おぬしの服は遮らぬ。",
+          "特殊な素材なのか？",
+          "むしろその逆だ。",
+          "ほう？",
+          "動物の骨と革を 腱で縫い合わせてる…",
+          "光線は人を通すよう作られてるからか？",
+          "そうだ。作業員は、この服を着たまま ビームの中に立つ必要があった。",
+          "それが必要だったんだ。 この服は、その条件を満たすように 設計しただけだ。",
+          "ああ、先代の職人の道具だった。"
+        ],
+        "ko": [
+          "네가 쓰는 그 장치... 그런 장치의 지지대라면 가벼운 나무를 깎아서 옻칠을 했을 법한데,",
+          "연결 부위에는 금속을 좀 쓰고, 충전된 돌을 동력원으로 삼고;",
+          "그런데 나무도, 금속도, 돌도 이 빔을 막는데 네 작업복은 그렇지 않네.",
+          "분명 특수한 재료로 만들었겠군... 훨씬 진보된 재료로.",
+          "사실은 정반대야.",
+          "오?",
+          "동물의 뼈와 가죽으로 만들어졌고, 힘줄로 꿰맸지...",
+          "빔이 사람을 통과하도록 만들어졌기 때문이야. 그러니까 작업복이 사람에 더 가까워지면...!",
+          "그래. 우리 작업자들은 작업복을 입은 채로 빔 안에 서 있어야 했거든.",
+          "그게 필수 조건이야. 작업복은 그저 그 문제를 해결하도록 설계한 결과물이지.",
+          "하다 보면 미리 알았더라면 이상하게 여겼을 결과에 도달하기도 해."
+        ],
         "pt-br": [
           "Essa sua engenhoca... Eu esperaria que as hastes de um aparelho assim fossem feitas de madeira leve, laqueada,",
           "talvez com metal nas articulações, e pedras carregadas para gerar movimento;",
@@ -191,6 +485,45 @@
           "Sim. Nossos operários precisavam ficar no meio dos feixes enquanto usavam os trajes.",
           "Essa era a exigência. O traje é só o projeto que resolve o problema.",
           "Às vezes você acaba chegando a um resultado que antes teria parecido estranho."
+        ],
+        "ru": [
+          "Это твоё приспособление... Я бы ожидал, что каркас такого устройства сделан из лёгкого дерева, покрытого лаком,",
+          "может, с металлическими креплениями, а приводят его в движение заряженные камни;",
+          "но дерево, металл и камень задерживают эти лучи, а твой костюм нет.",
+          "Должно быть, он сделан из материалов... диковинных и весьма совершенных.",
+          "На самом деле всё наоборот.",
+          "А?",
+          "Он сделан из костей, кожи животных, сшит жилами...",
+          "Ведь лучи были созданы, чтобы проходить сквозь людей, так что если костюм больше похож на человека...!",
+          "Да. Нашим рабочим нужно было стоять в лучах в этих костюмах.",
+          "Такова была задача. А костюм — просто конструкция, которая её решает.",
+          "Порой приходишь к такому, что прежде показалось бы странным."
+        ],
+        "s-cn": [
+          "你那套装置…… 我本以为这种器械的支架 会是用轻木制成、再上漆的，",
+          "接合处或许会用到些金属， 再以充能石作为动力；",
+          "可木头、金属和石头都会挡住这些光束，而你那套采晶服却不会。",
+          "它必定是用某种…… 奇异而极其先进的材料制成的。",
+          "恰恰相反。",
+          "哦？",
+          "那是兽骨和皮革做的，再用筋腱缝起来……",
+          "因为这些光束本是为了穿透人体而造的， 所以如果采晶服在材质上更接近人体……！",
+          "对，我们的工人以前需要穿着采晶服站在光束里。",
+          "要求就是这样。这身采晶服就是为满足这个要求设计出来的。",
+          "有些最终采用的设计，你一开始可能还会觉得很古怪。"
+        ],
+        "t-cn": [
+          "你那套裝置…… 我本以為這種器械的支架 會是用輕木製成、再上漆的，",
+          "接合處或許會用到些金屬， 再以充能石作為動力；",
+          "可木頭、金屬和石頭都會擋住這些光束， 而你那套採晶服卻不會。",
+          "它必定是用某種…… 奇異而極其先進的材料製成的。",
+          "恰恰相反。",
+          "哦？",
+          "那是獸骨和皮革做的，再用筋腱縫起來……",
+          "因為這些光束本是為了穿透人體而造的， 所以如果採晶服在材質上更接近人體……！",
+          "對，我們的工人以前需要穿著採晶服站在光束裡。",
+          "要求就是這樣。這身採晶服就是為滿足這個要求設計出來的。",
+          "有些最終採用的設計，你一開始可能還會覺得很古怪。"
         ]
       },
       "silentCues": [],
@@ -229,8 +562,35 @@
             "en": [
               "You said they 'needed' to stand in the beams... they don't any more?"
             ],
+            "de": [
+              "Du hast gesagt, sie „mussten“ in den Strahlen stehen ... Müssen sie das nicht mehr?"
+            ],
+            "es": [
+              "Has dicho que «tenían» que situarse dentro de los haces... ¿Ya no hace falta?"
+            ],
+            "fr": [
+              "Vous avez dit qu'ils « devaient » se tenir dans les faisceaux... ce n'est plus le cas ?"
+            ],
+            "it": [
+              "Hai detto che 'dovevano' stare dentro i raggi... ora non più?"
+            ],
+            "ja": [
+              "道具とな…"
+            ],
+            "ko": [
+              "빔 안에 서 있어야 '했다'고 했지... 지금은 아니야?"
+            ],
             "pt-br": [
               "Você disse que eles 'precisavam' ficar no meio dos feixes... não precisam mais?"
+            ],
+            "ru": [
+              "Ты сказал, им «нужно было» стоять в лучах... а теперь не нужно?"
+            ],
+            "s-cn": [
+              "你说他们“需要”站进光束里……现在已经不需要了吗？"
+            ],
+            "t-cn": [
+              "你說他們「需要」站進光束裡……現在已經不需要了嗎？"
             ]
           },
           "provenance": {
@@ -252,9 +612,45 @@
               "That whole way of doing things collapsed. Why it collapsed is a secret.",
               "We can't build new Beamcasters, any more. I'll get to that, but refurbishing this old suit was the first step!"
             ],
+            "de": [
+              "Das ganze System ist zusammengebrochen. Warum das passiert ist, ist ein Geheimnis.",
+              "Wir können keine neuen Strahlenwerfer mehr bauen. Dazu komme ich noch, aber der erste Schritt war, diesen alten Anzug wieder zum Laufen zu bringen!"
+            ],
+            "es": [
+              "Toda esa forma de hacer las cosas se vino abajo. El motivo es un secreto.",
+              "Ya no podemos construir nuevos proyectores de haces. Ya hablaré de eso, ¡pero restaurar este viejo traje era el primer paso!"
+            ],
+            "fr": [
+              "Tout ce système s'est effondré. Pourquoi, c'est un secret.",
+              "On ne peut plus fabriquer de nouveaux projecteurs. J'y viendrai, mais remettre en état cette vieille combinaison était la première étape !"
+            ],
+            "it": [
+              "Tutto quel modo di fare è crollato. Il motivo del crollo è un segreto.",
+              "Non possiamo più costruire nuovi lanciaraggi. Ci arriverò, ma rimettere a nuovo questa vecchia tuta era il primo passo!"
+            ],
+            "ja": [
+              "そうしたやり方は、すべて崩壊した。 なぜ崩壊したのかは、秘密だ。",
+              "新しく作れなくなったんだ。 それをどうにかしたい…"
+            ],
+            "ko": [
+              "그 작업 방식 자체가 무너졌어. 왜 무너졌는지는 비밀이야.",
+              "이제는 빔캐스터를 새로 만들 수 없어. 그 이야기는 나중에 할게, 우선은 이 낡은 작업복을 다시 작동시키는 게 첫 단계였지!"
+            ],
             "pt-br": [
               "Todo aquele modo de fazer as coisas ruiu. O motivo é segredo.",
               "Não conseguimos mais construir Lança-feixes. Já vou chegar lá, mas reformar este traje velho era o primeiro passo!"
+            ],
+            "ru": [
+              "Вся эта система рухнула. Почему она рухнула — секрет.",
+              "Мы больше не можем строить лучемёты. Я ещё об этом расскажу, но сначала нужно было восстановить этот старый костюм!"
+            ],
+            "s-cn": [
+              "那一整套做法已经崩溃了。 至于为何崩溃，是个秘密。",
+              "我们造不出新的光束发射器了。 但我早晚会解决这问题，翻新这套旧采晶服就是第一步！"
+            ],
+            "t-cn": [
+              "那一整套做法已經崩潰了。 至於為何崩潰，是個秘密。",
+              "我們造不出新的光束發射器了。 但我早晚會解決這問題，翻新這套舊採晶服就是第一步！"
             ]
           },
           "provenance": {
@@ -277,10 +673,55 @@
           "That whole way of doing things collapsed. Why it collapsed is a secret.",
           "We can't build new Beamcasters, any more. I'll get to that, but refurbishing this old suit was the first step!"
         ],
+        "de": [
+          "Du hast gesagt, sie „mussten“ in den Strahlen stehen ... Müssen sie das nicht mehr?",
+          "Das ganze System ist zusammengebrochen. Warum das passiert ist, ist ein Geheimnis.",
+          "Wir können keine neuen Strahlenwerfer mehr bauen. Dazu komme ich noch, aber der erste Schritt war, diesen alten Anzug wieder zum Laufen zu bringen!"
+        ],
+        "es": [
+          "Has dicho que «tenían» que situarse dentro de los haces... ¿Ya no hace falta?",
+          "Toda esa forma de hacer las cosas se vino abajo. El motivo es un secreto.",
+          "Ya no podemos construir nuevos proyectores de haces. Ya hablaré de eso, ¡pero restaurar este viejo traje era el primer paso!"
+        ],
+        "fr": [
+          "Vous avez dit qu'ils « devaient » se tenir dans les faisceaux... ce n'est plus le cas ?",
+          "Tout ce système s'est effondré. Pourquoi, c'est un secret.",
+          "On ne peut plus fabriquer de nouveaux projecteurs. J'y viendrai, mais remettre en état cette vieille combinaison était la première étape !"
+        ],
+        "it": [
+          "Hai detto che 'dovevano' stare dentro i raggi... ora non più?",
+          "Tutto quel modo di fare è crollato. Il motivo del crollo è un segreto.",
+          "Non possiamo più costruire nuovi lanciaraggi. Ci arriverò, ma rimettere a nuovo questa vecchia tuta era il primo passo!"
+        ],
+        "ja": [
+          "道具とな…",
+          "そうしたやり方は、すべて崩壊した。 なぜ崩壊したのかは、秘密だ。",
+          "新しく作れなくなったんだ。 それをどうにかしたい…"
+        ],
+        "ko": [
+          "빔 안에 서 있어야 '했다'고 했지... 지금은 아니야?",
+          "그 작업 방식 자체가 무너졌어. 왜 무너졌는지는 비밀이야.",
+          "이제는 빔캐스터를 새로 만들 수 없어. 그 이야기는 나중에 할게, 우선은 이 낡은 작업복을 다시 작동시키는 게 첫 단계였지!"
+        ],
         "pt-br": [
           "Você disse que eles 'precisavam' ficar no meio dos feixes... não precisam mais?",
           "Todo aquele modo de fazer as coisas ruiu. O motivo é segredo.",
           "Não conseguimos mais construir Lança-feixes. Já vou chegar lá, mas reformar este traje velho era o primeiro passo!"
+        ],
+        "ru": [
+          "Ты сказал, им «нужно было» стоять в лучах... а теперь не нужно?",
+          "Вся эта система рухнула. Почему она рухнула — секрет.",
+          "Мы больше не можем строить лучемёты. Я ещё об этом расскажу, но сначала нужно было восстановить этот старый костюм!"
+        ],
+        "s-cn": [
+          "你说他们“需要”站进光束里……现在已经不需要了吗？",
+          "那一整套做法已经崩溃了。 至于为何崩溃，是个秘密。",
+          "我们造不出新的光束发射器了。 但我早晚会解决这问题，翻新这套旧采晶服就是第一步！"
+        ],
+        "t-cn": [
+          "你說他們「需要」站進光束裡……現在已經不需要了嗎？",
+          "那一整套做法已經崩潰了。 至於為何崩潰，是個秘密。",
+          "我們造不出新的光束發射器了。 但我早晚會解決這問題，翻新這套舊採晶服就是第一步！"
         ]
       },
       "silentCues": [],

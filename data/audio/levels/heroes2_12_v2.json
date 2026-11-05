@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -29,6 +38,60 @@
               "small, no walking, we just sit there.",
               "Warming our feet by the fire."
             ],
+            "de": [
+              "Hätte ich geahnt, dass mich die Gründung einer Umzugsfirma in den Osten führen würde,",
+              "umringt von scheußlichen Kreaturen, ohne auch nur ein einziges Buch im Gepäck,",
+              "hätte ich stattdessen eine Firma gegründet, die sich dem Sitzen verschreibt.",
+              "So was wie ... Wachen. Aber Wachen, die niemals Ärger haben.",
+              "Ganz entspannte Wachen, für Gebäude, die niemand besucht,",
+              "ein kleiner Job, kein Herumlaufen, wir sitzen einfach nur da.",
+              "Und wärmen uns die Füße am Feuer."
+            ],
+            "es": [
+              "De haber sabido que abrir una empresa de mudanzas me llevaría al este,",
+              "rodeado de criaturas inmundas, sin llevar ni un libro encima,",
+              "habría montado alguna empresa sobre ser sedentario, en lugar de eso.",
+              "Como... una de guardias. Pero de guardias que nunca tengan ningún problema.",
+              "Guardias apacibles, para edificios a los que no va nadie nunca,",
+              "sitios pequeños, que no haya que caminar, en los que haya que estar sentados.",
+              "Con los pies calentitos junto al fuego."
+            ],
+            "fr": [
+              "Si j'avais su que monter une entreprise de déménagement m'emmènerait à l'Est,",
+              "entouré de sales créatures, sans avoir emporté un seul livre,",
+              "J'aurais fini par monter une société de gens sédentaires, à la place.",
+              "Genre... des gardes. Mais des gardes qui n'auraient jamais d'ennuis.",
+              "Des gardes tranquilles, postés sur des bâtiments où personne ne va,",
+              "trop petits pour avoir à marcher, où on peut juste rester assis.",
+              "Les pieds au chaud devant un bon feu."
+            ],
+            "it": [
+              "Se avessi saputo che aprire una ditta di traslochi mi avrebbe portato a est,",
+              "circondato da creature fetide, senza nemmeno un libro,",
+              "avrei invece fondato una ditta di immobilità.",
+              "Stare fermi come le guardie. Di quelle che non hanno mai problemi, però.",
+              "Guardie semplici, per edifici dove non va nessuno,",
+              "piccoli, niente camminate. Stiamo seduti lì e basta.",
+              "A scaldarci i piedi davanti al fuoco."
+            ],
+            "ja": [
+              "運送屋を始めたら 東に行くことになって…",
+              "そこで本一冊もなく 怪物に囲まれると知ってたなら…",
+              "代わりに、動かずに済む 会社を始めてたわい。",
+              "例えば…衛兵。 面倒とは無縁の衛兵を。",
+              "人気のない場所を守る 気楽な衛兵がいいな。",
+              "少人数で、どこにも行かず ただ座って…",
+              "たき火で 足を暖めるんじゃ。"
+            ],
+            "ko": [
+              "이사 회사를 차리는 일이 날 동부로 이끌 줄 알았다면,",
+              "역겨운 생물들에 둘러싸인 채, 책 한 권도 가져오지 못했는데.",
+              "차라리 앉아만 있는 일자리를 찾았을 거야.",
+              "그냥... 경비병 같은 거. 그런데, 아무 문제도 없는 경비병.",
+              "아무도 안 오는 건물에서 일하는 느긋한 경비병.",
+              "작고, 안 걷고, 그냥 앉아 있기만 하지.",
+              "불 옆에서 발을 녹이면서."
+            ],
             "pt-br": [
               "Se eu soubesse que abrir uma transportadora me levaria pro Leste,",
               "cercado por criaturas nojentas, nem um livro trouxe comigo,",
@@ -37,6 +100,33 @@
               "Guardas casuais, pra prédios onde ninguém vai,",
               "pequenos, sem andar, a gente só ficaria sentado lá.",
               "Esquentando os pés perto do fogo."
+            ],
+            "ru": [
+              "Знал бы я, что открытие транспортной компании занесёт меня на восток,",
+              "в окружении мерзких тварей, и ни одной книги с собой,",
+              "я бы, пожалуй, основал какое-нибудь общество любителей сидячего образа жизни.",
+              "Ну, вроде стражи. Только стражи, у которой никогда не бывает проблем.",
+              "Обычная стража, в зданиях, куда никто не ходит,",
+              "маленьких, без ходьбы, мы просто сидим.",
+              "Греем ноги у огня."
+            ],
+            "s-cn": [
+              "要是早知道开搬运公司会把我带到东方来，",
+              "被这些恶心的怪物包围，身边一本书都没带，",
+              "我宁可开一家坐着不用动的公司。",
+              "比如说……保安公司。 不过是永远不会遇上事的那种保安。",
+              "悠闲的保安，在没人去的建筑物里，",
+              "地方小，不用巡逻，就往那儿一坐。",
+              "在炉火旁烤烤脚。"
+            ],
+            "t-cn": [
+              "要是早知道開搬運公司會把我帶到東方來，",
+              "被這些噁心的怪物包圍，身邊一本書都沒帶，",
+              "我寧可開一家坐著不用動的公司。",
+              "比如說……保安公司。 不過是永遠不會遇上事的那種保安。",
+              "悠閒的保安，在沒人去的建築物裡，",
+              "地方小，不用巡邏，就往那兒一坐。",
+              "在爐火旁烤烤腳。"
             ]
           },
           "provenance": {
@@ -68,6 +158,60 @@
           "small, no walking, we just sit there.",
           "Warming our feet by the fire."
         ],
+        "de": [
+          "Hätte ich geahnt, dass mich die Gründung einer Umzugsfirma in den Osten führen würde,",
+          "umringt von scheußlichen Kreaturen, ohne auch nur ein einziges Buch im Gepäck,",
+          "hätte ich stattdessen eine Firma gegründet, die sich dem Sitzen verschreibt.",
+          "So was wie ... Wachen. Aber Wachen, die niemals Ärger haben.",
+          "Ganz entspannte Wachen, für Gebäude, die niemand besucht,",
+          "ein kleiner Job, kein Herumlaufen, wir sitzen einfach nur da.",
+          "Und wärmen uns die Füße am Feuer."
+        ],
+        "es": [
+          "De haber sabido que abrir una empresa de mudanzas me llevaría al este,",
+          "rodeado de criaturas inmundas, sin llevar ni un libro encima,",
+          "habría montado alguna empresa sobre ser sedentario, en lugar de eso.",
+          "Como... una de guardias. Pero de guardias que nunca tengan ningún problema.",
+          "Guardias apacibles, para edificios a los que no va nadie nunca,",
+          "sitios pequeños, que no haya que caminar, en los que haya que estar sentados.",
+          "Con los pies calentitos junto al fuego."
+        ],
+        "fr": [
+          "Si j'avais su que monter une entreprise de déménagement m'emmènerait à l'Est,",
+          "entouré de sales créatures, sans avoir emporté un seul livre,",
+          "J'aurais fini par monter une société de gens sédentaires, à la place.",
+          "Genre... des gardes. Mais des gardes qui n'auraient jamais d'ennuis.",
+          "Des gardes tranquilles, postés sur des bâtiments où personne ne va,",
+          "trop petits pour avoir à marcher, où on peut juste rester assis.",
+          "Les pieds au chaud devant un bon feu."
+        ],
+        "it": [
+          "Se avessi saputo che aprire una ditta di traslochi mi avrebbe portato a est,",
+          "circondato da creature fetide, senza nemmeno un libro,",
+          "avrei invece fondato una ditta di immobilità.",
+          "Stare fermi come le guardie. Di quelle che non hanno mai problemi, però.",
+          "Guardie semplici, per edifici dove non va nessuno,",
+          "piccoli, niente camminate. Stiamo seduti lì e basta.",
+          "A scaldarci i piedi davanti al fuoco."
+        ],
+        "ja": [
+          "運送屋を始めたら 東に行くことになって…",
+          "そこで本一冊もなく 怪物に囲まれると知ってたなら…",
+          "代わりに、動かずに済む 会社を始めてたわい。",
+          "例えば…衛兵。 面倒とは無縁の衛兵を。",
+          "人気のない場所を守る 気楽な衛兵がいいな。",
+          "少人数で、どこにも行かず ただ座って…",
+          "たき火で 足を暖めるんじゃ。"
+        ],
+        "ko": [
+          "이사 회사를 차리는 일이 날 동부로 이끌 줄 알았다면,",
+          "역겨운 생물들에 둘러싸인 채, 책 한 권도 가져오지 못했는데.",
+          "차라리 앉아만 있는 일자리를 찾았을 거야.",
+          "그냥... 경비병 같은 거. 그런데, 아무 문제도 없는 경비병.",
+          "아무도 안 오는 건물에서 일하는 느긋한 경비병.",
+          "작고, 안 걷고, 그냥 앉아 있기만 하지.",
+          "불 옆에서 발을 녹이면서."
+        ],
         "pt-br": [
           "Se eu soubesse que abrir uma transportadora me levaria pro Leste,",
           "cercado por criaturas nojentas, nem um livro trouxe comigo,",
@@ -76,6 +220,33 @@
           "Guardas casuais, pra prédios onde ninguém vai,",
           "pequenos, sem andar, a gente só ficaria sentado lá.",
           "Esquentando os pés perto do fogo."
+        ],
+        "ru": [
+          "Знал бы я, что открытие транспортной компании занесёт меня на восток,",
+          "в окружении мерзких тварей, и ни одной книги с собой,",
+          "я бы, пожалуй, основал какое-нибудь общество любителей сидячего образа жизни.",
+          "Ну, вроде стражи. Только стражи, у которой никогда не бывает проблем.",
+          "Обычная стража, в зданиях, куда никто не ходит,",
+          "маленьких, без ходьбы, мы просто сидим.",
+          "Греем ноги у огня."
+        ],
+        "s-cn": [
+          "要是早知道开搬运公司会把我带到东方来，",
+          "被这些恶心的怪物包围，身边一本书都没带，",
+          "我宁可开一家坐着不用动的公司。",
+          "比如说……保安公司。 不过是永远不会遇上事的那种保安。",
+          "悠闲的保安，在没人去的建筑物里，",
+          "地方小，不用巡逻，就往那儿一坐。",
+          "在炉火旁烤烤脚。"
+        ],
+        "t-cn": [
+          "要是早知道開搬運公司會把我帶到東方來，",
+          "被這些噁心的怪物包圍，身邊一本書都沒帶，",
+          "我寧可開一家坐著不用動的公司。",
+          "比如說……保安公司。 不過是永遠不會遇上事的那種保安。",
+          "悠閒的保安，在沒人去的建築物裡，",
+          "地方小，不用巡邏，就往那兒一坐。",
+          "在爐火旁烤烤腳。"
         ]
       },
       "silentCues": [],
@@ -114,8 +285,35 @@
             "en": [
               "Plenty of fires round here, I suppose. Not the sort I prefer, though."
             ],
+            "de": [
+              "Feuer gibt es hier ja genug. Nur leider nicht von der Sorte, die ich bevorzuge."
+            ],
+            "es": [
+              "Hay muchos fuegos por aquí, supongo. Aunque no son de los que me gustan."
+            ],
+            "fr": [
+              "Des feux, il y en a sûrement un paquet dans le coin. Mais pas du genre que je préfère."
+            ],
+            "it": [
+              "Qui intorno ci sono un sacco di fuochi, suppongo. Non del tipo che preferisco, però."
+            ],
+            "ja": [
+              "この辺りは火が多い。 ワシ好みではないが。"
+            ],
+            "ko": [
+              "이 근처엔 불이 꽤 많겠지. 내가 좋아하는 종류는 아닐 테지만."
+            ],
             "pt-br": [
               "Tem fogo de sobra por aqui, suponho. Mas não do tipo que eu prefiro."
+            ],
+            "ru": [
+              "Пожаров тут, видимо, хватает. Но не таких, как мне по душе."
+            ],
+            "s-cn": [
+              "这附近倒是不缺火。不过不是我想要的那种就是了。"
+            ],
+            "t-cn": [
+              "這附近倒是不缺火。 不過不是我想要的那種就是了。"
             ]
           },
           "provenance": {
@@ -135,8 +333,35 @@
         "en": [
           "Plenty of fires round here, I suppose. Not the sort I prefer, though."
         ],
+        "de": [
+          "Feuer gibt es hier ja genug. Nur leider nicht von der Sorte, die ich bevorzuge."
+        ],
+        "es": [
+          "Hay muchos fuegos por aquí, supongo. Aunque no son de los que me gustan."
+        ],
+        "fr": [
+          "Des feux, il y en a sûrement un paquet dans le coin. Mais pas du genre que je préfère."
+        ],
+        "it": [
+          "Qui intorno ci sono un sacco di fuochi, suppongo. Non del tipo che preferisco, però."
+        ],
+        "ja": [
+          "この辺りは火が多い。 ワシ好みではないが。"
+        ],
+        "ko": [
+          "이 근처엔 불이 꽤 많겠지. 내가 좋아하는 종류는 아닐 테지만."
+        ],
         "pt-br": [
           "Tem fogo de sobra por aqui, suponho. Mas não do tipo que eu prefiro."
+        ],
+        "ru": [
+          "Пожаров тут, видимо, хватает. Но не таких, как мне по душе."
+        ],
+        "s-cn": [
+          "这附近倒是不缺火。不过不是我想要的那种就是了。"
+        ],
+        "t-cn": [
+          "這附近倒是不缺火。 不過不是我想要的那種就是了。"
         ]
       },
       "silentCues": [],

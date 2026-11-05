@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "I've good news! You're not going to die. At least, not anytime *too* soon."
             ],
+            "de": [
+              "Ich habe gute Nachrichten! Du wirst nicht sterben. Jedenfalls nicht allzu bald."
+            ],
+            "es": [
+              "Tengo buenas noticias. ¡No vas a morir! Al menos, no demasiado pronto."
+            ],
+            "fr": [
+              "J'ai une bonne nouvelle. Vous n'allez pas mourir ! Du moins, pas dans un avenir trop proche."
+            ],
+            "it": [
+              "Ho buone notizie. Non morirai! Almeno, non troppo presto."
+            ],
+            "ja": [
+              "いい知らせだ。 君は死なない！ 少なくとも、すぐには。"
+            ],
+            "ko": [
+              "좋은 소식이 있어. 넌 죽지 않아! 적어도, 그렇게 곧 죽지는 않아."
+            ],
             "pt-br": [
               "Tenho boas notícias. Você não vai morrer! Pelo menos, não tão cedo assim."
+            ],
+            "ru": [
+              "У меня хорошие новости. Ты не умрёшь! По крайней мере, не так скоро."
+            ],
+            "s-cn": [
+              "我有个好消息。你不会死！至少没那么快。"
+            ],
+            "t-cn": [
+              "我有個好消息。你不會死！至少沒那麼快。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "What are you saying?"
             ],
+            "de": [
+              "Was soll das heißen?"
+            ],
+            "es": [
+              "¿De qué hablas?"
+            ],
+            "fr": [
+              "Qu'est-ce que vous racontez ?"
+            ],
+            "it": [
+              "Cosa stai dicendo?"
+            ],
+            "ja": [
+              "どういうことだ？"
+            ],
+            "ko": [
+              "무슨 소릴 하는 거지?"
+            ],
             "pt-br": [
               "O que você quer dizer?"
+            ],
+            "ru": [
+              "Что ты хочешь сказать?"
+            ],
+            "s-cn": [
+              "你这话什么意思？"
+            ],
+            "t-cn": [
+              "你這話什麼意思？"
             ]
           },
           "provenance": {
@@ -67,9 +130,45 @@
           "I've good news! You're not going to die. At least, not anytime *too* soon.",
           "What are you saying?"
         ],
+        "de": [
+          "Ich habe gute Nachrichten! Du wirst nicht sterben. Jedenfalls nicht allzu bald.",
+          "Was soll das heißen?"
+        ],
+        "es": [
+          "Tengo buenas noticias. ¡No vas a morir! Al menos, no demasiado pronto.",
+          "¿De qué hablas?"
+        ],
+        "fr": [
+          "J'ai une bonne nouvelle. Vous n'allez pas mourir ! Du moins, pas dans un avenir trop proche.",
+          "Qu'est-ce que vous racontez ?"
+        ],
+        "it": [
+          "Ho buone notizie. Non morirai! Almeno, non troppo presto.",
+          "Cosa stai dicendo?"
+        ],
+        "ja": [
+          "いい知らせだ。 君は死なない！ 少なくとも、すぐには。",
+          "どういうことだ？"
+        ],
+        "ko": [
+          "좋은 소식이 있어. 넌 죽지 않아! 적어도, 그렇게 곧 죽지는 않아.",
+          "무슨 소릴 하는 거지?"
+        ],
         "pt-br": [
           "Tenho boas notícias. Você não vai morrer! Pelo menos, não tão cedo assim.",
           "O que você quer dizer?"
+        ],
+        "ru": [
+          "У меня хорошие новости. Ты не умрёшь! По крайней мере, не так скоро.",
+          "Что ты хочешь сказать?"
+        ],
+        "s-cn": [
+          "我有个好消息。你不会死！至少没那么快。",
+          "你这话什么意思？"
+        ],
+        "t-cn": [
+          "我有個好消息。你不會死！至少沒那麼快。",
+          "你這話什麼意思？"
         ]
       },
       "silentCues": [],
@@ -109,9 +208,45 @@
               "A deal's been struck. Between the Chief Mirrorwrights and ... someone else.",
               "There's a special mirror set within a perimeter of polychromic light ..."
             ],
+            "de": [
+              "Ein Abkommen ist geschlossen worden. Zwischen den Obersten Spiegelwirkern und ... jemand anderem.",
+              "Es gibt einen besonderen Spiegel, eingefasst von vielfarbigem Licht ..."
+            ],
+            "es": [
+              "Se ha llegado a un acuerdo. Entre los espejistas jefes y... otra persona.",
+              "Hay un espejo especial rodeado por un perímetro de luz policromática..."
+            ],
+            "fr": [
+              "Un accord a été conclu. Entre les forgemiroirs en chef et... quelqu'un d'autre.",
+              "Il y a un miroir spécial entouré de lumière polychrome..."
+            ],
+            "it": [
+              "È stato stretto un accordo. Tra i Capi Artefici degli specchi e... qualcun altro.",
+              "C'è uno specchio speciale racchiuso in una cornice di luce policromatica..."
+            ],
+            "ja": [
+              "取引が成立した。 鏡職人の長たちと… 別の誰かとの間で。",
+              "多彩な光を宿した 鏡がある…"
+            ],
+            "ko": [
+              "거래가 성사됐어. 수석 거울공예인들과... 다른 누군가 사이에.",
+              "다색 빛에 둘러싸인 특별한 거울이 있어..."
+            ],
             "pt-br": [
               "Foi feito um acordo. Entre os Chefes Espelhistas e... outra pessoa.",
               "Há um espelho especial cercado por um perímetro de luz policromática..."
+            ],
+            "ru": [
+              "Сделка заключена. Между Главными зеркальщиками и... кое-кем ещё.",
+              "Есть особое зеркало, окружённое полихроматическим светом..."
+            ],
+            "s-cn": [
+              "有一桩交易谈成了。交易双方是首席镜匠们和……另一人。",
+              "有一面特殊的镜子，四周环绕着一圈多色之光……"
+            ],
+            "t-cn": [
+              "有一樁交易談成了。交易雙方是首席鏡匠們和……另一人。",
+              "有一面特殊的鏡子，四周環繞著一圈多色之光……"
             ]
           },
           "provenance": {
@@ -133,9 +268,45 @@
           "A deal's been struck. Between the Chief Mirrorwrights and ... someone else.",
           "There's a special mirror set within a perimeter of polychromic light ..."
         ],
+        "de": [
+          "Ein Abkommen ist geschlossen worden. Zwischen den Obersten Spiegelwirkern und ... jemand anderem.",
+          "Es gibt einen besonderen Spiegel, eingefasst von vielfarbigem Licht ..."
+        ],
+        "es": [
+          "Se ha llegado a un acuerdo. Entre los espejistas jefes y... otra persona.",
+          "Hay un espejo especial rodeado por un perímetro de luz policromática..."
+        ],
+        "fr": [
+          "Un accord a été conclu. Entre les forgemiroirs en chef et... quelqu'un d'autre.",
+          "Il y a un miroir spécial entouré de lumière polychrome..."
+        ],
+        "it": [
+          "È stato stretto un accordo. Tra i Capi Artefici degli specchi e... qualcun altro.",
+          "C'è uno specchio speciale racchiuso in una cornice di luce policromatica..."
+        ],
+        "ja": [
+          "取引が成立した。 鏡職人の長たちと… 別の誰かとの間で。",
+          "多彩な光を宿した 鏡がある…"
+        ],
+        "ko": [
+          "거래가 성사됐어. 수석 거울공예인들과... 다른 누군가 사이에.",
+          "다색 빛에 둘러싸인 특별한 거울이 있어..."
+        ],
         "pt-br": [
           "Foi feito um acordo. Entre os Chefes Espelhistas e... outra pessoa.",
           "Há um espelho especial cercado por um perímetro de luz policromática..."
+        ],
+        "ru": [
+          "Сделка заключена. Между Главными зеркальщиками и... кое-кем ещё.",
+          "Есть особое зеркало, окружённое полихроматическим светом..."
+        ],
+        "s-cn": [
+          "有一桩交易谈成了。交易双方是首席镜匠们和……另一人。",
+          "有一面特殊的镜子，四周环绕着一圈多色之光……"
+        ],
+        "t-cn": [
+          "有一樁交易談成了。交易雙方是首席鏡匠們和……另一人。",
+          "有一面特殊的鏡子，四周環繞著一圈多色之光……"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -26,11 +35,65 @@
               "But, who'd have guessed that a deal with the King would shunt us into *even worse* trouble.",
               "Sometimes, the only way out is ... forward."
             ],
+            "de": [
+              "Wer hätte gedacht, dass wir so viel Ärger bekommen, nur weil wir eine Umzugsfirma gegründet haben.",
+              "Und dass uns all der Ärger eine Abmachung mit dem König einbringt. Ein Weg zur Absolution!",
+              "Aber die Abmachung mit dem König – wer hätte gedacht, dass sie uns in noch schlimmere Schwierigkeiten stürzt.",
+              "Manchmal führt der einzige Ausweg ... nach vorn."
+            ],
+            "es": [
+              "¿Quién imaginaría que abrir una empresa de mudanzas podría meternos en tantos problemas?",
+              "Y que meternos en líos podría llevarnos a un trato con el rey. ¡Una vía hacia la absolución!",
+              "Pero ¿quién iba a imaginar que un trato con el rey nos metería en líos aún peores?",
+              "A veces, la única salida es... seguir adelante."
+            ],
+            "fr": [
+              "Qui aurait cru que monter une boîte de déménagement nous attirerait autant d'ennuis.",
+              "Et que s'attirer des ennuis pouvait mener à un accord avec le roi. Une chance de rédemption !",
+              "Mais, qui aurait cru qu'un accord avec le roi nous attirerait des ennuis encore pires.",
+              "Parfois, la seule issue, c'est... d'aller de l'avant."
+            ],
+            "it": [
+              "Chi avrebbe mai immaginato che aprire una ditta di traslochi ci avrebbe cacciati in così tanti guai.",
+              "E che cacciarsi nei guai potesse portare a un accordo con il Re. Una via verso la redenzione!",
+              "Ma, chi avrebbe immaginato che un accordo con il Re ci avrebbe cacciati in guai ancora peggiori.",
+              "A volte, l'unica via d'uscita è... andare avanti."
+            ],
+            "ja": [
+              "運送屋を始めるのが 俺の罪滅ぼしに繋がるとはな。",
+              "その揉め事が、王との取引につながるとはな。 罪を赦してもらえる道が開けるってわけだ！",
+              "まさか王との取引で、 もっとひでえ揉め事に 巻き込まれるとはな。",
+              "やりきらねぇと。"
+            ],
+            "ko": [
+              "이사 회사를 차린 게 이렇게 큰 곤경으로 이어질 줄 누가 알았겠어.",
+              "게다가 말썽에 휘말린 덕에 국왕과 거래까지 하게 되다니. 면죄부를 얻을 길이 열린 거지!",
+              "그런데, 국왕과의 거래가 우리를 더 심한 말썽으로 밀어 넣을 줄 누가 알았겠어.",
+              "때로는 유일한 출구가... 앞에 있는 법이지."
+            ],
             "pt-br": [
               "Quem diria que abrir uma transportadora poderia trazer tantos problemas pra gente.",
               "E que se meter em encrenca poderia levar a um acordo com o Rei. Um caminho para a absolvição!",
               "Mas, quem diria que um acordo com o Rei nos meteria numa encrenca ainda pior.",
               "Às vezes, a única saída é... seguir em frente."
+            ],
+            "ru": [
+              "Кто бы мог подумать, что, основывая транспортную компанию, мы наживём столько неприятностей.",
+              "И что неприятности могут привести к сделке с королём. Открыть путь к прощению!",
+              "Но кто бы мог подумать, что сделка с королём ввергнет нас в ещё худшие неприятности.",
+              "Иногда единственный путь наружу... вперёд."
+            ],
+            "s-cn": [
+              "谁能想到，开搬运公司竟会给我们惹来这么多麻烦。",
+              "惹上麻烦，竟又能让我们和国王达成交易， 给我一个获赦的机会！",
+              "可谁又能想到，和国王做交易， 会把我们推进更大的麻烦里。",
+              "有时候，唯一的出路就是……继续向前。"
+            ],
+            "t-cn": [
+              "誰能想到，開搬運公司竟會給我們惹來這麼多麻煩。",
+              "惹上麻煩，竟又能讓我們和國王達成交易， 給我一個獲赦的機會！",
+              "可誰又能想到，和國王做交易， 會把我們推進更大的麻煩裡。",
+              "有時候，唯一的出路就是……繼續向前。"
             ]
           },
           "provenance": {
@@ -56,11 +119,65 @@
           "But, who'd have guessed that a deal with the King would shunt us into *even worse* trouble.",
           "Sometimes, the only way out is ... forward."
         ],
+        "de": [
+          "Wer hätte gedacht, dass wir so viel Ärger bekommen, nur weil wir eine Umzugsfirma gegründet haben.",
+          "Und dass uns all der Ärger eine Abmachung mit dem König einbringt. Ein Weg zur Absolution!",
+          "Aber die Abmachung mit dem König – wer hätte gedacht, dass sie uns in noch schlimmere Schwierigkeiten stürzt.",
+          "Manchmal führt der einzige Ausweg ... nach vorn."
+        ],
+        "es": [
+          "¿Quién imaginaría que abrir una empresa de mudanzas podría meternos en tantos problemas?",
+          "Y que meternos en líos podría llevarnos a un trato con el rey. ¡Una vía hacia la absolución!",
+          "Pero ¿quién iba a imaginar que un trato con el rey nos metería en líos aún peores?",
+          "A veces, la única salida es... seguir adelante."
+        ],
+        "fr": [
+          "Qui aurait cru que monter une boîte de déménagement nous attirerait autant d'ennuis.",
+          "Et que s'attirer des ennuis pouvait mener à un accord avec le roi. Une chance de rédemption !",
+          "Mais, qui aurait cru qu'un accord avec le roi nous attirerait des ennuis encore pires.",
+          "Parfois, la seule issue, c'est... d'aller de l'avant."
+        ],
+        "it": [
+          "Chi avrebbe mai immaginato che aprire una ditta di traslochi ci avrebbe cacciati in così tanti guai.",
+          "E che cacciarsi nei guai potesse portare a un accordo con il Re. Una via verso la redenzione!",
+          "Ma, chi avrebbe immaginato che un accordo con il Re ci avrebbe cacciati in guai ancora peggiori.",
+          "A volte, l'unica via d'uscita è... andare avanti."
+        ],
+        "ja": [
+          "運送屋を始めるのが 俺の罪滅ぼしに繋がるとはな。",
+          "その揉め事が、王との取引につながるとはな。 罪を赦してもらえる道が開けるってわけだ！",
+          "まさか王との取引で、 もっとひでえ揉め事に 巻き込まれるとはな。",
+          "やりきらねぇと。"
+        ],
+        "ko": [
+          "이사 회사를 차린 게 이렇게 큰 곤경으로 이어질 줄 누가 알았겠어.",
+          "게다가 말썽에 휘말린 덕에 국왕과 거래까지 하게 되다니. 면죄부를 얻을 길이 열린 거지!",
+          "그런데, 국왕과의 거래가 우리를 더 심한 말썽으로 밀어 넣을 줄 누가 알았겠어.",
+          "때로는 유일한 출구가... 앞에 있는 법이지."
+        ],
         "pt-br": [
           "Quem diria que abrir uma transportadora poderia trazer tantos problemas pra gente.",
           "E que se meter em encrenca poderia levar a um acordo com o Rei. Um caminho para a absolvição!",
           "Mas, quem diria que um acordo com o Rei nos meteria numa encrenca ainda pior.",
           "Às vezes, a única saída é... seguir em frente."
+        ],
+        "ru": [
+          "Кто бы мог подумать, что, основывая транспортную компанию, мы наживём столько неприятностей.",
+          "И что неприятности могут привести к сделке с королём. Открыть путь к прощению!",
+          "Но кто бы мог подумать, что сделка с королём ввергнет нас в ещё худшие неприятности.",
+          "Иногда единственный путь наружу... вперёд."
+        ],
+        "s-cn": [
+          "谁能想到，开搬运公司竟会给我们惹来这么多麻烦。",
+          "惹上麻烦，竟又能让我们和国王达成交易， 给我一个获赦的机会！",
+          "可谁又能想到，和国王做交易， 会把我们推进更大的麻烦里。",
+          "有时候，唯一的出路就是……继续向前。"
+        ],
+        "t-cn": [
+          "誰能想到，開搬運公司竟會給我們惹來這麼多麻煩。",
+          "惹上麻煩，竟又能讓我們和國王達成交易， 給我一個獲赦的機會！",
+          "可誰又能想到，和國王做交易， 會把我們推進更大的麻煩裡。",
+          "有時候，唯一的出路就是……繼續向前。"
         ]
       },
       "silentCues": [],

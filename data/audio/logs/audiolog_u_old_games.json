@@ -3,7 +3,16 @@
   "audioLog": "audiolog_u_old_games",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -22,11 +31,65 @@
               "As our technology advanced, so did our games.",
               "I know that you have gears that can shift into and out of conjunction."
             ],
+            "de": [
+              "Wie die meisten Kulturen begannen wir mit primitiven Spielen – mit Karten etwa oder kleinen Holzfiguren,",
+              "sowie Regeln dafür, was die Karten bedeuten, wohin die Figuren ziehen dürfen und was sich daraus ergibt.",
+              "Mit unserer Technologie haben sich auch die Spiele weiterentwickelt.",
+              "Ich weiß, eure Kultur kennt Zahnräder, die sich miteinander in Eingriff bringen und wieder lösen lassen."
+            ],
+            "es": [
+              "Como la mayoría de las culturas, empezamos con juegos primitivos... objetos como cartas, u hombrecillos de madera,",
+              "y reglas sobre lo que significan las cartas, adónde pueden ir los hombres y qué ocurre como consecuencia.",
+              "Con nuestra tecnología, avanzaron nuestros juegos.",
+              "Sé que tienes engranajes que pueden entrar y salir de conjunción."
+            ],
+            "fr": [
+              "Comme la plupart des cultures, on a commencé par des jeux primitifs : des objets comme des cartes, ou des pions en bois,",
+              "et des règles sur ce que signifient les cartes, où les pions peuvent aller et ce qui se passe en conséquence.",
+              "À mesure que notre technologie avançait, nos jeux aussi.",
+              "Je sais que vous avez des engrenages qui peuvent s'enclencher et se désenclencher."
+            ],
+            "it": [
+              "Come in molte culture, siamo partiti da giochi primitivi... oggetti come carte, o piccoli omini di legno,",
+              "e regole su cosa significano le carte, dove possono andare le pedine e cosa succede di conseguenza.",
+              "Con l'avanzare della nostra tecnologia, avanzarono anche i nostri giochi.",
+              "So che avete degli ingranaggi che possono entrare e uscire da una congiunzione."
+            ],
+            "ja": [
+              "多くの文化と同じく、 原始的な「遊び」を扱うことから 始まったのさ。カードや木製の駒…",
+              "カードそれぞれが持つ意味、 駒がどこへ進めて、そこで何が起こるのか。 そんなルールを決めるところから始まった。",
+              "技術が進歩するにつれて、 ゲームも進歩した。",
+              "技術の進歩とともに、私たちのゲームも 進化していった。君も噛み合わせたり、 外したりできる歯車を持ってるだろう？"
+            ],
+            "ko": [
+              "대부분의 문화가 그렇듯 우리도 원시적인 게임에서 시작했어. 카드나 작은 나무 사람 같은 물건들과,",
+              "카드가 무엇을 의미하는지, 말이 어디로 움직일 수 있고 그 결과 무슨 일이 일어나는지 정하는 규칙 말이야.",
+              "기술이 발전하면서 게임도 발전했어.",
+              "너희에게도 서로 맞물렸다 떨어질 수 있는 톱니바퀴가 있다는 건 알아."
+            ],
             "pt-br": [
               "Como a maioria das culturas, começamos com jogos primitivos: objetos como cartas, ou pequenos homens de madeira,",
               "e regras sobre o que as cartas significam, onde os homens podem ir e o que acontece como resultado.",
               "Com o avanço da tecnologia, nossos jogos evoluíam.",
               "Eu sei que você tem engrenagens que podem entrar e sair de conjunção."
+            ],
+            "ru": [
+              "Как и многие культуры, мы начинали с примитивных игр — с карт или маленьких деревянных человечков,",
+              "и правил о том, что означают карты, куда люди могут идти и что происходит в результате.",
+              "С развитием технологий развивались и наши игры.",
+              "Я знаю, что у вас есть шестерни, которые могут входить в сцепление и выходить из него."
+            ],
+            "s-cn": [
+              "和大多数地方的人一样，我们最初玩的游戏也很简单， 用的是纸牌、小木人之类的东西，",
+              "再定下各种规矩：各张纸牌的含义， 木人能走的位置，走到了会怎样。",
+              "随着技术不断进步，我们的游戏也随之发展。",
+              "我知道，你们有一种齿轮，既能相互咬合，也能相互脱离。"
+            ],
+            "t-cn": [
+              "和大多數地方的人一樣，我們最初玩的遊戲也很簡單， 用的是紙牌、小木人之類的東西，",
+              "再定下各種規矩：各張紙牌的含義， 木人能走的位置，走到了會怎樣。",
+              "隨著技術不斷進步，我們的遊戲也隨之發展。",
+              "我知道，你們有一種齒輪，既能相互咬合， 也能相互脫離。"
             ]
           },
           "provenance": {
@@ -51,9 +114,45 @@
               "Yes. The doorstead we developed uses hundreds together.",
               "Fitting them all, and keeping them precisely tuned, presented a serious challenge!"
             ],
+            "de": [
+              "Ja. Die Torstätte, die wir entwickelt haben, nutzt Hunderte davon zugleich.",
+              "Es war eine beträchtliche Herausforderung, sie alle unterzubringen und stets präzise abgestimmt zu halten!"
+            ],
+            "es": [
+              "Sí. El umbral que desarrollamos usa cientos a la vez.",
+              "¡Encajarlos todos y mantenerlos bien calibrados fue todo un reto!"
+            ],
+            "fr": [
+              "Oui. La porte que nous avons conçue en utilise des centaines à la fois.",
+              "Les assembler tous, avec un réglage précis et stable, a été un sacré défi !"
+            ],
+            "it": [
+              "Sì. La porta che abbiamo sviluppato ne usa centinaia insieme.",
+              "Sistemarli tutti e mantenerli calibrati con precisione, è stata una vera sfida!"
+            ],
+            "ja": [
+              "ああ、私たちのシステムでも かなり使ってますよ。特にあの特殊な扉には。 あれだけ嵌め込むのは骨が折れましたけどね！",
+              "すべてを収めたうえで、 調整が少しも狂わないように保つのは、 実に難しいことでした！"
+            ],
+            "ko": [
+              "그래. 우리가 개발한 출입구는 수백 개를 함께 사용해.",
+              "전부 끼워 맞추고, 정밀한 조율 상태를 유지하는 건, 정말 어려운 과제였지!"
+            ],
             "pt-br": [
               "Sim. A porta que desenvolvemos usa centenas em conjunto.",
               "Acomodar todos e mantê-los precisamente ajustados foi um grande desafio!"
+            ],
+            "ru": [
+              "Да. В созданном нами проходе их сотни работают сообща.",
+              "Разместить их все и поддерживать точную настройку было непростой задачей!"
+            ],
+            "s-cn": [
+              "没错。我们造的那座界门，就用了几百个。",
+              "要把它们全部装进去，还得逐一精确调校，可真是个不小的挑战！"
+            ],
+            "t-cn": [
+              "沒錯。我們造的那座界門，就用了幾百個。",
+              "要把它們全部裝進去，還得逐一精確調校， 可真是個不小的挑戰！"
             ]
           },
           "provenance": {
@@ -75,8 +174,35 @@
             "en": [
               "Imagine you had very special gears, spinning at billions of revolutions per second."
             ],
+            "de": [
+              "Stell dir ganz besondere Zahnräder vor, die sich mit Milliarden Umdrehungen pro Sekunde drehen."
+            ],
+            "es": [
+              "Imagina que tuvieras engranajes muy especiales, girando a miles de millones de revoluciones por segundo."
+            ],
+            "fr": [
+              "Imaginez que vous ayez des engrenages très spéciaux, capables d'effectuer des milliards de tours par seconde."
+            ],
+            "it": [
+              "Immagina di avere ingranaggi specialissimi, che girano a miliardi di rivoluzioni al secondo."
+            ],
+            "ja": [
+              "毎秒数十億回転という動作ができる 特別な歯車がいくつもあったら… 想像してみてくれよ。"
+            ],
+            "ko": [
+              "초당 수십억 회씩 회전할 수 있는 특수한 톱니바퀴가 있다고 상상해 봐."
+            ],
             "pt-br": [
               "Imagine que você tivesse engrenagens muito especiais, girando a bilhões de rotações por segundo."
+            ],
+            "ru": [
+              "Представь, что у тебя есть особые шестерни, вращающиеся со скоростью в миллиарды оборотов в секунду."
+            ],
+            "s-cn": [
+              "你设想一下，有一种特殊齿轮，每秒能旋转数十亿圈。"
+            ],
+            "t-cn": [
+              "你設想一下，有一種特殊齒輪，每秒能旋轉數十億圈。"
             ]
           },
           "provenance": {
@@ -97,8 +223,35 @@
             "en": [
               "Thousands of millions? It's unimaginable. The size, the immense heat, and the *noise*! Would they not ignite the very air?"
             ],
+            "de": [
+              "Tausende von Millionen? Das ist unvorstellbar. Die Größe, die gewaltige Hitze und erst der Lärm! Würden sie nicht die Luft selbst entzünden?"
+            ],
+            "es": [
+              "¿Miles de millones? Es inimaginable. ¡El tamaño, el inmenso calor y el *ruido*! ¿No prenderían fuego al propio aire?"
+            ],
+            "fr": [
+              "Des milliers de millions ? C'est inimaginable. La taille, la chaleur immense, et le bruit ! Est-ce qu'ils n'enflammeraient pas l'air lui-même ?"
+            ],
+            "it": [
+              "Migliaia di milioni? È inimmaginabile. Le dimensioni, l'immenso calore, e il *rumore*! Non incendierebbero forse l'aria stessa?"
+            ],
+            "ja": [
+              "自分ならそんな地獄、絶対にお断りです！ 熱風と騒音を想像しただけでも恐ろしい。 あまりの数に空気すら 発火させてしまうのでは？"
+            ],
+            "ko": [
+              "수십억 개라고요? 상상도 안 되는군요. 그 크기에 엄청난 열기, 거기다 *소음*까지! 공기 자체에 불이 붙지 않겠습니까?"
+            ],
             "pt-br": [
               "Milhares de milhões? É inimaginável. O tamanho, o calor imenso, e o *barulho*! Será que elas não incendiariam o próprio ar?"
+            ],
+            "ru": [
+              "Тысячи миллионов? Это невообразимо. Размер, невероятный жар и *шум*! Они бы не воспламенили сам воздух?"
+            ],
+            "s-cn": [
+              "数十亿？简直难以想象。那体量、那可怕的高温，还有那*噪声*！ 它们不会把空气都点燃吗？"
+            ],
+            "t-cn": [
+              "數十億？簡直難以想像。那體量、那可怕的高溫， 還有那*噪聲*！它們不會把空氣都點燃嗎？"
             ]
           },
           "provenance": {
@@ -127,6 +280,72 @@
               "The people of that time made special screens that allowed them to see into those little game worlds --",
               "\"video\" screens -- and thus the medium of \"video games\" was born, and flourished for a while."
             ],
+            "de": [
+              "Diese Zahnräder sind so klein, dass man sie weder hören noch sehen kann.",
+              "Man fügt eine Milliarde davon zusammen, die sich immer wieder verbinden und voneinander lösen,",
+              "und kann so ein beachtliches Regelsystem für sein Spiel entwickeln.",
+              "Die Spieler müssen die Regeln nun nicht mehr selbst durchsetzen –",
+              "die Zahnräder übernehmen die Logik, bilden die Objekte und ihre Wechselwirkungen ab,",
+              "und so kann man Spiele erschaffen, deren Regeln viel zu komplex und voneinander abhängig sind, um sie von Hand zu verwalten.",
+              "Mit der Erfindung eines solchen Systems ist die Vielfalt möglicher Spiele plötzlich gewaltig angewachsen, verglichen mit den Zeiten, in denen man nur Karten und Holzfiguren hatte.",
+              "Die Menschen jener Zeit haben besondere Bildschirme gebaut, durch die sie in jene kleinen Spielwelten hineinblicken konnten –",
+              "„Video“-Bildschirme – und so ist das Medium der „Videospiele“ entstanden, das eine Zeit lang floriert hat."
+            ],
+            "es": [
+              "Estos engranajes son muy pequeños, no podrías ni oírlos ni verlos.",
+              "Si juntas mil millones de esas piezas, estableciendo y anulando relaciones entre sí,",
+              "puedes desarrollar todo un sistema de reglas para tu juego.",
+              "Los jugadores ya no tienen que hacer cumplir las reglas ellos mismos...",
+              "Los engranajes realizan la lógica, representando los objetos y sus interacciones,",
+              "y ahora puedes crear juegos cuyas reglas son demasiado complejas e interdependientes para administrarlas a mano.",
+              "Cuando se inventó este tipo de sistema, el espacio de juegos que podían crearse se volvió de repente muchísimo mayor, comparado con los días de las cartas y los hombres de madera.",
+              "La gente de aquella época fabricó pantallas especiales que les permitían ver esos pequeños mundos de juego...",
+              "Pantallas de «video»... y así nació el medio de los «videojuegos», y prosperó, durante un tiempo."
+            ],
+            "fr": [
+              "Ces engrenages sont minuscules, vous ne pourriez ni les entendre ni les voir.",
+              "Vous en assemblez un milliard, dont les connexions se font et se défont,",
+              "et vous pouvez développer tout un système de règles pour votre jeu.",
+              "Les joueurs n'ont plus besoin de faire respecter les règles eux-mêmes –",
+              "les engrenages exécutent la logique, en représentant les objets et leurs interactions,",
+              "et vous pouvez maintenant créer des jeux dont les règles sont bien trop complexes et interdépendantes pour être gérées à la main.",
+              "Quand ce genre de système a été inventé, l'espace des jeux qu'on pouvait créer s'est soudainement considérablement élargi, par rapport à l'époque des cartes et des pions en bois.",
+              "Les gens de cette époque ont fabriqué des écrans spéciaux qui leur permettaient de voir dans ces petits mondes de jeu –",
+              "des écrans « vidéo » – et ainsi est né le médium des « jeux vidéo », qui a prospéré, pendant un temps."
+            ],
+            "it": [
+              "Questi ingranaggi sono molto piccoli, non potresti né sentirli né vederli.",
+              "Ne metti insieme un miliardo, che entrano ed escono dalla relazione,",
+              "e puoi sviluppare un bel sistema di regole per il tuo gioco.",
+              "I giocatori non devono più occuparsi di rispettare le regole autonomamente...",
+              "Gli ingranaggi eseguono la logica, rappresentando gli oggetti e le loro interazioni,",
+              "e ora puoi creare giochi le cui regole sono troppo complesse e interdipendenti per essere gestite a mano.",
+              "Quando fu inventato questo tipo di sistema, lo spazio dei giochi che si potevano creare era improvvisamente diventato enormemente più vasto, rispetto ai tempi delle carte e degli omini di legno.",
+              "La gente di allora costruì schermi speciali che permettevano di guardare dentro quei piccoli mondi di gioco...",
+              "Schermi \"video\"... e così nacque il medium dei \"videogiochi\", che prosperò per un po'."
+            ],
+            "ja": [
+              "歯車自体はかなり小さいからな。 君には見えないうえに、 音すら気にならないだろう。",
+              "それらを10億個組み合わせて、 すべてが噛み合って回り始めれば",
+              "君のゲームには、なかなか複雑な ルール体系を組み込むめるようになるはず。",
+              "そうすれば、プレイヤー自身が ルールを実行する必要がなくなりー",
+              "歯車がロジック面を動かして、 オブジェクトと相互作用まで 処理してくれる。",
+              "そして今度は人の手に余るような 複雑なルールや、細かなニュアンスまで ゲームに持ち込めるようになった。",
+              "作成できるゲームの幅が 飛躍的に増加した。",
+              "あの時代の人々は、小さな世界を 覗き見ることができる特殊な「画面」…",
+              "その名も「ビデオスクリーン」を開発した。 こうして「ビデオゲーム」という 媒体が誕生し、しばらくの間栄えたんだ。"
+            ],
+            "ko": [
+              "이 톱니들은 아주 작아서, 들리지도, 보이지도 않아.",
+              "그런 걸 수십억 개씩 모아 서로 관계를 맺었다 끊었다 하게 만들면",
+              "꽤 복잡한 게임 규칙 체계를 만들 수 있지.",
+              "그러면 더 이상 플레이어들이 직접 규칙을 지킬 필요가 없어.",
+              "톱니바퀴가 연산을 수행하면서 물체 사이의 상호작용을 구현하니까",
+              "규칙이 너무 복잡하고 서로 얽혀 있어서 사람이 일일이 규칙을 적용할 수 없는 게임도 만들 수 있게 됐지.",
+              "이런 시스템이 발명되자, 만들 수 있는 게임의 가능성이 갑자기 엄청나게 넓어졌어. 카드와 나무 말로 놀던 시절에 비하면 말이야.",
+              "당시 사람들은 특별한 화면을 만들어 그 작은 게임 세계들을 들여다볼 수 있게 했어...",
+              "\"비디오\" 화면이라고 했지. 그렇게 \"비디오 게임\"이라는 매체가 태어나 한동안 번성했어."
+            ],
             "pt-br": [
               "Essas engrenagens são muito pequenas, você não poderia ouvi-las nem vê-las.",
               "Junte um bilhão delas, alternando entre relação e falta dela,",
@@ -137,6 +356,39 @@
               "Quando esse tipo de sistema foi inventado, o espaço de jogos que podiam ser criados de repente ficou imensamente maior, em comparação com os dias das cartas e dos homens de madeira.",
               "As pessoas daquela época criaram telas especiais que lhes permitiam enxergar aqueles pequenos mundos de jogo...",
               "telas de “vídeo”... e assim nasceu o meio dos “videogames”, e floresceu, por um tempo."
+            ],
+            "ru": [
+              "Эти шестерни очень малы, их нельзя ни услышать, ни увидеть.",
+              "Вы собираете миллиард таких, взаимосвязанных и не взаимосвязанных друг с другом,",
+              "и можете разработать вполне сложную систему правил для своей игры.",
+              "Игрокам больше не нужно самим следить за соблюдением правил —",
+              "шестерни следуют логике, представляя объекты и их взаимодействия,",
+              "и теперь вы можете делать игры, правила которых слишком сложны и взаимозависимы, чтобы управлять ими вручную.",
+              "Когда изобрели такую систему, пространство игр, которые можно было создать, вдруг стало намного больше по сравнению с временами карт и деревянных фигурок.",
+              "Люди того времени сделали особые экраны, которые позволяли им заглядывать в эти маленькие игровые миры —",
+              "«видео»-экраны — и так родилась среда «видеоигр», и какое-то время она процветала."
+            ],
+            "s-cn": [
+              "这些齿轮非常微小，你既听不见，也看不到。",
+              "把十亿枚这样的齿轮组合起来，让它们不停地咬合、脱开，",
+              "你就能给自己的游戏搭出一套相当讲究的规则。",
+              "玩家不再需要自己执行规则——",
+              "齿轮会负责运算逻辑，模拟各种物体以及它们之间的互动，",
+              "这样，游戏规则就可以变得极其复杂、环环相扣， 复杂到人根本无法手工完成运算。",
+              "这种系统问世后，能创造出来的游戏一下多了无数种， 远非纸牌和木人的年代可比。",
+              "那个时代的人还制造了特殊屏幕， 让他们得以窥见那些小小的游戏世界——",
+              "“视频”屏幕——于是“电子游戏”这种媒介应运而生，并兴盛了一段时间。"
+            ],
+            "t-cn": [
+              "這些齒輪非常微小，你既聽不見，也看不到。",
+              "把十億枚這樣的齒輪組合起來，讓它們不停地咬合、脫開，",
+              "你就能給自己的遊戲搭出一套相當講究的規則。",
+              "玩家不再需要自己執行規則——",
+              "齒輪會負責運算邏輯，模擬各種物體以及它們之間的互動，",
+              "這樣，遊戲規則就可以變得極其複雜、環環相扣， 複雜到人根本無法手工完成運算。",
+              "這種系統問世後，能創造出來的遊戲一下多了無數種， 遠非紙牌和木人的年代可比。",
+              "那個時代的人還製造了特殊屏幕， 讓他們得以窺見那些小小的遊戲世界——",
+              "「視頻」屏幕——於是「電子遊戲」這種媒介應運而生， 並興盛了一段時間。"
             ]
           },
           "provenance": {
@@ -180,6 +432,120 @@
           "The people of that time made special screens that allowed them to see into those little game worlds --",
           "\"video\" screens -- and thus the medium of \"video games\" was born, and flourished for a while."
         ],
+        "de": [
+          "Wie die meisten Kulturen begannen wir mit primitiven Spielen – mit Karten etwa oder kleinen Holzfiguren,",
+          "sowie Regeln dafür, was die Karten bedeuten, wohin die Figuren ziehen dürfen und was sich daraus ergibt.",
+          "Mit unserer Technologie haben sich auch die Spiele weiterentwickelt.",
+          "Ich weiß, eure Kultur kennt Zahnräder, die sich miteinander in Eingriff bringen und wieder lösen lassen.",
+          "Ja. Die Torstätte, die wir entwickelt haben, nutzt Hunderte davon zugleich.",
+          "Es war eine beträchtliche Herausforderung, sie alle unterzubringen und stets präzise abgestimmt zu halten!",
+          "Stell dir ganz besondere Zahnräder vor, die sich mit Milliarden Umdrehungen pro Sekunde drehen.",
+          "Tausende von Millionen? Das ist unvorstellbar. Die Größe, die gewaltige Hitze und erst der Lärm! Würden sie nicht die Luft selbst entzünden?",
+          "Diese Zahnräder sind so klein, dass man sie weder hören noch sehen kann.",
+          "Man fügt eine Milliarde davon zusammen, die sich immer wieder verbinden und voneinander lösen,",
+          "und kann so ein beachtliches Regelsystem für sein Spiel entwickeln.",
+          "Die Spieler müssen die Regeln nun nicht mehr selbst durchsetzen –",
+          "die Zahnräder übernehmen die Logik, bilden die Objekte und ihre Wechselwirkungen ab,",
+          "und so kann man Spiele erschaffen, deren Regeln viel zu komplex und voneinander abhängig sind, um sie von Hand zu verwalten.",
+          "Mit der Erfindung eines solchen Systems ist die Vielfalt möglicher Spiele plötzlich gewaltig angewachsen, verglichen mit den Zeiten, in denen man nur Karten und Holzfiguren hatte.",
+          "Die Menschen jener Zeit haben besondere Bildschirme gebaut, durch die sie in jene kleinen Spielwelten hineinblicken konnten –",
+          "„Video“-Bildschirme – und so ist das Medium der „Videospiele“ entstanden, das eine Zeit lang floriert hat."
+        ],
+        "es": [
+          "Como la mayoría de las culturas, empezamos con juegos primitivos... objetos como cartas, u hombrecillos de madera,",
+          "y reglas sobre lo que significan las cartas, adónde pueden ir los hombres y qué ocurre como consecuencia.",
+          "Con nuestra tecnología, avanzaron nuestros juegos.",
+          "Sé que tienes engranajes que pueden entrar y salir de conjunción.",
+          "Sí. El umbral que desarrollamos usa cientos a la vez.",
+          "¡Encajarlos todos y mantenerlos bien calibrados fue todo un reto!",
+          "Imagina que tuvieras engranajes muy especiales, girando a miles de millones de revoluciones por segundo.",
+          "¿Miles de millones? Es inimaginable. ¡El tamaño, el inmenso calor y el *ruido*! ¿No prenderían fuego al propio aire?",
+          "Estos engranajes son muy pequeños, no podrías ni oírlos ni verlos.",
+          "Si juntas mil millones de esas piezas, estableciendo y anulando relaciones entre sí,",
+          "puedes desarrollar todo un sistema de reglas para tu juego.",
+          "Los jugadores ya no tienen que hacer cumplir las reglas ellos mismos...",
+          "Los engranajes realizan la lógica, representando los objetos y sus interacciones,",
+          "y ahora puedes crear juegos cuyas reglas son demasiado complejas e interdependientes para administrarlas a mano.",
+          "Cuando se inventó este tipo de sistema, el espacio de juegos que podían crearse se volvió de repente muchísimo mayor, comparado con los días de las cartas y los hombres de madera.",
+          "La gente de aquella época fabricó pantallas especiales que les permitían ver esos pequeños mundos de juego...",
+          "Pantallas de «video»... y así nació el medio de los «videojuegos», y prosperó, durante un tiempo."
+        ],
+        "fr": [
+          "Comme la plupart des cultures, on a commencé par des jeux primitifs : des objets comme des cartes, ou des pions en bois,",
+          "et des règles sur ce que signifient les cartes, où les pions peuvent aller et ce qui se passe en conséquence.",
+          "À mesure que notre technologie avançait, nos jeux aussi.",
+          "Je sais que vous avez des engrenages qui peuvent s'enclencher et se désenclencher.",
+          "Oui. La porte que nous avons conçue en utilise des centaines à la fois.",
+          "Les assembler tous, avec un réglage précis et stable, a été un sacré défi !",
+          "Imaginez que vous ayez des engrenages très spéciaux, capables d'effectuer des milliards de tours par seconde.",
+          "Des milliers de millions ? C'est inimaginable. La taille, la chaleur immense, et le bruit ! Est-ce qu'ils n'enflammeraient pas l'air lui-même ?",
+          "Ces engrenages sont minuscules, vous ne pourriez ni les entendre ni les voir.",
+          "Vous en assemblez un milliard, dont les connexions se font et se défont,",
+          "et vous pouvez développer tout un système de règles pour votre jeu.",
+          "Les joueurs n'ont plus besoin de faire respecter les règles eux-mêmes –",
+          "les engrenages exécutent la logique, en représentant les objets et leurs interactions,",
+          "et vous pouvez maintenant créer des jeux dont les règles sont bien trop complexes et interdépendantes pour être gérées à la main.",
+          "Quand ce genre de système a été inventé, l'espace des jeux qu'on pouvait créer s'est soudainement considérablement élargi, par rapport à l'époque des cartes et des pions en bois.",
+          "Les gens de cette époque ont fabriqué des écrans spéciaux qui leur permettaient de voir dans ces petits mondes de jeu –",
+          "des écrans « vidéo » – et ainsi est né le médium des « jeux vidéo », qui a prospéré, pendant un temps."
+        ],
+        "it": [
+          "Come in molte culture, siamo partiti da giochi primitivi... oggetti come carte, o piccoli omini di legno,",
+          "e regole su cosa significano le carte, dove possono andare le pedine e cosa succede di conseguenza.",
+          "Con l'avanzare della nostra tecnologia, avanzarono anche i nostri giochi.",
+          "So che avete degli ingranaggi che possono entrare e uscire da una congiunzione.",
+          "Sì. La porta che abbiamo sviluppato ne usa centinaia insieme.",
+          "Sistemarli tutti e mantenerli calibrati con precisione, è stata una vera sfida!",
+          "Immagina di avere ingranaggi specialissimi, che girano a miliardi di rivoluzioni al secondo.",
+          "Migliaia di milioni? È inimmaginabile. Le dimensioni, l'immenso calore, e il *rumore*! Non incendierebbero forse l'aria stessa?",
+          "Questi ingranaggi sono molto piccoli, non potresti né sentirli né vederli.",
+          "Ne metti insieme un miliardo, che entrano ed escono dalla relazione,",
+          "e puoi sviluppare un bel sistema di regole per il tuo gioco.",
+          "I giocatori non devono più occuparsi di rispettare le regole autonomamente...",
+          "Gli ingranaggi eseguono la logica, rappresentando gli oggetti e le loro interazioni,",
+          "e ora puoi creare giochi le cui regole sono troppo complesse e interdipendenti per essere gestite a mano.",
+          "Quando fu inventato questo tipo di sistema, lo spazio dei giochi che si potevano creare era improvvisamente diventato enormemente più vasto, rispetto ai tempi delle carte e degli omini di legno.",
+          "La gente di allora costruì schermi speciali che permettevano di guardare dentro quei piccoli mondi di gioco...",
+          "Schermi \"video\"... e così nacque il medium dei \"videogiochi\", che prosperò per un po'."
+        ],
+        "ja": [
+          "多くの文化と同じく、 原始的な「遊び」を扱うことから 始まったのさ。カードや木製の駒…",
+          "カードそれぞれが持つ意味、 駒がどこへ進めて、そこで何が起こるのか。 そんなルールを決めるところから始まった。",
+          "技術が進歩するにつれて、 ゲームも進歩した。",
+          "技術の進歩とともに、私たちのゲームも 進化していった。君も噛み合わせたり、 外したりできる歯車を持ってるだろう？",
+          "ああ、私たちのシステムでも かなり使ってますよ。特にあの特殊な扉には。 あれだけ嵌め込むのは骨が折れましたけどね！",
+          "すべてを収めたうえで、 調整が少しも狂わないように保つのは、 実に難しいことでした！",
+          "毎秒数十億回転という動作ができる 特別な歯車がいくつもあったら… 想像してみてくれよ。",
+          "自分ならそんな地獄、絶対にお断りです！ 熱風と騒音を想像しただけでも恐ろしい。 あまりの数に空気すら 発火させてしまうのでは？",
+          "歯車自体はかなり小さいからな。 君には見えないうえに、 音すら気にならないだろう。",
+          "それらを10億個組み合わせて、 すべてが噛み合って回り始めれば",
+          "君のゲームには、なかなか複雑な ルール体系を組み込むめるようになるはず。",
+          "そうすれば、プレイヤー自身が ルールを実行する必要がなくなりー",
+          "歯車がロジック面を動かして、 オブジェクトと相互作用まで 処理してくれる。",
+          "そして今度は人の手に余るような 複雑なルールや、細かなニュアンスまで ゲームに持ち込めるようになった。",
+          "作成できるゲームの幅が 飛躍的に増加した。",
+          "あの時代の人々は、小さな世界を 覗き見ることができる特殊な「画面」…",
+          "その名も「ビデオスクリーン」を開発した。 こうして「ビデオゲーム」という 媒体が誕生し、しばらくの間栄えたんだ。"
+        ],
+        "ko": [
+          "대부분의 문화가 그렇듯 우리도 원시적인 게임에서 시작했어. 카드나 작은 나무 사람 같은 물건들과,",
+          "카드가 무엇을 의미하는지, 말이 어디로 움직일 수 있고 그 결과 무슨 일이 일어나는지 정하는 규칙 말이야.",
+          "기술이 발전하면서 게임도 발전했어.",
+          "너희에게도 서로 맞물렸다 떨어질 수 있는 톱니바퀴가 있다는 건 알아.",
+          "그래. 우리가 개발한 출입구는 수백 개를 함께 사용해.",
+          "전부 끼워 맞추고, 정밀한 조율 상태를 유지하는 건, 정말 어려운 과제였지!",
+          "초당 수십억 회씩 회전할 수 있는 특수한 톱니바퀴가 있다고 상상해 봐.",
+          "수십억 개라고요? 상상도 안 되는군요. 그 크기에 엄청난 열기, 거기다 *소음*까지! 공기 자체에 불이 붙지 않겠습니까?",
+          "이 톱니들은 아주 작아서, 들리지도, 보이지도 않아.",
+          "그런 걸 수십억 개씩 모아 서로 관계를 맺었다 끊었다 하게 만들면",
+          "꽤 복잡한 게임 규칙 체계를 만들 수 있지.",
+          "그러면 더 이상 플레이어들이 직접 규칙을 지킬 필요가 없어.",
+          "톱니바퀴가 연산을 수행하면서 물체 사이의 상호작용을 구현하니까",
+          "규칙이 너무 복잡하고 서로 얽혀 있어서 사람이 일일이 규칙을 적용할 수 없는 게임도 만들 수 있게 됐지.",
+          "이런 시스템이 발명되자, 만들 수 있는 게임의 가능성이 갑자기 엄청나게 넓어졌어. 카드와 나무 말로 놀던 시절에 비하면 말이야.",
+          "당시 사람들은 특별한 화면을 만들어 그 작은 게임 세계들을 들여다볼 수 있게 했어...",
+          "\"비디오\" 화면이라고 했지. 그렇게 \"비디오 게임\"이라는 매체가 태어나 한동안 번성했어."
+        ],
         "pt-br": [
           "Como a maioria das culturas, começamos com jogos primitivos: objetos como cartas, ou pequenos homens de madeira,",
           "e regras sobre o que as cartas significam, onde os homens podem ir e o que acontece como resultado.",
@@ -198,6 +564,63 @@
           "Quando esse tipo de sistema foi inventado, o espaço de jogos que podiam ser criados de repente ficou imensamente maior, em comparação com os dias das cartas e dos homens de madeira.",
           "As pessoas daquela época criaram telas especiais que lhes permitiam enxergar aqueles pequenos mundos de jogo...",
           "telas de “vídeo”... e assim nasceu o meio dos “videogames”, e floresceu, por um tempo."
+        ],
+        "ru": [
+          "Как и многие культуры, мы начинали с примитивных игр — с карт или маленьких деревянных человечков,",
+          "и правил о том, что означают карты, куда люди могут идти и что происходит в результате.",
+          "С развитием технологий развивались и наши игры.",
+          "Я знаю, что у вас есть шестерни, которые могут входить в сцепление и выходить из него.",
+          "Да. В созданном нами проходе их сотни работают сообща.",
+          "Разместить их все и поддерживать точную настройку было непростой задачей!",
+          "Представь, что у тебя есть особые шестерни, вращающиеся со скоростью в миллиарды оборотов в секунду.",
+          "Тысячи миллионов? Это невообразимо. Размер, невероятный жар и *шум*! Они бы не воспламенили сам воздух?",
+          "Эти шестерни очень малы, их нельзя ни услышать, ни увидеть.",
+          "Вы собираете миллиард таких, взаимосвязанных и не взаимосвязанных друг с другом,",
+          "и можете разработать вполне сложную систему правил для своей игры.",
+          "Игрокам больше не нужно самим следить за соблюдением правил —",
+          "шестерни следуют логике, представляя объекты и их взаимодействия,",
+          "и теперь вы можете делать игры, правила которых слишком сложны и взаимозависимы, чтобы управлять ими вручную.",
+          "Когда изобрели такую систему, пространство игр, которые можно было создать, вдруг стало намного больше по сравнению с временами карт и деревянных фигурок.",
+          "Люди того времени сделали особые экраны, которые позволяли им заглядывать в эти маленькие игровые миры —",
+          "«видео»-экраны — и так родилась среда «видеоигр», и какое-то время она процветала."
+        ],
+        "s-cn": [
+          "和大多数地方的人一样，我们最初玩的游戏也很简单， 用的是纸牌、小木人之类的东西，",
+          "再定下各种规矩：各张纸牌的含义， 木人能走的位置，走到了会怎样。",
+          "随着技术不断进步，我们的游戏也随之发展。",
+          "我知道，你们有一种齿轮，既能相互咬合，也能相互脱离。",
+          "没错。我们造的那座界门，就用了几百个。",
+          "要把它们全部装进去，还得逐一精确调校，可真是个不小的挑战！",
+          "你设想一下，有一种特殊齿轮，每秒能旋转数十亿圈。",
+          "数十亿？简直难以想象。那体量、那可怕的高温，还有那*噪声*！ 它们不会把空气都点燃吗？",
+          "这些齿轮非常微小，你既听不见，也看不到。",
+          "把十亿枚这样的齿轮组合起来，让它们不停地咬合、脱开，",
+          "你就能给自己的游戏搭出一套相当讲究的规则。",
+          "玩家不再需要自己执行规则——",
+          "齿轮会负责运算逻辑，模拟各种物体以及它们之间的互动，",
+          "这样，游戏规则就可以变得极其复杂、环环相扣， 复杂到人根本无法手工完成运算。",
+          "这种系统问世后，能创造出来的游戏一下多了无数种， 远非纸牌和木人的年代可比。",
+          "那个时代的人还制造了特殊屏幕， 让他们得以窥见那些小小的游戏世界——",
+          "“视频”屏幕——于是“电子游戏”这种媒介应运而生，并兴盛了一段时间。"
+        ],
+        "t-cn": [
+          "和大多數地方的人一樣，我們最初玩的遊戲也很簡單， 用的是紙牌、小木人之類的東西，",
+          "再定下各種規矩：各張紙牌的含義， 木人能走的位置，走到了會怎樣。",
+          "隨著技術不斷進步，我們的遊戲也隨之發展。",
+          "我知道，你們有一種齒輪，既能相互咬合， 也能相互脫離。",
+          "沒錯。我們造的那座界門，就用了幾百個。",
+          "要把它們全部裝進去，還得逐一精確調校， 可真是個不小的挑戰！",
+          "你設想一下，有一種特殊齒輪，每秒能旋轉數十億圈。",
+          "數十億？簡直難以想像。那體量、那可怕的高溫， 還有那*噪聲*！它們不會把空氣都點燃嗎？",
+          "這些齒輪非常微小，你既聽不見，也看不到。",
+          "把十億枚這樣的齒輪組合起來，讓它們不停地咬合、脫開，",
+          "你就能給自己的遊戲搭出一套相當講究的規則。",
+          "玩家不再需要自己執行規則——",
+          "齒輪會負責運算邏輯，模擬各種物體以及它們之間的互動，",
+          "這樣，遊戲規則就可以變得極其複雜、環環相扣， 複雜到人根本無法手工完成運算。",
+          "這種系統問世後，能創造出來的遊戲一下多了無數種， 遠非紙牌和木人的年代可比。",
+          "那個時代的人還製造了特殊屏幕， 讓他們得以窺見那些小小的遊戲世界——",
+          "「視頻」屏幕——於是「電子遊戲」這種媒介應運而生， 並興盛了一段時間。"
         ]
       },
       "silentCues": [],

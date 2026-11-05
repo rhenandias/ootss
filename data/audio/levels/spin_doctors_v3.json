@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Heard you needed some help!"
             ],
+            "de": [
+              "Ich habe gehört, du brauchst Hilfe!"
+            ],
+            "es": [
+              "¡He oído que necesitabais ayuda!"
+            ],
+            "fr": [
+              "J'ai entendu dire que vous aviez besoin d'aide !"
+            ],
+            "it": [
+              "Ho sentito che ti serviva una mano!"
+            ],
+            "ja": [
+              "助けがいるらしいな！"
+            ],
+            "ko": [
+              "도움이 필요하다고 해서 왔어!"
+            ],
             "pt-br": [
               "Ouvi dizer que precisavam de ajuda!"
+            ],
+            "ru": [
+              "Слышал, вам нужна помощь!"
+            ],
+            "s-cn": [
+              "听说你需要帮忙！"
+            ],
+            "t-cn": [
+              "聽說你需要幫忙！"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "How'd you get here?"
             ],
+            "de": [
+              "Wie bist du hierhergekommen?"
+            ],
+            "es": [
+              "¿Cómo has llegado aquí?"
+            ],
+            "fr": [
+              "Comment êtes-vous arrivé ici ?"
+            ],
+            "it": [
+              "Come sei arrivato qui?"
+            ],
+            "ja": [
+              "どうやってここに？"
+            ],
+            "ko": [
+              "여긴 어떻게 온 거야?"
+            ],
             "pt-br": [
               "Como você chegou aqui?"
+            ],
+            "ru": [
+              "Как ты сюда попал?"
+            ],
+            "s-cn": [
+              "你怎么进来的？"
+            ],
+            "t-cn": [
+              "你怎麼進來的？"
             ]
           },
           "provenance": {
@@ -68,9 +131,45 @@
               "I just ... came in!",
               "Was there supposed to be a problem?"
             ],
+            "de": [
+              "Ich bin einfach ... reingekommen!",
+              "Sollte daran etwa etwas schwer gewesen sein?"
+            ],
+            "es": [
+              "Pues simplemente... ¡entré!",
+              "¿Se suponía que había algún problema?"
+            ],
+            "fr": [
+              "Je suis... entré, tout simplement !",
+              "Il était censé y avoir un problème ?"
+            ],
+            "it": [
+              "Sono solo... entrato!",
+              "Doveva esserci un problema?"
+            ],
+            "ja": [
+              "ただ入ってきた！",
+              "何か問題でもあるのか？"
+            ],
+            "ko": [
+              "그냥... 들어왔어!",
+              "무슨 문제라도 있어야 했나?"
+            ],
             "pt-br": [
               "Eu só... entrei!",
               "Era para haver algum problema?"
+            ],
+            "ru": [
+              "Да я просто... зашёл!",
+              "А разве тут должна была быть проблема?"
+            ],
+            "s-cn": [
+              "我就……直接进来了！",
+              "怎么，还会有什么麻烦吗？"
+            ],
+            "t-cn": [
+              "我就……直接進來了！",
+              "怎麼，還會有什麼麻煩嗎？"
             ]
           },
           "provenance": {
@@ -92,8 +191,35 @@
             "en": [
               "We're going to have to talk about that. But first let's get this done."
             ],
+            "de": [
+              "Darüber müssen wir noch reden. Aber zuerst bringen wir das hier zu Ende."
+            ],
+            "es": [
+              "Vamos a tener que hablar de eso. Pero primero vamos a terminar con esto."
+            ],
+            "fr": [
+              "On va devoir en parler. Mais d'abord, finissons ça."
+            ],
+            "it": [
+              "Dovremo parlarne. Ma prima finiamo questa cosa."
+            ],
+            "ja": [
+              "詳しく聞きたいが、 まずはこれを片づけるぞ。"
+            ],
+            "ko": [
+              "그건 나중에 얘기하고... 일단 이거부터 끝내자."
+            ],
             "pt-br": [
               "Vamos ter que falar sobre isso. Mas primeiro vamos resolver isso."
+            ],
+            "ru": [
+              "Нам придётся поговорить об этом. Но сначала давай закончим дело."
+            ],
+            "s-cn": [
+              "这事我们之后得好好谈谈。不过先把眼下的事办完。"
+            ],
+            "t-cn": [
+              "這事我們之後得好好談談。不過先把眼下的事辦完。"
             ]
           },
           "provenance": {
@@ -117,12 +243,75 @@
           "Was there supposed to be a problem?",
           "We're going to have to talk about that. But first let's get this done."
         ],
+        "de": [
+          "Ich habe gehört, du brauchst Hilfe!",
+          "Wie bist du hierhergekommen?",
+          "Ich bin einfach ... reingekommen!",
+          "Sollte daran etwa etwas schwer gewesen sein?",
+          "Darüber müssen wir noch reden. Aber zuerst bringen wir das hier zu Ende."
+        ],
+        "es": [
+          "¡He oído que necesitabais ayuda!",
+          "¿Cómo has llegado aquí?",
+          "Pues simplemente... ¡entré!",
+          "¿Se suponía que había algún problema?",
+          "Vamos a tener que hablar de eso. Pero primero vamos a terminar con esto."
+        ],
+        "fr": [
+          "J'ai entendu dire que vous aviez besoin d'aide !",
+          "Comment êtes-vous arrivé ici ?",
+          "Je suis... entré, tout simplement !",
+          "Il était censé y avoir un problème ?",
+          "On va devoir en parler. Mais d'abord, finissons ça."
+        ],
+        "it": [
+          "Ho sentito che ti serviva una mano!",
+          "Come sei arrivato qui?",
+          "Sono solo... entrato!",
+          "Doveva esserci un problema?",
+          "Dovremo parlarne. Ma prima finiamo questa cosa."
+        ],
+        "ja": [
+          "助けがいるらしいな！",
+          "どうやってここに？",
+          "ただ入ってきた！",
+          "何か問題でもあるのか？",
+          "詳しく聞きたいが、 まずはこれを片づけるぞ。"
+        ],
+        "ko": [
+          "도움이 필요하다고 해서 왔어!",
+          "여긴 어떻게 온 거야?",
+          "그냥... 들어왔어!",
+          "무슨 문제라도 있어야 했나?",
+          "그건 나중에 얘기하고... 일단 이거부터 끝내자."
+        ],
         "pt-br": [
           "Ouvi dizer que precisavam de ajuda!",
           "Como você chegou aqui?",
           "Eu só... entrei!",
           "Era para haver algum problema?",
           "Vamos ter que falar sobre isso. Mas primeiro vamos resolver isso."
+        ],
+        "ru": [
+          "Слышал, вам нужна помощь!",
+          "Как ты сюда попал?",
+          "Да я просто... зашёл!",
+          "А разве тут должна была быть проблема?",
+          "Нам придётся поговорить об этом. Но сначала давай закончим дело."
+        ],
+        "s-cn": [
+          "听说你需要帮忙！",
+          "你怎么进来的？",
+          "我就……直接进来了！",
+          "怎么，还会有什么麻烦吗？",
+          "这事我们之后得好好谈谈。不过先把眼下的事办完。"
+        ],
+        "t-cn": [
+          "聽說你需要幫忙！",
+          "你怎麼進來的？",
+          "我就……直接進來了！",
+          "怎麼，還會有什麼麻煩嗎？",
+          "這事我們之後得好好談談。不過先把眼下的事辦完。"
         ]
       },
       "silentCues": [],
@@ -161,8 +350,35 @@
             "en": [
               "You've gotten good at the technique!"
             ],
+            "de": [
+              "Du beherrschst die Technik inzwischen ausgezeichnet!"
+            ],
+            "es": [
+              "¡Ya dominas la técnica!"
+            ],
+            "fr": [
+              "Vous maîtrisez bien la technique, maintenant !"
+            ],
+            "it": [
+              "Ormai padroneggi la tecnica!"
+            ],
+            "ja": [
+              "力に勝るものなし。"
+            ],
+            "ko": [
+              "이제 그 기술에 능숙해졌네!"
+            ],
             "pt-br": [
               "Você pegou o jeito da técnica!"
+            ],
+            "ru": [
+              "Ты отлично освоил этот приём!"
+            ],
+            "s-cn": [
+              "这招你已经练得很熟练了！"
+            ],
+            "t-cn": [
+              "這招你已經練得很熟練了！"
             ]
           },
           "provenance": {
@@ -183,8 +399,35 @@
             "en": [
               "It's been indispensable. Deep thanks for the lessons!"
             ],
+            "de": [
+              "Sie ist mir unentbehrlich geworden. Meinen tiefsten Dank für die Lektionen!"
+            ],
+            "es": [
+              "Ha sido indispensable. ¡Muchísimas gracias por las lecciones!"
+            ],
+            "fr": [
+              "Elle m'a été indispensable. Un grand merci pour vos leçons !"
+            ],
+            "it": [
+              "È stata indispensabile. Grazie di cuore per le lezioni!"
+            ],
+            "ja": [
+              "まあ、時にはな。"
+            ],
+            "ko": [
+              "이젠 없어선 안 될 기술이야. 가르쳐 줘서 정말 고마워!"
+            ],
             "pt-br": [
               "Ela tem sido indispensável. Agradeço de coração pelas lições!"
+            ],
+            "ru": [
+              "Он оказался незаменим. Огромное спасибо за уроки!"
+            ],
+            "s-cn": [
+              "一路上真少不了这招。太感谢你的指点了！"
+            ],
+            "t-cn": [
+              "一路上真少不了這招。太感謝你的指點了！"
             ]
           },
           "provenance": {
@@ -205,8 +448,35 @@
             "en": [
               "We Swordbound must stand together!"
             ],
+            "de": [
+              "Wir Schwertgebundenen müssen zusammenhalten!"
+            ],
+            "es": [
+              "¡Los atados a la espada debemos permanecer unidos!"
+            ],
+            "fr": [
+              "Nous, les Épées entravées, devons rester unis !"
+            ],
+            "it": [
+              "Noi vincolati dalla spada dobbiamo restare uniti!"
+            ],
+            "ja": [
+              "剣縛りを受けた者同士、 力を合わせねばな！"
+            ],
+            "ko": [
+              "우리처럼 검에 묶인 몸끼리는 뭉쳐야지!"
+            ],
             "pt-br": [
               "Nós, devotos da espada, temos que nos unir!"
+            ],
+            "ru": [
+              "Мы, Связанные мечом, должны держаться вместе!"
+            ],
+            "s-cn": [
+              "我们身受剑缚的人，必须团结！"
+            ],
+            "t-cn": [
+              "我們身受縛劍的人，必須團結！"
             ]
           },
           "provenance": {
@@ -228,10 +498,55 @@
           "It's been indispensable. Deep thanks for the lessons!",
           "We Swordbound must stand together!"
         ],
+        "de": [
+          "Du beherrschst die Technik inzwischen ausgezeichnet!",
+          "Sie ist mir unentbehrlich geworden. Meinen tiefsten Dank für die Lektionen!",
+          "Wir Schwertgebundenen müssen zusammenhalten!"
+        ],
+        "es": [
+          "¡Ya dominas la técnica!",
+          "Ha sido indispensable. ¡Muchísimas gracias por las lecciones!",
+          "¡Los atados a la espada debemos permanecer unidos!"
+        ],
+        "fr": [
+          "Vous maîtrisez bien la technique, maintenant !",
+          "Elle m'a été indispensable. Un grand merci pour vos leçons !",
+          "Nous, les Épées entravées, devons rester unis !"
+        ],
+        "it": [
+          "Ormai padroneggi la tecnica!",
+          "È stata indispensabile. Grazie di cuore per le lezioni!",
+          "Noi vincolati dalla spada dobbiamo restare uniti!"
+        ],
+        "ja": [
+          "力に勝るものなし。",
+          "まあ、時にはな。",
+          "剣縛りを受けた者同士、 力を合わせねばな！"
+        ],
+        "ko": [
+          "이제 그 기술에 능숙해졌네!",
+          "이젠 없어선 안 될 기술이야. 가르쳐 줘서 정말 고마워!",
+          "우리처럼 검에 묶인 몸끼리는 뭉쳐야지!"
+        ],
         "pt-br": [
           "Você pegou o jeito da técnica!",
           "Ela tem sido indispensável. Agradeço de coração pelas lições!",
           "Nós, devotos da espada, temos que nos unir!"
+        ],
+        "ru": [
+          "Ты отлично освоил этот приём!",
+          "Он оказался незаменим. Огромное спасибо за уроки!",
+          "Мы, Связанные мечом, должны держаться вместе!"
+        ],
+        "s-cn": [
+          "这招你已经练得很熟练了！",
+          "一路上真少不了这招。太感谢你的指点了！",
+          "我们身受剑缚的人，必须团结！"
+        ],
+        "t-cn": [
+          "這招你已經練得很熟練了！",
+          "一路上真少不了這招。太感謝你的指點了！",
+          "我們身受縛劍的人，必須團結！"
         ]
       },
       "silentCues": [],

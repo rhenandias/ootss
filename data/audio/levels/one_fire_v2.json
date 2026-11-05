@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "A dirk is small. You could sneak it through?"
             ],
+            "de": [
+              "Ein Dolch ist klein. Den könntest du doch durchschmuggeln?"
+            ],
+            "es": [
+              "Un puñal es pequeño, ¿podrías colarlo?"
+            ],
+            "fr": [
+              "Une dague, c'est petit ; tu pourrais la faire passer ni vu ni connu ?"
+            ],
+            "it": [
+              "Un pugnale è piccolo, potresti farlo passare di nascosto?"
+            ],
+            "ja": [
+              "短剣なら こっそり持ち込めるんじゃない？ それか棍棒を使うのは？"
+            ],
+            "ko": [
+              "단검은 작으니까, 몰래 반입할 수 있겠지?"
+            ],
             "pt-br": [
               "Uma adaga é pequena, não dava pra esconder?"
+            ],
+            "ru": [
+              "Кинжал маленький, можно пронести его тайком?"
+            ],
+            "s-cn": [
+              "短剑那么小，不能蒙混过去吗？"
+            ],
+            "t-cn": [
+              "短劍那麼小，不能矇混過去嗎？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Small won't help. The enchantment's not that dumb, Tif."
             ],
+            "de": [
+              "Die Größe spielt keine Rolle. So dumm ist der Zauber nicht, Tif."
+            ],
+            "es": [
+              "Que sea pequeño no servirá de nada. El encantamiento no es tan tonto, Tif."
+            ],
+            "fr": [
+              "La taille n'y change rien. L'enchantement n'est pas si bête, Tif."
+            ],
+            "it": [
+              "Che sia piccolo non cambia niente. L'incantesimo non è così stupido, Tif."
+            ],
+            "ja": [
+              "小さくてもダメだ。 この魔法は、そんなに間抜けじゃねえぞ、ティフ。"
+            ],
+            "ko": [
+              "작다고 달라질 건 없어. 이 마법은 그렇게 허술하지 않아, 티프."
+            ],
             "pt-br": [
               "Ser pequena não adianta. O encantamento não é tão burro, Tif."
+            ],
+            "ru": [
+              "Маленький тоже не поможет. Чары не настолько глупы, Тиф."
+            ],
+            "s-cn": [
+              "小也没用。那咒术没那么蠢，蒂芙。"
+            ],
+            "t-cn": [
+              "小也沒用。那咒術沒那麼蠢，蒂芙。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Well, use a club? Clubs aren't sharp."
             ],
+            "de": [
+              "Oder nimm eine Keule. Keulen sind nicht scharf."
+            ],
+            "es": [
+              "¿O usar una maza? Las mazas no son afiladas."
+            ],
+            "fr": [
+              "Eh bien, sers-toi d'un gourdin ! Ce n'est pas tranchant."
+            ],
+            "it": [
+              "Oppure usare una clava? Le clave non sono affilate."
+            ],
+            "ja": [
+              "じゃあ、こん棒は？ あれなら刃もないでしょ。"
+            ],
+            "ko": [
+              "아니면 몽둥이를 써? 몽둥이는 날카롭지 않잖아."
+            ],
             "pt-br": [
               "Ou usar um porrete? Porretes não são afiados."
+            ],
+            "ru": [
+              "Или взять дубину? Дубины не острые."
+            ],
+            "s-cn": [
+              "那就用棍棒？棍棒又不锋利。"
+            ],
+            "t-cn": [
+              "那就用棍棒？棍棒又不鋒利。"
             ]
           },
           "provenance": {
@@ -91,10 +181,55 @@
               "But the binding isn't limited to blades.",
               "I can't swing *anything* at *anyone*. Including a Goblin, sadly."
             ],
+            "de": [
+              "Tif, es heißt „Schwertgebunden“, weil wir Schwertkämpfer sind.",
+              "Aber die Bindung geht weiter: Sie gilt nicht nur für Klingen.",
+              "Ich kann mit nichts nach irgendwem schlagen. Leider auch nicht nach einem Goblin."
+            ],
+            "es": [
+              "Tif, se llama «Atado a la espada» porque somos espadachines.",
+              "Pero el vínculo no se limita a las armas de filo.",
+              "No puedo golpear a *nadie* con *nada*. Ni siquiera a un goblin, por desgracia."
+            ],
+            "fr": [
+              "Tif, ça s'appelle « entrave d'épée » parce que nous sommes des épéistes.",
+              "Mais la restriction ne s'arrête pas aux lames.",
+              "Je ne peux me servir de rien contre personne. Ce qui inclut les gobelins, hélas."
+            ],
+            "it": [
+              "Tif, si dice \"vincolato dalla spada\" perché siamo spadaccini.",
+              "Ma il vincolo non si limita alle lame.",
+              "Non posso brandire *nulla* contro *nessuno*. Nemmeno contro un goblin, purtroppo."
+            ],
+            "ja": [
+              "ティフ、「剣縛り」ってのは、 俺たちが剣士だからそう呼ぶだけだ。",
+              "「剣縛り」ってのは 攻撃する動きそのものを封じるんだ。",
+              "誰に向かっても、 何ひとつ振るえねえんだよ。 残念ながら、ゴブリン相手でもな。"
+            ],
+            "ko": [
+              "티프, 우리가 검사라서 \"검에 묶인 몸\"이라고 부르는 거야.",
+              "하지만 그 속박이 칼에만 적용되는 건 아니야.",
+              "*누구에게도* *아무것도* 휘두를 수 없어. 안타깝게도 고블린한테도 마찬가지야."
+            ],
             "pt-br": [
               "Tif, o nome é \"Devoto da Espada\" porque somos espadachins.",
               "Mas a devoção não se limita às lâminas.",
               "Não posso golpear *ninguém* com *nada*. Nem mesmo um Goblin, infelizmente."
+            ],
+            "ru": [
+              "Тиф, это называется «Связанный мечом», потому что мы мечники.",
+              "Но эти узы касаются не только клинков.",
+              "Я не могу замахнуться *ничем* и *ни на кого*. Даже на гоблина, увы."
+            ],
+            "s-cn": [
+              "蒂芙，之所以叫“剑缚”，是因为我们是剑士。",
+              "可这道束缚并不只限于刀剑。",
+              "不管拿什么，我都没法动手打人。可惜，连哥布林也打不了。"
+            ],
+            "t-cn": [
+              "蒂芙，之所以叫「縛劍」，是因為我們是劍士。",
+              "可這道束縛並不只限於刀劍。",
+              "不管拿什麼，我都沒法動手打人。 可惜，連哥布林也打不了。"
             ]
           },
           "provenance": {
@@ -117,8 +252,35 @@
             "en": [
               "Uhhhhh, punch 'em?"
             ],
+            "de": [
+              "Ähhh, wie wäre es mit ’nem Faustschlag?"
+            ],
+            "es": [
+              "Ehhh, ¿y darles un puñetazo?"
+            ],
+            "fr": [
+              "Euh... et un coup de poing ?"
+            ],
+            "it": [
+              "Ehm, e prenderli a pugni?"
+            ],
+            "ja": [
+              "石を投げたり、殴ったりは？"
+            ],
+            "ko": [
+              "어어어, 주먹으로 치면?"
+            ],
             "pt-br": [
               "Hããããã, e dar um soco?"
+            ],
+            "ru": [
+              "Э-э-э, а кулаком?"
+            ],
+            "s-cn": [
+              "呃……那用拳头揍呢？"
+            ],
+            "t-cn": [
+              "呃……那用拳頭揍呢？"
             ]
           },
           "provenance": {
@@ -139,8 +301,35 @@
             "en": [
               "I could push them sternly with my fist. Not going to help."
             ],
+            "de": [
+              "Ich könnte sie mit der Faust energisch wegschieben. Das hilft uns aber nicht."
+            ],
+            "es": [
+              "Podría empujarlos con el puño, con firmeza. Aquí no nos serviría de nada."
+            ],
+            "fr": [
+              "Je pourrais les pousser fermement du dos de la main. Ça ne nous aiderait pas beaucoup."
+            ],
+            "it": [
+              "Potrei spingerli con forza col pugno. Qui non ci aiuterà."
+            ],
+            "ja": [
+              "押すことはできるが、 ここじゃ役に立たないな。"
+            ],
+            "ko": [
+              "주먹으로 세게 밀어 버릴 수는 있겠지. 소용없어."
+            ],
             "pt-br": [
               "Eu poderia empurrar eles com firmeza usando o punho. Não vai ajudar aqui."
+            ],
+            "ru": [
+              "Я мог бы сурово ткнуть их кулаком. Здесь это нам не поможет."
+            ],
+            "s-cn": [
+              "我倒是可以用拳头使劲推他们。没什么用就是了。"
+            ],
+            "t-cn": [
+              "我倒是可以用拳頭使勁推他們。沒什麼用就是了。"
             ]
           },
           "provenance": {
@@ -167,6 +356,66 @@
           "Uhhhhh, punch 'em?",
           "I could push them sternly with my fist. Not going to help."
         ],
+        "de": [
+          "Ein Dolch ist klein. Den könntest du doch durchschmuggeln?",
+          "Die Größe spielt keine Rolle. So dumm ist der Zauber nicht, Tif.",
+          "Oder nimm eine Keule. Keulen sind nicht scharf.",
+          "Tif, es heißt „Schwertgebunden“, weil wir Schwertkämpfer sind.",
+          "Aber die Bindung geht weiter: Sie gilt nicht nur für Klingen.",
+          "Ich kann mit nichts nach irgendwem schlagen. Leider auch nicht nach einem Goblin.",
+          "Ähhh, wie wäre es mit ’nem Faustschlag?",
+          "Ich könnte sie mit der Faust energisch wegschieben. Das hilft uns aber nicht."
+        ],
+        "es": [
+          "Un puñal es pequeño, ¿podrías colarlo?",
+          "Que sea pequeño no servirá de nada. El encantamiento no es tan tonto, Tif.",
+          "¿O usar una maza? Las mazas no son afiladas.",
+          "Tif, se llama «Atado a la espada» porque somos espadachines.",
+          "Pero el vínculo no se limita a las armas de filo.",
+          "No puedo golpear a *nadie* con *nada*. Ni siquiera a un goblin, por desgracia.",
+          "Ehhh, ¿y darles un puñetazo?",
+          "Podría empujarlos con el puño, con firmeza. Aquí no nos serviría de nada."
+        ],
+        "fr": [
+          "Une dague, c'est petit ; tu pourrais la faire passer ni vu ni connu ?",
+          "La taille n'y change rien. L'enchantement n'est pas si bête, Tif.",
+          "Eh bien, sers-toi d'un gourdin ! Ce n'est pas tranchant.",
+          "Tif, ça s'appelle « entrave d'épée » parce que nous sommes des épéistes.",
+          "Mais la restriction ne s'arrête pas aux lames.",
+          "Je ne peux me servir de rien contre personne. Ce qui inclut les gobelins, hélas.",
+          "Euh... et un coup de poing ?",
+          "Je pourrais les pousser fermement du dos de la main. Ça ne nous aiderait pas beaucoup."
+        ],
+        "it": [
+          "Un pugnale è piccolo, potresti farlo passare di nascosto?",
+          "Che sia piccolo non cambia niente. L'incantesimo non è così stupido, Tif.",
+          "Oppure usare una clava? Le clave non sono affilate.",
+          "Tif, si dice \"vincolato dalla spada\" perché siamo spadaccini.",
+          "Ma il vincolo non si limita alle lame.",
+          "Non posso brandire *nulla* contro *nessuno*. Nemmeno contro un goblin, purtroppo.",
+          "Ehm, e prenderli a pugni?",
+          "Potrei spingerli con forza col pugno. Qui non ci aiuterà."
+        ],
+        "ja": [
+          "短剣なら こっそり持ち込めるんじゃない？ それか棍棒を使うのは？",
+          "小さくてもダメだ。 この魔法は、そんなに間抜けじゃねえぞ、ティフ。",
+          "じゃあ、こん棒は？ あれなら刃もないでしょ。",
+          "ティフ、「剣縛り」ってのは、 俺たちが剣士だからそう呼ぶだけだ。",
+          "「剣縛り」ってのは 攻撃する動きそのものを封じるんだ。",
+          "誰に向かっても、 何ひとつ振るえねえんだよ。 残念ながら、ゴブリン相手でもな。",
+          "石を投げたり、殴ったりは？",
+          "押すことはできるが、 ここじゃ役に立たないな。"
+        ],
+        "ko": [
+          "단검은 작으니까, 몰래 반입할 수 있겠지?",
+          "작다고 달라질 건 없어. 이 마법은 그렇게 허술하지 않아, 티프.",
+          "아니면 몽둥이를 써? 몽둥이는 날카롭지 않잖아.",
+          "티프, 우리가 검사라서 \"검에 묶인 몸\"이라고 부르는 거야.",
+          "하지만 그 속박이 칼에만 적용되는 건 아니야.",
+          "*누구에게도* *아무것도* 휘두를 수 없어. 안타깝게도 고블린한테도 마찬가지야.",
+          "어어어, 주먹으로 치면?",
+          "주먹으로 세게 밀어 버릴 수는 있겠지. 소용없어."
+        ],
         "pt-br": [
           "Uma adaga é pequena, não dava pra esconder?",
           "Ser pequena não adianta. O encantamento não é tão burro, Tif.",
@@ -176,6 +425,36 @@
           "Não posso golpear *ninguém* com *nada*. Nem mesmo um Goblin, infelizmente.",
           "Hããããã, e dar um soco?",
           "Eu poderia empurrar eles com firmeza usando o punho. Não vai ajudar aqui."
+        ],
+        "ru": [
+          "Кинжал маленький, можно пронести его тайком?",
+          "Маленький тоже не поможет. Чары не настолько глупы, Тиф.",
+          "Или взять дубину? Дубины не острые.",
+          "Тиф, это называется «Связанный мечом», потому что мы мечники.",
+          "Но эти узы касаются не только клинков.",
+          "Я не могу замахнуться *ничем* и *ни на кого*. Даже на гоблина, увы.",
+          "Э-э-э, а кулаком?",
+          "Я мог бы сурово ткнуть их кулаком. Здесь это нам не поможет."
+        ],
+        "s-cn": [
+          "短剑那么小，不能蒙混过去吗？",
+          "小也没用。那咒术没那么蠢，蒂芙。",
+          "那就用棍棒？棍棒又不锋利。",
+          "蒂芙，之所以叫“剑缚”，是因为我们是剑士。",
+          "可这道束缚并不只限于刀剑。",
+          "不管拿什么，我都没法动手打人。可惜，连哥布林也打不了。",
+          "呃……那用拳头揍呢？",
+          "我倒是可以用拳头使劲推他们。没什么用就是了。"
+        ],
+        "t-cn": [
+          "短劍那麼小，不能矇混過去嗎？",
+          "小也沒用。那咒術沒那麼蠢，蒂芙。",
+          "那就用棍棒？棍棒又不鋒利。",
+          "蒂芙，之所以叫「縛劍」，是因為我們是劍士。",
+          "可這道束縛並不只限於刀劍。",
+          "不管拿什麼，我都沒法動手打人。 可惜，連哥布林也打不了。",
+          "呃……那用拳頭揍呢？",
+          "我倒是可以用拳頭使勁推他們。沒什麼用就是了。"
         ]
       },
       "silentCues": [],
@@ -214,8 +493,35 @@
             "en": [
               "See, when we work together, you don't even need a club!"
             ],
+            "de": [
+              "Siehst du, wenn wir zusammenarbeiten, brauchst du gar keine Keule!"
+            ],
+            "es": [
+              "¿Ves? Si trabajamos juntos, ¡no necesitas un maza!"
+            ],
+            "fr": [
+              "Tu vois, si on travaille ensemble, tu n'as même pas besoin d'un gourdin !"
+            ],
+            "it": [
+              "Visto? Se collaboriamo, non ti serve alcuna clava!"
+            ],
+            "ja": [
+              "ほら、一緒なら 棍棒なんて必要ナシ！"
+            ],
+            "ko": [
+              "봐, 우리가 힘을 합치면, 몽둥이 따윈 필요 없다구!"
+            ],
             "pt-br": [
               "Viu? Quando trabalhamos juntos, você nem precisa de um porrete!"
+            ],
+            "ru": [
+              "Видишь, если мы работаем вместе, тебе и дубина не нужна!"
+            ],
+            "s-cn": [
+              "看吧，咱俩一配合，你连棍棒都不需要！"
+            ],
+            "t-cn": [
+              "看吧，咱倆一配合，你連棍棒都不需要！"
             ]
           },
           "provenance": {
@@ -236,8 +542,35 @@
             "en": [
               "Not today at least. Let's hope our luck holds."
             ],
+            "de": [
+              "Zumindest heute nicht. Hoffen wir, dass unser Glück anhält."
+            ],
+            "es": [
+              "Por lo menos hoy no. Esperemos que la suerte siga."
+            ],
+            "fr": [
+              "Pas aujourd'hui, en tout cas. Espérons que la chance nous sourie encore."
+            ],
+            "it": [
+              "Almeno non oggi. Speriamo che la fortuna ci assista."
+            ],
+            "ja": [
+              "このまま運良く いくといいけどな。"
+            ],
+            "ko": [
+              "최소한 오늘은 그렇네. 이 행운이 계속되길 바라야지."
+            ],
             "pt-br": [
               "Pelo menos hoje não. Tomara que nossa sorte continue."
+            ],
+            "ru": [
+              "По крайней мере, не сегодня. Будем надеяться, удача нас не покинет."
+            ],
+            "s-cn": [
+              "至少今天不需要。希望运气一直这么好吧。"
+            ],
+            "t-cn": [
+              "至少今天不需要。希望運氣一直這麼好吧。"
             ]
           },
           "provenance": {
@@ -258,9 +591,45 @@
           "See, when we work together, you don't even need a club!",
           "Not today at least. Let's hope our luck holds."
         ],
+        "de": [
+          "Siehst du, wenn wir zusammenarbeiten, brauchst du gar keine Keule!",
+          "Zumindest heute nicht. Hoffen wir, dass unser Glück anhält."
+        ],
+        "es": [
+          "¿Ves? Si trabajamos juntos, ¡no necesitas un maza!",
+          "Por lo menos hoy no. Esperemos que la suerte siga."
+        ],
+        "fr": [
+          "Tu vois, si on travaille ensemble, tu n'as même pas besoin d'un gourdin !",
+          "Pas aujourd'hui, en tout cas. Espérons que la chance nous sourie encore."
+        ],
+        "it": [
+          "Visto? Se collaboriamo, non ti serve alcuna clava!",
+          "Almeno non oggi. Speriamo che la fortuna ci assista."
+        ],
+        "ja": [
+          "ほら、一緒なら 棍棒なんて必要ナシ！",
+          "このまま運良く いくといいけどな。"
+        ],
+        "ko": [
+          "봐, 우리가 힘을 합치면, 몽둥이 따윈 필요 없다구!",
+          "최소한 오늘은 그렇네. 이 행운이 계속되길 바라야지."
+        ],
         "pt-br": [
           "Viu? Quando trabalhamos juntos, você nem precisa de um porrete!",
           "Pelo menos hoje não. Tomara que nossa sorte continue."
+        ],
+        "ru": [
+          "Видишь, если мы работаем вместе, тебе и дубина не нужна!",
+          "По крайней мере, не сегодня. Будем надеяться, удача нас не покинет."
+        ],
+        "s-cn": [
+          "看吧，咱俩一配合，你连棍棒都不需要！",
+          "至少今天不需要。希望运气一直这么好吧。"
+        ],
+        "t-cn": [
+          "看吧，咱倆一配合，你連棍棒都不需要！",
+          "至少今天不需要。希望運氣一直這麼好吧。"
         ]
       },
       "silentCues": [],

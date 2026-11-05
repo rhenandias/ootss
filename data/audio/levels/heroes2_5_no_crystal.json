@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Hey there boy-os, I don't suppose anyone ever keeps you as pets?",
               "You could do all kinds of things! Warm the house, roast supper..."
             ],
+            "de": [
+              "Na, ihr Kerlchen, ich nehme an, niemand hat euch je als Haustiere gehalten?",
+              "Ihr könntet so viele Arbeiten erledigen! Das Haus heizen, das Abendessen braten ..."
+            ],
+            "es": [
+              "Oye, chicos, ¿acaso no hay nadie que os tenga como mascotas?",
+              "¡Podríais hacer toda clase de cosas! Calentar la casa, asar la cena..."
+            ],
+            "fr": [
+              "Hé, les p'tits gars... On n'a jamais essayé de vous adopter comme animal de compagnie, par hasard ?",
+              "Vous pourriez faire toutes sortes de choses ! Chauffer la maison, faire rôtir le dîner..."
+            ],
+            "it": [
+              "Ehi ragazzi, non credo che qualcuno abbia potuto pensare di tenervi come animali domestici!",
+              "Potreste fare di tutto! Scaldare la casa, arrostire la cena..."
+            ],
+            "ja": [
+              "やっほー。 あんたたちって ペットだったりしないよね？",
+              "いろんなことに使えるよ！ 家を暖めたり、夕飯を作ったり…"
+            ],
+            "ko": [
+              "안녕 얘들아, 설마 아무도 너희를 애완동물로 키우진 않겠지?",
+              "온갖 일을 할 수 있겠네! 집도 데우고, 저녁거리도 굽고..."
+            ],
             "pt-br": [
               "E aí, garotos, será que alguém já tentou ter vocês de estimação?",
               "Você poderia fazer de tudo! Aquecer a casa, assar o jantar..."
+            ],
+            "ru": [
+              "Привет, ребятки, вряд ли кто-то когда-нибудь держал вас в качестве питомцев?",
+              "Столько всего можно делать! Дом обогревать, ужин жарить..."
+            ],
+            "s-cn": [
+              "嗨，小家伙们，你们难道从来没被人当宠物养过？",
+              "能做的事情可多着呢！给屋子取暖、烤晚饭……"
+            ],
+            "t-cn": [
+              "嗨，小傢伙們，你們難道從來沒被人當寵物養過？",
+              "能做的事情可多著呢！給屋子取暖、烤晚飯……"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "Hey there boy-os, I don't suppose anyone ever keeps you as pets?",
           "You could do all kinds of things! Warm the house, roast supper..."
         ],
+        "de": [
+          "Na, ihr Kerlchen, ich nehme an, niemand hat euch je als Haustiere gehalten?",
+          "Ihr könntet so viele Arbeiten erledigen! Das Haus heizen, das Abendessen braten ..."
+        ],
+        "es": [
+          "Oye, chicos, ¿acaso no hay nadie que os tenga como mascotas?",
+          "¡Podríais hacer toda clase de cosas! Calentar la casa, asar la cena..."
+        ],
+        "fr": [
+          "Hé, les p'tits gars... On n'a jamais essayé de vous adopter comme animal de compagnie, par hasard ?",
+          "Vous pourriez faire toutes sortes de choses ! Chauffer la maison, faire rôtir le dîner..."
+        ],
+        "it": [
+          "Ehi ragazzi, non credo che qualcuno abbia potuto pensare di tenervi come animali domestici!",
+          "Potreste fare di tutto! Scaldare la casa, arrostire la cena..."
+        ],
+        "ja": [
+          "やっほー。 あんたたちって ペットだったりしないよね？",
+          "いろんなことに使えるよ！ 家を暖めたり、夕飯を作ったり…"
+        ],
+        "ko": [
+          "안녕 얘들아, 설마 아무도 너희를 애완동물로 키우진 않겠지?",
+          "온갖 일을 할 수 있겠네! 집도 데우고, 저녁거리도 굽고..."
+        ],
         "pt-br": [
           "E aí, garotos, será que alguém já tentou ter vocês de estimação?",
           "Você poderia fazer de tudo! Aquecer a casa, assar o jantar..."
+        ],
+        "ru": [
+          "Привет, ребятки, вряд ли кто-то когда-нибудь держал вас в качестве питомцев?",
+          "Столько всего можно делать! Дом обогревать, ужин жарить..."
+        ],
+        "s-cn": [
+          "嗨，小家伙们，你们难道从来没被人当宠物养过？",
+          "能做的事情可多着呢！给屋子取暖、烤晚饭……"
+        ],
+        "t-cn": [
+          "嗨，小傢伙們，你們難道從來沒被人當寵物養過？",
+          "能做的事情可多著呢！給屋子取暖、烤晚飯……"
         ]
       },
       "silentCues": [],
@@ -89,8 +170,35 @@
             "en": [
               "keep the bath hot *well* into the night..."
             ],
+            "de": [
+              "das Badewasser bis tief in die Nacht warm halten ..."
+            ],
+            "es": [
+              "mantener el agua del baño caliente hasta bien entrada la noche..."
+            ],
+            "fr": [
+              "garder l'eau du bain chaude tard dans la nuit..."
+            ],
+            "it": [
+              "tenere caldo il bagno fino a notte fonda..."
+            ],
+            "ja": [
+              "お風呂を夜遅くまで温かくしたり…"
+            ],
+            "ko": [
+              "목욕물도 밤 늦게까지 따뜻하게 유지하고..."
+            ],
             "pt-br": [
               "manter o banho quente até altas horas da noite..."
+            ],
+            "ru": [
+              "подогревать ванну до глубокой ночи..."
+            ],
+            "s-cn": [
+              "让洗澡水一直热到深夜……"
+            ],
+            "t-cn": [
+              "讓洗澡水一直熱到深夜……"
             ]
           },
           "provenance": {
@@ -110,8 +218,35 @@
         "en": [
           "keep the bath hot *well* into the night..."
         ],
+        "de": [
+          "das Badewasser bis tief in die Nacht warm halten ..."
+        ],
+        "es": [
+          "mantener el agua del baño caliente hasta bien entrada la noche..."
+        ],
+        "fr": [
+          "garder l'eau du bain chaude tard dans la nuit..."
+        ],
+        "it": [
+          "tenere caldo il bagno fino a notte fonda..."
+        ],
+        "ja": [
+          "お風呂を夜遅くまで温かくしたり…"
+        ],
+        "ko": [
+          "목욕물도 밤 늦게까지 따뜻하게 유지하고..."
+        ],
         "pt-br": [
           "manter o banho quente até altas horas da noite..."
+        ],
+        "ru": [
+          "подогревать ванну до глубокой ночи..."
+        ],
+        "s-cn": [
+          "让洗澡水一直热到深夜……"
+        ],
+        "t-cn": [
+          "讓洗澡水一直熱到深夜……"
         ]
       },
       "silentCues": [],
@@ -150,8 +285,35 @@
             "en": [
               "dry the wash in half the time..."
             ],
+            "de": [
+              "die Wäsche in der halben Zeit trocknen ..."
+            ],
+            "es": [
+              "secar la colada en la mitad de tiempo..."
+            ],
+            "fr": [
+              "sécher le linge deux fois plus vite..."
+            ],
+            "it": [
+              "asciugare il bucato in metà tempo..."
+            ],
+            "ja": [
+              "洗濯物を半分の時間で乾かしたり…"
+            ],
+            "ko": [
+              "빨래 말리는 시간도 반으로 줄이고..."
+            ],
             "pt-br": [
               "secar a roupa na metade do tempo..."
+            ],
+            "ru": [
+              "сушить бельё вдвое быстрее..."
+            ],
+            "s-cn": [
+              "快速晾干衣服……"
+            ],
+            "t-cn": [
+              "快速晾乾衣服……"
             ]
           },
           "provenance": {
@@ -171,8 +333,35 @@
         "en": [
           "dry the wash in half the time..."
         ],
+        "de": [
+          "die Wäsche in der halben Zeit trocknen ..."
+        ],
+        "es": [
+          "secar la colada en la mitad de tiempo..."
+        ],
+        "fr": [
+          "sécher le linge deux fois plus vite..."
+        ],
+        "it": [
+          "asciugare il bucato in metà tempo..."
+        ],
+        "ja": [
+          "洗濯物を半分の時間で乾かしたり…"
+        ],
+        "ko": [
+          "빨래 말리는 시간도 반으로 줄이고..."
+        ],
         "pt-br": [
           "secar a roupa na metade do tempo..."
+        ],
+        "ru": [
+          "сушить бельё вдвое быстрее..."
+        ],
+        "s-cn": [
+          "快速晾干衣服……"
+        ],
+        "t-cn": [
+          "快速晾乾衣服……"
         ]
       },
       "silentCues": [],
@@ -211,8 +400,35 @@
             "en": [
               "warm my slippers..."
             ],
+            "de": [
+              "meine Pantoffeln wärmen ..."
+            ],
+            "es": [
+              "calentarme las zapatillas..."
+            ],
+            "fr": [
+              "réchauffer mes pantoufles..."
+            ],
+            "it": [
+              "scaldarmi le pantofole..."
+            ],
+            "ja": [
+              "あたしのスリッパを温めたり…"
+            ],
+            "ko": [
+              "내 슬리퍼도 데우고..."
+            ],
             "pt-br": [
               "esquentar minhas pantufas..."
+            ],
+            "ru": [
+              "греть мне тапочки..."
+            ],
+            "s-cn": [
+              "暖暖我的拖鞋……"
+            ],
+            "t-cn": [
+              "暖暖我的拖鞋……"
             ]
           },
           "provenance": {
@@ -232,8 +448,35 @@
         "en": [
           "warm my slippers..."
         ],
+        "de": [
+          "meine Pantoffeln wärmen ..."
+        ],
+        "es": [
+          "calentarme las zapatillas..."
+        ],
+        "fr": [
+          "réchauffer mes pantoufles..."
+        ],
+        "it": [
+          "scaldarmi le pantofole..."
+        ],
+        "ja": [
+          "あたしのスリッパを温めたり…"
+        ],
+        "ko": [
+          "내 슬리퍼도 데우고..."
+        ],
         "pt-br": [
           "esquentar minhas pantufas..."
+        ],
+        "ru": [
+          "греть мне тапочки..."
+        ],
+        "s-cn": [
+          "暖暖我的拖鞋……"
+        ],
+        "t-cn": [
+          "暖暖我的拖鞋……"
         ]
       },
       "silentCues": [],
@@ -272,8 +515,35 @@
             "en": [
               "scorch the weeds out between the paving stones..."
             ],
+            "de": [
+              "das Unkraut zwischen den Pflastersteinen wegbrennen ..."
+            ],
+            "es": [
+              "quemar los hierbajos de entre los adoquines..."
+            ],
+            "fr": [
+              "brûler les mauvaises herbes entre les pavés..."
+            ],
+            "it": [
+              "bruciare le erbacce tra le pietre del selciato..."
+            ],
+            "ja": [
+              "敷石の間の雑草を焼いたり…"
+            ],
+            "ko": [
+              "포석 사이로 난 잡초도 태우고..."
+            ],
             "pt-br": [
               "queimar o mato entre as pedras do calçamento..."
+            ],
+            "ru": [
+              "выжигать сорняки между камнями мостовой..."
+            ],
+            "s-cn": [
+              "把铺路石缝里的杂草烧个干净……"
+            ],
+            "t-cn": [
+              "把鋪路石縫裡的雜草燒個乾淨……"
             ]
           },
           "provenance": {
@@ -293,8 +563,35 @@
         "en": [
           "scorch the weeds out between the paving stones..."
         ],
+        "de": [
+          "das Unkraut zwischen den Pflastersteinen wegbrennen ..."
+        ],
+        "es": [
+          "quemar los hierbajos de entre los adoquines..."
+        ],
+        "fr": [
+          "brûler les mauvaises herbes entre les pavés..."
+        ],
+        "it": [
+          "bruciare le erbacce tra le pietre del selciato..."
+        ],
+        "ja": [
+          "敷石の間の雑草を焼いたり…"
+        ],
+        "ko": [
+          "포석 사이로 난 잡초도 태우고..."
+        ],
         "pt-br": [
           "queimar o mato entre as pedras do calçamento..."
+        ],
+        "ru": [
+          "выжигать сорняки между камнями мостовой..."
+        ],
+        "s-cn": [
+          "把铺路石缝里的杂草烧个干净……"
+        ],
+        "t-cn": [
+          "把鋪路石縫裡的雜草燒個乾淨……"
         ]
       },
       "silentCues": [],
@@ -333,8 +630,35 @@
             "en": [
               "And if anyone comes collecting debts... ... ..."
             ],
+            "de": [
+              "Und wenn jemand kommt, um Schulden einzutreiben ..."
+            ],
+            "es": [
+              "Y si alguien viene a cobrar deudas..."
+            ],
+            "fr": [
+              "Et si quelqu'un vient collecter des impôts..."
+            ],
+            "it": [
+              "E se qualcuno venisse a riscuotere dei debiti..."
+            ],
+            "ja": [
+              "それに、借金取りが来たら… … …"
+            ],
+            "ko": [
+              "게다가 누가 빚을 받으러 오면..."
+            ],
             "pt-br": [
               "E se alguém vier cobrar dívidas..."
+            ],
+            "ru": [
+              "А уж если кто явится за долгами..."
+            ],
+            "s-cn": [
+              "要是有人上门讨债……"
+            ],
+            "t-cn": [
+              "要是有人上門討債……"
             ]
           },
           "provenance": {
@@ -354,8 +678,35 @@
         "en": [
           "And if anyone comes collecting debts... ... ..."
         ],
+        "de": [
+          "Und wenn jemand kommt, um Schulden einzutreiben ..."
+        ],
+        "es": [
+          "Y si alguien viene a cobrar deudas..."
+        ],
+        "fr": [
+          "Et si quelqu'un vient collecter des impôts..."
+        ],
+        "it": [
+          "E se qualcuno venisse a riscuotere dei debiti..."
+        ],
+        "ja": [
+          "それに、借金取りが来たら… … …"
+        ],
+        "ko": [
+          "게다가 누가 빚을 받으러 오면..."
+        ],
         "pt-br": [
           "E se alguém vier cobrar dívidas..."
+        ],
+        "ru": [
+          "А уж если кто явится за долгами..."
+        ],
+        "s-cn": [
+          "要是有人上门讨债……"
+        ],
+        "t-cn": [
+          "要是有人上門討債……"
         ]
       },
       "silentCues": [],

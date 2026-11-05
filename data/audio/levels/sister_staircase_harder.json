@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Oh my God!"
             ],
+            "de": [
+              "Oh mein Gott!"
+            ],
+            "es": [
+              "¡Ay, por Dios!"
+            ],
+            "fr": [
+              "Oh mon Dieu !"
+            ],
+            "it": [
+              "Oddio!"
+            ],
+            "ja": [
+              "おいおい！"
+            ],
+            "ko": [
+              "맙소사!"
+            ],
             "pt-br": [
               "Minha nossa."
+            ],
+            "ru": [
+              "Боже мой!"
+            ],
+            "s-cn": [
+              "我的天啊！"
+            ],
+            "t-cn": [
+              "我的天啊！"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "That's ... that's what I said."
             ],
+            "de": [
+              "Das ... das habe ich doch gesagt."
+            ],
+            "es": [
+              "Eso... eso es lo que dije."
+            ],
+            "fr": [
+              "... C'est ce que je disais."
+            ],
+            "it": [
+              "È... è quello che ho detto."
+            ],
+            "ja": [
+              "アタシのセリフだ。"
+            ],
+            "ko": [
+              "그게... 내 말이 바로 그거야."
+            ],
             "pt-br": [
               "Foi... foi o que eu disse."
+            ],
+            "ru": [
+              "Я... я так и сказала."
+            ],
+            "s-cn": [
+              "我……我刚才也是这反应。"
+            ],
+            "t-cn": [
+              "我……我剛才也是這反應。"
             ]
           },
           "provenance": {
@@ -67,9 +130,45 @@
           "Oh my God!",
           "That's ... that's what I said."
         ],
+        "de": [
+          "Oh mein Gott!",
+          "Das ... das habe ich doch gesagt."
+        ],
+        "es": [
+          "¡Ay, por Dios!",
+          "Eso... eso es lo que dije."
+        ],
+        "fr": [
+          "Oh mon Dieu !",
+          "... C'est ce que je disais."
+        ],
+        "it": [
+          "Oddio!",
+          "È... è quello che ho detto."
+        ],
+        "ja": [
+          "おいおい！",
+          "アタシのセリフだ。"
+        ],
+        "ko": [
+          "맙소사!",
+          "그게... 내 말이 바로 그거야."
+        ],
         "pt-br": [
           "Minha nossa.",
           "Foi... foi o que eu disse."
+        ],
+        "ru": [
+          "Боже мой!",
+          "Я... я так и сказала."
+        ],
+        "s-cn": [
+          "我的天啊！",
+          "我……我刚才也是这反应。"
+        ],
+        "t-cn": [
+          "我的天啊！",
+          "我……我剛才也是這反應。"
         ]
       },
       "silentCues": [],
@@ -108,8 +207,35 @@
             "en": [
               "How do you do this?"
             ],
+            "de": [
+              "Wie machst du das?"
+            ],
+            "es": [
+              "¿Cómo puedes hacer esto?"
+            ],
+            "fr": [
+              "Comment tu fais ça ?"
+            ],
+            "it": [
+              "Come fai?"
+            ],
+            "ja": [
+              "どうすりゃいいんだい？"
+            ],
+            "ko": [
+              "도대체 어떻게 하는 거야?"
+            ],
             "pt-br": [
               "Como você faz isso?"
+            ],
+            "ru": [
+              "Как тебе это удаётся?"
+            ],
+            "s-cn": [
+              "你是怎么走过来的？"
+            ],
+            "t-cn": [
+              "你是怎麼走過來的？"
             ]
           },
           "provenance": {
@@ -130,8 +256,35 @@
             "en": [
               "I'm not used to it either!"
             ],
+            "de": [
+              "Ich bin das auch nicht gewohnt!"
+            ],
+            "es": [
+              "¡Yo tampoco estoy acostumbrada!"
+            ],
+            "fr": [
+              "Je n'y suis pas habituée non plus !"
+            ],
+            "it": [
+              "Nemmeno io ci sono abituata!"
+            ],
+            "ja": [
+              "アタシに聞くなよ！"
+            ],
+            "ko": [
+              "나도 아직 익숙하지 않아!"
+            ],
             "pt-br": [
               "Também não estou acostumada com isso!"
+            ],
+            "ru": [
+              "Я тоже к этому не привыкла!"
+            ],
+            "s-cn": [
+              "我也不习惯！"
+            ],
+            "t-cn": [
+              "我也不習慣！"
             ]
           },
           "provenance": {
@@ -152,9 +305,45 @@
           "How do you do this?",
           "I'm not used to it either!"
         ],
+        "de": [
+          "Wie machst du das?",
+          "Ich bin das auch nicht gewohnt!"
+        ],
+        "es": [
+          "¿Cómo puedes hacer esto?",
+          "¡Yo tampoco estoy acostumbrada!"
+        ],
+        "fr": [
+          "Comment tu fais ça ?",
+          "Je n'y suis pas habituée non plus !"
+        ],
+        "it": [
+          "Come fai?",
+          "Nemmeno io ci sono abituata!"
+        ],
+        "ja": [
+          "どうすりゃいいんだい？",
+          "アタシに聞くなよ！"
+        ],
+        "ko": [
+          "도대체 어떻게 하는 거야?",
+          "나도 아직 익숙하지 않아!"
+        ],
         "pt-br": [
           "Como você faz isso?",
           "Também não estou acostumada com isso!"
+        ],
+        "ru": [
+          "Как тебе это удаётся?",
+          "Я тоже к этому не привыкла!"
+        ],
+        "s-cn": [
+          "你是怎么走过来的？",
+          "我也不习惯！"
+        ],
+        "t-cn": [
+          "你是怎麼走過來的？",
+          "我也不習慣！"
         ]
       },
       "silentCues": [],
@@ -193,8 +382,35 @@
             "en": [
               "Let's get out of here."
             ],
+            "de": [
+              "Lass uns von hier verschwinden."
+            ],
+            "es": [
+              "Salgamos de aquí."
+            ],
+            "fr": [
+              "Allons-nous-en d'ici."
+            ],
+            "it": [
+              "Andiamocene da qui."
+            ],
+            "ja": [
+              "とにかくここを出よう。"
+            ],
+            "ko": [
+              "여기서 나가자."
+            ],
             "pt-br": [
               "Vamos sair daqui."
+            ],
+            "ru": [
+              "Убираемся отсюда."
+            ],
+            "s-cn": [
+              "赶紧离开这里吧。"
+            ],
+            "t-cn": [
+              "趕緊離開這裡吧。"
             ]
           },
           "provenance": {
@@ -215,8 +431,35 @@
             "en": [
               "Yes yes."
             ],
+            "de": [
+              "Ja, ja."
+            ],
+            "es": [
+              "Sí, sí."
+            ],
+            "fr": [
+              "Oui, oui."
+            ],
+            "it": [
+              "Sì sì."
+            ],
+            "ja": [
+              "はいはい。"
+            ],
+            "ko": [
+              "그래, 그래."
+            ],
             "pt-br": [
               "Isso, isso."
+            ],
+            "ru": [
+              "Да, да."
+            ],
+            "s-cn": [
+              "对，对。"
+            ],
+            "t-cn": [
+              "對，對。"
             ]
           },
           "provenance": {
@@ -237,9 +480,45 @@
           "Let's get out of here.",
           "Yes yes."
         ],
+        "de": [
+          "Lass uns von hier verschwinden.",
+          "Ja, ja."
+        ],
+        "es": [
+          "Salgamos de aquí.",
+          "Sí, sí."
+        ],
+        "fr": [
+          "Allons-nous-en d'ici.",
+          "Oui, oui."
+        ],
+        "it": [
+          "Andiamocene da qui.",
+          "Sì sì."
+        ],
+        "ja": [
+          "とにかくここを出よう。",
+          "はいはい。"
+        ],
+        "ko": [
+          "여기서 나가자.",
+          "그래, 그래."
+        ],
         "pt-br": [
           "Vamos sair daqui.",
           "Isso, isso."
+        ],
+        "ru": [
+          "Убираемся отсюда.",
+          "Да, да."
+        ],
+        "s-cn": [
+          "赶紧离开这里吧。",
+          "对，对。"
+        ],
+        "t-cn": [
+          "趕緊離開這裡吧。",
+          "對，對。"
         ]
       },
       "silentCues": [],

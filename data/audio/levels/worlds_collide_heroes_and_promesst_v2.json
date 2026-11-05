@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -28,6 +37,54 @@
               "but this can't be done without moving one away from the wall using the Displacer,",
               "which is a second way the two sides can affect each other."
             ],
+            "de": [
+              "In dieser Version haben wir alle Kristalle entfernt, wodurch das Level fokussierter wirkt.",
+              "Wir haben auch den Doppelstrahl entfernt und uns die kleine Unsauberkeit erlaubt, auf der Seite des Strahlenwerfers ein Monstertor zu platzieren.",
+              "Auch das Ausschalten der Monster ist jetzt übersichtlicher und zielgerichteter:",
+              "Es gibt 5 Goblins, also muss man ganz offensichtlich eine Dreiergruppe bilden,",
+              "aber das geht nicht, ohne einen von der Wand wegzubewegen und dafür den Versetzer zu benutzen.",
+              "was den beiden Seiten eine zweite Möglichkeit gibt, einander zu beeinflussen."
+            ],
+            "es": [
+              "En esta versión, nos hemos deshecho de todos los cristales, lo que ayuda a que el nivel resulte más centrado.",
+              "También nos deshicimos del doble haz, y nos permitimos la ligera impureza de colocar un portal de monstruos en el lado del proyector de haces.",
+              "También hemos hecho la eliminación del monstruo menos caótica y más centrada:",
+              "hay 5 goblins, así que obviamente tienes que formar un grupo de 3,",
+              "pero eso no se puede hacer sin alejar a uno de la pared usando el desplazador,",
+              "lo cual es una segunda forma de que ambos lados puedan influirse entre sí."
+            ],
+            "fr": [
+              "Dans cette version, on a supprimé tous les cristaux, ce qui aide le niveau à paraître plus ciblé.",
+              "On a aussi supprimé le double faisceau, et on s'est autorisé la légère hérésie de placer une porte de monstre du côté du projecteur.",
+              "On a aussi rendu l'élimination des monstres plus ciblée et moins brouillonne :",
+              "il y a 5 gobelins, donc il faut évidemment en faire un groupe de 3,",
+              "mais ce n'est pas possible sans en éloigner un du mur à l'aide du déplaceur,",
+              "ce qui constitue une autre façon pour les deux côtés d'interagir."
+            ],
+            "it": [
+              "In questa versione, ci siamo liberati di tutti i cristalli, il che aiuta il livello a sembrare focalizzato.",
+              "Abbiamo anche eliminato il raggio doppio, e ci siamo concessi la lieve impurità di collocare un portale mostro sul lato del lanciaraggio.",
+              "Abbiamo anche reso l'eliminazione del mostro meno caotica e più focalizzata:",
+              "ci sono 5 goblin, quindi ovviamente devi formare un gruppo di 3,",
+              "ma non si può fare senza allontanarne uno dal muro usando il dislocatore,",
+              "che è un secondo modo in cui i due lati possono influenzarsi a vicenda."
+            ],
+            "ja": [
+              "このバージョンでは、全クリスタルを 排除し、ステージの目的を さらに強調している。",
+              "ダブルビームも排除し、少しばかり ルールに逆らい、モンスターゲートを ビーム放射器側に配置している。",
+              "モンスターの倒し方についても もっと焦点を絞って、 余計な要素を減らした。",
+              "ゴブリンを5体用意しているので 3体をまとめる必要があるのは明らかだ。",
+              "でも、それには置き換えの杖を使って、 1体を壁際から動かさなければならない。",
+              "これによって、両側が相互的に 影響を与えるルートがもう一つ生まれる。"
+            ],
+            "ko": [
+              "이 버전에서는 수정들을 모두 없애서 레벨의 초점이 더 명확해졌어.",
+              "이중 빔도 없앴고 대신 빔캐스터 옆에 괴물 관문을 배치하는 약간의 부자연스러움은 감수했어.",
+              "괴물을 제거하는 과정도 더 명확하고 깔끔하게 만들었지.",
+              "고블린이 5마리라서 당연히 3마리를 한데 모아야 하는데",
+              "변위기를 써서 한 마리를 벽에서 떼어놓지 않으면 불가능해.",
+              "이건 양쪽이 서로 영향을 줄 수 있는 두 번째 방법이기도 하지."
+            ],
             "pt-br": [
               "Nesta versão, removemos todos os cristais, o que ajuda a fase a parecer focada.",
               "Também removemos o feixe Duplo e nos permitimos a pequena impureza de colocar um Portão de monstros no lado do Lança-feixes.",
@@ -35,6 +92,30 @@
               "há 5 goblins, então obviamente você precisa formar um grupo de 3,",
               "mas isso não pode ser feito sem afastar um da parede usando o Deslocador,",
               "que é uma segunda forma de os dois lados interagirem."
+            ],
+            "ru": [
+              "В этой версии мы избавились от всех кристаллов, что делает уровень более цельным.",
+              "Мы также убрали двойной луч и позволили себе небольшую нечестность — разместить врата монстров на стороне лучемета.",
+              "Мы также сделали уничтожение монстра менее хаотичным и более сосредоточенным:",
+              "здесь 5 гоблинов, так что очевидно нужно собрать группу из 3,",
+              "но сделать это нельзя, отодвинув одного от стены с помощью смещателя,",
+              "это второй способ, которым две стороны могут воздействовать друг на друга."
+            ],
+            "s-cn": [
+              "这一版删掉了所有水晶，让关卡的重心更明显。",
+              "我们还删掉了双倍光束，并做了一点不那么纯粹的处理： 在光束发射器一侧放置怪物界门。",
+              "我们也把消灭怪物的过程理得更清楚，让核心思路更突出：",
+              "这里有五只哥布林，显然得让其中三只组成一组，",
+              "但这样的话就必须用位移器把其中一只从墙边移开，否则就无法解题；",
+              "这样一来，关卡两侧又多了一层联动。"
+            ],
+            "t-cn": [
+              "這一版刪掉了所有水晶，讓關卡的重心更明顯。",
+              "我們還刪掉了雙倍光束，並做了一點不那麼純粹的處理： 在光束發射器一側放置怪物界門。",
+              "我們也把消滅怪物的過程理得更清楚，讓核心思路更突出：",
+              "這裡有五隻哥布林，顯然得讓其中三隻組成一組，",
+              "但這樣的話就必須用位移器把其中一隻從牆邊移開， 否則就無法解題；",
+              "這樣一來，關卡兩側又多了一層聯動。"
             ]
           },
           "provenance": {
@@ -64,6 +145,54 @@
           "but this can't be done without moving one away from the wall using the Displacer,",
           "which is a second way the two sides can affect each other."
         ],
+        "de": [
+          "In dieser Version haben wir alle Kristalle entfernt, wodurch das Level fokussierter wirkt.",
+          "Wir haben auch den Doppelstrahl entfernt und uns die kleine Unsauberkeit erlaubt, auf der Seite des Strahlenwerfers ein Monstertor zu platzieren.",
+          "Auch das Ausschalten der Monster ist jetzt übersichtlicher und zielgerichteter:",
+          "Es gibt 5 Goblins, also muss man ganz offensichtlich eine Dreiergruppe bilden,",
+          "aber das geht nicht, ohne einen von der Wand wegzubewegen und dafür den Versetzer zu benutzen.",
+          "was den beiden Seiten eine zweite Möglichkeit gibt, einander zu beeinflussen."
+        ],
+        "es": [
+          "En esta versión, nos hemos deshecho de todos los cristales, lo que ayuda a que el nivel resulte más centrado.",
+          "También nos deshicimos del doble haz, y nos permitimos la ligera impureza de colocar un portal de monstruos en el lado del proyector de haces.",
+          "También hemos hecho la eliminación del monstruo menos caótica y más centrada:",
+          "hay 5 goblins, así que obviamente tienes que formar un grupo de 3,",
+          "pero eso no se puede hacer sin alejar a uno de la pared usando el desplazador,",
+          "lo cual es una segunda forma de que ambos lados puedan influirse entre sí."
+        ],
+        "fr": [
+          "Dans cette version, on a supprimé tous les cristaux, ce qui aide le niveau à paraître plus ciblé.",
+          "On a aussi supprimé le double faisceau, et on s'est autorisé la légère hérésie de placer une porte de monstre du côté du projecteur.",
+          "On a aussi rendu l'élimination des monstres plus ciblée et moins brouillonne :",
+          "il y a 5 gobelins, donc il faut évidemment en faire un groupe de 3,",
+          "mais ce n'est pas possible sans en éloigner un du mur à l'aide du déplaceur,",
+          "ce qui constitue une autre façon pour les deux côtés d'interagir."
+        ],
+        "it": [
+          "In questa versione, ci siamo liberati di tutti i cristalli, il che aiuta il livello a sembrare focalizzato.",
+          "Abbiamo anche eliminato il raggio doppio, e ci siamo concessi la lieve impurità di collocare un portale mostro sul lato del lanciaraggio.",
+          "Abbiamo anche reso l'eliminazione del mostro meno caotica e più focalizzata:",
+          "ci sono 5 goblin, quindi ovviamente devi formare un gruppo di 3,",
+          "ma non si può fare senza allontanarne uno dal muro usando il dislocatore,",
+          "che è un secondo modo in cui i due lati possono influenzarsi a vicenda."
+        ],
+        "ja": [
+          "このバージョンでは、全クリスタルを 排除し、ステージの目的を さらに強調している。",
+          "ダブルビームも排除し、少しばかり ルールに逆らい、モンスターゲートを ビーム放射器側に配置している。",
+          "モンスターの倒し方についても もっと焦点を絞って、 余計な要素を減らした。",
+          "ゴブリンを5体用意しているので 3体をまとめる必要があるのは明らかだ。",
+          "でも、それには置き換えの杖を使って、 1体を壁際から動かさなければならない。",
+          "これによって、両側が相互的に 影響を与えるルートがもう一つ生まれる。"
+        ],
+        "ko": [
+          "이 버전에서는 수정들을 모두 없애서 레벨의 초점이 더 명확해졌어.",
+          "이중 빔도 없앴고 대신 빔캐스터 옆에 괴물 관문을 배치하는 약간의 부자연스러움은 감수했어.",
+          "괴물을 제거하는 과정도 더 명확하고 깔끔하게 만들었지.",
+          "고블린이 5마리라서 당연히 3마리를 한데 모아야 하는데",
+          "변위기를 써서 한 마리를 벽에서 떼어놓지 않으면 불가능해.",
+          "이건 양쪽이 서로 영향을 줄 수 있는 두 번째 방법이기도 하지."
+        ],
         "pt-br": [
           "Nesta versão, removemos todos os cristais, o que ajuda a fase a parecer focada.",
           "Também removemos o feixe Duplo e nos permitimos a pequena impureza de colocar um Portão de monstros no lado do Lança-feixes.",
@@ -71,6 +200,30 @@
           "há 5 goblins, então obviamente você precisa formar um grupo de 3,",
           "mas isso não pode ser feito sem afastar um da parede usando o Deslocador,",
           "que é uma segunda forma de os dois lados interagirem."
+        ],
+        "ru": [
+          "В этой версии мы избавились от всех кристаллов, что делает уровень более цельным.",
+          "Мы также убрали двойной луч и позволили себе небольшую нечестность — разместить врата монстров на стороне лучемета.",
+          "Мы также сделали уничтожение монстра менее хаотичным и более сосредоточенным:",
+          "здесь 5 гоблинов, так что очевидно нужно собрать группу из 3,",
+          "но сделать это нельзя, отодвинув одного от стены с помощью смещателя,",
+          "это второй способ, которым две стороны могут воздействовать друг на друга."
+        ],
+        "s-cn": [
+          "这一版删掉了所有水晶，让关卡的重心更明显。",
+          "我们还删掉了双倍光束，并做了一点不那么纯粹的处理： 在光束发射器一侧放置怪物界门。",
+          "我们也把消灭怪物的过程理得更清楚，让核心思路更突出：",
+          "这里有五只哥布林，显然得让其中三只组成一组，",
+          "但这样的话就必须用位移器把其中一只从墙边移开，否则就无法解题；",
+          "这样一来，关卡两侧又多了一层联动。"
+        ],
+        "t-cn": [
+          "這一版刪掉了所有水晶，讓關卡的重心更明顯。",
+          "我們還刪掉了雙倍光束，並做了一點不那麼純粹的處理： 在光束發射器一側放置怪物界門。",
+          "我們也把消滅怪物的過程理得更清楚，讓核心思路更突出：",
+          "這裡有五隻哥布林，顯然得讓其中三隻組成一組，",
+          "但這樣的話就必須用位移器把其中一隻從牆邊移開， 否則就無法解題；",
+          "這樣一來，關卡兩側又多了一層聯動。"
         ]
       },
       "silentCues": [],

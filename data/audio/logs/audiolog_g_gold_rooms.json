@@ -3,7 +3,16 @@
   "audioLog": "audiolog_g_gold_rooms",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -27,6 +36,72 @@
               "But this is the first I have managed to stand upon, and I have yet to engage with its central star.",
               "So I've no idea yet of the function of these golden platforms, but it's time I found out."
             ],
+            "de": [
+              "Prunkvoll. Doch es bringt mich auf einen Gedanken: Vieles an diesem Ort ist nicht, was es zu sein scheint.",
+              "Denn wer imstande war, einen derart gewaltigen Ort zu erschaffen –",
+              "wer all diese Gebäude, Gegenstände und natürlichen Umgebungen in solcher Zahl und Vielfalt nachbilden konnte –",
+              "es dürfte diesem jemand gewiss nicht schwerfallen, ein wenig Gold heraufzubeschwören.",
+              "Gold könnte demnach kaum kostbar sein, und doch wird es hier ausgestellt, als wäre es das.",
+              "Und doch bin ich beeindruckt. Vielleicht ist genau das der Zweck: die Uneingeweihten zu blenden.",
+              "Ich habe bereits mehrere solcher Plattformen erspäht. Vielleicht folgt ihre Verteilung einer gewissen Ordnung.",
+              "Doch dies ist die erste, die ich betreten konnte, und mit ihrem zentralen Stern habe ich mich noch nicht befasst.",
+              "Ich habe also noch keine Ahnung, welchem Zweck diese goldenen Plattformen dienen, doch es ist an der Zeit, es herauszufinden."
+            ],
+            "es": [
+              "Es extravagante. Pero me ha hecho pensar: muchas cosas en este lugar no son lo que parecen.",
+              "Para quien pudiera construir un lugar tan inmenso como este...",
+              "quien pudiera reproducir estos edificios, objetos, entornos naturales en tal número y variedad...",
+              "sin duda, conjurar un poco de oro no supondría una gran dificultad.",
+              "Entonces, el oro difícilmente podría ser precioso, y aun así aquí se exhibe como si lo fuera.",
+              "Y, sin embargo, me impresiona, y quizá sea justo para eso: para deslumbrar a los no iniciados.",
+              "He vislumbrado varias plataformas así. Quizá haya algún orden en su distribución.",
+              "Pero esta es la primera a la que he logrado subir y aún no he interactuado con su estrella central.",
+              "Así que no tengo idea de cómo funcionan estas plataformas doradas, pero ya es hora de averiguarlo."
+            ],
+            "fr": [
+              "Extravagant. Mais cela me fait penser : beaucoup de choses ici ne sont pas ce qu'elles semblent être.",
+              "Car pour quiconque peut construire un lieu aussi vaste que celui-ci –",
+              "quelqu'un capable de reproduire ces bâtiments, objets, environnements en si grand nombre et avec une telle variété –",
+              "faire apparaître un peu d'or ne devrait sûrement pas être bien difficile.",
+              "L'or, alors, ne devrait guère être précieux, et pourtant ici, on l'expose comme s'il l'était.",
+              "Malgré tout, je suis impressionné, et c'est peut-être ça, l'idée : éblouir les non-initiés.",
+              "J'ai aperçu plusieurs de ces plateformes. Peut-être y a-t-il une logique dans leur répartition.",
+              "Mais c'est la première sur laquelle j'ai réussi à me tenir, et je n'ai pas encore interagi avec son étoile centrale.",
+              "Je n'ai donc aucune idée de la fonction de ces plateformes dorées, mais il est temps que je le découvre."
+            ],
+            "it": [
+              "Sfarzoso. Ma mi fa pensare: molte cose in questo posto non sono ciò che sembrano.",
+              "Per chiunque potesse costruire un luogo vasto come questo...",
+              "chiunque potesse riprodurre edifici, oggetti, ambienti naturali in tale numero e varietà...",
+              "di certo evocare un po' d'oro non dovrebbe essere un gran problema.",
+              "L'oro, dunque, difficilmente potrebbe essere prezioso, eppure qui è esposto come se lo fosse.",
+              "Eppure mi colpisce. Forse è questo: abbagliare gli inesperti.",
+              "Ho intravisto diverse di queste piattaforme. Forse c'è un ordine nella loro distribuzione.",
+              "Ma questa è la prima su cui sono riuscito a salire, e non ho ancora interagito con la sua stella centrale.",
+              "Quindi non ho idea della funzione di queste piattaforme dorate, ma è ora che lo scopra."
+            ],
+            "ja": [
+              "だが思ったのだ。 ここは見た目とは異なるものが多い。",
+              "このような世界を 創り出せる者にとって…",
+              "建物から環境まで、 これほどの規模で 再現できる者にとって…",
+              "多少の金など 些細なものなのだろう。",
+              "金が土同然に手に入るなら 誰が貴重がる？",
+              "だが私からすれば圧巻だ。 訪問者にここが特別だと示すのが 狙いなのかもしれない。",
+              "似た足場はいくつか見たが、 配置には法則があるのかもしれない。",
+              "だがたどり着いたのはこれが初めてで、 中央の印にはまだ触れていない。",
+              "なぜ特別なのか 今確かめるとしよう。"
+            ],
+            "ko": [
+              "화려하군. 하지만 이런 생각이 들어. 이곳에는 겉보기와 다른 것이 많아.",
+              "이토록 광대한 장소를 만들고...",
+              "이런 건물과 오브젝트, 자연환경을 이토록 다양하고 무수하게 재현할 수 있는 자라면...",
+              "금 조금 만들어내는 것쯤은 별로 어렵지도 않겠지.",
+              "그렇다면 금은 귀할 것도 없을 텐데, 이곳에서는 귀한 것처럼 전시해 두었어.",
+              "그래도 인상적이긴 해. 아마 그게 목적일 거야. 아무것도 모르는 자들의 눈을 현혹하는 것.",
+              "이런 플랫폼은 몇 개 얼핏 본 적이 있지. 어쩌면 배치 순서가 있을지도 몰라.",
+              "하지만 실제로 도달한 건 이게 처음이고 아직 중앙의 별에는 손을 대지 않았어.",
+              "그러니 이 금으로 된 플랫폼이 무슨 역할을 하는지는 모르겠지만, 이제 알아볼 때가 됐단 뜻이지."
+            ],
             "pt-br": [
               "Extravagante. Mas isso me faz pensar: muita coisa neste lugar não é o que parece.",
               "Para quem quer que pudesse construir um lugar tão vasto quanto este...",
@@ -37,6 +112,39 @@
               "Vi vislumbres de várias dessas plataformas. Talvez haja alguma ordem na distribuição delas.",
               "Mas esta é a primeira sobre a qual consegui ficar, e ainda não interagi com sua estrela central.",
               "Então não faço ideia da função dessas Plataformas Douradas, mas está na hora de descobrir."
+            ],
+            "ru": [
+              "Роскошно. Но это наводит меня на мысль: многое в этом месте не то, чем кажется.",
+              "Для того, кто мог бы построить такое огромное место, как это...",
+              "кто мог бы воссоздать эти здания, предметы, природные ландшафты в таком количестве и разнообразии...",
+              "уж наверняка создать немного золота не составило бы труда.",
+              "Золото, значит, едва ли может быть здесь драгоценным, но его выставляют так, будто оно таковым является.",
+              "И всё же я впечатлён, и, возможно, в этом всё дело: ослепить непосвящённых.",
+              "Я видел несколько таких платформ. Возможно, в их расположении есть какой-то порядок.",
+              "Но это первая, на которую мне удалось встать, и я ещё не взаимодействовал с её центральной звездой.",
+              "Так что я понятия не имею, для чего нужны эти золотые платформы, но пора это выяснить."
+            ],
+            "s-cn": [
+              "真够奢华的。不过这也让我想到： 这里的很多东西并非表面看起来的那样。",
+              "毕竟，能建造出如此广阔的场所，",
+              "能以如此惊人的规模和多样性再现这些建筑、物件与自然环境的人——",
+              "要变出一点黄金，想必易如反掌。",
+              "照理说，黄金根本算不上珍贵，这里却把它当成珍宝陈列。",
+              "可我依然觉得震撼。也许这正是目的：让不明就里的人大开眼界。",
+              "我曾见过好几座这样的平台。它们的分布或许有某种规律。",
+              "不过这是我第一次真正站上这种平台，还没有接触它中央的星形标志。",
+              "所以我还不知道这些黄金平台有什么用，但现在该去寻找答案了。"
+            ],
+            "t-cn": [
+              "真夠奢華的。不過這也讓我想到： 這裡的很多東西並非表面看起來的那樣。",
+              "畢竟，能建造出如此廣闊的場所，",
+              "能以如此驚人的規模和多樣性再現這些建築、 物件與自然環境的人——",
+              "要變出一點黃金，想必易如反掌。",
+              "照理說，黃金根本算不上珍貴， 這裡卻把它當成珍寶陳列。",
+              "可我依然覺得震撼。也許這正是目的： 讓不明就裡的人大開眼界。",
+              "我曾見過好幾座這樣的平臺。 它們的分布或許有某種規律。",
+              "不過這是我第一次真正站上這種平臺， 還沒有接觸它中央的星形標誌。",
+              "所以我還不知道這些黃金平臺有什麼用， 但現在該去尋找答案了。"
             ]
           },
           "provenance": {
@@ -72,6 +180,72 @@
           "But this is the first I have managed to stand upon, and I have yet to engage with its central star.",
           "So I've no idea yet of the function of these golden platforms, but it's time I found out."
         ],
+        "de": [
+          "Prunkvoll. Doch es bringt mich auf einen Gedanken: Vieles an diesem Ort ist nicht, was es zu sein scheint.",
+          "Denn wer imstande war, einen derart gewaltigen Ort zu erschaffen –",
+          "wer all diese Gebäude, Gegenstände und natürlichen Umgebungen in solcher Zahl und Vielfalt nachbilden konnte –",
+          "es dürfte diesem jemand gewiss nicht schwerfallen, ein wenig Gold heraufzubeschwören.",
+          "Gold könnte demnach kaum kostbar sein, und doch wird es hier ausgestellt, als wäre es das.",
+          "Und doch bin ich beeindruckt. Vielleicht ist genau das der Zweck: die Uneingeweihten zu blenden.",
+          "Ich habe bereits mehrere solcher Plattformen erspäht. Vielleicht folgt ihre Verteilung einer gewissen Ordnung.",
+          "Doch dies ist die erste, die ich betreten konnte, und mit ihrem zentralen Stern habe ich mich noch nicht befasst.",
+          "Ich habe also noch keine Ahnung, welchem Zweck diese goldenen Plattformen dienen, doch es ist an der Zeit, es herauszufinden."
+        ],
+        "es": [
+          "Es extravagante. Pero me ha hecho pensar: muchas cosas en este lugar no son lo que parecen.",
+          "Para quien pudiera construir un lugar tan inmenso como este...",
+          "quien pudiera reproducir estos edificios, objetos, entornos naturales en tal número y variedad...",
+          "sin duda, conjurar un poco de oro no supondría una gran dificultad.",
+          "Entonces, el oro difícilmente podría ser precioso, y aun así aquí se exhibe como si lo fuera.",
+          "Y, sin embargo, me impresiona, y quizá sea justo para eso: para deslumbrar a los no iniciados.",
+          "He vislumbrado varias plataformas así. Quizá haya algún orden en su distribución.",
+          "Pero esta es la primera a la que he logrado subir y aún no he interactuado con su estrella central.",
+          "Así que no tengo idea de cómo funcionan estas plataformas doradas, pero ya es hora de averiguarlo."
+        ],
+        "fr": [
+          "Extravagant. Mais cela me fait penser : beaucoup de choses ici ne sont pas ce qu'elles semblent être.",
+          "Car pour quiconque peut construire un lieu aussi vaste que celui-ci –",
+          "quelqu'un capable de reproduire ces bâtiments, objets, environnements en si grand nombre et avec une telle variété –",
+          "faire apparaître un peu d'or ne devrait sûrement pas être bien difficile.",
+          "L'or, alors, ne devrait guère être précieux, et pourtant ici, on l'expose comme s'il l'était.",
+          "Malgré tout, je suis impressionné, et c'est peut-être ça, l'idée : éblouir les non-initiés.",
+          "J'ai aperçu plusieurs de ces plateformes. Peut-être y a-t-il une logique dans leur répartition.",
+          "Mais c'est la première sur laquelle j'ai réussi à me tenir, et je n'ai pas encore interagi avec son étoile centrale.",
+          "Je n'ai donc aucune idée de la fonction de ces plateformes dorées, mais il est temps que je le découvre."
+        ],
+        "it": [
+          "Sfarzoso. Ma mi fa pensare: molte cose in questo posto non sono ciò che sembrano.",
+          "Per chiunque potesse costruire un luogo vasto come questo...",
+          "chiunque potesse riprodurre edifici, oggetti, ambienti naturali in tale numero e varietà...",
+          "di certo evocare un po' d'oro non dovrebbe essere un gran problema.",
+          "L'oro, dunque, difficilmente potrebbe essere prezioso, eppure qui è esposto come se lo fosse.",
+          "Eppure mi colpisce. Forse è questo: abbagliare gli inesperti.",
+          "Ho intravisto diverse di queste piattaforme. Forse c'è un ordine nella loro distribuzione.",
+          "Ma questa è la prima su cui sono riuscito a salire, e non ho ancora interagito con la sua stella centrale.",
+          "Quindi non ho idea della funzione di queste piattaforme dorate, ma è ora che lo scopra."
+        ],
+        "ja": [
+          "だが思ったのだ。 ここは見た目とは異なるものが多い。",
+          "このような世界を 創り出せる者にとって…",
+          "建物から環境まで、 これほどの規模で 再現できる者にとって…",
+          "多少の金など 些細なものなのだろう。",
+          "金が土同然に手に入るなら 誰が貴重がる？",
+          "だが私からすれば圧巻だ。 訪問者にここが特別だと示すのが 狙いなのかもしれない。",
+          "似た足場はいくつか見たが、 配置には法則があるのかもしれない。",
+          "だがたどり着いたのはこれが初めてで、 中央の印にはまだ触れていない。",
+          "なぜ特別なのか 今確かめるとしよう。"
+        ],
+        "ko": [
+          "화려하군. 하지만 이런 생각이 들어. 이곳에는 겉보기와 다른 것이 많아.",
+          "이토록 광대한 장소를 만들고...",
+          "이런 건물과 오브젝트, 자연환경을 이토록 다양하고 무수하게 재현할 수 있는 자라면...",
+          "금 조금 만들어내는 것쯤은 별로 어렵지도 않겠지.",
+          "그렇다면 금은 귀할 것도 없을 텐데, 이곳에서는 귀한 것처럼 전시해 두었어.",
+          "그래도 인상적이긴 해. 아마 그게 목적일 거야. 아무것도 모르는 자들의 눈을 현혹하는 것.",
+          "이런 플랫폼은 몇 개 얼핏 본 적이 있지. 어쩌면 배치 순서가 있을지도 몰라.",
+          "하지만 실제로 도달한 건 이게 처음이고 아직 중앙의 별에는 손을 대지 않았어.",
+          "그러니 이 금으로 된 플랫폼이 무슨 역할을 하는지는 모르겠지만, 이제 알아볼 때가 됐단 뜻이지."
+        ],
         "pt-br": [
           "Extravagante. Mas isso me faz pensar: muita coisa neste lugar não é o que parece.",
           "Para quem quer que pudesse construir um lugar tão vasto quanto este...",
@@ -82,6 +256,39 @@
           "Vi vislumbres de várias dessas plataformas. Talvez haja alguma ordem na distribuição delas.",
           "Mas esta é a primeira sobre a qual consegui ficar, e ainda não interagi com sua estrela central.",
           "Então não faço ideia da função dessas Plataformas Douradas, mas está na hora de descobrir."
+        ],
+        "ru": [
+          "Роскошно. Но это наводит меня на мысль: многое в этом месте не то, чем кажется.",
+          "Для того, кто мог бы построить такое огромное место, как это...",
+          "кто мог бы воссоздать эти здания, предметы, природные ландшафты в таком количестве и разнообразии...",
+          "уж наверняка создать немного золота не составило бы труда.",
+          "Золото, значит, едва ли может быть здесь драгоценным, но его выставляют так, будто оно таковым является.",
+          "И всё же я впечатлён, и, возможно, в этом всё дело: ослепить непосвящённых.",
+          "Я видел несколько таких платформ. Возможно, в их расположении есть какой-то порядок.",
+          "Но это первая, на которую мне удалось встать, и я ещё не взаимодействовал с её центральной звездой.",
+          "Так что я понятия не имею, для чего нужны эти золотые платформы, но пора это выяснить."
+        ],
+        "s-cn": [
+          "真够奢华的。不过这也让我想到： 这里的很多东西并非表面看起来的那样。",
+          "毕竟，能建造出如此广阔的场所，",
+          "能以如此惊人的规模和多样性再现这些建筑、物件与自然环境的人——",
+          "要变出一点黄金，想必易如反掌。",
+          "照理说，黄金根本算不上珍贵，这里却把它当成珍宝陈列。",
+          "可我依然觉得震撼。也许这正是目的：让不明就里的人大开眼界。",
+          "我曾见过好几座这样的平台。它们的分布或许有某种规律。",
+          "不过这是我第一次真正站上这种平台，还没有接触它中央的星形标志。",
+          "所以我还不知道这些黄金平台有什么用，但现在该去寻找答案了。"
+        ],
+        "t-cn": [
+          "真夠奢華的。不過這也讓我想到： 這裡的很多東西並非表面看起來的那樣。",
+          "畢竟，能建造出如此廣闊的場所，",
+          "能以如此驚人的規模和多樣性再現這些建築、 物件與自然環境的人——",
+          "要變出一點黃金，想必易如反掌。",
+          "照理說，黃金根本算不上珍貴， 這裡卻把它當成珍寶陳列。",
+          "可我依然覺得震撼。也許這正是目的： 讓不明就裡的人大開眼界。",
+          "我曾見過好幾座這樣的平臺。 它們的分布或許有某種規律。",
+          "不過這是我第一次真正站上這種平臺， 還沒有接觸它中央的星形標誌。",
+          "所以我還不知道這些黃金平臺有什麼用， 但現在該去尋找答案了。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "I don't mean to be manipulative, not always, not in a *bad* way..."
             ],
+            "de": [
+              "Ich will niemanden manipulieren, jedenfalls nicht immer, und nicht auf die böse Art ..."
+            ],
+            "es": [
+              "No lo digo para intentar manipularte, no siempre, no de mala manera..."
+            ],
+            "fr": [
+              "Je n'essaie pas de te manipuler, tu sais... en tout cas, pas toujours, et ce n'est pas méchant..."
+            ],
+            "it": [
+              "Non intendo manipolare nessuno, non sempre, non in senso cattivo..."
+            ],
+            "ja": [
+              "人を操ろうとはしないわ。 悪い意味では、ね…"
+            ],
+            "ko": [
+              "일부러 조종하려던 건 아니었어. 늘 그런 것도 아니고, 나쁜 뜻이 있는 것도 아니지..."
+            ],
             "pt-br": [
               "Não tô dizendo isso pra manipular, nem sempre, nem de um jeito ruim..."
+            ],
+            "ru": [
+              "Я не хочу манипулировать, не всегда, не в плохом смысле..."
+            ],
+            "s-cn": [
+              "我不是故意操纵人心的，至少不总是这样…… 也不是出于恶意……"
+            ],
+            "t-cn": [
+              "我不是故意操縱人心的，至少不總是這樣…… 也不是出於惡意……"
             ]
           },
           "provenance": {
@@ -45,9 +81,45 @@
           "I don't mean to be manipulative, not always, not in a *bad* way...",
           "..."
         ],
+        "de": [
+          "Ich will niemanden manipulieren, jedenfalls nicht immer, und nicht auf die böse Art ...",
+          "..."
+        ],
+        "es": [
+          "No lo digo para intentar manipularte, no siempre, no de mala manera...",
+          "..."
+        ],
+        "fr": [
+          "Je n'essaie pas de te manipuler, tu sais... en tout cas, pas toujours, et ce n'est pas méchant...",
+          "..."
+        ],
+        "it": [
+          "Non intendo manipolare nessuno, non sempre, non in senso cattivo...",
+          "..."
+        ],
+        "ja": [
+          "人を操ろうとはしないわ。 悪い意味では、ね…",
+          "…"
+        ],
+        "ko": [
+          "일부러 조종하려던 건 아니었어. 늘 그런 것도 아니고, 나쁜 뜻이 있는 것도 아니지...",
+          "..."
+        ],
         "pt-br": [
           "Não tô dizendo isso pra manipular, nem sempre, nem de um jeito ruim...",
           "..."
+        ],
+        "ru": [
+          "Я не хочу манипулировать, не всегда, не в плохом смысле...",
+          "..."
+        ],
+        "s-cn": [
+          "我不是故意操纵人心的，至少不总是这样…… 也不是出于恶意……",
+          "……"
+        ],
+        "t-cn": [
+          "我不是故意操縱人心的，至少不總是這樣…… 也不是出於惡意……",
+          "……"
         ]
       },
       "silentCues": [
@@ -99,10 +171,55 @@
               "When I get it *just* right ... they're happy for a minute.",
               "Now ... this is just how I live."
             ],
+            "de": [
+              "... aber mit der Zeit habe ich manches erahnt. Den einen erreicht man so. Den anderen anders.",
+              "Wenn ich es genau richtig mache ... sind sie eine Minute lang glücklich.",
+              "Inzwischen ... ist das einfach meine Art zu leben."
+            ],
+            "es": [
+              "... pero, con el tiempo, fui vislumbrando cosas. Esta persona quiere que conecten con ella de esta manera. Aquella, de aquella otra.",
+              "Cuando doy justo en el clavo... son felices por un minuto.",
+              "Ahora... esta es mi forma de vida."
+            ],
+            "fr": [
+              "... mais avec le temps, j'ai entrevu certaines choses. Cette personne veut qu'on lui parle de cette façon. Cette autre personne, autrement.",
+              "Quand je trouve le ton juste... ils sont heureux l'espace d'un instant.",
+              "Maintenant... c'est simplement ma façon de vivre."
+            ],
+            "it": [
+              "... ma col tempo, ho colto degli indizi. Questa persona vuole che ci si avvicini così. Quell'altra, in un altro modo.",
+              "Quando trovo il modo giusto... sono felici per un minuto.",
+              "Ora... vivo così e basta."
+            ],
+            "ja": [
+              "仕方ないでしょ。 人に好かれたり、",
+              "それを利用しない 理由はないわよね？",
+              "聞く相手を 間違えたかも。"
+            ],
+            "ko": [
+              "... 하지만 시간이 지나면서 조금씩 보이더라. 이 사람은 이렇게 다가가 주길 바라고. 저 사람은 저렇게.",
+              "그걸 딱 맞춰주면... 그 사람들은 잠깐이나마 행복해해.",
+              "이제는... 그냥 이렇게 살고 있어."
+            ],
             "pt-br": [
               "... mas, com o tempo, comecei a perceber. Esta pessoa quer ser tocada de um jeito. Aquela, de outro.",
               "Quando acerto em cheio... elas ficam felizes por um minuto.",
               "Agora... é assim que eu vivo."
+            ],
+            "ru": [
+              "... но со временем я начала кое-что замечать. К одному человеку нужен такой подход. К другому — иной.",
+              "Когда я нахожу тот самый подход... на минуту они становятся счастливы.",
+              "Теперь... я просто так живу."
+            ],
+            "s-cn": [
+              "……但久而久之，我也窥见了几分。 这个人希望我用这种方式去接近， 那个人希望我用那种方式。",
+              "只要我拿捏得刚刚好……他们就能开心上那么一小会儿。",
+              "如今……这就是我的活法。"
+            ],
+            "t-cn": [
+              "……但久而久之，我也窺見了幾分。 這個人希望我用這種方式去接近， 那個人希望我用那種方式。",
+              "只要我拿捏得剛剛好…… 他們就能開心上那麼一小會兒。",
+              "如今……這就是我的活法。"
             ]
           },
           "provenance": {
@@ -126,10 +243,55 @@
           "When I get it *just* right ... they're happy for a minute.",
           "Now ... this is just how I live."
         ],
+        "de": [
+          "... aber mit der Zeit habe ich manches erahnt. Den einen erreicht man so. Den anderen anders.",
+          "Wenn ich es genau richtig mache ... sind sie eine Minute lang glücklich.",
+          "Inzwischen ... ist das einfach meine Art zu leben."
+        ],
+        "es": [
+          "... pero, con el tiempo, fui vislumbrando cosas. Esta persona quiere que conecten con ella de esta manera. Aquella, de aquella otra.",
+          "Cuando doy justo en el clavo... son felices por un minuto.",
+          "Ahora... esta es mi forma de vida."
+        ],
+        "fr": [
+          "... mais avec le temps, j'ai entrevu certaines choses. Cette personne veut qu'on lui parle de cette façon. Cette autre personne, autrement.",
+          "Quand je trouve le ton juste... ils sont heureux l'espace d'un instant.",
+          "Maintenant... c'est simplement ma façon de vivre."
+        ],
+        "it": [
+          "... ma col tempo, ho colto degli indizi. Questa persona vuole che ci si avvicini così. Quell'altra, in un altro modo.",
+          "Quando trovo il modo giusto... sono felici per un minuto.",
+          "Ora... vivo così e basta."
+        ],
+        "ja": [
+          "仕方ないでしょ。 人に好かれたり、",
+          "それを利用しない 理由はないわよね？",
+          "聞く相手を 間違えたかも。"
+        ],
+        "ko": [
+          "... 하지만 시간이 지나면서 조금씩 보이더라. 이 사람은 이렇게 다가가 주길 바라고. 저 사람은 저렇게.",
+          "그걸 딱 맞춰주면... 그 사람들은 잠깐이나마 행복해해.",
+          "이제는... 그냥 이렇게 살고 있어."
+        ],
         "pt-br": [
           "... mas, com o tempo, comecei a perceber. Esta pessoa quer ser tocada de um jeito. Aquela, de outro.",
           "Quando acerto em cheio... elas ficam felizes por um minuto.",
           "Agora... é assim que eu vivo."
+        ],
+        "ru": [
+          "... но со временем я начала кое-что замечать. К одному человеку нужен такой подход. К другому — иной.",
+          "Когда я нахожу тот самый подход... на минуту они становятся счастливы.",
+          "Теперь... я просто так живу."
+        ],
+        "s-cn": [
+          "……但久而久之，我也窥见了几分。 这个人希望我用这种方式去接近， 那个人希望我用那种方式。",
+          "只要我拿捏得刚刚好……他们就能开心上那么一小会儿。",
+          "如今……这就是我的活法。"
+        ],
+        "t-cn": [
+          "……但久而久之，我也窺見了幾分。 這個人希望我用這種方式去接近， 那個人希望我用那種方式。",
+          "只要我拿捏得剛剛好…… 他們就能開心上那麼一小會兒。",
+          "如今……這就是我的活法。"
         ]
       },
       "silentCues": [],
@@ -168,8 +330,35 @@
             "en": [
               "Thanks for talking. I feel a little better about it."
             ],
+            "de": [
+              "Danke für das Gespräch. Mir geht's damit jetzt etwas besser."
+            ],
+            "es": [
+              "Gracias por hablar conmigo. Me siento un poco mejor al respecto."
+            ],
+            "fr": [
+              "Merci pour cette conversation. Je me sens un peu moins coupable."
+            ],
+            "it": [
+              "Grazie della chiacchierata. Mi sento un po' meglio, al riguardo."
+            ],
+            "ja": [
+              "話を聞いてくれてありがとう。 少しスッキリした。"
+            ],
+            "ko": [
+              "대화해 줘서 고마워. 마음이 좀 나아졌어."
+            ],
             "pt-br": [
               "Valeu por conversar. Fiquei um pouco melhor quanto a isso."
+            ],
+            "ru": [
+              "Спасибо за разговор. Мне стало немного легче."
+            ],
+            "s-cn": [
+              "谢谢你听我说。我心里好受多了。"
+            ],
+            "t-cn": [
+              "謝謝你聽我說。我心裡好受多了。"
             ]
           },
           "provenance": {
@@ -189,8 +378,35 @@
         "en": [
           "Thanks for talking. I feel a little better about it."
         ],
+        "de": [
+          "Danke für das Gespräch. Mir geht's damit jetzt etwas besser."
+        ],
+        "es": [
+          "Gracias por hablar conmigo. Me siento un poco mejor al respecto."
+        ],
+        "fr": [
+          "Merci pour cette conversation. Je me sens un peu moins coupable."
+        ],
+        "it": [
+          "Grazie della chiacchierata. Mi sento un po' meglio, al riguardo."
+        ],
+        "ja": [
+          "話を聞いてくれてありがとう。 少しスッキリした。"
+        ],
+        "ko": [
+          "대화해 줘서 고마워. 마음이 좀 나아졌어."
+        ],
         "pt-br": [
           "Valeu por conversar. Fiquei um pouco melhor quanto a isso."
+        ],
+        "ru": [
+          "Спасибо за разговор. Мне стало немного легче."
+        ],
+        "s-cn": [
+          "谢谢你听我说。我心里好受多了。"
+        ],
+        "t-cn": [
+          "謝謝你聽我說。我心裡好受多了。"
         ]
       },
       "silentCues": [],

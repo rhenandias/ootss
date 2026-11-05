@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Hello?"
             ],
+            "de": [
+              "Hallo?"
+            ],
+            "es": [
+              "¿Hola?"
+            ],
+            "fr": [
+              "Il y a quelqu'un ?"
+            ],
+            "it": [
+              "Scusate?"
+            ],
+            "ja": [
+              "もしもし？"
+            ],
+            "ko": [
+              "이봐?"
+            ],
             "pt-br": [
               "Oi?"
+            ],
+            "ru": [
+              "Эй!"
+            ],
+            "s-cn": [
+              "有人吗？"
+            ],
+            "t-cn": [
+              "有人嗎？"
             ]
           },
           "provenance": {
@@ -46,9 +82,45 @@
               "Oh, this again.",
               "This again. Hello!"
             ],
+            "de": [
+              "Oh, das schon wieder.",
+              "Das schon wieder. Hallo!"
+            ],
+            "es": [
+              "Ay, otra vez esto.",
+              "Otra vez esto. ¡Hola!"
+            ],
+            "fr": [
+              "Oh, pas encore.",
+              "Nous y revoilà. Bonjour !"
+            ],
+            "it": [
+              "Oh, di nuovo questa storia.",
+              "Ancora questa cosa. Ciao!"
+            ],
+            "ja": [
+              "ああ、またこれか。",
+              "またこれか。こんにちは！"
+            ],
+            "ko": [
+              "아, 또 이러네.",
+              "또 이거군. 안녕!"
+            ],
             "pt-br": [
               "Ah, de novo isso.",
               "De novo isso. Olá!"
+            ],
+            "ru": [
+              "Ох, опять.",
+              "Снова это. Привет!"
+            ],
+            "s-cn": [
+              "哦，又来这一套。",
+              "又来这一套。你好！"
+            ],
+            "t-cn": [
+              "哦，又來這一套。",
+              "又來這一套。你好！"
             ]
           },
           "provenance": {
@@ -70,8 +142,35 @@
             "en": [
               "You've been here before?"
             ],
+            "de": [
+              "Du warst schon mal hier?"
+            ],
+            "es": [
+              "¿Has estado aquí antes?"
+            ],
+            "fr": [
+              "Vous êtes déjà venue ici ?"
+            ],
+            "it": [
+              "Sei già stata qui?"
+            ],
+            "ja": [
+              "前にも来たことが？"
+            ],
+            "ko": [
+              "여기 전에 와 본 적 있어?"
+            ],
             "pt-br": [
               "Você já esteve aqui antes?"
+            ],
+            "ru": [
+              "Ты уже здесь бывала?"
+            ],
+            "s-cn": [
+              "你以前来过这里？"
+            ],
+            "t-cn": [
+              "你以前來過這裡？"
             ]
           },
           "provenance": {
@@ -92,8 +191,35 @@
             "en": [
               "Not here. A place like here, but, also ... very different!"
             ],
+            "de": [
+              "Nicht hier. An einem Ort wie diesem, der aber auch ... ganz anders war!"
+            ],
+            "es": [
+              "No aquí. En un lugar como este, pero también muy diferente."
+            ],
+            "fr": [
+              "Pas ici. Un endroit comme celui-ci, mais aussi très différent."
+            ],
+            "it": [
+              "Non qui. Un posto simile a questo, ma anche molto diverso."
+            ],
+            "ja": [
+              "いや、似てるようで、 全然違う場所さ。"
+            ],
+            "ko": [
+              "여긴 아니야. 여기 같은 곳은 있었지. 하지만, 그것도 아주 달랐어."
+            ],
             "pt-br": [
               "Não aqui. Um lugar como este, mas também... muito diferente!"
+            ],
+            "ru": [
+              "Не здесь. Место похожее, но, вместе с тем, совсем другое."
+            ],
+            "s-cn": [
+              "不是这里。是一个很像这里、却又截然不同的地方。"
+            ],
+            "t-cn": [
+              "不是這裡。是一個很像這裡、卻又截然不同的地方。"
             ]
           },
           "provenance": {
@@ -114,8 +240,35 @@
             "en": [
               "So then perhaps you know how to get me out of here?"
             ],
+            "de": [
+              "Dann weißt du vielleicht, wie ich hier rauskomme?"
+            ],
+            "es": [
+              "Entonces quizá sepas cómo sacarme de aquí, ¿no?"
+            ],
+            "fr": [
+              "Alors peut-être savez-vous comment sortir d'ici ?"
+            ],
+            "it": [
+              "Allora forse sai come tirarmi fuori di qui?"
+            ],
+            "ja": [
+              "ならここから出る 方法がわかるか？"
+            ],
+            "ko": [
+              "그럼 아마도 어떻게든 나를 여기서 빼낼 방법을 아는 거겠지?"
+            ],
             "pt-br": [
               "Então talvez você saiba como me tirar daqui?"
+            ],
+            "ru": [
+              "Тогда, может, ты знаешь, как вытащить меня отсюда?"
+            ],
+            "s-cn": [
+              "那你也许知道怎么把我弄出去？"
+            ],
+            "t-cn": [
+              "那你也許知道怎麼把我弄出去？"
             ]
           },
           "provenance": {
@@ -136,8 +289,35 @@
             "en": [
               "We can try some things."
             ],
+            "de": [
+              "Wir können ein paar Dinge ausprobieren."
+            ],
+            "es": [
+              "Podemos intentar algunas cosas."
+            ],
+            "fr": [
+              "On peut essayer quelques trucs."
+            ],
+            "it": [
+              "Possiamo provare a fare qualcosa."
+            ],
+            "ja": [
+              "いくつか試してみよう。"
+            ],
+            "ko": [
+              "몇 가지 시도는 해볼 수 있지."
+            ],
             "pt-br": [
               "Podemos tentar algumas coisas."
+            ],
+            "ru": [
+              "Мы можем кое-что попробовать."
+            ],
+            "s-cn": [
+              "可以试试几个办法。"
+            ],
+            "t-cn": [
+              "可以試試幾個辦法。"
             ]
           },
           "provenance": {
@@ -163,6 +343,60 @@
           "So then perhaps you know how to get me out of here?",
           "We can try some things."
         ],
+        "de": [
+          "Hallo?",
+          "Oh, das schon wieder.",
+          "Das schon wieder. Hallo!",
+          "Du warst schon mal hier?",
+          "Nicht hier. An einem Ort wie diesem, der aber auch ... ganz anders war!",
+          "Dann weißt du vielleicht, wie ich hier rauskomme?",
+          "Wir können ein paar Dinge ausprobieren."
+        ],
+        "es": [
+          "¿Hola?",
+          "Ay, otra vez esto.",
+          "Otra vez esto. ¡Hola!",
+          "¿Has estado aquí antes?",
+          "No aquí. En un lugar como este, pero también muy diferente.",
+          "Entonces quizá sepas cómo sacarme de aquí, ¿no?",
+          "Podemos intentar algunas cosas."
+        ],
+        "fr": [
+          "Il y a quelqu'un ?",
+          "Oh, pas encore.",
+          "Nous y revoilà. Bonjour !",
+          "Vous êtes déjà venue ici ?",
+          "Pas ici. Un endroit comme celui-ci, mais aussi très différent.",
+          "Alors peut-être savez-vous comment sortir d'ici ?",
+          "On peut essayer quelques trucs."
+        ],
+        "it": [
+          "Scusate?",
+          "Oh, di nuovo questa storia.",
+          "Ancora questa cosa. Ciao!",
+          "Sei già stata qui?",
+          "Non qui. Un posto simile a questo, ma anche molto diverso.",
+          "Allora forse sai come tirarmi fuori di qui?",
+          "Possiamo provare a fare qualcosa."
+        ],
+        "ja": [
+          "もしもし？",
+          "ああ、またこれか。",
+          "またこれか。こんにちは！",
+          "前にも来たことが？",
+          "いや、似てるようで、 全然違う場所さ。",
+          "ならここから出る 方法がわかるか？",
+          "いくつか試してみよう。"
+        ],
+        "ko": [
+          "이봐?",
+          "아, 또 이러네.",
+          "또 이거군. 안녕!",
+          "여기 전에 와 본 적 있어?",
+          "여긴 아니야. 여기 같은 곳은 있었지. 하지만, 그것도 아주 달랐어.",
+          "그럼 아마도 어떻게든 나를 여기서 빼낼 방법을 아는 거겠지?",
+          "몇 가지 시도는 해볼 수 있지."
+        ],
         "pt-br": [
           "Oi?",
           "Ah, de novo isso.",
@@ -171,6 +405,33 @@
           "Não aqui. Um lugar como este, mas também... muito diferente!",
           "Então talvez você saiba como me tirar daqui?",
           "Podemos tentar algumas coisas."
+        ],
+        "ru": [
+          "Эй!",
+          "Ох, опять.",
+          "Снова это. Привет!",
+          "Ты уже здесь бывала?",
+          "Не здесь. Место похожее, но, вместе с тем, совсем другое.",
+          "Тогда, может, ты знаешь, как вытащить меня отсюда?",
+          "Мы можем кое-что попробовать."
+        ],
+        "s-cn": [
+          "有人吗？",
+          "哦，又来这一套。",
+          "又来这一套。你好！",
+          "你以前来过这里？",
+          "不是这里。是一个很像这里、却又截然不同的地方。",
+          "那你也许知道怎么把我弄出去？",
+          "可以试试几个办法。"
+        ],
+        "t-cn": [
+          "有人嗎？",
+          "哦，又來這一套。",
+          "又來這一套。你好！",
+          "你以前來過這裡？",
+          "不是這裡。是一個很像這裡、卻又截然不同的地方。",
+          "那你也許知道怎麼把我弄出去？",
+          "可以試試幾個辦法。"
         ]
       },
       "silentCues": [],

@@ -3,7 +3,16 @@
   "audioLog": "audiolog_g_how_many_gold_rooms",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,12 +32,75 @@
               "but you might choose to see it as ceremonial,",
               "each thing in its accorded place."
             ],
+            "de": [
+              "Dies ist das dritte vergoldete Deck, das ich gefunden habe; allmählich erkenne ich das Muster,",
+              "und ich habe eine Vorstellung davon, wie das Ganze aufgebaut ist.",
+              "Es ist bemerkenswert – Quigley, ich sehe in der Anordnung eine mathematische Struktur,",
+              "doch du würdest sie vielleicht anders betrachten: als zeremonielle Ordnung,",
+              "in der alles an seinem vorgesehenen Platz ist."
+            ],
+            "es": [
+              "Esta es la tercera plataforma dorada que he encontrado; empiezo a ver el patrón,",
+              "y tengo una idea de la forma del conjunto.",
+              "Es llamativo... Quigley, veo algo matemático en la disposición,",
+              "pero tú quizá prefieras verla como algo ceremonial,",
+              "con cada cosa en su sitio."
+            ],
+            "fr": [
+              "C'est le troisième sol doré que je trouve... Je commence à voir le schéma,",
+              "et j'ai une idée de la forme de son ensemble.",
+              "C'est frappant – Quigley, j'y vois un agencement mathématique,",
+              "mais vous pourriez, vous, choisir de la voir comme cérémonielle,",
+              "chaque chose à sa place."
+            ],
+            "it": [
+              "Questo è il terzo impianto dorato che ho trovato... sto iniziando a vedere uno schema,",
+              "e ho qualche idea della forma dell'insieme.",
+              "È impressionante -- Quigley, io vedo la struttura come matematica,",
+              "ma tu potresti scegliere di vederla come cerimoniale,",
+              "ogni cosa al suo posto."
+            ],
+            "ja": [
+              "これで見つけた金色の足場は3つ。 だんだん法則が見えてきた。",
+              "全部でいくつあるのかも、 見当がついた。",
+              "ここは面白い形をしている―― クイグリー、私には数学的に見るが",
+              "君なら儀式的なものとして 見るかもしれない。",
+              "すべてが 決められた場所にあるのだ。"
+            ],
+            "ko": [
+              "이게 내가 발견한 세 번째 금빛 덱이야. 이제 패턴이 보이기 시작하는군.",
+              "그리고 전체적인 모습이 어떨지도 어느 정도 짐작이 가.",
+              "인상적이야... 퀴글리, 내 눈엔 이 배치가 수학적 구조로 보이지만,",
+              "너라면 의례적인 걸로 볼지도 몰라.",
+              "저마다 정해진 자리에 놓여 있으니까."
+            ],
             "pt-br": [
               "Esta é a terceira Plataforma Dourada que encontrei; estou começando a ver o padrão,",
               "e tenho alguma noção da forma do todo.",
               "É marcante... Quigley, vejo a disposição como algo matemático,",
               "mas você talvez prefira vê-la como cerimonial,",
               "cada coisa em seu lugar."
+            ],
+            "ru": [
+              "Это третья позолоченная схема, которую я нашёл; начинаю видеть закономерность,",
+              "и у меня есть некоторое представление о форме целого.",
+              "Поразительно... Квигли, я вижу в этой планировке нечто математическое,",
+              "но ты сам, возможно, предпочтёшь видеть в ней нечто церемониальное,",
+              "каждой вещи — своё место."
+            ],
+            "s-cn": [
+              "这是我找到的第三处镀金平台。我开始看出规律了，",
+              "而我对整体的模样也有了几分概念。",
+              "真令人惊叹……奎格利，我是从数学角度理解这个布局，",
+              "但你也可以把它当成一种仪式：",
+              "万物各安其位。"
+            ],
+            "t-cn": [
+              "這是我找到的第三處鍍金平臺。我開始看出規律了，",
+              "而我對整體的模樣也有了幾分概念。",
+              "真令人驚嘆……奎格利，我是從數學角度理解這個布局，",
+              "但你也可以把它當成一種儀式：",
+              "萬物各安其位。"
             ]
           },
           "provenance": {
@@ -56,12 +128,75 @@
           "but you might choose to see it as ceremonial,",
           "each thing in its accorded place."
         ],
+        "de": [
+          "Dies ist das dritte vergoldete Deck, das ich gefunden habe; allmählich erkenne ich das Muster,",
+          "und ich habe eine Vorstellung davon, wie das Ganze aufgebaut ist.",
+          "Es ist bemerkenswert – Quigley, ich sehe in der Anordnung eine mathematische Struktur,",
+          "doch du würdest sie vielleicht anders betrachten: als zeremonielle Ordnung,",
+          "in der alles an seinem vorgesehenen Platz ist."
+        ],
+        "es": [
+          "Esta es la tercera plataforma dorada que he encontrado; empiezo a ver el patrón,",
+          "y tengo una idea de la forma del conjunto.",
+          "Es llamativo... Quigley, veo algo matemático en la disposición,",
+          "pero tú quizá prefieras verla como algo ceremonial,",
+          "con cada cosa en su sitio."
+        ],
+        "fr": [
+          "C'est le troisième sol doré que je trouve... Je commence à voir le schéma,",
+          "et j'ai une idée de la forme de son ensemble.",
+          "C'est frappant – Quigley, j'y vois un agencement mathématique,",
+          "mais vous pourriez, vous, choisir de la voir comme cérémonielle,",
+          "chaque chose à sa place."
+        ],
+        "it": [
+          "Questo è il terzo impianto dorato che ho trovato... sto iniziando a vedere uno schema,",
+          "e ho qualche idea della forma dell'insieme.",
+          "È impressionante -- Quigley, io vedo la struttura come matematica,",
+          "ma tu potresti scegliere di vederla come cerimoniale,",
+          "ogni cosa al suo posto."
+        ],
+        "ja": [
+          "これで見つけた金色の足場は3つ。 だんだん法則が見えてきた。",
+          "全部でいくつあるのかも、 見当がついた。",
+          "ここは面白い形をしている―― クイグリー、私には数学的に見るが",
+          "君なら儀式的なものとして 見るかもしれない。",
+          "すべてが 決められた場所にあるのだ。"
+        ],
+        "ko": [
+          "이게 내가 발견한 세 번째 금빛 덱이야. 이제 패턴이 보이기 시작하는군.",
+          "그리고 전체적인 모습이 어떨지도 어느 정도 짐작이 가.",
+          "인상적이야... 퀴글리, 내 눈엔 이 배치가 수학적 구조로 보이지만,",
+          "너라면 의례적인 걸로 볼지도 몰라.",
+          "저마다 정해진 자리에 놓여 있으니까."
+        ],
         "pt-br": [
           "Esta é a terceira Plataforma Dourada que encontrei; estou começando a ver o padrão,",
           "e tenho alguma noção da forma do todo.",
           "É marcante... Quigley, vejo a disposição como algo matemático,",
           "mas você talvez prefira vê-la como cerimonial,",
           "cada coisa em seu lugar."
+        ],
+        "ru": [
+          "Это третья позолоченная схема, которую я нашёл; начинаю видеть закономерность,",
+          "и у меня есть некоторое представление о форме целого.",
+          "Поразительно... Квигли, я вижу в этой планировке нечто математическое,",
+          "но ты сам, возможно, предпочтёшь видеть в ней нечто церемониальное,",
+          "каждой вещи — своё место."
+        ],
+        "s-cn": [
+          "这是我找到的第三处镀金平台。我开始看出规律了，",
+          "而我对整体的模样也有了几分概念。",
+          "真令人惊叹……奎格利，我是从数学角度理解这个布局，",
+          "但你也可以把它当成一种仪式：",
+          "万物各安其位。"
+        ],
+        "t-cn": [
+          "這是我找到的第三處鍍金平臺。我開始看出規律了，",
+          "而我對整體的模樣也有了幾分概念。",
+          "真令人驚嘆……奎格利，我是從數學角度理解這個布局，",
+          "但你也可以把它當成一種儀式：",
+          "萬物各安其位。"
         ]
       },
       "silentCues": [],

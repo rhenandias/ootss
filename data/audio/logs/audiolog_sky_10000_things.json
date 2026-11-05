@@ -3,7 +3,16 @@
   "audioLog": "audiolog_sky_10000_things",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -31,6 +40,96 @@
               "and look at the Dao in all its particular details, to understand how this creative process works?",
               "Some of us still think the answer is No."
             ],
+            "de": [
+              "Es gibt ein uraltes Buch unseres Volkes – es ist aus Bruchstücken zusammengesetzt worden, also nie ganz verlässlich –",
+              "doch es beschreibt, wie das Universum entsteht: aus einem fundamentalen Ganzen, das allem zugrunde liegt, was wir sehen.",
+              "Zunächst bringt dieses Ganze, das Dao, irgendwie das Eine hervor.",
+              "Vorerst vereinfachen wir die Sache und stellen uns darunter vor, dass das Dao sich selbst identifiziert.",
+              "Das ist höchst fragwürdig, aber irgendwo müssen wir anfangen. Wie dem auch sei.",
+              "Dann, so heißt es in dem Buch, bringt das Eine zwei hervor, zwei bringen drei hervor, und drei bringen all die zehntausend Dinge hervor –",
+              "alles, was wir in der Schöpfung beobachten.",
+              "Der Text ist rätselhaft und knapp; doch zusammen mit dem, was wir bereits besprochen haben,",
+              "kannst du dir denken, worauf der Orden hinauswill.",
+              "Statt bloß die Ergebnisse dieses schöpferischen Prozesses hinzunehmen, können wir ihn uns genauer ansehen?",
+              "Können wir ein Mikroskop erschaffen, mit dem wir ganz nah herangehen",
+              "und das Dao in all seinen Einzelheiten betrachten, um zu verstehen, wie dieser schöpferische Prozess funktioniert?",
+              "Manche von uns meinen noch immer, die Antwort laute: Nein."
+            ],
+            "es": [
+              "Hay un antiguo libro de nuestra gente, que se recompuso a partir de fragmentos, así que nunca fue del todo fiable,",
+              "pero describe el universo que emerge de un todo fundamental que subyace a todo lo que vemos.",
+              "Primero, sin saber cómo, ese todo, el Dao, da lugar al Uno.",
+              "Por ahora seremos simplistas y pensaremos en el fenómeno como el Dao identificándose a sí mismo.",
+              "Es profundamente cuestionable, pero por algún sitio hay que empezar. En fin.",
+              "Luego, el libro afirma que el Uno produce dos, dos producen tres, y tres producen las diez mil cosas...",
+              "todo lo que observamos en la Creación.",
+              "El texto es misterioso y mínimo; pero, combinado con lo que ya hemos comentado,",
+              "permite adivinar por dónde va la Orden.",
+              "En lugar de aceptar sin más los resultados de este proceso creativo, ¿podemos examinarlo más de cerca?",
+              "¿Podemos crear un microscopio que nos ayude a acercarnos",
+              "y a observar el Dao en todos sus detalles particulares, para entender cómo funciona este proceso creativo?",
+              "Algunos seguimos pensando que la respuesta es no."
+            ],
+            "fr": [
+              "Il existe un ancien livre de notre peuple – il a été reconstitué à partir de fragments, il n'est donc jamais totalement fiable –",
+              "mais il décrit l'univers émergeant d'un tout fondamental qui sous-tend tout ce que nous voyons.",
+              "D'abord, d'une certaine manière, ce tout, le Tao, fait naître l'Un.",
+              "Nous allons rester simplistes pour l'instant et considérer cela comme le Tao se reconnaissant lui-même.",
+              "C'est profondément discutable, mais il faut bien commencer quelque part. Bref.",
+              "Puis, dit le livre, l'Un produit le deux, le deux produit le trois, et le trois produit les dix mille choses –",
+              "tout ce que nous observons dans la Création.",
+              "Le texte est mystérieux et minimal ; mais, combiné à ce que nous avons déjà évoqué,",
+              "vous pouvez deviner les intentions de l'Ordre.",
+              "Au lieu de simplement accepter les résultats de ce processus créatif, pouvons-nous l'examiner de plus près ?",
+              "Pouvons-nous créer un microscope pour nous aider à zoomer",
+              "et à observer le Tao dans tous ses détails, pour comprendre comment ce processus créatif fonctionne ?",
+              "Certains d'entre nous pensent encore que la réponse est non."
+            ],
+            "it": [
+              "C'è un antico libro del nostro popolo... è stato ricomposto da frammenti, quindi non è mai stato del tutto affidabile...",
+              "ma descrive l'universo che emerge da un tutto fondamentale che sta alla base di tutto ciò che vediamo.",
+              "Per prima cosa, in qualche modo questo tutto, il Dao, dà origine all'Uno.",
+              "Per ora saremo semplicistici e penseremo che questo sia il Dao che si identifica da sé.",
+              "È profondamente discutibile, ma da qualche parte bisogna pur cominciare. Comunque.",
+              "Poi il libro dice: l'Uno generò il Due, il Due generò il Tre, il Tre generò le diecimila cose...",
+              "cioè tutto ciò che possiamo osservare nella creazione.",
+              "Il testo è misterioso ed essenziale ma, insieme a quanto abbiamo già discusso,",
+              "puoi intuire l'angolazione dell'Ordine.",
+              "Invece di accettare soltanto i risultati di questo processo creativo, possiamo osservarlo più da vicino?",
+              "Possiamo creare un microscopio che ci aiuti a ingrandire",
+              "e a guardare il Dao in tutti i suoi particolari, per capire come funziona questo processo creativo?",
+              "Alcuni di noi pensano ancora che la risposta sia no."
+            ],
+            "ja": [
+              "我々には古い書物がある。 再構成されたものだから、 正確とは限らないが――",
+              "そこに、宇宙はほぼ無から 生じたと書かれている。",
+              "最初に、ある存在が生まれたのだ。 それから書にはこうある。",
+              "たとえそれが空間全体を占めていても、 生まれる前には 存在しなかった。",
+              "ひとつのものが生まれた瞬間、 別のものも生まれる。",
+              "一は二を生み、 二は三を生み、 三は万物を生む。",
+              "これで2つできた。 Aと非Aだ。",
+              "謎めいていて簡素だが、 現代的に解釈すれば",
+              "そして2つのものがあれば その「違い」も存在する。",
+              "境界、あるいは 互いに別物であるという 関係そのものだ。",
+              "これはAとその区別…",
+              "つまり、1つあれば 3つあることになる。",
+              "別の哲学者はこれを 「第一の区別」と呼んだ。"
+            ],
+            "ko": [
+              "우리 민족에 전해지는 아주 오래된 책이 하나 있죠. 여러 파편을 모아 복원한 거라 완전히 신뢰할 순 없지만...",
+              "그 책에서는 우리가 보는 모든 것의 근간을 이루는 근원적인 하나의 전체로부터 우주가 생겨났다고 설명해.",
+              "먼저, 어떻게든 이 전체, 즉 도가 하나를 낳는 거야.",
+              "일단은 단순하게 생각해서 이걸 도가 스스로를 인식하는 거라고 해 두자.",
+              "상당히 논란의 여지가 있지만 어디서든 시작은 해야 하니까. 아무튼.",
+              "그다음 책에서는 이렇게 말해. 하나는 둘을 낳고, 둘은 셋을 낳고, 셋은 만물을 낳는다...",
+              "즉, 우리가 창조 속에서 관찰하는 모든 것을 말이야.",
+              "원문은 신비롭고 간결하지만 지금까지 이야기한 내용과 함께 생각해 보면",
+              "우리 결사단이 어떤 관점으로 보는지 짐작할 수 있을 거야.",
+              "이 창조 과정의 결과를 그저 받아들이는 대신, 좀 더 자세히 들여다볼 수는 없을까?",
+              "현미경 같은 걸 만들어서 확대해 볼 수는 없을까?",
+              "도를 아주 자세히 살펴보고, 이 창조 과정이 어떻게 작동하는지 이해할 수 있게 말이지.",
+              "아직도 불가능하다고 생각하는 이들이 있지."
+            ],
             "pt-br": [
               "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
               "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
@@ -45,6 +144,51 @@
               "Podemos criar um microscópio para nos ajudar a ampliar",
               "e olhar o Dao em todos os seus detalhes, para entender como esse processo criativo funciona?",
               "Alguns de nós ainda acham que a resposta é “Não”."
+            ],
+            "ru": [
+              "У нашего народа есть древняя книга — она была пересобрана из обрывков, так что на нее никогда нельзя было полностью положиться —",
+              "но в ней описано возникновение вселенной из фундаментального целого, лежащего в основе всего, что мы видим.",
+              "Сначала, каким-то образом, это целое, Дао, порождает Одно.",
+              "Пока что мы будем упрощать и считать, что это Дао определяет само себя.",
+              "Это крайне спорно, но начинать с чего-то надо. В общем.",
+              "Затем, как говорится в книге, Одно порождает два, два порождают три, а три порождают все десять тысяч вещей —",
+              "всё, что мы наблюдаем в Творении.",
+              "Текст загадочен и минималистичен; но в сочетании с тем, о чём мы уже говорили,",
+              "вы можете догадаться, к чему клонит Орден.",
+              "Вместо того чтобы просто принимать результаты этого творческого процесса, можем ли мы рассмотреть его внимательнее?",
+              "Можем ли мы создать микроскоп и приблизить",
+              "и рассмотреть Дао во всех подробностях, чтобы понять, как работает этот творческий процесс?",
+              "Некоторые из нас всё ещё считают, что ответ — «нет»."
+            ],
+            "s-cn": [
+              "我们一族有一本古书—— 它是用残篇拼凑复原的，因此不能尽信——",
+              "不过它讲的是：宇宙如何从万物背后的统一根源中诞生。",
+              "首先，不知怎的，这个浑然一体的“道”生出了“一”。",
+              "我们先往简单了说： 就把这理解为“道”第一次给自己划出界限。",
+              "这其实很值得质疑，不过总得先找个起点。总之……",
+              "随后书中写道：一生二，二生三，三生万物——",
+              "我们在造物中观察到的一切。",
+              "文字神秘而简练；不过结合我们已经谈过的内容，",
+              "你大概能猜到沉星之序对此会怎么看。",
+              "我们能否不只接受创造出的结果， 而是仔细研究创造本身是如何发生的？",
+              "我们能否造一台显微镜，用它放大细节，",
+              "并看清“道”的一切具体细节， 理解这个创造过程如何运作？",
+              "我们当中仍有人认为，答案是“不能”。"
+            ],
+            "t-cn": [
+              "我們一族有一本古書—— 它是用殘篇拼湊復原的，因此不能盡信——",
+              "不過它講的是：宇宙如何從萬物背後的統一根源中誕生。",
+              "首先，不知怎的，這個渾然一體的「道」生出了「一」。",
+              "我們先往簡單了說： 就把這理解為「道」第一次給自己劃出界限。",
+              "這其實很值得質疑，不過總得先找個起點。總之……",
+              "隨後書中寫道：一生二，二生三，三生萬物——",
+              "我們在造物中觀察到的一切。",
+              "文字神秘而簡練；不過結合我們已經談過的內容，",
+              "你大概能猜到沉星之序對此會怎麼看。",
+              "我們能否不只接受創造出的結果， 而是仔細研究創造本身是如何發生的？",
+              "我們能否造一臺顯微鏡，用它放大細節，",
+              "並看清「道」的一切具體細節， 理解這個創造過程如何運作？",
+              "我們當中仍有人認為，答案是「不能」。"
             ]
           },
           "provenance": {
@@ -77,8 +221,35 @@
             "en": [
               "We have an idea that our universe began with an immense explosion."
             ],
+            "de": [
+              "Wir gehen davon aus, dass unser Universum mit einer gewaltigen Explosion begonnen hat."
+            ],
+            "es": [
+              "Tenemos la idea de que nuestro universo empezó con una explosión inmensa."
+            ],
+            "fr": [
+              "Nous avons une théorie comme quoi notre univers a commencé par une immense explosion."
+            ],
+            "it": [
+              "Abbiamo l'idea che il nostro universo sia iniziato con un'esplosione immensa."
+            ],
+            "ja": [
+              "私たちの宇宙は、巨大な爆発から始まった という考え方があります。"
+            ],
+            "ko": [
+              "우리 우주는 거대한 폭발로 시작됐다는 생각이 있어."
+            ],
             "pt-br": [
               "Temos uma ideia de que nosso universo começou com uma explosão imensa."
+            ],
+            "ru": [
+              "У нас есть представление о том, что наша вселенная началась с колоссального взрыва."
+            ],
+            "s-cn": [
+              "我们有个想法，认为自己的宇宙始于一场极其剧烈的爆炸。"
+            ],
+            "t-cn": [
+              "我們有個想法， 認為自己的宇宙始於一場極其劇烈的爆炸。"
             ]
           },
           "provenance": {
@@ -101,10 +272,55 @@
               "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
               "but, somewhere more fundamental. Any physical explosion is just a surface echo."
             ],
+            "de": [
+              "Das haben wir früher auch gedacht. Und nun ja, rein äußerlich betrachtet war es wohl auch so ... aber die Mechanismen, die dem zugrunde liegen, sind gar nicht so instabil.",
+              "Wenn du ein Bild brauchst, kannst du dir diese Sache mit dem Dao als Beschreibung einer Explosion vorstellen, die das Universum erschaffen hat,",
+              "allerdings auf einer grundlegenderen Ebene. Jede physische Explosion ist nur ein Echo an der Oberfläche."
+            ],
+            "es": [
+              "Nosotros también, una vez. Y, bueno, a simple vista más o menos fue así... pero cuando miras los mecanismos subyacentes, no son tan inestables.",
+              "Si quieres una imagen, puedes pensar en todo esto del Dao como la descripción de una explosión que creó el Universo,",
+              "pero en un plano más fundamental. Cualquier explosión física no es más que un eco superficial."
+            ],
+            "fr": [
+              "Nous aussi, autrefois. Et, à en juger par les apparences, c'est un peu ce qui s'est passé... mais quand on regarde les mécanismes sous-jacents, ils ne sont pas aussi instables que ça.",
+              "Si vous voulez une image, vous pouvez considérer cette histoire de Tao comme la description d'une explosion qui a créé l'Univers,",
+              "mais, à un niveau plus fondamental. Toute explosion physique n'en est qu'un écho en surface."
+            ],
+            "it": [
+              "Anche noi, una volta. E, beh, stando alle apparenze fisiche in un certo senso sì... ma quando guardi i meccanismi di fondo, non sono così instabili.",
+              "Se vuoi un'immagine, puoi pensare a questa faccenda del Dao come alla descrizione di un'esplosione che ha creato l'universo,",
+              "ma, a un livello più fondamentale. Qualsiasi esplosione fisica è solo un'eco superficiale."
+            ],
+            "ja": [
+              "そしてその関係同士にも関係が生まれ―― たちまち、目が回るほど間接的になっていく。",
+              "だがこれで我々の研究内容が 少し見えたはずだ。",
+              "そこから同じ過程が繰り返される。 すべての構成要素どうしに 関係が生まれるからだ。"
+            ],
+            "ko": [
+              "우리도 한때는 그랬어. 뭐, 물리적으로 보면 어느 정도는 맞지... 하지만 그 밑바탕의 작동 원리를 보면, 그렇게 불안정하지는 않아.",
+              "머릿속에 그려 보고 싶다면, 이 도에 관한 이야기를 우주를 창조한 폭발에 대한 묘사라고 생각해도 돼.",
+              "다만, 좀 더 근본적인 곳에서 일어나는 폭발이지. 물리적인 폭발은 모두 표면에 울리는 메아리일 뿐이야."
+            ],
             "pt-br": [
               "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
               "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
               "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+            ],
+            "ru": [
+              "Когда-то мы тоже так думали. И, ну, внешне так оно вроде бы и было... но если взглянуть на механизмы в основе, они не так уж нестабильны.",
+              "Если нужен образ, можно представить, что это даосское учение описывает взрыв, создавший Вселенную,",
+              "но где-то на более фундаментальном уровне. Любой физический взрыв — лишь поверхностное эхо."
+            ],
+            "s-cn": [
+              "我们也曾这么想。嗯，表面看来的确如此…… 可一旦深入底层机制，就会发现它们其实没那么不稳定。",
+              "如果想要一个直观的画面， 可以把这套“道”的说法理解成一场创造宇宙的爆炸，",
+              "但发生在更加根本的层面。 任何物理爆炸都只是表层的回响。"
+            ],
+            "t-cn": [
+              "我們也曾這麼想。嗯，表面看來的確如此…… 可一旦深入底層機制， 就會發現它們其實沒那麼不穩定。",
+              "如果想要一個直觀的畫面， 可以把這套「道」的說法理解成 一場創造宇宙的爆炸，",
+              "但發生在更加根本的層面。 任何物理爆炸都只是表層的迴響。"
             ]
           },
           "provenance": {
@@ -142,6 +358,120 @@
           "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
           "but, somewhere more fundamental. Any physical explosion is just a surface echo."
         ],
+        "de": [
+          "Es gibt ein uraltes Buch unseres Volkes – es ist aus Bruchstücken zusammengesetzt worden, also nie ganz verlässlich –",
+          "doch es beschreibt, wie das Universum entsteht: aus einem fundamentalen Ganzen, das allem zugrunde liegt, was wir sehen.",
+          "Zunächst bringt dieses Ganze, das Dao, irgendwie das Eine hervor.",
+          "Vorerst vereinfachen wir die Sache und stellen uns darunter vor, dass das Dao sich selbst identifiziert.",
+          "Das ist höchst fragwürdig, aber irgendwo müssen wir anfangen. Wie dem auch sei.",
+          "Dann, so heißt es in dem Buch, bringt das Eine zwei hervor, zwei bringen drei hervor, und drei bringen all die zehntausend Dinge hervor –",
+          "alles, was wir in der Schöpfung beobachten.",
+          "Der Text ist rätselhaft und knapp; doch zusammen mit dem, was wir bereits besprochen haben,",
+          "kannst du dir denken, worauf der Orden hinauswill.",
+          "Statt bloß die Ergebnisse dieses schöpferischen Prozesses hinzunehmen, können wir ihn uns genauer ansehen?",
+          "Können wir ein Mikroskop erschaffen, mit dem wir ganz nah herangehen",
+          "und das Dao in all seinen Einzelheiten betrachten, um zu verstehen, wie dieser schöpferische Prozess funktioniert?",
+          "Manche von uns meinen noch immer, die Antwort laute: Nein.",
+          "Wir gehen davon aus, dass unser Universum mit einer gewaltigen Explosion begonnen hat.",
+          "Das haben wir früher auch gedacht. Und nun ja, rein äußerlich betrachtet war es wohl auch so ... aber die Mechanismen, die dem zugrunde liegen, sind gar nicht so instabil.",
+          "Wenn du ein Bild brauchst, kannst du dir diese Sache mit dem Dao als Beschreibung einer Explosion vorstellen, die das Universum erschaffen hat,",
+          "allerdings auf einer grundlegenderen Ebene. Jede physische Explosion ist nur ein Echo an der Oberfläche."
+        ],
+        "es": [
+          "Hay un antiguo libro de nuestra gente, que se recompuso a partir de fragmentos, así que nunca fue del todo fiable,",
+          "pero describe el universo que emerge de un todo fundamental que subyace a todo lo que vemos.",
+          "Primero, sin saber cómo, ese todo, el Dao, da lugar al Uno.",
+          "Por ahora seremos simplistas y pensaremos en el fenómeno como el Dao identificándose a sí mismo.",
+          "Es profundamente cuestionable, pero por algún sitio hay que empezar. En fin.",
+          "Luego, el libro afirma que el Uno produce dos, dos producen tres, y tres producen las diez mil cosas...",
+          "todo lo que observamos en la Creación.",
+          "El texto es misterioso y mínimo; pero, combinado con lo que ya hemos comentado,",
+          "permite adivinar por dónde va la Orden.",
+          "En lugar de aceptar sin más los resultados de este proceso creativo, ¿podemos examinarlo más de cerca?",
+          "¿Podemos crear un microscopio que nos ayude a acercarnos",
+          "y a observar el Dao en todos sus detalles particulares, para entender cómo funciona este proceso creativo?",
+          "Algunos seguimos pensando que la respuesta es no.",
+          "Tenemos la idea de que nuestro universo empezó con una explosión inmensa.",
+          "Nosotros también, una vez. Y, bueno, a simple vista más o menos fue así... pero cuando miras los mecanismos subyacentes, no son tan inestables.",
+          "Si quieres una imagen, puedes pensar en todo esto del Dao como la descripción de una explosión que creó el Universo,",
+          "pero en un plano más fundamental. Cualquier explosión física no es más que un eco superficial."
+        ],
+        "fr": [
+          "Il existe un ancien livre de notre peuple – il a été reconstitué à partir de fragments, il n'est donc jamais totalement fiable –",
+          "mais il décrit l'univers émergeant d'un tout fondamental qui sous-tend tout ce que nous voyons.",
+          "D'abord, d'une certaine manière, ce tout, le Tao, fait naître l'Un.",
+          "Nous allons rester simplistes pour l'instant et considérer cela comme le Tao se reconnaissant lui-même.",
+          "C'est profondément discutable, mais il faut bien commencer quelque part. Bref.",
+          "Puis, dit le livre, l'Un produit le deux, le deux produit le trois, et le trois produit les dix mille choses –",
+          "tout ce que nous observons dans la Création.",
+          "Le texte est mystérieux et minimal ; mais, combiné à ce que nous avons déjà évoqué,",
+          "vous pouvez deviner les intentions de l'Ordre.",
+          "Au lieu de simplement accepter les résultats de ce processus créatif, pouvons-nous l'examiner de plus près ?",
+          "Pouvons-nous créer un microscope pour nous aider à zoomer",
+          "et à observer le Tao dans tous ses détails, pour comprendre comment ce processus créatif fonctionne ?",
+          "Certains d'entre nous pensent encore que la réponse est non.",
+          "Nous avons une théorie comme quoi notre univers a commencé par une immense explosion.",
+          "Nous aussi, autrefois. Et, à en juger par les apparences, c'est un peu ce qui s'est passé... mais quand on regarde les mécanismes sous-jacents, ils ne sont pas aussi instables que ça.",
+          "Si vous voulez une image, vous pouvez considérer cette histoire de Tao comme la description d'une explosion qui a créé l'Univers,",
+          "mais, à un niveau plus fondamental. Toute explosion physique n'en est qu'un écho en surface."
+        ],
+        "it": [
+          "C'è un antico libro del nostro popolo... è stato ricomposto da frammenti, quindi non è mai stato del tutto affidabile...",
+          "ma descrive l'universo che emerge da un tutto fondamentale che sta alla base di tutto ciò che vediamo.",
+          "Per prima cosa, in qualche modo questo tutto, il Dao, dà origine all'Uno.",
+          "Per ora saremo semplicistici e penseremo che questo sia il Dao che si identifica da sé.",
+          "È profondamente discutibile, ma da qualche parte bisogna pur cominciare. Comunque.",
+          "Poi il libro dice: l'Uno generò il Due, il Due generò il Tre, il Tre generò le diecimila cose...",
+          "cioè tutto ciò che possiamo osservare nella creazione.",
+          "Il testo è misterioso ed essenziale ma, insieme a quanto abbiamo già discusso,",
+          "puoi intuire l'angolazione dell'Ordine.",
+          "Invece di accettare soltanto i risultati di questo processo creativo, possiamo osservarlo più da vicino?",
+          "Possiamo creare un microscopio che ci aiuti a ingrandire",
+          "e a guardare il Dao in tutti i suoi particolari, per capire come funziona questo processo creativo?",
+          "Alcuni di noi pensano ancora che la risposta sia no.",
+          "Abbiamo l'idea che il nostro universo sia iniziato con un'esplosione immensa.",
+          "Anche noi, una volta. E, beh, stando alle apparenze fisiche in un certo senso sì... ma quando guardi i meccanismi di fondo, non sono così instabili.",
+          "Se vuoi un'immagine, puoi pensare a questa faccenda del Dao come alla descrizione di un'esplosione che ha creato l'universo,",
+          "ma, a un livello più fondamentale. Qualsiasi esplosione fisica è solo un'eco superficiale."
+        ],
+        "ja": [
+          "我々には古い書物がある。 再構成されたものだから、 正確とは限らないが――",
+          "そこに、宇宙はほぼ無から 生じたと書かれている。",
+          "最初に、ある存在が生まれたのだ。 それから書にはこうある。",
+          "たとえそれが空間全体を占めていても、 生まれる前には 存在しなかった。",
+          "ひとつのものが生まれた瞬間、 別のものも生まれる。",
+          "一は二を生み、 二は三を生み、 三は万物を生む。",
+          "これで2つできた。 Aと非Aだ。",
+          "謎めいていて簡素だが、 現代的に解釈すれば",
+          "そして2つのものがあれば その「違い」も存在する。",
+          "境界、あるいは 互いに別物であるという 関係そのものだ。",
+          "これはAとその区別…",
+          "つまり、1つあれば 3つあることになる。",
+          "別の哲学者はこれを 「第一の区別」と呼んだ。",
+          "私たちの宇宙は、巨大な爆発から始まった という考え方があります。",
+          "そしてその関係同士にも関係が生まれ―― たちまち、目が回るほど間接的になっていく。",
+          "だがこれで我々の研究内容が 少し見えたはずだ。",
+          "そこから同じ過程が繰り返される。 すべての構成要素どうしに 関係が生まれるからだ。"
+        ],
+        "ko": [
+          "우리 민족에 전해지는 아주 오래된 책이 하나 있죠. 여러 파편을 모아 복원한 거라 완전히 신뢰할 순 없지만...",
+          "그 책에서는 우리가 보는 모든 것의 근간을 이루는 근원적인 하나의 전체로부터 우주가 생겨났다고 설명해.",
+          "먼저, 어떻게든 이 전체, 즉 도가 하나를 낳는 거야.",
+          "일단은 단순하게 생각해서 이걸 도가 스스로를 인식하는 거라고 해 두자.",
+          "상당히 논란의 여지가 있지만 어디서든 시작은 해야 하니까. 아무튼.",
+          "그다음 책에서는 이렇게 말해. 하나는 둘을 낳고, 둘은 셋을 낳고, 셋은 만물을 낳는다...",
+          "즉, 우리가 창조 속에서 관찰하는 모든 것을 말이야.",
+          "원문은 신비롭고 간결하지만 지금까지 이야기한 내용과 함께 생각해 보면",
+          "우리 결사단이 어떤 관점으로 보는지 짐작할 수 있을 거야.",
+          "이 창조 과정의 결과를 그저 받아들이는 대신, 좀 더 자세히 들여다볼 수는 없을까?",
+          "현미경 같은 걸 만들어서 확대해 볼 수는 없을까?",
+          "도를 아주 자세히 살펴보고, 이 창조 과정이 어떻게 작동하는지 이해할 수 있게 말이지.",
+          "아직도 불가능하다고 생각하는 이들이 있지.",
+          "우리 우주는 거대한 폭발로 시작됐다는 생각이 있어.",
+          "우리도 한때는 그랬어. 뭐, 물리적으로 보면 어느 정도는 맞지... 하지만 그 밑바탕의 작동 원리를 보면, 그렇게 불안정하지는 않아.",
+          "머릿속에 그려 보고 싶다면, 이 도에 관한 이야기를 우주를 창조한 폭발에 대한 묘사라고 생각해도 돼.",
+          "다만, 좀 더 근본적인 곳에서 일어나는 폭발이지. 물리적인 폭발은 모두 표면에 울리는 메아리일 뿐이야."
+        ],
         "pt-br": [
           "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
           "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
@@ -160,6 +490,63 @@
           "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
           "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
           "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+        ],
+        "ru": [
+          "У нашего народа есть древняя книга — она была пересобрана из обрывков, так что на нее никогда нельзя было полностью положиться —",
+          "но в ней описано возникновение вселенной из фундаментального целого, лежащего в основе всего, что мы видим.",
+          "Сначала, каким-то образом, это целое, Дао, порождает Одно.",
+          "Пока что мы будем упрощать и считать, что это Дао определяет само себя.",
+          "Это крайне спорно, но начинать с чего-то надо. В общем.",
+          "Затем, как говорится в книге, Одно порождает два, два порождают три, а три порождают все десять тысяч вещей —",
+          "всё, что мы наблюдаем в Творении.",
+          "Текст загадочен и минималистичен; но в сочетании с тем, о чём мы уже говорили,",
+          "вы можете догадаться, к чему клонит Орден.",
+          "Вместо того чтобы просто принимать результаты этого творческого процесса, можем ли мы рассмотреть его внимательнее?",
+          "Можем ли мы создать микроскоп и приблизить",
+          "и рассмотреть Дао во всех подробностях, чтобы понять, как работает этот творческий процесс?",
+          "Некоторые из нас всё ещё считают, что ответ — «нет».",
+          "У нас есть представление о том, что наша вселенная началась с колоссального взрыва.",
+          "Когда-то мы тоже так думали. И, ну, внешне так оно вроде бы и было... но если взглянуть на механизмы в основе, они не так уж нестабильны.",
+          "Если нужен образ, можно представить, что это даосское учение описывает взрыв, создавший Вселенную,",
+          "но где-то на более фундаментальном уровне. Любой физический взрыв — лишь поверхностное эхо."
+        ],
+        "s-cn": [
+          "我们一族有一本古书—— 它是用残篇拼凑复原的，因此不能尽信——",
+          "不过它讲的是：宇宙如何从万物背后的统一根源中诞生。",
+          "首先，不知怎的，这个浑然一体的“道”生出了“一”。",
+          "我们先往简单了说： 就把这理解为“道”第一次给自己划出界限。",
+          "这其实很值得质疑，不过总得先找个起点。总之……",
+          "随后书中写道：一生二，二生三，三生万物——",
+          "我们在造物中观察到的一切。",
+          "文字神秘而简练；不过结合我们已经谈过的内容，",
+          "你大概能猜到沉星之序对此会怎么看。",
+          "我们能否不只接受创造出的结果， 而是仔细研究创造本身是如何发生的？",
+          "我们能否造一台显微镜，用它放大细节，",
+          "并看清“道”的一切具体细节， 理解这个创造过程如何运作？",
+          "我们当中仍有人认为，答案是“不能”。",
+          "我们有个想法，认为自己的宇宙始于一场极其剧烈的爆炸。",
+          "我们也曾这么想。嗯，表面看来的确如此…… 可一旦深入底层机制，就会发现它们其实没那么不稳定。",
+          "如果想要一个直观的画面， 可以把这套“道”的说法理解成一场创造宇宙的爆炸，",
+          "但发生在更加根本的层面。 任何物理爆炸都只是表层的回响。"
+        ],
+        "t-cn": [
+          "我們一族有一本古書—— 它是用殘篇拼湊復原的，因此不能盡信——",
+          "不過它講的是：宇宙如何從萬物背後的統一根源中誕生。",
+          "首先，不知怎的，這個渾然一體的「道」生出了「一」。",
+          "我們先往簡單了說： 就把這理解為「道」第一次給自己劃出界限。",
+          "這其實很值得質疑，不過總得先找個起點。總之……",
+          "隨後書中寫道：一生二，二生三，三生萬物——",
+          "我們在造物中觀察到的一切。",
+          "文字神秘而簡練；不過結合我們已經談過的內容，",
+          "你大概能猜到沉星之序對此會怎麼看。",
+          "我們能否不只接受創造出的結果， 而是仔細研究創造本身是如何發生的？",
+          "我們能否造一臺顯微鏡，用它放大細節，",
+          "並看清「道」的一切具體細節， 理解這個創造過程如何運作？",
+          "我們當中仍有人認為，答案是「不能」。",
+          "我們有個想法， 認為自己的宇宙始於一場極其劇烈的爆炸。",
+          "我們也曾這麼想。嗯，表面看來的確如此…… 可一旦深入底層機制， 就會發現它們其實沒那麼不穩定。",
+          "如果想要一個直觀的畫面， 可以把這套「道」的說法理解成 一場創造宇宙的爆炸，",
+          "但發生在更加根本的層面。 任何物理爆炸都只是表層的迴響。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Wish I'd held fast, completed the *original* trial. Become a Mirrorwright."
             ],
+            "de": [
+              "Hätte ich doch nur die ursprüngliche Prüfung beendet und wäre Spiegelwirker geworden."
+            ],
+            "es": [
+              "Ojalá hubiera aguantado y completado la prueba original. Para convertirme en espejista."
+            ],
+            "fr": [
+              "J'aurais aimé tenir bon, terminer l'épreuve originelle. Devenir un forgemiroir."
+            ],
+            "it": [
+              "Se solo avessi tenuto duro, completato la prova originale. Fossi diventato un Artefice degli specchi."
+            ],
+            "ja": [
+              "あの時耐えて、試練を完了して 鏡職人になるべきだった。"
+            ],
+            "ko": [
+              "원래 시련을 끝까지 버텼으면 좋았을 텐데. 거울공예인이 되는 시련 말이야."
+            ],
             "pt-br": [
               "Queria ter resistido, concluído o teste original. Tornar-me um Espelhista."
+            ],
+            "ru": [
+              "Жаль, что я не выстоял, не прошёл настоящее испытание. Не стал зеркальщиком."
+            ],
+            "s-cn": [
+              "真希望当年我能坚持到底，完成最初那场试炼，成为一名镜匠。"
+            ],
+            "t-cn": [
+              "真希望當年我能堅持到底，完成最初那場試煉， 成為一名鏡匠。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "No no no. We chose the right way. Our success attests to it. On that day, Fear was Wisdom."
             ],
+            "de": [
+              "Nein, nein, nein. Wir haben den richtigen Weg gewählt. Unser Erfolg beweist es. An jenem Tag war Angst Weisheit."
+            ],
+            "es": [
+              "No, no, no. Elegimos el camino correcto. Nuestro éxito lo demuestra. Aquel día, el miedo se tornó sabiduría."
+            ],
+            "fr": [
+              "Non, non. Nous avons choisi la bonne voie. Notre réussite en témoigne. Ce jour-là, la peur était sagesse."
+            ],
+            "it": [
+              "No no no. Abbiamo scelto la strada giusta. Il nostro successo lo dimostra. In quel giorno, la Paura era Saggezza."
+            ],
+            "ja": [
+              "いや、あれでよかった。成功がその証だ。 あの日、恐れこそが正解だった。"
+            ],
+            "ko": [
+              "아니. 우린 올바른 길을 택했어. 우리의 성공이 그걸 증명하지. 그날, 두려움은 지혜였어."
+            ],
             "pt-br": [
               "Não, não, não. Escolhemos o caminho certo. Nosso sucesso prova isso. Naquele dia, o medo era sabedoria."
+            ],
+            "ru": [
+              "Нет, нет, нет. Путь был верный, и успех это доказывает. В тот день Страх был Мудростью."
+            ],
+            "s-cn": [
+              "不不不，我们选对了。如今的成就即为明证。 那一天，恐惧即是智慧。"
+            ],
+            "t-cn": [
+              "不不不，我們選對了。如今的成就即為明證。 那一天，恐懼即是智慧。"
             ]
           },
           "provenance": {
@@ -67,9 +130,45 @@
           "Wish I'd held fast, completed the *original* trial. Become a Mirrorwright.",
           "No no no. We chose the right way. Our success attests to it. On that day, Fear was Wisdom."
         ],
+        "de": [
+          "Hätte ich doch nur die ursprüngliche Prüfung beendet und wäre Spiegelwirker geworden.",
+          "Nein, nein, nein. Wir haben den richtigen Weg gewählt. Unser Erfolg beweist es. An jenem Tag war Angst Weisheit."
+        ],
+        "es": [
+          "Ojalá hubiera aguantado y completado la prueba original. Para convertirme en espejista.",
+          "No, no, no. Elegimos el camino correcto. Nuestro éxito lo demuestra. Aquel día, el miedo se tornó sabiduría."
+        ],
+        "fr": [
+          "J'aurais aimé tenir bon, terminer l'épreuve originelle. Devenir un forgemiroir.",
+          "Non, non. Nous avons choisi la bonne voie. Notre réussite en témoigne. Ce jour-là, la peur était sagesse."
+        ],
+        "it": [
+          "Se solo avessi tenuto duro, completato la prova originale. Fossi diventato un Artefice degli specchi.",
+          "No no no. Abbiamo scelto la strada giusta. Il nostro successo lo dimostra. In quel giorno, la Paura era Saggezza."
+        ],
+        "ja": [
+          "あの時耐えて、試練を完了して 鏡職人になるべきだった。",
+          "いや、あれでよかった。成功がその証だ。 あの日、恐れこそが正解だった。"
+        ],
+        "ko": [
+          "원래 시련을 끝까지 버텼으면 좋았을 텐데. 거울공예인이 되는 시련 말이야.",
+          "아니. 우린 올바른 길을 택했어. 우리의 성공이 그걸 증명하지. 그날, 두려움은 지혜였어."
+        ],
         "pt-br": [
           "Queria ter resistido, concluído o teste original. Tornar-me um Espelhista.",
           "Não, não, não. Escolhemos o caminho certo. Nosso sucesso prova isso. Naquele dia, o medo era sabedoria."
+        ],
+        "ru": [
+          "Жаль, что я не выстоял, не прошёл настоящее испытание. Не стал зеркальщиком.",
+          "Нет, нет, нет. Путь был верный, и успех это доказывает. В тот день Страх был Мудростью."
+        ],
+        "s-cn": [
+          "真希望当年我能坚持到底，完成最初那场试炼，成为一名镜匠。",
+          "不不不，我们选对了。如今的成就即为明证。 那一天，恐惧即是智慧。"
+        ],
+        "t-cn": [
+          "真希望當年我能堅持到底，完成最初那場試煉， 成為一名鏡匠。",
+          "不不不，我們選對了。如今的成就即為明證。 那一天，恐懼即是智慧。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "So, you're the performer I've been hearing about."
             ],
+            "de": [
+              "Du bist also die Künstlerin, von der ich gehört habe."
+            ],
+            "es": [
+              "Entonces tú eres la artista de la que he oído hablar."
+            ],
+            "fr": [
+              "Alors c'est toi, la saltimbanque dont tout le monde parle."
+            ],
+            "it": [
+              "Quindi tu sei l'artista di cui ho sentito parlare."
+            ],
+            "ja": [
+              "お前があの 噂の奏者か。"
+            ],
+            "ko": [
+              "그러니까 네가 그 공연자군. 소문은 익히 들었지."
+            ],
             "pt-br": [
               "Então, você é a artista de quem tenho ouvido falar."
+            ],
+            "ru": [
+              "Значит, вы и есть та артистка, о которой я столько слышал."
+            ],
+            "s-cn": [
+              "原来你就是我听说的那位艺人。"
+            ],
+            "t-cn": [
+              "原來你就是我聽說的那位藝人。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "And you're the famous Crystalmancer that I've been hearing about!"
             ],
+            "de": [
+              "Und du bist der berühmte Kristallomantin, von der ich so viel gehört habe!"
+            ],
+            "es": [
+              "¡Y tú eres el famoso cristalomante del que he oído hablar yo!"
+            ],
+            "fr": [
+              "Et toi, tu es le fameux cristallomancien dont j'ai entendu parler !"
+            ],
+            "it": [
+              "E tu sei il famoso mago dei cristalli di cui ho sentito parlare io!"
+            ],
+            "ja": [
+              "そしてあなたがあの 噂の水晶術師ね！"
+            ],
+            "ko": [
+              "그럼 네가 그 유명한 수정술사겠네. 나도 소문은 익히 들었어!"
+            ],
             "pt-br": [
               "E você é o famoso Cristalmante de quem tenho ouvido falar!"
+            ],
+            "ru": [
+              "А вы и есть знаменитый кристалломант, о котором я столько слышала!"
+            ],
+            "s-cn": [
+              "你就是那位晶术师，久仰大名！"
+            ],
+            "t-cn": [
+              "你就是那位晶術師，久仰大名！"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "We don't call ourselves that."
             ],
+            "de": [
+              "So nennen wir uns nicht."
+            ],
+            "es": [
+              "No nos llamamos así."
+            ],
+            "fr": [
+              "Ce n'est pas le nom qu'on se donne..."
+            ],
+            "it": [
+              "Noi non ci chiamiamo così."
+            ],
+            "ja": [
+              "そうは名乗っていない。"
+            ],
+            "ko": [
+              "우린 우리를 그렇게 부르지 않아."
+            ],
             "pt-br": [
               "A gente não se chama assim."
+            ],
+            "ru": [
+              "Мы сами себя так не называем."
+            ],
+            "s-cn": [
+              "我们不这么称呼自己。"
+            ],
+            "t-cn": [
+              "我們不這麼稱呼自己。"
             ]
           },
           "provenance": {
@@ -90,9 +180,45 @@
               "Nor does anyone!",
               "I made it up."
             ],
+            "de": [
+              "Das tut sonst auch niemand!",
+              "Hab ich erfunden."
+            ],
+            "es": [
+              "¡Ni nadie!",
+              "Me lo he inventado."
+            ],
+            "fr": [
+              "Personne ne vous le donne !",
+              "Je viens de l'inventer."
+            ],
+            "it": [
+              "Né lo fa nessun altro!",
+              "Me lo sono appena inventato."
+            ],
+            "ja": [
+              "それは私が今、 思いついたんだからね。",
+              "私が勝手に付けたの。"
+            ],
+            "ko": [
+              "아무도 그렇게 안 부르지.",
+              "내가 지어낸 거니까."
+            ],
             "pt-br": [
               "Nem ninguém!",
               "Fui eu que inventei."
+            ],
+            "ru": [
+              "И никто не называет.",
+              "Я это выдумала."
+            ],
+            "s-cn": [
+              "别人也不这么叫！",
+              "这是我现编的。"
+            ],
+            "t-cn": [
+              "別人也不這麼叫！",
+              "這是我現編的。"
             ]
           },
           "provenance": {
@@ -117,12 +243,75 @@
           "Nor does anyone!",
           "I made it up."
         ],
+        "de": [
+          "Du bist also die Künstlerin, von der ich gehört habe.",
+          "Und du bist der berühmte Kristallomantin, von der ich so viel gehört habe!",
+          "So nennen wir uns nicht.",
+          "Das tut sonst auch niemand!",
+          "Hab ich erfunden."
+        ],
+        "es": [
+          "Entonces tú eres la artista de la que he oído hablar.",
+          "¡Y tú eres el famoso cristalomante del que he oído hablar yo!",
+          "No nos llamamos así.",
+          "¡Ni nadie!",
+          "Me lo he inventado."
+        ],
+        "fr": [
+          "Alors c'est toi, la saltimbanque dont tout le monde parle.",
+          "Et toi, tu es le fameux cristallomancien dont j'ai entendu parler !",
+          "Ce n'est pas le nom qu'on se donne...",
+          "Personne ne vous le donne !",
+          "Je viens de l'inventer."
+        ],
+        "it": [
+          "Quindi tu sei l'artista di cui ho sentito parlare.",
+          "E tu sei il famoso mago dei cristalli di cui ho sentito parlare io!",
+          "Noi non ci chiamiamo così.",
+          "Né lo fa nessun altro!",
+          "Me lo sono appena inventato."
+        ],
+        "ja": [
+          "お前があの 噂の奏者か。",
+          "そしてあなたがあの 噂の水晶術師ね！",
+          "そうは名乗っていない。",
+          "それは私が今、 思いついたんだからね。",
+          "私が勝手に付けたの。"
+        ],
+        "ko": [
+          "그러니까 네가 그 공연자군. 소문은 익히 들었지.",
+          "그럼 네가 그 유명한 수정술사겠네. 나도 소문은 익히 들었어!",
+          "우린 우리를 그렇게 부르지 않아.",
+          "아무도 그렇게 안 부르지.",
+          "내가 지어낸 거니까."
+        ],
         "pt-br": [
           "Então, você é a artista de quem tenho ouvido falar.",
           "E você é o famoso Cristalmante de quem tenho ouvido falar!",
           "A gente não se chama assim.",
           "Nem ninguém!",
           "Fui eu que inventei."
+        ],
+        "ru": [
+          "Значит, вы и есть та артистка, о которой я столько слышал.",
+          "А вы и есть знаменитый кристалломант, о котором я столько слышала!",
+          "Мы сами себя так не называем.",
+          "И никто не называет.",
+          "Я это выдумала."
+        ],
+        "s-cn": [
+          "原来你就是我听说的那位艺人。",
+          "你就是那位晶术师，久仰大名！",
+          "我们不这么称呼自己。",
+          "别人也不这么叫！",
+          "这是我现编的。"
+        ],
+        "t-cn": [
+          "原來你就是我聽說的那位藝人。",
+          "你就是那位晶術師，久仰大名！",
+          "我們不這麼稱呼自己。",
+          "別人也不這麼叫！",
+          "這是我現編的。"
         ]
       },
       "silentCues": [],
@@ -161,8 +350,35 @@
             "en": [
               "I don't call myself a 'performer'; it's more serious than that."
             ],
+            "de": [
+              "Ich nenne mich nicht „Unterhalterin“; dafür ist das, was ich tue, zu ernst."
+            ],
+            "es": [
+              "No me considero una «intérprete»; es algo más serio."
+            ],
+            "fr": [
+              "Je ne me considère pas comme une « saltimbanque » non plus ; c'est plus sérieux que ça."
+            ],
+            "it": [
+              "Non mi definisco 'artista'; è una cosa più seria."
+            ],
+            "ja": [
+              "私も自分を 「奏者」とは呼ばないけど、 好きに呼んでくれていいわよ。"
+            ],
+            "ko": [
+              "난 나 자신을 '공연자'라고 부르진 않아; 그보다 진지한 일이거든."
+            ],
             "pt-br": [
               "Não me considero um 'artista'; é algo mais sério que isso."
+            ],
+            "ru": [
+              "Я не называю себя «артисткой»; это нечто более серьёзное."
+            ],
+            "s-cn": [
+              "我可不自称“艺人”；我做的事要严肃得多。"
+            ],
+            "t-cn": [
+              "我可不自稱「藝人」；我做的事要嚴肅得多。"
             ]
           },
           "provenance": {
@@ -182,8 +398,35 @@
         "en": [
           "I don't call myself a 'performer'; it's more serious than that."
         ],
+        "de": [
+          "Ich nenne mich nicht „Unterhalterin“; dafür ist das, was ich tue, zu ernst."
+        ],
+        "es": [
+          "No me considero una «intérprete»; es algo más serio."
+        ],
+        "fr": [
+          "Je ne me considère pas comme une « saltimbanque » non plus ; c'est plus sérieux que ça."
+        ],
+        "it": [
+          "Non mi definisco 'artista'; è una cosa più seria."
+        ],
+        "ja": [
+          "私も自分を 「奏者」とは呼ばないけど、 好きに呼んでくれていいわよ。"
+        ],
+        "ko": [
+          "난 나 자신을 '공연자'라고 부르진 않아; 그보다 진지한 일이거든."
+        ],
         "pt-br": [
           "Não me considero um 'artista'; é algo mais sério que isso."
+        ],
+        "ru": [
+          "Я не называю себя «артисткой»; это нечто более серьёзное."
+        ],
+        "s-cn": [
+          "我可不自称“艺人”；我做的事要严肃得多。"
+        ],
+        "t-cn": [
+          "我可不自稱「藝人」；我做的事要嚴肅得多。"
         ]
       },
       "silentCues": [],

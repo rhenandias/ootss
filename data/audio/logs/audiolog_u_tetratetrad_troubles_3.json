@@ -3,7 +3,16 @@
   "audioLog": "audiolog_u_tetratetrad_troubles_3",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -21,10 +30,55 @@
               "but if they'd done a good ten or twenty other Warehouses first, they could work their way up to it.",
               "For us, it was the brightest star in our crown. Or it would be, when finished."
             ],
+            "de": [
+              "Die Tetratetrade war gewiss nicht der beste Einstieg eines Besuchers in unsere Arbeit – zu dicht, zu schwer nachzuvollziehen –",
+              "doch wenn ein Besucher zuvor gut zehn oder zwanzig andere Lagerhäuser bewältigt hätte – dann hätte er sich an sie heranarbeiten können.",
+              "Für uns war es der strahlendste Stern in unserer Krone. Zumindest wäre es das nach seiner Fertigstellung."
+            ],
+            "es": [
+              "La tetratétrada no era, desde luego, el mejor lugar para el primer contacto de un Visitante con nuestro trabajo... Demasiado densa, demasiado difícil de seguir...",
+              "Pero si hubieran hecho antes un buen puñado de otros almacenes, podrían ir subiendo hasta llegar a ella.",
+              "Para nosotros, era la estrella más brillante de nuestra corona. O lo sería, cuando estuviera terminada."
+            ],
+            "fr": [
+              "La tétratétrade n'était certainement pas le meilleur endroit pour la première rencontre d'un Visiteur avec notre travail – trop dense, trop difficile à suivre –",
+              "mais s'il avait d'abord fait une bonne dizaine ou vingtaine d'autres entrepôts, il pourrait y venir progressivement.",
+              "Pour nous, c'était l'étoile la plus brillante de notre couronne. Ou elle le serait, une fois terminée."
+            ],
+            "it": [
+              "La Tetratetrade non era certo il posto migliore per il primo contatto di un Visitatore con il nostro lavoro... Troppo densa, troppo difficile da seguire...",
+              "ma se avessero fatto prima almeno dieci o venti altri depositi, ci sarebbero potuti arrivare per gradi.",
+              "Per noi, era la stella più luminosa della nostra corona. O lo sarebbe stata, una volta finita."
+            ],
+            "ja": [
+              "結局、テトラテトラッドは、訪問者が 私たちの仕事に初めて触れる場所としては 決して最適ではなかった。情報量が 多すぎるし、現況を追うのも大変だ。",
+              "だが、その前に10〜20もの倉庫を 十分に経験していれば、そこへ 至るまでの道筋を少しずつ 積み上げていくことができる。",
+              "私たちにとって、あれは王冠の中で 一番輝く星だった。 完成していれば、だけどね。"
+            ],
+            "ko": [
+              "테트라테트라드는 분명 방문자가 우리 작업을 처음 접하기에 좋은 곳은 절대 아니었어. 너무 빽빽하고, 따라가기도 어려웠지.",
+              "하지만 다른 창고를 열 개나 스무 개쯤 충분히 경험해 봤다면 차근차근 여기까지 올 수 있었을 거야.",
+              "그리고 우리에게 그건 왕관의 가장 빛나는 별과도 같은 작품이었어. 완성됐다면 말이지."
+            ],
             "pt-br": [
               "O Tetratétrade certamente não era o melhor lugar para a primeira exposição de um Visitante ao nosso trabalho — denso demais, difícil demais de acompanhar —",
               "mas, se eles tivessem feito dez ou vinte outros Armazéns antes, poderiam ir chegando até lá.",
               "Para nós, era a estrela mais brilhante da nossa coroa. Ou seria, quando terminada."
+            ],
+            "ru": [
+              "Тетратетрад определённо был не лучшим местом для первого знакомства Гостя с нашей работой — слишком насыщенный, слишком трудный для понимания —",
+              "но если бы он сначала прошёл добрый десяток или два других складов, он мог бы постепенно добраться и до Тетратетрада.",
+              "Для нас это был ярчайший бриллиант в нашей короне. Или станет им, когда будет завершён."
+            ],
+            "s-cn": [
+              "四乘四组合体当然不是让访客头一回接触我们作品的好地方—— 密度太高，太难跟上——",
+              "但访客只要先认真闯过十座、二十座其他仓库， 就能循序渐进，为这里的挑战做好准备。",
+              "对我们来说，它就是王冠上最耀眼的星。当然，得等它建成以后。"
+            ],
+            "t-cn": [
+              "四乘四組合體當然不是讓訪客頭一回接觸 我們作品的好地方——密度太高，太難跟上——",
+              "但訪客只要先認真闖過十座、二十座其他倉庫， 就能循序漸進，為這裡的挑戰做好準備。",
+              "對我們來說，它就是王冠上最耀眼的星。 當然，得等它建成以後。"
             ]
           },
           "provenance": {
@@ -48,10 +102,55 @@
           "but if they'd done a good ten or twenty other Warehouses first, they could work their way up to it.",
           "For us, it was the brightest star in our crown. Or it would be, when finished."
         ],
+        "de": [
+          "Die Tetratetrade war gewiss nicht der beste Einstieg eines Besuchers in unsere Arbeit – zu dicht, zu schwer nachzuvollziehen –",
+          "doch wenn ein Besucher zuvor gut zehn oder zwanzig andere Lagerhäuser bewältigt hätte – dann hätte er sich an sie heranarbeiten können.",
+          "Für uns war es der strahlendste Stern in unserer Krone. Zumindest wäre es das nach seiner Fertigstellung."
+        ],
+        "es": [
+          "La tetratétrada no era, desde luego, el mejor lugar para el primer contacto de un Visitante con nuestro trabajo... Demasiado densa, demasiado difícil de seguir...",
+          "Pero si hubieran hecho antes un buen puñado de otros almacenes, podrían ir subiendo hasta llegar a ella.",
+          "Para nosotros, era la estrella más brillante de nuestra corona. O lo sería, cuando estuviera terminada."
+        ],
+        "fr": [
+          "La tétratétrade n'était certainement pas le meilleur endroit pour la première rencontre d'un Visiteur avec notre travail – trop dense, trop difficile à suivre –",
+          "mais s'il avait d'abord fait une bonne dizaine ou vingtaine d'autres entrepôts, il pourrait y venir progressivement.",
+          "Pour nous, c'était l'étoile la plus brillante de notre couronne. Ou elle le serait, une fois terminée."
+        ],
+        "it": [
+          "La Tetratetrade non era certo il posto migliore per il primo contatto di un Visitatore con il nostro lavoro... Troppo densa, troppo difficile da seguire...",
+          "ma se avessero fatto prima almeno dieci o venti altri depositi, ci sarebbero potuti arrivare per gradi.",
+          "Per noi, era la stella più luminosa della nostra corona. O lo sarebbe stata, una volta finita."
+        ],
+        "ja": [
+          "結局、テトラテトラッドは、訪問者が 私たちの仕事に初めて触れる場所としては 決して最適ではなかった。情報量が 多すぎるし、現況を追うのも大変だ。",
+          "だが、その前に10〜20もの倉庫を 十分に経験していれば、そこへ 至るまでの道筋を少しずつ 積み上げていくことができる。",
+          "私たちにとって、あれは王冠の中で 一番輝く星だった。 完成していれば、だけどね。"
+        ],
+        "ko": [
+          "테트라테트라드는 분명 방문자가 우리 작업을 처음 접하기에 좋은 곳은 절대 아니었어. 너무 빽빽하고, 따라가기도 어려웠지.",
+          "하지만 다른 창고를 열 개나 스무 개쯤 충분히 경험해 봤다면 차근차근 여기까지 올 수 있었을 거야.",
+          "그리고 우리에게 그건 왕관의 가장 빛나는 별과도 같은 작품이었어. 완성됐다면 말이지."
+        ],
         "pt-br": [
           "O Tetratétrade certamente não era o melhor lugar para a primeira exposição de um Visitante ao nosso trabalho — denso demais, difícil demais de acompanhar —",
           "mas, se eles tivessem feito dez ou vinte outros Armazéns antes, poderiam ir chegando até lá.",
           "Para nós, era a estrela mais brilhante da nossa coroa. Ou seria, quando terminada."
+        ],
+        "ru": [
+          "Тетратетрад определённо был не лучшим местом для первого знакомства Гостя с нашей работой — слишком насыщенный, слишком трудный для понимания —",
+          "но если бы он сначала прошёл добрый десяток или два других складов, он мог бы постепенно добраться и до Тетратетрада.",
+          "Для нас это был ярчайший бриллиант в нашей короне. Или станет им, когда будет завершён."
+        ],
+        "s-cn": [
+          "四乘四组合体当然不是让访客头一回接触我们作品的好地方—— 密度太高，太难跟上——",
+          "但访客只要先认真闯过十座、二十座其他仓库， 就能循序渐进，为这里的挑战做好准备。",
+          "对我们来说，它就是王冠上最耀眼的星。当然，得等它建成以后。"
+        ],
+        "t-cn": [
+          "四乘四組合體當然不是讓訪客頭一回接觸 我們作品的好地方——密度太高，太難跟上——",
+          "但訪客只要先認真闖過十座、二十座其他倉庫， 就能循序漸進，為這裡的挑戰做好準備。",
+          "對我們來說，它就是王冠上最耀眼的星。 當然，得等它建成以後。"
         ]
       },
       "silentCues": [],

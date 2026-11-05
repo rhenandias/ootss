@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Tif and Valens can't be far. I was imprisoned but a few hours --",
               "I'll find the Magistrate -- he'll explain himself."
             ],
+            "de": [
+              "Tif und Valens können nicht weit sein. Ich bin ja nur ein paar Stunden eingesperrt gewesen –",
+              "Ich werde den Magistrat finden – er wird sich erklären müssen."
+            ],
+            "es": [
+              "Tif y Valens no pueden estar lejos. Solo estuve preso unas horas...",
+              "Encontraré al magistrado... Será él quien se explique personalmente."
+            ],
+            "fr": [
+              "Tif et Valens ne doivent pas être loin. Je n'ai été emprisonné que quelques heures...",
+              "Je trouverai le magistrat... il nous doit des explications."
+            ],
+            "it": [
+              "Tif e Valens non possono essere lontani. Sono rimasto imprigionato solo per poche ore...",
+              "Troverò il magistrato... saprà spiegarmi tutto."
+            ],
+            "ja": [
+              "ティフとヴァレンスは近くにいるはず。 ほんの数時間しか捕まっていなかったんだ。",
+              "あの判事め… 説明してもらわねば。"
+            ],
+            "ko": [
+              "티프랑 발렌스도 멀리 가진 못했을 거야. 내가 갇혀 있던 건 몇 시간밖에 안 되니까...",
+              "치안판사를 찾아야겠어. 자초지종을 말해 줄 거야."
+            ],
             "pt-br": [
               "Tif e Valens devem estar por perto. Fiquei preso só por algumas horas...",
               "Vou encontrar o Magistrado... ele vai se explicar."
+            ],
+            "ru": [
+              "Тиф и Валенс не могли уйти далеко. Я пробыл в заточении всего несколько часов.",
+              "Я найду Магистрата — он сам всё объяснит."
+            ],
+            "s-cn": [
+              "蒂芙和瓦伦斯应该不远。我才被关了几个小时……",
+              "我先找执政官吧。他必须给个解释。"
+            ],
+            "t-cn": [
+              "蒂芙和瓦倫斯應該不遠。我才被關了幾個小時……",
+              "我先找執政官吧。他必須給個解釋。"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "Tif and Valens can't be far. I was imprisoned but a few hours --",
           "I'll find the Magistrate -- he'll explain himself."
         ],
+        "de": [
+          "Tif und Valens können nicht weit sein. Ich bin ja nur ein paar Stunden eingesperrt gewesen –",
+          "Ich werde den Magistrat finden – er wird sich erklären müssen."
+        ],
+        "es": [
+          "Tif y Valens no pueden estar lejos. Solo estuve preso unas horas...",
+          "Encontraré al magistrado... Será él quien se explique personalmente."
+        ],
+        "fr": [
+          "Tif et Valens ne doivent pas être loin. Je n'ai été emprisonné que quelques heures...",
+          "Je trouverai le magistrat... il nous doit des explications."
+        ],
+        "it": [
+          "Tif e Valens non possono essere lontani. Sono rimasto imprigionato solo per poche ore...",
+          "Troverò il magistrato... saprà spiegarmi tutto."
+        ],
+        "ja": [
+          "ティフとヴァレンスは近くにいるはず。 ほんの数時間しか捕まっていなかったんだ。",
+          "あの判事め… 説明してもらわねば。"
+        ],
+        "ko": [
+          "티프랑 발렌스도 멀리 가진 못했을 거야. 내가 갇혀 있던 건 몇 시간밖에 안 되니까...",
+          "치안판사를 찾아야겠어. 자초지종을 말해 줄 거야."
+        ],
         "pt-br": [
           "Tif e Valens devem estar por perto. Fiquei preso só por algumas horas...",
           "Vou encontrar o Magistrado... ele vai se explicar."
+        ],
+        "ru": [
+          "Тиф и Валенс не могли уйти далеко. Я пробыл в заточении всего несколько часов.",
+          "Я найду Магистрата — он сам всё объяснит."
+        ],
+        "s-cn": [
+          "蒂芙和瓦伦斯应该不远。我才被关了几个小时……",
+          "我先找执政官吧。他必须给个解释。"
+        ],
+        "t-cn": [
+          "蒂芙和瓦倫斯應該不遠。我才被關了幾個小時……",
+          "我先找執政官吧。他必須給個解釋。"
         ]
       },
       "silentCues": [],
@@ -89,8 +170,35 @@
             "en": [
               "That Magistrate. We were courteous and professional, and he was so incredibly rude."
             ],
+            "de": [
+              "Dieser Magistrat. Wir waren höflich und professionell, und er war so unglaublich rüpelhaft."
+            ],
+            "es": [
+              "Ese magistrado. Nosotros nos comportamos de forma cortés y muy profesional, y él fue increíblemente grosero."
+            ],
+            "fr": [
+              "Ce magistrat. On était courtois et professionnels, et lui, incroyablement malpoli."
+            ],
+            "it": [
+              "Quel magistrato. Noi così cortesi e professionali, mentre lui è stato incredibilmente scortese."
+            ],
+            "ja": [
+              "あの判事… 礼儀正しかったワシらに対して 失礼極まりなかった。"
+            ],
+            "ko": [
+              "그 치안판사 말이야. 우린 예의 바르고 아주 프로답게 굴었는데, 그 자식은 정말 무례했지."
+            ],
             "pt-br": [
               "Aquele Magistrado. Fomos tão corteses e profissionais, e ele foi super grosseiro."
+            ],
+            "ru": [
+              "Тот Магистрат. Мы вели себя так вежливо и профессионально, а он был невероятно груб."
+            ],
+            "s-cn": [
+              "那执政官真是的，我们既彬彬有礼又尽显专业， 他倒好，粗鲁至极。"
+            ],
+            "t-cn": [
+              "那執政官真是的，我們既彬彬有禮又盡顯專業， 他倒好，粗魯至極。"
             ]
           },
           "provenance": {
@@ -110,8 +218,35 @@
         "en": [
           "That Magistrate. We were courteous and professional, and he was so incredibly rude."
         ],
+        "de": [
+          "Dieser Magistrat. Wir waren höflich und professionell, und er war so unglaublich rüpelhaft."
+        ],
+        "es": [
+          "Ese magistrado. Nosotros nos comportamos de forma cortés y muy profesional, y él fue increíblemente grosero."
+        ],
+        "fr": [
+          "Ce magistrat. On était courtois et professionnels, et lui, incroyablement malpoli."
+        ],
+        "it": [
+          "Quel magistrato. Noi così cortesi e professionali, mentre lui è stato incredibilmente scortese."
+        ],
+        "ja": [
+          "あの判事… 礼儀正しかったワシらに対して 失礼極まりなかった。"
+        ],
+        "ko": [
+          "그 치안판사 말이야. 우린 예의 바르고 아주 프로답게 굴었는데, 그 자식은 정말 무례했지."
+        ],
         "pt-br": [
           "Aquele Magistrado. Fomos tão corteses e profissionais, e ele foi super grosseiro."
+        ],
+        "ru": [
+          "Тот Магистрат. Мы вели себя так вежливо и профессионально, а он был невероятно груб."
+        ],
+        "s-cn": [
+          "那执政官真是的，我们既彬彬有礼又尽显专业， 他倒好，粗鲁至极。"
+        ],
+        "t-cn": [
+          "那執政官真是的，我們既彬彬有禮又盡顯專業， 他倒好，粗魯至極。"
         ]
       },
       "silentCues": [],

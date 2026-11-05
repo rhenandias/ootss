@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -33,6 +42,84 @@
               "Someone tends this place, so I should see him before long.",
               "I'll press forward."
             ],
+            "de": [
+              "Quigley,",
+              "kurz nachdem ich hindurchgetreten war, hat sich die Torstätte plötzlich geschlossen und ist verschwunden. Vorerst bin ich allein auf mich gestellt.",
+              "Ich vertraue darauf, dass du sie wieder öffnest, sobald du kannst. Bis dahin werde ich mich umsehen.",
+              "Ich werde eine Spur aus Signalgebern hinterlassen, falls du mir jemanden nachschickst,",
+              "und so viele Informationen wie möglich festhalten, für den Fall meines Verschwindens oder Ablebens.",
+              "Ich stehe in ... einem Vorraum. Die Einrichtung ist höchst seltsam. Sie gleicht keinem Werk eines mir bekannten Volkes, weder aus alter noch aus neuer Zeit.",
+              "Es hat tatsächlich den Anschein, dass dies eine vollkommen andere Welt ist.",
+              "Diese Kammern wurden für eine große Zusammenkunft angelegt, doch sie sind leer.",
+              "Die Oberflächen wirken wie neu gefertigt; keine Spur von Abnutzung, kein Staub.",
+              "Jemand hält diesen Ort instand, also dürfte ich diesem jemand bald begegnen.",
+              "Ich werde weiter vordringen."
+            ],
+            "es": [
+              "Señor Quigley,",
+              "Momentos después de atravesarlo, el umbral se cerró de golpe y desapareció. Por el momento estoy solo.",
+              "Confío en que lo reabrirás cuando puedas. Hasta entonces, echaré un vistazo.",
+              "Iré dejando un rastro de balizas, por si mandas a alguien tras de mí,",
+              "y dejaré por escrito toda la información que pueda, por si desaparezco o expiro.",
+              "Estoy en... una antesala. El mobiliario es muy extraño, nada parecido al trabajo de ningún pueblo que yo conozca, histórico o moderno.",
+              "Parece que este es, en efecto, un mundo completamente distinto.",
+              "Estas cámaras se construyeron para acoger grandes reuniones, pero están vacías.",
+              "Las superficies parecen recién hechas; ni rastro de desgaste, ni de polvo.",
+              "Alguien cuida este lugar, así que debería verlo pronto.",
+              "Seguiré adelante."
+            ],
+            "fr": [
+              "Monsieur Quigley,",
+              "Quelques instants après mon passage, la porte s'est brusquement refermée et a disparu. Je dois me débrouiller seul pour le moment.",
+              "J'espère que vous la rouvrirez dès que possible. En attendant, je vais inspecter les alentours.",
+              "Je laisserai une piste de balises, au cas où vous enverriez quelqu'un,",
+              "et noter tout ce que je peux, au cas où je disparaîtrais ou périrais.",
+              "Je me trouve dans... une antichambre. L'ameublement est très étrange, et ne semble être l'œuvre d'aucun peuple que je connaisse, ancien ou moderne.",
+              "Il semblerait donc qu'il s'agisse d'un tout autre monde.",
+              "Ces salles ont été conçues pour une grande assemblée, mais elles sont vides.",
+              "Les surfaces semblent neuves ; aucune trace d'usure, pas la moindre poussière.",
+              "Quelqu'un entretient cet endroit. Je devrais donc bientôt le rencontrer.",
+              "Je vais avancer."
+            ],
+            "it": [
+              "Signor Quigley,",
+              "Pochi istanti dopo il mio passaggio, la porta si è chiusa di colpo ed è scomparsa. Per il momento sono solo.",
+              "Confido che la riaprirete quando potrete. Fino ad allora, darò un'occhiata in giro.",
+              "Lascerò una scia di segnali, nel caso mandassi qualcuno a cercarmi,",
+              "e annoterò quante più informazioni possibile, nel caso in cui dovessi scomparire o morire.",
+              "Mi trovo in... un'anticamera. L'arredamento è molto strano, diverso dal lavoro di qualsiasi popolo che io conosca, antico o moderno.",
+              "Sembra davvero essere un mondo completamente diverso.",
+              "Queste stanze sono state costruite per ospitare una grande riunione, ma sono vuote.",
+              "Le superfici sembrano appena fatte; nessun segno di usura, né polvere.",
+              "Qualcuno si prende cura di questo posto, quindi dovrei incontrarlo a breve.",
+              "Andrò avanti."
+            ],
+            "ja": [
+              "クイグリーさん、",
+              "門が思いのほか 早く閉まってしまった。 一人で進むほかない。",
+              "門を再び開けてくれることを信じ、 少し辺りを探ってみる。",
+              "助けを寄越してくれた時のために ビーコンを残していこう。",
+              "そして私に万が一があった場合に備え できるだけ情報を残しておく。",
+              "ここは…待合室のようだ。 内装は非常に奇妙で 見覚えのない様式だ。",
+              "ここはまったくの別世界なのか？",
+              "大勢が集まるための場所のようだが、 誰もいない。 しかし視線を感じる。",
+              "表面は作られたばかりに見える。 摩耗の跡も、ほこりもない。",
+              "どこも埃ひとつない。 最近掃除されたなら、 誰かいるはずだ。",
+              "先へ進もう。"
+            ],
+            "ko": [
+              "퀴글리 군,",
+              "내가 통과한 지 얼마 안 돼, 출입구가 갑자기 닫히더니 사라졌어. 현재는 나 혼자뿐이야.",
+              "가능해지는 대로 다시 열어 주리라 믿어. 난 그때까지 주위를 둘러봐야겠군.",
+              "혹시 사람을 보낼 경우를 대비해 신호기로 흔적을 남겨두지.",
+              "혹시 내가 실종되거나 사망할 경우에 대비해 최대한 정보를 기록해 두겠어.",
+              "나는... 대기실에 서 있어. 가구가 매우 이상하군. 내가 아는 그 어떤 민족의 양식과도 달라. 옛날이든 지금이든 말이야.",
+              "이곳은 정말로 완전히 다른 세계일지도 모르겠군.",
+              "이 방은 많은 사람이 모일 수 있도록 만들어진 것 같은데 텅 비어 있어.",
+              "표면은 갓 만든 듯하고; 닳은 흔적도, 먼지도 없어.",
+              "누군가 이곳을 관리하고 있으니, 머지않아 그를 만나게 되겠군.",
+              "계속 앞으로 가겠어."
+            ],
             "pt-br": [
               "Sr. Quigley,",
               "Momentos depois de eu atravessar, a porta fechou de repente e desapareceu. Estou sozinho por enquanto.",
@@ -45,6 +132,45 @@
               "As superfícies parecem recém-feitas; sem sinais de desgaste, nem poeira.",
               "Alguém cuida deste lugar, então devo encontrá-lo em breve.",
               "Vou seguir em frente."
+            ],
+            "ru": [
+              "Мистер Квигли,",
+              "Через несколько мгновений после того, как я прошёл, проход внезапно закрылся и исчез. Пока я один.",
+              "Надеюсь, когда сможете, вы откроете его снова. А пока я осмотрюсь.",
+              "Я оставлю след из маяков, на случай, если вы отправите кого-то за мной,",
+              "и запишу всё, что смогу узнать, на случай моего исчезновения или гибели.",
+              "Я стою в... прихожей. Обстановка очень странная, не похожая на работу какого-либо народа, известного мне, древнего или современного.",
+              "Похоже, это и вправду совершенно другой мир.",
+              "Эти залы строились для больших собраний, но сейчас они пусты.",
+              "Поверхности выглядят новыми; ни следа износа, ни пылинки.",
+              "Кто-то ухаживает за этим местом, так что я вскоре должен его встретить.",
+              "Я пойду дальше."
+            ],
+            "s-cn": [
+              "奎格利先生，",
+              "我过来没多久，界门就突然关闭、消失了。 暂时只能靠我自己了。",
+              "我相信等你有能力时，就会重新打开它。 在那之前，我先四处看看。",
+              "我会沿途留下信标，以防你派人来找，",
+              "我也会尽量把所见所知记录下来，以防自己失踪或丧命。",
+              "我正站在……一间前厅里。 这里的陈设十分古怪，不像任何我所熟知的古今文明的作品。",
+              "这里看起来，确实是一个截然不同的世界。",
+              "这些厅房是为大型聚会建造的，现在却空无一人。",
+              "表面看起来像是刚建成的；没有磨损的痕迹，也没有灰尘。",
+              "有人打理着这个地方，所以用不了多久我就能见到他。",
+              "我继续前进。"
+            ],
+            "t-cn": [
+              "奎格利先生，",
+              "我過來沒多久，界門就突然關閉、消失了。 暫時只能靠我自己了。",
+              "我相信等你有能力時，就會重新打開它。 在那之前，我先四處看看。",
+              "我會沿途留下信標，以防你派人來找，",
+              "我也會儘量把所見所知記錄下來，以防自己失蹤或喪命。",
+              "我正站在……一間前廳裡。這裡的陳設十分古怪， 不像任何我所熟知的古今文明的作品。",
+              "這裡看起來，確實是一個截然不同的世界。",
+              "這些廳房是為大型聚會建造的，現在卻空無一人。",
+              "表面看起來像是剛建成的； 沒有磨損的痕跡，也沒有灰塵。",
+              "有人打理著這個地方， 所以用不了多久我就能見到他。",
+              "我繼續前進。"
             ]
           },
           "provenance": {
@@ -84,6 +210,84 @@
           "Someone tends this place, so I should see him before long.",
           "I'll press forward."
         ],
+        "de": [
+          "Quigley,",
+          "kurz nachdem ich hindurchgetreten war, hat sich die Torstätte plötzlich geschlossen und ist verschwunden. Vorerst bin ich allein auf mich gestellt.",
+          "Ich vertraue darauf, dass du sie wieder öffnest, sobald du kannst. Bis dahin werde ich mich umsehen.",
+          "Ich werde eine Spur aus Signalgebern hinterlassen, falls du mir jemanden nachschickst,",
+          "und so viele Informationen wie möglich festhalten, für den Fall meines Verschwindens oder Ablebens.",
+          "Ich stehe in ... einem Vorraum. Die Einrichtung ist höchst seltsam. Sie gleicht keinem Werk eines mir bekannten Volkes, weder aus alter noch aus neuer Zeit.",
+          "Es hat tatsächlich den Anschein, dass dies eine vollkommen andere Welt ist.",
+          "Diese Kammern wurden für eine große Zusammenkunft angelegt, doch sie sind leer.",
+          "Die Oberflächen wirken wie neu gefertigt; keine Spur von Abnutzung, kein Staub.",
+          "Jemand hält diesen Ort instand, also dürfte ich diesem jemand bald begegnen.",
+          "Ich werde weiter vordringen."
+        ],
+        "es": [
+          "Señor Quigley,",
+          "Momentos después de atravesarlo, el umbral se cerró de golpe y desapareció. Por el momento estoy solo.",
+          "Confío en que lo reabrirás cuando puedas. Hasta entonces, echaré un vistazo.",
+          "Iré dejando un rastro de balizas, por si mandas a alguien tras de mí,",
+          "y dejaré por escrito toda la información que pueda, por si desaparezco o expiro.",
+          "Estoy en... una antesala. El mobiliario es muy extraño, nada parecido al trabajo de ningún pueblo que yo conozca, histórico o moderno.",
+          "Parece que este es, en efecto, un mundo completamente distinto.",
+          "Estas cámaras se construyeron para acoger grandes reuniones, pero están vacías.",
+          "Las superficies parecen recién hechas; ni rastro de desgaste, ni de polvo.",
+          "Alguien cuida este lugar, así que debería verlo pronto.",
+          "Seguiré adelante."
+        ],
+        "fr": [
+          "Monsieur Quigley,",
+          "Quelques instants après mon passage, la porte s'est brusquement refermée et a disparu. Je dois me débrouiller seul pour le moment.",
+          "J'espère que vous la rouvrirez dès que possible. En attendant, je vais inspecter les alentours.",
+          "Je laisserai une piste de balises, au cas où vous enverriez quelqu'un,",
+          "et noter tout ce que je peux, au cas où je disparaîtrais ou périrais.",
+          "Je me trouve dans... une antichambre. L'ameublement est très étrange, et ne semble être l'œuvre d'aucun peuple que je connaisse, ancien ou moderne.",
+          "Il semblerait donc qu'il s'agisse d'un tout autre monde.",
+          "Ces salles ont été conçues pour une grande assemblée, mais elles sont vides.",
+          "Les surfaces semblent neuves ; aucune trace d'usure, pas la moindre poussière.",
+          "Quelqu'un entretient cet endroit. Je devrais donc bientôt le rencontrer.",
+          "Je vais avancer."
+        ],
+        "it": [
+          "Signor Quigley,",
+          "Pochi istanti dopo il mio passaggio, la porta si è chiusa di colpo ed è scomparsa. Per il momento sono solo.",
+          "Confido che la riaprirete quando potrete. Fino ad allora, darò un'occhiata in giro.",
+          "Lascerò una scia di segnali, nel caso mandassi qualcuno a cercarmi,",
+          "e annoterò quante più informazioni possibile, nel caso in cui dovessi scomparire o morire.",
+          "Mi trovo in... un'anticamera. L'arredamento è molto strano, diverso dal lavoro di qualsiasi popolo che io conosca, antico o moderno.",
+          "Sembra davvero essere un mondo completamente diverso.",
+          "Queste stanze sono state costruite per ospitare una grande riunione, ma sono vuote.",
+          "Le superfici sembrano appena fatte; nessun segno di usura, né polvere.",
+          "Qualcuno si prende cura di questo posto, quindi dovrei incontrarlo a breve.",
+          "Andrò avanti."
+        ],
+        "ja": [
+          "クイグリーさん、",
+          "門が思いのほか 早く閉まってしまった。 一人で進むほかない。",
+          "門を再び開けてくれることを信じ、 少し辺りを探ってみる。",
+          "助けを寄越してくれた時のために ビーコンを残していこう。",
+          "そして私に万が一があった場合に備え できるだけ情報を残しておく。",
+          "ここは…待合室のようだ。 内装は非常に奇妙で 見覚えのない様式だ。",
+          "ここはまったくの別世界なのか？",
+          "大勢が集まるための場所のようだが、 誰もいない。 しかし視線を感じる。",
+          "表面は作られたばかりに見える。 摩耗の跡も、ほこりもない。",
+          "どこも埃ひとつない。 最近掃除されたなら、 誰かいるはずだ。",
+          "先へ進もう。"
+        ],
+        "ko": [
+          "퀴글리 군,",
+          "내가 통과한 지 얼마 안 돼, 출입구가 갑자기 닫히더니 사라졌어. 현재는 나 혼자뿐이야.",
+          "가능해지는 대로 다시 열어 주리라 믿어. 난 그때까지 주위를 둘러봐야겠군.",
+          "혹시 사람을 보낼 경우를 대비해 신호기로 흔적을 남겨두지.",
+          "혹시 내가 실종되거나 사망할 경우에 대비해 최대한 정보를 기록해 두겠어.",
+          "나는... 대기실에 서 있어. 가구가 매우 이상하군. 내가 아는 그 어떤 민족의 양식과도 달라. 옛날이든 지금이든 말이야.",
+          "이곳은 정말로 완전히 다른 세계일지도 모르겠군.",
+          "이 방은 많은 사람이 모일 수 있도록 만들어진 것 같은데 텅 비어 있어.",
+          "표면은 갓 만든 듯하고; 닳은 흔적도, 먼지도 없어.",
+          "누군가 이곳을 관리하고 있으니, 머지않아 그를 만나게 되겠군.",
+          "계속 앞으로 가겠어."
+        ],
         "pt-br": [
           "Sr. Quigley,",
           "Momentos depois de eu atravessar, a porta fechou de repente e desapareceu. Estou sozinho por enquanto.",
@@ -96,6 +300,45 @@
           "As superfícies parecem recém-feitas; sem sinais de desgaste, nem poeira.",
           "Alguém cuida deste lugar, então devo encontrá-lo em breve.",
           "Vou seguir em frente."
+        ],
+        "ru": [
+          "Мистер Квигли,",
+          "Через несколько мгновений после того, как я прошёл, проход внезапно закрылся и исчез. Пока я один.",
+          "Надеюсь, когда сможете, вы откроете его снова. А пока я осмотрюсь.",
+          "Я оставлю след из маяков, на случай, если вы отправите кого-то за мной,",
+          "и запишу всё, что смогу узнать, на случай моего исчезновения или гибели.",
+          "Я стою в... прихожей. Обстановка очень странная, не похожая на работу какого-либо народа, известного мне, древнего или современного.",
+          "Похоже, это и вправду совершенно другой мир.",
+          "Эти залы строились для больших собраний, но сейчас они пусты.",
+          "Поверхности выглядят новыми; ни следа износа, ни пылинки.",
+          "Кто-то ухаживает за этим местом, так что я вскоре должен его встретить.",
+          "Я пойду дальше."
+        ],
+        "s-cn": [
+          "奎格利先生，",
+          "我过来没多久，界门就突然关闭、消失了。 暂时只能靠我自己了。",
+          "我相信等你有能力时，就会重新打开它。 在那之前，我先四处看看。",
+          "我会沿途留下信标，以防你派人来找，",
+          "我也会尽量把所见所知记录下来，以防自己失踪或丧命。",
+          "我正站在……一间前厅里。 这里的陈设十分古怪，不像任何我所熟知的古今文明的作品。",
+          "这里看起来，确实是一个截然不同的世界。",
+          "这些厅房是为大型聚会建造的，现在却空无一人。",
+          "表面看起来像是刚建成的；没有磨损的痕迹，也没有灰尘。",
+          "有人打理着这个地方，所以用不了多久我就能见到他。",
+          "我继续前进。"
+        ],
+        "t-cn": [
+          "奎格利先生，",
+          "我過來沒多久，界門就突然關閉、消失了。 暫時只能靠我自己了。",
+          "我相信等你有能力時，就會重新打開它。 在那之前，我先四處看看。",
+          "我會沿途留下信標，以防你派人來找，",
+          "我也會儘量把所見所知記錄下來，以防自己失蹤或喪命。",
+          "我正站在……一間前廳裡。這裡的陳設十分古怪， 不像任何我所熟知的古今文明的作品。",
+          "這裡看起來，確實是一個截然不同的世界。",
+          "這些廳房是為大型聚會建造的，現在卻空無一人。",
+          "表面看起來像是剛建成的； 沒有磨損的痕跡，也沒有灰塵。",
+          "有人打理著這個地方， 所以用不了多久我就能見到他。",
+          "我繼續前進。"
         ]
       },
       "silentCues": [],
@@ -139,6 +382,54 @@
               "There's something ahead ... I don't know where it leads.",
               "But of course I'm going through. Ever forward."
             ],
+            "de": [
+              "Quigley, es ist äußerst seltsam.",
+              "Hier sind Tafeln in einer unbekannten Sprache beschriftet, mit Zeichen, die ich noch nie gesehen habe, und doch ... weiß ich einfach, was sie bedeuten.",
+              "Diese ... Anlage ... wurde errichtet, um Fremde zu empfangen,",
+              "was den ausgeprägten Ausschlag bei unseren Sondierungen erklärt: Sie machen auf diesen Ort aufmerksam.",
+              "Da vorn ist etwas ... Ich weiß nicht, wohin es führt.",
+              "Aber natürlich gehe ich hindurch. Immer voran."
+            ],
+            "es": [
+              "Quigley, esto es muy extraño.",
+              "Hay placas con inscripciones en un idioma desconocido, unos glifos que nunca he visto, pero resulta que... sé lo que significan.",
+              "Esta... instalación... se construyó para recibir a extraños,",
+              "lo que explica el notable pico en las exploraciones: están publicitando este lugar.",
+              "Hay algo delante... No sé adónde lleva.",
+              "Pero, por supuesto, voy a seguir. Siempre adelante."
+            ],
+            "fr": [
+              "Quigley, C'est très étrange.",
+              "Il y a des plaques gravées dans une langue inconnue, des glyphes que je n'ai jamais vus auparavant, mais je... les comprends quand même.",
+              "Cette... installation... a été construite pour accueillir des étrangers,",
+              "ce qui explique le pic marqué dans nos relevés : ils font la publicité de cet endroit.",
+              "Il y a quelque chose devant... je ne sais pas où cela mène.",
+              "Mais j'y vais quand même, bien sûr. Toujours de l'avant."
+            ],
+            "it": [
+              "Quigley, è tutto molto strano.",
+              "Ci sono targhe incise in una lingua sconosciuta, glifi che non ho mai visto prima, ma io... semplicemente... so cosa significano.",
+              "Questa... struttura... è stata costruita per accogliere gli stranieri,",
+              "il che spiega il forte picco nelle segnalazioni: stanno pubblicizzando questo posto.",
+              "C'è qualcosa davanti a me... non so dove porti.",
+              "Ma naturalmente ci vado. Sempre avanti."
+            ],
+            "ja": [
+              "クイグリー、 不思議だ。",
+              "銘板に見知らぬ言語が 刻まれている。 なのに…意味がわかるのだ。",
+              "看板を見るに 誰かにここを見つけてほしかったのだろう。",
+              "だから探査で ここの反応が突出していた。 ここを「宣伝」していたのだ。",
+              "この先に何かがある… 一体どこへ飛ばされるのだろうか。",
+              "だがもちろん行く。 ひらすら前へ進むほかない。"
+            ],
+            "ko": [
+              "퀴글리, 참 이상한 일이야.",
+              "알 수 없는 언어가 각인된 명판들과 처음 보는 상형문자가 있어. 그런데 난 이상하게도... 그 뜻을 그냥 알겠어.",
+              "이... 시설은... 외부인을 맞이하기 위해 지어진 곳이야.",
+              "그래서 측정 결과에 유독 높은 수치가 나타났던 거군. 이곳을 광고하고 있었던 거야.",
+              "앞에 뭔가 있어... 어디로 이어질지 모르겠군.",
+              "하지만 당연히 갈 거야. 언제나 계속 전진하는 거지."
+            ],
             "pt-br": [
               "Quigley, isso é muito estranho.",
               "Há placas com inscrições em uma língua desconhecida, glifos que nunca vi antes, mas eu simplesmente... sei o que significam.",
@@ -146,6 +437,30 @@
               "o que explica o pico acentuado nos chamados: eles estão divulgando este lugar.",
               "Tem algo à frente... não sei aonde isso leva.",
               "Mas, claro, vou seguir em frente. Sempre adiante."
+            ],
+            "ru": [
+              "Квигли, это очень странно.",
+              "Тут есть таблички с надписями на неизвестном языке, глифы, которых я никогда прежде не видел, но я просто... понимаю, что они значат.",
+              "Этот... комплекс... построен для приёма чужаков,",
+              "что объясняет резкий всплеск сигналов: они рекламируют это место.",
+              "Впереди что-то есть... не знаю, куда это ведёт.",
+              "Но, разумеется, я иду дальше. Всегда вперёд."
+            ],
+            "s-cn": [
+              "奎格利，太奇怪了。",
+              "牌匾上刻着一种未知语言，那些字形我从未见过， 可我就是……知道它们的意思。",
+              "这座……设施……是为了接待外来者而建造的，",
+              "这也解释了探测时为什么会出现那么明显的峰值： 他们是在向外界宣告这里的存在。",
+              "前面还有东西……不知道它通往哪里。",
+              "不过我当然会进去。永远向前。"
+            ],
+            "t-cn": [
+              "奎格利，太奇怪了。",
+              "牌匾上刻著一種未知語言， 那些字形我從未見過，可我就是……知道它們的意思。",
+              "這座……設施……是為了接待外來者而建造的，",
+              "這也解釋了探測時為什麼會出現那麼明顯的峰值： 他們是在向外界宣告這裡的存在。",
+              "前面還有東西……不知道它通往哪裡。",
+              "不過我當然會進去。永遠向前。"
             ]
           },
           "provenance": {
@@ -175,6 +490,54 @@
           "There's something ahead ... I don't know where it leads.",
           "But of course I'm going through. Ever forward."
         ],
+        "de": [
+          "Quigley, es ist äußerst seltsam.",
+          "Hier sind Tafeln in einer unbekannten Sprache beschriftet, mit Zeichen, die ich noch nie gesehen habe, und doch ... weiß ich einfach, was sie bedeuten.",
+          "Diese ... Anlage ... wurde errichtet, um Fremde zu empfangen,",
+          "was den ausgeprägten Ausschlag bei unseren Sondierungen erklärt: Sie machen auf diesen Ort aufmerksam.",
+          "Da vorn ist etwas ... Ich weiß nicht, wohin es führt.",
+          "Aber natürlich gehe ich hindurch. Immer voran."
+        ],
+        "es": [
+          "Quigley, esto es muy extraño.",
+          "Hay placas con inscripciones en un idioma desconocido, unos glifos que nunca he visto, pero resulta que... sé lo que significan.",
+          "Esta... instalación... se construyó para recibir a extraños,",
+          "lo que explica el notable pico en las exploraciones: están publicitando este lugar.",
+          "Hay algo delante... No sé adónde lleva.",
+          "Pero, por supuesto, voy a seguir. Siempre adelante."
+        ],
+        "fr": [
+          "Quigley, C'est très étrange.",
+          "Il y a des plaques gravées dans une langue inconnue, des glyphes que je n'ai jamais vus auparavant, mais je... les comprends quand même.",
+          "Cette... installation... a été construite pour accueillir des étrangers,",
+          "ce qui explique le pic marqué dans nos relevés : ils font la publicité de cet endroit.",
+          "Il y a quelque chose devant... je ne sais pas où cela mène.",
+          "Mais j'y vais quand même, bien sûr. Toujours de l'avant."
+        ],
+        "it": [
+          "Quigley, è tutto molto strano.",
+          "Ci sono targhe incise in una lingua sconosciuta, glifi che non ho mai visto prima, ma io... semplicemente... so cosa significano.",
+          "Questa... struttura... è stata costruita per accogliere gli stranieri,",
+          "il che spiega il forte picco nelle segnalazioni: stanno pubblicizzando questo posto.",
+          "C'è qualcosa davanti a me... non so dove porti.",
+          "Ma naturalmente ci vado. Sempre avanti."
+        ],
+        "ja": [
+          "クイグリー、 不思議だ。",
+          "銘板に見知らぬ言語が 刻まれている。 なのに…意味がわかるのだ。",
+          "看板を見るに 誰かにここを見つけてほしかったのだろう。",
+          "だから探査で ここの反応が突出していた。 ここを「宣伝」していたのだ。",
+          "この先に何かがある… 一体どこへ飛ばされるのだろうか。",
+          "だがもちろん行く。 ひらすら前へ進むほかない。"
+        ],
+        "ko": [
+          "퀴글리, 참 이상한 일이야.",
+          "알 수 없는 언어가 각인된 명판들과 처음 보는 상형문자가 있어. 그런데 난 이상하게도... 그 뜻을 그냥 알겠어.",
+          "이... 시설은... 외부인을 맞이하기 위해 지어진 곳이야.",
+          "그래서 측정 결과에 유독 높은 수치가 나타났던 거군. 이곳을 광고하고 있었던 거야.",
+          "앞에 뭔가 있어... 어디로 이어질지 모르겠군.",
+          "하지만 당연히 갈 거야. 언제나 계속 전진하는 거지."
+        ],
         "pt-br": [
           "Quigley, isso é muito estranho.",
           "Há placas com inscrições em uma língua desconhecida, glifos que nunca vi antes, mas eu simplesmente... sei o que significam.",
@@ -182,6 +545,30 @@
           "o que explica o pico acentuado nos chamados: eles estão divulgando este lugar.",
           "Tem algo à frente... não sei aonde isso leva.",
           "Mas, claro, vou seguir em frente. Sempre adiante."
+        ],
+        "ru": [
+          "Квигли, это очень странно.",
+          "Тут есть таблички с надписями на неизвестном языке, глифы, которых я никогда прежде не видел, но я просто... понимаю, что они значат.",
+          "Этот... комплекс... построен для приёма чужаков,",
+          "что объясняет резкий всплеск сигналов: они рекламируют это место.",
+          "Впереди что-то есть... не знаю, куда это ведёт.",
+          "Но, разумеется, я иду дальше. Всегда вперёд."
+        ],
+        "s-cn": [
+          "奎格利，太奇怪了。",
+          "牌匾上刻着一种未知语言，那些字形我从未见过， 可我就是……知道它们的意思。",
+          "这座……设施……是为了接待外来者而建造的，",
+          "这也解释了探测时为什么会出现那么明显的峰值： 他们是在向外界宣告这里的存在。",
+          "前面还有东西……不知道它通往哪里。",
+          "不过我当然会进去。永远向前。"
+        ],
+        "t-cn": [
+          "奎格利，太奇怪了。",
+          "牌匾上刻著一種未知語言， 那些字形我從未見過，可我就是……知道它們的意思。",
+          "這座……設施……是為了接待外來者而建造的，",
+          "這也解釋了探測時為什麼會出現那麼明顯的峰值： 他們是在向外界宣告這裡的存在。",
+          "前面還有東西……不知道它通往哪裡。",
+          "不過我當然會進去。永遠向前。"
         ]
       },
       "silentCues": [],
@@ -220,8 +607,35 @@
             "en": [
               "Is this ... the afterlife?"
             ],
+            "de": [
+              "Ist dies ... das Jenseits?"
+            ],
+            "es": [
+              "¿Es esto... el más allá?"
+            ],
+            "fr": [
+              "Serait-ce... l'au-delà ?"
+            ],
+            "it": [
+              "Questo... è l'aldilà?"
+            ],
+            "ja": [
+              "ここは…あの世？"
+            ],
+            "ko": [
+              "이게... 사후세계인가?"
+            ],
             "pt-br": [
               "Isso aqui... é a vida após a morte?"
+            ],
+            "ru": [
+              "Это... загробный мир?"
+            ],
+            "s-cn": [
+              "这里……是死后的世界吗？"
+            ],
+            "t-cn": [
+              "這裡……是死後的世界嗎？"
             ]
           },
           "provenance": {
@@ -241,8 +655,35 @@
         "en": [
           "Is this ... the afterlife?"
         ],
+        "de": [
+          "Ist dies ... das Jenseits?"
+        ],
+        "es": [
+          "¿Es esto... el más allá?"
+        ],
+        "fr": [
+          "Serait-ce... l'au-delà ?"
+        ],
+        "it": [
+          "Questo... è l'aldilà?"
+        ],
+        "ja": [
+          "ここは…あの世？"
+        ],
+        "ko": [
+          "이게... 사후세계인가?"
+        ],
         "pt-br": [
           "Isso aqui... é a vida após a morte?"
+        ],
+        "ru": [
+          "Это... загробный мир?"
+        ],
+        "s-cn": [
+          "这里……是死后的世界吗？"
+        ],
+        "t-cn": [
+          "這裡……是死後的世界嗎？"
         ]
       },
       "silentCues": [],
@@ -282,9 +723,45 @@
               "Jackays! Conroe! Are you here?",
               "Any loyal soldier, stand count!"
             ],
+            "de": [
+              "Jackays! Conroe! Seid ihr hier?",
+              "Meine treuen Soldaten, meldet Euch!"
+            ],
+            "es": [
+              "¡Jackays! ¡Conroe! ¿Estáis aquí?",
+              "¡Que todo soldado leal se presente!"
+            ],
+            "fr": [
+              "Jackays ! Conroe ! Vous êtes là ?",
+              "Que tout soldat loyal se présente !"
+            ],
+            "it": [
+              "Jackays! Conroe! Siete qui?",
+              "Soldati leali, fate l'appello!"
+            ],
+            "ja": [
+              "ジャケイズ！コンロー！ ここにいるのか？",
+              "忠義ある兵なら、名乗り出よ！"
+            ],
+            "ko": [
+              "자카이스! 콘로! 거기 있나?",
+              "충성스러운 병사들이여, 모두 집합!"
+            ],
             "pt-br": [
               "Jackays! Conroe! Cadê vocês?",
               "Qualquer soldado leal, em posição!"
+            ],
+            "ru": [
+              "Джакейс! Конро! Вы здесь?",
+              "Любой верный солдат, стройся!"
+            ],
+            "s-cn": [
+              "杰凯斯！康罗！你们在这里吗？",
+              "忠诚的将士们，出来报到！"
+            ],
+            "t-cn": [
+              "傑凱斯！康羅！你們在這裡嗎？",
+              "忠誠的將士們，出來報到！"
             ]
           },
           "provenance": {
@@ -306,9 +783,45 @@
           "Jackays! Conroe! Are you here?",
           "Any loyal soldier, stand count!"
         ],
+        "de": [
+          "Jackays! Conroe! Seid ihr hier?",
+          "Meine treuen Soldaten, meldet Euch!"
+        ],
+        "es": [
+          "¡Jackays! ¡Conroe! ¿Estáis aquí?",
+          "¡Que todo soldado leal se presente!"
+        ],
+        "fr": [
+          "Jackays ! Conroe ! Vous êtes là ?",
+          "Que tout soldat loyal se présente !"
+        ],
+        "it": [
+          "Jackays! Conroe! Siete qui?",
+          "Soldati leali, fate l'appello!"
+        ],
+        "ja": [
+          "ジャケイズ！コンロー！ ここにいるのか？",
+          "忠義ある兵なら、名乗り出よ！"
+        ],
+        "ko": [
+          "자카이스! 콘로! 거기 있나?",
+          "충성스러운 병사들이여, 모두 집합!"
+        ],
         "pt-br": [
           "Jackays! Conroe! Cadê vocês?",
           "Qualquer soldado leal, em posição!"
+        ],
+        "ru": [
+          "Джакейс! Конро! Вы здесь?",
+          "Любой верный солдат, стройся!"
+        ],
+        "s-cn": [
+          "杰凯斯！康罗！你们在这里吗？",
+          "忠诚的将士们，出来报到！"
+        ],
+        "t-cn": [
+          "傑凱斯！康羅！你們在這裡嗎？",
+          "忠誠的將士們，出來報到！"
         ]
       },
       "silentCues": [],
@@ -347,8 +860,35 @@
             "en": [
               "Foreign script, but I understand it, somehow."
             ],
+            "de": [
+              "Fremde Schrift, und doch verstehe ich sie irgendwie."
+            ],
+            "es": [
+              "Es una escritura extranjera, pero, de alguna manera, la entiendo."
+            ],
+            "fr": [
+              "Une écriture étrangère, mais je la comprends, je ne sais comment."
+            ],
+            "it": [
+              "È una scrittura in una lingua straniera, ma la capisco, non so come."
+            ],
+            "ja": [
+              "知らない文字なのに なぜか読める。"
+            ],
+            "ko": [
+              "외국 문자인데, 웬일인지 이해가 되네."
+            ],
             "pt-br": [
               "Escrita estrangeira, mas eu entendo, de algum jeito."
+            ],
+            "ru": [
+              "Чужеземная письменность, но я каким-то образом её понимаю."
+            ],
+            "s-cn": [
+              "异域文字，可不知为何，我竟看得懂。"
+            ],
+            "t-cn": [
+              "異域文字，可不知為何，我竟看得懂。"
             ]
           },
           "provenance": {
@@ -368,8 +908,35 @@
         "en": [
           "Foreign script, but I understand it, somehow."
         ],
+        "de": [
+          "Fremde Schrift, und doch verstehe ich sie irgendwie."
+        ],
+        "es": [
+          "Es una escritura extranjera, pero, de alguna manera, la entiendo."
+        ],
+        "fr": [
+          "Une écriture étrangère, mais je la comprends, je ne sais comment."
+        ],
+        "it": [
+          "È una scrittura in una lingua straniera, ma la capisco, non so come."
+        ],
+        "ja": [
+          "知らない文字なのに なぜか読める。"
+        ],
+        "ko": [
+          "외국 문자인데, 웬일인지 이해가 되네."
+        ],
         "pt-br": [
           "Escrita estrangeira, mas eu entendo, de algum jeito."
+        ],
+        "ru": [
+          "Чужеземная письменность, но я каким-то образом её понимаю."
+        ],
+        "s-cn": [
+          "异域文字，可不知为何，我竟看得懂。"
+        ],
+        "t-cn": [
+          "異域文字，可不知為何，我竟看得懂。"
         ]
       },
       "silentCues": [],
@@ -408,8 +975,35 @@
             "en": [
               "Not too Heavenly, this."
             ],
+            "de": [
+              "Nicht gerade himmlisch hier."
+            ],
+            "es": [
+              "Esto no es muy celestial que digamos."
+            ],
+            "fr": [
+              "Ce n'est pas très céleste, tout ça."
+            ],
+            "it": [
+              "Non è molto celestiale tutto questo."
+            ],
+            "ja": [
+              "あまり天国らしくないわね。"
+            ],
+            "ko": [
+              "여긴 별로 천상 같지는 않네."
+            ],
             "pt-br": [
               "Nada celestial nisso."
+            ],
+            "ru": [
+              "Не слишком-то это похоже на рай."
+            ],
+            "s-cn": [
+              "此地可不太像天国。"
+            ],
+            "t-cn": [
+              "此地可不太像天國。"
             ]
           },
           "provenance": {
@@ -429,8 +1023,35 @@
         "en": [
           "Not too Heavenly, this."
         ],
+        "de": [
+          "Nicht gerade himmlisch hier."
+        ],
+        "es": [
+          "Esto no es muy celestial que digamos."
+        ],
+        "fr": [
+          "Ce n'est pas très céleste, tout ça."
+        ],
+        "it": [
+          "Non è molto celestiale tutto questo."
+        ],
+        "ja": [
+          "あまり天国らしくないわね。"
+        ],
+        "ko": [
+          "여긴 별로 천상 같지는 않네."
+        ],
         "pt-br": [
           "Nada celestial nisso."
+        ],
+        "ru": [
+          "Не слишком-то это похоже на рай."
+        ],
+        "s-cn": [
+          "此地可不太像天国。"
+        ],
+        "t-cn": [
+          "此地可不太像天國。"
         ]
       },
       "silentCues": [],
@@ -470,9 +1091,45 @@
               "Hosts of this place, show yourselves!",
               "Your guest demands it."
             ],
+            "de": [
+              "Gastgeber dieses Ortes, zeigt euch!",
+              "Euer Gast verlangt es."
+            ],
+            "es": [
+              "Anfitriones de este lugar, ¡mostraos!",
+              "Vuestra invitada os lo exige."
+            ],
+            "fr": [
+              "Hôtes de ce lieu, montrez-vous !",
+              "Votre invitée l'exige."
+            ],
+            "it": [
+              "Abitanti di questo luogo, mostratevi!",
+              "Il vostro ospite lo richiede."
+            ],
+            "ja": [
+              "この地の主よ、 姿を見せよ！",
+              "客人の要求である。"
+            ],
+            "ko": [
+              "이곳의 주인이여, 모습을 드러내라!",
+              "너희의 손님이 요구한다."
+            ],
             "pt-br": [
               "Anfitriões deste lugar, apareçam!",
               "Sua convidada exige."
+            ],
+            "ru": [
+              "Хозяева этого места, явите себя!",
+              "Ваша гостья этого требует."
+            ],
+            "s-cn": [
+              "此地的主人，现身吧！",
+              "你们的客人有令。"
+            ],
+            "t-cn": [
+              "此地的主人，現身吧！",
+              "你們的客人有令。"
             ]
           },
           "provenance": {
@@ -494,9 +1151,45 @@
           "Hosts of this place, show yourselves!",
           "Your guest demands it."
         ],
+        "de": [
+          "Gastgeber dieses Ortes, zeigt euch!",
+          "Euer Gast verlangt es."
+        ],
+        "es": [
+          "Anfitriones de este lugar, ¡mostraos!",
+          "Vuestra invitada os lo exige."
+        ],
+        "fr": [
+          "Hôtes de ce lieu, montrez-vous !",
+          "Votre invitée l'exige."
+        ],
+        "it": [
+          "Abitanti di questo luogo, mostratevi!",
+          "Il vostro ospite lo richiede."
+        ],
+        "ja": [
+          "この地の主よ、 姿を見せよ！",
+          "客人の要求である。"
+        ],
+        "ko": [
+          "이곳의 주인이여, 모습을 드러내라!",
+          "너희의 손님이 요구한다."
+        ],
         "pt-br": [
           "Anfitriões deste lugar, apareçam!",
           "Sua convidada exige."
+        ],
+        "ru": [
+          "Хозяева этого места, явите себя!",
+          "Ваша гостья этого требует."
+        ],
+        "s-cn": [
+          "此地的主人，现身吧！",
+          "你们的客人有令。"
+        ],
+        "t-cn": [
+          "此地的主人，現身吧！",
+          "你們的客人有令。"
         ]
       },
       "silentCues": [],
@@ -536,9 +1229,45 @@
               "You who call yourselves Sinking Star!",
               "If you want to help me, send me back to my men."
             ],
+            "de": [
+              "Ihr, die ihr euch Sinkender Stern nennt!",
+              "Wenn ihr mir helfen wollt, dann schickt mich zurück zu meinen Männern."
+            ],
+            "es": [
+              "¡Vosotros, los que os hacéis llamar Estrella del Ocaso!",
+              "Si queréis ayudarme, enviadme de vuelta con mis tropas."
+            ],
+            "fr": [
+              "Vous qui vous faites appeler l'Étoile engloutie !",
+              "Si vous voulez m'aider, renvoyez-moi auprès de mes hommes."
+            ],
+            "it": [
+              "Voi che vi fate chiamare Sinking Star!",
+              "Se volete aiutarmi, rimandatemi dai miei uomini."
+            ],
+            "ja": [
+              "「沈み行く星の教団」と名乗る 者たちよ！",
+              "ただちに私を 臣下のもとへ帰せ。"
+            ],
+            "ko": [
+              "스스로를 가라앉는 별이라고 부르는 자여!",
+              "날 돕고 싶다면, 날 내 부하들에게 돌려보내 다오."
+            ],
             "pt-br": [
               "Vocês que se chamam de Sinking Star!",
               "Se querem me ajudar, me mandem de volta para o meu grupo."
+            ],
+            "ru": [
+              "Вы, кто зовёте себя Тонущей звездой!",
+              "Если хотите помочь, верните меня к моим людям."
+            ],
+            "s-cn": [
+              "自称“沉星之序”的诸位！",
+              "若真想助我，就送我回到部下身边。"
+            ],
+            "t-cn": [
+              "自稱「沉星之序」的諸位！",
+              "若真想助我，就送我回到部下身邊。"
             ]
           },
           "provenance": {
@@ -560,9 +1289,45 @@
           "You who call yourselves Sinking Star!",
           "If you want to help me, send me back to my men."
         ],
+        "de": [
+          "Ihr, die ihr euch Sinkender Stern nennt!",
+          "Wenn ihr mir helfen wollt, dann schickt mich zurück zu meinen Männern."
+        ],
+        "es": [
+          "¡Vosotros, los que os hacéis llamar Estrella del Ocaso!",
+          "Si queréis ayudarme, enviadme de vuelta con mis tropas."
+        ],
+        "fr": [
+          "Vous qui vous faites appeler l'Étoile engloutie !",
+          "Si vous voulez m'aider, renvoyez-moi auprès de mes hommes."
+        ],
+        "it": [
+          "Voi che vi fate chiamare Sinking Star!",
+          "Se volete aiutarmi, rimandatemi dai miei uomini."
+        ],
+        "ja": [
+          "「沈み行く星の教団」と名乗る 者たちよ！",
+          "ただちに私を 臣下のもとへ帰せ。"
+        ],
+        "ko": [
+          "스스로를 가라앉는 별이라고 부르는 자여!",
+          "날 돕고 싶다면, 날 내 부하들에게 돌려보내 다오."
+        ],
         "pt-br": [
           "Vocês que se chamam de Sinking Star!",
           "Se querem me ajudar, me mandem de volta para o meu grupo."
+        ],
+        "ru": [
+          "Вы, кто зовёте себя Тонущей звездой!",
+          "Если хотите помочь, верните меня к моим людям."
+        ],
+        "s-cn": [
+          "自称“沉星之序”的诸位！",
+          "若真想助我，就送我回到部下身边。"
+        ],
+        "t-cn": [
+          "自稱「沉星之序」的諸位！",
+          "若真想助我，就送我回到部下身邊。"
         ]
       },
       "silentCues": [],
@@ -601,8 +1366,35 @@
             "en": [
               "The raid must be yet ongoing. I've got to find my way back."
             ],
+            "de": [
+              "Der Überfall muss noch im Gange sein. Ich muss einen Weg zurückfinden."
+            ],
+            "es": [
+              "La incursión debe de seguir en marcha. Tengo que encontrar el camino de vuelta."
+            ],
+            "fr": [
+              "L'attaque doit encore être en cours. Je dois trouver le chemin du retour."
+            ],
+            "it": [
+              "L'incursione deve essere ancora in corso. Devo trovare la strada per tornare."
+            ],
+            "ja": [
+              "戦いはまだ続いているはず。 戻らなければ。"
+            ],
+            "ko": [
+              "약탈은 진행 중이겠지. 다시 돌아갈 길을 찾아야 해."
+            ],
             "pt-br": [
               "O ataque deve ainda estar acontecendo. Preciso achar meu caminho de volta."
+            ],
+            "ru": [
+              "Набег, должно быть, всё ещё идёт. Мне нужно найти дорогу назад."
+            ],
+            "s-cn": [
+              "突袭想必仍在继续。我必须设法回去。"
+            ],
+            "t-cn": [
+              "突襲想必仍在繼續。我必須設法回去。"
             ]
           },
           "provenance": {
@@ -622,8 +1414,35 @@
         "en": [
           "The raid must be yet ongoing. I've got to find my way back."
         ],
+        "de": [
+          "Der Überfall muss noch im Gange sein. Ich muss einen Weg zurückfinden."
+        ],
+        "es": [
+          "La incursión debe de seguir en marcha. Tengo que encontrar el camino de vuelta."
+        ],
+        "fr": [
+          "L'attaque doit encore être en cours. Je dois trouver le chemin du retour."
+        ],
+        "it": [
+          "L'incursione deve essere ancora in corso. Devo trovare la strada per tornare."
+        ],
+        "ja": [
+          "戦いはまだ続いているはず。 戻らなければ。"
+        ],
+        "ko": [
+          "약탈은 진행 중이겠지. 다시 돌아갈 길을 찾아야 해."
+        ],
         "pt-br": [
           "O ataque deve ainda estar acontecendo. Preciso achar meu caminho de volta."
+        ],
+        "ru": [
+          "Набег, должно быть, всё ещё идёт. Мне нужно найти дорогу назад."
+        ],
+        "s-cn": [
+          "突袭想必仍在继续。我必须设法回去。"
+        ],
+        "t-cn": [
+          "突襲想必仍在繼續。我必須設法回去。"
         ]
       },
       "silentCues": [],
@@ -662,8 +1481,35 @@
             "en": [
               "Foreign transport, please take me home."
             ],
+            "de": [
+              "Fremdes Gefährt, bring mich bitte heim."
+            ],
+            "es": [
+              "Transporte extranjero, te ruego que me lleves a casa."
+            ],
+            "fr": [
+              "Transport étranger, ramenez-moi chez moi."
+            ],
+            "it": [
+              "Trasporto straniero, portami a casa, ti prego."
+            ],
+            "ja": [
+              "異界の装置、 どうか私を家に帰して。"
+            ],
+            "ko": [
+              "낯선 이동 장치여, 제발 날 집으로 데려다줘."
+            ],
             "pt-br": [
               "Transporte estrangeiro, me leve pra casa."
+            ],
+            "ru": [
+              "Чужеземный транспорт, пожалуйста, отвези меня домой."
+            ],
+            "s-cn": [
+              "异域的传送装置，请送我回家。"
+            ],
+            "t-cn": [
+              "異域的傳送裝置，請送我回家。"
             ]
           },
           "provenance": {
@@ -683,8 +1529,35 @@
         "en": [
           "Foreign transport, please take me home."
         ],
+        "de": [
+          "Fremdes Gefährt, bring mich bitte heim."
+        ],
+        "es": [
+          "Transporte extranjero, te ruego que me lleves a casa."
+        ],
+        "fr": [
+          "Transport étranger, ramenez-moi chez moi."
+        ],
+        "it": [
+          "Trasporto straniero, portami a casa, ti prego."
+        ],
+        "ja": [
+          "異界の装置、 どうか私を家に帰して。"
+        ],
+        "ko": [
+          "낯선 이동 장치여, 제발 날 집으로 데려다줘."
+        ],
         "pt-br": [
           "Transporte estrangeiro, me leve pra casa."
+        ],
+        "ru": [
+          "Чужеземный транспорт, пожалуйста, отвези меня домой."
+        ],
+        "s-cn": [
+          "异域的传送装置，请送我回家。"
+        ],
+        "t-cn": [
+          "異域的傳送裝置，請送我回家。"
         ]
       },
       "silentCues": [],
@@ -735,6 +1608,96 @@
               "and look at the Dao in all its particular details, to understand how this creative process works?",
               "Some of us still think the answer is No."
             ],
+            "de": [
+              "Es gibt ein uraltes Buch unseres Volkes – es ist aus Bruchstücken zusammengesetzt worden, also nie ganz verlässlich –",
+              "doch es beschreibt, wie das Universum entsteht: aus einem fundamentalen Ganzen, das allem zugrunde liegt, was wir sehen.",
+              "Zunächst bringt dieses Ganze, das Dao, irgendwie das Eine hervor.",
+              "Vorerst vereinfachen wir die Sache und stellen uns darunter vor, dass das Dao sich selbst identifiziert.",
+              "Das ist höchst fragwürdig, aber irgendwo müssen wir anfangen. Wie dem auch sei.",
+              "Dann, so heißt es in dem Buch, bringt das Eine zwei hervor, zwei bringen drei hervor, und drei bringen all die zehntausend Dinge hervor –",
+              "alles, was wir in der Schöpfung beobachten.",
+              "Der Text ist rätselhaft und knapp; doch zusammen mit dem, was wir bereits besprochen haben,",
+              "kannst du dir denken, worauf der Orden hinauswill.",
+              "Statt bloß die Ergebnisse dieses schöpferischen Prozesses hinzunehmen, können wir ihn uns genauer ansehen?",
+              "Können wir ein Mikroskop erschaffen, mit dem wir ganz nah herangehen",
+              "und das Dao in all seinen Einzelheiten betrachten, um zu verstehen, wie dieser schöpferische Prozess funktioniert?",
+              "Manche von uns meinen noch immer, die Antwort laute: Nein."
+            ],
+            "es": [
+              "Hay un antiguo libro de nuestra gente, que se recompuso a partir de fragmentos, así que nunca fue del todo fiable,",
+              "pero describe el universo que emerge de un todo fundamental que subyace a todo lo que vemos.",
+              "Primero, sin saber cómo, ese todo, el Dao, da lugar al Uno.",
+              "Por ahora seremos simplistas y pensaremos en el fenómeno como el Dao identificándose a sí mismo.",
+              "Es profundamente cuestionable, pero por algún sitio hay que empezar. En fin.",
+              "Luego, el libro afirma que el Uno produce dos, dos producen tres, y tres producen las diez mil cosas...",
+              "todo lo que observamos en la Creación.",
+              "El texto es misterioso y mínimo; pero, combinado con lo que ya hemos comentado,",
+              "permite adivinar por dónde va la Orden.",
+              "En lugar de aceptar sin más los resultados de este proceso creativo, ¿podemos examinarlo más de cerca?",
+              "¿Podemos crear un microscopio que nos ayude a acercarnos",
+              "y a observar el Dao en todos sus detalles particulares, para entender cómo funciona este proceso creativo?",
+              "Algunos seguimos pensando que la respuesta es no."
+            ],
+            "fr": [
+              "Il existe un ancien livre de notre peuple – il a été reconstitué à partir de fragments, il n'est donc jamais totalement fiable –",
+              "mais il décrit l'univers émergeant d'un tout fondamental qui sous-tend tout ce que nous voyons.",
+              "D'abord, d'une certaine manière, ce tout, le Tao, fait naître l'Un.",
+              "Nous allons rester simplistes pour l'instant et considérer cela comme le Tao se reconnaissant lui-même.",
+              "C'est profondément discutable, mais il faut bien commencer quelque part. Bref.",
+              "Puis, dit le livre, l'Un produit le deux, le deux produit le trois, et le trois produit les dix mille choses –",
+              "tout ce que nous observons dans la Création.",
+              "Le texte est mystérieux et minimal ; mais, combiné à ce que nous avons déjà évoqué,",
+              "vous pouvez deviner les intentions de l'Ordre.",
+              "Au lieu de simplement accepter les résultats de ce processus créatif, pouvons-nous l'examiner de plus près ?",
+              "Pouvons-nous créer un microscope pour nous aider à zoomer",
+              "et à observer le Tao dans tous ses détails, pour comprendre comment ce processus créatif fonctionne ?",
+              "Certains d'entre nous pensent encore que la réponse est non."
+            ],
+            "it": [
+              "C'è un antico libro del nostro popolo... è stato ricomposto da frammenti, quindi non è mai stato del tutto affidabile...",
+              "ma descrive l'universo che emerge da un tutto fondamentale che sta alla base di tutto ciò che vediamo.",
+              "Per prima cosa, in qualche modo questo tutto, il Dao, dà origine all'Uno.",
+              "Per ora saremo semplicistici e penseremo che questo sia il Dao che si identifica da sé.",
+              "È profondamente discutibile, ma da qualche parte bisogna pur cominciare. Comunque.",
+              "Poi il libro dice: l'Uno generò il Due, il Due generò il Tre, il Tre generò le diecimila cose...",
+              "cioè tutto ciò che possiamo osservare nella creazione.",
+              "Il testo è misterioso ed essenziale ma, insieme a quanto abbiamo già discusso,",
+              "puoi intuire l'angolazione dell'Ordine.",
+              "Invece di accettare soltanto i risultati di questo processo creativo, possiamo osservarlo più da vicino?",
+              "Possiamo creare un microscopio che ci aiuti a ingrandire",
+              "e a guardare il Dao in tutti i suoi particolari, per capire come funziona questo processo creativo?",
+              "Alcuni di noi pensano ancora che la risposta sia no."
+            ],
+            "ja": [
+              "我々には古い書物がある。 再構成されたものだから、 正確とは限らないが――",
+              "そこに、宇宙はほぼ無から 生じたと書かれている。",
+              "最初に、ある存在が生まれたのだ。 それから書にはこうある。",
+              "たとえそれが空間全体を占めていても、 生まれる前には 存在しなかった。",
+              "ひとつのものが生まれた瞬間、 別のものも生まれる。",
+              "一は二を生み、 二は三を生み、 三は万物を生む。",
+              "これで2つできた。 Aと非Aだ。",
+              "謎めいていて簡素だが、 現代的に解釈すれば",
+              "そして2つのものがあれば その「違い」も存在する。",
+              "境界、あるいは 互いに別物であるという 関係そのものだ。",
+              "これはAとその区別…",
+              "つまり、1つあれば 3つあることになる。",
+              "別の哲学者はこれを 「第一の区別」と呼んだ。"
+            ],
+            "ko": [
+              "우리 민족에 전해지는 아주 오래된 책이 하나 있죠. 여러 파편을 모아 복원한 거라 완전히 신뢰할 순 없지만...",
+              "그 책에서는 우리가 보는 모든 것의 근간을 이루는 근원적인 하나의 전체로부터 우주가 생겨났다고 설명해.",
+              "먼저, 어떻게든 이 전체, 즉 도가 하나를 낳는 거야.",
+              "일단은 단순하게 생각해서 이걸 도가 스스로를 인식하는 거라고 해 두자.",
+              "상당히 논란의 여지가 있지만 어디서든 시작은 해야 하니까. 아무튼.",
+              "그다음 책에서는 이렇게 말해. 하나는 둘을 낳고, 둘은 셋을 낳고, 셋은 만물을 낳는다...",
+              "즉, 우리가 창조 속에서 관찰하는 모든 것을 말이야.",
+              "원문은 신비롭고 간결하지만 지금까지 이야기한 내용과 함께 생각해 보면",
+              "우리 결사단이 어떤 관점으로 보는지 짐작할 수 있을 거야.",
+              "이 창조 과정의 결과를 그저 받아들이는 대신, 좀 더 자세히 들여다볼 수는 없을까?",
+              "현미경 같은 걸 만들어서 확대해 볼 수는 없을까?",
+              "도를 아주 자세히 살펴보고, 이 창조 과정이 어떻게 작동하는지 이해할 수 있게 말이지.",
+              "아직도 불가능하다고 생각하는 이들이 있지."
+            ],
             "pt-br": [
               "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
               "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
@@ -749,6 +1712,51 @@
               "Podemos criar um microscópio para nos ajudar a ampliar",
               "e olhar o Dao em todos os seus detalhes, para entender como esse processo criativo funciona?",
               "Alguns de nós ainda acham que a resposta é “Não”."
+            ],
+            "ru": [
+              "У нашего народа есть древняя книга — она была пересобрана из обрывков, так что на нее никогда нельзя было полностью положиться —",
+              "но в ней описано возникновение вселенной из фундаментального целого, лежащего в основе всего, что мы видим.",
+              "Сначала, каким-то образом, это целое, Дао, порождает Одно.",
+              "Пока что мы будем упрощать и считать, что это Дао определяет само себя.",
+              "Это крайне спорно, но начинать с чего-то надо. В общем.",
+              "Затем, как говорится в книге, Одно порождает два, два порождают три, а три порождают все десять тысяч вещей —",
+              "всё, что мы наблюдаем в Творении.",
+              "Текст загадочен и минималистичен; но в сочетании с тем, о чём мы уже говорили,",
+              "вы можете догадаться, к чему клонит Орден.",
+              "Вместо того чтобы просто принимать результаты этого творческого процесса, можем ли мы рассмотреть его внимательнее?",
+              "Можем ли мы создать микроскоп и приблизить",
+              "и рассмотреть Дао во всех подробностях, чтобы понять, как работает этот творческий процесс?",
+              "Некоторые из нас всё ещё считают, что ответ — «нет»."
+            ],
+            "s-cn": [
+              "我们一族有一本古书—— 它是用残篇拼凑复原的，因此不能尽信——",
+              "不过它讲的是：宇宙如何从万物背后的统一根源中诞生。",
+              "首先，不知怎的，这个浑然一体的“道”生出了“一”。",
+              "我们先往简单了说： 就把这理解为“道”第一次给自己划出界限。",
+              "这其实很值得质疑，不过总得先找个起点。总之……",
+              "随后书中写道：一生二，二生三，三生万物——",
+              "我们在造物中观察到的一切。",
+              "文字神秘而简练；不过结合我们已经谈过的内容，",
+              "你大概能猜到沉星之序对此会怎么看。",
+              "我们能否不只接受创造出的结果， 而是仔细研究创造本身是如何发生的？",
+              "我们能否造一台显微镜，用它放大细节，",
+              "并看清“道”的一切具体细节， 理解这个创造过程如何运作？",
+              "我们当中仍有人认为，答案是“不能”。"
+            ],
+            "t-cn": [
+              "我們一族有一本古書—— 它是用殘篇拼湊復原的，因此不能盡信——",
+              "不過它講的是：宇宙如何從萬物背後的統一根源中誕生。",
+              "首先，不知怎的，這個渾然一體的「道」生出了「一」。",
+              "我們先往簡單了說： 就把這理解為「道」第一次給自己劃出界限。",
+              "這其實很值得質疑，不過總得先找個起點。總之……",
+              "隨後書中寫道：一生二，二生三，三生萬物——",
+              "我們在造物中觀察到的一切。",
+              "文字神秘而簡練；不過結合我們已經談過的內容，",
+              "你大概能猜到沉星之序對此會怎麼看。",
+              "我們能否不只接受創造出的結果， 而是仔細研究創造本身是如何發生的？",
+              "我們能否造一臺顯微鏡，用它放大細節，",
+              "並看清「道」的一切具體細節， 理解這個創造過程如何運作？",
+              "我們當中仍有人認為，答案是「不能」。"
             ]
           },
           "provenance": {
@@ -781,8 +1789,35 @@
             "en": [
               "We have an idea that our universe began with an immense explosion."
             ],
+            "de": [
+              "Wir gehen davon aus, dass unser Universum mit einer gewaltigen Explosion begonnen hat."
+            ],
+            "es": [
+              "Tenemos la idea de que nuestro universo empezó con una explosión inmensa."
+            ],
+            "fr": [
+              "Nous avons une théorie comme quoi notre univers a commencé par une immense explosion."
+            ],
+            "it": [
+              "Abbiamo l'idea che il nostro universo sia iniziato con un'esplosione immensa."
+            ],
+            "ja": [
+              "私たちの宇宙は、巨大な爆発から始まった という考え方があります。"
+            ],
+            "ko": [
+              "우리 우주는 거대한 폭발로 시작됐다는 생각이 있어."
+            ],
             "pt-br": [
               "Temos uma ideia de que nosso universo começou com uma explosão imensa."
+            ],
+            "ru": [
+              "У нас есть представление о том, что наша вселенная началась с колоссального взрыва."
+            ],
+            "s-cn": [
+              "我们有个想法，认为自己的宇宙始于一场极其剧烈的爆炸。"
+            ],
+            "t-cn": [
+              "我們有個想法， 認為自己的宇宙始於一場極其劇烈的爆炸。"
             ]
           },
           "provenance": {
@@ -805,10 +1840,55 @@
               "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
               "but, somewhere more fundamental. Any physical explosion is just a surface echo."
             ],
+            "de": [
+              "Das haben wir früher auch gedacht. Und nun ja, rein äußerlich betrachtet war es wohl auch so ... aber die Mechanismen, die dem zugrunde liegen, sind gar nicht so instabil.",
+              "Wenn du ein Bild brauchst, kannst du dir diese Sache mit dem Dao als Beschreibung einer Explosion vorstellen, die das Universum erschaffen hat,",
+              "allerdings auf einer grundlegenderen Ebene. Jede physische Explosion ist nur ein Echo an der Oberfläche."
+            ],
+            "es": [
+              "Nosotros también, una vez. Y, bueno, a simple vista más o menos fue así... pero cuando miras los mecanismos subyacentes, no son tan inestables.",
+              "Si quieres una imagen, puedes pensar en todo esto del Dao como la descripción de una explosión que creó el Universo,",
+              "pero en un plano más fundamental. Cualquier explosión física no es más que un eco superficial."
+            ],
+            "fr": [
+              "Nous aussi, autrefois. Et, à en juger par les apparences, c'est un peu ce qui s'est passé... mais quand on regarde les mécanismes sous-jacents, ils ne sont pas aussi instables que ça.",
+              "Si vous voulez une image, vous pouvez considérer cette histoire de Tao comme la description d'une explosion qui a créé l'Univers,",
+              "mais, à un niveau plus fondamental. Toute explosion physique n'en est qu'un écho en surface."
+            ],
+            "it": [
+              "Anche noi, una volta. E, beh, stando alle apparenze fisiche in un certo senso sì... ma quando guardi i meccanismi di fondo, non sono così instabili.",
+              "Se vuoi un'immagine, puoi pensare a questa faccenda del Dao come alla descrizione di un'esplosione che ha creato l'universo,",
+              "ma, a un livello più fondamentale. Qualsiasi esplosione fisica è solo un'eco superficiale."
+            ],
+            "ja": [
+              "そしてその関係同士にも関係が生まれ―― たちまち、目が回るほど間接的になっていく。",
+              "だがこれで我々の研究内容が 少し見えたはずだ。",
+              "そこから同じ過程が繰り返される。 すべての構成要素どうしに 関係が生まれるからだ。"
+            ],
+            "ko": [
+              "우리도 한때는 그랬어. 뭐, 물리적으로 보면 어느 정도는 맞지... 하지만 그 밑바탕의 작동 원리를 보면, 그렇게 불안정하지는 않아.",
+              "머릿속에 그려 보고 싶다면, 이 도에 관한 이야기를 우주를 창조한 폭발에 대한 묘사라고 생각해도 돼.",
+              "다만, 좀 더 근본적인 곳에서 일어나는 폭발이지. 물리적인 폭발은 모두 표면에 울리는 메아리일 뿐이야."
+            ],
             "pt-br": [
               "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
               "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
               "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+            ],
+            "ru": [
+              "Когда-то мы тоже так думали. И, ну, внешне так оно вроде бы и было... но если взглянуть на механизмы в основе, они не так уж нестабильны.",
+              "Если нужен образ, можно представить, что это даосское учение описывает взрыв, создавший Вселенную,",
+              "но где-то на более фундаментальном уровне. Любой физический взрыв — лишь поверхностное эхо."
+            ],
+            "s-cn": [
+              "我们也曾这么想。嗯，表面看来的确如此…… 可一旦深入底层机制，就会发现它们其实没那么不稳定。",
+              "如果想要一个直观的画面， 可以把这套“道”的说法理解成一场创造宇宙的爆炸，",
+              "但发生在更加根本的层面。 任何物理爆炸都只是表层的回响。"
+            ],
+            "t-cn": [
+              "我們也曾這麼想。嗯，表面看來的確如此…… 可一旦深入底層機制， 就會發現它們其實沒那麼不穩定。",
+              "如果想要一個直觀的畫面， 可以把這套「道」的說法理解成 一場創造宇宙的爆炸，",
+              "但發生在更加根本的層面。 任何物理爆炸都只是表層的迴響。"
             ]
           },
           "provenance": {
@@ -846,6 +1926,120 @@
           "If you want an image, you can think of this Dao business as describing an explosion that created the Universe,",
           "but, somewhere more fundamental. Any physical explosion is just a surface echo."
         ],
+        "de": [
+          "Es gibt ein uraltes Buch unseres Volkes – es ist aus Bruchstücken zusammengesetzt worden, also nie ganz verlässlich –",
+          "doch es beschreibt, wie das Universum entsteht: aus einem fundamentalen Ganzen, das allem zugrunde liegt, was wir sehen.",
+          "Zunächst bringt dieses Ganze, das Dao, irgendwie das Eine hervor.",
+          "Vorerst vereinfachen wir die Sache und stellen uns darunter vor, dass das Dao sich selbst identifiziert.",
+          "Das ist höchst fragwürdig, aber irgendwo müssen wir anfangen. Wie dem auch sei.",
+          "Dann, so heißt es in dem Buch, bringt das Eine zwei hervor, zwei bringen drei hervor, und drei bringen all die zehntausend Dinge hervor –",
+          "alles, was wir in der Schöpfung beobachten.",
+          "Der Text ist rätselhaft und knapp; doch zusammen mit dem, was wir bereits besprochen haben,",
+          "kannst du dir denken, worauf der Orden hinauswill.",
+          "Statt bloß die Ergebnisse dieses schöpferischen Prozesses hinzunehmen, können wir ihn uns genauer ansehen?",
+          "Können wir ein Mikroskop erschaffen, mit dem wir ganz nah herangehen",
+          "und das Dao in all seinen Einzelheiten betrachten, um zu verstehen, wie dieser schöpferische Prozess funktioniert?",
+          "Manche von uns meinen noch immer, die Antwort laute: Nein.",
+          "Wir gehen davon aus, dass unser Universum mit einer gewaltigen Explosion begonnen hat.",
+          "Das haben wir früher auch gedacht. Und nun ja, rein äußerlich betrachtet war es wohl auch so ... aber die Mechanismen, die dem zugrunde liegen, sind gar nicht so instabil.",
+          "Wenn du ein Bild brauchst, kannst du dir diese Sache mit dem Dao als Beschreibung einer Explosion vorstellen, die das Universum erschaffen hat,",
+          "allerdings auf einer grundlegenderen Ebene. Jede physische Explosion ist nur ein Echo an der Oberfläche."
+        ],
+        "es": [
+          "Hay un antiguo libro de nuestra gente, que se recompuso a partir de fragmentos, así que nunca fue del todo fiable,",
+          "pero describe el universo que emerge de un todo fundamental que subyace a todo lo que vemos.",
+          "Primero, sin saber cómo, ese todo, el Dao, da lugar al Uno.",
+          "Por ahora seremos simplistas y pensaremos en el fenómeno como el Dao identificándose a sí mismo.",
+          "Es profundamente cuestionable, pero por algún sitio hay que empezar. En fin.",
+          "Luego, el libro afirma que el Uno produce dos, dos producen tres, y tres producen las diez mil cosas...",
+          "todo lo que observamos en la Creación.",
+          "El texto es misterioso y mínimo; pero, combinado con lo que ya hemos comentado,",
+          "permite adivinar por dónde va la Orden.",
+          "En lugar de aceptar sin más los resultados de este proceso creativo, ¿podemos examinarlo más de cerca?",
+          "¿Podemos crear un microscopio que nos ayude a acercarnos",
+          "y a observar el Dao en todos sus detalles particulares, para entender cómo funciona este proceso creativo?",
+          "Algunos seguimos pensando que la respuesta es no.",
+          "Tenemos la idea de que nuestro universo empezó con una explosión inmensa.",
+          "Nosotros también, una vez. Y, bueno, a simple vista más o menos fue así... pero cuando miras los mecanismos subyacentes, no son tan inestables.",
+          "Si quieres una imagen, puedes pensar en todo esto del Dao como la descripción de una explosión que creó el Universo,",
+          "pero en un plano más fundamental. Cualquier explosión física no es más que un eco superficial."
+        ],
+        "fr": [
+          "Il existe un ancien livre de notre peuple – il a été reconstitué à partir de fragments, il n'est donc jamais totalement fiable –",
+          "mais il décrit l'univers émergeant d'un tout fondamental qui sous-tend tout ce que nous voyons.",
+          "D'abord, d'une certaine manière, ce tout, le Tao, fait naître l'Un.",
+          "Nous allons rester simplistes pour l'instant et considérer cela comme le Tao se reconnaissant lui-même.",
+          "C'est profondément discutable, mais il faut bien commencer quelque part. Bref.",
+          "Puis, dit le livre, l'Un produit le deux, le deux produit le trois, et le trois produit les dix mille choses –",
+          "tout ce que nous observons dans la Création.",
+          "Le texte est mystérieux et minimal ; mais, combiné à ce que nous avons déjà évoqué,",
+          "vous pouvez deviner les intentions de l'Ordre.",
+          "Au lieu de simplement accepter les résultats de ce processus créatif, pouvons-nous l'examiner de plus près ?",
+          "Pouvons-nous créer un microscope pour nous aider à zoomer",
+          "et à observer le Tao dans tous ses détails, pour comprendre comment ce processus créatif fonctionne ?",
+          "Certains d'entre nous pensent encore que la réponse est non.",
+          "Nous avons une théorie comme quoi notre univers a commencé par une immense explosion.",
+          "Nous aussi, autrefois. Et, à en juger par les apparences, c'est un peu ce qui s'est passé... mais quand on regarde les mécanismes sous-jacents, ils ne sont pas aussi instables que ça.",
+          "Si vous voulez une image, vous pouvez considérer cette histoire de Tao comme la description d'une explosion qui a créé l'Univers,",
+          "mais, à un niveau plus fondamental. Toute explosion physique n'en est qu'un écho en surface."
+        ],
+        "it": [
+          "C'è un antico libro del nostro popolo... è stato ricomposto da frammenti, quindi non è mai stato del tutto affidabile...",
+          "ma descrive l'universo che emerge da un tutto fondamentale che sta alla base di tutto ciò che vediamo.",
+          "Per prima cosa, in qualche modo questo tutto, il Dao, dà origine all'Uno.",
+          "Per ora saremo semplicistici e penseremo che questo sia il Dao che si identifica da sé.",
+          "È profondamente discutibile, ma da qualche parte bisogna pur cominciare. Comunque.",
+          "Poi il libro dice: l'Uno generò il Due, il Due generò il Tre, il Tre generò le diecimila cose...",
+          "cioè tutto ciò che possiamo osservare nella creazione.",
+          "Il testo è misterioso ed essenziale ma, insieme a quanto abbiamo già discusso,",
+          "puoi intuire l'angolazione dell'Ordine.",
+          "Invece di accettare soltanto i risultati di questo processo creativo, possiamo osservarlo più da vicino?",
+          "Possiamo creare un microscopio che ci aiuti a ingrandire",
+          "e a guardare il Dao in tutti i suoi particolari, per capire come funziona questo processo creativo?",
+          "Alcuni di noi pensano ancora che la risposta sia no.",
+          "Abbiamo l'idea che il nostro universo sia iniziato con un'esplosione immensa.",
+          "Anche noi, una volta. E, beh, stando alle apparenze fisiche in un certo senso sì... ma quando guardi i meccanismi di fondo, non sono così instabili.",
+          "Se vuoi un'immagine, puoi pensare a questa faccenda del Dao come alla descrizione di un'esplosione che ha creato l'universo,",
+          "ma, a un livello più fondamentale. Qualsiasi esplosione fisica è solo un'eco superficiale."
+        ],
+        "ja": [
+          "我々には古い書物がある。 再構成されたものだから、 正確とは限らないが――",
+          "そこに、宇宙はほぼ無から 生じたと書かれている。",
+          "最初に、ある存在が生まれたのだ。 それから書にはこうある。",
+          "たとえそれが空間全体を占めていても、 生まれる前には 存在しなかった。",
+          "ひとつのものが生まれた瞬間、 別のものも生まれる。",
+          "一は二を生み、 二は三を生み、 三は万物を生む。",
+          "これで2つできた。 Aと非Aだ。",
+          "謎めいていて簡素だが、 現代的に解釈すれば",
+          "そして2つのものがあれば その「違い」も存在する。",
+          "境界、あるいは 互いに別物であるという 関係そのものだ。",
+          "これはAとその区別…",
+          "つまり、1つあれば 3つあることになる。",
+          "別の哲学者はこれを 「第一の区別」と呼んだ。",
+          "私たちの宇宙は、巨大な爆発から始まった という考え方があります。",
+          "そしてその関係同士にも関係が生まれ―― たちまち、目が回るほど間接的になっていく。",
+          "だがこれで我々の研究内容が 少し見えたはずだ。",
+          "そこから同じ過程が繰り返される。 すべての構成要素どうしに 関係が生まれるからだ。"
+        ],
+        "ko": [
+          "우리 민족에 전해지는 아주 오래된 책이 하나 있죠. 여러 파편을 모아 복원한 거라 완전히 신뢰할 순 없지만...",
+          "그 책에서는 우리가 보는 모든 것의 근간을 이루는 근원적인 하나의 전체로부터 우주가 생겨났다고 설명해.",
+          "먼저, 어떻게든 이 전체, 즉 도가 하나를 낳는 거야.",
+          "일단은 단순하게 생각해서 이걸 도가 스스로를 인식하는 거라고 해 두자.",
+          "상당히 논란의 여지가 있지만 어디서든 시작은 해야 하니까. 아무튼.",
+          "그다음 책에서는 이렇게 말해. 하나는 둘을 낳고, 둘은 셋을 낳고, 셋은 만물을 낳는다...",
+          "즉, 우리가 창조 속에서 관찰하는 모든 것을 말이야.",
+          "원문은 신비롭고 간결하지만 지금까지 이야기한 내용과 함께 생각해 보면",
+          "우리 결사단이 어떤 관점으로 보는지 짐작할 수 있을 거야.",
+          "이 창조 과정의 결과를 그저 받아들이는 대신, 좀 더 자세히 들여다볼 수는 없을까?",
+          "현미경 같은 걸 만들어서 확대해 볼 수는 없을까?",
+          "도를 아주 자세히 살펴보고, 이 창조 과정이 어떻게 작동하는지 이해할 수 있게 말이지.",
+          "아직도 불가능하다고 생각하는 이들이 있지.",
+          "우리 우주는 거대한 폭발로 시작됐다는 생각이 있어.",
+          "우리도 한때는 그랬어. 뭐, 물리적으로 보면 어느 정도는 맞지... 하지만 그 밑바탕의 작동 원리를 보면, 그렇게 불안정하지는 않아.",
+          "머릿속에 그려 보고 싶다면, 이 도에 관한 이야기를 우주를 창조한 폭발에 대한 묘사라고 생각해도 돼.",
+          "다만, 좀 더 근본적인 곳에서 일어나는 폭발이지. 물리적인 폭발은 모두 표면에 울리는 메아리일 뿐이야."
+        ],
         "pt-br": [
           "Há um livro antigo do nosso povo... ele foi remontado de fragmentos, então nunca foi totalmente confiável...",
           "mas ele descreve o universo emergindo de um todo fundamental que sustenta tudo o que vemos.",
@@ -864,6 +2058,63 @@
           "Nós também pensávamos isso. E, bem, à primeira vista física foi mais ou menos isso... mas, quando você olha para os mecanismos subjacentes, eles não são tão instáveis.",
           "Se você quiser uma imagem, pode pensar nessa história do Dao como descrevendo uma explosão que criou o Universo,",
           "mas, em algum nível mais fundamental. Qualquer explosão física é só um eco superficial."
+        ],
+        "ru": [
+          "У нашего народа есть древняя книга — она была пересобрана из обрывков, так что на нее никогда нельзя было полностью положиться —",
+          "но в ней описано возникновение вселенной из фундаментального целого, лежащего в основе всего, что мы видим.",
+          "Сначала, каким-то образом, это целое, Дао, порождает Одно.",
+          "Пока что мы будем упрощать и считать, что это Дао определяет само себя.",
+          "Это крайне спорно, но начинать с чего-то надо. В общем.",
+          "Затем, как говорится в книге, Одно порождает два, два порождают три, а три порождают все десять тысяч вещей —",
+          "всё, что мы наблюдаем в Творении.",
+          "Текст загадочен и минималистичен; но в сочетании с тем, о чём мы уже говорили,",
+          "вы можете догадаться, к чему клонит Орден.",
+          "Вместо того чтобы просто принимать результаты этого творческого процесса, можем ли мы рассмотреть его внимательнее?",
+          "Можем ли мы создать микроскоп и приблизить",
+          "и рассмотреть Дао во всех подробностях, чтобы понять, как работает этот творческий процесс?",
+          "Некоторые из нас всё ещё считают, что ответ — «нет».",
+          "У нас есть представление о том, что наша вселенная началась с колоссального взрыва.",
+          "Когда-то мы тоже так думали. И, ну, внешне так оно вроде бы и было... но если взглянуть на механизмы в основе, они не так уж нестабильны.",
+          "Если нужен образ, можно представить, что это даосское учение описывает взрыв, создавший Вселенную,",
+          "но где-то на более фундаментальном уровне. Любой физический взрыв — лишь поверхностное эхо."
+        ],
+        "s-cn": [
+          "我们一族有一本古书—— 它是用残篇拼凑复原的，因此不能尽信——",
+          "不过它讲的是：宇宙如何从万物背后的统一根源中诞生。",
+          "首先，不知怎的，这个浑然一体的“道”生出了“一”。",
+          "我们先往简单了说： 就把这理解为“道”第一次给自己划出界限。",
+          "这其实很值得质疑，不过总得先找个起点。总之……",
+          "随后书中写道：一生二，二生三，三生万物——",
+          "我们在造物中观察到的一切。",
+          "文字神秘而简练；不过结合我们已经谈过的内容，",
+          "你大概能猜到沉星之序对此会怎么看。",
+          "我们能否不只接受创造出的结果， 而是仔细研究创造本身是如何发生的？",
+          "我们能否造一台显微镜，用它放大细节，",
+          "并看清“道”的一切具体细节， 理解这个创造过程如何运作？",
+          "我们当中仍有人认为，答案是“不能”。",
+          "我们有个想法，认为自己的宇宙始于一场极其剧烈的爆炸。",
+          "我们也曾这么想。嗯，表面看来的确如此…… 可一旦深入底层机制，就会发现它们其实没那么不稳定。",
+          "如果想要一个直观的画面， 可以把这套“道”的说法理解成一场创造宇宙的爆炸，",
+          "但发生在更加根本的层面。 任何物理爆炸都只是表层的回响。"
+        ],
+        "t-cn": [
+          "我們一族有一本古書—— 它是用殘篇拼湊復原的，因此不能盡信——",
+          "不過它講的是：宇宙如何從萬物背後的統一根源中誕生。",
+          "首先，不知怎的，這個渾然一體的「道」生出了「一」。",
+          "我們先往簡單了說： 就把這理解為「道」第一次給自己劃出界限。",
+          "這其實很值得質疑，不過總得先找個起點。總之……",
+          "隨後書中寫道：一生二，二生三，三生萬物——",
+          "我們在造物中觀察到的一切。",
+          "文字神秘而簡練；不過結合我們已經談過的內容，",
+          "你大概能猜到沉星之序對此會怎麼看。",
+          "我們能否不只接受創造出的結果， 而是仔細研究創造本身是如何發生的？",
+          "我們能否造一臺顯微鏡，用它放大細節，",
+          "並看清「道」的一切具體細節， 理解這個創造過程如何運作？",
+          "我們當中仍有人認為，答案是「不能」。",
+          "我們有個想法， 認為自己的宇宙始於一場極其劇烈的爆炸。",
+          "我們也曾這麼想。嗯，表面看來的確如此…… 可一旦深入底層機制， 就會發現它們其實沒那麼不穩定。",
+          "如果想要一個直觀的畫面， 可以把這套「道」的說法理解成 一場創造宇宙的爆炸，",
+          "但發生在更加根本的層面。 任何物理爆炸都只是表層的迴響。"
         ]
       },
       "silentCues": [],
@@ -907,7 +2158,23 @@
               "to one identifiable thing, to many identifiable things.",
               "So let's consider the idea of Distinction -- lines being drawn to distinguish things from each other."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [
+              "私たちの典籍には、 こんな作品もある。着想のもとにあるのは、",
+              "道家の伝統。 それを数学の視点から捉え直したものよ。",
+              "覚えているでしょう。 まず道が一を生み、一が二を生む。 そして、その先も続いていく。",
+              "だから、何も識別できないところから、",
+              "一つのものを見分けられる状態へ、 やがて、多くのものを見分けられる状態へ。 その移り変わりを考えてみたいの。",
+              "そこで、「区別」という考え方を見てみましょう。 線を引いて、あるものと別のものを 区別することよ。"
+            ],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_1__acting.wav",
@@ -932,7 +2199,18 @@
             "en": [
               "You're saying distinguish instead of create -- so the things are already created?"
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [
+              "創造するのではなく、区別すると言うのですね。 では、物はすでに創造されているのですか？"
+            ],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_2__sokoban.wav",
@@ -974,7 +2252,40 @@
               "With just these two rules of rewriting, a tree can blossom that is huge, as large as you like.",
               "You know what I mean by a tree, in the mathematical sense?"
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [
+              "創造を、別の形で捉えているの。 「何も識別できない」と言ったけれど、",
+              "でも、物理的に何も存在しない、という意味じゃない。 あらゆるところに可能性が満ちている、 そんな状態を思い浮かべて。",
+              "分化していない全体には、 区別の必要はない。",
+              "でも、「一」があると言った途端、 必ず区別が生じる。",
+              "その「一」と、 その「一」ではない、あらゆるものとの間に。",
+              "これを数学で表すために、 著者は「最初の区別」と呼ぶものから始めた。",
+              "この区別によって、 Ａと「Ａでないもの」の二つができる。",
+              "境界ができれば、 その境界を越えることも可能になる。",
+              "Ａから「Ａでないもの」へも、 「Ａでないもの」からＡへも越えられる。",
+              "人間に身近な例なら、 生から死へ、そして生へ戻る。 満足から退屈へ、そして満足へ戻る。",
+              "境界を越えることを、数学で書き表せる。 直角に曲がる一つの記号で、",
+              "区別があることと、 「その境界を越えた」ことの両方を表す。",
+              "そして、書いたものを操作する 二つの規則を導入できる。",
+              "境界を越えて、また戻ってくれば、 結局、最初と同じ場所にいる。 つまり、動かなかったのと同じよ。",
+              "逆も同じ。動かずにいた場所、 つまり、何も書かなかった場所は、",
+              "境界を越え、また越えて戻ることに 置き換えられる。",
+              "それは、一つの直角の記号を もう一つの中に書いた形になる。",
+              "そして、同じ区別を2回書くことは、 1回書くことと同じ…",
+              "同じことを、わざわざ 2回言っているだけだから。",
+              "これは、二つの直角の記号を 隣り合わせに書いた形になる。",
+              "だから、区別を一つ書いた場所には、 2回でも、3回でも、 好きなだけ同じものを書ける。",
+              "この二つの書き換え規則だけで、 好きなだけ大きく枝を広げる、 巨大な木が育つの。",
+              "数学でいう「木」が何かは、 分かるかしら？"
+            ],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_3__acting.wav",
@@ -1027,7 +2338,29 @@
               "This gives you some insight into a small part of what we study here.",
               "Think on this, and we'll speak again soon."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [
+              "よかった。",
+              "この木の枝は、 どこまでも伸ばしていける。",
+              "少しずつ書き換えて、 あるものを別のものに置き換えながら、",
+              "辛抱の続く限り、 式を広げていける。",
+              "そして、道は実に辛抱強い。",
+              "こうして、あれこれ書き込むだけで、",
+              "途方もない数の、精巧な形が生まれた。 境界を越え、同じものを繰り返し書くだけで。",
+              "書いた形をまた簡約すると、 すべては「区別」か「区別なし」に帰着する。",
+              "でも、作り出せる木の構造には、 途方もない数の可能性がある。",
+              "可算無限の密林よ。",
+              "これで、私たちがここで何を研究しているのか、 ほんの少し、分かってもらえたかしら。",
+              "考えてみて。 近いうちに、また話しましょう。"
+            ],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_5__acting.wav",
@@ -1098,6 +2431,275 @@
           "This gives you some insight into a small part of what we study here.",
           "Think on this, and we'll speak again soon."
         ],
+        "de": [
+          "In unserem Kanon gibt es noch ein Werk, das Anregungen",
+          "aus der daoistischen Tradition bezieht, dem Ganzen aber eine mathematische Wendung gibt.",
+          "Du erinnerst dich: Zuerst erschafft das Dao das Eine oder bringt es hervor, das Eine erschafft die Zwei und so weiter.",
+          "Betrachten wir also folgenden Übergang: von nichts Identifizierbarem,",
+          "zu einem identifizierbaren Ding, zu vielen identifizierbaren Dingen.",
+          "Betrachten wir also die Idee der Unterscheidung – wir ziehen Linien, um Dinge voneinander zu unterscheiden.",
+          "Du sagst unterscheiden statt erschaffen – die Dinge sind also bereits erschaffen?",
+          "Es ist ein anderes Bild von der Schöpfung. Ich habe „nichts Identifizierbares“ gesagt,",
+          "aber stell dir darunter kein physisches Nichts vor. Eher ein Potenzial, das alles durchdringt.",
+          "Ein undifferenziertes Ganzes braucht keine Unterscheidung.",
+          "Doch sobald wir sagen, es gebe das Eine, ist damit zwangsläufig etwas verbunden, nämlich eine Unterscheidung:",
+          "zwischen diesem Einen und allem, was dieses Eine nicht ist.",
+          "Um das mathematisch abzubilden, hat der Autor mit etwas begonnen, das er die Erste Unterscheidung nannte.",
+          "Diese Unterscheidung bedeutet: Nun haben wir zwei Dinge, A und Nicht-A.",
+          "Sobald es eine Grenze gibt, ergibt sich die Möglichkeit, sie zu überschreiten.",
+          "Man kann die Grenze von A zu Nicht-A überschreiten, oder umgekehrt von Nicht-A zu A.",
+          "Im menschlichen Maßstab vielleicht: vom Leben zum Tod und wieder zurück. Von Zufriedenheit zu Langeweile und wieder zurück.",
+          "Überschreitungen lassen sich mathematisch notieren. Ein einziges rechtwinkliges Zeichen sagt dabei zweierlei aus:",
+          "Es gibt eine Unterscheidung, und außerdem: „Ich habe sie überschritten.“",
+          "Und dann kannst du zwei Regeln einführen, um diese Notation umzuformen.",
+          "Wenn du hinübergehst und wieder zurück, landest du dort, wo du angefangen hast – das ist dasselbe, wie stehen zu bleiben.",
+          "Und umgekehrt gilt dasselbe. Überall, wo du stehen geblieben bist, also nichts geschrieben hast,",
+          "kannst du das durch etwas anderes ersetzen: durch Überschreiten und anschließende Rückkehr,",
+          "dargestellt als rechtwinkliges Zeichen, das in einem anderen steht.",
+          "Und dieselbe Unterscheidung zweimal zu notieren ist dasselbe, wie sie einmal zu notieren ...",
+          "man sagt damit lediglich redundanterweise zweimal dasselbe.",
+          "(Das sieht aus wie zwei rechtwinklige Zeichen, die nebeneinanderstehen.)",
+          "Wo immer du eine Unterscheidung notiert hast, kannst du sie beliebig oft wiederholen: zweimal, dreimal oder so oft du willst.",
+          "Mit nur diesen beiden Umformungsregeln kann ein gewaltiger Baum erblühen, so groß, wie du nur willst.",
+          "Du weißt, was ich mit einem Baum meine, im mathematischen Sinn?",
+          "Bei uns gibt es ein recht großes Teilgebiet, das sie untersucht. Es spielt zwar keine Rolle für meine Arbeit, aber das Grundprinzip ist mir bekannt.",
+          "Gut.",
+          "Du kannst die Äste dieses Baumes immer weiter wachsen lassen,",
+          "indem du durch schrittweise Umformungen einen Ausdruck durch einen anderen ersetzt,",
+          "und den Ausdruck so lange erweiterst, wie es deine Geduld zulässt.",
+          "Und das Dao ist sehr geduldig.",
+          "Mit all unseren Kritzeleien haben wir gerade",
+          "eine riesige Vielfalt kunstvoller Formen geschaffen. Und das nur aus Überschreitungen und Wiederholungen.",
+          "Wenn wir die notierten Formen wieder reduzieren, laufen sie alle auf Unterscheidung oder Nicht-Unterscheidung hinaus,",
+          "doch die Baumstruktur, die du erschaffen kannst, birgt eine gewaltige Anzahl von Möglichkeiten.",
+          "Ein abzählbar unendlicher Dschungel.",
+          "Das gibt dir einen kleinen Einblick in einen Teil dessen, was wir hier erforschen.",
+          "Denk darüber nach, dann sprechen wir uns bald wieder."
+        ],
+        "es": [
+          "Hay otra obra de nuestro canon que se inspira",
+          "de la tradición taoísta, pero le da un enfoque matemático.",
+          "Recordarás que primero el Dao crea o da lugar al Uno, el Uno crea el Dos, y así sucesivamente.",
+          "Así que queremos explorar la idea de pasar de no haber nada identificable,",
+          "a una cosa identificable, y luego a muchas cosas identificables.",
+          "Consideremos, pues, la idea de distinción: trazar líneas para distinguir unas cosas de otras.",
+          "Dices distinguir en lugar de crear, ¿entonces las cosas ya están creadas?",
+          "Es otra manera de ver la creación. He dicho «nada identificable»,",
+          "pero no lo imagines como una nada física. Más bien como un potencial que lo impregna todo.",
+          "Un todo indiferenciado no necesita distinción.",
+          "Sin embargo, en cuanto decimos que hay Uno, eso implica necesariamente una distinción:",
+          "entre ese Uno y aquello que no es el Uno.",
+          "Para modelarlo matemáticamente, el autor empezó con lo que llamó la Primera Distinción.",
+          "Esta distinción implica que ahora tenemos dos cosas, A y no A.",
+          "Una vez que tienes un límite, eso admite la posibilidad de cruzarlo.",
+          "Puedes pasar de A a no A, o de no A a A.",
+          "A una escala más humana, quizás, de vivo a muerto, y luego de vuelta a vivo. De complacido a aburrido, y luego de vuelta a complacido.",
+          "Puedes escribir cruces matemáticamente, de modo que una sola marca en ángulo recto",
+          "indique que hay una distinción y también diga «la he cruzado».",
+          "Y luego puedes introducir dos reglas para manipular lo escrito.",
+          "Si cruzas y luego descruzas, acabas donde empezaste... equivale a quedarse quieto.",
+          "Y lo mismo a la inversa. Donde te hayas quedado quieto, es decir, donde no hayas escrito nada,",
+          "puedes sustituir esto por un cruce y un posterior descruce,",
+          "lo cual parece una marca en ángulo recto dentro de otra.",
+          "Y marcar la misma distinción dos veces es lo mismo que marcarla una vez...",
+          "simplemente estás diciendo lo mismo dos veces, de forma redundante.",
+          "(Esto parece dos marcas en ángulo recto una junto a la otra.)",
+          "Así que, en cualquier lugar donde escribieras una distinción, puedes escribirla dos veces, tres veces, las que quieras.",
+          "Con solo estas dos reglas de reescritura, un árbol puede florecer hasta volverse enorme, tan grande como quieras.",
+          "¿Sabes a qué me refiero con un árbol en sentido matemático?",
+          "Tenemos una rama bastante grande que los estudia. No es algo que entre en mi ámbito de trabajo, pero conozco la idea básica.",
+          "Bien.",
+          "Puedes seguir haciendo crecer las ramas de este árbol,",
+          "sustituyendo una cosa por otra mediante reescrituras incrementales,",
+          "expandiendo la expresión todo el tiempo que te permita la paciencia.",
+          "Y el Dao es muy paciente.",
+          "Con todos nuestros garabatos, acabamos de crear",
+          "una enorme proliferación de formas elaboradas. Todo a partir de simples cruces y reiteraciones.",
+          "Estas formas que escribimos, al reducirlas de nuevo, acaban todas siendo Distinción o No Distinción...",
+          "pero la estructura de árbol que puedes crear tiene un número ingente de posibilidades.",
+          "Una jungla de infinitud numerable.",
+          "Esto te aporta una idea, si bien ínfima, de todo lo que estudiamos aquí.",
+          "Piensa en ello y hablaremos de nuevo pronto."
+        ],
+        "fr": [
+          "Il existe une autre œuvre de notre canon, qui s'inspire",
+          "de la tradition taoïste, et l'intègre aux mathématiques.",
+          "Vous vous souvenez que le Tao crée ou fait d'abord naître l'Un, l'Un crée le Deux, et ainsi de suite.",
+          "Nous voulons donc examiner l'idée de passer de rien d'identifiable,",
+          "à une chose identifiable, puis à de nombreuses choses identifiables.",
+          "Considérons donc l'idée de distinction : des lignes que l'on trace pour distinguer les choses les unes des autres.",
+          "Vous dites distinguer plutôt que créer... les choses sont donc déjà créées ?",
+          "C'est une autre façon de voir la création. J'ai dit « rien d'identifiable »,",
+          "mais n'imaginez pas un néant physique. Plutôt un potentiel omniprésent.",
+          "Un tout indifférencié n'a pas besoin de distinction.",
+          "Mais dès lors que nous affirmons qu'il y a Un, cela implique nécessairement une distinction :",
+          "entre l'Un, et ce qui n'est pas l'Un.",
+          "Pour modéliser cela mathématiquement, l'auteur a commencé par ce qu'il appelait la première distinction.",
+          "Cette distinction signifie que nous avons désormais deux choses, A et non A.",
+          "Dès qu'il y a une frontière, cela ouvre la possibilité de la franchir.",
+          "Vous pouvez passer de A à non A, ou de non A à A.",
+          "À une échelle plus humaine, peut-être de vivant à mort, puis de nouveau vivant. De satisfait à ennuyé, puis de nouveau satisfait.",
+          "On peut écrire les franchissements mathématiquement, avec un seul signe à angle droit qui, à la fois,",
+          "indique qu'il existe une distinction, et dit « je l'ai franchie ».",
+          "Et ensuite, on peut introduire deux règles pour manipuler ces notations.",
+          "Si vous traversez puis revenez en arrière, vous retrouvez votre point de départ – cela revient à rester immobile.",
+          "Et réciproquement. Partout où vous êtes resté immobile, autrement dit où vous n'avez rien écrit,",
+          "vous pouvez remplacer cela par un franchissement suivi d'un retour,",
+          "ce qui ressemble à un signe à angle droit à l'intérieur d'un autre.",
+          "Et noter la même distinction deux fois revient au même que la noter une seule fois...",
+          "vous ne faites que dire la même chose deux fois, de façon redondante.",
+          "(Cela ressemble à deux signes à angle droit côte à côte.)",
+          "Donc, partout où vous avez écrit une distinction, vous pouvez l'écrire deux fois, trois fois, autant de fois que vous voulez.",
+          "Avec ces deux seules règles de réécriture, un arbre peut fleurir et devenir immense, aussi grand que vous le souhaitez.",
+          "Vous savez ce que j'entends par un arbre, au sens mathématique ?",
+          "On a tout un pan des mathématiques consacré à leur étude. Je n'en ai pas l'usage dans mon travail, mais j'en connais les principes de base.",
+          "Bien.",
+          "Vous pouvez continuer à faire croître les branches de cet arbre,",
+          "en remplaçant une chose par une autre au moyen de réécritures progressives,",
+          "en développant l'expression aussi longtemps que votre patience le permet.",
+          "Et le Tao est très patient.",
+          "Avec tous nos gribouillages, nous venons de créer",
+          "une immense prolifération de formes élaborées. Tout cela à partir de simples franchissements et reformulations.",
+          "Ces formes que nous avons écrites, une fois réduites à nouveau, se ramènent toutes à la distinction ou à l'absence de distinction –",
+          "mais la structure arborescente que vous pouvez créer offre un nombre immense de possibilités.",
+          "Une jungle infinie dénombrable.",
+          "Cela vous donne un aperçu d'une petite partie de ce que nous étudions ici.",
+          "Réfléchissez-y, et nous reparlerons bientôt."
+        ],
+        "it": [
+          "C'è un'altra opera del nostro canone, che trae ispirazione",
+          "dalla tradizione taoista, ma la interpreta in chiave matematica.",
+          "Ricorderai che prima il Dao crea o dà origine all'Uno, l'Uno crea il Due, e così via.",
+          "Quindi vogliamo esaminare l'idea del passaggio da nulla di identificabile,",
+          "a una cosa identificabile, a molte cose identificabili.",
+          "Consideriamo dunque l'idea di distinzione: linee tracciate per distinguere le cose le une dalle altre.",
+          "Dici distinguere invece di creare, quindi le cose sono già state create?",
+          "È una visione diversa della creazione. Ho detto \"nulla di identificabile\",",
+          "ma non immaginarlo come un nulla fisico. È più un potenziale che pervade ogni cosa.",
+          "Un tutto indifferenziato non ha bisogno di distinzione.",
+          "Ma una volta che diciamo che esiste l'Uno, questo implica necessariamente una distinzione:",
+          "tra quell'Uno, e tutto ciò che non è quell'Uno.",
+          "Per modellarlo matematicamente, l'autore partì da ciò che chiamò la Prima distinzione.",
+          "Questa distinzione significa che ora abbiamo due cose: A e Non A.",
+          "Una volta che hai un confine, questo ammette la possibilità di attraversarlo.",
+          "Puoi passare da A a Non A, o da Non A ad A.",
+          "Su una scala più umana, forse da vivo a morto, poi di nuovo vivo. Soddisfatto ad annoiato, poi di nuovo soddisfatto.",
+          "Puoi scrivere i passaggi matematicamente, usando un unico segno ad angolo retto che",
+          "afferma l'esistenza di una distinzione, e dice anche \"l'ho attraversata\".",
+          "E poi puoi introdurre due regole per manipolare ciò che hai scritto.",
+          "Se attraversi e poi torni indietro, ti ritrovi al punto di partenza: è come restare fermo.",
+          "Vale anche il contrario. Ovunque tu sia rimasto fermo, cioè non abbia scritto nulla,",
+          "puoi sostituire questo con un attraversamento e poi un ritorno,",
+          "che appare come un segno ad angolo retto dentro un altro.",
+          "E segnare la stessa distinzione due volte è la stessa cosa che segnarla una volta...",
+          "Stai solo dicendo la stessa cosa due volte, in modo ridondante.",
+          "(Questo appare come due segni ad angolo retto l'uno accanto all'altro.)",
+          "Quindi, ovunque tu abbia scritto una distinzione, puoi scriverla due volte, tre volte, quante volte vuoi.",
+          "Con queste sole due regole di riscrittura, un albero può fiorire fino a diventare enorme, grande quanto vuoi.",
+          "Sai cosa intendo per albero, in senso matematico?",
+          "Abbiamo un sottocampo piuttosto vasto che li studia. Non è il tipo di cosa che entra nel mio lavoro, ma ne conosco l'idea di base.",
+          "Bene.",
+          "Puoi continuare a far crescere i rami di questo albero,",
+          "sostituendo una cosa con un'altra tramite riscritture incrementali,",
+          "espandendo l'espressione finché la tua pazienza lo consente.",
+          "E il Dao è molto paziente.",
+          "Con tutti i nostri scarabocchi, abbiamo appena creato",
+          "un'enorme proliferazione di forme elaborate. Tutto partendo da passaggi e reiterazioni.",
+          "Queste forme che abbiamo scritto, quando ridotte di nuovo, si riconducono alla Distinzione o alla Nessuna Distinzione...",
+          "ma la struttura ad albero che puoi creare ha un numero enorme di possibilità.",
+          "Una giungla numerabilmente infinita.",
+          "Questo ti dà qualche intuizione su una piccola parte di ciò che studiamo qui.",
+          "Pensa a questo, e ci parleremo di nuovo presto."
+        ],
+        "ja": [
+          "私たちの典籍には、 こんな作品もある。着想のもとにあるのは、",
+          "道家の伝統。 それを数学の視点から捉え直したものよ。",
+          "覚えているでしょう。 まず道が一を生み、一が二を生む。 そして、その先も続いていく。",
+          "だから、何も識別できないところから、",
+          "一つのものを見分けられる状態へ、 やがて、多くのものを見分けられる状態へ。 その移り変わりを考えてみたいの。",
+          "そこで、「区別」という考え方を見てみましょう。 線を引いて、あるものと別のものを 区別することよ。",
+          "創造するのではなく、区別すると言うのですね。 では、物はすでに創造されているのですか？",
+          "創造を、別の形で捉えているの。 「何も識別できない」と言ったけれど、",
+          "でも、物理的に何も存在しない、という意味じゃない。 あらゆるところに可能性が満ちている、 そんな状態を思い浮かべて。",
+          "分化していない全体には、 区別の必要はない。",
+          "でも、「一」があると言った途端、 必ず区別が生じる。",
+          "その「一」と、 その「一」ではない、あらゆるものとの間に。",
+          "これを数学で表すために、 著者は「最初の区別」と呼ぶものから始めた。",
+          "この区別によって、 Ａと「Ａでないもの」の二つができる。",
+          "境界ができれば、 その境界を越えることも可能になる。",
+          "Ａから「Ａでないもの」へも、 「Ａでないもの」からＡへも越えられる。",
+          "人間に身近な例なら、 生から死へ、そして生へ戻る。 満足から退屈へ、そして満足へ戻る。",
+          "境界を越えることを、数学で書き表せる。 直角に曲がる一つの記号で、",
+          "区別があることと、 「その境界を越えた」ことの両方を表す。",
+          "そして、書いたものを操作する 二つの規則を導入できる。",
+          "境界を越えて、また戻ってくれば、 結局、最初と同じ場所にいる。 つまり、動かなかったのと同じよ。",
+          "逆も同じ。動かずにいた場所、 つまり、何も書かなかった場所は、",
+          "境界を越え、また越えて戻ることに 置き換えられる。",
+          "それは、一つの直角の記号を もう一つの中に書いた形になる。",
+          "そして、同じ区別を2回書くことは、 1回書くことと同じ…",
+          "同じことを、わざわざ 2回言っているだけだから。",
+          "これは、二つの直角の記号を 隣り合わせに書いた形になる。",
+          "だから、区別を一つ書いた場所には、 2回でも、3回でも、 好きなだけ同じものを書ける。",
+          "この二つの書き換え規則だけで、 好きなだけ大きく枝を広げる、 巨大な木が育つの。",
+          "数学でいう「木」が何かは、 分かるかしら？",
+          "よかった。",
+          "この木の枝は、 どこまでも伸ばしていける。",
+          "少しずつ書き換えて、 あるものを別のものに置き換えながら、",
+          "辛抱の続く限り、 式を広げていける。",
+          "そして、道は実に辛抱強い。",
+          "こうして、あれこれ書き込むだけで、",
+          "途方もない数の、精巧な形が生まれた。 境界を越え、同じものを繰り返し書くだけで。",
+          "書いた形をまた簡約すると、 すべては「区別」か「区別なし」に帰着する。",
+          "でも、作り出せる木の構造には、 途方もない数の可能性がある。",
+          "可算無限の密林よ。",
+          "これで、私たちがここで何を研究しているのか、 ほんの少し、分かってもらえたかしら。",
+          "考えてみて。 近いうちに、また話しましょう。"
+        ],
+        "ko": [
+          "우리 정전에는 또 다른 저작이 있어. 영감을 얻은 곳은",
+          "도교 전통에서 온 건데, 거기에 수학적인 관점을 더한 거야.",
+          "기억할 거야. 먼저 도가 하나를 만들거나 낳고, 하나가 둘을 낳는 식으로 이어진다는 걸.",
+          "그러니 식별할 수 있는 게 전혀 없는 상태에서, 어떻게 나아가는지 살펴보자는 거야,",
+          "식별할 수 있는 하나로, 그리고 식별할 수 있는 여럿으로.",
+          "그럼 구분이라는 개념을 생각해 보자... 선을 그어서 무언가를 서로 구별하는 거지.",
+          "만든다고 안 하고 구별한다고 하네... 그럼 이미 만들어져 있다는 거야?",
+          "창조를 다르게 바라보는 거야. 내가 \"식별할 수 있는 게 전혀 없다\"고 했지만,",
+          "물리적으로 아무것도 없다는 뜻은 아니야. 모든 곳에 잠재력이 깃들어 있는 상태에 더 가깝지.",
+          "나뉘지 않은 전체에는 구분이 필요 없어.",
+          "하지만 하나가 있다고 말하는 순간, 거기에는 반드시 구분이 따르지.",
+          "그 하나와, 그 하나가 아닌 모든 것 사이에.",
+          "이걸 수학적으로 모형화하려고 그 저작자 자신이 최초의 구분이라고 부른 것에서 출발했어.",
+          "이 구분으로 이제 두 가지가 생긴 셈이지. A와 A가 아닌 것.",
+          "경계가 생기면, 그 경계를 넘을 가능성도 생기지.",
+          "A에서 A가 아닌 것으로, 또는 A가 아닌 것에서 A로 넘어갈 수 있어.",
+          "좀 더 인간적인 차원에서 보면, 삶에서 죽음으로, 다시 삶으로. 만족에서 지루함으로, 다시 만족으로.",
+          "경계 넘기를 수학적으로 표기할 수 있어, 직각 모양 기호 하나로",
+          "구분이 있다는 걸 나타내면서, 동시에 \"그걸 넘어갔다\"고 말하는 거지.",
+          "그런 다음, 그 표기를 조작하는 두 가지 규칙을 도입하는 거야.",
+          "넘어갔다가 다시 돌아오면, 출발한 곳에 도착하게 돼... 가만히 있는 것과 같지.",
+          "그 반대도 마찬가지야. 가만히 있었던 곳은 어디든, 다시 말해 아무것도 쓰지 않은 곳은,",
+          "이걸 넘어갔다가 다시 돌아오는 것으로 바꿔 쓸 수 있지.",
+          "직각 모양 기호 안에 같은 기호가 하나 더 있는 모습이지.",
+          "그리고 같은 구분을 두 번 적는 건 한 번 적는 것과 같아...",
+          "같은 말을 쓸데없이 두 번 하는 것뿐이니까.",
+          "(이건 직각 모양 기호 두 개가 나란히 있는 모습이야.)",
+          "그러니 구분을 적은 곳은 어디든, 두 번이든, 세 번이든, 원하는 만큼 적을 수 있어.",
+          "이 두 가지 다시 쓰기 규칙만으로, 트리는 얼마든지 거대하게, 원하는 만큼 뻗어 나갈 수 있지.",
+          "수학에서 말하는 트리가 뭔지는 알지?",
+          "그걸 연구하는 분야가 꽤 커. 내 일과는 관계가 없지만, 기본 개념은 알아.",
+          "좋아.",
+          "이 트리의 가지를 계속 뻗어 나가게 할 수 있어.",
+          "조금씩 다시 쓰면서 하나를 다른 것으로 바꾸고,",
+          "인내심이 허락하는 한 계속 표현을 확장하는 거지.",
+          "그리고 도는 인내심이 아주 많아.",
+          "이렇게 이것저것 끄적이다 보니 우리가 방금 만들어낸 건",
+          "정교한 형태들이 엄청나게 증식한 모습이야. 전부 경계 넘기와 재진술만으로 생겨났지.",
+          "우리가 적은 이 형태들은 다시 줄이면, 결국 모두 구분 아니면 구분 없음으로 귀결돼...",
+          "하지만 만들어낼 수 있는 트리 구조의 가능성은 어마어마하게 많아.",
+          "가산 무한의 밀림이지.",
+          "이걸 알면 우리가 여기서 뭘 연구하는지 그 일부를 조금은 이해할 수 있을 거야.",
+          "잘 생각해 보고, 곧 다시 이야기하자."
+        ],
         "pt-br": [
           "Há outra obra do nosso cânone, que se inspira",
           "da tradição taoísta, mas dá a ela um toque matemático.",
@@ -1142,12 +2744,155 @@
           "Uma selva infinita enumerável.",
           "Isso lhe dá alguma visão de uma pequena parte do que estudamos aqui.",
           "Pense nisso, e falaremos de novo em breve."
+        ],
+        "ru": [
+          "Есть ещё одно произведение из нашего канона, которое черпает вдохновение",
+          "в даосской традиции и переводит её на язык математики.",
+          "Как ты помнишь, сначала Дао создаёт, или порождает, Одно, Одно создаёт Два и так далее.",
+          "Итак, мы хотим рассмотреть идею перехода от отсутствия чего-либо различимого,",
+          "к одной различимой вещи, а затем — к множеству различимых вещей.",
+          "Рассмотрим понятие различия — проведение границ, которые позволяют отличать вещи друг от друга.",
+          "Ты говоришь «отличать», а не «создавать» — значит, вещи уже созданы?",
+          "Это другой взгляд на сотворение. Я говорю об «отсутствии чего-либо различимого»,",
+          "но не представляй это как физическую пустоту. Скорее как всепроникающий потенциал.",
+          "Неделимое целое не нуждается в различении.",
+          "Но как только мы говорим, что есть Одно, это неизбежно подразумевает различие:",
+          "между Одним и тем, что Не Одно.",
+          "Чтобы смоделировать это математически, автор начал с того, что назвал Первым различением.",
+          "Это Различение означает, что теперь у нас есть две вещи: A и Не A.",
+          "Как только у вас есть граница, появляется возможность пересечь эту границу.",
+          "Можно перейти из A в Не A, или из Не A в A.",
+          "На более человеческом уровне, возможно, из Живого в Мёртвое, а потом обратно в Живое. Из Довольного в Скучающее, а потом обратно в Довольное.",
+          "Можно записывать переходы математически, так что один знак в виде прямого угла одновременно",
+          "указывает, что есть граница, и говорит: «Я пересёк её».",
+          "А затем можно ввести два правила преобразования этих записей.",
+          "Если перейти границу и вернуться обратно, окажешься там, откуда начал — это то же самое, что стоять на месте.",
+          "И наоборот. Везде, где ты стоял на месте, иными словами, ничего не записывал,",
+          "можно заменить это на переход и затем обратный переход,",
+          "что выглядит как один знак прямого угла внутри другого.",
+          "А отметить одно и то же различение дважды — это то же самое, что отметить его один раз...",
+          "вы просто говорите одно и то же дважды, избыточно.",
+          "(Это выглядит как два знака прямого угла рядом друг с другом.)",
+          "Так что везде, где вы записали различение, можно записать его дважды, трижды, сколько угодно раз.",
+          "Всего с этими двумя правилами переписывания может расцвести дерево, которое будет огромным, настолько большим, насколько вам угодно.",
+          "Ты понимаешь, что я называю деревом в математическом смысле?",
+          "У нас есть довольно большая область, которая их изучает. Не то чтобы это входило в мою работу, но основную идею я знаю.",
+          "Хорошо.",
+          "Вы можете продолжать наращивать ветви этого дерева,",
+          "заменяя одно другим посредством постепенных переписываний,",
+          "разворачивая выражение до тех пор, пока хватает терпения.",
+          "А Дао очень терпеливо.",
+          "Всеми нашими каракулями, мы только что создали",
+          "огромное разрастание сложных форм. И всё это — лишь из переходов и повторений.",
+          "Эти записанные нами формы при повторном упрощении все сводятся к Различению или Отсутствию Различия...",
+          "но структура дерева, которую можно создать, имеет огромное число возможностей.",
+          "Счётно-бесконечные джунгли.",
+          "Это даёт вам некоторое представление о небольшой части того, что мы здесь изучаем.",
+          "Подумайте об этом, и вскоре мы снова поговорим."
+        ],
+        "s-cn": [
+          "我们所选出的精品中，还有一部作品从道家传统中汲取灵感，",
+          "不过，是从数学的角度来解读其中的思想。",
+          "你应该记得：道生一，一生二，依此类推。",
+          "所以，我们想探讨这样一个过程：从还辨认不出任何具体事物，",
+          "发展到能辨认出一个，再到许多个。",
+          "那么，来看看“划界”这个概念：也就是划出界线，把事物彼此区分开。",
+          "你说的是“划界”，不是“创造”。 这么说，这些东西原本就已经存在了？",
+          "这是对“创造”的另一种理解。我说的是“还辨认不出任何具体事物”，",
+          "但别把它想成物理上的虚无。 它更像是无处不在的潜能。",
+          "一个浑然一体、没有任何分别的整体，自然也不需要“划界”。",
+          "可一旦说有了“一”，就必然会产生这样一道界限：",
+          "把这个“一”，与一切并非这个“一”的东西区分开。",
+          "为了用数学表达这套想法，那位作者从所谓的“第一次划界”入手。",
+          "这道“界限”意味着现在我们可以得出两种概念：A与非A。",
+          "一旦有了边界，也就有了跨越边界的可能。",
+          "你可以越过边界，从A进入非A；也可以反过来，从非A回到A。",
+          "换到人类更熟悉的尺度，也许是从活着到死去，再从死去到活着； 从满足到厌倦，再从厌倦到满足。",
+          "这种跨越界限的过程，也能用数学符号表示。一个直角标记就有两层意思：",
+          "既表明有一道界限，也表明“我跨过了它”。",
+          "接下来，我们用两条规则，对写下的这些符号进行变换。",
+          "如果你跨过去，再跨回来，最后仍在起点，就和一直没动一样。",
+          "反过来也一样。凡是你停在原地的地方，也就是没写任何东西的地方，",
+          "都可以改写成“跨过去，再跨回来”，",
+          "写出来，就像一个直角标记里面套着另一个。",
+          "而把同一道界线重复划两遍，效果和只划一遍相同……",
+          "不过是把同一件事重复说了两遍。",
+          "（看起来就是两个直角标记并排放着。）",
+          "所以，凡是划一次界限的地方，你都可以划两遍、三遍，爱划多少遍都行。",
+          "只凭这两条改写规则，就能让一棵树生长得无比庞大，想多大就多大。",
+          "你知道我说的数学意义上的“树”吧？",
+          "这方面已经形成了一门相当庞大的分支学科。 我工作中用不上，但基本原理还是懂的。",
+          "很好。",
+          "你可以不断延伸这棵树的分支，",
+          "通过一步步改写，用一样事物替换另一样，",
+          "只要你有耐心，就可以一直扩展这个表达式。",
+          "而“道”有的是耐心。",
+          "我们这么随手涂画，竟然创造出了无数复杂精巧的形态，",
+          "而这一切，不过源于“越界”和“重复划界”。",
+          "把写下的这些形态再化简一遍， 最后无非是“划界”或“不划界”，",
+          "但你构造出的树状结构可以千变万化。",
+          "一片“可数无穷”的丛林。",
+          "这能让你窥见我们在这里研究的一小部分内容。",
+          "好好想想，我们很快再谈。"
+        ],
+        "t-cn": [
+          "我們所選出的精品中， 還有一部作品從道家傳統中汲取靈感，",
+          "不過，是從數學的角度來解讀其中的思想。",
+          "你應該記得：道生一，一生二，依此類推。",
+          "所以，我們想探討這樣一個過程： 從還辨認不出任何具體事物，",
+          "發展到能辨認出一個，再到許多個。",
+          "那麼，來看看「劃界」這個概念： 也就是劃出界線，把事物彼此區分開。",
+          "你說的是「劃界」，不是「創造」。 這麼說，這些東西原本就已經存在了？",
+          "這是對「創造」的另一種理解。 我說的是「還辨認不出任何具體事物」，",
+          "但別把它想成物理上的虛無。 它更像是無處不在的潛能。",
+          "一個渾然一體、沒有任何分別的整體， 自然也不需要「劃界」。",
+          "可一旦說有了「一」， 就必然會產生這樣一道界限：",
+          "把這個「一」， 與一切並非這個「一」的東西區分開。",
+          "為了用數學表達這套想法， 那位作者從所謂的「第一次劃界」入手。",
+          "這道「界限」意味著現在我們可以得出兩種概念： A與非A。",
+          "一旦有了邊界，也就有了跨越邊界的可能。",
+          "你可以越過邊界，從A進入非A； 也可以反過來，從非A回到A。",
+          "換到人類更熟悉的尺度，也許是從活著到死去， 再從死去到活著； 從滿足到厭倦，再從厭倦到滿足。",
+          "這種跨越界限的過程，也能用數學符號表示。 一個直角標記就有兩層意思：",
+          "既表明有一道界限，也表明「我跨過了它」。",
+          "接下來，我們用兩條規則， 對寫下的這些符號進行變換。",
+          "如果你跨過去，再跨回來， 最後仍在起點，就和一直沒動一樣。",
+          "反過來也一樣。凡是你停在原地的地方， 也就是沒寫任何東西的地方，",
+          "都可以改寫成「跨過去，再跨回來」，",
+          "寫出來，就像一個直角標記裡面套著另一個。",
+          "而把同一道界線重複劃兩遍，效果和只劃一遍相同……",
+          "不過是把同一件事重複說了兩遍。",
+          "（看起來就是兩個直角標記並排放著。）",
+          "所以，凡是劃一次界限的地方， 你都可以劃兩遍、三遍，愛劃多少遍都行。",
+          "只憑這兩條改寫規則， 就能讓一棵樹生長得無比龐大，想多大就多大。",
+          "你知道我說的數學意義上的「樹」吧？",
+          "這方面已經形成了一門相當龐大的分支學科。 我工作中用不上，但基本原理還是懂的。",
+          "很好。",
+          "你可以不斷延伸這棵樹的分支，",
+          "通過一步步改寫，用一樣事物替換另一樣，",
+          "只要你有耐心，就可以一直擴展這個表達式。",
+          "而「道」有的是耐心。",
+          "我們這麼隨手塗畫，竟然創造出了無數複雜精巧的形態，",
+          "而這一切，不過源於「越界」和「重複劃界」。",
+          "把寫下的這些形態再化簡一遍， 最後無非是「劃界」或「不劃界」，",
+          "但你構造出的樹狀結構可以千變萬化。",
+          "一片「可數無窮」的叢林。",
+          "這能讓你窺見我們在這裡研究的一小部分內容。",
+          "好好想想，我們很快再談。"
         ]
       },
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "pt-br": "Clip identities differ from English"
+        "de": "Clip identities differ from English",
+        "es": "Clip identities differ from English",
+        "fr": "Clip identities differ from English",
+        "it": "Clip identities differ from English",
+        "ko": "Clip identities differ from English",
+        "pt-br": "Clip identities differ from English",
+        "ru": "Clip identities differ from English",
+        "s-cn": "Clip identities differ from English",
+        "t-cn": "Clip identities differ from English"
       },
       "provenance": {
         "entities": [
@@ -1182,8 +2927,35 @@
             "en": [
               "Do you recognize this?"
             ],
+            "de": [
+              "Erkennst du das?"
+            ],
+            "es": [
+              "¿Reconoces esto?"
+            ],
+            "fr": [
+              "Reconnaissez-vous ceci ?"
+            ],
+            "it": [
+              "Riconosci questo?"
+            ],
+            "ja": [
+              "これが何か、分かるかな？"
+            ],
+            "ko": [
+              "이걸 알아보겠어?"
+            ],
             "pt-br": [
               "Você reconhece isto?"
+            ],
+            "ru": [
+              "Узнаёшь?"
+            ],
+            "s-cn": [
+              "你认得这个吗？"
+            ],
+            "t-cn": [
+              "你認得這個嗎？"
             ]
           },
           "provenance": {
@@ -1205,9 +2977,45 @@
               "Ahh, the Clayson's Field. Though we only know it by still images in books and papers;",
               "I've never seen this kind of smooth rendition. Beautiful!"
             ],
+            "de": [
+              "Ah, das Clayson-Feld. Wir kennen es allerdings nur von Abbildungen in Büchern und Fachartikeln.",
+              "Eine so flüssige Darstellung habe ich noch nie gesehen. Wunderschön!"
+            ],
+            "es": [
+              "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
+              "Nunca había visto una representación tan fluida. ¡Qué maravilla!"
+            ],
+            "fr": [
+              "Ahh, le champ de Clayson. Même si nous ne le connaissons que par des illustrations dans des livres et des journaux ;",
+              "je n'ai jamais vu un rendu aussi fluide. Magnifique !"
+            ],
+            "it": [
+              "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+              "non ho mai visto una rappresentazione così fluida. Bellissima!"
+            ],
+            "ja": [
+              "ああ、クレイソン場ですね。 ただ、私たちは本や論文にある 静止画しか知りません。",
+              "こんな滑らかな表示は、初めて見ました。 美しい！"
+            ],
+            "ko": [
+              "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
+              "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!"
+            ],
             "pt-br": [
               "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
               "Nunca vi uma representação tão fluida. Que beleza!"
+            ],
+            "ru": [
+              "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+              "Никогда не видел такого плавного изображения. Красота!"
+            ],
+            "s-cn": [
+              "啊，克莱森场。不过我们只在书籍和论文的静态图像中见过；",
+              "我还从没见过这样流畅的呈现。真美！"
+            ],
+            "t-cn": [
+              "啊，克萊森場。不過我們只在書籍和論文的靜態圖像中見過；",
+              "我還從沒見過這樣流暢的呈現。真美！"
             ]
           },
           "provenance": {
@@ -1232,11 +3040,65 @@
               "Square it, add the two-dimensional constant for that position in the plane, and that's the new number, and repeat.",
               "See how long your number survives, and color accordingly. And, you see ..."
             ],
+            "de": [
+              "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
+              "wobei der Ausgangszustand selbst stets null ist.",
+              "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+              "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ..."
+            ],
+            "es": [
+              "Es uno de los ejemplos más simples de la aplicación de reglas sobre un estado repetido...",
+              "donde el estado inicial en sí mismo es siempre e invariablemente cero.",
+              "Eleva al cuadrado, suma la constante bidimensional de esa posición en el plano y ese es el nuevo número; repite el proceso.",
+              "Mira cuánto tiempo sobrevive tu número y colorea en consecuencia. Y así..."
+            ],
+            "fr": [
+              "C'est l'un des exemples les plus simples d'exécution de règles sur un état répété –",
+              "où l'état initial lui-même est toujours simplement zéro.",
+              "Élevez-le au carré, ajoutez la constante bidimensionnelle pour cette position dans le plan, et voilà le nouveau nombre, puis recommencez.",
+              "Voyez combien de temps votre nombre survit, et coloriez en conséquence. Et, vous voyez..."
+            ],
+            "it": [
+              "È uno degli esempi più semplici di regole applicate ripetutamente a uno stato...",
+              "dove lo stato iniziale stesso è semplicemente sempre zero.",
+              "Elevalo al quadrato, aggiungi la costante bidimensionale per quella posizione nel piano e quello è il nuovo numero, poi ripeti.",
+              "Guarda quanto a lungo sopravvive il tuo numero, e colora di conseguenza. E, vedi..."
+            ],
+            "ja": [
+              "状態に規則を繰り返し適用する、 最も単純な例の一つだ。",
+              "初期状態は、いつもゼロだ。",
+              "その数を二乗し、 平面上のその位置に対応する 二次元の定数を加える。 それを新しい数として、繰り返す。",
+              "その数がどれだけ長く持ちこたえるかを見て、 それに応じて色をつける。すると、ほら…"
+            ],
+            "ko": [
+              "이건 상태에 규칙을 반복 적용하는 가장 단순한 예시 중 하나야.",
+              "시작 상태 자체는 항상 0이지.",
+              "그걸 제곱하고 평면에서의 위치에 해당하는 2차원 상수를 더하면 새로운 수가 나오고, 그걸 반복하는 거야.",
+              "그 수가 얼마나 오래 살아남는지 보고, 그에 따라 색을 입히는 거지. 그러면 보다시피..."
+            ],
             "pt-br": [
               "É um dos exemplos mais simples de aplicar regras a um estado repetido...",
               "em que o próprio estado inicial é sempre zero.",
               "Eleve ao quadrado, some a constante bidimensional daquela posição no plano, e esse é o novo número; repita.",
               "Veja quanto tempo seu número sobrevive, e pinte de acordo. E, veja só..."
+            ],
+            "ru": [
+              "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
+              "где само начальное состояние всегда просто ноль.",
+              "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+              "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли..."
+            ],
+            "s-cn": [
+              "这是“把规则反复应用于状态”最简单的例子之一——",
+              "起始状态本身永远只是零。",
+              "把它平方，再加上代表平面中该点的二维常数，得到新的数值，然后反复计算。",
+              "看看这个数能撑过多少轮运算，再按轮数为它上色。这样你就会看到……"
+            ],
+            "t-cn": [
+              "這是「把規則反覆應用於狀態」最簡單的例子之一——",
+              "起始狀態本身永遠只是零。",
+              "把它平方，再加上代表平面中該點的二維常數， 得到新的數值，然後反覆計算。",
+              "看看這個數能撐過多少輪運算，再按輪數為它上色。 這樣你就會看到……"
             ]
           },
           "provenance": {
@@ -1260,8 +3122,35 @@
             "en": [
               "Infinite detail. Incredible complexity."
             ],
+            "de": [
+              "Unendliche Details. Unglaubliche Komplexität."
+            ],
+            "es": [
+              "El detalle es infinito. Y la complejidad, increíble."
+            ],
+            "fr": [
+              "Une infinité de détails. Une complexité incroyable."
+            ],
+            "it": [
+              "Dettagli infiniti. Complessità incredibile."
+            ],
+            "ja": [
+              "どこまでも細かい… 信じがたい複雑さです。"
+            ],
+            "ko": [
+              "무한한 디테일. 엄청난 복잡성."
+            ],
             "pt-br": [
               "Detalhe infinito. Complexidade incrível."
+            ],
+            "ru": [
+              "Бесконечная детализация. Невероятная сложность."
+            ],
+            "s-cn": [
+              "无穷的细节。不可思议的复杂度。"
+            ],
+            "t-cn": [
+              "無窮的細節。不可思議的複雜度。"
             ]
           },
           "provenance": {
@@ -1286,12 +3175,75 @@
               "That complexity and structure is just *already there* somehow. It's fundamental.",
               "How about this one, have you seen it?"
             ],
+            "de": [
+              "Schön, dass du das verstehst. Ich gebe dir das hier zum Spielen. Was man unbedingt verinnerlichen muss –",
+              "und immer wieder in sich aufnehmen muss, um es immer tiefer zu verstehen –",
+              "ist Folgendes: Die Mathematik ist so einfach, dass wir diese Komplexität offensichtlich nicht selbst hineinbringen.",
+              "Diese Komplexität und Struktur sind irgendwie einfach schon da. Das ist fundamental.",
+              "Und das hier? Hast du das schon gesehen?"
+            ],
+            "es": [
+              "Me alegra que lo entiendas. Te daré esto para que juegues con ello. Lo importante es interiorizar...",
+              "y absorber una y otra vez en un intento de comprenderlo cada vez más a fondo...",
+              "es que la matemática es tan simple que, obviamente, no ponemos la complejidad ahí nosotros mismos.",
+              "Esa complejidad y esa estructura simplemente ya están ahí de algún modo. Son fundamentales.",
+              "¿Qué te parece esta, la has visto?"
+            ],
+            "fr": [
+              "Content que vous compreniez. Je vais vous donner ça pour vous amuser. L'important à retenir –",
+              "et à absorber encore et encore pour essayer de comprendre toujours plus en profondeur –",
+              "c'est que les maths sont si simples qu'il est évident que nous n'y mettons pas la complexité nous-mêmes.",
+              "Cette complexité et cette structure sont simplement déjà là. C'est fondamental.",
+              "Et ça, vous l'avez déjà vu ?"
+            ],
+            "it": [
+              "Bene, bene, vedo che hai capito. Ti darò questo con cui giocare. La cosa importante da interiorizzare...",
+              "e assorbire ancora e ancora in un tentativo di capire sempre più a fondo...",
+              "è che la matematica è così semplice che, ovviamente, non ci mettiamo noi la complessità.",
+              "Complessità e struttura sono già lì in qualche modo. È fondamentale.",
+              "Che ne dici di questo, l'hai mai visto?"
+            ],
+            "ja": [
+              "分かってくれてうれしいよ。これをあげよう。 いろいろ触ってみるといい。 大切なのは、ある事実を深く心に刻むことだ。",
+              "何度も繰り返し受け止め、 そのたびに、理解をさらに深めていってほしい。",
+              "計算はこれほど単純なのだから、 複雑さを私たち自身が付け加えているのではない。 その事実は明らかだ。",
+              "その複雑さと構造は、どういうわけか すでにそこにある。 根本的なものなんだ。",
+              "こちらはどうだろう。見たことはあるかな？"
+            ],
+            "ko": [
+              "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
+              "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
+              "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
+              "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+              "그럼 이건 어때? 본 적 있어?"
+            ],
             "pt-br": [
               "Que bom que você entendeu. Vou te dar isso para brincar. O importante é internalizar...",
               "e absorver repetidas vezes, numa tentativa de entender cada vez mais profundamente...",
               "é que, como a matemática é tão simples, obviamente não colocamos a complexidade ali por conta própria.",
               "Essa complexidade e estrutura simplesmente já estão ali de algum jeito. É algo fundamental.",
               "Que tal este aqui, você já viu?"
+            ],
+            "ru": [
+              "Рад, что ты понимаешь. Я дам тебе это поиграть. Важно усвоить главное —",
+              "и снова и снова впитывать его, пытаясь понять всё глубже и глубже —",
+              "что математика настолько проста, что, очевидно, мы не вкладываем в неё сложность сами.",
+              "Эта сложность и структура каким-то образом уже есть. Это фундаментально.",
+              "Как насчёт этого: ты это видел?"
+            ],
+            "s-cn": [
+              "很高兴你能理解。我把这个给你，你拿去试试。 有一点，你得真正领会，",
+              "还要反复琢磨、不断体会，试着理解得更深：",
+              "数学的规则如此简单，显然，那些复杂结构不是我们自己加进去的。",
+              "不知为什么，这些简单的规则本来就蕴含着复杂性和结构性。 这是规则本身固有的特性。",
+              "这个呢，你见过吗？"
+            ],
+            "t-cn": [
+              "很高興你能理解。我把這個給你，你拿去試試。 有一點，你得真正領會，",
+              "還要反覆琢磨、不斷體會，試著理解得更深：",
+              "數學的規則如此簡單，顯然， 那些複雜結構不是我們自己加進去的。",
+              "不知為什麼，這些簡單的規則本來就蘊含著複雜性和結構性。 這是規則本身固有的特性。",
+              "這個呢，你見過嗎？"
             ]
           },
           "provenance": {
@@ -1316,8 +3268,35 @@
             "en": [
               "No, ... no idea what that is."
             ],
+            "de": [
+              "Nein ... keine Ahnung, was das ist."
+            ],
+            "es": [
+              "No... ni idea."
+            ],
+            "fr": [
+              "Non... ça ne me dit rien."
+            ],
+            "it": [
+              "No... non ne ho idea."
+            ],
+            "ja": [
+              "いえ…何なのか、まったく分かりません。"
+            ],
+            "ko": [
+              "아니요... 전혀 모르겠습니다."
+            ],
             "pt-br": [
               "Não... não faço ideia do que é isso."
+            ],
+            "ru": [
+              "Нет... понятия не имею."
+            ],
+            "s-cn": [
+              "没有……我完全不知道这是什么。"
+            ],
+            "t-cn": [
+              "沒有……我完全不知道這是什麼。"
             ]
           },
           "provenance": {
@@ -1342,12 +3321,75 @@
               "This time the rules are exactly the same at every point in the space.",
               "Experiment; see what you can figure out."
             ],
+            "de": [
+              "Ich lasse dich damit herumspielen. Es heißt „Leben“,",
+              "vor langer Zeit benannt und als Analogie erdacht für biologische Zellen, die sich teilen und absterben.",
+              "Es ist ein weiteres Beispiel dafür, einfache Regeln wiederholt auf den Ausgangszustand einer Welt anzuwenden.",
+              "Diesmal sind die Regeln an jedem Punkt des Raumes genau gleich.",
+              "Experimentiere damit und finde mehr darüber heraus."
+            ],
+            "es": [
+              "Te lo dejo para que juegues con ello. Esto se llama «Vida»,",
+              "y recibió ese nombre hace mucho, concebida como una analogía con la muerte y reproducción de las células biológicas.",
+              "Es otro ejemplo de aplicación de reglas simples, una y otra vez, al estado inicial del mundo.",
+              "Esta vez las reglas son exactamente las mismas en todos los puntos del espacio.",
+              "Experimenta; a ver qué consigues averiguar."
+            ],
+            "fr": [
+              "Je vous laisse jouer un peu avec. Ça s'appelle « Vie »,",
+              "nommé ainsi il y a longtemps par analogie avec des cellules biologiques qui se reproduisent et meurent.",
+              "C'est un autre exemple d'application de règles simples, de manière répétée, à l'état initial du monde.",
+              "Cette fois, les règles sont exactement les mêmes en chaque point de l'espace.",
+              "Expérimentez ; voyez ce que vous pouvez comprendre."
+            ],
+            "it": [
+              "Ti lascio giocare con questo. Questo si chiama \"Vita\",",
+              "battezzato tempo fa per analogia con le cellule biologiche che si riproducono e muoiono.",
+              "È un altro esempio di applicazione di regole semplici, ripetuta, allo stato iniziale del mondo.",
+              "Questa volta le regole sono esattamente le stesse in ogni punto dello spazio.",
+              "Sperimenta... vedi cosa riesci a capire."
+            ],
+            "ja": [
+              "これも、いろいろ触ってみるといい。 こちらは「ライフ」と呼ばれている。",
+              "ずっと昔につけられた名前だ。 生物の細胞が増えたり死んだりする様子に なぞらえて考えられた。",
+              "これも、世界の初期状態から、 単純な規則を繰り返し適用する例だ。",
+              "今度は、空間のどの点でも 規則がまったく同じなんだ。",
+              "試してごらん。 何が分かるか、見てみよう。"
+            ],
+            "ko": [
+              "직접 가지고 놀아 봐. 이건 \"생명\"이라고 해.",
+              "오래전에 이름 붙여진 개념으로, 생물학적 세포가 증식하고 죽는 과정에 빗대어 고안된 거야.",
+              "이것도 초기 세계 상태에 간단한 규칙을 반복해서 적용하는 또 다른 예시야.",
+              "이번에는 공간의 모든 지점에서 정확히 똑같은 규칙이 적용돼.",
+              "직접 실험하면서 뭘 알아낼 수 있을지 봐."
+            ],
             "pt-br": [
               "Vou deixar você brincar com ele. Este aqui se chama “Vida”,",
               "batizado há muito tempo, concebido como uma analogia para células biológicas que se reproduzem e morrem.",
               "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
               "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
               "Experimente; veja o que consegue descobrir."
+            ],
+            "ru": [
+              "Оставлю тебя поиграться. Этот называется «Жизнь»,",
+              "названо давным-давно, задумано как аналогия с тем, как биологические клетки размножаются и умирают.",
+              "Ещё один пример применения простых правил, снова и снова, до начального состояния мира.",
+              "На этот раз правила абсолютно одинаковы в каждой точке пространства.",
+              "Экспериментируй; посмотрим, что ты сможешь понять."
+            ],
+            "s-cn": [
+              "留给你慢慢尝试吧。这个叫作“生命”，",
+              "这个名称很早就有了，最初是用来类比生物细胞的繁殖和死亡。",
+              "这是另一个“将简单规则反复应用于初始世界状态”的例子。",
+              "这一次，空间中每一个点遵循的规则都完全相同。",
+              "自己试试，看你能研究出什么。"
+            ],
+            "t-cn": [
+              "留給你慢慢嘗試吧。這個叫作「生命」，",
+              "這個名稱很早就有了， 最初是用來類比生物細胞的繁殖和死亡。",
+              "這是另一個 「將簡單規則反覆應用於初始世界狀態」的例子。",
+              "這一次，空間中每一個點遵循的規則都完全相同。",
+              "自己試試，看你能研究出什麼。"
             ]
           },
           "provenance": {
@@ -1389,6 +3431,132 @@
           "This time the rules are exactly the same at every point in the space.",
           "Experiment; see what you can figure out."
         ],
+        "de": [
+          "Erkennst du das?",
+          "Ah, das Clayson-Feld. Wir kennen es allerdings nur von Abbildungen in Büchern und Fachartikeln.",
+          "Eine so flüssige Darstellung habe ich noch nie gesehen. Wunderschön!",
+          "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
+          "wobei der Ausgangszustand selbst stets null ist.",
+          "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+          "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ...",
+          "Unendliche Details. Unglaubliche Komplexität.",
+          "Schön, dass du das verstehst. Ich gebe dir das hier zum Spielen. Was man unbedingt verinnerlichen muss –",
+          "und immer wieder in sich aufnehmen muss, um es immer tiefer zu verstehen –",
+          "ist Folgendes: Die Mathematik ist so einfach, dass wir diese Komplexität offensichtlich nicht selbst hineinbringen.",
+          "Diese Komplexität und Struktur sind irgendwie einfach schon da. Das ist fundamental.",
+          "Und das hier? Hast du das schon gesehen?",
+          "Nein ... keine Ahnung, was das ist.",
+          "Ich lasse dich damit herumspielen. Es heißt „Leben“,",
+          "vor langer Zeit benannt und als Analogie erdacht für biologische Zellen, die sich teilen und absterben.",
+          "Es ist ein weiteres Beispiel dafür, einfache Regeln wiederholt auf den Ausgangszustand einer Welt anzuwenden.",
+          "Diesmal sind die Regeln an jedem Punkt des Raumes genau gleich.",
+          "Experimentiere damit und finde mehr darüber heraus."
+        ],
+        "es": [
+          "¿Reconoces esto?",
+          "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
+          "Nunca había visto una representación tan fluida. ¡Qué maravilla!",
+          "Es uno de los ejemplos más simples de la aplicación de reglas sobre un estado repetido...",
+          "donde el estado inicial en sí mismo es siempre e invariablemente cero.",
+          "Eleva al cuadrado, suma la constante bidimensional de esa posición en el plano y ese es el nuevo número; repite el proceso.",
+          "Mira cuánto tiempo sobrevive tu número y colorea en consecuencia. Y así...",
+          "El detalle es infinito. Y la complejidad, increíble.",
+          "Me alegra que lo entiendas. Te daré esto para que juegues con ello. Lo importante es interiorizar...",
+          "y absorber una y otra vez en un intento de comprenderlo cada vez más a fondo...",
+          "es que la matemática es tan simple que, obviamente, no ponemos la complejidad ahí nosotros mismos.",
+          "Esa complejidad y esa estructura simplemente ya están ahí de algún modo. Son fundamentales.",
+          "¿Qué te parece esta, la has visto?",
+          "No... ni idea.",
+          "Te lo dejo para que juegues con ello. Esto se llama «Vida»,",
+          "y recibió ese nombre hace mucho, concebida como una analogía con la muerte y reproducción de las células biológicas.",
+          "Es otro ejemplo de aplicación de reglas simples, una y otra vez, al estado inicial del mundo.",
+          "Esta vez las reglas son exactamente las mismas en todos los puntos del espacio.",
+          "Experimenta; a ver qué consigues averiguar."
+        ],
+        "fr": [
+          "Reconnaissez-vous ceci ?",
+          "Ahh, le champ de Clayson. Même si nous ne le connaissons que par des illustrations dans des livres et des journaux ;",
+          "je n'ai jamais vu un rendu aussi fluide. Magnifique !",
+          "C'est l'un des exemples les plus simples d'exécution de règles sur un état répété –",
+          "où l'état initial lui-même est toujours simplement zéro.",
+          "Élevez-le au carré, ajoutez la constante bidimensionnelle pour cette position dans le plan, et voilà le nouveau nombre, puis recommencez.",
+          "Voyez combien de temps votre nombre survit, et coloriez en conséquence. Et, vous voyez...",
+          "Une infinité de détails. Une complexité incroyable.",
+          "Content que vous compreniez. Je vais vous donner ça pour vous amuser. L'important à retenir –",
+          "et à absorber encore et encore pour essayer de comprendre toujours plus en profondeur –",
+          "c'est que les maths sont si simples qu'il est évident que nous n'y mettons pas la complexité nous-mêmes.",
+          "Cette complexité et cette structure sont simplement déjà là. C'est fondamental.",
+          "Et ça, vous l'avez déjà vu ?",
+          "Non... ça ne me dit rien.",
+          "Je vous laisse jouer un peu avec. Ça s'appelle « Vie »,",
+          "nommé ainsi il y a longtemps par analogie avec des cellules biologiques qui se reproduisent et meurent.",
+          "C'est un autre exemple d'application de règles simples, de manière répétée, à l'état initial du monde.",
+          "Cette fois, les règles sont exactement les mêmes en chaque point de l'espace.",
+          "Expérimentez ; voyez ce que vous pouvez comprendre."
+        ],
+        "it": [
+          "Riconosci questo?",
+          "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+          "non ho mai visto una rappresentazione così fluida. Bellissima!",
+          "È uno degli esempi più semplici di regole applicate ripetutamente a uno stato...",
+          "dove lo stato iniziale stesso è semplicemente sempre zero.",
+          "Elevalo al quadrato, aggiungi la costante bidimensionale per quella posizione nel piano e quello è il nuovo numero, poi ripeti.",
+          "Guarda quanto a lungo sopravvive il tuo numero, e colora di conseguenza. E, vedi...",
+          "Dettagli infiniti. Complessità incredibile.",
+          "Bene, bene, vedo che hai capito. Ti darò questo con cui giocare. La cosa importante da interiorizzare...",
+          "e assorbire ancora e ancora in un tentativo di capire sempre più a fondo...",
+          "è che la matematica è così semplice che, ovviamente, non ci mettiamo noi la complessità.",
+          "Complessità e struttura sono già lì in qualche modo. È fondamentale.",
+          "Che ne dici di questo, l'hai mai visto?",
+          "No... non ne ho idea.",
+          "Ti lascio giocare con questo. Questo si chiama \"Vita\",",
+          "battezzato tempo fa per analogia con le cellule biologiche che si riproducono e muoiono.",
+          "È un altro esempio di applicazione di regole semplici, ripetuta, allo stato iniziale del mondo.",
+          "Questa volta le regole sono esattamente le stesse in ogni punto dello spazio.",
+          "Sperimenta... vedi cosa riesci a capire."
+        ],
+        "ja": [
+          "これが何か、分かるかな？",
+          "ああ、クレイソン場ですね。 ただ、私たちは本や論文にある 静止画しか知りません。",
+          "こんな滑らかな表示は、初めて見ました。 美しい！",
+          "状態に規則を繰り返し適用する、 最も単純な例の一つだ。",
+          "初期状態は、いつもゼロだ。",
+          "その数を二乗し、 平面上のその位置に対応する 二次元の定数を加える。 それを新しい数として、繰り返す。",
+          "その数がどれだけ長く持ちこたえるかを見て、 それに応じて色をつける。すると、ほら…",
+          "どこまでも細かい… 信じがたい複雑さです。",
+          "分かってくれてうれしいよ。これをあげよう。 いろいろ触ってみるといい。 大切なのは、ある事実を深く心に刻むことだ。",
+          "何度も繰り返し受け止め、 そのたびに、理解をさらに深めていってほしい。",
+          "計算はこれほど単純なのだから、 複雑さを私たち自身が付け加えているのではない。 その事実は明らかだ。",
+          "その複雑さと構造は、どういうわけか すでにそこにある。 根本的なものなんだ。",
+          "こちらはどうだろう。見たことはあるかな？",
+          "いえ…何なのか、まったく分かりません。",
+          "これも、いろいろ触ってみるといい。 こちらは「ライフ」と呼ばれている。",
+          "ずっと昔につけられた名前だ。 生物の細胞が増えたり死んだりする様子に なぞらえて考えられた。",
+          "これも、世界の初期状態から、 単純な規則を繰り返し適用する例だ。",
+          "今度は、空間のどの点でも 規則がまったく同じなんだ。",
+          "試してごらん。 何が分かるか、見てみよう。"
+        ],
+        "ko": [
+          "이걸 알아보겠어?",
+          "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
+          "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!",
+          "이건 상태에 규칙을 반복 적용하는 가장 단순한 예시 중 하나야.",
+          "시작 상태 자체는 항상 0이지.",
+          "그걸 제곱하고 평면에서의 위치에 해당하는 2차원 상수를 더하면 새로운 수가 나오고, 그걸 반복하는 거야.",
+          "그 수가 얼마나 오래 살아남는지 보고, 그에 따라 색을 입히는 거지. 그러면 보다시피...",
+          "무한한 디테일. 엄청난 복잡성.",
+          "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
+          "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
+          "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
+          "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+          "그럼 이건 어때? 본 적 있어?",
+          "아니요... 전혀 모르겠습니다.",
+          "직접 가지고 놀아 봐. 이건 \"생명\"이라고 해.",
+          "오래전에 이름 붙여진 개념으로, 생물학적 세포가 증식하고 죽는 과정에 빗대어 고안된 거야.",
+          "이것도 초기 세계 상태에 간단한 규칙을 반복해서 적용하는 또 다른 예시야.",
+          "이번에는 공간의 모든 지점에서 정확히 똑같은 규칙이 적용돼.",
+          "직접 실험하면서 뭘 알아낼 수 있을지 봐."
+        ],
         "pt-br": [
           "Você reconhece isto?",
           "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
@@ -1409,6 +3577,69 @@
           "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
           "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
           "Experimente; veja o que consegue descobrir."
+        ],
+        "ru": [
+          "Узнаёшь?",
+          "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+          "Никогда не видел такого плавного изображения. Красота!",
+          "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
+          "где само начальное состояние всегда просто ноль.",
+          "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+          "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли...",
+          "Бесконечная детализация. Невероятная сложность.",
+          "Рад, что ты понимаешь. Я дам тебе это поиграть. Важно усвоить главное —",
+          "и снова и снова впитывать его, пытаясь понять всё глубже и глубже —",
+          "что математика настолько проста, что, очевидно, мы не вкладываем в неё сложность сами.",
+          "Эта сложность и структура каким-то образом уже есть. Это фундаментально.",
+          "Как насчёт этого: ты это видел?",
+          "Нет... понятия не имею.",
+          "Оставлю тебя поиграться. Этот называется «Жизнь»,",
+          "названо давным-давно, задумано как аналогия с тем, как биологические клетки размножаются и умирают.",
+          "Ещё один пример применения простых правил, снова и снова, до начального состояния мира.",
+          "На этот раз правила абсолютно одинаковы в каждой точке пространства.",
+          "Экспериментируй; посмотрим, что ты сможешь понять."
+        ],
+        "s-cn": [
+          "你认得这个吗？",
+          "啊，克莱森场。不过我们只在书籍和论文的静态图像中见过；",
+          "我还从没见过这样流畅的呈现。真美！",
+          "这是“把规则反复应用于状态”最简单的例子之一——",
+          "起始状态本身永远只是零。",
+          "把它平方，再加上代表平面中该点的二维常数，得到新的数值，然后反复计算。",
+          "看看这个数能撑过多少轮运算，再按轮数为它上色。这样你就会看到……",
+          "无穷的细节。不可思议的复杂度。",
+          "很高兴你能理解。我把这个给你，你拿去试试。 有一点，你得真正领会，",
+          "还要反复琢磨、不断体会，试着理解得更深：",
+          "数学的规则如此简单，显然，那些复杂结构不是我们自己加进去的。",
+          "不知为什么，这些简单的规则本来就蕴含着复杂性和结构性。 这是规则本身固有的特性。",
+          "这个呢，你见过吗？",
+          "没有……我完全不知道这是什么。",
+          "留给你慢慢尝试吧。这个叫作“生命”，",
+          "这个名称很早就有了，最初是用来类比生物细胞的繁殖和死亡。",
+          "这是另一个“将简单规则反复应用于初始世界状态”的例子。",
+          "这一次，空间中每一个点遵循的规则都完全相同。",
+          "自己试试，看你能研究出什么。"
+        ],
+        "t-cn": [
+          "你認得這個嗎？",
+          "啊，克萊森場。不過我們只在書籍和論文的靜態圖像中見過；",
+          "我還從沒見過這樣流暢的呈現。真美！",
+          "這是「把規則反覆應用於狀態」最簡單的例子之一——",
+          "起始狀態本身永遠只是零。",
+          "把它平方，再加上代表平面中該點的二維常數， 得到新的數值，然後反覆計算。",
+          "看看這個數能撐過多少輪運算，再按輪數為它上色。 這樣你就會看到……",
+          "無窮的細節。不可思議的複雜度。",
+          "很高興你能理解。我把這個給你，你拿去試試。 有一點，你得真正領會，",
+          "還要反覆琢磨、不斷體會，試著理解得更深：",
+          "數學的規則如此簡單，顯然， 那些複雜結構不是我們自己加進去的。",
+          "不知為什麼，這些簡單的規則本來就蘊含著複雜性和結構性。 這是規則本身固有的特性。",
+          "這個呢，你見過嗎？",
+          "沒有……我完全不知道這是什麼。",
+          "留給你慢慢嘗試吧。這個叫作「生命」，",
+          "這個名稱很早就有了， 最初是用來類比生物細胞的繁殖和死亡。",
+          "這是另一個 「將簡單規則反覆應用於初始世界狀態」的例子。",
+          "這一次，空間中每一個點遵循的規則都完全相同。",
+          "自己試試，看你能研究出什麼。"
         ]
       },
       "silentCues": [],
@@ -1451,7 +3682,22 @@
               "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men.",
               "Unto ages of ages. Thy will be done. Amen."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [
+              "我を導きたまえ。 始まりより深淵の上にあり、 翼を広げてそこに命を宿した御身よ。",
+              "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
+              "我が闇を照らし、 低きものを高めたまえ。",
+              "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。",
+              "とこしえに。 御心の成るがままに。 アーメン。"
+            ],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "paradise_lost_invocation_credits.wav",
@@ -1479,18 +3725,89 @@
           "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men.",
           "Unto ages of ages. Thy will be done. Amen."
         ],
+        "de": [
+          "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen, und hast die mächtigen Schwingen weit gebreitet,",
+          "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
+          "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
+          "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige.",
+          "Von Ewigkeit zu Ewigkeit. Dein Wille geschehe. Amen."
+        ],
+        "es": [
+          "Instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+          "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
+          "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
+          "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres.",
+          "Por los siglos de los siglos. Hágase vuestra voluntad. Amén."
+        ],
+        "fr": [
+          "Instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+          "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
+          "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
+          "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes.",
+          "Pour les siècles des siècles. Que ta volonté soit faite. Amen."
+        ],
+        "it": [
+          "Istruiscimi, poiché Tu sai. Tu eri presente fin dall'inizio e con potenti ali spiegate,",
+          "come una colomba, sedevi meditando sull'immenso abisso e lo rendevi fecondo:",
+          "illumina ciò che in me è oscuro, solleva e sostieni ciò che è in basso;",
+          "affinché, dall'alto di questo grande Argomento, io possa attestare l'Eterna Provvidenza e giustificare le vie di Dio agli uomini.",
+          "Nei secoli dei secoli. Sia fatta la tua volontà. Amen."
+        ],
+        "ja": [
+          "我を導きたまえ。 始まりより深淵の上にあり、 翼を広げてそこに命を宿した御身よ。",
+          "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
+          "我が闇を照らし、 低きものを高めたまえ。",
+          "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。",
+          "とこしえに。 御心の成るがままに。 アーメン。"
+        ],
+        "ko": [
+          "나를 가르치소서, 그대는 아시나니; 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니",
+          "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
+          "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
+          "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서.",
+          "영원에 이어 영원토록. 주의 뜻이 이루어지리이다. 아멘."
+        ],
         "pt-br": [
           "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
           "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
           "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
           "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens.",
           "Por todos os séculos dos séculos. Seja feita a tua vontade. Amém."
+        ],
+        "ru": [
+          "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
+          "Над бездною, плодотворя ее;",
+          "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смог",
+          "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав.",
+          "Во веки веков. Да будет воля Твоя. Аминь."
+        ],
+        "s-cn": [
+          "请教导我，因祢全知； 祢自太初已然存在，以巍巍双翼展覆世间，",
+          "如鸽孵卵般覆于浩瀚深渊，使其孕育万物：",
+          "我心中幽暗处，求祢照明；卑下处，求祢高举；",
+          "使我得以论述这宏大的主题，申明永恒的天意， 向世人昭示神灵之道的公义。",
+          "世世无穷。愿一切遵照祢的旨意。阿门。"
+        ],
+        "t-cn": [
+          "請教導我，因祢全知；祢自太初已然存在， 以巍巍雙翼展覆世間，",
+          "如鴿孵卵般覆於浩瀚深淵，使其孕育萬物：",
+          "我心中幽暗處，求祢照明；卑下處，求祢高舉；",
+          "使我得以論述這宏大的主題，申明永恆的天意， 向世人昭示神靈之道的公義。",
+          "世世無窮。願一切遵照祢的旨意。阿門。"
         ]
       },
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "pt-br": "Clip has no transcript in paradise_lost_invocation_credits"
+        "de": "Clip has no transcript in paradise_lost_invocation_credits",
+        "es": "Clip has no transcript in paradise_lost_invocation_credits",
+        "fr": "Clip has no transcript in paradise_lost_invocation_credits",
+        "it": "Clip has no transcript in paradise_lost_invocation_credits",
+        "ko": "Clip has no transcript in paradise_lost_invocation_credits",
+        "pt-br": "Clip has no transcript in paradise_lost_invocation_credits",
+        "ru": "Clip has no transcript in paradise_lost_invocation_credits",
+        "s-cn": "Clip has no transcript in paradise_lost_invocation_credits",
+        "t-cn": "Clip has no transcript in paradise_lost_invocation_credits"
       },
       "provenance": {
         "entities": [
@@ -1528,7 +3845,21 @@
               "What in me is dark Illumin, what is low raise and support;",
               "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [
+              "何より、精霊よ。 清き心を愛する御身よ、",
+              "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
+              "我が闇を照らし、 低きものを高めたまえ。",
+              "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。"
+            ],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "paradise_lost_invocation_2_01.wav",
@@ -1553,17 +3884,79 @@
           "What in me is dark Illumin, what is low raise and support;",
           "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men."
         ],
+        "de": [
+          "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen, und hast die mächtigen Schwingen weit gebreitet,",
+          "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
+          "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
+          "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige."
+        ],
+        "es": [
+          "Instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+          "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
+          "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
+          "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres."
+        ],
+        "fr": [
+          "Instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+          "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
+          "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
+          "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes."
+        ],
+        "it": [
+          "Istruiscimi, poiché Tu sai. Tu eri presente fin dall'inizio e con potenti ali spiegate,",
+          "come una colomba, sedevi meditando sull'immenso abisso e lo rendevi fecondo:",
+          "illumina ciò che in me è oscuro, solleva e sostieni ciò che è in basso;",
+          "affinché, dall'alto di questo grande Argomento, io possa attestare l'Eterna Provvidenza e giustificare le vie di Dio agli uomini."
+        ],
+        "ja": [
+          "何より、精霊よ。 清き心を愛する御身よ、",
+          "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
+          "我が闇を照らし、 低きものを高めたまえ。",
+          "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。"
+        ],
+        "ko": [
+          "나를 가르치소서, 그대는 아시나니; 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니",
+          "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
+          "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
+          "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서."
+        ],
         "pt-br": [
           "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
           "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
           "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
           "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens."
+        ],
+        "ru": [
+          "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
+          "Над бездною, плодотворя ее;",
+          "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смог",
+          "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав."
+        ],
+        "s-cn": [
+          "请教导我，因祢全知； 祢自太初已然存在，以巍巍双翼展覆世间，",
+          "如鸽孵卵般覆于浩瀚深渊，使其孕育万物：",
+          "我心中幽暗处，求祢照明；卑下处，求祢高举；",
+          "使我得以论述这宏大的主题，申明永恒的天意， 向世人昭示神灵之道的公义。"
+        ],
+        "t-cn": [
+          "請教導我，因祢全知；祢自太初已然存在， 以巍巍雙翼展覆世間，",
+          "如鴿孵卵般覆於浩瀚深淵，使其孕育萬物：",
+          "我心中幽暗處，求祢照明；卑下處，求祢高舉；",
+          "使我得以論述這宏大的主題，申明永恆的天意， 向世人昭示神靈之道的公義。"
         ]
       },
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "pt-br": "Clip identities differ from English"
+        "de": "Clip identities differ from English",
+        "es": "Clip identities differ from English",
+        "fr": "Clip identities differ from English",
+        "it": "Clip identities differ from English",
+        "ko": "Clip identities differ from English",
+        "pt-br": "Clip identities differ from English",
+        "ru": "Clip identities differ from English",
+        "s-cn": "Clip identities differ from English",
+        "t-cn": "Clip identities differ from English"
       },
       "provenance": {
         "entities": [
@@ -1606,7 +3999,26 @@
               "Hi, I'm Sean Rohani, I play Caver in Order of the Sinking Star.",
               "My name's Emily O'Brien, and I'm playing the Queen."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [
+              "リアム・オブライエンです。 戦士役を演じています。",
+              "サブリナです。盗賊役を演じています。",
+              "ダリン・デ・ポールと申します。 魔法使いの声を担当しています。",
+              "マシュー・ウォーターソンです。 ドルイド役を演じています。",
+              "アンジャリ・ビマーニです。 『Order of the Sinking Star』で 吟遊詩人役を演じています。",
+              "エリカ・ラトレルと申します。 船乗り役を演じています。",
+              "ジェイミソン・プライスです。 船乗りの船の精霊、 ボレイダスの声を担当しています。",
+              "こんにちは、ショーン・ロハニです。 『Order of the Sinking Star』で 洞窟探検家役を演じています。",
+              "エミリー・オブライエンと申します。 女王役を演じています。"
+            ],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "actor_credits.wav",
@@ -1642,12 +4054,39 @@
           "Hi, I'm Sean Rohani, I play Caver in Order of the Sinking Star.",
           "My name's Emily O'Brien, and I'm playing the Queen."
         ],
-        "pt-br": []
+        "de": [],
+        "es": [],
+        "fr": [],
+        "it": [],
+        "ja": [
+          "リアム・オブライエンです。 戦士役を演じています。",
+          "サブリナです。盗賊役を演じています。",
+          "ダリン・デ・ポールと申します。 魔法使いの声を担当しています。",
+          "マシュー・ウォーターソンです。 ドルイド役を演じています。",
+          "アンジャリ・ビマーニです。 『Order of the Sinking Star』で 吟遊詩人役を演じています。",
+          "エリカ・ラトレルと申します。 船乗り役を演じています。",
+          "ジェイミソン・プライスです。 船乗りの船の精霊、 ボレイダスの声を担当しています。",
+          "こんにちは、ショーン・ロハニです。 『Order of the Sinking Star』で 洞窟探検家役を演じています。",
+          "エミリー・オブライエンと申します。 女王役を演じています。"
+        ],
+        "ko": [],
+        "pt-br": [],
+        "ru": [],
+        "s-cn": [],
+        "t-cn": []
       },
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "pt-br": "'actor_credits'"
+        "de": "'actor_credits'",
+        "es": "'actor_credits'",
+        "fr": "'actor_credits'",
+        "it": "'actor_credits'",
+        "ko": "'actor_credits'",
+        "pt-br": "'actor_credits'",
+        "ru": "'actor_credits'",
+        "s-cn": "'actor_credits'",
+        "t-cn": "'actor_credits'"
       },
       "provenance": {
         "entities": [

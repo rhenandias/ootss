@@ -2,7 +2,16 @@
   "schemaVersion": 1,
   "languages": [
     "en",
-    "pt-br"
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ja",
+    "ko",
+    "pt-br",
+    "ru",
+    "s-cn",
+    "t-cn"
   ],
   "levels": {
     "3d_intro_mirrors": "data/audio/levels/3d_intro_mirrors.json",

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -25,10 +34,55 @@
               "Our bodies still hold, in every mote of flesh, the full course of our slow transformation from lithic quietude to animal messiness.",
               "To be transmuted is a sort of ... descent through corporeal memory."
             ],
+            "de": [
+              "Doch jede Form trägt ihren eigenen Keim in sich.",
+              "Unsere Körper bewahren ihn noch, in jedem Teilchen Fleisch: den gesamten Verlauf unseres langsamen Wandels von steinerner Stille bis zum tierischen Durcheinander.",
+              "Transmutiert zu werden, ist eine Art ... Abstieg durch das Gedächtnis des Körpers."
+            ],
+            "es": [
+              "Pero todas las formas contienen sus semillas dentro.",
+              "Nuestros cuerpos aún conservan, en cada mota de carne, todo el curso de nuestra lenta transformación de la quietud lítica al desorden animal.",
+              "Someterse a la transmutación es una especie de... descenso por la memoria corporal."
+            ],
+            "fr": [
+              "Mais toutes les formes portent leurs graines en elles.",
+              "Nos corps conservent encore, dans chaque parcelle de chair, toutes les étapes de notre lente transformation, de la quiétude lithique au désordre animal.",
+              "Subir une transmutation est une sorte de... plongée dans la mémoire du corps."
+            ],
+            "it": [
+              "Ma tutte le forme portano in sé i propri semi.",
+              "I nostri corpi conservano ancora, in ogni particella di carne, ogni fase della nostra lenta trasformazione dalla quiete litica al disordine animale.",
+              "Subire una trasmutazione è una sorta di... discesa nella memoria del corpo."
+            ],
+            "ja": [
+              "だが、あらゆる姿は、その種を内に宿す。",
+              "我らの肉体には、その一粒一粒に至るまで、 静かな岩から雑然とした動物へと ゆっくり姿を変えてきた、その全過程が 今なお刻まれている。",
+              "変成とは、いわば… 肉体の記憶をさかのぼることだ。"
+            ],
+            "ko": [
+              "하지만 모든 형상이 그 안에 제 씨앗을 품고 있지.",
+              "우리 몸의 살점 하나하나에는, 고요한 돌에서 어수선한 동물로 서서히 변해 온 모든 단계의 기억이 남아 있네.",
+              "변성을 겪는다는 건 일종의... 육체의 기억 속으로 내려가는 과정입니다."
+            ],
             "pt-br": [
               "Mas todas as formas trazem suas sementes dentro de si.",
               "Nossos corpos ainda guardam, em cada partícula de carne, cada etapa da nossa lenta transformação da quietude lítica para a bagunça animal.",
               "Passar pela transmutação é uma espécie de... mergulho na memória do corpo."
+            ],
+            "ru": [
+              "Но во всех формах уже заключены их семена.",
+              "Наши тела до сих пор хранят в каждой частице плоти каждый этап нашего медленного превращения из каменного покоя в животную суету.",
+              "Претерпеть трансмутацию — значит как бы... погрузиться в глубины телесной памяти."
+            ],
+            "s-cn": [
+              "但一切形态之中，都蕴含着自身的种子。",
+              "从寂静的岩石到躁动的动物，这段漫长的演变， 至今仍留在我们每一寸血肉里。",
+              "被转化，是一种……沿着肉身记忆下沉的过程。"
+            ],
+            "t-cn": [
+              "但一切形態之中，都蘊含著自身的種子。",
+              "從寂靜的巖石到躁動的動物，這段漫長的演變， 至今仍留在我們每一寸血肉裡。",
+              "被轉化，是一種……沿著肉身記憶下沉的過程。"
             ]
           },
           "provenance": {
@@ -52,10 +106,55 @@
           "Our bodies still hold, in every mote of flesh, the full course of our slow transformation from lithic quietude to animal messiness.",
           "To be transmuted is a sort of ... descent through corporeal memory."
         ],
+        "de": [
+          "Doch jede Form trägt ihren eigenen Keim in sich.",
+          "Unsere Körper bewahren ihn noch, in jedem Teilchen Fleisch: den gesamten Verlauf unseres langsamen Wandels von steinerner Stille bis zum tierischen Durcheinander.",
+          "Transmutiert zu werden, ist eine Art ... Abstieg durch das Gedächtnis des Körpers."
+        ],
+        "es": [
+          "Pero todas las formas contienen sus semillas dentro.",
+          "Nuestros cuerpos aún conservan, en cada mota de carne, todo el curso de nuestra lenta transformación de la quietud lítica al desorden animal.",
+          "Someterse a la transmutación es una especie de... descenso por la memoria corporal."
+        ],
+        "fr": [
+          "Mais toutes les formes portent leurs graines en elles.",
+          "Nos corps conservent encore, dans chaque parcelle de chair, toutes les étapes de notre lente transformation, de la quiétude lithique au désordre animal.",
+          "Subir une transmutation est une sorte de... plongée dans la mémoire du corps."
+        ],
+        "it": [
+          "Ma tutte le forme portano in sé i propri semi.",
+          "I nostri corpi conservano ancora, in ogni particella di carne, ogni fase della nostra lenta trasformazione dalla quiete litica al disordine animale.",
+          "Subire una trasmutazione è una sorta di... discesa nella memoria del corpo."
+        ],
+        "ja": [
+          "だが、あらゆる姿は、その種を内に宿す。",
+          "我らの肉体には、その一粒一粒に至るまで、 静かな岩から雑然とした動物へと ゆっくり姿を変えてきた、その全過程が 今なお刻まれている。",
+          "変成とは、いわば… 肉体の記憶をさかのぼることだ。"
+        ],
+        "ko": [
+          "하지만 모든 형상이 그 안에 제 씨앗을 품고 있지.",
+          "우리 몸의 살점 하나하나에는, 고요한 돌에서 어수선한 동물로 서서히 변해 온 모든 단계의 기억이 남아 있네.",
+          "변성을 겪는다는 건 일종의... 육체의 기억 속으로 내려가는 과정입니다."
+        ],
         "pt-br": [
           "Mas todas as formas trazem suas sementes dentro de si.",
           "Nossos corpos ainda guardam, em cada partícula de carne, cada etapa da nossa lenta transformação da quietude lítica para a bagunça animal.",
           "Passar pela transmutação é uma espécie de... mergulho na memória do corpo."
+        ],
+        "ru": [
+          "Но во всех формах уже заключены их семена.",
+          "Наши тела до сих пор хранят в каждой частице плоти каждый этап нашего медленного превращения из каменного покоя в животную суету.",
+          "Претерпеть трансмутацию — значит как бы... погрузиться в глубины телесной памяти."
+        ],
+        "s-cn": [
+          "但一切形态之中，都蕴含着自身的种子。",
+          "从寂静的岩石到躁动的动物，这段漫长的演变， 至今仍留在我们每一寸血肉里。",
+          "被转化，是一种……沿着肉身记忆下沉的过程。"
+        ],
+        "t-cn": [
+          "但一切形態之中，都蘊含著自身的種子。",
+          "從寂靜的巖石到躁動的動物，這段漫長的演變， 至今仍留在我們每一寸血肉裡。",
+          "被轉化，是一種……沿著肉身記憶下沉的過程。"
         ]
       },
       "silentCues": [],

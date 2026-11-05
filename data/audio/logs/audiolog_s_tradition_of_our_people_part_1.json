@@ -3,7 +3,16 @@
   "audioLog": "audiolog_s_tradition_of_our_people_part_1",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -19,8 +28,35 @@
             "en": [
               "I'd been spare with them of late. I felt I should save the last few beacons for emergency purposes."
             ],
+            "de": [
+              "In letzter Zeit bin ich sparsam mit ihnen umgegangen. Ich fand, ich sollte die wenigen verbliebenen Signalgeber für Notfälle aufsparen."
+            ],
+            "es": [
+              "Últimamente las había usado con moderación. Creía que debía reservar las pocas balizas que quedaban para las emergencias."
+            ],
+            "fr": [
+              "Je les ai utilisées avec parcimonie ces derniers temps. Je pensais devoir garder mes dernières balises pour les situations d'urgence."
+            ],
+            "it": [
+              "Ultimamente li avevo usati con parsimonia. Sentivo di dover conservare gli ultimi segnali per le emergenze."
+            ],
+            "ja": [
+              "あなたが私のビーコンを複製できるのは 驚きではありません。"
+            ],
+            "ko": [
+              "최근에는 신호기를 아껴 쓰고 있었어. 마지막으로 남은 몇 개는 비상시에 쓰려고 남겨 둬야 할 것 같았지."
+            ],
             "pt-br": [
               "Eu vinha poupando seu uso ultimamente. Achava que devia guardar os últimos sinalizadores para emergências."
+            ],
+            "ru": [
+              "В последнее время я их берёг. Мне казалось, что последние несколько маяков лучше оставить на крайний случай."
+            ],
+            "s-cn": [
+              "我近来一直省着用它们。 我觉得应该把最后几个信标 留作应急之用。"
+            ],
+            "t-cn": [
+              "我近來一直省著用它們。 我覺得應該把最後幾個信標 留作應急之用。"
             ]
           },
           "provenance": {
@@ -41,8 +77,35 @@
             "en": [
               "I find them fun to listen to. We used to do a similar thing. You could say it was a tradition."
             ],
+            "de": [
+              "Ich höre sie mir gern an. Früher haben wir etwas Ähnliches gemacht. Man könnte sagen, es war eine Tradition."
+            ],
+            "es": [
+              "Me entretiene escucharlas. Antes hacíamos algo parecido. Podría decirse que era una tradición."
+            ],
+            "fr": [
+              "Je trouve ça amusant à écouter. Nous faisions quelque chose de semblable autrefois. On pourrait dire que c'était une tradition."
+            ],
+            "it": [
+              "Mi piace ascoltarli. Un tempo facevamo qualcosa di simile. Si potrebbe dire che fosse una tradizione."
+            ],
+            "ja": [
+              "懐かしいからだ。 昔はよくやっていた。"
+            ],
+            "ko": [
+              "듣는 재미가 있더군. 우리도 비슷한 일을 하곤 했어. 전통이라고 할 만했지."
+            ],
             "pt-br": [
               "Acho divertido ouvi-los. Costumávamos fazer algo parecido. Pode-se dizer que era uma tradição."
+            ],
+            "ru": [
+              "Мне нравится их слушать. Мы раньше делали нечто похожее. Можно сказать, это была традиция."
+            ],
+            "s-cn": [
+              "我觉得听它们挺有趣的。 我们过去也做过类似的事。 可以说那是一种传统。"
+            ],
+            "t-cn": [
+              "我覺得聽它們挺有趣的。 我們過去也做過類似的事。 可以說那是一種傳統。"
             ]
           },
           "provenance": {
@@ -64,9 +127,45 @@
               "I left my recordings that I might be followed.",
               "But you own this place; for what purpose would you leave beacons?"
             ],
+            "de": [
+              "Ich habe Aufnahmen zurückgelassen, damit man mir folgen kann.",
+              "Aber dieser Ort gehört dir; wozu solltest du Signalgeber hinterlassen?"
+            ],
+            "es": [
+              "Yo dejé mis grabaciones para que me siguieran.",
+              "Pero este lugar es tuyo; ¿con qué propósito dejarías tus balizas?"
+            ],
+            "fr": [
+              "J'ai laissé mes enregistrements pour qu'on puisse me suivre.",
+              "Mais cet endroit est à vous ; dans quel but laisseriez-vous des balises ?"
+            ],
+            "it": [
+              "Ho lasciato le mie registrazioni per farmi seguire.",
+              "Ma questo posto è tuo, per quale motivo lasceresti dei segnali?"
+            ],
+            "ja": [
+              "どういうことですか？ 私が記録を残したのは 助手のためです。",
+              "遠い空間ともつながっている。 ならなぜビーコンを残したのですか？"
+            ],
+            "ko": [
+              "전 누군가 따라올 수 있도록 제 기록을 남겨 뒀습니다.",
+              "하지만 여긴 당신이 소유한 곳인데, 무슨 목적으로 신호기를 남기시려는 겁니까?"
+            ],
             "pt-br": [
               "Deixei minhas gravações para que pudessem me seguir.",
               "Mas este lugar é seu; com que propósito você deixaria sinalizadores?"
+            ],
+            "ru": [
+              "Я оставил свои записи, чтобы за мной могли пойти.",
+              "Но это же твоё место; зачем тебе оставлять маяки?"
+            ],
+            "s-cn": [
+              "我留下了自己的录音，好让后来者能追随我的足迹。",
+              "可这里属于你们；既然如此，又为什么要留下信标？"
+            ],
+            "t-cn": [
+              "我留下了自己的錄音， 好讓後來者能追隨我的足跡。",
+              "可這裡屬於你們；既然如此，又為什麼要留下信標？"
             ]
           },
           "provenance": {
@@ -98,6 +197,84 @@
               "In my own works, I appreciated that these recordings, when well-made, helped to focus and direct the Visitors.",
               "It's useful to hint to them about what exactly is going on, why all this is here."
             ],
+            "de": [
+              "Es geht nicht um den „Signalgeber“ an sich, sondern darum, dass du einen Monolog aufnimmst. Bei uns hat diese Praxis eine lange Geschichte;",
+              "sie stammt aus den primitiven Kunstformen, aus denen sich mit der Zeit unsere heutige Arbeit entwickelt hat.",
+              "Das Ganze war früher meist eine Form der Unterhaltung. Man hat ein Gebiet erkundet;",
+              "dabei ist man auf eine Sprachaufnahme gestoßen, die eine fiktive Figur für einen hinterlassen hatte.",
+              "Man hört sie sich an, erkundet weiter, findet die nächste. Und dann noch eine.",
+              "Diese Aufnahmen erzählen einem von der Figur, von ihren Gedanken und von der Welt als Ganzem.",
+              "Das hat man damals „Weltenbau“ genannt. Ein kurioser Gedanke. Heute müssten wir es anders nennen.",
+              "Als unser Orden seine eigene Arbeit aufnahm, ähnelten seine Konstruktionen diesen alten Unterhaltungsformen,",
+              "waren also weitgehend fiktiv. Also nutzten sie eine ähnliche Technik. Mit der Zeit entwickelte sich daraus etwas Direkteres.",
+              "Bei meinen eigenen Werken schätzte ich an diesen Aufnahmen, dass sie, wenn sie gut gemacht waren, den Besuchern halfen, sich zu konzentrieren und zu orientieren.",
+              "Es hat sich bewährt, Besuchern Hinweise darauf zu geben, was hier eigentlich vor sich geht und warum all das hier ist."
+            ],
+            "es": [
+              "No es lo de la «baliza», sino la forma en que grabas un monólogo. Para nosotros, la práctica viene de muy atrás;",
+              "tenía su origen en las artes primitivas de las que, con el tiempo, surgió nuestro trabajo actual.",
+              "Antiguamente solía ser una forma de entretenimiento. Explorabas un territorio;",
+              "te topabas con una grabación narrada que te había dejado algún personaje ficticio.",
+              "La escuchas, sigues explorando, encuentras otra. Y luego otra.",
+              "Estas grabaciones te hablarían del personaje, de sus pensamientos y del contexto general.",
+              "Lo que llamaban «construcción de mundos», resulta curioso pensarlo. Ahora tendríamos que llamarlo de otra manera.",
+              "Cuando nuestra Orden comenzó su labor, sus construcciones no eran muy distintas de aquellos viejos entretenimientos,",
+              "y por eso usaron una técnica similar, con mucha ficción. Con el tiempo evolucionó hacia algo más directo.",
+              "En mis propias obras, observé que estas grabaciones, cuando estaban bien hechas, ayudaban a centrar y orientar a los Visitantes.",
+              "Es útil dar pistas a los Visitantes sobre qué ocurre exactamente, por qué está todo esto aquí."
+            ],
+            "fr": [
+              "Ce n'est pas l'aspect « balise » qui nous intéresse, mais le fait d'enregistrer un monologue. Chez nous, cette pratique remonte à très longtemps ;",
+              "elle trouve ses origines dans des arts primitifs qui, au fil du temps, ont donné naissance à notre travail actuel.",
+              "À l'origine, c'était surtout une forme de divertissement. On explorait un territoire,",
+              "et on y découvrait un enregistrement vocal laissé à notre intention par un personnage fictif.",
+              "On l'écoutait, on poursuivait l'exploration, et on en trouvait un autre. Puis encore un autre.",
+              "Ces enregistrements vous en apprenaient plus sur le personnage, ses pensées et l'univers qui l'entoure.",
+              "On appelait ça la « construction d'univers », ce qui est ironique quand on y pense. Il nous faudrait un autre terme aujourd'hui.",
+              "Quand notre Ordre a commencé son travail, ses créations ressemblaient assez à ces divertissements d'autrefois,",
+              "très romancées, et il a donc repris une technique similaire. Avec le temps, elle a évolué vers quelque chose de plus direct.",
+              "Dans mes propres œuvres, j'appréciais le fait que ces enregistrements, lorsqu'ils étaient bien faits, aidaient les Visiteurs à se concentrer et à s'orienter.",
+              "Il est utile de leur donner des indices sur ce qui se passe exactement, sur la raison d'être de tout ceci."
+            ],
+            "it": [
+              "Non è la parte del 'segnale', ma il modo in cui registri un monologo. Per noi, la pratica risale a molto tempo fa;",
+              "ebbe origine nelle arti primitive da cui, col tempo, si è evoluto il nostro lavoro attuale.",
+              "All'epoca era una forma d'intrattenimento, di solito. Esploravi un territorio;",
+              "ti imbattevi in una registrazione narrata che un personaggio immaginario aveva lasciato per te.",
+              "La ascolti, continui a esplorare, ne trovi un'altra. Poi un'altra ancora.",
+              "Queste registrazioni ti parlerebbero del personaggio, dei suoi pensieri e dell'ambientazione nel suo insieme.",
+              "Quella che chiamavano \"costruzione di mondi\", fa sorridere a pensarci. Ora dovremmo chiamarla in un altro modo.",
+              "Quando il nostro Ordine iniziò la sua opera, costruiva cose non molto diverse da quegli antichi svaghi,",
+              "e quindi usava una tecnica simile, molto romanzata. Col tempo si sviluppò in qualcosa di più diretto.",
+              "Nelle mie opere, apprezzavo il fatto che queste registrazioni, quando erano ben fatte, aiutavano a concentrare e guidare i Visitatori.",
+              "È utile suggerire ai Visitatori cosa stia succedendo esattamente, perché tutto questo sia qui."
+            ],
+            "ja": [
+              "私たちの伝統と言える。",
+              "訪問者のためだ。 発端はある。 創始者がある試みに影響を受け、",
+              "探索する者がそれを聞く。",
+              "基本的な形式としては――",
+              "今の活動より ずっと原始的なものだ。",
+              "架空の人物が 語りの記録を残して",
+              "その試みもまた、 芸術的な別の試みに影響されていた。",
+              "詳しくはまた後ほど。 我々には多くの発想や伝統がある。 いずれわかる。",
+              "多くの者が、あの素朴な時代を どこか面白がっていて それが作品にも表れている。",
+              "他にもたくさんあるがな。",
+              "それが主な伝統だ。 その中の一つに 記録をあちこちに残す習慣がある。"
+            ],
+            "ko": [
+              "'신호기'라는 점 때문이 아니라, 독백을 녹음해 둔다는 점 때문이야. 우리에겐 아주 오래된 관습이지.",
+              "그건 원시적인 예술에서 비롯됐고 그 예술이 결국 발전해서 지금 우리가 하는 일이 된 거야.",
+              "예전에는 대개 오락의 한 형태였어. 어떤 지역을 탐험하다 보면;",
+              "가상의 인물이 당신에게 남긴 음성 기록을 발견하게 되는 거지.",
+              "그걸 듣고, 더 탐험하다가, 또 하나를 발견해. 그리고 또 하나.",
+              "이 기록들을 통해 그 인물의 성격과 생각, 그리고 배경 전반에 대해 알 수 있을 거야.",
+              "예전에는 그걸 \"세계 구축\"이라고 불렀다니, 생각해 보면 재미있지. 지금은 다르게 불러야 할 거야.",
+              "우리 결사가 처음 일을 시작했을 때는 그런 옛 오락물과 크게 다르지 않은 것들을 만들었고,",
+              "그래서 허구를 잔뜩 가미한 비슷한 기법을 썼어. 시간이 흐르며 더 직접적인 방식으로 발전했지.",
+              "내가 활동하던 시절에는 이런 기록이, 잘 만들어졌을 경우, 방문자의 집중을 돕고 방향을 잡아 준다는 걸 알게 됐어.",
+              "무슨 일이 벌어지는지, 왜 이 모든 게 여기 있는지 방문자에게 넌지시 알려 주는 게 효과적이었던 거야."
+            ],
             "pt-br": [
               "Não é a parte do 'sinalizador', mas a forma como você grava um monólogo. Para nós, essa prática vem de muito tempo atrás;",
               "isso surgiu com as artes primitivas das quais, com o tempo, nosso trabalho atual evoluiu.",
@@ -110,6 +287,45 @@
               "e por isso usaram uma técnica parecida, cheia de ficção. Com o tempo ela evoluiu para algo mais direto.",
               "Nos meus próprios trabalhos, percebi que essas gravações, quando eram bem-feitas, ajudavam a concentrar e orientar os Visitantes.",
               "É útil dar pistas aos Visitantes sobre o que exatamente está acontecendo, por que tudo isto está aqui."
+            ],
+            "ru": [
+              "Дело не в «маяке», а в том, как ты записываешь монолог. У нас эта практика существует с давних пор;",
+              "её заложили ранние формы искусства, из которых со временем выросло наше нынешнее дело.",
+              "Прежде это обычно служило развлечением. Вы исследовали какую-нибудь местность;",
+              "и натыкались на голосовую запись, оставленную для вас вымышленным персонажем.",
+              "Вы слушаете её, исследуете дальше, находите следующую. А потом ещё одну.",
+              "Эти записи рассказывали бы о персонаже, его мыслях и мире в целом.",
+              "Забавно, что это называли «созданием мира». Теперь пришлось бы придумать другое название.",
+              "Когда наш Орден только начал свою работу, его творения во многом напоминали те старые развлечения,",
+              "поэтому в ход шёл тот же приём, с большой долей вымысла. Со временем он перерос в более прямое общение.",
+              "В своей работе я ценила то, что эти записи, если они хорошо сделаны, помогают Гостям сосредоточиться и найти свой путь.",
+              "Выяснилось, что полезно давать Гостям намёки на то, что здесь происходит и зачем всё это нужно."
+            ],
+            "s-cn": [
+              "不是“信标”那一部分， 而是你录制独白的方式。 对我们来说，这个做法由来已久；",
+              "它源于那些原始的艺术， 而我们如今的工作 正是从其中演化而来。",
+              "那种老东西通常是一种娱乐形式。 你会去探索某片地域；",
+              "会碰上一段带旁白的录音， 是某个虚构角色留给你的。",
+              "你听完一段录音，然后继续探索，又找到一段录音。 然后再找到一段录音。",
+              "通过这些录音，你能了解那个角色、他的想法， 以及整个故事的背景。",
+              "他们过去称之为“构建世界”， 想想真有意思。 如今我们得换个叫法了。",
+              "我们早期的作品和那些老式的娱乐作品差别不大，",
+              "虚构色彩很浓，所以也用了类似的手法。 后来，这种与访客交流的方式渐渐变得更直接了。",
+              "在我自己的作品中，这些录音只要录得好， 就能帮助访客集中注意，为他们指引方向。我很看重这一点。",
+              "给访客一点提示，能帮助他们了解这里究竟是怎么回事、为什么会有这一切。"
+            ],
+            "t-cn": [
+              "不是「信標」那一部分， 而是你錄製獨白的方式。 對我們來說，這個做法由來已久；",
+              "它源於那些原始的藝術， 而我們如今的工作 正是從其中演化而來。",
+              "那種老東西通常是一種娛樂形式。 你會去探索某片地域；",
+              "會碰上一段帶旁白的錄音， 是某個虛構角色留給你的。",
+              "你聽完一段錄音，然後繼續探索，又找到一段錄音。 然後再找到一段錄音。",
+              "通過這些錄音，你能了解那個角色、他的想法， 以及整個故事的背景。",
+              "他們過去稱之為「構建世界」， 想想真有意思。 如今我們得換個叫法了。",
+              "我們早期的作品和那些老式的娛樂作品差別不大，",
+              "虛構色彩很濃，所以也用了類似的手法。 後來，這種與訪客交流的方式漸漸變得更直接了。",
+              "在我自己的作品中，這些錄音只要錄得好， 就能幫助訪客集中注意，為他們指引方向。 我很看重這一點。",
+              "給訪客一點提示，能幫助他們了解這裡究竟是怎麼回事、 為什麼會有這一切。"
             ]
           },
           "provenance": {
@@ -140,8 +356,35 @@
             "en": [
               "But you stopped making them?"
             ],
+            "de": [
+              "Aber ihr habt aufgehört, Aufnahmen zu machen?"
+            ],
+            "es": [
+              "¿Pero dejaste de hacer grabaciones?"
+            ],
+            "fr": [
+              "Mais vous avez arrêté d'en faire ?"
+            ],
+            "it": [
+              "Ma avete smesso di fare registrazioni?"
+            ],
+            "ja": [
+              "なのにやめたのですか？"
+            ],
+            "ko": [
+              "그런데 기록을 만드는 건 그만두셨다고요?"
+            ],
             "pt-br": [
               "Mas você parou de fazer gravações?"
+            ],
+            "ru": [
+              "Но вы перестали делать записи?"
+            ],
+            "s-cn": [
+              "可你们后来不录了？"
+            ],
+            "t-cn": [
+              "可你們後來不錄了？"
             ]
           },
           "provenance": {
@@ -163,9 +406,45 @@
               "The recordings are supposed to be interesting,",
               "to shed light on what we're doing in a way that's unique and alive. But ..."
             ],
+            "de": [
+              "Die Aufnahmen sollen schließlich interessant sein,",
+              "auf einzigartige, lebendige Weise beleuchten, was wir hier tun. Aber ..."
+            ],
+            "es": [
+              "Se supone que las grabaciones deben ser interesantes,",
+              "para arrojar luz sobre lo que hacemos de una forma única y llena de vida. Pero..."
+            ],
+            "fr": [
+              "Les enregistrements sont censés être intéressants,",
+              "et mettre en lumière ce que nous faisons d'une façon unique et vivante. Mais..."
+            ],
+            "it": [
+              "Le registrazioni dovrebbero essere interessanti,",
+              "per far luce su ciò che facciamo in un modo unico e vivo. Ma..."
+            ],
+            "ja": [
+              "ああ。 あの記録は本来、",
+              "その世界や歴史、 人々について理解を 深めるものだ。だが…"
+            ],
+            "ko": [
+              "이런 기록은 흥미로워야 하고,",
+              "우리가 하는 일을 독특하고 생생한 방식으로 조명하려는 거지. 하지만..."
+            ],
             "pt-br": [
               "As gravações deveriam ser interessantes,",
               "para esclarecer o que estamos fazendo de um jeito único e cheio de vida. Mas..."
+            ],
+            "ru": [
+              "Записи должны быть интересными,",
+              "чтобы пролить свет на нашу работу по-своему, живо и неповторимо. Но..."
+            ],
+            "s-cn": [
+              "这些录音本该是有意思的，",
+              "以一种独特而鲜活的方式， 阐明我们正在做的事。 但是……"
+            ],
+            "t-cn": [
+              "這些錄音本該是有意思的，",
+              "以一種獨特而鮮活的方式， 闡明我們正在做的事。 但是……"
             ]
           },
           "provenance": {
@@ -203,6 +482,126 @@
           "The recordings are supposed to be interesting,",
           "to shed light on what we're doing in a way that's unique and alive. But ..."
         ],
+        "de": [
+          "In letzter Zeit bin ich sparsam mit ihnen umgegangen. Ich fand, ich sollte die wenigen verbliebenen Signalgeber für Notfälle aufsparen.",
+          "Ich höre sie mir gern an. Früher haben wir etwas Ähnliches gemacht. Man könnte sagen, es war eine Tradition.",
+          "Ich habe Aufnahmen zurückgelassen, damit man mir folgen kann.",
+          "Aber dieser Ort gehört dir; wozu solltest du Signalgeber hinterlassen?",
+          "Es geht nicht um den „Signalgeber“ an sich, sondern darum, dass du einen Monolog aufnimmst. Bei uns hat diese Praxis eine lange Geschichte;",
+          "sie stammt aus den primitiven Kunstformen, aus denen sich mit der Zeit unsere heutige Arbeit entwickelt hat.",
+          "Das Ganze war früher meist eine Form der Unterhaltung. Man hat ein Gebiet erkundet;",
+          "dabei ist man auf eine Sprachaufnahme gestoßen, die eine fiktive Figur für einen hinterlassen hatte.",
+          "Man hört sie sich an, erkundet weiter, findet die nächste. Und dann noch eine.",
+          "Diese Aufnahmen erzählen einem von der Figur, von ihren Gedanken und von der Welt als Ganzem.",
+          "Das hat man damals „Weltenbau“ genannt. Ein kurioser Gedanke. Heute müssten wir es anders nennen.",
+          "Als unser Orden seine eigene Arbeit aufnahm, ähnelten seine Konstruktionen diesen alten Unterhaltungsformen,",
+          "waren also weitgehend fiktiv. Also nutzten sie eine ähnliche Technik. Mit der Zeit entwickelte sich daraus etwas Direkteres.",
+          "Bei meinen eigenen Werken schätzte ich an diesen Aufnahmen, dass sie, wenn sie gut gemacht waren, den Besuchern halfen, sich zu konzentrieren und zu orientieren.",
+          "Es hat sich bewährt, Besuchern Hinweise darauf zu geben, was hier eigentlich vor sich geht und warum all das hier ist.",
+          "Aber ihr habt aufgehört, Aufnahmen zu machen?",
+          "Die Aufnahmen sollen schließlich interessant sein,",
+          "auf einzigartige, lebendige Weise beleuchten, was wir hier tun. Aber ..."
+        ],
+        "es": [
+          "Últimamente las había usado con moderación. Creía que debía reservar las pocas balizas que quedaban para las emergencias.",
+          "Me entretiene escucharlas. Antes hacíamos algo parecido. Podría decirse que era una tradición.",
+          "Yo dejé mis grabaciones para que me siguieran.",
+          "Pero este lugar es tuyo; ¿con qué propósito dejarías tus balizas?",
+          "No es lo de la «baliza», sino la forma en que grabas un monólogo. Para nosotros, la práctica viene de muy atrás;",
+          "tenía su origen en las artes primitivas de las que, con el tiempo, surgió nuestro trabajo actual.",
+          "Antiguamente solía ser una forma de entretenimiento. Explorabas un territorio;",
+          "te topabas con una grabación narrada que te había dejado algún personaje ficticio.",
+          "La escuchas, sigues explorando, encuentras otra. Y luego otra.",
+          "Estas grabaciones te hablarían del personaje, de sus pensamientos y del contexto general.",
+          "Lo que llamaban «construcción de mundos», resulta curioso pensarlo. Ahora tendríamos que llamarlo de otra manera.",
+          "Cuando nuestra Orden comenzó su labor, sus construcciones no eran muy distintas de aquellos viejos entretenimientos,",
+          "y por eso usaron una técnica similar, con mucha ficción. Con el tiempo evolucionó hacia algo más directo.",
+          "En mis propias obras, observé que estas grabaciones, cuando estaban bien hechas, ayudaban a centrar y orientar a los Visitantes.",
+          "Es útil dar pistas a los Visitantes sobre qué ocurre exactamente, por qué está todo esto aquí.",
+          "¿Pero dejaste de hacer grabaciones?",
+          "Se supone que las grabaciones deben ser interesantes,",
+          "para arrojar luz sobre lo que hacemos de una forma única y llena de vida. Pero..."
+        ],
+        "fr": [
+          "Je les ai utilisées avec parcimonie ces derniers temps. Je pensais devoir garder mes dernières balises pour les situations d'urgence.",
+          "Je trouve ça amusant à écouter. Nous faisions quelque chose de semblable autrefois. On pourrait dire que c'était une tradition.",
+          "J'ai laissé mes enregistrements pour qu'on puisse me suivre.",
+          "Mais cet endroit est à vous ; dans quel but laisseriez-vous des balises ?",
+          "Ce n'est pas l'aspect « balise » qui nous intéresse, mais le fait d'enregistrer un monologue. Chez nous, cette pratique remonte à très longtemps ;",
+          "elle trouve ses origines dans des arts primitifs qui, au fil du temps, ont donné naissance à notre travail actuel.",
+          "À l'origine, c'était surtout une forme de divertissement. On explorait un territoire,",
+          "et on y découvrait un enregistrement vocal laissé à notre intention par un personnage fictif.",
+          "On l'écoutait, on poursuivait l'exploration, et on en trouvait un autre. Puis encore un autre.",
+          "Ces enregistrements vous en apprenaient plus sur le personnage, ses pensées et l'univers qui l'entoure.",
+          "On appelait ça la « construction d'univers », ce qui est ironique quand on y pense. Il nous faudrait un autre terme aujourd'hui.",
+          "Quand notre Ordre a commencé son travail, ses créations ressemblaient assez à ces divertissements d'autrefois,",
+          "très romancées, et il a donc repris une technique similaire. Avec le temps, elle a évolué vers quelque chose de plus direct.",
+          "Dans mes propres œuvres, j'appréciais le fait que ces enregistrements, lorsqu'ils étaient bien faits, aidaient les Visiteurs à se concentrer et à s'orienter.",
+          "Il est utile de leur donner des indices sur ce qui se passe exactement, sur la raison d'être de tout ceci.",
+          "Mais vous avez arrêté d'en faire ?",
+          "Les enregistrements sont censés être intéressants,",
+          "et mettre en lumière ce que nous faisons d'une façon unique et vivante. Mais..."
+        ],
+        "it": [
+          "Ultimamente li avevo usati con parsimonia. Sentivo di dover conservare gli ultimi segnali per le emergenze.",
+          "Mi piace ascoltarli. Un tempo facevamo qualcosa di simile. Si potrebbe dire che fosse una tradizione.",
+          "Ho lasciato le mie registrazioni per farmi seguire.",
+          "Ma questo posto è tuo, per quale motivo lasceresti dei segnali?",
+          "Non è la parte del 'segnale', ma il modo in cui registri un monologo. Per noi, la pratica risale a molto tempo fa;",
+          "ebbe origine nelle arti primitive da cui, col tempo, si è evoluto il nostro lavoro attuale.",
+          "All'epoca era una forma d'intrattenimento, di solito. Esploravi un territorio;",
+          "ti imbattevi in una registrazione narrata che un personaggio immaginario aveva lasciato per te.",
+          "La ascolti, continui a esplorare, ne trovi un'altra. Poi un'altra ancora.",
+          "Queste registrazioni ti parlerebbero del personaggio, dei suoi pensieri e dell'ambientazione nel suo insieme.",
+          "Quella che chiamavano \"costruzione di mondi\", fa sorridere a pensarci. Ora dovremmo chiamarla in un altro modo.",
+          "Quando il nostro Ordine iniziò la sua opera, costruiva cose non molto diverse da quegli antichi svaghi,",
+          "e quindi usava una tecnica simile, molto romanzata. Col tempo si sviluppò in qualcosa di più diretto.",
+          "Nelle mie opere, apprezzavo il fatto che queste registrazioni, quando erano ben fatte, aiutavano a concentrare e guidare i Visitatori.",
+          "È utile suggerire ai Visitatori cosa stia succedendo esattamente, perché tutto questo sia qui.",
+          "Ma avete smesso di fare registrazioni?",
+          "Le registrazioni dovrebbero essere interessanti,",
+          "per far luce su ciò che facciamo in un modo unico e vivo. Ma..."
+        ],
+        "ja": [
+          "あなたが私のビーコンを複製できるのは 驚きではありません。",
+          "懐かしいからだ。 昔はよくやっていた。",
+          "どういうことですか？ 私が記録を残したのは 助手のためです。",
+          "遠い空間ともつながっている。 ならなぜビーコンを残したのですか？",
+          "私たちの伝統と言える。",
+          "訪問者のためだ。 発端はある。 創始者がある試みに影響を受け、",
+          "探索する者がそれを聞く。",
+          "基本的な形式としては――",
+          "今の活動より ずっと原始的なものだ。",
+          "架空の人物が 語りの記録を残して",
+          "その試みもまた、 芸術的な別の試みに影響されていた。",
+          "詳しくはまた後ほど。 我々には多くの発想や伝統がある。 いずれわかる。",
+          "多くの者が、あの素朴な時代を どこか面白がっていて それが作品にも表れている。",
+          "他にもたくさんあるがな。",
+          "それが主な伝統だ。 その中の一つに 記録をあちこちに残す習慣がある。",
+          "なのにやめたのですか？",
+          "ああ。 あの記録は本来、",
+          "その世界や歴史、 人々について理解を 深めるものだ。だが…"
+        ],
+        "ko": [
+          "최근에는 신호기를 아껴 쓰고 있었어. 마지막으로 남은 몇 개는 비상시에 쓰려고 남겨 둬야 할 것 같았지.",
+          "듣는 재미가 있더군. 우리도 비슷한 일을 하곤 했어. 전통이라고 할 만했지.",
+          "전 누군가 따라올 수 있도록 제 기록을 남겨 뒀습니다.",
+          "하지만 여긴 당신이 소유한 곳인데, 무슨 목적으로 신호기를 남기시려는 겁니까?",
+          "'신호기'라는 점 때문이 아니라, 독백을 녹음해 둔다는 점 때문이야. 우리에겐 아주 오래된 관습이지.",
+          "그건 원시적인 예술에서 비롯됐고 그 예술이 결국 발전해서 지금 우리가 하는 일이 된 거야.",
+          "예전에는 대개 오락의 한 형태였어. 어떤 지역을 탐험하다 보면;",
+          "가상의 인물이 당신에게 남긴 음성 기록을 발견하게 되는 거지.",
+          "그걸 듣고, 더 탐험하다가, 또 하나를 발견해. 그리고 또 하나.",
+          "이 기록들을 통해 그 인물의 성격과 생각, 그리고 배경 전반에 대해 알 수 있을 거야.",
+          "예전에는 그걸 \"세계 구축\"이라고 불렀다니, 생각해 보면 재미있지. 지금은 다르게 불러야 할 거야.",
+          "우리 결사가 처음 일을 시작했을 때는 그런 옛 오락물과 크게 다르지 않은 것들을 만들었고,",
+          "그래서 허구를 잔뜩 가미한 비슷한 기법을 썼어. 시간이 흐르며 더 직접적인 방식으로 발전했지.",
+          "내가 활동하던 시절에는 이런 기록이, 잘 만들어졌을 경우, 방문자의 집중을 돕고 방향을 잡아 준다는 걸 알게 됐어.",
+          "무슨 일이 벌어지는지, 왜 이 모든 게 여기 있는지 방문자에게 넌지시 알려 주는 게 효과적이었던 거야.",
+          "그런데 기록을 만드는 건 그만두셨다고요?",
+          "이런 기록은 흥미로워야 하고,",
+          "우리가 하는 일을 독특하고 생생한 방식으로 조명하려는 거지. 하지만..."
+        ],
         "pt-br": [
           "Eu vinha poupando seu uso ultimamente. Achava que devia guardar os últimos sinalizadores para emergências.",
           "Acho divertido ouvi-los. Costumávamos fazer algo parecido. Pode-se dizer que era uma tradição.",
@@ -222,6 +621,66 @@
           "Mas você parou de fazer gravações?",
           "As gravações deveriam ser interessantes,",
           "para esclarecer o que estamos fazendo de um jeito único e cheio de vida. Mas..."
+        ],
+        "ru": [
+          "В последнее время я их берёг. Мне казалось, что последние несколько маяков лучше оставить на крайний случай.",
+          "Мне нравится их слушать. Мы раньше делали нечто похожее. Можно сказать, это была традиция.",
+          "Я оставил свои записи, чтобы за мной могли пойти.",
+          "Но это же твоё место; зачем тебе оставлять маяки?",
+          "Дело не в «маяке», а в том, как ты записываешь монолог. У нас эта практика существует с давних пор;",
+          "её заложили ранние формы искусства, из которых со временем выросло наше нынешнее дело.",
+          "Прежде это обычно служило развлечением. Вы исследовали какую-нибудь местность;",
+          "и натыкались на голосовую запись, оставленную для вас вымышленным персонажем.",
+          "Вы слушаете её, исследуете дальше, находите следующую. А потом ещё одну.",
+          "Эти записи рассказывали бы о персонаже, его мыслях и мире в целом.",
+          "Забавно, что это называли «созданием мира». Теперь пришлось бы придумать другое название.",
+          "Когда наш Орден только начал свою работу, его творения во многом напоминали те старые развлечения,",
+          "поэтому в ход шёл тот же приём, с большой долей вымысла. Со временем он перерос в более прямое общение.",
+          "В своей работе я ценила то, что эти записи, если они хорошо сделаны, помогают Гостям сосредоточиться и найти свой путь.",
+          "Выяснилось, что полезно давать Гостям намёки на то, что здесь происходит и зачем всё это нужно.",
+          "Но вы перестали делать записи?",
+          "Записи должны быть интересными,",
+          "чтобы пролить свет на нашу работу по-своему, живо и неповторимо. Но..."
+        ],
+        "s-cn": [
+          "我近来一直省着用它们。 我觉得应该把最后几个信标 留作应急之用。",
+          "我觉得听它们挺有趣的。 我们过去也做过类似的事。 可以说那是一种传统。",
+          "我留下了自己的录音，好让后来者能追随我的足迹。",
+          "可这里属于你们；既然如此，又为什么要留下信标？",
+          "不是“信标”那一部分， 而是你录制独白的方式。 对我们来说，这个做法由来已久；",
+          "它源于那些原始的艺术， 而我们如今的工作 正是从其中演化而来。",
+          "那种老东西通常是一种娱乐形式。 你会去探索某片地域；",
+          "会碰上一段带旁白的录音， 是某个虚构角色留给你的。",
+          "你听完一段录音，然后继续探索，又找到一段录音。 然后再找到一段录音。",
+          "通过这些录音，你能了解那个角色、他的想法， 以及整个故事的背景。",
+          "他们过去称之为“构建世界”， 想想真有意思。 如今我们得换个叫法了。",
+          "我们早期的作品和那些老式的娱乐作品差别不大，",
+          "虚构色彩很浓，所以也用了类似的手法。 后来，这种与访客交流的方式渐渐变得更直接了。",
+          "在我自己的作品中，这些录音只要录得好， 就能帮助访客集中注意，为他们指引方向。我很看重这一点。",
+          "给访客一点提示，能帮助他们了解这里究竟是怎么回事、为什么会有这一切。",
+          "可你们后来不录了？",
+          "这些录音本该是有意思的，",
+          "以一种独特而鲜活的方式， 阐明我们正在做的事。 但是……"
+        ],
+        "t-cn": [
+          "我近來一直省著用它們。 我覺得應該把最後幾個信標 留作應急之用。",
+          "我覺得聽它們挺有趣的。 我們過去也做過類似的事。 可以說那是一種傳統。",
+          "我留下了自己的錄音， 好讓後來者能追隨我的足跡。",
+          "可這裡屬於你們；既然如此，又為什麼要留下信標？",
+          "不是「信標」那一部分， 而是你錄製獨白的方式。 對我們來說，這個做法由來已久；",
+          "它源於那些原始的藝術， 而我們如今的工作 正是從其中演化而來。",
+          "那種老東西通常是一種娛樂形式。 你會去探索某片地域；",
+          "會碰上一段帶旁白的錄音， 是某個虛構角色留給你的。",
+          "你聽完一段錄音，然後繼續探索，又找到一段錄音。 然後再找到一段錄音。",
+          "通過這些錄音，你能了解那個角色、他的想法， 以及整個故事的背景。",
+          "他們過去稱之為「構建世界」， 想想真有意思。 如今我們得換個叫法了。",
+          "我們早期的作品和那些老式的娛樂作品差別不大，",
+          "虛構色彩很濃，所以也用了類似的手法。 後來，這種與訪客交流的方式漸漸變得更直接了。",
+          "在我自己的作品中，這些錄音只要錄得好， 就能幫助訪客集中注意，為他們指引方向。 我很看重這一點。",
+          "給訪客一點提示，能幫助他們了解這裡究竟是怎麼回事、 為什麼會有這一切。",
+          "可你們後來不錄了？",
+          "這些錄音本該是有意思的，",
+          "以一種獨特而鮮活的方式， 闡明我們正在做的事。 但是……"
         ]
       },
       "silentCues": [],

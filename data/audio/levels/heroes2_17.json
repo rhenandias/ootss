@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -31,6 +40,72 @@
               "and thus you see me today.",
               "Numerous and tiny, there's no removing them."
             ],
+            "de": [
+              "So lange bin ich so vorsichtig gewesen. Ich war vorsichtig, ich war vorsichtig, ich war vorsichtig, ich war vorsichtig, dann ...",
+              "Eines Tages bin ich morgens um drei aufgewacht, voller Energie und begierig darauf, alles auf einmal anzupacken.",
+              "Genug der Vorsicht, Jahre der Vorsicht machen mich alt! Es ist an der Zeit, einfach den Sprung zu wagen.",
+              "Ich habe wie im Fieber gearbeitet, halb schlafend, mit trübem Blick ...",
+              "Der Stein hat vor Kraft geschimmert, Vibrationen haben meine Finger durchströmt und sind meinen Arm hinaufgewandert.",
+              "Wenig überraschend – ein Fehler. Und ich habe ihn fallen lassen –",
+              "ein Blitz, ein Knall, winzige Splitter sind hervorgeschossen, haben sich hineingebohrt –",
+              "und so stehe ich heute vor dir.",
+              "So zahlreich und so winzig – sie lassen sich nicht entfernen."
+            ],
+            "es": [
+              "Fui tan cuidadoso durante tanto tiempo... Fui cuidadoso, muy cuidadoso, cuidadoso, cuidadoso y luego...",
+              "Un día me desperté a las 3 de la mañana, lleno de energía, con ganas de hacer de todo.",
+              "Pero ya basta de ser cuidadoso, ¡tantos años de cautela me están volviendo viejo! Es hora de dar un salto adelante.",
+              "Trabajaba con frenesí, medio dormido, con la vista nublada...",
+              "La piedra brillando de poder, vibraciones en los dedos, subiendo por el brazo.",
+              "No fue ninguna sorpresa: cometí un error. Y la dejé caer...",
+              "un destello, una detonación, fragmentos diminutos que salen disparados, perforando...",
+              "y así he acabado como me ves.",
+              "Son tantos y tan pequeños que no hay forma de sacarlos."
+            ],
+            "fr": [
+              "J'ai été tellement prudent, pendant si longtemps. J'étais prudent, prudent, prudent, prudent, et puis...",
+              "Un jour je me suis réveillé à 3 h du matin, plein d'énergie, avec l'envie de tout faire.",
+              "Fini, la prudence. Ces années à faire attention me vieillissaient ! Il était temps de sauter le pas.",
+              "Je travaillais fiévreusement, à moitié endormi, les yeux embués...",
+              "La pierre chatoyant de puissance, des vibrations traversant mes doigts, remontant le long de mon bras.",
+              "Sans surprise, j'ai fait une erreur. Et je l'ai laissée tomber.",
+              "Un éclair, une détonation, de minuscules éclats projetés dans tous les sens, me transperçant...",
+              "et me voilà tel que vous me voyez aujourd'hui.",
+              "Ils sont trop nombreux et trop petits, impossible de les retirer."
+            ],
+            "it": [
+              "Ero così attento, per così tanto tempo. Ero attento, ero attento, ero attento, ero attento, poi...",
+              "Un giorno mi sono svegliato alle 3 del mattino, pieno di energia, desideroso di fare tutto e subito.",
+              "Basta con la prudenza, anni passati a stare attento mi stanno invecchiando! È ora di fare un salto in avanti.",
+              "Stavo lavorando febbrilmente, mezzo addormentato, con lo sguardo annebbiato...",
+              "La pietra che scintilla di potere, vibrazioni che mi attraversano le dita, mi risalgono lungo il braccio.",
+              "Niente di sorprendente... un errore. E io la feci cadere...",
+              "un lampo, un boato, minuscoli frammenti che schizzano fuori, trafiggono...",
+              "ed eccomi qui come mi vedi oggi.",
+              "Sono tanti e minuscoli, impossibile rimuoverli."
+            ],
+            "ja": [
+              "ワシは気をつけていた。 気をつけて、気をつけて、 気をつけて、気をつけて、そして…",
+              "ある日、朝3時に目が覚めた。 やる気に満ちあふれて。",
+              "気をつけるだけでは ただ歳を取るだけだ！ そう思って行動した。",
+              "ワシは夢中で作業した。 ほぼ寝ずに…",
+              "力を帯びてきらめく石。 指を通じて伝わる振動が、 腕を駆け上がってきた。",
+              "そして案の定――失敗した。 力の宿った石を 落としてしまった――",
+              "爆発して 飛び散ったダークリスの破片が 突き刺さって――",
+              "そうして、ワシはこうなった。",
+              "細かい欠片が無数にあって、 取り除けんのじゃ。"
+            ],
+            "ko": [
+              "난 정말 오랫동안 조심했어. 조심했고, 또 조심했고, 조심했고, 또 조심했는데, 그러다...",
+              "어느 날 새벽 3시에 일어났더니, 온몸에 에너지가 넘치고, 그냥 뭐든 다 해 버리고 싶더군.",
+              "조심하는 건 이제 충분해. 몇 년씩 조심만 하다 보니 늙어 가고 있어! 이제는 그냥 확 뛰어넘을 때야.",
+              "난 열광적으로 일하고 있었어, 반쯤 잠든 채로, 몽롱하게...",
+              "힘을 머금고 빛나는 돌, 손가락을 타고 전해지는 진동이, 팔을 타고 올라왔어.",
+              "당연히... 실수가 생겼지. 내가 그걸 떨어뜨렸어...",
+              "번쩍이는 섬광, 터지는 소리, 작은 파편들이 튀어나와, 파고들었지...",
+              "그래서 지금 이런 모습이 된 거야.",
+              "너무 많고 작아서 빼낼 수도 없어."
+            ],
             "pt-br": [
               "Eu fui tão cuidadoso, por tanto tempo. Eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, aí...",
               "Um dia acordei às 3 da manhã, cheio de energia, querendo fazer tudo de uma vez.",
@@ -41,6 +116,39 @@
               "um clarão, um estampido, fragmentos minúsculos disparando, perfurando...",
               "e foi assim que fiquei deste jeito.",
               "São muitos e minúsculos, não dá para removê-los."
+            ],
+            "ru": [
+              "Я так долго и так тщательно всё делал. Я был осторожен, я был осторожен, я был осторожен, я был осторожен, а потом...",
+              "Однажды я проснулся в 3 часа ночи, полный энергии, жаждая просто сделать всё.",
+              "Хватит быть осторожным, годы осторожности делают меня старым! Пора просто прыгнуть вперёд.",
+              "Я работал с лихорадочным усердием, сонный, с мутной головой...",
+              "Камень мерцает силой, дрожь проходит сквозь пальцы, поднимается по руке.",
+              "Ничего удивительного — ошибка. И я уронил его —",
+              "вспышка, грохот, крошечные осколки разлетаются, вонзаются —",
+              "и вот я перед вами.",
+              "Их много, они крошечные, их никак не извлечь."
+            ],
+            "s-cn": [
+              "这么多年，我一直小心翼翼，行事小心再小心， 可后来……",
+              "某天凌晨三点，我突然醒了，浑身是劲， 只想一口气把一切做完。",
+              "我够小心了，小心了这么多年，人都要老了！ 是时候放手一搏。",
+              "我整个人都迷迷糊糊，却又发了疯似的工作……",
+              "那块石头闪烁着力量的光芒， 震颤顺着我的手指传上来，一路涌上手臂。",
+              "结果毫不意外地……出了意外。然后我把它摔了……",
+              "一道闪光，一声爆响，细小的碎片四散飞射，刺入——",
+              "于是你就看到了今天的我。",
+              "碎片又多又小，根本没法取出来。"
+            ],
+            "t-cn": [
+              "這麼多年，我一直小心翼翼， 行事小心再小心，可後來……",
+              "某天凌晨三點，我突然醒了， 渾身是勁，只想一口氣把一切做完。",
+              "我夠小心了，小心了這麼多年， 人都要老了！是時候放手一搏。",
+              "我整個人都迷迷糊糊，卻又發了瘋似的工作……",
+              "那塊石頭閃爍著力量的光芒， 震顫順著我的手指傳上來，一路湧上手臂。",
+              "結果毫不意外地……出了意外。然後我把它摔了……",
+              "一道閃光，一聲爆響，細小的碎片四散飛射，刺入——",
+              "於是你就看到了今天的我。",
+              "碎片又多又小，根本沒法取出來。"
             ]
           },
           "provenance": {
@@ -76,6 +184,72 @@
           "and thus you see me today.",
           "Numerous and tiny, there's no removing them."
         ],
+        "de": [
+          "So lange bin ich so vorsichtig gewesen. Ich war vorsichtig, ich war vorsichtig, ich war vorsichtig, ich war vorsichtig, dann ...",
+          "Eines Tages bin ich morgens um drei aufgewacht, voller Energie und begierig darauf, alles auf einmal anzupacken.",
+          "Genug der Vorsicht, Jahre der Vorsicht machen mich alt! Es ist an der Zeit, einfach den Sprung zu wagen.",
+          "Ich habe wie im Fieber gearbeitet, halb schlafend, mit trübem Blick ...",
+          "Der Stein hat vor Kraft geschimmert, Vibrationen haben meine Finger durchströmt und sind meinen Arm hinaufgewandert.",
+          "Wenig überraschend – ein Fehler. Und ich habe ihn fallen lassen –",
+          "ein Blitz, ein Knall, winzige Splitter sind hervorgeschossen, haben sich hineingebohrt –",
+          "und so stehe ich heute vor dir.",
+          "So zahlreich und so winzig – sie lassen sich nicht entfernen."
+        ],
+        "es": [
+          "Fui tan cuidadoso durante tanto tiempo... Fui cuidadoso, muy cuidadoso, cuidadoso, cuidadoso y luego...",
+          "Un día me desperté a las 3 de la mañana, lleno de energía, con ganas de hacer de todo.",
+          "Pero ya basta de ser cuidadoso, ¡tantos años de cautela me están volviendo viejo! Es hora de dar un salto adelante.",
+          "Trabajaba con frenesí, medio dormido, con la vista nublada...",
+          "La piedra brillando de poder, vibraciones en los dedos, subiendo por el brazo.",
+          "No fue ninguna sorpresa: cometí un error. Y la dejé caer...",
+          "un destello, una detonación, fragmentos diminutos que salen disparados, perforando...",
+          "y así he acabado como me ves.",
+          "Son tantos y tan pequeños que no hay forma de sacarlos."
+        ],
+        "fr": [
+          "J'ai été tellement prudent, pendant si longtemps. J'étais prudent, prudent, prudent, prudent, et puis...",
+          "Un jour je me suis réveillé à 3 h du matin, plein d'énergie, avec l'envie de tout faire.",
+          "Fini, la prudence. Ces années à faire attention me vieillissaient ! Il était temps de sauter le pas.",
+          "Je travaillais fiévreusement, à moitié endormi, les yeux embués...",
+          "La pierre chatoyant de puissance, des vibrations traversant mes doigts, remontant le long de mon bras.",
+          "Sans surprise, j'ai fait une erreur. Et je l'ai laissée tomber.",
+          "Un éclair, une détonation, de minuscules éclats projetés dans tous les sens, me transperçant...",
+          "et me voilà tel que vous me voyez aujourd'hui.",
+          "Ils sont trop nombreux et trop petits, impossible de les retirer."
+        ],
+        "it": [
+          "Ero così attento, per così tanto tempo. Ero attento, ero attento, ero attento, ero attento, poi...",
+          "Un giorno mi sono svegliato alle 3 del mattino, pieno di energia, desideroso di fare tutto e subito.",
+          "Basta con la prudenza, anni passati a stare attento mi stanno invecchiando! È ora di fare un salto in avanti.",
+          "Stavo lavorando febbrilmente, mezzo addormentato, con lo sguardo annebbiato...",
+          "La pietra che scintilla di potere, vibrazioni che mi attraversano le dita, mi risalgono lungo il braccio.",
+          "Niente di sorprendente... un errore. E io la feci cadere...",
+          "un lampo, un boato, minuscoli frammenti che schizzano fuori, trafiggono...",
+          "ed eccomi qui come mi vedi oggi.",
+          "Sono tanti e minuscoli, impossibile rimuoverli."
+        ],
+        "ja": [
+          "ワシは気をつけていた。 気をつけて、気をつけて、 気をつけて、気をつけて、そして…",
+          "ある日、朝3時に目が覚めた。 やる気に満ちあふれて。",
+          "気をつけるだけでは ただ歳を取るだけだ！ そう思って行動した。",
+          "ワシは夢中で作業した。 ほぼ寝ずに…",
+          "力を帯びてきらめく石。 指を通じて伝わる振動が、 腕を駆け上がってきた。",
+          "そして案の定――失敗した。 力の宿った石を 落としてしまった――",
+          "爆発して 飛び散ったダークリスの破片が 突き刺さって――",
+          "そうして、ワシはこうなった。",
+          "細かい欠片が無数にあって、 取り除けんのじゃ。"
+        ],
+        "ko": [
+          "난 정말 오랫동안 조심했어. 조심했고, 또 조심했고, 조심했고, 또 조심했는데, 그러다...",
+          "어느 날 새벽 3시에 일어났더니, 온몸에 에너지가 넘치고, 그냥 뭐든 다 해 버리고 싶더군.",
+          "조심하는 건 이제 충분해. 몇 년씩 조심만 하다 보니 늙어 가고 있어! 이제는 그냥 확 뛰어넘을 때야.",
+          "난 열광적으로 일하고 있었어, 반쯤 잠든 채로, 몽롱하게...",
+          "힘을 머금고 빛나는 돌, 손가락을 타고 전해지는 진동이, 팔을 타고 올라왔어.",
+          "당연히... 실수가 생겼지. 내가 그걸 떨어뜨렸어...",
+          "번쩍이는 섬광, 터지는 소리, 작은 파편들이 튀어나와, 파고들었지...",
+          "그래서 지금 이런 모습이 된 거야.",
+          "너무 많고 작아서 빼낼 수도 없어."
+        ],
         "pt-br": [
           "Eu fui tão cuidadoso, por tanto tempo. Eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, eu fui cuidadoso, aí...",
           "Um dia acordei às 3 da manhã, cheio de energia, querendo fazer tudo de uma vez.",
@@ -86,6 +260,39 @@
           "um clarão, um estampido, fragmentos minúsculos disparando, perfurando...",
           "e foi assim que fiquei deste jeito.",
           "São muitos e minúsculos, não dá para removê-los."
+        ],
+        "ru": [
+          "Я так долго и так тщательно всё делал. Я был осторожен, я был осторожен, я был осторожен, я был осторожен, а потом...",
+          "Однажды я проснулся в 3 часа ночи, полный энергии, жаждая просто сделать всё.",
+          "Хватит быть осторожным, годы осторожности делают меня старым! Пора просто прыгнуть вперёд.",
+          "Я работал с лихорадочным усердием, сонный, с мутной головой...",
+          "Камень мерцает силой, дрожь проходит сквозь пальцы, поднимается по руке.",
+          "Ничего удивительного — ошибка. И я уронил его —",
+          "вспышка, грохот, крошечные осколки разлетаются, вонзаются —",
+          "и вот я перед вами.",
+          "Их много, они крошечные, их никак не извлечь."
+        ],
+        "s-cn": [
+          "这么多年，我一直小心翼翼，行事小心再小心， 可后来……",
+          "某天凌晨三点，我突然醒了，浑身是劲， 只想一口气把一切做完。",
+          "我够小心了，小心了这么多年，人都要老了！ 是时候放手一搏。",
+          "我整个人都迷迷糊糊，却又发了疯似的工作……",
+          "那块石头闪烁着力量的光芒， 震颤顺着我的手指传上来，一路涌上手臂。",
+          "结果毫不意外地……出了意外。然后我把它摔了……",
+          "一道闪光，一声爆响，细小的碎片四散飞射，刺入——",
+          "于是你就看到了今天的我。",
+          "碎片又多又小，根本没法取出来。"
+        ],
+        "t-cn": [
+          "這麼多年，我一直小心翼翼， 行事小心再小心，可後來……",
+          "某天凌晨三點，我突然醒了， 渾身是勁，只想一口氣把一切做完。",
+          "我夠小心了，小心了這麼多年， 人都要老了！是時候放手一搏。",
+          "我整個人都迷迷糊糊，卻又發了瘋似的工作……",
+          "那塊石頭閃爍著力量的光芒， 震顫順著我的手指傳上來，一路湧上手臂。",
+          "結果毫不意外地……出了意外。然後我把它摔了……",
+          "一道閃光，一聲爆響，細小的碎片四散飛射，刺入——",
+          "於是你就看到了今天的我。",
+          "碎片又多又小，根本沒法取出來。"
         ]
       },
       "silentCues": [],
@@ -125,9 +332,45 @@
               "So it was an accident; but many a fool would love to do what I can do,",
               "so perhaps it was no accident at all. May be I wrecked my life intentionally, a mind behind my mind."
             ],
+            "de": [
+              "Es war also ein Unfall; doch manch ein Narr würde liebend gern das können, was ich kann.",
+              "Vielleicht war es also gar kein Unfall. Vielleicht habe ich mein Leben absichtlich ruiniert – ein Geist hinter meinem eigenen."
+            ],
+            "es": [
+              "Así que fue un accidente, pero muchos tontos desearían hacer lo que yo puedo hacer,",
+              "así que quizá no fue un accidente en absoluto. Puede que arruinara mi vida a sabiendas, con una mente detrás de mi mente."
+            ],
+            "fr": [
+              "Donc c'était un accident, mais plus d'un idiot rêverait de faire ce que je peux faire,",
+              "alors peut-être que c'était volontaire ? Peut-être que j'ai saboté ma vie exprès, mû par mon inconscient ?"
+            ],
+            "it": [
+              "Quindi è stato un incidente, ma a molti sciocchi piacerebbe fare quello che so fare io,",
+              "quindi forse non è stato affatto un incidente. Forse mi sono rovinato la vita di proposito, una mente dietro la mia mente."
+            ],
+            "ja": [
+              "事故だったが、 ワシのようになりたい愚か者は 大勢いる。",
+              "ならわざとじゃったのか？ 自分の別の心が 人生を狂わせたのか？"
+            ],
+            "ko": [
+              "결국 사고였긴 하지만, 멍청이들은 내가 할 수 있는 걸 하고 싶어 안달이 났지.",
+              "그러니 어쩌면 사고가 아니었을지도 몰라. 내가 일부러 인생을 망쳐버린 걸지도 몰라. 내 마음 이면의 또 다른 마음이."
+            ],
             "pt-br": [
               "Então foi um acidente, mas tem muito tolo por aí que adoraria fazer o que eu faço,",
               "então talvez não tenha sido um acidente. Talvez eu tenha arruinado minha vida de propósito, uma mente por trás da minha mente."
+            ],
+            "ru": [
+              "Значит, это вышло случайно, но многие глупцы мечтали бы уметь то, что умею я,",
+              "так, может, так и было задумано? Может, я намеренно угробил свою жизнь, разум за пределами моего разума."
+            ],
+            "s-cn": [
+              "所以那是一场意外，可又有多少蠢人巴不得有我这样的本事。",
+              "所以，也许那根本不是意外。 也许我是有意毁掉自己的人生， 我内心深处还藏着另一个在背后操控我的念头。"
+            ],
+            "t-cn": [
+              "所以那是一場意外， 可又有多少蠢人巴不得有我這樣的本事。",
+              "所以，也許那根本不是意外。 也許我是有意毀掉自己的人生， 我內心深處還藏著另一個在背後操控我的念頭。"
             ]
           },
           "provenance": {
@@ -149,9 +392,45 @@
           "So it was an accident; but many a fool would love to do what I can do,",
           "so perhaps it was no accident at all. May be I wrecked my life intentionally, a mind behind my mind."
         ],
+        "de": [
+          "Es war also ein Unfall; doch manch ein Narr würde liebend gern das können, was ich kann.",
+          "Vielleicht war es also gar kein Unfall. Vielleicht habe ich mein Leben absichtlich ruiniert – ein Geist hinter meinem eigenen."
+        ],
+        "es": [
+          "Así que fue un accidente, pero muchos tontos desearían hacer lo que yo puedo hacer,",
+          "así que quizá no fue un accidente en absoluto. Puede que arruinara mi vida a sabiendas, con una mente detrás de mi mente."
+        ],
+        "fr": [
+          "Donc c'était un accident, mais plus d'un idiot rêverait de faire ce que je peux faire,",
+          "alors peut-être que c'était volontaire ? Peut-être que j'ai saboté ma vie exprès, mû par mon inconscient ?"
+        ],
+        "it": [
+          "Quindi è stato un incidente, ma a molti sciocchi piacerebbe fare quello che so fare io,",
+          "quindi forse non è stato affatto un incidente. Forse mi sono rovinato la vita di proposito, una mente dietro la mia mente."
+        ],
+        "ja": [
+          "事故だったが、 ワシのようになりたい愚か者は 大勢いる。",
+          "ならわざとじゃったのか？ 自分の別の心が 人生を狂わせたのか？"
+        ],
+        "ko": [
+          "결국 사고였긴 하지만, 멍청이들은 내가 할 수 있는 걸 하고 싶어 안달이 났지.",
+          "그러니 어쩌면 사고가 아니었을지도 몰라. 내가 일부러 인생을 망쳐버린 걸지도 몰라. 내 마음 이면의 또 다른 마음이."
+        ],
         "pt-br": [
           "Então foi um acidente, mas tem muito tolo por aí que adoraria fazer o que eu faço,",
           "então talvez não tenha sido um acidente. Talvez eu tenha arruinado minha vida de propósito, uma mente por trás da minha mente."
+        ],
+        "ru": [
+          "Значит, это вышло случайно, но многие глупцы мечтали бы уметь то, что умею я,",
+          "так, может, так и было задумано? Может, я намеренно угробил свою жизнь, разум за пределами моего разума."
+        ],
+        "s-cn": [
+          "所以那是一场意外，可又有多少蠢人巴不得有我这样的本事。",
+          "所以，也许那根本不是意外。 也许我是有意毁掉自己的人生， 我内心深处还藏着另一个在背后操控我的念头。"
+        ],
+        "t-cn": [
+          "所以那是一場意外， 可又有多少蠢人巴不得有我這樣的本事。",
+          "所以，也許那根本不是意外。 也許我是有意毀掉自己的人生， 我內心深處還藏著另一個在背後操控我的念頭。"
         ]
       },
       "silentCues": [],

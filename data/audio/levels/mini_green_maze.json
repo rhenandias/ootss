@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "In a place that repeats without curving, this conflict dissolves.",
               "Energy can fly fast and true, and will compound as it repeats and overlaps."
             ],
+            "de": [
+              "An einem Ort, der sich wiederholt, ohne sich zu krümmen, löst sich dieser Widerspruch auf.",
+              "Die Energie kann schnell und geradlinig fließen, und baut sich mit jedem Durchlauf und jeder Überlagerung weiter auf."
+            ],
+            "es": [
+              "En un lugar que se repite sin curvarse, ese conflicto se disuelve.",
+              "La energía puede fluir rápida y recta, y se acumulará al repetirse y solaparse."
+            ],
+            "fr": [
+              "Dans un endroit qui se répète sans se courber, ce conflit se dissout.",
+              "L'énergie peut filer vite et droit, et continuera à s'accumuler en se répétant et en se superposant."
+            ],
+            "it": [
+              "In un luogo che si ripete senza curvarsi, questo conflitto si dissolve.",
+              "L'energia può volare veloce e dritta, e continuerà a crescere ripetendosi e sovrapponendosi."
+            ],
+            "ja": [
+              "湾曲せずに反復する空間なら この矛盾は消える。",
+              "エネルギーは速く真っ直ぐ進み、 重なりながら力を増していく。"
+            ],
+            "ko": [
+              "하지만 곡선 없이 반복되는 곳에서는 이런 충돌이 사라져.",
+              "에너지는 빠르고 곧게 날아가면서도 겹치며 계속 축적될 수 있어."
+            ],
             "pt-br": [
               "Em um lugar que se repete sem curvar, esse conflito se dissolve.",
               "A energia pode voar rápida e certeira, e se acumulará à medida que se repete e se sobrepõe."
+            ],
+            "ru": [
+              "В месте, которое повторяется, не искривляясь, это противоречие исчезает.",
+              "Энергия может лететь быстро и точно и накапливаться, повторяясь и накладываясь на себя."
+            ],
+            "s-cn": [
+              "而在这种不必弯曲便会循环的空间里，这一矛盾便不复存在。",
+              "能量可以又快又直地前进，又能在一次次重复叠加中不断积聚。"
+            ],
+            "t-cn": [
+              "而在這種不必彎曲便會循環的空間裡， 這一矛盾便不復存在。",
+              "能量可以又快又直地前進， 又能在一次次重複疊加中不斷積聚。"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "In a place that repeats without curving, this conflict dissolves.",
           "Energy can fly fast and true, and will compound as it repeats and overlaps."
         ],
+        "de": [
+          "An einem Ort, der sich wiederholt, ohne sich zu krümmen, löst sich dieser Widerspruch auf.",
+          "Die Energie kann schnell und geradlinig fließen, und baut sich mit jedem Durchlauf und jeder Überlagerung weiter auf."
+        ],
+        "es": [
+          "En un lugar que se repite sin curvarse, ese conflicto se disuelve.",
+          "La energía puede fluir rápida y recta, y se acumulará al repetirse y solaparse."
+        ],
+        "fr": [
+          "Dans un endroit qui se répète sans se courber, ce conflit se dissout.",
+          "L'énergie peut filer vite et droit, et continuera à s'accumuler en se répétant et en se superposant."
+        ],
+        "it": [
+          "In un luogo che si ripete senza curvarsi, questo conflitto si dissolve.",
+          "L'energia può volare veloce e dritta, e continuerà a crescere ripetendosi e sovrapponendosi."
+        ],
+        "ja": [
+          "湾曲せずに反復する空間なら この矛盾は消える。",
+          "エネルギーは速く真っ直ぐ進み、 重なりながら力を増していく。"
+        ],
+        "ko": [
+          "하지만 곡선 없이 반복되는 곳에서는 이런 충돌이 사라져.",
+          "에너지는 빠르고 곧게 날아가면서도 겹치며 계속 축적될 수 있어."
+        ],
         "pt-br": [
           "Em um lugar que se repete sem curvar, esse conflito se dissolve.",
           "A energia pode voar rápida e certeira, e se acumulará à medida que se repete e se sobrepõe."
+        ],
+        "ru": [
+          "В месте, которое повторяется, не искривляясь, это противоречие исчезает.",
+          "Энергия может лететь быстро и точно и накапливаться, повторяясь и накладываясь на себя."
+        ],
+        "s-cn": [
+          "而在这种不必弯曲便会循环的空间里，这一矛盾便不复存在。",
+          "能量可以又快又直地前进，又能在一次次重复叠加中不断积聚。"
+        ],
+        "t-cn": [
+          "而在這種不必彎曲便會循環的空間裡， 這一矛盾便不復存在。",
+          "能量可以又快又直地前進， 又能在一次次重複疊加中不斷積聚。"
         ]
       },
       "silentCues": [],

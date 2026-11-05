@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Hey fellow traveler, mind helping me move forward?"
             ],
+            "de": [
+              "Hey, Reisender, würdest du mir kurz helfen, hier weiterzukommen?"
+            ],
+            "es": [
+              "Hola, viajero, ¿me echas una mano para avanzar?"
+            ],
+            "fr": [
+              "Hé, voyageur... un petit coup de main pour avancer, peut-être ?"
+            ],
+            "it": [
+              "Ehi, viandante, mi dai una mano ad andare avanti?"
+            ],
+            "ja": [
+              "そこの旅人、 ちょっと手伝ってくれない？"
+            ],
+            "ko": [
+              "거기, 동료 여행자 씨 앞으로 나아가게 좀 도와줄래?"
+            ],
             "pt-br": [
               "Oi, viajante, pode me dar uma mãozinha para avançar?"
+            ],
+            "ru": [
+              "Эй, попутчик, не поможешь мне продвинуться вперёд?"
+            ],
+            "s-cn": [
+              "嗨，同行的旅人，介意帮我往前走吗？"
+            ],
+            "t-cn": [
+              "嗨，同行的旅人，介意幫我往前走嗎？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "I ... uh ... yes, yes of course!"
             ],
+            "de": [
+              "Ich ... äh ... ja, ja, natürlich!"
+            ],
+            "es": [
+              "Yo... eh... sí, ¡sí, claro!"
+            ],
+            "fr": [
+              "Je... euh... oui, oui, bien sûr !"
+            ],
+            "it": [
+              "Io... ehm... sì, certo che sì!"
+            ],
+            "ja": [
+              "えっ？あ…ああ。 構わないが！"
+            ],
+            "ko": [
+              "아... 어... 그래. 물론이지!"
+            ],
             "pt-br": [
               "Eu... hã... Sim, é claro que sim!"
+            ],
+            "ru": [
+              "Я... э... да, да, конечно!"
+            ],
+            "s-cn": [
+              "我……呃……好，当然可以！"
+            ],
+            "t-cn": [
+              "我……呃……好，當然可以！"
             ]
           },
           "provenance": {
@@ -67,9 +130,45 @@
           "Hey fellow traveler, mind helping me move forward?",
           "I ... uh ... yes, yes of course!"
         ],
+        "de": [
+          "Hey, Reisender, würdest du mir kurz helfen, hier weiterzukommen?",
+          "Ich ... äh ... ja, ja, natürlich!"
+        ],
+        "es": [
+          "Hola, viajero, ¿me echas una mano para avanzar?",
+          "Yo... eh... sí, ¡sí, claro!"
+        ],
+        "fr": [
+          "Hé, voyageur... un petit coup de main pour avancer, peut-être ?",
+          "Je... euh... oui, oui, bien sûr !"
+        ],
+        "it": [
+          "Ehi, viandante, mi dai una mano ad andare avanti?",
+          "Io... ehm... sì, certo che sì!"
+        ],
+        "ja": [
+          "そこの旅人、 ちょっと手伝ってくれない？",
+          "えっ？あ…ああ。 構わないが！"
+        ],
+        "ko": [
+          "거기, 동료 여행자 씨 앞으로 나아가게 좀 도와줄래?",
+          "아... 어... 그래. 물론이지!"
+        ],
         "pt-br": [
           "Oi, viajante, pode me dar uma mãozinha para avançar?",
           "Eu... hã... Sim, é claro que sim!"
+        ],
+        "ru": [
+          "Эй, попутчик, не поможешь мне продвинуться вперёд?",
+          "Я... э... да, да, конечно!"
+        ],
+        "s-cn": [
+          "嗨，同行的旅人，介意帮我往前走吗？",
+          "我……呃……好，当然可以！"
+        ],
+        "t-cn": [
+          "嗨，同行的旅人，介意幫我往前走嗎？",
+          "我……呃……好，當然可以！"
         ]
       },
       "silentCues": [],
@@ -109,9 +208,45 @@
               "A girl likes to be manhandled once in a while.",
               "Makes her feel alive."
             ],
+            "de": [
+              "Mir macht es nichts aus, hin und wieder mal etwas Action zu erleben.",
+              "Dabei fühl ich mich immer so ... lebendig."
+            ],
+            "es": [
+              "De vez en cuando, a esta menda le gusta que la agarren fuerte.",
+              "La hace sentirse viva."
+            ],
+            "fr": [
+              "Les filles aiment bien se faire transporter dans les bras d'un homme.",
+              "C'est excitant !"
+            ],
+            "it": [
+              "Alle ragazze piace farsi trasportare da un uomo, di tanto in tanto.",
+              "Le fa sentire vive."
+            ],
+            "ja": [
+              "女だってたまには 強引に扱われたいのよ。",
+              "生きてるって実感するからね。"
+            ],
+            "ko": [
+              "여자도 가끔은 좀 거칠게 다뤄줘야 좋아하는 법이지.",
+              "살아있다는 걸 느끼게 해주잖아."
+            ],
             "pt-br": [
               "Garotas gostam de ser agarradas de vez em quando.",
               "Faz elas se sentirem vivas."
+            ],
+            "ru": [
+              "Девушкам порой нравится, когда их берут в оборот.",
+              "Позволяет почувствовать себя живой."
+            ],
+            "s-cn": [
+              "姑娘偶尔也喜欢被人粗鲁地推来推去。",
+              "那才有活着的感觉。"
+            ],
+            "t-cn": [
+              "姑娘偶爾也喜歡被人粗魯地推來推去。",
+              "那才有活著的感覺。"
             ]
           },
           "provenance": {
@@ -133,8 +268,35 @@
             "en": [
               "Oh my God."
             ],
+            "de": [
+              "O Gott."
+            ],
+            "es": [
+              "Ay, Dios."
+            ],
+            "fr": [
+              "Oh mon Dieu."
+            ],
+            "it": [
+              "Oddio."
+            ],
+            "ja": [
+              "おいおい…"
+            ],
+            "ko": [
+              "오, 신이여."
+            ],
             "pt-br": [
               "Minha nossa."
+            ],
+            "ru": [
+              "Боже мой."
+            ],
+            "s-cn": [
+              "我的天。"
+            ],
+            "t-cn": [
+              "我的天。"
             ]
           },
           "provenance": {
@@ -155,8 +317,35 @@
             "en": [
               "But don't get used to it."
             ],
+            "de": [
+              "Aber gewöhn dich bloß nicht dran."
+            ],
+            "es": [
+              "Pero no te acostumbres."
+            ],
+            "fr": [
+              "Mais n'y prends pas trop goût."
+            ],
+            "it": [
+              "Ma non farci l'abitudine."
+            ],
+            "ja": [
+              "でも調子に乗らないで。"
+            ],
+            "ko": [
+              "하지만 너무 익숙해지진 마."
+            ],
             "pt-br": [
               "Mas não se acostume com isso."
+            ],
+            "ru": [
+              "Но не надо к этому привыкать."
+            ],
+            "s-cn": [
+              "不过可别上瘾哦。"
+            ],
+            "t-cn": [
+              "不過可別上癮哦。"
             ]
           },
           "provenance": {
@@ -179,11 +368,65 @@
           "Oh my God.",
           "But don't get used to it."
         ],
+        "de": [
+          "Mir macht es nichts aus, hin und wieder mal etwas Action zu erleben.",
+          "Dabei fühl ich mich immer so ... lebendig.",
+          "O Gott.",
+          "Aber gewöhn dich bloß nicht dran."
+        ],
+        "es": [
+          "De vez en cuando, a esta menda le gusta que la agarren fuerte.",
+          "La hace sentirse viva.",
+          "Ay, Dios.",
+          "Pero no te acostumbres."
+        ],
+        "fr": [
+          "Les filles aiment bien se faire transporter dans les bras d'un homme.",
+          "C'est excitant !",
+          "Oh mon Dieu.",
+          "Mais n'y prends pas trop goût."
+        ],
+        "it": [
+          "Alle ragazze piace farsi trasportare da un uomo, di tanto in tanto.",
+          "Le fa sentire vive.",
+          "Oddio.",
+          "Ma non farci l'abitudine."
+        ],
+        "ja": [
+          "女だってたまには 強引に扱われたいのよ。",
+          "生きてるって実感するからね。",
+          "おいおい…",
+          "でも調子に乗らないで。"
+        ],
+        "ko": [
+          "여자도 가끔은 좀 거칠게 다뤄줘야 좋아하는 법이지.",
+          "살아있다는 걸 느끼게 해주잖아.",
+          "오, 신이여.",
+          "하지만 너무 익숙해지진 마."
+        ],
         "pt-br": [
           "Garotas gostam de ser agarradas de vez em quando.",
           "Faz elas se sentirem vivas.",
           "Minha nossa.",
           "Mas não se acostume com isso."
+        ],
+        "ru": [
+          "Девушкам порой нравится, когда их берут в оборот.",
+          "Позволяет почувствовать себя живой.",
+          "Боже мой.",
+          "Но не надо к этому привыкать."
+        ],
+        "s-cn": [
+          "姑娘偶尔也喜欢被人粗鲁地推来推去。",
+          "那才有活着的感觉。",
+          "我的天。",
+          "不过可别上瘾哦。"
+        ],
+        "t-cn": [
+          "姑娘偶爾也喜歡被人粗魯地推來推去。",
+          "那才有活著的感覺。",
+          "我的天。",
+          "不過可別上癮哦。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "If, once going, the stone were never to hit anything, would it ever stop?"
             ],
+            "de": [
+              "Würde ein Stein, der nie auf etwas trifft, jemals wieder zum Stillstand kommen?"
+            ],
+            "es": [
+              "Si, una vez en movimiento, la piedra nunca chocara con nada, ¿se llegaría a detener alguna vez?"
+            ],
+            "fr": [
+              "Si, une fois lancée, la pierre ne heurtait jamais rien, s'arrêterait-elle un jour ?"
+            ],
+            "it": [
+              "Se, una volta in movimento, la pietra non colpisse mai nulla, si fermerebbe mai?"
+            ],
+            "ja": [
+              "何かにぶつからなければ ずっと転がるのか？"
+            ],
+            "ko": [
+              "일단 움직이기 시작한 돌이 아무것도 맞히지 않는다면 언젠가 멈추긴 할까?"
+            ],
             "pt-br": [
               "Se, depois de começar a se mover, a pedra nunca batesse em nada, ela pararia algum dia?"
+            ],
+            "ru": [
+              "Если бы камень, начав движение, ни во что не врезался, он бы когда-нибудь остановился?"
+            ],
+            "s-cn": [
+              "如果飞石一旦飞起、永远不撞上任何东西，它还会停下来吗？"
+            ],
+            "t-cn": [
+              "如果飛石一旦飛起、永遠不撞上任何東西， 它還會停下來嗎？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "It always hits something eventually."
             ],
+            "de": [
+              "Jeder Stein trifft auf irgendetwas, früher oder später."
+            ],
+            "es": [
+              "Siempre acaba chocando con algo."
+            ],
+            "fr": [
+              "La pierre finit toujours par heurter quelque chose."
+            ],
+            "it": [
+              "Prima o poi la pietra finisce sempre per colpire qualcosa."
+            ],
+            "ja": [
+              "どんな石もいずれ 何かにぶつかるものさ。"
+            ],
+            "ko": [
+              "결국에는 돌이 늘 뭔가를 맞히게 돼."
+            ],
             "pt-br": [
               "A pedra sempre acaba batendo em alguma coisa."
+            ],
+            "ru": [
+              "Камень всегда во что-нибудь в конце концов врезается."
+            ],
+            "s-cn": [
+              "飞石最后总会撞上什么。"
+            ],
+            "t-cn": [
+              "飛石最後總會撞上什麼。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "What if it's in a place that curves on itself? Connects end to end and top to bottom, somewhat like a ... a doughnut?"
             ],
+            "de": [
+              "Was aber, wenn sich der Ort in sich selbst krümmt? Wenn Ende an Ende anschließt und oben an unten, so ähnlich wie bei einem ... einem Donut?"
+            ],
+            "es": [
+              "¿Y si estuviese en un lugar que se curva sobre sí mismo? ¿Que conecta un extremo con el otro y la parte de arriba con la de abajo, algo así como un... un dónut?"
+            ],
+            "fr": [
+              "Et si elle était dans un endroit qui se courbe sur lui-même ? Qui se rejoint d'un bout à l'autre et de haut en bas, un peu comme un... donut ?"
+            ],
+            "it": [
+              "E se fosse in un posto che si curva su se stesso? Che collega un'estremità all'altra e la cima al fondo, un po' come una... una ciambella?"
+            ],
+            "ja": [
+              "ドーナツ型の 空間だとすれば？"
+            ],
+            "ko": [
+              "그게 자기 자신으로 휘어져 이어지는 공간이라면? 끝과 끝이, 위와 아래가 이어지는 곳, 그러니까... 도넛 같은 곳이라면?"
+            ],
             "pt-br": [
               "E se estiver num lugar que se curva sobre si mesmo? Que conecta as pontas e o topo à base, mais ou menos como uma... uma rosquinha?"
+            ],
+            "ru": [
+              "А если он в месте, которое сворачивается само в себя? Где концы соединены друг с другом, а верх — с низом, как... как у пончика?"
+            ],
+            "s-cn": [
+              "如果它处在一个自身弯曲的地方呢？ 首尾相连、上下相接， 有点像……像个甜甜圈？"
+            ],
+            "t-cn": [
+              "如果它處在一個自身彎曲的地方呢？ 首尾相連、上下相接， 有點像……像個甜甜圈？"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Like a doughnut? The stones don't turn."
             ],
+            "de": [
+              "Wie ein Donut? Die Steine biegen nicht ab."
+            ],
+            "es": [
+              "¿Como un dónut? Las piedras no giran."
+            ],
+            "fr": [
+              "Un donut ? Les pierres ne tournent pas."
+            ],
+            "it": [
+              "Come una ciambella? Le pietre non girano."
+            ],
+            "ja": [
+              "ドーナツ？石は曲がらないよ。"
+            ],
+            "ko": [
+              "도넛처럼? 돌은 방향을 전환하지 않아."
+            ],
             "pt-br": [
               "Como uma rosquinha? As pedras não viram."
+            ],
+            "ru": [
+              "Как пончик? Камни не поворачивают."
+            ],
+            "s-cn": [
+              "像甜甜圈？飞石又不会拐弯。"
+            ],
+            "t-cn": [
+              "像甜甜圈？飛石又不會拐彎。"
             ]
           },
           "provenance": {
@@ -113,11 +230,65 @@
           "What if it's in a place that curves on itself? Connects end to end and top to bottom, somewhat like a ... a doughnut?",
           "Like a doughnut? The stones don't turn."
         ],
+        "de": [
+          "Würde ein Stein, der nie auf etwas trifft, jemals wieder zum Stillstand kommen?",
+          "Jeder Stein trifft auf irgendetwas, früher oder später.",
+          "Was aber, wenn sich der Ort in sich selbst krümmt? Wenn Ende an Ende anschließt und oben an unten, so ähnlich wie bei einem ... einem Donut?",
+          "Wie ein Donut? Die Steine biegen nicht ab."
+        ],
+        "es": [
+          "Si, una vez en movimiento, la piedra nunca chocara con nada, ¿se llegaría a detener alguna vez?",
+          "Siempre acaba chocando con algo.",
+          "¿Y si estuviese en un lugar que se curva sobre sí mismo? ¿Que conecta un extremo con el otro y la parte de arriba con la de abajo, algo así como un... un dónut?",
+          "¿Como un dónut? Las piedras no giran."
+        ],
+        "fr": [
+          "Si, une fois lancée, la pierre ne heurtait jamais rien, s'arrêterait-elle un jour ?",
+          "La pierre finit toujours par heurter quelque chose.",
+          "Et si elle était dans un endroit qui se courbe sur lui-même ? Qui se rejoint d'un bout à l'autre et de haut en bas, un peu comme un... donut ?",
+          "Un donut ? Les pierres ne tournent pas."
+        ],
+        "it": [
+          "Se, una volta in movimento, la pietra non colpisse mai nulla, si fermerebbe mai?",
+          "Prima o poi la pietra finisce sempre per colpire qualcosa.",
+          "E se fosse in un posto che si curva su se stesso? Che collega un'estremità all'altra e la cima al fondo, un po' come una... una ciambella?",
+          "Come una ciambella? Le pietre non girano."
+        ],
+        "ja": [
+          "何かにぶつからなければ ずっと転がるのか？",
+          "どんな石もいずれ 何かにぶつかるものさ。",
+          "ドーナツ型の 空間だとすれば？",
+          "ドーナツ？石は曲がらないよ。"
+        ],
+        "ko": [
+          "일단 움직이기 시작한 돌이 아무것도 맞히지 않는다면 언젠가 멈추긴 할까?",
+          "결국에는 돌이 늘 뭔가를 맞히게 돼.",
+          "그게 자기 자신으로 휘어져 이어지는 공간이라면? 끝과 끝이, 위와 아래가 이어지는 곳, 그러니까... 도넛 같은 곳이라면?",
+          "도넛처럼? 돌은 방향을 전환하지 않아."
+        ],
         "pt-br": [
           "Se, depois de começar a se mover, a pedra nunca batesse em nada, ela pararia algum dia?",
           "A pedra sempre acaba batendo em alguma coisa.",
           "E se estiver num lugar que se curva sobre si mesmo? Que conecta as pontas e o topo à base, mais ou menos como uma... uma rosquinha?",
           "Como uma rosquinha? As pedras não viram."
+        ],
+        "ru": [
+          "Если бы камень, начав движение, ни во что не врезался, он бы когда-нибудь остановился?",
+          "Камень всегда во что-нибудь в конце концов врезается.",
+          "А если он в месте, которое сворачивается само в себя? Где концы соединены друг с другом, а верх — с низом, как... как у пончика?",
+          "Как пончик? Камни не поворачивают."
+        ],
+        "s-cn": [
+          "如果飞石一旦飞起、永远不撞上任何东西，它还会停下来吗？",
+          "飞石最后总会撞上什么。",
+          "如果它处在一个自身弯曲的地方呢？ 首尾相连、上下相接， 有点像……像个甜甜圈？",
+          "像甜甜圈？飞石又不会拐弯。"
+        ],
+        "t-cn": [
+          "如果飛石一旦飛起、永遠不撞上任何東西， 它還會停下來嗎？",
+          "飛石最後總會撞上什麼。",
+          "如果它處在一個自身彎曲的地方呢？ 首尾相連、上下相接， 有點像……像個甜甜圈？",
+          "像甜甜圈？飛石又不會拐彎。"
         ]
       },
       "silentCues": [],
@@ -156,8 +327,35 @@
             "en": [
               "I don't mean the stone would turn. I mean it would go straight."
             ],
+            "de": [
+              "Ich meine nicht, dass der Stein abbiegt. Ich meine, er bewegt sich geradeaus."
+            ],
+            "es": [
+              "No quiero decir que la piedra gire. Quiero decir que iría recta."
+            ],
+            "fr": [
+              "Je ne veux pas dire que la pierre tournerait. Elle irait tout droit."
+            ],
+            "it": [
+              "Non intendo che la pietra giri. Intendo che andrebbe dritta."
+            ],
+            "ja": [
+              "曲がらずに、 真っ直ぐ進むんじゃ。"
+            ],
+            "ko": [
+              "돌이 방향을 전환한다는 게 아니야. 그냥 직진하는 거지."
+            ],
             "pt-br": [
               "Não quero dizer que a pedra viraria. Quero dizer que ela iria em linha reta."
+            ],
+            "ru": [
+              "Я не говорю, что камень повернёт. Я говорю, что он пойдёт прямо."
+            ],
+            "s-cn": [
+              "我不是说飞石会拐弯。我是说它会直着一直飞。"
+            ],
+            "t-cn": [
+              "我不是說飛石會拐彎。我是說它會直著一直飛。"
             ]
           },
           "provenance": {
@@ -178,8 +376,35 @@
             "en": [
               "Then it would fly off the doughnut."
             ],
+            "de": [
+              "Dann würde er vom Donut wegfliegen."
+            ],
+            "es": [
+              "Entonces saldría disparada del dónut."
+            ],
+            "fr": [
+              "Alors elle serait éjectée du donut."
+            ],
+            "it": [
+              "Allora volerebbe via dalla ciambella."
+            ],
+            "ja": [
+              "ドーナツの中を？"
+            ],
+            "ko": [
+              "그러면 도넛 밖으로 날아가 버리겠지."
+            ],
             "pt-br": [
               "Aí sairia voando da rosquinha."
+            ],
+            "ru": [
+              "Тогда он слетел бы с пончика."
+            ],
+            "s-cn": [
+              "那它就会从甜甜圈上飞出去。"
+            ],
+            "t-cn": [
+              "那它就會從甜甜圈上飛出去。"
             ]
           },
           "provenance": {
@@ -200,8 +425,35 @@
             "en": [
               "No, the doughnut is perfectly straight and goes forever!"
             ],
+            "de": [
+              "Nein, der Donut ist vollkommen gerade und setzt sich endlos fort!"
+            ],
+            "es": [
+              "¡No, el dónut es perfectamente recto y no tiene fin!"
+            ],
+            "fr": [
+              "Non, le donut est parfaitement droit et s'étend à l'infini !"
+            ],
+            "it": [
+              "No, la ciambella è perfettamente dritta e prosegue all'infinito!"
+            ],
+            "ja": [
+              "うむ。ドーナツ型の世界を。"
+            ],
+            "ko": [
+              "아니, 도넛은 완벽하게 곧고 끝없이 이어져!"
+            ],
             "pt-br": [
               "Não, a rosquinha é perfeitamente reta e não tem fim!"
+            ],
+            "ru": [
+              "Нет, пончик совершенно прямой и тянется бесконечно!"
+            ],
+            "s-cn": [
+              "不，甜甜圈是完全笔直的， 而且无限延伸！"
+            ],
+            "t-cn": [
+              "不，甜甜圈是完全筆直的， 而且無限延伸！"
             ]
           },
           "provenance": {
@@ -222,8 +474,35 @@
             "en": [
               "You're a strange man."
             ],
+            "de": [
+              "Du bist ein seltsamer Mann."
+            ],
+            "es": [
+              "Eres un hombre extraño."
+            ],
+            "fr": [
+              "Vous êtes un homme étrange."
+            ],
+            "it": [
+              "Sei un uomo strano."
+            ],
+            "ja": [
+              "変なヤツだね。"
+            ],
+            "ko": [
+              "넌 참 이상한 사람이야."
+            ],
             "pt-br": [
               "Você é um homem estranho."
+            ],
+            "ru": [
+              "Ты странный человек."
+            ],
+            "s-cn": [
+              "你这人真怪。"
+            ],
+            "t-cn": [
+              "你這人真怪。"
             ]
           },
           "provenance": {
@@ -246,11 +525,65 @@
           "No, the doughnut is perfectly straight and goes forever!",
           "You're a strange man."
         ],
+        "de": [
+          "Ich meine nicht, dass der Stein abbiegt. Ich meine, er bewegt sich geradeaus.",
+          "Dann würde er vom Donut wegfliegen.",
+          "Nein, der Donut ist vollkommen gerade und setzt sich endlos fort!",
+          "Du bist ein seltsamer Mann."
+        ],
+        "es": [
+          "No quiero decir que la piedra gire. Quiero decir que iría recta.",
+          "Entonces saldría disparada del dónut.",
+          "¡No, el dónut es perfectamente recto y no tiene fin!",
+          "Eres un hombre extraño."
+        ],
+        "fr": [
+          "Je ne veux pas dire que la pierre tournerait. Elle irait tout droit.",
+          "Alors elle serait éjectée du donut.",
+          "Non, le donut est parfaitement droit et s'étend à l'infini !",
+          "Vous êtes un homme étrange."
+        ],
+        "it": [
+          "Non intendo che la pietra giri. Intendo che andrebbe dritta.",
+          "Allora volerebbe via dalla ciambella.",
+          "No, la ciambella è perfettamente dritta e prosegue all'infinito!",
+          "Sei un uomo strano."
+        ],
+        "ja": [
+          "曲がらずに、 真っ直ぐ進むんじゃ。",
+          "ドーナツの中を？",
+          "うむ。ドーナツ型の世界を。",
+          "変なヤツだね。"
+        ],
+        "ko": [
+          "돌이 방향을 전환한다는 게 아니야. 그냥 직진하는 거지.",
+          "그러면 도넛 밖으로 날아가 버리겠지.",
+          "아니, 도넛은 완벽하게 곧고 끝없이 이어져!",
+          "넌 참 이상한 사람이야."
+        ],
         "pt-br": [
           "Não quero dizer que a pedra viraria. Quero dizer que ela iria em linha reta.",
           "Aí sairia voando da rosquinha.",
           "Não, a rosquinha é perfeitamente reta e não tem fim!",
           "Você é um homem estranho."
+        ],
+        "ru": [
+          "Я не говорю, что камень повернёт. Я говорю, что он пойдёт прямо.",
+          "Тогда он слетел бы с пончика.",
+          "Нет, пончик совершенно прямой и тянется бесконечно!",
+          "Ты странный человек."
+        ],
+        "s-cn": [
+          "我不是说飞石会拐弯。我是说它会直着一直飞。",
+          "那它就会从甜甜圈上飞出去。",
+          "不，甜甜圈是完全笔直的， 而且无限延伸！",
+          "你这人真怪。"
+        ],
+        "t-cn": [
+          "我不是說飛石會拐彎。我是說它會直著一直飛。",
+          "那它就會從甜甜圈上飛出去。",
+          "不，甜甜圈是完全筆直的， 而且無限延伸！",
+          "你這人真怪。"
         ]
       },
       "silentCues": [],

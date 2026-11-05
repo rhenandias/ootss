@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,7 +32,16 @@
             "en": [
               "Why are we back *here*?"
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "all_together_now_reassembly_1_1__gemsman.wav",
@@ -43,7 +61,16 @@
             "en": [
               "Hey ... We did this already!"
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "all_together_now_reassembly_1_2__thief.wav",
@@ -63,7 +90,16 @@
             "en": [
               "There's been a change. He wants to reassemble us."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "all_together_now_reassembly_1_3__sailor.wav",
@@ -83,7 +119,16 @@
             "en": [
               "Who?"
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "all_together_now_reassembly_1_4__trader.wav",
@@ -103,7 +148,16 @@
             "en": [
               "The theatrical guy. Judgy."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "all_together_now_reassembly_1_5__sailor.wav",
@@ -123,7 +177,16 @@
             "en": [
               "Oh. A 'friend' of mine."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "all_together_now_reassembly_1_6__thief.wav",
@@ -143,7 +206,16 @@
             "en": [
               "*That* fellow."
             ],
-            "pt-br": []
+            "de": [],
+            "es": [],
+            "fr": [],
+            "it": [],
+            "ja": [],
+            "ko": [],
+            "pt-br": [],
+            "ru": [],
+            "s-cn": [],
+            "t-cn": []
           },
           "provenance": {
             "sourceWav": "all_together_now_reassembly_1_8__thief.wav",
@@ -168,6 +240,65 @@
           "Oh. A 'friend' of mine.",
           "*That* fellow."
         ],
+        "de": [
+          "Warum sind wir wieder hier?",
+          "Hey ... Das haben wir doch schon gemacht!",
+          "Es hat sich etwas geändert. Er will uns wieder zusammenbringen.",
+          "Wer?",
+          "Der theatralische Typ. Urteilt gern über andere.",
+          "Oh. Ein „Freund“ von mir.",
+          "Der Kerl?",
+          "Der Kerl."
+        ],
+        "es": [
+          "¿Por qué hemos vuelto aquí?",
+          "Eh... ¡Esto ya lo hicimos!",
+          "Ha habido un cambio. Quiere volver a reunirnos.",
+          "¿Quién?",
+          "El tipo teatral. El que juzga a todo el mundo.",
+          "Ah. Es un «amigo» mío.",
+          "¿Ese tipo?",
+          "Ese tipo."
+        ],
+        "fr": [
+          "Pourquoi est-ce qu'on est de retour ici ?",
+          "Hé, on a déjà fait ça !",
+          "Il y a eu un changement. Il veut nous rassembler.",
+          "Qui ça ?",
+          "Le type théâtral. Moralisateur.",
+          "Oh. Un de mes « amis ».",
+          "Ce type-là ?",
+          "Ce type-là."
+        ],
+        "it": [
+          "Perché siamo tornati qui?",
+          "Ehi... Questo l'abbiamo già fatto!",
+          "C'è stato un cambiamento. Vuole rimetterci insieme.",
+          "Chi?",
+          "Il tipo teatrale. Quello che giudica tutti.",
+          "Oh. Un mio \"amico\".",
+          "Quel tizio?",
+          "Quel tizio."
+        ],
+        "ja": [
+          "なぜまたここに来たんだ？",
+          "ねえ…これ、もうやったよね！",
+          "何か変わったんだよ。 あの人が、アタシたちをまた集めたいんだって。",
+          "誰が？",
+          "あの芝居がかった人。 何にでも口うるさい人だよ。",
+          "ああ。あたしの「お友達」ね。",
+          "あの男よ。"
+        ],
+        "ko": [
+          "왜 여기로 돌아온 거야?",
+          "이봐... 이건 벌써 했잖아!",
+          "뭔가 바뀌었어. 그 사람이 우리를 다시 모으고 싶대.",
+          "누가?",
+          "연극하듯 말하는 남자. 남을 재단하기 좋아하지.",
+          "아. 내 '친구'야.",
+          "그 친구?",
+          "그 친구."
+        ],
         "pt-br": [
           "Por que estamos de volta aqui?",
           "Ei... Já fizemos isso!",
@@ -177,12 +308,51 @@
           "Ah. Um “amigo” meu.",
           "Aquele sujeito?",
           "Aquele sujeito."
+        ],
+        "ru": [
+          "Почему мы снова здесь?",
+          "Эй... Мы же уже это проходили!",
+          "Планы изменились. Он хочет собрать нас заново.",
+          "Кто?",
+          "Тот театральный тип. Вечно всех осуждает.",
+          "О. Мой «друг».",
+          "Этот тип?",
+          "Этот тип."
+        ],
+        "s-cn": [
+          "我们怎么又回到这里了？",
+          "嘿……这事我们不是已经做过了吗！",
+          "情况有变。他想让我们重新聚到一起。",
+          "谁？",
+          "那个爱装腔作势的家伙，还总爱对人指指点点。",
+          "哦。我的一个“朋友”。",
+          "就是那个家伙？",
+          "就是那个家伙。"
+        ],
+        "t-cn": [
+          "我們怎麼又回到這裡了？",
+          "嘿……這事我們不是已經做過了嗎！",
+          "情況有變。他想讓我們重新聚到一起。",
+          "誰？",
+          "那個愛裝腔作勢的傢伙，還總愛對人指指點點。",
+          "哦。我的一個「朋友」。",
+          "就是那個傢伙？",
+          "就是那個傢伙。"
         ]
       },
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "pt-br": "Clip identities differ from English"
+        "de": "Clip identities differ from English",
+        "es": "Clip identities differ from English",
+        "fr": "Clip identities differ from English",
+        "it": "Clip identities differ from English",
+        "ja": "Ambiguous clip boundary in all_together_now_reassembly_1 at line 11887",
+        "ko": "Clip identities differ from English",
+        "pt-br": "Clip identities differ from English",
+        "ru": "Clip identities differ from English",
+        "s-cn": "Clip identities differ from English",
+        "t-cn": "Clip identities differ from English"
       },
       "provenance": {
         "entities": [
@@ -217,8 +387,35 @@
             "en": [
               "So, what's this about?"
             ],
+            "de": [
+              "Also, worum geht's hier?"
+            ],
+            "es": [
+              "Bueno, a ver, ¿de qué va esto?"
+            ],
+            "fr": [
+              "Alors, quel est le plan ?"
+            ],
+            "it": [
+              "Allora, di cosa si tratta?"
+            ],
+            "ja": [
+              "それで、何の用なんだ？"
+            ],
+            "ko": [
+              "그래서, 이건 뭔데?"
+            ],
             "pt-br": [
               "Então, do que se trata?"
+            ],
+            "ru": [
+              "Так, и что все это значит?"
+            ],
+            "s-cn": [
+              "那这次叫我们来，是要干什么？"
+            ],
+            "t-cn": [
+              "那這次叫我們來，是要幹什麼？"
             ]
           },
           "provenance": {
@@ -239,8 +436,35 @@
             "en": [
               "He'll meet with us soon. We're supposed to save someone's life!"
             ],
+            "de": [
+              "Er trifft sich bald mit uns. Wir sollen jemandem das Leben retten!"
+            ],
+            "es": [
+              "Pronto se reunirá con nosotros. ¡Tenemos que salvarle la vida a alguien!"
+            ],
+            "fr": [
+              "Il va nous rejoindre bientôt. On est censés sauver la vie de quelqu'un !"
+            ],
+            "it": [
+              "Ci incontrerà presto. Dobbiamo salvare la vita di qualcuno!"
+            ],
+            "ja": [
+              "もうすぐ会いに来るよ。 誰かの命を救うんだって！"
+            ],
+            "ko": [
+              "곧 우리를 만나러 올 거야. 우리가 누군가의 목숨을 구해야 한대!"
+            ],
             "pt-br": [
               "Ele vai se encontrar conosco em breve. Temos que salvar a vida de alguém!"
+            ],
+            "ru": [
+              "Он скоро встретится с нами. Мы должны спасти чью-то жизнь!"
+            ],
+            "s-cn": [
+              "他很快就会来见我们。我们要去救一个人的命！"
+            ],
+            "t-cn": [
+              "他很快就會來見我們。我們要去救一個人的命！"
             ]
           },
           "provenance": {
@@ -261,8 +485,35 @@
             "en": [
               "Oh. ... Exciting!"
             ],
+            "de": [
+              "Oh ... Wie aufregend!"
+            ],
+            "es": [
+              "Oh... ¡Qué emocionante!"
+            ],
+            "fr": [
+              "Oh... Génial !"
+            ],
+            "it": [
+              "Oh... Entusiasmante!"
+            ],
+            "ja": [
+              "へえ…楽しみ！"
+            ],
+            "ko": [
+              "오... 신나겠는데!"
+            ],
             "pt-br": [
               "Ah... Empolgante!"
+            ],
+            "ru": [
+              "О... Звучит захватывающе!"
+            ],
+            "s-cn": [
+              "哦。……真让人兴奋！"
+            ],
+            "t-cn": [
+              "哦。……真讓人興奮！"
             ]
           },
           "provenance": {
@@ -283,8 +534,35 @@
             "en": [
               "He's put together a plan, and we're going to ... rehearse?"
             ],
+            "de": [
+              "Er hat einen Plan ausgearbeitet. Und wir sollen ... proben?"
+            ],
+            "es": [
+              "Ha formulado un plan de acción, y vamos a... ¿ensayar?"
+            ],
+            "fr": [
+              "Il a mis au point un plan d'action. On va faire une... répétition ?"
+            ],
+            "it": [
+              "Ha formulato un piano d'azione, e dovremo... fare le prove?"
+            ],
+            "ja": [
+              "あの人が計画を立ててあって、 アタシたちは…その予行演習をするのかな？"
+            ],
+            "ko": [
+              "행동 계획을 세웠대. 우리는... 예행연습을 하는 건가?"
+            ],
             "pt-br": [
               "Ele formulou um plano de ação, e vamos... ensaiar?"
+            ],
+            "ru": [
+              "Он составил план действий. Мы будем... репетировать?"
+            ],
+            "s-cn": [
+              "他已经定好了计划，我们还要……先排练一遍？"
+            ],
+            "t-cn": [
+              "他已經定好了計劃，我們還要……先排練一遍？"
             ]
           },
           "provenance": {
@@ -307,11 +585,65 @@
           "Oh. ... Exciting!",
           "He's put together a plan, and we're going to ... rehearse?"
         ],
+        "de": [
+          "Also, worum geht's hier?",
+          "Er trifft sich bald mit uns. Wir sollen jemandem das Leben retten!",
+          "Oh ... Wie aufregend!",
+          "Er hat einen Plan ausgearbeitet. Und wir sollen ... proben?"
+        ],
+        "es": [
+          "Bueno, a ver, ¿de qué va esto?",
+          "Pronto se reunirá con nosotros. ¡Tenemos que salvarle la vida a alguien!",
+          "Oh... ¡Qué emocionante!",
+          "Ha formulado un plan de acción, y vamos a... ¿ensayar?"
+        ],
+        "fr": [
+          "Alors, quel est le plan ?",
+          "Il va nous rejoindre bientôt. On est censés sauver la vie de quelqu'un !",
+          "Oh... Génial !",
+          "Il a mis au point un plan d'action. On va faire une... répétition ?"
+        ],
+        "it": [
+          "Allora, di cosa si tratta?",
+          "Ci incontrerà presto. Dobbiamo salvare la vita di qualcuno!",
+          "Oh... Entusiasmante!",
+          "Ha formulato un piano d'azione, e dovremo... fare le prove?"
+        ],
+        "ja": [
+          "それで、何の用なんだ？",
+          "もうすぐ会いに来るよ。 誰かの命を救うんだって！",
+          "へえ…楽しみ！",
+          "あの人が計画を立ててあって、 アタシたちは…その予行演習をするのかな？"
+        ],
+        "ko": [
+          "그래서, 이건 뭔데?",
+          "곧 우리를 만나러 올 거야. 우리가 누군가의 목숨을 구해야 한대!",
+          "오... 신나겠는데!",
+          "행동 계획을 세웠대. 우리는... 예행연습을 하는 건가?"
+        ],
         "pt-br": [
           "Então, do que se trata?",
           "Ele vai se encontrar conosco em breve. Temos que salvar a vida de alguém!",
           "Ah... Empolgante!",
           "Ele formulou um plano de ação, e vamos... ensaiar?"
+        ],
+        "ru": [
+          "Так, и что все это значит?",
+          "Он скоро встретится с нами. Мы должны спасти чью-то жизнь!",
+          "О... Звучит захватывающе!",
+          "Он составил план действий. Мы будем... репетировать?"
+        ],
+        "s-cn": [
+          "那这次叫我们来，是要干什么？",
+          "他很快就会来见我们。我们要去救一个人的命！",
+          "哦。……真让人兴奋！",
+          "他已经定好了计划，我们还要……先排练一遍？"
+        ],
+        "t-cn": [
+          "那這次叫我們來，是要幹什麼？",
+          "他很快就會來見我們。我們要去救一個人的命！",
+          "哦。……真讓人興奮！",
+          "他已經定好了計劃，我們還要……先排練一遍？"
         ]
       },
       "silentCues": [],

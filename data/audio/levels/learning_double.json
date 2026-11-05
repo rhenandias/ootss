@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Little spaces that just... keep repeating...",
               "These would be a wondrous boon for my work! For all of us, I mean..."
             ],
+            "de": [
+              "Kleine Räume, die sich einfach ... immer weiter wiederholen ...",
+              "Das wäre für meine Arbeit von unschätzbarem Wert! Für uns alle, meine ich ..."
+            ],
+            "es": [
+              "Pequeños espacios que... se repiten una y otra vez...",
+              "¡Estos serían increíbles para mi trabajo! Para todos nosotros, quiero decir..."
+            ],
+            "fr": [
+              "De petites poches d'espace qui... se répètent sans cesse...",
+              "Ce serait une véritable aubaine pour mes recherches ! Enfin, pour nous tous, je veux dire..."
+            ],
+            "it": [
+              "Piccoli spazi che continuano... a ripetersi...",
+              "Sarebbero incredibili per il mio lavoro! Per tutti noi, voglio dire..."
+            ],
+            "ja": [
+              "延々と繰り返す… 小さな閉じた空間…",
+              "ワシの研究に最高じゃ！ いや、皆にとっても…"
+            ],
+            "ko": [
+              "그냥... 계속 반복되는... 작은 주머니 같은 공간들...",
+              "그런 게 있다면 내 연구에 엄청난 도움이 되겠어! 우리 모두에게 말이지..."
+            ],
             "pt-br": [
               "Pequenos espaços que só... ficam se repetindo...",
               "Isso seria incrível para o meu trabalho! Para todos nós, quero dizer..."
+            ],
+            "ru": [
+              "Маленькие пространства, которые просто... повторяются снова и снова...",
+              "Это было бы невероятно полезно для моей работы! Я имею в виду, для всех нас..."
+            ],
+            "s-cn": [
+              "一个个小小的空间，就这么……不断循环……",
+              "这些对我的研究简直是天赐之宝！我是说，对我们大家都有价值……"
+            ],
+            "t-cn": [
+              "一個個小小的空間，就這麼……不斷循環……",
+              "這些對我的研究簡直是天賜之寶！ 我是說，對我們大家都有價值……"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "Little spaces that just... keep repeating...",
           "These would be a wondrous boon for my work! For all of us, I mean..."
         ],
+        "de": [
+          "Kleine Räume, die sich einfach ... immer weiter wiederholen ...",
+          "Das wäre für meine Arbeit von unschätzbarem Wert! Für uns alle, meine ich ..."
+        ],
+        "es": [
+          "Pequeños espacios que... se repiten una y otra vez...",
+          "¡Estos serían increíbles para mi trabajo! Para todos nosotros, quiero decir..."
+        ],
+        "fr": [
+          "De petites poches d'espace qui... se répètent sans cesse...",
+          "Ce serait une véritable aubaine pour mes recherches ! Enfin, pour nous tous, je veux dire..."
+        ],
+        "it": [
+          "Piccoli spazi che continuano... a ripetersi...",
+          "Sarebbero incredibili per il mio lavoro! Per tutti noi, voglio dire..."
+        ],
+        "ja": [
+          "延々と繰り返す… 小さな閉じた空間…",
+          "ワシの研究に最高じゃ！ いや、皆にとっても…"
+        ],
+        "ko": [
+          "그냥... 계속 반복되는... 작은 주머니 같은 공간들...",
+          "그런 게 있다면 내 연구에 엄청난 도움이 되겠어! 우리 모두에게 말이지..."
+        ],
         "pt-br": [
           "Pequenos espaços que só... ficam se repetindo...",
           "Isso seria incrível para o meu trabalho! Para todos nós, quero dizer..."
+        ],
+        "ru": [
+          "Маленькие пространства, которые просто... повторяются снова и снова...",
+          "Это было бы невероятно полезно для моей работы! Я имею в виду, для всех нас..."
+        ],
+        "s-cn": [
+          "一个个小小的空间，就这么……不断循环……",
+          "这些对我的研究简直是天赐之宝！我是说，对我们大家都有价值……"
+        ],
+        "t-cn": [
+          "一個個小小的空間，就這麼……不斷循環……",
+          "這些對我的研究簡直是天賜之寶！ 我是說，對我們大家都有價值……"
         ]
       },
       "silentCues": [],

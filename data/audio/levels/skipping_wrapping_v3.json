@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -25,10 +34,55 @@
               "Borraidus? Are you there?",
               "Okay then. This is the situation."
             ],
+            "de": [
+              "Borraidus, was hältst du davon? Bei diesem hier habe ich ein seltsames Gefühl.",
+              "Borraidus? Bist du da?",
+              "Also gut. So sieht die Lage aus."
+            ],
+            "es": [
+              "Borraidus, ¿qué te parece esto? Me da mala espina esta vez.",
+              "¿Borraidus? ¿Estás ahí?",
+              "Vale, entonces. Esta es la situación."
+            ],
+            "fr": [
+              "Borraidus, qu'est-ce que tu penses de tout ça ? Ça me met mal à l'aise.",
+              "Borraidus ? Tu es là ?",
+              "Bon. Voilà donc où j'en suis."
+            ],
+            "it": [
+              "Borraidus, che ne pensi? Mi sento strana al riguardo.",
+              "Borraidus? Ci sei?",
+              "Va bene, allora. Questa è la situazione."
+            ],
+            "ja": [
+              "ボライダス、どう思う？ なんだか妙な感じがする。",
+              "ボライダス？いる？",
+              "一人になったか。"
+            ],
+            "ko": [
+              "보라이두스, 이거 어떻게 생각해? 좀 이상하게 느껴지는데.",
+              "보라이두스? 거기 있어?",
+              "좋아. 상황은 바로 이런 거야."
+            ],
             "pt-br": [
               "Borraidus, o que você acha disso? Tenho uma sensação estranha sobre isso.",
               "Borraidus? Você está aí?",
               "Certo, então. Esta é a situação."
+            ],
+            "ru": [
+              "Боррайдус, что ты об этом думаешь? У меня по этому поводу странное чувство.",
+              "Боррайдус? Ты здесь?",
+              "Ладно. Вот какова обстановка."
+            ],
+            "s-cn": [
+              "博莱达斯，你怎么看？这一处总让我觉得不对劲。",
+              "博莱达斯？你在吗？",
+              "好吧，现在就是这么个情况。"
+            ],
+            "t-cn": [
+              "博萊達斯，你怎麼看？這一處總讓我覺得不對勁。",
+              "博萊達斯？你在嗎？",
+              "好吧，現在就是這麼個情況。"
             ]
           },
           "provenance": {
@@ -52,10 +106,55 @@
           "Borraidus? Are you there?",
           "Okay then. This is the situation."
         ],
+        "de": [
+          "Borraidus, was hältst du davon? Bei diesem hier habe ich ein seltsames Gefühl.",
+          "Borraidus? Bist du da?",
+          "Also gut. So sieht die Lage aus."
+        ],
+        "es": [
+          "Borraidus, ¿qué te parece esto? Me da mala espina esta vez.",
+          "¿Borraidus? ¿Estás ahí?",
+          "Vale, entonces. Esta es la situación."
+        ],
+        "fr": [
+          "Borraidus, qu'est-ce que tu penses de tout ça ? Ça me met mal à l'aise.",
+          "Borraidus ? Tu es là ?",
+          "Bon. Voilà donc où j'en suis."
+        ],
+        "it": [
+          "Borraidus, che ne pensi? Mi sento strana al riguardo.",
+          "Borraidus? Ci sei?",
+          "Va bene, allora. Questa è la situazione."
+        ],
+        "ja": [
+          "ボライダス、どう思う？ なんだか妙な感じがする。",
+          "ボライダス？いる？",
+          "一人になったか。"
+        ],
+        "ko": [
+          "보라이두스, 이거 어떻게 생각해? 좀 이상하게 느껴지는데.",
+          "보라이두스? 거기 있어?",
+          "좋아. 상황은 바로 이런 거야."
+        ],
         "pt-br": [
           "Borraidus, o que você acha disso? Tenho uma sensação estranha sobre isso.",
           "Borraidus? Você está aí?",
           "Certo, então. Esta é a situação."
+        ],
+        "ru": [
+          "Боррайдус, что ты об этом думаешь? У меня по этому поводу странное чувство.",
+          "Боррайдус? Ты здесь?",
+          "Ладно. Вот какова обстановка."
+        ],
+        "s-cn": [
+          "博莱达斯，你怎么看？这一处总让我觉得不对劲。",
+          "博莱达斯？你在吗？",
+          "好吧，现在就是这么个情况。"
+        ],
+        "t-cn": [
+          "博萊達斯，你怎麼看？這一處總讓我覺得不對勁。",
+          "博萊達斯？你在嗎？",
+          "好吧，現在就是這麼個情況。"
         ]
       },
       "silentCues": [],
@@ -94,8 +193,35 @@
             "en": [
               "Absurd, that a world could be this way."
             ],
+            "de": [
+              "Absurd, dass eine Welt so sein kann."
+            ],
+            "es": [
+              "Es absurdo que un mundo pueda ser así."
+            ],
+            "fr": [
+              "C'est absurde, qu'un monde puisse ressembler à ça."
+            ],
+            "it": [
+              "Assurdo, che un mondo possa essere così."
+            ],
+            "ja": [
+              "一体どうなってるんだ？ 無限に続くわけじゃない 小さな世界って…"
+            ],
+            "ko": [
+              "세상이 이럴 수도 있다니, 말도 안 되는군."
+            ],
             "pt-br": [
               "É absurdo que um mundo possa ser assim."
+            ],
+            "ru": [
+              "Нелепо, что мир может быть так устроен."
+            ],
+            "s-cn": [
+              "世界居然还能是这副模样，真荒唐。"
+            ],
+            "t-cn": [
+              "世界居然還能是這副模樣，真荒唐。"
             ]
           },
           "provenance": {
@@ -115,8 +241,35 @@
         "en": [
           "Absurd, that a world could be this way."
         ],
+        "de": [
+          "Absurd, dass eine Welt so sein kann."
+        ],
+        "es": [
+          "Es absurdo que un mundo pueda ser así."
+        ],
+        "fr": [
+          "C'est absurde, qu'un monde puisse ressembler à ça."
+        ],
+        "it": [
+          "Assurdo, che un mondo possa essere così."
+        ],
+        "ja": [
+          "一体どうなってるんだ？ 無限に続くわけじゃない 小さな世界って…"
+        ],
+        "ko": [
+          "세상이 이럴 수도 있다니, 말도 안 되는군."
+        ],
         "pt-br": [
           "É absurdo que um mundo possa ser assim."
+        ],
+        "ru": [
+          "Нелепо, что мир может быть так устроен."
+        ],
+        "s-cn": [
+          "世界居然还能是这副模样，真荒唐。"
+        ],
+        "t-cn": [
+          "世界居然還能是這副模樣，真荒唐。"
         ]
       },
       "silentCues": [],
@@ -155,8 +308,35 @@
             "en": [
               "I can't imagine what the Guild will make of this..."
             ],
+            "de": [
+              "Ich frage mich, was die Gilde wohl davon halten wird ..."
+            ],
+            "es": [
+              "No me imagino qué pensará el Gremio de todo esto..."
+            ],
+            "fr": [
+              "J'ai du mal à imaginer ce que la Guilde va penser de ça..."
+            ],
+            "it": [
+              "Non riesco a immaginare cosa farà la gilda di tutto questo..."
+            ],
+            "ja": [
+              "ギルドがどう考えるか 想像もできないな…"
+            ],
+            "ko": [
+              "길드가 이걸 보고 뭐라고 할지 상상이 안 돼..."
+            ],
             "pt-br": [
               "Não consigo imaginar o que a Guilda vai pensar disso..."
+            ],
+            "ru": [
+              "Не представляю, что из этого сделает Гильдия..."
+            ],
+            "s-cn": [
+              "真不知道公会会怎么看这里……"
+            ],
+            "t-cn": [
+              "真不知道公會會怎麼看這裡……"
             ]
           },
           "provenance": {
@@ -176,8 +356,35 @@
         "en": [
           "I can't imagine what the Guild will make of this..."
         ],
+        "de": [
+          "Ich frage mich, was die Gilde wohl davon halten wird ..."
+        ],
+        "es": [
+          "No me imagino qué pensará el Gremio de todo esto..."
+        ],
+        "fr": [
+          "J'ai du mal à imaginer ce que la Guilde va penser de ça..."
+        ],
+        "it": [
+          "Non riesco a immaginare cosa farà la gilda di tutto questo..."
+        ],
+        "ja": [
+          "ギルドがどう考えるか 想像もできないな…"
+        ],
+        "ko": [
+          "길드가 이걸 보고 뭐라고 할지 상상이 안 돼..."
+        ],
         "pt-br": [
           "Não consigo imaginar o que a Guilda vai pensar disso..."
+        ],
+        "ru": [
+          "Не представляю, что из этого сделает Гильдия..."
+        ],
+        "s-cn": [
+          "真不知道公会会怎么看这里……"
+        ],
+        "t-cn": [
+          "真不知道公會會怎麼看這裡……"
         ]
       },
       "silentCues": [],

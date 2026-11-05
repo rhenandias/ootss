@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "Reminds me of that small town where I first arrived on my visit to the West.",
               "What was it called, again?"
             ],
+            "de": [
+              "Erinnert mich an die kleine Stadt, die damals meine erste Station war, als ich den Westen besucht habe.",
+              "Wie war noch gleich ihr Name?"
+            ],
+            "es": [
+              "Me recuerda a aquel pueblecito al que llegué al principio de mi visita al Oeste.",
+              "¿Cómo se llamaba, a ver?"
+            ],
+            "fr": [
+              "Ça me rappelle cette petite ville où je suis arrivé au début de mon voyage dans l'ouest.",
+              "Comment s'appelait-elle déjà ?"
+            ],
+            "it": [
+              "Mi ricorda quella cittadina in cui approdai all'inizio del mio viaggio verso ovest.",
+              "Come è che si chiamava?"
+            ],
+            "ja": [
+              "初めて西を訪れた時の町を 思い出すわ。 何て名前だったっけ？",
+              "名前、何だったっけ？"
+            ],
+            "ko": [
+              "서쪽을 처음 방문했을 때 도착했던 작은 마을이 떠올라.",
+              "이름이 뭐였더라?"
+            ],
             "pt-br": [
               "Me lembra daquela cidadezinha onde cheguei primeiro quando visitei o oeste.",
               "Como era o nome mesmo?"
+            ],
+            "ru": [
+              "Напоминает мне городок, куда я попала, когда впервые приехала на запад.",
+              "Как же он назывался?"
+            ],
+            "s-cn": [
+              "这让我想起那座小镇，我第一次去西部时，最先抵达的就是那里。",
+              "它叫什么来着？"
+            ],
+            "t-cn": [
+              "這讓我想起那座小鎮，我第一次去西部時， 最先抵達的就是那裡。",
+              "它叫什麼來著？"
             ]
           },
           "provenance": {
@@ -48,9 +93,45 @@
           "Reminds me of that small town where I first arrived on my visit to the West.",
           "What was it called, again?"
         ],
+        "de": [
+          "Erinnert mich an die kleine Stadt, die damals meine erste Station war, als ich den Westen besucht habe.",
+          "Wie war noch gleich ihr Name?"
+        ],
+        "es": [
+          "Me recuerda a aquel pueblecito al que llegué al principio de mi visita al Oeste.",
+          "¿Cómo se llamaba, a ver?"
+        ],
+        "fr": [
+          "Ça me rappelle cette petite ville où je suis arrivé au début de mon voyage dans l'ouest.",
+          "Comment s'appelait-elle déjà ?"
+        ],
+        "it": [
+          "Mi ricorda quella cittadina in cui approdai all'inizio del mio viaggio verso ovest.",
+          "Come è che si chiamava?"
+        ],
+        "ja": [
+          "初めて西を訪れた時の町を 思い出すわ。 何て名前だったっけ？",
+          "名前、何だったっけ？"
+        ],
+        "ko": [
+          "서쪽을 처음 방문했을 때 도착했던 작은 마을이 떠올라.",
+          "이름이 뭐였더라?"
+        ],
         "pt-br": [
           "Me lembra daquela cidadezinha onde cheguei primeiro quando visitei o oeste.",
           "Como era o nome mesmo?"
+        ],
+        "ru": [
+          "Напоминает мне городок, куда я попала, когда впервые приехала на запад.",
+          "Как же он назывался?"
+        ],
+        "s-cn": [
+          "这让我想起那座小镇，我第一次去西部时，最先抵达的就是那里。",
+          "它叫什么来着？"
+        ],
+        "t-cn": [
+          "這讓我想起那座小鎮，我第一次去西部時， 最先抵達的就是那裡。",
+          "它叫什麼來著？"
         ]
       },
       "silentCues": [],
@@ -89,8 +170,35 @@
             "en": [
               "The memories drift like finest granules of dust through the air..."
             ],
+            "de": [
+              "Die Erinnerungen treiben wie feinste Staubkörner durch die Luft ..."
+            ],
+            "es": [
+              "Los recuerdos flotan como finísimos granos de polvo por el aire..."
+            ],
+            "fr": [
+              "Les souvenirs dérivent comme de très fins grains de poussière en suspension..."
+            ],
+            "it": [
+              "I ricordi fluttuano come finissimi granelli di polvere nell'aria..."
+            ],
+            "ja": [
+              "ルーシス・バイ・サブカ。 記憶が塵みたいに流れてく…"
+            ],
+            "ko": [
+              "기억이 아주 고운 먼지 입자처럼 공기 중에 흩날리는군..."
+            ],
             "pt-br": [
               "As memórias se espalham como finíssimos grãos de poeira pelo ar..."
+            ],
+            "ru": [
+              "Воспоминания плывут, как мельчайшие пылинки в воздухе..."
+            ],
+            "s-cn": [
+              "记忆如最细的尘埃颗粒， 在空气中飘散……"
+            ],
+            "t-cn": [
+              "記憶如最細的塵埃顆粒， 在空氣中飄散……"
             ]
           },
           "provenance": {
@@ -110,8 +218,35 @@
         "en": [
           "The memories drift like finest granules of dust through the air..."
         ],
+        "de": [
+          "Die Erinnerungen treiben wie feinste Staubkörner durch die Luft ..."
+        ],
+        "es": [
+          "Los recuerdos flotan como finísimos granos de polvo por el aire..."
+        ],
+        "fr": [
+          "Les souvenirs dérivent comme de très fins grains de poussière en suspension..."
+        ],
+        "it": [
+          "I ricordi fluttuano come finissimi granelli di polvere nell'aria..."
+        ],
+        "ja": [
+          "ルーシス・バイ・サブカ。 記憶が塵みたいに流れてく…"
+        ],
+        "ko": [
+          "기억이 아주 고운 먼지 입자처럼 공기 중에 흩날리는군..."
+        ],
         "pt-br": [
           "As memórias se espalham como finíssimos grãos de poeira pelo ar..."
+        ],
+        "ru": [
+          "Воспоминания плывут, как мельчайшие пылинки в воздухе..."
+        ],
+        "s-cn": [
+          "记忆如最细的尘埃颗粒， 在空气中飘散……"
+        ],
+        "t-cn": [
+          "記憶如最細的塵埃顆粒， 在空氣中飄散……"
         ]
       },
       "silentCues": [],
@@ -151,9 +286,45 @@
               "Those three years in the West were such a happy time.",
               "I was just learning to be an adult, to interact with all these strangers. How to make my way."
             ],
+            "de": [
+              "Diese drei Jahre im Westen waren eine so glückliche Zeit.",
+              "Damals musste ich erst lernen, erwachsen zu sein, mit all den fremden Menschen umzugehen und meinen eigenen Weg zu finden."
+            ],
+            "es": [
+              "Esos tres años en el Oeste fueron un tiempo tan feliz.",
+              "Estaba aprendiendo a ser adulta, a tratar con todos esos desconocidos, a buscarme la vida."
+            ],
+            "fr": [
+              "Ces trois années dans l'Ouest ont été une période si heureuse.",
+              "J'apprenais juste à être adulte, à interagir avec tous ces inconnus, à me faire ma place."
+            ],
+            "it": [
+              "Quei tre anni in occidente furono un periodo così felice.",
+              "Stavo appena imparando a essere adulto, a interagire con tutti questi sconosciuti. A trovare la mia strada."
+            ],
+            "ja": [
+              "西の地で過ごした3年間は 楽しかったわ。",
+              "大人になって、 知らない人と話せるようになって、 生きる方法を学んで…"
+            ],
+            "ko": [
+              "서쪽에서 보낸 그 3년은 정말 행복한 시간이었어.",
+              "난 막 어른이 되는 법을 배우고 있었지. 낯선 사람들과 어떻게 지내는지, 어떻게 살아가야 하는지에 대해서."
+            ],
             "pt-br": [
               "Aqueles três anos no oeste foram um tempo tão feliz.",
               "Eu estava aprendendo a ser adulta, a lidar com todos aqueles estranhos. A me virar."
+            ],
+            "ru": [
+              "Эти три года на Западе были таким счастливым временем.",
+              "Я только училась быть взрослой, общаться со всеми этими незнакомцами, прокладывать себе путь."
+            ],
+            "s-cn": [
+              "在西部的那三年，真是段快乐时光。",
+              "那时我才开始学着做个大人，学着和形形色色的陌生人打交道， 学着靠自己闯出一条路。"
+            ],
+            "t-cn": [
+              "在西部的那三年，真是段快樂時光。",
+              "那時我才開始學著做個大人， 學著和形形色色的陌生人打交道， 學著靠自己闖出一條路。"
             ]
           },
           "provenance": {
@@ -175,9 +346,45 @@
           "Those three years in the West were such a happy time.",
           "I was just learning to be an adult, to interact with all these strangers. How to make my way."
         ],
+        "de": [
+          "Diese drei Jahre im Westen waren eine so glückliche Zeit.",
+          "Damals musste ich erst lernen, erwachsen zu sein, mit all den fremden Menschen umzugehen und meinen eigenen Weg zu finden."
+        ],
+        "es": [
+          "Esos tres años en el Oeste fueron un tiempo tan feliz.",
+          "Estaba aprendiendo a ser adulta, a tratar con todos esos desconocidos, a buscarme la vida."
+        ],
+        "fr": [
+          "Ces trois années dans l'Ouest ont été une période si heureuse.",
+          "J'apprenais juste à être adulte, à interagir avec tous ces inconnus, à me faire ma place."
+        ],
+        "it": [
+          "Quei tre anni in occidente furono un periodo così felice.",
+          "Stavo appena imparando a essere adulto, a interagire con tutti questi sconosciuti. A trovare la mia strada."
+        ],
+        "ja": [
+          "西の地で過ごした3年間は 楽しかったわ。",
+          "大人になって、 知らない人と話せるようになって、 生きる方法を学んで…"
+        ],
+        "ko": [
+          "서쪽에서 보낸 그 3년은 정말 행복한 시간이었어.",
+          "난 막 어른이 되는 법을 배우고 있었지. 낯선 사람들과 어떻게 지내는지, 어떻게 살아가야 하는지에 대해서."
+        ],
         "pt-br": [
           "Aqueles três anos no oeste foram um tempo tão feliz.",
           "Eu estava aprendendo a ser adulta, a lidar com todos aqueles estranhos. A me virar."
+        ],
+        "ru": [
+          "Эти три года на Западе были таким счастливым временем.",
+          "Я только училась быть взрослой, общаться со всеми этими незнакомцами, прокладывать себе путь."
+        ],
+        "s-cn": [
+          "在西部的那三年，真是段快乐时光。",
+          "那时我才开始学着做个大人，学着和形形色色的陌生人打交道， 学着靠自己闯出一条路。"
+        ],
+        "t-cn": [
+          "在西部的那三年，真是段快樂時光。",
+          "那時我才開始學著做個大人， 學著和形形色色的陌生人打交道， 學著靠自己闖出一條路。"
         ]
       },
       "silentCues": [],
@@ -216,8 +423,35 @@
             "en": [
               "The memories..."
             ],
+            "de": [
+              "Die Erinnerungen ..."
+            ],
+            "es": [
+              "Los recuerdos..."
+            ],
+            "fr": [
+              "Les souvenirs..."
+            ],
+            "it": [
+              "I ricordi..."
+            ],
+            "ja": [
+              "いい思い出だけど、 何か妙なものが 込み上げてくる。"
+            ],
+            "ko": [
+              "그 기억들이..."
+            ],
             "pt-br": [
               "As memórias..."
+            ],
+            "ru": [
+              "Воспоминания..."
+            ],
+            "s-cn": [
+              "那些记忆……"
+            ],
+            "t-cn": [
+              "那些記憶……"
             ]
           },
           "provenance": {
@@ -237,8 +471,35 @@
         "en": [
           "The memories..."
         ],
+        "de": [
+          "Die Erinnerungen ..."
+        ],
+        "es": [
+          "Los recuerdos..."
+        ],
+        "fr": [
+          "Les souvenirs..."
+        ],
+        "it": [
+          "I ricordi..."
+        ],
+        "ja": [
+          "いい思い出だけど、 何か妙なものが 込み上げてくる。"
+        ],
+        "ko": [
+          "그 기억들이..."
+        ],
         "pt-br": [
           "As memórias..."
+        ],
+        "ru": [
+          "Воспоминания..."
+        ],
+        "s-cn": [
+          "那些记忆……"
+        ],
+        "t-cn": [
+          "那些記憶……"
         ]
       },
       "silentCues": [],

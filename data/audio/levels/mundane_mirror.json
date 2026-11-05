@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -26,11 +35,65 @@
               "I'd tried to reassemble, glue, tape over, but had never truly made whole.",
               "I knew the stranger was right. A shard was missing."
             ],
+            "de": [
+              "In jener Nacht habe ich mich hin und her gewälzt, in Gedanken an die Spiegel",
+              "und mein eigenes zerbrochenes Glas, das ich in all den Jahrzehnten des Erfolgs",
+              "zusammenzusetzen, zu kleben, mit Klebeband zu flicken versucht habe, ohne es jemals wirklich wieder ganz zu bekommen.",
+              "Mir war klar, dass der Fremde recht hatte. Eine Scherbe hat gefehlt."
+            ],
+            "es": [
+              "Aquella noche me revolví en la cama, pensando en los espejos",
+              "y mi propio cristal hecho añicos que, a lo largo de décadas de éxitos,",
+              "había intentado recomponerlo, pegarlo, remendarlo, sin lograr reconstruirlo nunca del todo.",
+              "Sabía que el desconocido tenía razón. Faltaba un fragmento."
+            ],
+            "fr": [
+              "J'ai passé la nuit à me retourner dans mon lit, en pensant aux miroirs",
+              "et mon propre reflet brisé que, durant des décennies de succès,",
+              "j'avais tenté de réassembler, de recoller, de rafistoler, sans jamais vraiment lui rendre son intégrité.",
+              "Je savais que l'inconnu avait raison. Il manquait un fragment."
+            ],
+            "it": [
+              "Quella notte mi rigirai nel letto, pensando agli specchi",
+              "e il mio stesso vetro infranto che, in decenni di successi,",
+              "Avevo provato a ricomporlo, incollarlo, rattopparlo, ma non l'avevo mai reso davvero intero.",
+              "Sapevo che lo sconosciuto aveva ragione. Mancava un frammento."
+            ],
+            "ja": [
+              "その夜は眠れず、 鏡のことばかり考えた。",
+              "そして、砕けたガラスのような私自身も、 何十年もの成功を重ねるうちに、",
+              "そして成功で覆い隠してきた、 ひび割れて元に戻らなかった 自分の姿を。",
+              "あの男が正しいとわかっていた。"
+            ],
+            "ko": [
+              "그날 밤 나는 거울을 생각하며 뒤척였어.",
+              "그리고 수십 년간 성공을 거두면서도 내 안에 있던 깨진 유리 조각은,",
+              "다시 맞추고, 풀로 붙이고, 테이프로 덮어도, 결코 온전해지지는 않았어.",
+              "그 낯선 사람이 옳다는 걸 난 알고 있었어. 한 조각이 빠져 있었지."
+            ],
             "pt-br": [
               "Fiquei rolando na cama aquela noite, pensando nos espelhos",
               "e meu próprio vidro estilhaçado que, ao longo de décadas de sucesso,",
               "eu havia tentado remontar, colar, remendar, mas nunca tinha tornado aquilo inteiro de verdade.",
               "Sabia que o estranho estava certo. Faltava um fragmento."
+            ],
+            "ru": [
+              "В ту ночь я метался и ворочался, думая о зеркалах",
+              "и моё собственное разбитое стекло, которое за десятилетия успеха,",
+              "Я пытался собрать осколки, склеить, залатать, но так и не сделал целым.",
+              "Я знал, что незнакомец прав. Не хватало осколка."
+            ],
+            "s-cn": [
+              "那一夜，我辗转反侧，满脑子都是那些镜子，",
+              "还有我那碎裂的玻璃， 几十年的成功里，",
+              "我试着把它重新拼好、粘好、贴上， 却从未真正让它完整。",
+              "我知道，那个陌生人说得对。 有一块碎片不见了。"
+            ],
+            "t-cn": [
+              "那一夜，我輾轉反側，滿腦子都是那些鏡子，",
+              "還有我那碎裂的玻璃， 幾十年的成功裡，",
+              "我試著把它重新拼好、粘好、貼上， 卻從未真正讓它完整。",
+              "我知道，那個陌生人說得對。 有一塊碎片不見了。"
             ]
           },
           "provenance": {
@@ -56,11 +119,65 @@
           "I'd tried to reassemble, glue, tape over, but had never truly made whole.",
           "I knew the stranger was right. A shard was missing."
         ],
+        "de": [
+          "In jener Nacht habe ich mich hin und her gewälzt, in Gedanken an die Spiegel",
+          "und mein eigenes zerbrochenes Glas, das ich in all den Jahrzehnten des Erfolgs",
+          "zusammenzusetzen, zu kleben, mit Klebeband zu flicken versucht habe, ohne es jemals wirklich wieder ganz zu bekommen.",
+          "Mir war klar, dass der Fremde recht hatte. Eine Scherbe hat gefehlt."
+        ],
+        "es": [
+          "Aquella noche me revolví en la cama, pensando en los espejos",
+          "y mi propio cristal hecho añicos que, a lo largo de décadas de éxitos,",
+          "había intentado recomponerlo, pegarlo, remendarlo, sin lograr reconstruirlo nunca del todo.",
+          "Sabía que el desconocido tenía razón. Faltaba un fragmento."
+        ],
+        "fr": [
+          "J'ai passé la nuit à me retourner dans mon lit, en pensant aux miroirs",
+          "et mon propre reflet brisé que, durant des décennies de succès,",
+          "j'avais tenté de réassembler, de recoller, de rafistoler, sans jamais vraiment lui rendre son intégrité.",
+          "Je savais que l'inconnu avait raison. Il manquait un fragment."
+        ],
+        "it": [
+          "Quella notte mi rigirai nel letto, pensando agli specchi",
+          "e il mio stesso vetro infranto che, in decenni di successi,",
+          "Avevo provato a ricomporlo, incollarlo, rattopparlo, ma non l'avevo mai reso davvero intero.",
+          "Sapevo che lo sconosciuto aveva ragione. Mancava un frammento."
+        ],
+        "ja": [
+          "その夜は眠れず、 鏡のことばかり考えた。",
+          "そして、砕けたガラスのような私自身も、 何十年もの成功を重ねるうちに、",
+          "そして成功で覆い隠してきた、 ひび割れて元に戻らなかった 自分の姿を。",
+          "あの男が正しいとわかっていた。"
+        ],
+        "ko": [
+          "그날 밤 나는 거울을 생각하며 뒤척였어.",
+          "그리고 수십 년간 성공을 거두면서도 내 안에 있던 깨진 유리 조각은,",
+          "다시 맞추고, 풀로 붙이고, 테이프로 덮어도, 결코 온전해지지는 않았어.",
+          "그 낯선 사람이 옳다는 걸 난 알고 있었어. 한 조각이 빠져 있었지."
+        ],
         "pt-br": [
           "Fiquei rolando na cama aquela noite, pensando nos espelhos",
           "e meu próprio vidro estilhaçado que, ao longo de décadas de sucesso,",
           "eu havia tentado remontar, colar, remendar, mas nunca tinha tornado aquilo inteiro de verdade.",
           "Sabia que o estranho estava certo. Faltava um fragmento."
+        ],
+        "ru": [
+          "В ту ночь я метался и ворочался, думая о зеркалах",
+          "и моё собственное разбитое стекло, которое за десятилетия успеха,",
+          "Я пытался собрать осколки, склеить, залатать, но так и не сделал целым.",
+          "Я знал, что незнакомец прав. Не хватало осколка."
+        ],
+        "s-cn": [
+          "那一夜，我辗转反侧，满脑子都是那些镜子，",
+          "还有我那碎裂的玻璃， 几十年的成功里，",
+          "我试着把它重新拼好、粘好、贴上， 却从未真正让它完整。",
+          "我知道，那个陌生人说得对。 有一块碎片不见了。"
+        ],
+        "t-cn": [
+          "那一夜，我輾轉反側，滿腦子都是那些鏡子，",
+          "還有我那碎裂的玻璃， 幾十年的成功裡，",
+          "我試著把它重新拼好、粘好、貼上， 卻從未真正讓它完整。",
+          "我知道，那個陌生人說得對。 有一塊碎片不見了。"
         ]
       },
       "silentCues": [],

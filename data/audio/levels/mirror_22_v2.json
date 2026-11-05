@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "There's a special mirror set within a perimeter of polychromic light ...",
               "the Chiefs say only you can use it, as only you have been invited."
             ],
+            "de": [
+              "Es gibt einen besonderen Spiegel, eingefasst von vielfarbigem Licht ...",
+              "Die Obersten sagen, nur du kannst ihn benutzen, denn nur du bist eingeladen worden."
+            ],
+            "es": [
+              "Hay un espejo especial rodeado por un perímetro de luz policromática...",
+              "los jefes dicen que solo tú puedes usarlo, pues solo tú has sido invitado."
+            ],
+            "fr": [
+              "Il y a un miroir spécial entouré de lumière polychrome...",
+              "les chefs disent que vous seul pouvez l'utiliser, car vous seul avez été invité."
+            ],
+            "it": [
+              "C'è uno specchio speciale racchiuso in una cornice di luce policromatica...",
+              "i Capi dicono che solo tu puoi usarlo, poiché solo tu sei stato invitato."
+            ],
+            "ja": [
+              "多彩な光を宿した 鏡がある…",
+              "長たちによれば 招かれた君のみが 使えるものだ。"
+            ],
+            "ko": [
+              "다색 빛에 둘러싸인 특별한 거울이 있어...",
+              "수석 거울공예인들은 오직 너만 그걸 쓸 수 있다고 하더군. 초대받은 사람도 너뿐이니까."
+            ],
             "pt-br": [
               "Há um espelho especial cercado por um perímetro de luz policromática...",
               "os Chefes dizem que só você pode usá-lo, pois só você foi convidado."
+            ],
+            "ru": [
+              "Есть особое зеркало, окружённое полихроматическим светом...",
+              "Главные говорят, что воспользоваться им можешь только ты, поскольку пригласили только тебя."
+            ],
+            "s-cn": [
+              "有一面特殊的镜子，四周环绕着一圈多色之光……",
+              "首席镜匠们说，只有你能使用它，因为受邀者只有你。"
+            ],
+            "t-cn": [
+              "有一面特殊的鏡子，四周環繞著一圈多色之光……",
+              "首席鏡匠們說，只有你能使用它，因為受邀者只有你。"
             ]
           },
           "provenance": {
@@ -48,8 +93,35 @@
             "en": [
               "Invited? By whom?"
             ],
+            "de": [
+              "Eingeladen? Von wem?"
+            ],
+            "es": [
+              "¿Invitado? ¿Por quién?"
+            ],
+            "fr": [
+              "Invité ? Par qui ?"
+            ],
+            "it": [
+              "Invitato? Da chi?"
+            ],
+            "ja": [
+              "招かれた？誰に？"
+            ],
+            "ko": [
+              "초대받았다고? 누구에게?"
+            ],
             "pt-br": [
               "Convidado? Por quem?"
+            ],
+            "ru": [
+              "Пригласили? Кто?"
+            ],
+            "s-cn": [
+              "受邀？谁邀请的？"
+            ],
+            "t-cn": [
+              "受邀？誰邀請的？"
             ]
           },
           "provenance": {
@@ -70,8 +142,35 @@
             "en": [
               "That is not given me to know."
             ],
+            "de": [
+              "Es ist mir nicht gegeben, das zu wissen."
+            ],
+            "es": [
+              "Eso no me ha sido revelado."
+            ],
+            "fr": [
+              "Il ne m'est pas donné de le savoir."
+            ],
+            "it": [
+              "Non è dato saperlo."
+            ],
+            "ja": [
+              "それは私も知らない。"
+            ],
+            "ko": [
+              "그건 내가 알 수 있는 일이 아니야."
+            ],
             "pt-br": [
               "Isso não me cabe saber."
+            ],
+            "ru": [
+              "Мне этого знать не дано."
+            ],
+            "s-cn": [
+              "这不是我能知道的事。"
+            ],
+            "t-cn": [
+              "這不是我能知道的事。"
             ]
           },
           "provenance": {
@@ -92,8 +191,35 @@
             "en": [
               "Why me?"
             ],
+            "de": [
+              "Warum ich?"
+            ],
+            "es": [
+              "¿Por qué yo?"
+            ],
+            "fr": [
+              "Pourquoi moi ?"
+            ],
+            "it": [
+              "Perché io?"
+            ],
+            "ja": [
+              "なぜ私が？"
+            ],
+            "ko": [
+              "왜 하필 나지?"
+            ],
             "pt-br": [
               "Por que eu?"
+            ],
+            "ru": [
+              "Почему я?"
+            ],
+            "s-cn": [
+              "为什么是我？"
+            ],
+            "t-cn": [
+              "為什麼是我？"
             ]
           },
           "provenance": {
@@ -114,8 +240,35 @@
             "en": [
               "You were chosen by the counterparty. More than that is not given me to know."
             ],
+            "de": [
+              "Du bist von der Gegenpartei ausgewählt worden. Mehr zu wissen, ist mir nicht gegeben."
+            ],
+            "es": [
+              "Has sido elegido por la otra parte del acuerdo. Aparte de eso, nada me ha sido revelado."
+            ],
+            "fr": [
+              "Vous avez été choisi par la partie adverse. On ne m'en a pas dit davantage."
+            ],
+            "it": [
+              "Sei stato scelto dalla controparte dell'accordo. Più di così non mi è dato sapere."
+            ],
+            "ja": [
+              "君は指名された。 取引相手にな。 それ以上は私も知らない。"
+            ],
+            "ko": [
+              "거래의 상대방이 널 선택했다더군. 그 이상은 내가 알 수 없어."
+            ],
             "pt-br": [
               "Você foi escolhido pela outra parte do acordo. Além disso, não me cabe saber."
+            ],
+            "ru": [
+              "Тебя выбрала вторая сторона сделки. Большего мне знать не дано."
+            ],
+            "s-cn": [
+              "你是被对方选中的。再多的事，我便无权知晓。"
+            ],
+            "t-cn": [
+              "你是被對方選中的。再多的事，我便無權知曉。"
             ]
           },
           "provenance": {
@@ -140,6 +293,54 @@
           "Why me?",
           "You were chosen by the counterparty. More than that is not given me to know."
         ],
+        "de": [
+          "Es gibt einen besonderen Spiegel, eingefasst von vielfarbigem Licht ...",
+          "Die Obersten sagen, nur du kannst ihn benutzen, denn nur du bist eingeladen worden.",
+          "Eingeladen? Von wem?",
+          "Es ist mir nicht gegeben, das zu wissen.",
+          "Warum ich?",
+          "Du bist von der Gegenpartei ausgewählt worden. Mehr zu wissen, ist mir nicht gegeben."
+        ],
+        "es": [
+          "Hay un espejo especial rodeado por un perímetro de luz policromática...",
+          "los jefes dicen que solo tú puedes usarlo, pues solo tú has sido invitado.",
+          "¿Invitado? ¿Por quién?",
+          "Eso no me ha sido revelado.",
+          "¿Por qué yo?",
+          "Has sido elegido por la otra parte del acuerdo. Aparte de eso, nada me ha sido revelado."
+        ],
+        "fr": [
+          "Il y a un miroir spécial entouré de lumière polychrome...",
+          "les chefs disent que vous seul pouvez l'utiliser, car vous seul avez été invité.",
+          "Invité ? Par qui ?",
+          "Il ne m'est pas donné de le savoir.",
+          "Pourquoi moi ?",
+          "Vous avez été choisi par la partie adverse. On ne m'en a pas dit davantage."
+        ],
+        "it": [
+          "C'è uno specchio speciale racchiuso in una cornice di luce policromatica...",
+          "i Capi dicono che solo tu puoi usarlo, poiché solo tu sei stato invitato.",
+          "Invitato? Da chi?",
+          "Non è dato saperlo.",
+          "Perché io?",
+          "Sei stato scelto dalla controparte dell'accordo. Più di così non mi è dato sapere."
+        ],
+        "ja": [
+          "多彩な光を宿した 鏡がある…",
+          "長たちによれば 招かれた君のみが 使えるものだ。",
+          "招かれた？誰に？",
+          "それは私も知らない。",
+          "なぜ私が？",
+          "君は指名された。 取引相手にな。 それ以上は私も知らない。"
+        ],
+        "ko": [
+          "다색 빛에 둘러싸인 특별한 거울이 있어...",
+          "수석 거울공예인들은 오직 너만 그걸 쓸 수 있다고 하더군. 초대받은 사람도 너뿐이니까.",
+          "초대받았다고? 누구에게?",
+          "그건 내가 알 수 있는 일이 아니야.",
+          "왜 하필 나지?",
+          "거래의 상대방이 널 선택했다더군. 그 이상은 내가 알 수 없어."
+        ],
         "pt-br": [
           "Há um espelho especial cercado por um perímetro de luz policromática...",
           "os Chefes dizem que só você pode usá-lo, pois só você foi convidado.",
@@ -147,6 +348,30 @@
           "Isso não me cabe saber.",
           "Por que eu?",
           "Você foi escolhido pela outra parte do acordo. Além disso, não me cabe saber."
+        ],
+        "ru": [
+          "Есть особое зеркало, окружённое полихроматическим светом...",
+          "Главные говорят, что воспользоваться им можешь только ты, поскольку пригласили только тебя.",
+          "Пригласили? Кто?",
+          "Мне этого знать не дано.",
+          "Почему я?",
+          "Тебя выбрала вторая сторона сделки. Большего мне знать не дано."
+        ],
+        "s-cn": [
+          "有一面特殊的镜子，四周环绕着一圈多色之光……",
+          "首席镜匠们说，只有你能使用它，因为受邀者只有你。",
+          "受邀？谁邀请的？",
+          "这不是我能知道的事。",
+          "为什么是我？",
+          "你是被对方选中的。再多的事，我便无权知晓。"
+        ],
+        "t-cn": [
+          "有一面特殊的鏡子，四周環繞著一圈多色之光……",
+          "首席鏡匠們說，只有你能使用它，因為受邀者只有你。",
+          "受邀？誰邀請的？",
+          "這不是我能知道的事。",
+          "為什麼是我？",
+          "你是被對方選中的。再多的事，我便無權知曉。"
         ]
       },
       "silentCues": [],
@@ -185,8 +410,35 @@
             "en": [
               "So, invited ... to where?"
             ],
+            "de": [
+              "Also, eingeladen ... wohin?"
+            ],
+            "es": [
+              "Vale, ¿invitado... a dónde?"
+            ],
+            "fr": [
+              "Alors, invité... où ça ?"
+            ],
+            "it": [
+              "Quindi, invitato... dove?"
+            ],
+            "ja": [
+              "それで…どこへ招かれた？"
+            ],
+            "ko": [
+              "그래서, 초대라... 어디로?"
+            ],
             "pt-br": [
               "Então, convidado... para onde?"
+            ],
+            "ru": [
+              "Так куда же меня пригласили?.."
+            ],
+            "s-cn": [
+              "那么，我受邀……去哪里？"
+            ],
+            "t-cn": [
+              "那麼，我受邀……去哪裡？"
             ]
           },
           "provenance": {
@@ -207,8 +459,35 @@
             "en": [
               "That's the *good* news! You've been invited to ... depart this world."
             ],
+            "de": [
+              "Das ist die gute Nachricht! Du bist eingeladen worden ... diese Welt zu verlassen."
+            ],
+            "es": [
+              "¡Esa es la buena noticia! Has sido invitado a... partir de este mundo."
+            ],
+            "fr": [
+              "C'est la bonne nouvelle ! Vous avez été invité à... quitter ce monde."
+            ],
+            "it": [
+              "Questa è la buona notizia! Sei stato invitato a... lasciare questo mondo."
+            ],
+            "ja": [
+              "それが「いい知らせ」だ！ 君は…この世の外へ 招かれた。"
+            ],
+            "ko": [
+              "그게 바로 좋은 소식이야! 너는... 이 세상을 떠나도록 초대받았어."
+            ],
             "pt-br": [
               "Essa é a boa notícia! Você foi convidado para... deixar este mundo."
+            ],
+            "ru": [
+              "Вот это и есть хорошие новости! Тебя пригласили... покинуть этот мир."
+            ],
+            "s-cn": [
+              "这就是好消息！你受邀……离开这个世界。"
+            ],
+            "t-cn": [
+              "這就是好消息！你受邀……離開這個世界。"
             ]
           },
           "provenance": {
@@ -229,9 +508,45 @@
           "So, invited ... to where?",
           "That's the *good* news! You've been invited to ... depart this world."
         ],
+        "de": [
+          "Also, eingeladen ... wohin?",
+          "Das ist die gute Nachricht! Du bist eingeladen worden ... diese Welt zu verlassen."
+        ],
+        "es": [
+          "Vale, ¿invitado... a dónde?",
+          "¡Esa es la buena noticia! Has sido invitado a... partir de este mundo."
+        ],
+        "fr": [
+          "Alors, invité... où ça ?",
+          "C'est la bonne nouvelle ! Vous avez été invité à... quitter ce monde."
+        ],
+        "it": [
+          "Quindi, invitato... dove?",
+          "Questa è la buona notizia! Sei stato invitato a... lasciare questo mondo."
+        ],
+        "ja": [
+          "それで…どこへ招かれた？",
+          "それが「いい知らせ」だ！ 君は…この世の外へ 招かれた。"
+        ],
+        "ko": [
+          "그래서, 초대라... 어디로?",
+          "그게 바로 좋은 소식이야! 너는... 이 세상을 떠나도록 초대받았어."
+        ],
         "pt-br": [
           "Então, convidado... para onde?",
           "Essa é a boa notícia! Você foi convidado para... deixar este mundo."
+        ],
+        "ru": [
+          "Так куда же меня пригласили?..",
+          "Вот это и есть хорошие новости! Тебя пригласили... покинуть этот мир."
+        ],
+        "s-cn": [
+          "那么，我受邀……去哪里？",
+          "这就是好消息！你受邀……离开这个世界。"
+        ],
+        "t-cn": [
+          "那麼，我受邀……去哪裡？",
+          "這就是好消息！你受邀……離開這個世界。"
         ]
       },
       "silentCues": [],

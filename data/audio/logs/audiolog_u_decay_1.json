@@ -3,7 +3,16 @@
   "audioLog": "audiolog_u_decay_1",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,6 +33,54 @@
               "So far a solution has eluded us. We're performing deep research in the background to figure this out.",
               "And one day we may; meanwhile, we have to stay afloat: just slow the rot. Beat it back. Preserve."
             ],
+            "de": [
+              "Der Verfall frisst sich durch unsere Lagerhäuser, als wären sie Schweizer Käse.",
+              "Und durch die Erforschung dieses Käses hoffen wir herauszufinden,",
+              "wie wir die Anlagen schützen können, die wir über diese zwölf Jahrzehnte hinweg errichtet haben, alle siebzigtausend,",
+              "damit das Ganze nicht einfach verkümmert und stirbt.",
+              "Bislang hat sich uns keine Lösung erschlossen. Im Hintergrund betreiben wir intensive Forschung, um das Problem zu lösen.",
+              "Und eines Tages gelingt es uns vielleicht; bis dahin müssen wir durchhalten: den Verfall bremsen. Zurückdrängen. Bewahren."
+            ],
+            "es": [
+              "La decadencia está carcomiendo nuestros almacenes como si fueran un queso suizo.",
+              "Y estudiando ese queso, esperamos aprender",
+              "cómo proteger las instalaciones que hemos construido a lo largo de estas doce décadas, las setenta mil,",
+              "para que todo no se marchite y muera sin más.",
+              "Por ahora, no hemos encontrado una solución. Estamos haciendo una investigación profunda entre bastidores para averiguarlo.",
+              "Quizá algún día; por ahora, a flote: frenar la podredumbre. Contenerla. Preservar."
+            ],
+            "fr": [
+              "La dégradation ronge nos entrepôts comme si c'était du gruyère.",
+              "Et en étudiant ce fromage, nous espérons apprendre",
+              "comment protéger les installations que nous avons bâties au fil de ces douze décennies – soit soixante-dix mille, au total –",
+              "pour que tout cela ne soit pas livré à la pourriture et à l'oubli.",
+              "Jusqu'ici, nous n'avons pas trouvé de solution. Nous menons des recherches approfondies en parallèle pour tenter de résoudre le problème.",
+              "Un jour, peut-être ; en attendant, il faut tenir : ralentir la décomposition. La repousser. Préserver."
+            ],
+            "it": [
+              "Il degrado sta divorando i nostri depositi come se fossero formaggio svizzero.",
+              "E studiando quel formaggio, speriamo di imparare",
+              "come proteggere le strutture che abbiamo costruito in questi dodici decenni, tutte e settantamila,",
+              "così che l'intero impianto non si secchi e muoia.",
+              "Finora una soluzione ci è sfuggita. Stiamo facendo ricerche approfondite dietro le quinte per capirlo.",
+              "Un giorno forse ci riusciremo. Nel frattempo, dobbiamo restare a galla: rallentare soltanto il marciume. Respingerlo. Preservare."
+            ],
+            "ja": [
+              "腐敗は、私たちの施設を スイスチーズのように 穴だらけにしながら侵食している。",
+              "そのチーズを研究することで、",
+              "何十年もかけて築き上げてきたものを どう守るべきか学ぼうとしているんだ。",
+              "すべてが朽ち果てるのを 黙ってわけにはいかないからね。",
+              "今のところ、解決策は見つかっていない。 肝心の問題が残っている以上、",
+              "私は第二のタスクとして、 腐敗を食い止めること、 そして残すことに従事する。"
+            ],
+            "ko": [
+              "쇠퇴가 우리 창고들을 스위스 치즈처럼 구멍투성이로 만들고 있어.",
+              "그래서 우린 그 치즈를 연구함으로써, 알아내려는 거야.",
+              "지난 120년 동안 우리가 지어 온 70,000개에 이르는 시설 모두를 어떻게 지킬지 말이야.",
+              "이 모든 게 그냥 시들어 죽어 버리지 않도록.",
+              "아직 해결책은 찾지 못했어. 이 문제를 풀려고 보이지 않는 곳에서 깊이 연구하고 있지.",
+              "언젠가는 찾을지도 몰라. 그때까지는 버텨야 해. 부패를 늦추는 거야. 물리치고. 지켜 내면서."
+            ],
             "pt-br": [
               "A deterioração está corroendo nossos Armazéns como se fossem queijo suíço.",
               "E, ao estudar esse queijo, esperamos aprender",
@@ -31,6 +88,30 @@
               "para que a coisa toda não simplesmente murche e morra.",
               "Até agora, uma solução nos escapou. Estamos fazendo pesquisas profundas nos bastidores para descobrir isso.",
               "Um dia talvez; enquanto isso, temos de nos manter à tona: só desacelerar a podridão. Rechaçá-la. Preservar."
+            ],
+            "ru": [
+              "Разложение гложет наши склады, словно они швейцарский сыр.",
+              "И, изучая этот сыр, мы надеемся узнать,",
+              "как защитить сооружения, которые мы построили за эти дюжины десятилетий, все семьдесят тысяч,",
+              "чтобы всё это просто не усохло и не погибло.",
+              "Пока что решение от нас ускользает. Мы ведем глубокие исследования в фоновом режиме, чтобы разобраться.",
+              "Возможно, однажды; а пока нужно держаться на плаву: просто замедлять гниение. Давать ему отпор. Сохранять."
+            ],
+            "s-cn": [
+              "侵蚀正把我们的仓库啃得像瑞士奶酪一样千疮百孔。",
+              "我们希望通过研究这块“奶酪”得到一些启示，",
+              "弄明白该如何保护过去一百二十年间建成的全部七万座设施，",
+              "免得整个体系就此萎缩、死亡。",
+              "解决办法至今仍未找到。我们正在幕后深入研究，想把它弄清楚。",
+              "而也许有朝一日我们能彻底解决；眼下，只能先设法撑下去： 减缓侵蚀，遏制它的蔓延，保住现有的一切。"
+            ],
+            "t-cn": [
+              "侵蝕正把我們的倉庫啃得像瑞士奶酪一樣千瘡百孔。",
+              "我們希望通過研究這塊「奶酪」得到一些啟示，",
+              "弄明白該如何保護過去一百二十年間建成的全部七萬座設施，",
+              "免得整個體系就此萎縮、死亡。",
+              "解決辦法至今仍未找到。 我們正在幕後深入研究，想把它弄清楚。",
+              "而也許有朝一日我們能徹底解決 ；眼下，只能先設法撐下去： 減緩侵蝕，遏制它的蔓延，保住現有的一切。"
             ]
           },
           "provenance": {
@@ -60,6 +141,54 @@
           "So far a solution has eluded us. We're performing deep research in the background to figure this out.",
           "And one day we may; meanwhile, we have to stay afloat: just slow the rot. Beat it back. Preserve."
         ],
+        "de": [
+          "Der Verfall frisst sich durch unsere Lagerhäuser, als wären sie Schweizer Käse.",
+          "Und durch die Erforschung dieses Käses hoffen wir herauszufinden,",
+          "wie wir die Anlagen schützen können, die wir über diese zwölf Jahrzehnte hinweg errichtet haben, alle siebzigtausend,",
+          "damit das Ganze nicht einfach verkümmert und stirbt.",
+          "Bislang hat sich uns keine Lösung erschlossen. Im Hintergrund betreiben wir intensive Forschung, um das Problem zu lösen.",
+          "Und eines Tages gelingt es uns vielleicht; bis dahin müssen wir durchhalten: den Verfall bremsen. Zurückdrängen. Bewahren."
+        ],
+        "es": [
+          "La decadencia está carcomiendo nuestros almacenes como si fueran un queso suizo.",
+          "Y estudiando ese queso, esperamos aprender",
+          "cómo proteger las instalaciones que hemos construido a lo largo de estas doce décadas, las setenta mil,",
+          "para que todo no se marchite y muera sin más.",
+          "Por ahora, no hemos encontrado una solución. Estamos haciendo una investigación profunda entre bastidores para averiguarlo.",
+          "Quizá algún día; por ahora, a flote: frenar la podredumbre. Contenerla. Preservar."
+        ],
+        "fr": [
+          "La dégradation ronge nos entrepôts comme si c'était du gruyère.",
+          "Et en étudiant ce fromage, nous espérons apprendre",
+          "comment protéger les installations que nous avons bâties au fil de ces douze décennies – soit soixante-dix mille, au total –",
+          "pour que tout cela ne soit pas livré à la pourriture et à l'oubli.",
+          "Jusqu'ici, nous n'avons pas trouvé de solution. Nous menons des recherches approfondies en parallèle pour tenter de résoudre le problème.",
+          "Un jour, peut-être ; en attendant, il faut tenir : ralentir la décomposition. La repousser. Préserver."
+        ],
+        "it": [
+          "Il degrado sta divorando i nostri depositi come se fossero formaggio svizzero.",
+          "E studiando quel formaggio, speriamo di imparare",
+          "come proteggere le strutture che abbiamo costruito in questi dodici decenni, tutte e settantamila,",
+          "così che l'intero impianto non si secchi e muoia.",
+          "Finora una soluzione ci è sfuggita. Stiamo facendo ricerche approfondite dietro le quinte per capirlo.",
+          "Un giorno forse ci riusciremo. Nel frattempo, dobbiamo restare a galla: rallentare soltanto il marciume. Respingerlo. Preservare."
+        ],
+        "ja": [
+          "腐敗は、私たちの施設を スイスチーズのように 穴だらけにしながら侵食している。",
+          "そのチーズを研究することで、",
+          "何十年もかけて築き上げてきたものを どう守るべきか学ぼうとしているんだ。",
+          "すべてが朽ち果てるのを 黙ってわけにはいかないからね。",
+          "今のところ、解決策は見つかっていない。 肝心の問題が残っている以上、",
+          "私は第二のタスクとして、 腐敗を食い止めること、 そして残すことに従事する。"
+        ],
+        "ko": [
+          "쇠퇴가 우리 창고들을 스위스 치즈처럼 구멍투성이로 만들고 있어.",
+          "그래서 우린 그 치즈를 연구함으로써, 알아내려는 거야.",
+          "지난 120년 동안 우리가 지어 온 70,000개에 이르는 시설 모두를 어떻게 지킬지 말이야.",
+          "이 모든 게 그냥 시들어 죽어 버리지 않도록.",
+          "아직 해결책은 찾지 못했어. 이 문제를 풀려고 보이지 않는 곳에서 깊이 연구하고 있지.",
+          "언젠가는 찾을지도 몰라. 그때까지는 버텨야 해. 부패를 늦추는 거야. 물리치고. 지켜 내면서."
+        ],
         "pt-br": [
           "A deterioração está corroendo nossos Armazéns como se fossem queijo suíço.",
           "E, ao estudar esse queijo, esperamos aprender",
@@ -67,6 +196,30 @@
           "para que a coisa toda não simplesmente murche e morra.",
           "Até agora, uma solução nos escapou. Estamos fazendo pesquisas profundas nos bastidores para descobrir isso.",
           "Um dia talvez; enquanto isso, temos de nos manter à tona: só desacelerar a podridão. Rechaçá-la. Preservar."
+        ],
+        "ru": [
+          "Разложение гложет наши склады, словно они швейцарский сыр.",
+          "И, изучая этот сыр, мы надеемся узнать,",
+          "как защитить сооружения, которые мы построили за эти дюжины десятилетий, все семьдесят тысяч,",
+          "чтобы всё это просто не усохло и не погибло.",
+          "Пока что решение от нас ускользает. Мы ведем глубокие исследования в фоновом режиме, чтобы разобраться.",
+          "Возможно, однажды; а пока нужно держаться на плаву: просто замедлять гниение. Давать ему отпор. Сохранять."
+        ],
+        "s-cn": [
+          "侵蚀正把我们的仓库啃得像瑞士奶酪一样千疮百孔。",
+          "我们希望通过研究这块“奶酪”得到一些启示，",
+          "弄明白该如何保护过去一百二十年间建成的全部七万座设施，",
+          "免得整个体系就此萎缩、死亡。",
+          "解决办法至今仍未找到。我们正在幕后深入研究，想把它弄清楚。",
+          "而也许有朝一日我们能彻底解决；眼下，只能先设法撑下去： 减缓侵蚀，遏制它的蔓延，保住现有的一切。"
+        ],
+        "t-cn": [
+          "侵蝕正把我們的倉庫啃得像瑞士奶酪一樣千瘡百孔。",
+          "我們希望通過研究這塊「奶酪」得到一些啟示，",
+          "弄明白該如何保護過去一百二十年間建成的全部七萬座設施，",
+          "免得整個體系就此萎縮、死亡。",
+          "解決辦法至今仍未找到。 我們正在幕後深入研究，想把它弄清楚。",
+          "而也許有朝一日我們能徹底解決 ；眼下，只能先設法撐下去： 減緩侵蝕，遏制它的蔓延，保住現有的一切。"
         ]
       },
       "silentCues": [],

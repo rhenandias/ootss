@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "So, why did you come?"
             ],
+            "de": [
+              "Also, warum bist du gekommen?"
+            ],
+            "es": [
+              "Entonces, ¿por qué viniste?"
+            ],
+            "fr": [
+              "Alors, qu'est-ce qui vous a amené ici ?"
+            ],
+            "it": [
+              "Allora, perché sei venuto?"
+            ],
+            "ja": [
+              "なぜここに来た？"
+            ],
+            "ko": [
+              "그래서, 왜 왔어?"
+            ],
             "pt-br": [
               "Então, por que você veio?"
+            ],
+            "ru": [
+              "Так зачем ты пришёл?"
+            ],
+            "s-cn": [
+              "那么，你为什么来？"
+            ],
+            "t-cn": [
+              "那麼，你為什麼來？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "This is an unswept corner of my life. I always wondered 'what if', you know?"
             ],
+            "de": [
+              "Das ist eine Ecke meines Lebens, die ich nie ausgekehrt habe. Ich habe mich immer gefragt: „Was wäre, wenn?“ Du weißt schon."
+            ],
+            "es": [
+              "Este es un rincón de mi vida que me quedaba por barrer. Siempre me he preguntado: «¿y si...?», ya sabes."
+            ],
+            "fr": [
+              "C'est un recoin de ma vie où je n'ai pas encore fait le ménage. Je me suis toujours demandé « et si », vous voyez ?"
+            ],
+            "it": [
+              "Questo è un angolo della mia vita inesplorato. Mi sono sempre chiesto: \"e se...?\", capisci?"
+            ],
+            "ja": [
+              "私はもうすぐ死ぬ。 ここは私の心残り… 「もしも」の世界だ。"
+            ],
+            "ko": [
+              "내 인생엔 아직 정리되지 않은 구석이 남아 있어. 항상 '만약에'라는 생각이 들었지. 무슨 말인지 알지?"
+            ],
             "pt-br": [
               "Este é um canto esquecido da minha vida. Sempre me perguntei “e se”, sabe?"
+            ],
+            "ru": [
+              "Это неприбранный уголок моей жизни. Я всегда думал: «А что, если», понимаешь?"
+            ],
+            "s-cn": [
+              "这算是我人生里一处没收拾干净的角落。我总忍不住想， “要是当初……”你懂吧？"
+            ],
+            "t-cn": [
+              "這算是我人生裡一處沒收拾乾淨的角落。 我總忍不住想，「要是當初……」你懂吧？"
             ]
           },
           "provenance": {
@@ -68,9 +131,45 @@
               "I *do* know. But, it's very unusual that you're here without sanction.",
               "You must have gone to some lengths. What's the urgency?"
             ],
+            "de": [
+              "Das weiß ich sehr wohl. Aber es ist sehr ungewöhnlich, dass du ohne Erlaubnis hier bist.",
+              "Du musst einiges auf dich genommen haben. Warum die Eile?"
+            ],
+            "es": [
+              "Sí que lo sé. Pero es muy inusual que estés aquí sin autorización.",
+              "Debes de haber hecho lo imposible por venir. ¿A qué viene tanta urgencia?"
+            ],
+            "fr": [
+              "Je vois. Mais votre présence ici sans autorisation est très inhabituelle.",
+              "Vous avez dû vous donner bien du mal. Pourquoi cette urgence ?"
+            ],
+            "it": [
+              "Lo so. Ma è molto insolito che tu sia qui senza autorizzazione.",
+              "Devi aver fatto parecchi sforzi. Perché tanta urgenza?"
+            ],
+            "ja": [
+              "知っているよ。でも、許可もなく ここにいるのは、とても珍しいことだ。",
+              "そうか。"
+            ],
+            "ko": [
+              "알고는 있어. 하지만 허락도 없이 네가 여기 온 건 아주 이례적인 일이야.",
+              "꽤 애를 썼겠군. 뭐가 그리 급하지?"
+            ],
             "pt-br": [
               "Eu sei. Mas é muito incomum você estar aqui sem autorização.",
               "Deve ter se esforçado bastante. Qual é a urgência?"
+            ],
+            "ru": [
+              "Я знаю. Но то, что ты здесь без разрешения, очень необычно.",
+              "Должно быть, пришлось немало потрудиться. К чему такая спешка?"
+            ],
+            "s-cn": [
+              "我确实懂。不过，你在未经许可的情况下来到这儿，这很不寻常。",
+              "你一定是费了不少周折。 到底有什么急事？"
+            ],
+            "t-cn": [
+              "我確實懂。不過，你在未經許可的情況下來到這兒，這很不尋常。",
+              "你一定是費了不少周折。 到底有什麼急事？"
             ]
           },
           "provenance": {
@@ -92,8 +191,35 @@
             "en": [
               "Well. You see. I'm going to die soon. And I want to know."
             ],
+            "de": [
+              "Nun. Es ist so. Ich werde bald sterben. Und ich will es wissen."
+            ],
+            "es": [
+              "Bueno. Verás. Voy a morir pronto. Y quiero saber."
+            ],
+            "fr": [
+              "Eh bien... Je vais bientôt mourir. Et je veux savoir."
+            ],
+            "it": [
+              "Beh. Vedi. Morirò presto. E voglio sapere."
+            ],
+            "ja": [
+              "そうだね。実は、 私はもうじき死ぬ。 だから、知りたいんだ。"
+            ],
+            "ko": [
+              "음. 그러니까. 난 곧 죽어. 그래서 알고 싶어."
+            ],
             "pt-br": [
               "Bem. Veja só. Vou morrer em breve. E quero saber."
+            ],
+            "ru": [
+              "Что ж. Видишь ли. Я скоро умру. И я хочу знать."
+            ],
+            "s-cn": [
+              "嗯，是这样。 我很快就要死了。 而我想弄明白。"
+            ],
+            "t-cn": [
+              "嗯，是這樣。 我很快就要死了。 而我想弄明白。"
             ]
           },
           "provenance": {
@@ -117,12 +243,75 @@
           "You must have gone to some lengths. What's the urgency?",
           "Well. You see. I'm going to die soon. And I want to know."
         ],
+        "de": [
+          "Also, warum bist du gekommen?",
+          "Das ist eine Ecke meines Lebens, die ich nie ausgekehrt habe. Ich habe mich immer gefragt: „Was wäre, wenn?“ Du weißt schon.",
+          "Das weiß ich sehr wohl. Aber es ist sehr ungewöhnlich, dass du ohne Erlaubnis hier bist.",
+          "Du musst einiges auf dich genommen haben. Warum die Eile?",
+          "Nun. Es ist so. Ich werde bald sterben. Und ich will es wissen."
+        ],
+        "es": [
+          "Entonces, ¿por qué viniste?",
+          "Este es un rincón de mi vida que me quedaba por barrer. Siempre me he preguntado: «¿y si...?», ya sabes.",
+          "Sí que lo sé. Pero es muy inusual que estés aquí sin autorización.",
+          "Debes de haber hecho lo imposible por venir. ¿A qué viene tanta urgencia?",
+          "Bueno. Verás. Voy a morir pronto. Y quiero saber."
+        ],
+        "fr": [
+          "Alors, qu'est-ce qui vous a amené ici ?",
+          "C'est un recoin de ma vie où je n'ai pas encore fait le ménage. Je me suis toujours demandé « et si », vous voyez ?",
+          "Je vois. Mais votre présence ici sans autorisation est très inhabituelle.",
+          "Vous avez dû vous donner bien du mal. Pourquoi cette urgence ?",
+          "Eh bien... Je vais bientôt mourir. Et je veux savoir."
+        ],
+        "it": [
+          "Allora, perché sei venuto?",
+          "Questo è un angolo della mia vita inesplorato. Mi sono sempre chiesto: \"e se...?\", capisci?",
+          "Lo so. Ma è molto insolito che tu sia qui senza autorizzazione.",
+          "Devi aver fatto parecchi sforzi. Perché tanta urgenza?",
+          "Beh. Vedi. Morirò presto. E voglio sapere."
+        ],
+        "ja": [
+          "なぜここに来た？",
+          "私はもうすぐ死ぬ。 ここは私の心残り… 「もしも」の世界だ。",
+          "知っているよ。でも、許可もなく ここにいるのは、とても珍しいことだ。",
+          "そうか。",
+          "そうだね。実は、 私はもうじき死ぬ。 だから、知りたいんだ。"
+        ],
+        "ko": [
+          "그래서, 왜 왔어?",
+          "내 인생엔 아직 정리되지 않은 구석이 남아 있어. 항상 '만약에'라는 생각이 들었지. 무슨 말인지 알지?",
+          "알고는 있어. 하지만 허락도 없이 네가 여기 온 건 아주 이례적인 일이야.",
+          "꽤 애를 썼겠군. 뭐가 그리 급하지?",
+          "음. 그러니까. 난 곧 죽어. 그래서 알고 싶어."
+        ],
         "pt-br": [
           "Então, por que você veio?",
           "Este é um canto esquecido da minha vida. Sempre me perguntei “e se”, sabe?",
           "Eu sei. Mas é muito incomum você estar aqui sem autorização.",
           "Deve ter se esforçado bastante. Qual é a urgência?",
           "Bem. Veja só. Vou morrer em breve. E quero saber."
+        ],
+        "ru": [
+          "Так зачем ты пришёл?",
+          "Это неприбранный уголок моей жизни. Я всегда думал: «А что, если», понимаешь?",
+          "Я знаю. Но то, что ты здесь без разрешения, очень необычно.",
+          "Должно быть, пришлось немало потрудиться. К чему такая спешка?",
+          "Что ж. Видишь ли. Я скоро умру. И я хочу знать."
+        ],
+        "s-cn": [
+          "那么，你为什么来？",
+          "这算是我人生里一处没收拾干净的角落。我总忍不住想， “要是当初……”你懂吧？",
+          "我确实懂。不过，你在未经许可的情况下来到这儿，这很不寻常。",
+          "你一定是费了不少周折。 到底有什么急事？",
+          "嗯，是这样。 我很快就要死了。 而我想弄明白。"
+        ],
+        "t-cn": [
+          "那麼，你為什麼來？",
+          "這算是我人生裡一處沒收拾乾淨的角落。 我總忍不住想，「要是當初……」你懂吧？",
+          "我確實懂。不過，你在未經許可的情況下來到這兒，這很不尋常。",
+          "你一定是費了不少周折。 到底有什麼急事？",
+          "嗯，是這樣。 我很快就要死了。 而我想弄明白。"
         ]
       },
       "silentCues": [],

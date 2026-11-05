@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "I'm getting close. The outskirts of the ruins!"
             ],
+            "de": [
+              "Ich bin fast da. Hier beginnen die Ruinen!"
+            ],
+            "es": [
+              "Ya estoy cerca. ¡Las afueras de las ruinas!"
+            ],
+            "fr": [
+              "Je ne suis plus très loin. Les abords des ruines !"
+            ],
+            "it": [
+              "Ci sono quasi. Ai margini delle rovine!"
+            ],
+            "ja": [
+              "近づいてきた。 遺跡の端だ。"
+            ],
+            "ko": [
+              "거의 다 왔어. 폐허의 가장자리 말이야."
+            ],
             "pt-br": [
               "Estou chegando perto. Das bordas das ruínas!"
+            ],
+            "ru": [
+              "Я уже близко. Окраины руин!"
+            ],
+            "s-cn": [
+              "快到了。已经到废墟外围了！"
+            ],
+            "t-cn": [
+              "快到了。已經到廢墟外圍了！"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "I'm getting close. The outskirts of the ruins!"
         ],
+        "de": [
+          "Ich bin fast da. Hier beginnen die Ruinen!"
+        ],
+        "es": [
+          "Ya estoy cerca. ¡Las afueras de las ruinas!"
+        ],
+        "fr": [
+          "Je ne suis plus très loin. Les abords des ruines !"
+        ],
+        "it": [
+          "Ci sono quasi. Ai margini delle rovine!"
+        ],
+        "ja": [
+          "近づいてきた。 遺跡の端だ。"
+        ],
+        "ko": [
+          "거의 다 왔어. 폐허의 가장자리 말이야."
+        ],
         "pt-br": [
           "Estou chegando perto. Das bordas das ruínas!"
+        ],
+        "ru": [
+          "Я уже близко. Окраины руин!"
+        ],
+        "s-cn": [
+          "快到了。已经到废墟外围了！"
+        ],
+        "t-cn": [
+          "快到了。已經到廢墟外圍了！"
         ]
       },
       "silentCues": [],
@@ -84,8 +147,35 @@
             "en": [
               "I wonder what this building was used for, originally?"
             ],
+            "de": [
+              "Ich frage mich, wozu dieses Gebäude da war. Also ganz ursprünglich."
+            ],
+            "es": [
+              "Me pregunto para qué se usaba este edificio originalmente."
+            ],
+            "fr": [
+              "Je me demande à quoi servait ce bâtiment, à l'origine ?"
+            ],
+            "it": [
+              "Mi chiedo a cosa servisse questo edificio in origine."
+            ],
+            "ja": [
+              "この建物、 何に使われてたんだろ？"
+            ],
+            "ko": [
+              "원래는 이 건물이 무슨 용도였는지 궁금한데?"
+            ],
             "pt-br": [
               "Fico pensando para que esse prédio era usado originalmente?"
+            ],
+            "ru": [
+              "Интересно, для чего изначально использовали это здание?"
+            ],
+            "s-cn": [
+              "不知道这栋建筑原来是做什么的。"
+            ],
+            "t-cn": [
+              "不知道這棟建築原來是做什麼的。"
             ]
           },
           "provenance": {
@@ -105,8 +195,35 @@
         "en": [
           "I wonder what this building was used for, originally?"
         ],
+        "de": [
+          "Ich frage mich, wozu dieses Gebäude da war. Also ganz ursprünglich."
+        ],
+        "es": [
+          "Me pregunto para qué se usaba este edificio originalmente."
+        ],
+        "fr": [
+          "Je me demande à quoi servait ce bâtiment, à l'origine ?"
+        ],
+        "it": [
+          "Mi chiedo a cosa servisse questo edificio in origine."
+        ],
+        "ja": [
+          "この建物、 何に使われてたんだろ？"
+        ],
+        "ko": [
+          "원래는 이 건물이 무슨 용도였는지 궁금한데?"
+        ],
         "pt-br": [
           "Fico pensando para que esse prédio era usado originalmente?"
+        ],
+        "ru": [
+          "Интересно, для чего изначально использовали это здание?"
+        ],
+        "s-cn": [
+          "不知道这栋建筑原来是做什么的。"
+        ],
+        "t-cn": [
+          "不知道這棟建築原來是做什麼的。"
         ]
       },
       "silentCues": [],

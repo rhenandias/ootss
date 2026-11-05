@@ -3,7 +3,16 @@
   "audioLog": "audiolog_g_far_from_home",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -28,6 +37,78 @@
               "Then I would be on my way again.",
               "I must keep driving forward. Ever onward. Ever forward."
             ],
+            "de": [
+              "Quigley, es ist lange her.",
+              "Ich weiß nicht, wie lange; hier gibt es keinen Sonnenlauf, an dem ich die Zeit ablesen könnte,",
+              "und nach und nach habe ich mich meiner Geräte entledigt.",
+              "Ich gestehe, meine Heimat erscheint mir inzwischen fern, eher wie ein halb vergessener Traum als ein wirklicher Ort, an dem ich je wieder zu leben hoffen könnte.",
+              "Ich bin immerzu allein. Jeden Tag fühle ich mich diesen Welten und ihren Bewohnern näher. Obwohl ich nicht mit ihnen sprechen kann.",
+              "Und auch zwischen den Welten ... erkenne ich allmählich, schemenhaft,",
+              "bestimmte Arten von Verbindungen. Seidene Fäden.",
+              "Vielleicht ... Vielleicht will ich gar nicht zurück, außer um einen Moment lang zu sehen, wie es euch allen ergeht.",
+              "Danach würde ich wieder aufbrechen.",
+              "Ich muss weiter vorwärtsdrängen. Immer weiter. Immer vorwärts."
+            ],
+            "es": [
+              "Quigley, ha pasado mucho tiempo.",
+              "No sé cuánto tiempo llevo; no tengo un paso regular del sol con el que contar,",
+              "y poco a poco me he ido desprendiendo de dispositivos.",
+              "Confieso que el hogar ahora empieza a parecerme lejano, más como un sueño medio recordado que como un lugar real en el que pueda esperar volver a vivir algún día.",
+              "Constantemente solo, cada día me siento más cerca de estos mundos y de sus habitantes. Aunque no pueda hablar con ellos.",
+              "Y también, entre los mundos... empiezo a ver, tenuemente,",
+              "ciertos tipos de conexiones. Hilos de seda.",
+              "Quizá... Quizá no quiera volver, salvo para ver un momento cómo le va a todo el mundo.",
+              "Luego seguiría mi camino.",
+              "Debo seguir avanzando. Siempre adelante. Siempre hacia delante."
+            ],
+            "fr": [
+              "Quigley, cela fait longtemps.",
+              "Je ne sais pas depuis combien de temps ; je n'ai aucun cycle solaire qui me permette de compter les jours,",
+              "et je me déleste peu à peu de mes appareils.",
+              "J'avoue que la maison commence à me sembler loin, comme un rêve à demi oublié plutôt qu'un lieu réel où j'aurais encore l'espoir de vivre un jour.",
+              "Accablé par la solitude, chaque jour je me sens plus proche de ces mondes et de leurs habitants. Même si je ne peux pas leur parler.",
+              "Et aussi, entre les mondes... je commence à percevoir, faiblement,",
+              "des sortes de liens. Des fils de soie.",
+              "Peut-être... Peut-être que je ne veux pas revenir, sauf pour voir un instant comment tout le monde va.",
+              "Puis je repartirais.",
+              "Je dois continuer d'avancer. Toujours plus loin. Toujours de l'avant."
+            ],
+            "it": [
+              "Quigley, è passato molto tempo.",
+              "Non so da quanto: non ho un regolare passaggio del sole con cui contare,",
+              "e mi sono gradualmente liberato dei dispositivi.",
+              "Confesso che casa comincia a sembrarmi lontana, più come un sogno mezzo ricordato che un luogo reale in cui potrei sperare di tornare mai a vivere.",
+              "Sempre solo, ogni giorno mi sento più vicino a questi mondi e ai loro abitanti. Anche se non posso parlare con loro.",
+              "E inoltre, tra i mondi... sto cominciando a vedere, debolmente,",
+              "certi tipi di connessioni. Fili di seta.",
+              "Forse... Forse non voglio tornare, se non per vedere per un momento come ve la cavate tutti.",
+              "Poi ripartirei.",
+              "Devo continuare ad andare avanti. Sempre avanti. Sempre avanti."
+            ],
+            "ja": [
+              "クイグリー、 長い時間が経った。",
+              "だから時計も手放した。 持ち歩くには重いし、 ここで時間を測る意味はない。",
+              "どれほどかはわからない。 あの時、行き先がわからぬまま",
+              "正直、家がほど遠く感じる。",
+              "そして他の世界には 近づきつつも、遠ざかっているように感じる。",
+              "世界そのものだけじゃない。 この上位世界が示す、 絹糸のようなつながり、",
+              "行動同士のつながりが 少しずつ見えてきた。 きっとそれこそが この施設の目的だ。",
+              "正直、帰りたいとは思わない。 皆の顔は一目見たい かもしれないが。",
+              "すべてが魔法のようで、 もっと探索したくなる。",
+              "今はただひらすら 前へ進みたい。"
+            ],
+            "ko": [
+              "퀴글리, 오랜만이군.",
+              "얼마나 지났는지는 모르겠군. 규칙적으로 뜨고 지는 해가 없으니 시간을 헤아릴 길도 없고,",
+              "나는 조금씩 장치들을 떨쳐내며 짐을 덜어내고 있거든.",
+              "솔직히 이제 고향이 멀게 느껴져. 언젠가 돌아가 살기를 바라야 할 곳이라기보다는 희미하게 기억나는 꿈처럼.",
+              "줄곧 혼자인 채로 하루하루 이 세계들과 그곳 주민들이 더 가깝게 느껴지는군. 그들과 말 한마디 나눌 수 없는데도.",
+              "그리고 세계들 사이에서도... 이제 어렴풋이 보이기 시작했어.",
+              "어떤 종류의 연결이 보여. 비단실 같은 가닥들이지.",
+              "어쩌면... 어쩌면 이제는 돌아가고 싶지 않은지도 몰라. 다들 어떻게 지내는지 잠깐 들르는 정도라면 몰라도.",
+              "그런 다음 난 다시 길을 떠날 것 같군.",
+              "계속 앞으로 나아가야 해. 언제까지나 전진. 언제까지나 앞으로."
+            ],
             "pt-br": [
               "Quigley, faz bastante tempo.",
               "Não sei há quanto tempo; não tenho a passagem regular do sol para contar,",
@@ -39,6 +120,42 @@
               "Talvez... Talvez eu não queira voltar, exceto para ver por um instante como todos estão indo.",
               "Depois eu seguiria meu caminho de novo.",
               "Preciso continuar avançando. Sempre em frente. Sempre avançando."
+            ],
+            "ru": [
+              "Квигли, Сколько лет, сколько зим.",
+              "Я не уверен, сколько прошло времени; здесь нет солнца, по которому можно вести счёт,",
+              "и я постепенно избавляюсь от устройств.",
+              "Признаюсь, дом начинает казаться мне далёким, скорее полузабытым сном, чем реальным местом, в котором я мог бы надеяться когда-нибудь жить снова.",
+              "Всегда один, с каждым днём я чувствую себя ближе к этим мирам и их обитателям. Хотя и не могу с ними говорить.",
+              "И ещё, между мирами... я начинаю смутно видеть",
+              "некоторые виды связей. Шёлковые нити.",
+              "Возможно... Возможно, я и не хочу возвращаться, разве что на миг посмотреть, как там все поживают.",
+              "А потом я снова отправлюсь в путь.",
+              "Я должен продолжать двигаться вперед. Все вперед и вперед."
+            ],
+            "s-cn": [
+              "奎格利，已经过去很久了。",
+              "具体有多久，我也说不准；这里没有规律的日升日落供我计时，",
+              "一路走来，我也在逐渐丢下身上的各种装置，减轻负担。",
+              "老实说，家乡于我已渐渐变得遥远，更像一场记忆模糊的梦， 而不是一个我仍盼着有朝一日能回去生活的真实地方。",
+              "我始终孤身一人， 反倒觉得自己与这些世界及其中的居民一天比一天亲近， 尽管我无法与他们交谈。",
+              "还有各个世界之间……我开始隐约看到一点东西，",
+              "某种连接。丝一般的细线。",
+              "也许……也许我根本不想回去。 最多只是短暂回去，看看你们大家过得怎么样。",
+              "然后我就会再次启程。",
+              "我必须继续向前。永远前进，永远向前。"
+            ],
+            "t-cn": [
+              "奎格利，已經過去很久了。",
+              "具體有多久，我也說不準； 這裡沒有規律的日升日落供我計時，",
+              "一路走來，我也在逐漸丟下身上的各種裝置，減輕負擔。",
+              "老實說，家鄉於我已漸漸變得遙遠， 更像一場記憶模糊的夢， 而不是一個我仍盼著有朝一日能回去生活的真實地方。",
+              "我始終孤身一人， 反倒覺得自己與這些世界及其中的居民一天比一天親近， 儘管我無法與他們交談。",
+              "還有各個世界之間……我開始隱約看到一點東西，",
+              "某種連接。絲一般的細線。",
+              "也許……也許我根本不想回去。 最多只是短暫回去，看看你們大家過得怎麼樣。",
+              "然後我就會再次啟程。",
+              "我必須繼續向前。永遠前進，永遠向前。"
             ]
           },
           "provenance": {
@@ -76,6 +193,78 @@
           "Then I would be on my way again.",
           "I must keep driving forward. Ever onward. Ever forward."
         ],
+        "de": [
+          "Quigley, es ist lange her.",
+          "Ich weiß nicht, wie lange; hier gibt es keinen Sonnenlauf, an dem ich die Zeit ablesen könnte,",
+          "und nach und nach habe ich mich meiner Geräte entledigt.",
+          "Ich gestehe, meine Heimat erscheint mir inzwischen fern, eher wie ein halb vergessener Traum als ein wirklicher Ort, an dem ich je wieder zu leben hoffen könnte.",
+          "Ich bin immerzu allein. Jeden Tag fühle ich mich diesen Welten und ihren Bewohnern näher. Obwohl ich nicht mit ihnen sprechen kann.",
+          "Und auch zwischen den Welten ... erkenne ich allmählich, schemenhaft,",
+          "bestimmte Arten von Verbindungen. Seidene Fäden.",
+          "Vielleicht ... Vielleicht will ich gar nicht zurück, außer um einen Moment lang zu sehen, wie es euch allen ergeht.",
+          "Danach würde ich wieder aufbrechen.",
+          "Ich muss weiter vorwärtsdrängen. Immer weiter. Immer vorwärts."
+        ],
+        "es": [
+          "Quigley, ha pasado mucho tiempo.",
+          "No sé cuánto tiempo llevo; no tengo un paso regular del sol con el que contar,",
+          "y poco a poco me he ido desprendiendo de dispositivos.",
+          "Confieso que el hogar ahora empieza a parecerme lejano, más como un sueño medio recordado que como un lugar real en el que pueda esperar volver a vivir algún día.",
+          "Constantemente solo, cada día me siento más cerca de estos mundos y de sus habitantes. Aunque no pueda hablar con ellos.",
+          "Y también, entre los mundos... empiezo a ver, tenuemente,",
+          "ciertos tipos de conexiones. Hilos de seda.",
+          "Quizá... Quizá no quiera volver, salvo para ver un momento cómo le va a todo el mundo.",
+          "Luego seguiría mi camino.",
+          "Debo seguir avanzando. Siempre adelante. Siempre hacia delante."
+        ],
+        "fr": [
+          "Quigley, cela fait longtemps.",
+          "Je ne sais pas depuis combien de temps ; je n'ai aucun cycle solaire qui me permette de compter les jours,",
+          "et je me déleste peu à peu de mes appareils.",
+          "J'avoue que la maison commence à me sembler loin, comme un rêve à demi oublié plutôt qu'un lieu réel où j'aurais encore l'espoir de vivre un jour.",
+          "Accablé par la solitude, chaque jour je me sens plus proche de ces mondes et de leurs habitants. Même si je ne peux pas leur parler.",
+          "Et aussi, entre les mondes... je commence à percevoir, faiblement,",
+          "des sortes de liens. Des fils de soie.",
+          "Peut-être... Peut-être que je ne veux pas revenir, sauf pour voir un instant comment tout le monde va.",
+          "Puis je repartirais.",
+          "Je dois continuer d'avancer. Toujours plus loin. Toujours de l'avant."
+        ],
+        "it": [
+          "Quigley, è passato molto tempo.",
+          "Non so da quanto: non ho un regolare passaggio del sole con cui contare,",
+          "e mi sono gradualmente liberato dei dispositivi.",
+          "Confesso che casa comincia a sembrarmi lontana, più come un sogno mezzo ricordato che un luogo reale in cui potrei sperare di tornare mai a vivere.",
+          "Sempre solo, ogni giorno mi sento più vicino a questi mondi e ai loro abitanti. Anche se non posso parlare con loro.",
+          "E inoltre, tra i mondi... sto cominciando a vedere, debolmente,",
+          "certi tipi di connessioni. Fili di seta.",
+          "Forse... Forse non voglio tornare, se non per vedere per un momento come ve la cavate tutti.",
+          "Poi ripartirei.",
+          "Devo continuare ad andare avanti. Sempre avanti. Sempre avanti."
+        ],
+        "ja": [
+          "クイグリー、 長い時間が経った。",
+          "だから時計も手放した。 持ち歩くには重いし、 ここで時間を測る意味はない。",
+          "どれほどかはわからない。 あの時、行き先がわからぬまま",
+          "正直、家がほど遠く感じる。",
+          "そして他の世界には 近づきつつも、遠ざかっているように感じる。",
+          "世界そのものだけじゃない。 この上位世界が示す、 絹糸のようなつながり、",
+          "行動同士のつながりが 少しずつ見えてきた。 きっとそれこそが この施設の目的だ。",
+          "正直、帰りたいとは思わない。 皆の顔は一目見たい かもしれないが。",
+          "すべてが魔法のようで、 もっと探索したくなる。",
+          "今はただひらすら 前へ進みたい。"
+        ],
+        "ko": [
+          "퀴글리, 오랜만이군.",
+          "얼마나 지났는지는 모르겠군. 규칙적으로 뜨고 지는 해가 없으니 시간을 헤아릴 길도 없고,",
+          "나는 조금씩 장치들을 떨쳐내며 짐을 덜어내고 있거든.",
+          "솔직히 이제 고향이 멀게 느껴져. 언젠가 돌아가 살기를 바라야 할 곳이라기보다는 희미하게 기억나는 꿈처럼.",
+          "줄곧 혼자인 채로 하루하루 이 세계들과 그곳 주민들이 더 가깝게 느껴지는군. 그들과 말 한마디 나눌 수 없는데도.",
+          "그리고 세계들 사이에서도... 이제 어렴풋이 보이기 시작했어.",
+          "어떤 종류의 연결이 보여. 비단실 같은 가닥들이지.",
+          "어쩌면... 어쩌면 이제는 돌아가고 싶지 않은지도 몰라. 다들 어떻게 지내는지 잠깐 들르는 정도라면 몰라도.",
+          "그런 다음 난 다시 길을 떠날 것 같군.",
+          "계속 앞으로 나아가야 해. 언제까지나 전진. 언제까지나 앞으로."
+        ],
         "pt-br": [
           "Quigley, faz bastante tempo.",
           "Não sei há quanto tempo; não tenho a passagem regular do sol para contar,",
@@ -87,6 +276,42 @@
           "Talvez... Talvez eu não queira voltar, exceto para ver por um instante como todos estão indo.",
           "Depois eu seguiria meu caminho de novo.",
           "Preciso continuar avançando. Sempre em frente. Sempre avançando."
+        ],
+        "ru": [
+          "Квигли, Сколько лет, сколько зим.",
+          "Я не уверен, сколько прошло времени; здесь нет солнца, по которому можно вести счёт,",
+          "и я постепенно избавляюсь от устройств.",
+          "Признаюсь, дом начинает казаться мне далёким, скорее полузабытым сном, чем реальным местом, в котором я мог бы надеяться когда-нибудь жить снова.",
+          "Всегда один, с каждым днём я чувствую себя ближе к этим мирам и их обитателям. Хотя и не могу с ними говорить.",
+          "И ещё, между мирами... я начинаю смутно видеть",
+          "некоторые виды связей. Шёлковые нити.",
+          "Возможно... Возможно, я и не хочу возвращаться, разве что на миг посмотреть, как там все поживают.",
+          "А потом я снова отправлюсь в путь.",
+          "Я должен продолжать двигаться вперед. Все вперед и вперед."
+        ],
+        "s-cn": [
+          "奎格利，已经过去很久了。",
+          "具体有多久，我也说不准；这里没有规律的日升日落供我计时，",
+          "一路走来，我也在逐渐丢下身上的各种装置，减轻负担。",
+          "老实说，家乡于我已渐渐变得遥远，更像一场记忆模糊的梦， 而不是一个我仍盼着有朝一日能回去生活的真实地方。",
+          "我始终孤身一人， 反倒觉得自己与这些世界及其中的居民一天比一天亲近， 尽管我无法与他们交谈。",
+          "还有各个世界之间……我开始隐约看到一点东西，",
+          "某种连接。丝一般的细线。",
+          "也许……也许我根本不想回去。 最多只是短暂回去，看看你们大家过得怎么样。",
+          "然后我就会再次启程。",
+          "我必须继续向前。永远前进，永远向前。"
+        ],
+        "t-cn": [
+          "奎格利，已經過去很久了。",
+          "具體有多久，我也說不準； 這裡沒有規律的日升日落供我計時，",
+          "一路走來，我也在逐漸丟下身上的各種裝置，減輕負擔。",
+          "老實說，家鄉於我已漸漸變得遙遠， 更像一場記憶模糊的夢， 而不是一個我仍盼著有朝一日能回去生活的真實地方。",
+          "我始終孤身一人， 反倒覺得自己與這些世界及其中的居民一天比一天親近， 儘管我無法與他們交談。",
+          "還有各個世界之間……我開始隱約看到一點東西，",
+          "某種連接。絲一般的細線。",
+          "也許……也許我根本不想回去。 最多只是短暫回去，看看你們大家過得怎麼樣。",
+          "然後我就會再次啟程。",
+          "我必須繼續向前。永遠前進，永遠向前。"
         ]
       },
       "silentCues": [],

@@ -3,7 +3,16 @@
   "audioLog": "audiolog_u_computation",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -19,8 +28,35 @@
             "en": [
               "Do you recognize this?"
             ],
+            "de": [
+              "Erkennst du das?"
+            ],
+            "es": [
+              "¿Reconoces esto?"
+            ],
+            "fr": [
+              "Reconnaissez-vous ceci ?"
+            ],
+            "it": [
+              "Riconosci questo?"
+            ],
+            "ja": [
+              "これが何か、分かるかな？"
+            ],
+            "ko": [
+              "이걸 알아보겠어?"
+            ],
             "pt-br": [
               "Você reconhece isto?"
+            ],
+            "ru": [
+              "Узнаёшь?"
+            ],
+            "s-cn": [
+              "你认得这个吗？"
+            ],
+            "t-cn": [
+              "你認得這個嗎？"
             ]
           },
           "provenance": {
@@ -42,9 +78,45 @@
               "Ahh, the Clayson's Field. Though we only know it by still images in books and papers;",
               "I've never seen this kind of smooth rendition. Beautiful!"
             ],
+            "de": [
+              "Ah, das Clayson-Feld. Wir kennen es allerdings nur von Abbildungen in Büchern und Fachartikeln.",
+              "Eine so flüssige Darstellung habe ich noch nie gesehen. Wunderschön!"
+            ],
+            "es": [
+              "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
+              "Nunca había visto una representación tan fluida. ¡Qué maravilla!"
+            ],
+            "fr": [
+              "Ahh, le champ de Clayson. Même si nous ne le connaissons que par des illustrations dans des livres et des journaux ;",
+              "je n'ai jamais vu un rendu aussi fluide. Magnifique !"
+            ],
+            "it": [
+              "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+              "non ho mai visto una rappresentazione così fluida. Bellissima!"
+            ],
+            "ja": [
+              "ああ、クレイソン場ですね。 ただ、私たちは本や論文にある 静止画しか知りません。",
+              "こんな滑らかな表示は、初めて見ました。 美しい！"
+            ],
+            "ko": [
+              "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
+              "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!"
+            ],
             "pt-br": [
               "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
               "Nunca vi uma representação tão fluida. Que beleza!"
+            ],
+            "ru": [
+              "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+              "Никогда не видел такого плавного изображения. Красота!"
+            ],
+            "s-cn": [
+              "啊，克莱森场。不过我们只在书籍和论文的静态图像中见过；",
+              "我还从没见过这样流畅的呈现。真美！"
+            ],
+            "t-cn": [
+              "啊，克萊森場。不過我們只在書籍和論文的靜態圖像中見過；",
+              "我還從沒見過這樣流暢的呈現。真美！"
             ]
           },
           "provenance": {
@@ -69,11 +141,65 @@
               "Square it, add the two-dimensional constant for that position in the plane, and that's the new number, and repeat.",
               "See how long your number survives, and color accordingly. And, you see ..."
             ],
+            "de": [
+              "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
+              "wobei der Ausgangszustand selbst stets null ist.",
+              "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+              "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ..."
+            ],
+            "es": [
+              "Es uno de los ejemplos más simples de la aplicación de reglas sobre un estado repetido...",
+              "donde el estado inicial en sí mismo es siempre e invariablemente cero.",
+              "Eleva al cuadrado, suma la constante bidimensional de esa posición en el plano y ese es el nuevo número; repite el proceso.",
+              "Mira cuánto tiempo sobrevive tu número y colorea en consecuencia. Y así..."
+            ],
+            "fr": [
+              "C'est l'un des exemples les plus simples d'exécution de règles sur un état répété –",
+              "où l'état initial lui-même est toujours simplement zéro.",
+              "Élevez-le au carré, ajoutez la constante bidimensionnelle pour cette position dans le plan, et voilà le nouveau nombre, puis recommencez.",
+              "Voyez combien de temps votre nombre survit, et coloriez en conséquence. Et, vous voyez..."
+            ],
+            "it": [
+              "È uno degli esempi più semplici di regole applicate ripetutamente a uno stato...",
+              "dove lo stato iniziale stesso è semplicemente sempre zero.",
+              "Elevalo al quadrato, aggiungi la costante bidimensionale per quella posizione nel piano e quello è il nuovo numero, poi ripeti.",
+              "Guarda quanto a lungo sopravvive il tuo numero, e colora di conseguenza. E, vedi..."
+            ],
+            "ja": [
+              "状態に規則を繰り返し適用する、 最も単純な例の一つだ。",
+              "初期状態は、いつもゼロだ。",
+              "その数を二乗し、 平面上のその位置に対応する 二次元の定数を加える。 それを新しい数として、繰り返す。",
+              "その数がどれだけ長く持ちこたえるかを見て、 それに応じて色をつける。すると、ほら…"
+            ],
+            "ko": [
+              "이건 상태에 규칙을 반복 적용하는 가장 단순한 예시 중 하나야.",
+              "시작 상태 자체는 항상 0이지.",
+              "그걸 제곱하고 평면에서의 위치에 해당하는 2차원 상수를 더하면 새로운 수가 나오고, 그걸 반복하는 거야.",
+              "그 수가 얼마나 오래 살아남는지 보고, 그에 따라 색을 입히는 거지. 그러면 보다시피..."
+            ],
             "pt-br": [
               "É um dos exemplos mais simples de aplicar regras a um estado repetido...",
               "em que o próprio estado inicial é sempre zero.",
               "Eleve ao quadrado, some a constante bidimensional daquela posição no plano, e esse é o novo número; repita.",
               "Veja quanto tempo seu número sobrevive, e pinte de acordo. E, veja só..."
+            ],
+            "ru": [
+              "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
+              "где само начальное состояние всегда просто ноль.",
+              "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+              "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли..."
+            ],
+            "s-cn": [
+              "这是“把规则反复应用于状态”最简单的例子之一——",
+              "起始状态本身永远只是零。",
+              "把它平方，再加上代表平面中该点的二维常数，得到新的数值，然后反复计算。",
+              "看看这个数能撑过多少轮运算，再按轮数为它上色。这样你就会看到……"
+            ],
+            "t-cn": [
+              "這是「把規則反覆應用於狀態」最簡單的例子之一——",
+              "起始狀態本身永遠只是零。",
+              "把它平方，再加上代表平面中該點的二維常數， 得到新的數值，然後反覆計算。",
+              "看看這個數能撐過多少輪運算，再按輪數為它上色。 這樣你就會看到……"
             ]
           },
           "provenance": {
@@ -97,8 +223,35 @@
             "en": [
               "Infinite detail. Incredible complexity."
             ],
+            "de": [
+              "Unendliche Details. Unglaubliche Komplexität."
+            ],
+            "es": [
+              "El detalle es infinito. Y la complejidad, increíble."
+            ],
+            "fr": [
+              "Une infinité de détails. Une complexité incroyable."
+            ],
+            "it": [
+              "Dettagli infiniti. Complessità incredibile."
+            ],
+            "ja": [
+              "どこまでも細かい… 信じがたい複雑さです。"
+            ],
+            "ko": [
+              "무한한 디테일. 엄청난 복잡성."
+            ],
             "pt-br": [
               "Detalhe infinito. Complexidade incrível."
+            ],
+            "ru": [
+              "Бесконечная детализация. Невероятная сложность."
+            ],
+            "s-cn": [
+              "无穷的细节。不可思议的复杂度。"
+            ],
+            "t-cn": [
+              "無窮的細節。不可思議的複雜度。"
             ]
           },
           "provenance": {
@@ -123,12 +276,75 @@
               "That complexity and structure is just *already there* somehow. It's fundamental.",
               "How about this one, have you seen it?"
             ],
+            "de": [
+              "Schön, dass du das verstehst. Ich gebe dir das hier zum Spielen. Was man unbedingt verinnerlichen muss –",
+              "und immer wieder in sich aufnehmen muss, um es immer tiefer zu verstehen –",
+              "ist Folgendes: Die Mathematik ist so einfach, dass wir diese Komplexität offensichtlich nicht selbst hineinbringen.",
+              "Diese Komplexität und Struktur sind irgendwie einfach schon da. Das ist fundamental.",
+              "Und das hier? Hast du das schon gesehen?"
+            ],
+            "es": [
+              "Me alegra que lo entiendas. Te daré esto para que juegues con ello. Lo importante es interiorizar...",
+              "y absorber una y otra vez en un intento de comprenderlo cada vez más a fondo...",
+              "es que la matemática es tan simple que, obviamente, no ponemos la complejidad ahí nosotros mismos.",
+              "Esa complejidad y esa estructura simplemente ya están ahí de algún modo. Son fundamentales.",
+              "¿Qué te parece esta, la has visto?"
+            ],
+            "fr": [
+              "Content que vous compreniez. Je vais vous donner ça pour vous amuser. L'important à retenir –",
+              "et à absorber encore et encore pour essayer de comprendre toujours plus en profondeur –",
+              "c'est que les maths sont si simples qu'il est évident que nous n'y mettons pas la complexité nous-mêmes.",
+              "Cette complexité et cette structure sont simplement déjà là. C'est fondamental.",
+              "Et ça, vous l'avez déjà vu ?"
+            ],
+            "it": [
+              "Bene, bene, vedo che hai capito. Ti darò questo con cui giocare. La cosa importante da interiorizzare...",
+              "e assorbire ancora e ancora in un tentativo di capire sempre più a fondo...",
+              "è che la matematica è così semplice che, ovviamente, non ci mettiamo noi la complessità.",
+              "Complessità e struttura sono già lì in qualche modo. È fondamentale.",
+              "Che ne dici di questo, l'hai mai visto?"
+            ],
+            "ja": [
+              "分かってくれてうれしいよ。これをあげよう。 いろいろ触ってみるといい。 大切なのは、ある事実を深く心に刻むことだ。",
+              "何度も繰り返し受け止め、 そのたびに、理解をさらに深めていってほしい。",
+              "計算はこれほど単純なのだから、 複雑さを私たち自身が付け加えているのではない。 その事実は明らかだ。",
+              "その複雑さと構造は、どういうわけか すでにそこにある。 根本的なものなんだ。",
+              "こちらはどうだろう。見たことはあるかな？"
+            ],
+            "ko": [
+              "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
+              "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
+              "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
+              "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+              "그럼 이건 어때? 본 적 있어?"
+            ],
             "pt-br": [
               "Que bom que você entendeu. Vou te dar isso para brincar. O importante é internalizar...",
               "e absorver repetidas vezes, numa tentativa de entender cada vez mais profundamente...",
               "é que, como a matemática é tão simples, obviamente não colocamos a complexidade ali por conta própria.",
               "Essa complexidade e estrutura simplesmente já estão ali de algum jeito. É algo fundamental.",
               "Que tal este aqui, você já viu?"
+            ],
+            "ru": [
+              "Рад, что ты понимаешь. Я дам тебе это поиграть. Важно усвоить главное —",
+              "и снова и снова впитывать его, пытаясь понять всё глубже и глубже —",
+              "что математика настолько проста, что, очевидно, мы не вкладываем в неё сложность сами.",
+              "Эта сложность и структура каким-то образом уже есть. Это фундаментально.",
+              "Как насчёт этого: ты это видел?"
+            ],
+            "s-cn": [
+              "很高兴你能理解。我把这个给你，你拿去试试。 有一点，你得真正领会，",
+              "还要反复琢磨、不断体会，试着理解得更深：",
+              "数学的规则如此简单，显然，那些复杂结构不是我们自己加进去的。",
+              "不知为什么，这些简单的规则本来就蕴含着复杂性和结构性。 这是规则本身固有的特性。",
+              "这个呢，你见过吗？"
+            ],
+            "t-cn": [
+              "很高興你能理解。我把這個給你，你拿去試試。 有一點，你得真正領會，",
+              "還要反覆琢磨、不斷體會，試著理解得更深：",
+              "數學的規則如此簡單，顯然， 那些複雜結構不是我們自己加進去的。",
+              "不知為什麼，這些簡單的規則本來就蘊含著複雜性和結構性。 這是規則本身固有的特性。",
+              "這個呢，你見過嗎？"
             ]
           },
           "provenance": {
@@ -153,8 +369,35 @@
             "en": [
               "No, ... no idea what that is."
             ],
+            "de": [
+              "Nein ... keine Ahnung, was das ist."
+            ],
+            "es": [
+              "No... ni idea."
+            ],
+            "fr": [
+              "Non... ça ne me dit rien."
+            ],
+            "it": [
+              "No... non ne ho idea."
+            ],
+            "ja": [
+              "いえ…何なのか、まったく分かりません。"
+            ],
+            "ko": [
+              "아니요... 전혀 모르겠습니다."
+            ],
             "pt-br": [
               "Não... não faço ideia do que é isso."
+            ],
+            "ru": [
+              "Нет... понятия не имею."
+            ],
+            "s-cn": [
+              "没有……我完全不知道这是什么。"
+            ],
+            "t-cn": [
+              "沒有……我完全不知道這是什麼。"
             ]
           },
           "provenance": {
@@ -179,12 +422,75 @@
               "This time the rules are exactly the same at every point in the space.",
               "Experiment; see what you can figure out."
             ],
+            "de": [
+              "Ich lasse dich damit herumspielen. Es heißt „Leben“,",
+              "vor langer Zeit benannt und als Analogie erdacht für biologische Zellen, die sich teilen und absterben.",
+              "Es ist ein weiteres Beispiel dafür, einfache Regeln wiederholt auf den Ausgangszustand einer Welt anzuwenden.",
+              "Diesmal sind die Regeln an jedem Punkt des Raumes genau gleich.",
+              "Experimentiere damit und finde mehr darüber heraus."
+            ],
+            "es": [
+              "Te lo dejo para que juegues con ello. Esto se llama «Vida»,",
+              "y recibió ese nombre hace mucho, concebida como una analogía con la muerte y reproducción de las células biológicas.",
+              "Es otro ejemplo de aplicación de reglas simples, una y otra vez, al estado inicial del mundo.",
+              "Esta vez las reglas son exactamente las mismas en todos los puntos del espacio.",
+              "Experimenta; a ver qué consigues averiguar."
+            ],
+            "fr": [
+              "Je vous laisse jouer un peu avec. Ça s'appelle « Vie »,",
+              "nommé ainsi il y a longtemps par analogie avec des cellules biologiques qui se reproduisent et meurent.",
+              "C'est un autre exemple d'application de règles simples, de manière répétée, à l'état initial du monde.",
+              "Cette fois, les règles sont exactement les mêmes en chaque point de l'espace.",
+              "Expérimentez ; voyez ce que vous pouvez comprendre."
+            ],
+            "it": [
+              "Ti lascio giocare con questo. Questo si chiama \"Vita\",",
+              "battezzato tempo fa per analogia con le cellule biologiche che si riproducono e muoiono.",
+              "È un altro esempio di applicazione di regole semplici, ripetuta, allo stato iniziale del mondo.",
+              "Questa volta le regole sono esattamente le stesse in ogni punto dello spazio.",
+              "Sperimenta... vedi cosa riesci a capire."
+            ],
+            "ja": [
+              "これも、いろいろ触ってみるといい。 こちらは「ライフ」と呼ばれている。",
+              "ずっと昔につけられた名前だ。 生物の細胞が増えたり死んだりする様子に なぞらえて考えられた。",
+              "これも、世界の初期状態から、 単純な規則を繰り返し適用する例だ。",
+              "今度は、空間のどの点でも 規則がまったく同じなんだ。",
+              "試してごらん。 何が分かるか、見てみよう。"
+            ],
+            "ko": [
+              "직접 가지고 놀아 봐. 이건 \"생명\"이라고 해.",
+              "오래전에 이름 붙여진 개념으로, 생물학적 세포가 증식하고 죽는 과정에 빗대어 고안된 거야.",
+              "이것도 초기 세계 상태에 간단한 규칙을 반복해서 적용하는 또 다른 예시야.",
+              "이번에는 공간의 모든 지점에서 정확히 똑같은 규칙이 적용돼.",
+              "직접 실험하면서 뭘 알아낼 수 있을지 봐."
+            ],
             "pt-br": [
               "Vou deixar você brincar com ele. Este aqui se chama “Vida”,",
               "batizado há muito tempo, concebido como uma analogia para células biológicas que se reproduzem e morrem.",
               "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
               "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
               "Experimente; veja o que consegue descobrir."
+            ],
+            "ru": [
+              "Оставлю тебя поиграться. Этот называется «Жизнь»,",
+              "названо давным-давно, задумано как аналогия с тем, как биологические клетки размножаются и умирают.",
+              "Ещё один пример применения простых правил, снова и снова, до начального состояния мира.",
+              "На этот раз правила абсолютно одинаковы в каждой точке пространства.",
+              "Экспериментируй; посмотрим, что ты сможешь понять."
+            ],
+            "s-cn": [
+              "留给你慢慢尝试吧。这个叫作“生命”，",
+              "这个名称很早就有了，最初是用来类比生物细胞的繁殖和死亡。",
+              "这是另一个“将简单规则反复应用于初始世界状态”的例子。",
+              "这一次，空间中每一个点遵循的规则都完全相同。",
+              "自己试试，看你能研究出什么。"
+            ],
+            "t-cn": [
+              "留給你慢慢嘗試吧。這個叫作「生命」，",
+              "這個名稱很早就有了， 最初是用來類比生物細胞的繁殖和死亡。",
+              "這是另一個 「將簡單規則反覆應用於初始世界狀態」的例子。",
+              "這一次，空間中每一個點遵循的規則都完全相同。",
+              "自己試試，看你能研究出什麼。"
             ]
           },
           "provenance": {
@@ -226,6 +532,132 @@
           "This time the rules are exactly the same at every point in the space.",
           "Experiment; see what you can figure out."
         ],
+        "de": [
+          "Erkennst du das?",
+          "Ah, das Clayson-Feld. Wir kennen es allerdings nur von Abbildungen in Büchern und Fachartikeln.",
+          "Eine so flüssige Darstellung habe ich noch nie gesehen. Wunderschön!",
+          "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
+          "wobei der Ausgangszustand selbst stets null ist.",
+          "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+          "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ...",
+          "Unendliche Details. Unglaubliche Komplexität.",
+          "Schön, dass du das verstehst. Ich gebe dir das hier zum Spielen. Was man unbedingt verinnerlichen muss –",
+          "und immer wieder in sich aufnehmen muss, um es immer tiefer zu verstehen –",
+          "ist Folgendes: Die Mathematik ist so einfach, dass wir diese Komplexität offensichtlich nicht selbst hineinbringen.",
+          "Diese Komplexität und Struktur sind irgendwie einfach schon da. Das ist fundamental.",
+          "Und das hier? Hast du das schon gesehen?",
+          "Nein ... keine Ahnung, was das ist.",
+          "Ich lasse dich damit herumspielen. Es heißt „Leben“,",
+          "vor langer Zeit benannt und als Analogie erdacht für biologische Zellen, die sich teilen und absterben.",
+          "Es ist ein weiteres Beispiel dafür, einfache Regeln wiederholt auf den Ausgangszustand einer Welt anzuwenden.",
+          "Diesmal sind die Regeln an jedem Punkt des Raumes genau gleich.",
+          "Experimentiere damit und finde mehr darüber heraus."
+        ],
+        "es": [
+          "¿Reconoces esto?",
+          "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
+          "Nunca había visto una representación tan fluida. ¡Qué maravilla!",
+          "Es uno de los ejemplos más simples de la aplicación de reglas sobre un estado repetido...",
+          "donde el estado inicial en sí mismo es siempre e invariablemente cero.",
+          "Eleva al cuadrado, suma la constante bidimensional de esa posición en el plano y ese es el nuevo número; repite el proceso.",
+          "Mira cuánto tiempo sobrevive tu número y colorea en consecuencia. Y así...",
+          "El detalle es infinito. Y la complejidad, increíble.",
+          "Me alegra que lo entiendas. Te daré esto para que juegues con ello. Lo importante es interiorizar...",
+          "y absorber una y otra vez en un intento de comprenderlo cada vez más a fondo...",
+          "es que la matemática es tan simple que, obviamente, no ponemos la complejidad ahí nosotros mismos.",
+          "Esa complejidad y esa estructura simplemente ya están ahí de algún modo. Son fundamentales.",
+          "¿Qué te parece esta, la has visto?",
+          "No... ni idea.",
+          "Te lo dejo para que juegues con ello. Esto se llama «Vida»,",
+          "y recibió ese nombre hace mucho, concebida como una analogía con la muerte y reproducción de las células biológicas.",
+          "Es otro ejemplo de aplicación de reglas simples, una y otra vez, al estado inicial del mundo.",
+          "Esta vez las reglas son exactamente las mismas en todos los puntos del espacio.",
+          "Experimenta; a ver qué consigues averiguar."
+        ],
+        "fr": [
+          "Reconnaissez-vous ceci ?",
+          "Ahh, le champ de Clayson. Même si nous ne le connaissons que par des illustrations dans des livres et des journaux ;",
+          "je n'ai jamais vu un rendu aussi fluide. Magnifique !",
+          "C'est l'un des exemples les plus simples d'exécution de règles sur un état répété –",
+          "où l'état initial lui-même est toujours simplement zéro.",
+          "Élevez-le au carré, ajoutez la constante bidimensionnelle pour cette position dans le plan, et voilà le nouveau nombre, puis recommencez.",
+          "Voyez combien de temps votre nombre survit, et coloriez en conséquence. Et, vous voyez...",
+          "Une infinité de détails. Une complexité incroyable.",
+          "Content que vous compreniez. Je vais vous donner ça pour vous amuser. L'important à retenir –",
+          "et à absorber encore et encore pour essayer de comprendre toujours plus en profondeur –",
+          "c'est que les maths sont si simples qu'il est évident que nous n'y mettons pas la complexité nous-mêmes.",
+          "Cette complexité et cette structure sont simplement déjà là. C'est fondamental.",
+          "Et ça, vous l'avez déjà vu ?",
+          "Non... ça ne me dit rien.",
+          "Je vous laisse jouer un peu avec. Ça s'appelle « Vie »,",
+          "nommé ainsi il y a longtemps par analogie avec des cellules biologiques qui se reproduisent et meurent.",
+          "C'est un autre exemple d'application de règles simples, de manière répétée, à l'état initial du monde.",
+          "Cette fois, les règles sont exactement les mêmes en chaque point de l'espace.",
+          "Expérimentez ; voyez ce que vous pouvez comprendre."
+        ],
+        "it": [
+          "Riconosci questo?",
+          "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+          "non ho mai visto una rappresentazione così fluida. Bellissima!",
+          "È uno degli esempi più semplici di regole applicate ripetutamente a uno stato...",
+          "dove lo stato iniziale stesso è semplicemente sempre zero.",
+          "Elevalo al quadrato, aggiungi la costante bidimensionale per quella posizione nel piano e quello è il nuovo numero, poi ripeti.",
+          "Guarda quanto a lungo sopravvive il tuo numero, e colora di conseguenza. E, vedi...",
+          "Dettagli infiniti. Complessità incredibile.",
+          "Bene, bene, vedo che hai capito. Ti darò questo con cui giocare. La cosa importante da interiorizzare...",
+          "e assorbire ancora e ancora in un tentativo di capire sempre più a fondo...",
+          "è che la matematica è così semplice che, ovviamente, non ci mettiamo noi la complessità.",
+          "Complessità e struttura sono già lì in qualche modo. È fondamentale.",
+          "Che ne dici di questo, l'hai mai visto?",
+          "No... non ne ho idea.",
+          "Ti lascio giocare con questo. Questo si chiama \"Vita\",",
+          "battezzato tempo fa per analogia con le cellule biologiche che si riproducono e muoiono.",
+          "È un altro esempio di applicazione di regole semplici, ripetuta, allo stato iniziale del mondo.",
+          "Questa volta le regole sono esattamente le stesse in ogni punto dello spazio.",
+          "Sperimenta... vedi cosa riesci a capire."
+        ],
+        "ja": [
+          "これが何か、分かるかな？",
+          "ああ、クレイソン場ですね。 ただ、私たちは本や論文にある 静止画しか知りません。",
+          "こんな滑らかな表示は、初めて見ました。 美しい！",
+          "状態に規則を繰り返し適用する、 最も単純な例の一つだ。",
+          "初期状態は、いつもゼロだ。",
+          "その数を二乗し、 平面上のその位置に対応する 二次元の定数を加える。 それを新しい数として、繰り返す。",
+          "その数がどれだけ長く持ちこたえるかを見て、 それに応じて色をつける。すると、ほら…",
+          "どこまでも細かい… 信じがたい複雑さです。",
+          "分かってくれてうれしいよ。これをあげよう。 いろいろ触ってみるといい。 大切なのは、ある事実を深く心に刻むことだ。",
+          "何度も繰り返し受け止め、 そのたびに、理解をさらに深めていってほしい。",
+          "計算はこれほど単純なのだから、 複雑さを私たち自身が付け加えているのではない。 その事実は明らかだ。",
+          "その複雑さと構造は、どういうわけか すでにそこにある。 根本的なものなんだ。",
+          "こちらはどうだろう。見たことはあるかな？",
+          "いえ…何なのか、まったく分かりません。",
+          "これも、いろいろ触ってみるといい。 こちらは「ライフ」と呼ばれている。",
+          "ずっと昔につけられた名前だ。 生物の細胞が増えたり死んだりする様子に なぞらえて考えられた。",
+          "これも、世界の初期状態から、 単純な規則を繰り返し適用する例だ。",
+          "今度は、空間のどの点でも 規則がまったく同じなんだ。",
+          "試してごらん。 何が分かるか、見てみよう。"
+        ],
+        "ko": [
+          "이걸 알아보겠어?",
+          "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
+          "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!",
+          "이건 상태에 규칙을 반복 적용하는 가장 단순한 예시 중 하나야.",
+          "시작 상태 자체는 항상 0이지.",
+          "그걸 제곱하고 평면에서의 위치에 해당하는 2차원 상수를 더하면 새로운 수가 나오고, 그걸 반복하는 거야.",
+          "그 수가 얼마나 오래 살아남는지 보고, 그에 따라 색을 입히는 거지. 그러면 보다시피...",
+          "무한한 디테일. 엄청난 복잡성.",
+          "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
+          "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
+          "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
+          "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+          "그럼 이건 어때? 본 적 있어?",
+          "아니요... 전혀 모르겠습니다.",
+          "직접 가지고 놀아 봐. 이건 \"생명\"이라고 해.",
+          "오래전에 이름 붙여진 개념으로, 생물학적 세포가 증식하고 죽는 과정에 빗대어 고안된 거야.",
+          "이것도 초기 세계 상태에 간단한 규칙을 반복해서 적용하는 또 다른 예시야.",
+          "이번에는 공간의 모든 지점에서 정확히 똑같은 규칙이 적용돼.",
+          "직접 실험하면서 뭘 알아낼 수 있을지 봐."
+        ],
         "pt-br": [
           "Você reconhece isto?",
           "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
@@ -246,6 +678,69 @@
           "É mais um exemplo de aplicar regras simples, repetidamente, ao estado inicial do mundo.",
           "Desta vez, as regras são exatamente as mesmas em cada ponto do espaço.",
           "Experimente; veja o que consegue descobrir."
+        ],
+        "ru": [
+          "Узнаёшь?",
+          "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+          "Никогда не видел такого плавного изображения. Красота!",
+          "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
+          "где само начальное состояние всегда просто ноль.",
+          "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+          "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли...",
+          "Бесконечная детализация. Невероятная сложность.",
+          "Рад, что ты понимаешь. Я дам тебе это поиграть. Важно усвоить главное —",
+          "и снова и снова впитывать его, пытаясь понять всё глубже и глубже —",
+          "что математика настолько проста, что, очевидно, мы не вкладываем в неё сложность сами.",
+          "Эта сложность и структура каким-то образом уже есть. Это фундаментально.",
+          "Как насчёт этого: ты это видел?",
+          "Нет... понятия не имею.",
+          "Оставлю тебя поиграться. Этот называется «Жизнь»,",
+          "названо давным-давно, задумано как аналогия с тем, как биологические клетки размножаются и умирают.",
+          "Ещё один пример применения простых правил, снова и снова, до начального состояния мира.",
+          "На этот раз правила абсолютно одинаковы в каждой точке пространства.",
+          "Экспериментируй; посмотрим, что ты сможешь понять."
+        ],
+        "s-cn": [
+          "你认得这个吗？",
+          "啊，克莱森场。不过我们只在书籍和论文的静态图像中见过；",
+          "我还从没见过这样流畅的呈现。真美！",
+          "这是“把规则反复应用于状态”最简单的例子之一——",
+          "起始状态本身永远只是零。",
+          "把它平方，再加上代表平面中该点的二维常数，得到新的数值，然后反复计算。",
+          "看看这个数能撑过多少轮运算，再按轮数为它上色。这样你就会看到……",
+          "无穷的细节。不可思议的复杂度。",
+          "很高兴你能理解。我把这个给你，你拿去试试。 有一点，你得真正领会，",
+          "还要反复琢磨、不断体会，试着理解得更深：",
+          "数学的规则如此简单，显然，那些复杂结构不是我们自己加进去的。",
+          "不知为什么，这些简单的规则本来就蕴含着复杂性和结构性。 这是规则本身固有的特性。",
+          "这个呢，你见过吗？",
+          "没有……我完全不知道这是什么。",
+          "留给你慢慢尝试吧。这个叫作“生命”，",
+          "这个名称很早就有了，最初是用来类比生物细胞的繁殖和死亡。",
+          "这是另一个“将简单规则反复应用于初始世界状态”的例子。",
+          "这一次，空间中每一个点遵循的规则都完全相同。",
+          "自己试试，看你能研究出什么。"
+        ],
+        "t-cn": [
+          "你認得這個嗎？",
+          "啊，克萊森場。不過我們只在書籍和論文的靜態圖像中見過；",
+          "我還從沒見過這樣流暢的呈現。真美！",
+          "這是「把規則反覆應用於狀態」最簡單的例子之一——",
+          "起始狀態本身永遠只是零。",
+          "把它平方，再加上代表平面中該點的二維常數， 得到新的數值，然後反覆計算。",
+          "看看這個數能撐過多少輪運算，再按輪數為它上色。 這樣你就會看到……",
+          "無窮的細節。不可思議的複雜度。",
+          "很高興你能理解。我把這個給你，你拿去試試。 有一點，你得真正領會，",
+          "還要反覆琢磨、不斷體會，試著理解得更深：",
+          "數學的規則如此簡單，顯然， 那些複雜結構不是我們自己加進去的。",
+          "不知為什麼，這些簡單的規則本來就蘊含著複雜性和結構性。 這是規則本身固有的特性。",
+          "這個呢，你見過嗎？",
+          "沒有……我完全不知道這是什麼。",
+          "留給你慢慢嘗試吧。這個叫作「生命」，",
+          "這個名稱很早就有了， 最初是用來類比生物細胞的繁殖和死亡。",
+          "這是另一個 「將簡單規則反覆應用於初始世界狀態」的例子。",
+          "這一次，空間中每一個點遵循的規則都完全相同。",
+          "自己試試，看你能研究出什麼。"
         ]
       },
       "silentCues": [],

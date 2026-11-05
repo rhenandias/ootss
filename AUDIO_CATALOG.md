@@ -1,7 +1,9 @@
 # Catálogo de áudio
 
 O mapa oferece falas nas fases e audiologs independentes, com reprodução individual,
-sequência, pausa e transcrições em inglês e português. Os controles, marcadores,
+sequência, pausa e transcrições nos 11 idiomas disponíveis no jogo: inglês,
+português brasileiro, alemão, espanhol, francês, italiano, japonês, coreano,
+russo, chinês simplificado e chinês tradicional. Os controles, marcadores,
 popups, busca e filtros seguem a interface existente. A mídia só é carregada ao tocar.
 
 ## Cobertura
@@ -36,6 +38,7 @@ Depois regenere o catálogo:
 python3 scripts/export_audio_catalog.py \
   --extracted-root '/mnt/c/Users/rhena/OneDrive/Documentos/reverse-order/extraidos' \
   --package '/mnt/c/Program Files (x86)/Steam/steamapps/common/Order of the Sinking Star/data/levels.package' \
+  --subtitles-dir '/mnt/c/Program Files (x86)/Steam/steamapps/common/Order of the Sinking Star/data/strings/subtitles' \
   --ffmpeg /caminho/para/ffmpeg
 ```
 
@@ -44,6 +47,14 @@ lido do `sinking_star.exe` ao lado da pasta `data`, sem escrever na instalação
 `--schema /caminho/schema.json` reutiliza um schema previamente extraído para a
 mesma versão do jogo. `--output-root` seleciona outro destino e `--workers` controla
 as conversões simultâneas (padrão: 4).
+
+`--subtitles-dir` lê diretamente os arquivos `.subtitles` em UTF-8 da instalação,
+sem conversão prévia nem escrita na pasta do jogo. Todos os idiomas encontrados
+são incluídos automaticamente no catálogo e no seletor. Sem essa opção, são
+descobertos os idiomas disponíveis nos `.subtitles.txt` da extração; extrações
+antigas podem conter somente inglês e português. O inglês é obrigatório porque
+define os identificadores das gravações. Os códigos originais `s-cn` e `t-cn`
+são preservados nos dados e apresentados como 简体中文 e 繁體中文 no seletor.
 
 Para conferir as fontes e a cobertura sem alterar o site ou converter mídia:
 
@@ -126,6 +137,10 @@ traduções, integridade do cache e preservação de saídas alteradas. A verifi
 funcional em Chromium também cobriu fases de diferentes regiões, listas longas,
 reutilização de uma mesma gravação na sequência, parada ao fechar o popup,
 carregamento sob demanda e o audiolog recuperado após atualizar a extração.
+Na ampliação dos idiomas, também foram verificadas em Chromium as 11 opções
+e seus textos em uma fase, um audiolog e um gatilho, incluindo a troca de idioma
+durante a reprodução sem interromper o áudio. A validação dos manifestos confere
+os idiomas em todas as conversas e clipes e preserva os textos ingleses e portugueses.
 
 ## Gatilhos e revisão de posições
 

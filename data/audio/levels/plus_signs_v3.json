@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Someone's left this shiny thing unattended!"
             ],
+            "de": [
+              "Da hat jemand dieses glänzende Ding einfach liegen lassen!"
+            ],
+            "es": [
+              "¡Alguien ha dejado esta cosa brillante sin vigilancia!"
+            ],
+            "fr": [
+              "Quelqu'un a laissé ce truc brillant sans surveillance !"
+            ],
+            "it": [
+              "Qualcuno ha lasciato incustodita questa cosa luccicante!"
+            ],
+            "ja": [
+              "キラキラしたのが放置されてる どう使うんだろ。"
+            ],
+            "ko": [
+              "누가 이 반짝이는 걸 그냥 두고 갔네!"
+            ],
             "pt-br": [
               "Alguém deixou essa coisa brilhante dando sopa!"
+            ],
+            "ru": [
+              "Кто-то оставил эту блестящую штуку без присмотра!"
+            ],
+            "s-cn": [
+              "有人把这亮闪闪的东西丢下不管了！"
+            ],
+            "t-cn": [
+              "有人把這亮閃閃的東西丟下不管了！"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "Someone's left this shiny thing unattended!"
         ],
+        "de": [
+          "Da hat jemand dieses glänzende Ding einfach liegen lassen!"
+        ],
+        "es": [
+          "¡Alguien ha dejado esta cosa brillante sin vigilancia!"
+        ],
+        "fr": [
+          "Quelqu'un a laissé ce truc brillant sans surveillance !"
+        ],
+        "it": [
+          "Qualcuno ha lasciato incustodita questa cosa luccicante!"
+        ],
+        "ja": [
+          "キラキラしたのが放置されてる どう使うんだろ。"
+        ],
+        "ko": [
+          "누가 이 반짝이는 걸 그냥 두고 갔네!"
+        ],
         "pt-br": [
           "Alguém deixou essa coisa brilhante dando sopa!"
+        ],
+        "ru": [
+          "Кто-то оставил эту блестящую штуку без присмотра!"
+        ],
+        "s-cn": [
+          "有人把这亮闪闪的东西丢下不管了！"
+        ],
+        "t-cn": [
+          "有人把這亮閃閃的東西丟下不管了！"
         ]
       },
       "silentCues": [],
@@ -84,8 +147,35 @@
             "en": [
               "I can be a mover, for once. Let's see how that feels."
             ],
+            "de": [
+              "Zur Abwechslung kann ich dieses Mal selbst etwas bewegen. Mal sehen, wie sich das anfühlt."
+            ],
+            "es": [
+              "Puedo ser un porteador, por una vez. Veamos qué se siente."
+            ],
+            "fr": [
+              "Je peux faire bouger les choses, pour une fois. Voyons ce que ça fait."
+            ],
+            "it": [
+              "Posso fare quello che sposta, stavolta. Vediamo come ci si sente."
+            ],
+            "ja": [
+              "たまには俺が 動かす側になるか。"
+            ],
+            "ko": [
+              "이번엔 나도 움직이는 쪽이 될 수 있겠네. 어떤 기분인지 한번 보자."
+            ],
             "pt-br": [
               "Posso mover as coisas, pela primeira vez. Vamos ver como é."
+            ],
+            "ru": [
+              "А я могу хоть раз побыть движущей силой. Посмотрим, каково это."
+            ],
+            "s-cn": [
+              "这回我也能搬东西了。看看是什么感觉。"
+            ],
+            "t-cn": [
+              "這回我也能搬東西了。看看是什麼感覺。"
             ]
           },
           "provenance": {
@@ -105,8 +195,35 @@
         "en": [
           "I can be a mover, for once. Let's see how that feels."
         ],
+        "de": [
+          "Zur Abwechslung kann ich dieses Mal selbst etwas bewegen. Mal sehen, wie sich das anfühlt."
+        ],
+        "es": [
+          "Puedo ser un porteador, por una vez. Veamos qué se siente."
+        ],
+        "fr": [
+          "Je peux faire bouger les choses, pour une fois. Voyons ce que ça fait."
+        ],
+        "it": [
+          "Posso fare quello che sposta, stavolta. Vediamo come ci si sente."
+        ],
+        "ja": [
+          "たまには俺が 動かす側になるか。"
+        ],
+        "ko": [
+          "이번엔 나도 움직이는 쪽이 될 수 있겠네. 어떤 기분인지 한번 보자."
+        ],
         "pt-br": [
           "Posso mover as coisas, pela primeira vez. Vamos ver como é."
+        ],
+        "ru": [
+          "А я могу хоть раз побыть движущей силой. Посмотрим, каково это."
+        ],
+        "s-cn": [
+          "这回我也能搬东西了。看看是什么感觉。"
+        ],
+        "t-cn": [
+          "這回我也能搬東西了。看看是什麼感覺。"
         ]
       },
       "silentCues": [],

@@ -3,7 +3,16 @@
   "audioLog": "audiolog_u_boundary_matching_2",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -19,8 +28,35 @@
             "en": [
               "Am I to take it that this boundary business is how you *find* the worlds, as well?"
             ],
+            "de": [
+              "Soll ich also annehmen, dass diese Grenzsache auch dazu dient, die Welten zu finden?"
+            ],
+            "es": [
+              "¿Debo entender que todo este asunto de los límites también es la forma en que *encontráis* los mundos?"
+            ],
+            "fr": [
+              "Dois-je comprendre que cette histoire de frontières est aussi la façon dont vous trouvez les mondes ?"
+            ],
+            "it": [
+              "Devo capire che questo affare del confine serve anche per *trovare* i mondi?"
+            ],
+            "ja": [
+              "つまり、その境界の仕組みというのは 行きたい世界を「見つける」 方法でもある、ということですか？"
+            ],
+            "ko": [
+              "그럼 이 경계 문제라는 게 당신이 세계를 *찾는* 방식이기도 한 겁니까?"
+            ],
             "pt-br": [
               "Devo entender que essa questão das fronteiras também é como vocês *encontram* os mundos?"
+            ],
+            "ru": [
+              "Правильно ли я понимаю, что это вот всё с границами также позволяет вам *находить* миры?"
+            ],
+            "s-cn": [
+              "那么，你们也是利用边界来寻找想要的世界吗？"
+            ],
+            "t-cn": [
+              "那麼，你們也是利用邊界來尋找想要的世界嗎？"
             ]
           },
           "provenance": {
@@ -41,8 +77,35 @@
             "en": [
               "The full story is complicated, but that's part of it."
             ],
+            "de": [
+              "Die ganze Geschichte ist kompliziert, aber das gehört dazu."
+            ],
+            "es": [
+              "La historia completa es complicada, pero eso es parte de ello."
+            ],
+            "fr": [
+              "L'histoire complète est compliquée, mais cela en fait partie."
+            ],
+            "it": [
+              "La storia completa è complicata, ma questa ne fa parte."
+            ],
+            "ja": [
+              "話を全部するとかなり複雑になるが、 それも重要な部分の一つだ。"
+            ],
+            "ko": [
+              "전체 이야기는 복잡하지만, 대략 그런 원리도 포함돼."
+            ],
             "pt-br": [
               "A história completa é complicada, mas essa é uma parte dela."
+            ],
+            "ru": [
+              "Полная история сложна, но это её часть."
+            ],
+            "s-cn": [
+              "完整的来龙去脉很复杂，不过这是其中一部分。"
+            ],
+            "t-cn": [
+              "完整的來龍去脈很複雜，不過這是其中一部分。"
             ]
           },
           "provenance": {
@@ -64,9 +127,45 @@
               "These worlds are completely separated from yours; until you have been to your desired destination",
               "at least once, you have no measurement of it. How do you know what boundary to match?"
             ],
+            "de": [
+              "Diese Welten sind völlig von eurer Welt getrennt; solange du dein gewünschtes Ziel",
+              "nicht wenigstens einmal besucht hast, hast du keine Daten davon. Woher weißt du dann, welche Grenze du abgleichen musst?"
+            ],
+            "es": [
+              "Estos mundos están completamente separados del tuyo; hasta que hayas estado en el destino al que quieres ir",
+              "al menos una vez, no tienes mediciones. ¿Cómo sabes qué límite debes igualar?"
+            ],
+            "fr": [
+              "Ces mondes sont totalement séparés du vôtre ; tant que vous n'aurez pas visité la destination souhaitée",
+              "au moins une fois, vous n'en avez aucune mesure. Comment savez-vous quelle limite faire coïncider ?"
+            ],
+            "it": [
+              "Questi mondi sono del tutto separati dal tuo; finché non avrai visitato la destinazione desiderata",
+              "almeno una volta, non hai misurazioni al riguardo. Come fai a sapere quale confine abbinare?"
+            ],
+            "ja": [
+              "これらの世界は、あなたの世界とは 完全に切り離されているのですよね？ 望む行き先に一度行くまでは、",
+              "一度も行ったことのない場所なら、 どうやって境界を測って一致させるんです？"
+            ],
+            "ko": [
+              "이 세계들은 네 세계와 완전히 분리되어 있어; 네가 원하는 목적지에 가 보기 전까지는",
+              "한 번도 가본 적 없는 곳이면 측정 자료도 없잖아. 어떤 경계에 맞춰야 하는지 어떻게 알겠어?"
+            ],
             "pt-br": [
               "Esses mundos são completamente separados do seu; até você ter visitado o destino desejado",
               "pelo menos uma vez, você não tem nenhuma medição dele. Como sabe qual fronteira deve reproduzir?"
+            ],
+            "ru": [
+              "Эти миры полностью отделены от вашего; пока вы не побываете там, куда хотите попасть",
+              "хотя бы раз, у вас нет его измерений. Как узнать, какую границу нужно сопоставить?"
+            ],
+            "s-cn": [
+              "这些世界应该与你们的世界完全隔绝吧； 你想去的地方要是一次都没去过，",
+              "就拿不到测量数据，又怎么知道该匹配什么样的边界？"
+            ],
+            "t-cn": [
+              "這些世界應該與你們的世界完全隔絕吧； 你想去的地方要是一次都沒去過，",
+              "就拿不到測量數據，又怎麼知道該匹配什麼樣的邊界？"
             ]
           },
           "provenance": {
@@ -99,6 +198,90 @@
               "It's complicated to describe the boundary conditions that actually matter.",
               "Famously, you can't clone a quantum state, but here you don't need to, because a bunch of stuff cancels out."
             ],
+            "de": [
+              "Wenn du dich mit einem Volumen zufriedengibst, das extrem klein ist,",
+              "kannst du raten, wie eine Grenze dort aussehen könnte, wo du hinwillst,",
+              "und es weiter versuchen, bis etwas klappt.",
+              "Vielleicht scheiterst du etliche Male, aber nehmen wir an, irgendwann gelingt dir ein Tausch.",
+              "Deine Grenze ist so klein, dass nur wenige Teilchen hineinpassen,",
+              "doch sie fungieren als erster Sensor. Dieser Sensor liefert dir ein paar Informationen.",
+              "Mit diesen Informationen versuchst du es mit einer etwas größeren Grenze.",
+              "Wenn es nicht ganz klappt, versuch es mit kleinen, zufälligen Änderungen.",
+              "Wenn es mit der etwas größeren Grenze klappt, schick einen etwas größeren Sensor hinein. So bekommst du etwas mehr Informationen.",
+              "Wiederhole das so lange, bis du selbst in den ausgetauschten Raumbereich passt.",
+              "Es ist kompliziert zu beschreiben, auf welche Randbedingungen es tatsächlich ankommt.",
+              "Bekanntlich kann man einen Quantenzustand nicht klonen, aber hier muss man das gar nicht, weil sich vieles gegenseitig aufhebt."
+            ],
+            "es": [
+              "Si te conformas con un volumen que es extremadamente pequeño,",
+              "puedes aventurar cómo podría ser un límite en el destino que quieres,",
+              "y seguir intentándolo hasta que salga algo.",
+              "Puede que falles bastantes veces, pero supongamos que, al final, consigues un intercambio.",
+              "Tu límite es tan pequeño que apenas caben unas pocas partículas,",
+              "pero actúan como un sensor inicial. Ese sensor te aporta un poco de información.",
+              "Con esa información, pruebas con un límite un poco mayor.",
+              "Si no acabas de acertar, prueba a alterar un poco las cosas, al azar.",
+              "Cuando lo consigas con ese límite un poco mayor, envía un sensor un poco más grande. Obtendrás algo más de información.",
+              "Repítelo una y otra vez hasta que tú mismo quepas en el espacio intercambiado.",
+              "Es complicado describir las condiciones de contorno que realmente importan.",
+              "Como bien se sabe, no puedes clonar un estado cuántico, pero aquí no hace falta, porque un montón de cosas se cancelan entre sí."
+            ],
+            "fr": [
+              "Si vous vous contentez d'un volume extrêmement petit,",
+              "vous pouvez tenter d'imaginer à quoi pourrait ressembler une frontière là où vous voulez aller,",
+              "et continuer jusqu'à obtenir quelque chose.",
+              "Vous échouerez peut-être de nombreuses fois, mais supposons que vous finissiez par réussir un échange.",
+              "Votre frontière est si petite qu'elle ne peut contenir que quelques particules,",
+              "mais elles servent de capteur initial. Ce capteur vous donne quelques informations.",
+              "Avec ces informations, vous essayez une frontière un peu plus grande.",
+              "Si vous n'y arrivez pas tout à fait, essayez de perturber légèrement les choses, au hasard.",
+              "Après avoir réussi avec cette frontière un peu plus grande, vous envoyez un capteur un peu plus grand. Vous obtenez un peu plus d'informations.",
+              "Vous continuez ainsi jusqu'à tenir vous-même dans l'espace échangé.",
+              "C'est compliqué de décrire les conditions des limites qui comptent vraiment.",
+              "Comme chacun sait, on ne peut pas cloner un état quantique, mais ici, ce n'est pas nécessaire, parce qu'une bonne partie des choses s'annule."
+            ],
+            "it": [
+              "Se ti accontenti di un volume che è estremamente piccolo,",
+              "puoi provare a immaginare come potrebbe essere un confine nella destinazione che vuoi,",
+              "e continuare a provare finché non ottieni qualcosa.",
+              "Magari fallisci parecchie volte, ma supponiamo che alla fine tu riesca a ottenere uno scambio.",
+              "Il tuo confine è così piccolo, che può contenere solo poche particelle,",
+              "ma esse agiscono come un sensore iniziale. Quel sensore ti fornisce qualche informazione.",
+              "Con quelle informazioni, provi un confine un po' più grande.",
+              "Se non ci riesci del tutto, prova ad alterare un po' le cose, a caso.",
+              "Quando ci riesci con il confine un po' più grande, invia un sensore un po' più grande. Ottieni qualche informazione in più.",
+              "Continua a ripetere il procedimento finché non riesci a entrare tu stesso nello spazio scambiato.",
+              "È complicato descrivere le condizioni del confine che contano davvero.",
+              "Com'è noto, non puoi clonare uno stato quantistico, ma qui non serve, perché un bel po' di cose si annullano."
+            ],
+            "ja": [
+              "ごく小さな体積でかまわないなら、",
+              "目的地の境界がどうなっているか、 まずは推測する。",
+              "何か得られるまで、試し続けるんだ。",
+              "何度も失敗するかもしれないが、 やがて交換に成功したとしよう。",
+              "こちら側のごく小さな境界を 少しずつ変化させて、 入れ替わるところまで持っていく。",
+              "境界はものすごく小さいから、 数個の粒子しか入らないが、 それが最初のセンサーになって、 ほんの少しだけ多くの情報をくれるんだ。",
+              "その情報を使って、 少し大きな境界で試す。",
+              "結果が悪ければ、 少しだけランダムに変えて、 別のものを試す。",
+              "でも、近い結果ならもう一度やる。 今度はもっと大きな境界と、 少しだけ大きなセンサーで、 何度も繰り返すんだ。",
+              "君は、そんな知識だけで ここまで本当によく来たな。",
+              "本当に重要な境界条件が何なのかを 説明するのは難しい。 君が思っているようなものじゃない。",
+              "幸い、それでいい。そうじゃなければ、 この方法はそもそも成立しないからな。 例えば、量子状態の複製はできない…"
+            ],
+            "ko": [
+              "극도로 작은 공간으로도 충분하다면,",
+              "목표 지역에서 경계가 어떻게 생겼을지 짐작해 볼 수 있어.",
+              "그리고 뭔가 걸릴 때까지 계속 시도해 볼 수 있어.",
+              "아마 여러 번 실패하겠지만, 결국 교환에 성공했다고 해 보자.",
+              "경계가 워낙 작아서, 입자 몇 개밖에 들어가지 못하지만,",
+              "하지만 초기 센서 역할을 하지. 그 센서로 약간의 정보를 얻을 수 있지.",
+              "그 정보로, 조금 더 큰 경계를 시도하는 거야.",
+              "제대로 맞아떨어지지 않으면, 무작위로 조금씩 변화를 줘 봐.",
+              "조금 더 큰 경계로 성공하면, 조금 더 큰 감지기를 보내. 그러면 정보를 조금 더 얻게 되지.",
+              "교환된 공간 안에 너 자신도 들어갈 수 있을 때까지 이걸 계속 반복하는 거야.",
+              "실제로 중요한 경계 조건은 설명하기 복잡해.",
+              "잘 알려져 있듯 양자 상태는 복제할 수 없지만, 여기서는 그럴 필요가 없어. 여러 요소가 서로 상쇄되거든."
+            ],
             "pt-br": [
               "Se você se contenta com um volume que é extremamente pequeno,",
               "você pode tentar adivinhar como seria uma fronteira no destino que você quer,",
@@ -112,6 +295,48 @@
               "Continue repetindo isso até você mesmo caber no espaço trocado.",
               "É complicado descrever as condições de contorno que realmente importam.",
               "É famoso que você não pode clonar um estado quântico, mas aqui você não precisa, porque um monte de coisas se cancela."
+            ],
+            "ru": [
+              "Если тебя устраивает объём, который чрезвычайно мал,",
+              "можно прикинуть, как может выглядеть граница в нужной тебе целевой области,",
+              "и продолжать попытки, пока что-нибудь не получится.",
+              "Возможно, ты много раз потерпишь неудачу, но допустим, в конце концов тебе удастся провести обмен.",
+              "Твоя граница так мала, что вмещает лишь несколько частиц,",
+              "но они служат первичным датчиком. Этот датчик даёт тебе немного информации.",
+              "С полученными сведениями ты пробуешь немного расширить границу.",
+              "Если не совсем получается, попробуй внести небольшие случайные изменения.",
+              "Когда получится немного расширить границу, отправь датчик чуть покрупнее. Получишь чуть больше сведений.",
+              "Повторяй это, пока сам не поместишься в обмениваемом пространстве.",
+              "Сложно описать граничные условия, которые действительно важны.",
+              "Как известно, квантовое состояние нельзя скопировать, но здесь это и не нужно, потому что куча всего взаимно сокращается."
+            ],
+            "s-cn": [
+              "如果你能接受先从极小的一块空间开始，",
+              "你可以猜测目标区域的边界可能是什么样子，",
+              "不断试下去，直到试出点结果。",
+              "也许你会失败很多次。但假设最终，你成功完成了一次置换。",
+              "这道边界围出的空间极小，只容得下几个粒子，",
+              "但这几个粒子已经能充当传感器，先为你探得一些信息。",
+              "有了这些信息，就可以把边界扩大一点，再试着置换。",
+              "如果结果不理想，就加入一点随机变化，换个条件再试。",
+              "稍大一点的边界置换成功后，就送去稍大一点的传感器。 你会得到稍多一点的信息。",
+              "不断重复，直到被置换的空间能装下你自己。",
+              "真正起作用的边界条件很难解释清楚。",
+              "众所周知，量子态无法克隆。 但在这里不必克隆，因为很多东西会相互抵消。"
+            ],
+            "t-cn": [
+              "如果你能接受先從極小的一塊空間開始，",
+              "你可以猜測目標區域的邊界可能是什麼樣子，",
+              "不斷試下去，直到試出點結果。",
+              "也許你會失敗很多次。 但假設最終，你成功完成了一次置換。",
+              "這道邊界圍出的空間極小，只容得下幾個粒子，",
+              "但這幾個粒子已經能充當傳感器，先為你探得一些信息。",
+              "有了這些信息，就可以把邊界擴大一點，再試著置換。",
+              "如果結果不理想，就加入一點隨機變化，換個條件再試。",
+              "稍大一點的邊界置換成功後，就送去稍大一點的傳感器。 你會得到稍多一點的信息。",
+              "不斷重複，直到被置換的空間能裝下你自己。",
+              "真正起作用的邊界條件很難解釋清楚。",
+              "眾所周知，量子態無法克隆。 但在這裡不必克隆，因為很多東西會相互抵消。"
             ]
           },
           "provenance": {
@@ -143,8 +368,35 @@
             "en": [
               "I'll keep that in mind, but first I shall need to learn about \"quantum states\"."
             ],
+            "de": [
+              "Das merke ich mir. Aber zuerst muss ich lernen, was diese „Quantenzustände“ sind."
+            ],
+            "es": [
+              "Lo tendré en cuenta, pero primero tendré que aprender qué son esos «estados cuánticos»."
+            ],
+            "fr": [
+              "Je garderai ça en tête, mais il va d'abord falloir que j'apprenne ce que sont les « états quantiques »."
+            ],
+            "it": [
+              "Lo terrò a mente, ma prima dovrò imparare cosa sono gli \"stati quantistici\"."
+            ],
+            "ja": [
+              "その話は、量子状態が何なのか 分かってから考えるとしましょう…"
+            ],
+            "ko": [
+              "명심하겠습니다. 하지만 먼저 \"양자 상태\"가 뭔지 배워야겠군요."
+            ],
             "pt-br": [
               "Vou guardar isso em mente, mas primeiro vou precisar aprender sobre esses “estados quânticos”."
+            ],
+            "ru": [
+              "Я это запомню, но сначала мне нужно узнать, что такое «квантовые состояния»."
+            ],
+            "s-cn": [
+              "我会记住，不过得先弄明白这些“量子态”是怎么回事。"
+            ],
+            "t-cn": [
+              "我會記住，不過得先弄明白這些「量子態」是怎麼回事。"
             ]
           },
           "provenance": {
@@ -168,11 +420,65 @@
               "and this lets us get away with some things that would be impossible otherwise.",
               "One might even think it was designed this way."
             ],
+            "de": [
+              "Sicher. Jedenfalls sind die Randbedingungen nicht entscheidend – weder die an einem einzelnen Punkt noch die an sämtlichen Punkten.",
+              "Denn wie gesagt: Alles ist vermischt. Holografie. Entscheidend ist der Gesamtwert,",
+              "und dadurch kommen wir mit Dingen davon, die sonst unmöglich wären.",
+              "Man könnte sogar meinen, es sei so entworfen worden."
+            ],
+            "es": [
+              "Claro. En fin, lo importante no son las condiciones en el límite en un único punto, ni siquiera en todos los puntos.",
+              "Porque, una vez más, todo está mezclado. Holografía. Lo que importa es el valor agregado,",
+              "y eso nos permite salirnos con la nuestra en algunas cosas que de otro modo serían imposibles.",
+              "Uno podría pensar que lo diseñaron así."
+            ],
+            "fr": [
+              "Certes. Bref, ce qui importe, ce ne sont pas les conditions des limites à un point donné, ni même à tous les points.",
+              "Parce qu'encore une fois, tout est mélangé. C'est de l'holographie. Ce qui compte, c'est la valeur globale,",
+              "et cela nous permet de faire certaines choses qui seraient impossibles autrement.",
+              "On pourrait croire que cela a été créé ainsi exprès."
+            ],
+            "it": [
+              "Certo. Comunque, ciò che conta non sono le condizioni del confine in un singolo punto, o persino in tutti i punti.",
+              "Perché, di nuovo, è tutto mescolato. Olografia. Ciò che conta è il valore aggregato,",
+              "e questo ci consente di cavarcela con certe cose che altrimenti sarebbero impossibili.",
+              "Si potrebbe persino pensare che sia stato progettato così."
+            ],
+            "ja": [
+              "ともかく重要なのは、ある一時点の 境界条件でも、全地点の境界条件でもない。",
+              "繰り返すが、ホログラフィーとは、 全部混ざり合っているんだ。そこで 重要なのは、境界全体をまとめた値なんだ。",
+              "そして、それによって、本来なら 不可能なことが一部可能になる。",
+              "最初からこうなるように設計されていた、 と考えてしまうほどだ。"
+            ],
+            "ko": [
+              "그래. 어쨌든 중요한 건 어느 한 지점의 경계 조건도, 심지어 모든 지점의 경계 조건도 아니야.",
+              "다시 말하지만, 전부 뒤섞여 있으니까. 홀로그래피지. 중요한 건 총합이야.",
+              "그리고 이 덕분에 우리는 그렇지 않았다면 불가능했을 몇 가지를 해낼 수 있어.",
+              "그렇게 설계된 거라고 생각할 수도 있겠지."
+            ],
             "pt-br": [
               "Claro. Enfim, o importante não são as condições de contorno em um único ponto, nem mesmo em todos os pontos.",
               "Porque, de novo, está tudo misturado. Holografia. O que importa é o valor agregado,",
               "e isso nos permite sair impunes de algumas coisas que, de outra forma, seriam impossíveis.",
               "Poder-se-ia até pensar que isso foi projetado dessa forma."
+            ],
+            "ru": [
+              "Конечно. В общем, важны не граничные условия в какой-то одной точке, и даже не во всех точках.",
+              "Потому что, опять же, всё перемешано. Голография. Важно суммарное значение,",
+              "и это позволяет нам делать некоторые вещи, которые иначе были бы невозможны.",
+              "Можно подумать, что так и было задумано."
+            ],
+            "s-cn": [
+              "没错。总之，真正重要的不是边界上某一个点的条件， 甚至也不是所有点的条件。",
+              "因为我刚说了，它们全都混在一起。 这就是全息理论。真正重要的是整体边界值，",
+              "正因如此，我们才能做到一些原本不可能的事。",
+              "简直像是有人特意这样设计的。"
+            ],
+            "t-cn": [
+              "沒錯。總之，真正重要的不是邊界上某一個點的條件， 甚至也不是所有點的條件。",
+              "因為我剛說了，它們全都混在一起。 這就是全息理論。真正重要的是整體邊界值，",
+              "正因如此，我們才能做到一些原本不可能的事。",
+              "簡直像是有人特意這樣設計的。"
             ]
           },
           "provenance": {
@@ -215,6 +521,144 @@
           "and this lets us get away with some things that would be impossible otherwise.",
           "One might even think it was designed this way."
         ],
+        "de": [
+          "Soll ich also annehmen, dass diese Grenzsache auch dazu dient, die Welten zu finden?",
+          "Die ganze Geschichte ist kompliziert, aber das gehört dazu.",
+          "Diese Welten sind völlig von eurer Welt getrennt; solange du dein gewünschtes Ziel",
+          "nicht wenigstens einmal besucht hast, hast du keine Daten davon. Woher weißt du dann, welche Grenze du abgleichen musst?",
+          "Wenn du dich mit einem Volumen zufriedengibst, das extrem klein ist,",
+          "kannst du raten, wie eine Grenze dort aussehen könnte, wo du hinwillst,",
+          "und es weiter versuchen, bis etwas klappt.",
+          "Vielleicht scheiterst du etliche Male, aber nehmen wir an, irgendwann gelingt dir ein Tausch.",
+          "Deine Grenze ist so klein, dass nur wenige Teilchen hineinpassen,",
+          "doch sie fungieren als erster Sensor. Dieser Sensor liefert dir ein paar Informationen.",
+          "Mit diesen Informationen versuchst du es mit einer etwas größeren Grenze.",
+          "Wenn es nicht ganz klappt, versuch es mit kleinen, zufälligen Änderungen.",
+          "Wenn es mit der etwas größeren Grenze klappt, schick einen etwas größeren Sensor hinein. So bekommst du etwas mehr Informationen.",
+          "Wiederhole das so lange, bis du selbst in den ausgetauschten Raumbereich passt.",
+          "Es ist kompliziert zu beschreiben, auf welche Randbedingungen es tatsächlich ankommt.",
+          "Bekanntlich kann man einen Quantenzustand nicht klonen, aber hier muss man das gar nicht, weil sich vieles gegenseitig aufhebt.",
+          "Das merke ich mir. Aber zuerst muss ich lernen, was diese „Quantenzustände“ sind.",
+          "Sicher. Jedenfalls sind die Randbedingungen nicht entscheidend – weder die an einem einzelnen Punkt noch die an sämtlichen Punkten.",
+          "Denn wie gesagt: Alles ist vermischt. Holografie. Entscheidend ist der Gesamtwert,",
+          "und dadurch kommen wir mit Dingen davon, die sonst unmöglich wären.",
+          "Man könnte sogar meinen, es sei so entworfen worden."
+        ],
+        "es": [
+          "¿Debo entender que todo este asunto de los límites también es la forma en que *encontráis* los mundos?",
+          "La historia completa es complicada, pero eso es parte de ello.",
+          "Estos mundos están completamente separados del tuyo; hasta que hayas estado en el destino al que quieres ir",
+          "al menos una vez, no tienes mediciones. ¿Cómo sabes qué límite debes igualar?",
+          "Si te conformas con un volumen que es extremadamente pequeño,",
+          "puedes aventurar cómo podría ser un límite en el destino que quieres,",
+          "y seguir intentándolo hasta que salga algo.",
+          "Puede que falles bastantes veces, pero supongamos que, al final, consigues un intercambio.",
+          "Tu límite es tan pequeño que apenas caben unas pocas partículas,",
+          "pero actúan como un sensor inicial. Ese sensor te aporta un poco de información.",
+          "Con esa información, pruebas con un límite un poco mayor.",
+          "Si no acabas de acertar, prueba a alterar un poco las cosas, al azar.",
+          "Cuando lo consigas con ese límite un poco mayor, envía un sensor un poco más grande. Obtendrás algo más de información.",
+          "Repítelo una y otra vez hasta que tú mismo quepas en el espacio intercambiado.",
+          "Es complicado describir las condiciones de contorno que realmente importan.",
+          "Como bien se sabe, no puedes clonar un estado cuántico, pero aquí no hace falta, porque un montón de cosas se cancelan entre sí.",
+          "Lo tendré en cuenta, pero primero tendré que aprender qué son esos «estados cuánticos».",
+          "Claro. En fin, lo importante no son las condiciones en el límite en un único punto, ni siquiera en todos los puntos.",
+          "Porque, una vez más, todo está mezclado. Holografía. Lo que importa es el valor agregado,",
+          "y eso nos permite salirnos con la nuestra en algunas cosas que de otro modo serían imposibles.",
+          "Uno podría pensar que lo diseñaron así."
+        ],
+        "fr": [
+          "Dois-je comprendre que cette histoire de frontières est aussi la façon dont vous trouvez les mondes ?",
+          "L'histoire complète est compliquée, mais cela en fait partie.",
+          "Ces mondes sont totalement séparés du vôtre ; tant que vous n'aurez pas visité la destination souhaitée",
+          "au moins une fois, vous n'en avez aucune mesure. Comment savez-vous quelle limite faire coïncider ?",
+          "Si vous vous contentez d'un volume extrêmement petit,",
+          "vous pouvez tenter d'imaginer à quoi pourrait ressembler une frontière là où vous voulez aller,",
+          "et continuer jusqu'à obtenir quelque chose.",
+          "Vous échouerez peut-être de nombreuses fois, mais supposons que vous finissiez par réussir un échange.",
+          "Votre frontière est si petite qu'elle ne peut contenir que quelques particules,",
+          "mais elles servent de capteur initial. Ce capteur vous donne quelques informations.",
+          "Avec ces informations, vous essayez une frontière un peu plus grande.",
+          "Si vous n'y arrivez pas tout à fait, essayez de perturber légèrement les choses, au hasard.",
+          "Après avoir réussi avec cette frontière un peu plus grande, vous envoyez un capteur un peu plus grand. Vous obtenez un peu plus d'informations.",
+          "Vous continuez ainsi jusqu'à tenir vous-même dans l'espace échangé.",
+          "C'est compliqué de décrire les conditions des limites qui comptent vraiment.",
+          "Comme chacun sait, on ne peut pas cloner un état quantique, mais ici, ce n'est pas nécessaire, parce qu'une bonne partie des choses s'annule.",
+          "Je garderai ça en tête, mais il va d'abord falloir que j'apprenne ce que sont les « états quantiques ».",
+          "Certes. Bref, ce qui importe, ce ne sont pas les conditions des limites à un point donné, ni même à tous les points.",
+          "Parce qu'encore une fois, tout est mélangé. C'est de l'holographie. Ce qui compte, c'est la valeur globale,",
+          "et cela nous permet de faire certaines choses qui seraient impossibles autrement.",
+          "On pourrait croire que cela a été créé ainsi exprès."
+        ],
+        "it": [
+          "Devo capire che questo affare del confine serve anche per *trovare* i mondi?",
+          "La storia completa è complicata, ma questa ne fa parte.",
+          "Questi mondi sono del tutto separati dal tuo; finché non avrai visitato la destinazione desiderata",
+          "almeno una volta, non hai misurazioni al riguardo. Come fai a sapere quale confine abbinare?",
+          "Se ti accontenti di un volume che è estremamente piccolo,",
+          "puoi provare a immaginare come potrebbe essere un confine nella destinazione che vuoi,",
+          "e continuare a provare finché non ottieni qualcosa.",
+          "Magari fallisci parecchie volte, ma supponiamo che alla fine tu riesca a ottenere uno scambio.",
+          "Il tuo confine è così piccolo, che può contenere solo poche particelle,",
+          "ma esse agiscono come un sensore iniziale. Quel sensore ti fornisce qualche informazione.",
+          "Con quelle informazioni, provi un confine un po' più grande.",
+          "Se non ci riesci del tutto, prova ad alterare un po' le cose, a caso.",
+          "Quando ci riesci con il confine un po' più grande, invia un sensore un po' più grande. Ottieni qualche informazione in più.",
+          "Continua a ripetere il procedimento finché non riesci a entrare tu stesso nello spazio scambiato.",
+          "È complicato descrivere le condizioni del confine che contano davvero.",
+          "Com'è noto, non puoi clonare uno stato quantistico, ma qui non serve, perché un bel po' di cose si annullano.",
+          "Lo terrò a mente, ma prima dovrò imparare cosa sono gli \"stati quantistici\".",
+          "Certo. Comunque, ciò che conta non sono le condizioni del confine in un singolo punto, o persino in tutti i punti.",
+          "Perché, di nuovo, è tutto mescolato. Olografia. Ciò che conta è il valore aggregato,",
+          "e questo ci consente di cavarcela con certe cose che altrimenti sarebbero impossibili.",
+          "Si potrebbe persino pensare che sia stato progettato così."
+        ],
+        "ja": [
+          "つまり、その境界の仕組みというのは 行きたい世界を「見つける」 方法でもある、ということですか？",
+          "話を全部するとかなり複雑になるが、 それも重要な部分の一つだ。",
+          "これらの世界は、あなたの世界とは 完全に切り離されているのですよね？ 望む行き先に一度行くまでは、",
+          "一度も行ったことのない場所なら、 どうやって境界を測って一致させるんです？",
+          "ごく小さな体積でかまわないなら、",
+          "目的地の境界がどうなっているか、 まずは推測する。",
+          "何か得られるまで、試し続けるんだ。",
+          "何度も失敗するかもしれないが、 やがて交換に成功したとしよう。",
+          "こちら側のごく小さな境界を 少しずつ変化させて、 入れ替わるところまで持っていく。",
+          "境界はものすごく小さいから、 数個の粒子しか入らないが、 それが最初のセンサーになって、 ほんの少しだけ多くの情報をくれるんだ。",
+          "その情報を使って、 少し大きな境界で試す。",
+          "結果が悪ければ、 少しだけランダムに変えて、 別のものを試す。",
+          "でも、近い結果ならもう一度やる。 今度はもっと大きな境界と、 少しだけ大きなセンサーで、 何度も繰り返すんだ。",
+          "君は、そんな知識だけで ここまで本当によく来たな。",
+          "本当に重要な境界条件が何なのかを 説明するのは難しい。 君が思っているようなものじゃない。",
+          "幸い、それでいい。そうじゃなければ、 この方法はそもそも成立しないからな。 例えば、量子状態の複製はできない…",
+          "その話は、量子状態が何なのか 分かってから考えるとしましょう…",
+          "ともかく重要なのは、ある一時点の 境界条件でも、全地点の境界条件でもない。",
+          "繰り返すが、ホログラフィーとは、 全部混ざり合っているんだ。そこで 重要なのは、境界全体をまとめた値なんだ。",
+          "そして、それによって、本来なら 不可能なことが一部可能になる。",
+          "最初からこうなるように設計されていた、 と考えてしまうほどだ。"
+        ],
+        "ko": [
+          "그럼 이 경계 문제라는 게 당신이 세계를 *찾는* 방식이기도 한 겁니까?",
+          "전체 이야기는 복잡하지만, 대략 그런 원리도 포함돼.",
+          "이 세계들은 네 세계와 완전히 분리되어 있어; 네가 원하는 목적지에 가 보기 전까지는",
+          "한 번도 가본 적 없는 곳이면 측정 자료도 없잖아. 어떤 경계에 맞춰야 하는지 어떻게 알겠어?",
+          "극도로 작은 공간으로도 충분하다면,",
+          "목표 지역에서 경계가 어떻게 생겼을지 짐작해 볼 수 있어.",
+          "그리고 뭔가 걸릴 때까지 계속 시도해 볼 수 있어.",
+          "아마 여러 번 실패하겠지만, 결국 교환에 성공했다고 해 보자.",
+          "경계가 워낙 작아서, 입자 몇 개밖에 들어가지 못하지만,",
+          "하지만 초기 센서 역할을 하지. 그 센서로 약간의 정보를 얻을 수 있지.",
+          "그 정보로, 조금 더 큰 경계를 시도하는 거야.",
+          "제대로 맞아떨어지지 않으면, 무작위로 조금씩 변화를 줘 봐.",
+          "조금 더 큰 경계로 성공하면, 조금 더 큰 감지기를 보내. 그러면 정보를 조금 더 얻게 되지.",
+          "교환된 공간 안에 너 자신도 들어갈 수 있을 때까지 이걸 계속 반복하는 거야.",
+          "실제로 중요한 경계 조건은 설명하기 복잡해.",
+          "잘 알려져 있듯 양자 상태는 복제할 수 없지만, 여기서는 그럴 필요가 없어. 여러 요소가 서로 상쇄되거든.",
+          "명심하겠습니다. 하지만 먼저 \"양자 상태\"가 뭔지 배워야겠군요.",
+          "그래. 어쨌든 중요한 건 어느 한 지점의 경계 조건도, 심지어 모든 지점의 경계 조건도 아니야.",
+          "다시 말하지만, 전부 뒤섞여 있으니까. 홀로그래피지. 중요한 건 총합이야.",
+          "그리고 이 덕분에 우리는 그렇지 않았다면 불가능했을 몇 가지를 해낼 수 있어.",
+          "그렇게 설계된 거라고 생각할 수도 있겠지."
+        ],
         "pt-br": [
           "Devo entender que essa questão das fronteiras também é como vocês *encontram* os mundos?",
           "A história completa é complicada, mas essa é uma parte dela.",
@@ -237,6 +681,75 @@
           "Porque, de novo, está tudo misturado. Holografia. O que importa é o valor agregado,",
           "e isso nos permite sair impunes de algumas coisas que, de outra forma, seriam impossíveis.",
           "Poder-se-ia até pensar que isso foi projetado dessa forma."
+        ],
+        "ru": [
+          "Правильно ли я понимаю, что это вот всё с границами также позволяет вам *находить* миры?",
+          "Полная история сложна, но это её часть.",
+          "Эти миры полностью отделены от вашего; пока вы не побываете там, куда хотите попасть",
+          "хотя бы раз, у вас нет его измерений. Как узнать, какую границу нужно сопоставить?",
+          "Если тебя устраивает объём, который чрезвычайно мал,",
+          "можно прикинуть, как может выглядеть граница в нужной тебе целевой области,",
+          "и продолжать попытки, пока что-нибудь не получится.",
+          "Возможно, ты много раз потерпишь неудачу, но допустим, в конце концов тебе удастся провести обмен.",
+          "Твоя граница так мала, что вмещает лишь несколько частиц,",
+          "но они служат первичным датчиком. Этот датчик даёт тебе немного информации.",
+          "С полученными сведениями ты пробуешь немного расширить границу.",
+          "Если не совсем получается, попробуй внести небольшие случайные изменения.",
+          "Когда получится немного расширить границу, отправь датчик чуть покрупнее. Получишь чуть больше сведений.",
+          "Повторяй это, пока сам не поместишься в обмениваемом пространстве.",
+          "Сложно описать граничные условия, которые действительно важны.",
+          "Как известно, квантовое состояние нельзя скопировать, но здесь это и не нужно, потому что куча всего взаимно сокращается.",
+          "Я это запомню, но сначала мне нужно узнать, что такое «квантовые состояния».",
+          "Конечно. В общем, важны не граничные условия в какой-то одной точке, и даже не во всех точках.",
+          "Потому что, опять же, всё перемешано. Голография. Важно суммарное значение,",
+          "и это позволяет нам делать некоторые вещи, которые иначе были бы невозможны.",
+          "Можно подумать, что так и было задумано."
+        ],
+        "s-cn": [
+          "那么，你们也是利用边界来寻找想要的世界吗？",
+          "完整的来龙去脉很复杂，不过这是其中一部分。",
+          "这些世界应该与你们的世界完全隔绝吧； 你想去的地方要是一次都没去过，",
+          "就拿不到测量数据，又怎么知道该匹配什么样的边界？",
+          "如果你能接受先从极小的一块空间开始，",
+          "你可以猜测目标区域的边界可能是什么样子，",
+          "不断试下去，直到试出点结果。",
+          "也许你会失败很多次。但假设最终，你成功完成了一次置换。",
+          "这道边界围出的空间极小，只容得下几个粒子，",
+          "但这几个粒子已经能充当传感器，先为你探得一些信息。",
+          "有了这些信息，就可以把边界扩大一点，再试着置换。",
+          "如果结果不理想，就加入一点随机变化，换个条件再试。",
+          "稍大一点的边界置换成功后，就送去稍大一点的传感器。 你会得到稍多一点的信息。",
+          "不断重复，直到被置换的空间能装下你自己。",
+          "真正起作用的边界条件很难解释清楚。",
+          "众所周知，量子态无法克隆。 但在这里不必克隆，因为很多东西会相互抵消。",
+          "我会记住，不过得先弄明白这些“量子态”是怎么回事。",
+          "没错。总之，真正重要的不是边界上某一个点的条件， 甚至也不是所有点的条件。",
+          "因为我刚说了，它们全都混在一起。 这就是全息理论。真正重要的是整体边界值，",
+          "正因如此，我们才能做到一些原本不可能的事。",
+          "简直像是有人特意这样设计的。"
+        ],
+        "t-cn": [
+          "那麼，你們也是利用邊界來尋找想要的世界嗎？",
+          "完整的來龍去脈很複雜，不過這是其中一部分。",
+          "這些世界應該與你們的世界完全隔絕吧； 你想去的地方要是一次都沒去過，",
+          "就拿不到測量數據，又怎麼知道該匹配什麼樣的邊界？",
+          "如果你能接受先從極小的一塊空間開始，",
+          "你可以猜測目標區域的邊界可能是什麼樣子，",
+          "不斷試下去，直到試出點結果。",
+          "也許你會失敗很多次。 但假設最終，你成功完成了一次置換。",
+          "這道邊界圍出的空間極小，只容得下幾個粒子，",
+          "但這幾個粒子已經能充當傳感器，先為你探得一些信息。",
+          "有了這些信息，就可以把邊界擴大一點，再試著置換。",
+          "如果結果不理想，就加入一點隨機變化，換個條件再試。",
+          "稍大一點的邊界置換成功後，就送去稍大一點的傳感器。 你會得到稍多一點的信息。",
+          "不斷重複，直到被置換的空間能裝下你自己。",
+          "真正起作用的邊界條件很難解釋清楚。",
+          "眾所周知，量子態無法克隆。 但在這裡不必克隆，因為很多東西會相互抵消。",
+          "我會記住，不過得先弄明白這些「量子態」是怎麼回事。",
+          "沒錯。總之，真正重要的不是邊界上某一個點的條件， 甚至也不是所有點的條件。",
+          "因為我剛說了，它們全都混在一起。 這就是全息理論。真正重要的是整體邊界值，",
+          "正因如此，我們才能做到一些原本不可能的事。",
+          "簡直像是有人特意這樣設計的。"
         ]
       },
       "silentCues": [],

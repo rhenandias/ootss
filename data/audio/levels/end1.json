@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "Welcome back, Acting Director."
             ],
+            "de": [
+              "Willkommen zurück, Amtierende Direktorin."
+            ],
+            "es": [
+              "Bienvenida de nuevo, directora en funciones."
+            ],
+            "fr": [
+              "Bon retour parmi nous, directrice par intérim."
+            ],
+            "it": [
+              "Bentornata, direttrice ad interim."
+            ],
+            "ja": [
+              "お帰りなさい、団長代理。"
+            ],
+            "ko": [
+              "돌아오신 걸 환영합니다, 대리 감독관님."
+            ],
             "pt-br": [
               "Bem-vinda de volta, diretora interina."
+            ],
+            "ru": [
+              "С возвращением, Исполняющая обязанности Директора."
+            ],
+            "s-cn": [
+              "欢迎回来，代理主管。"
+            ],
+            "t-cn": [
+              "歡迎回來，代理主管。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "Thank you, Sokoban."
             ],
+            "de": [
+              "Danke, Sokoban."
+            ],
+            "es": [
+              "Gracias, Sokoban."
+            ],
+            "fr": [
+              "Merci, sokoban."
+            ],
+            "it": [
+              "Grazie, Sokoban."
+            ],
+            "ja": [
+              "ありがとう、倉庫番。"
+            ],
+            "ko": [
+              "고마워, 소코반."
+            ],
             "pt-br": [
               "Obrigada, Sokoban."
+            ],
+            "ru": [
+              "Спасибо, Сокобан."
+            ],
+            "s-cn": [
+              "谢谢你，守库人。"
+            ],
+            "t-cn": [
+              "謝謝你，守庫人。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Hail! Hail, who speaks?"
             ],
+            "de": [
+              "Heda! Heda, wer spricht da?"
+            ],
+            "es": [
+              "¡Saludos! ¡Saludos! ¿Quién habla?"
+            ],
+            "fr": [
+              "Holà ! Qui parle ?"
+            ],
+            "it": [
+              "Salve! Salve, chi parla?"
+            ],
+            "ja": [
+              "おーい！？"
+            ],
+            "ko": [
+              "이봐! 이봐, 말하는 자는 누구지?"
+            ],
             "pt-br": [
               "Olá! Olá, quem fala?"
+            ],
+            "ru": [
+              "Эй! Эй, кто говорит?"
+            ],
+            "s-cn": [
+              "喂！是谁在说话？"
+            ],
+            "t-cn": [
+              "喂！是誰在說話？"
             ]
           },
           "provenance": {
@@ -90,9 +180,45 @@
               "I see you've performed the reconnection quite well.",
               "Our Visitor hasn't been waiting but a handful of seconds."
             ],
+            "de": [
+              "Wie ich sehe, hast du die Wiederverbindung sehr gut ausgeführt.",
+              "Unsere Besucherin hat nicht lange gewartet, nur eine Handvoll Sekunden."
+            ],
+            "es": [
+              "Veo que has realizado la reconexión a la perfección.",
+              "Nuestro Visitante no ha esperado más que unos pocos segundos."
+            ],
+            "fr": [
+              "Je vois que vous avez parfaitement raccordé la reconnexion.",
+              "Notre Visiteuse n'a pas attendu plus de quelques secondes."
+            ],
+            "it": [
+              "Vedo che hai eseguito la riconnessione molto bene.",
+              "Il nostro Visitatore non ha aspettato che pochi secondi."
+            ],
+            "ja": [
+              "うまくつなぎ直せたようね。",
+              "再接続は完璧だ。 訪問者も数秒しか待っていない。"
+            ],
+            "ko": [
+              "재연결을 완벽하게 해냈군.",
+              "방문자가 몇 초밖에 기다리지 않았어."
+            ],
             "pt-br": [
               "Vejo que você realizou a reconexão muito bem.",
               "Nosso Visitante não esperou mais que alguns segundos."
+            ],
+            "ru": [
+              "Похоже, ты отлично выполнил повторное соединение.",
+              "Наш Гость не прождал и нескольких секунд."
+            ],
+            "s-cn": [
+              "看来你把连接恢复得相当好。",
+              "我们的访客只等了短短几秒。"
+            ],
+            "t-cn": [
+              "看來你把連接恢復得相當好。",
+              "我們的訪客只等了短短幾秒。"
             ]
           },
           "provenance": {
@@ -114,8 +240,35 @@
             "en": [
               "Did my best."
             ],
+            "de": [
+              "Hab mein Bestes getan."
+            ],
+            "es": [
+              "He hecho todo lo que he podido."
+            ],
+            "fr": [
+              "J'ai fait de mon mieux."
+            ],
+            "it": [
+              "Ho fatto del mio meglio."
+            ],
+            "ja": [
+              "全力を尽くしました。"
+            ],
+            "ko": [
+              "최선을 다했습니다."
+            ],
             "pt-br": [
               "Fiz o melhor que pude."
+            ],
+            "ru": [
+              "Старался как мог."
+            ],
+            "s-cn": [
+              "我尽力了。"
+            ],
+            "t-cn": [
+              "我盡力了。"
             ]
           },
           "provenance": {
@@ -136,8 +289,35 @@
             "en": [
               "Hello! Where ... where are you?!"
             ],
+            "de": [
+              "Hallo! Wo ... wo seid ihr?!"
+            ],
+            "es": [
+              "¡Hola! ¿Dónde... dónde estás?"
+            ],
+            "fr": [
+              "Hé ! Où... où êtes-vous ?!"
+            ],
+            "it": [
+              "Salve! Dove... dove siete?!"
+            ],
+            "ja": [
+              "おーい！ど…どこにいるの！？"
+            ],
+            "ko": [
+              "이봐! 어디.. 어디 있는 거야?!"
+            ],
             "pt-br": [
               "Olá! Onde... onde você está?!"
+            ],
+            "ru": [
+              "Эй! Где... где ты?!"
+            ],
+            "s-cn": [
+              "有人吗！你们……你们在哪儿？！"
+            ],
+            "t-cn": [
+              "有人嗎！你們……你們在哪兒？！"
             ]
           },
           "provenance": {
@@ -158,8 +338,35 @@
             "en": [
               "It's been a while since we last spoke."
             ],
+            "de": [
+              "Es ist schon etwas her, dass wir miteinander gesprochen haben."
+            ],
+            "es": [
+              "Ha pasado bastante tiempo desde la última vez que hablamos."
+            ],
+            "fr": [
+              "Cela fait un moment que nous n'avons pas parlé."
+            ],
+            "it": [
+              "È passato un po' di tempo da quando ci siamo parlati l'ultima volta."
+            ],
+            "ja": [
+              "ここを離れてから ずいぶん時間が経ったようだ。"
+            ],
+            "ko": [
+              "우리가 마지막으로 대화한 뒤로 꽤 시간이 흘렀네."
+            ],
             "pt-br": [
               "Parece que passou um bom tempo desde a última vez que conversamos."
+            ],
+            "ru": [
+              "Давно мы не разговаривали."
+            ],
+            "s-cn": [
+              "我们有一阵子没说话了。"
+            ],
+            "t-cn": [
+              "我們有一陣子沒說話了。"
             ]
           },
           "provenance": {
@@ -180,8 +387,35 @@
             "en": [
               "16 months' proper time, yesterday."
             ],
+            "de": [
+              "Gestern waren es 16 Monate Eigenzeit."
+            ],
+            "es": [
+              "Dieciséis meses con todas sus horas, a fecha de ayer."
+            ],
+            "fr": [
+              "16 mois de temps propre, hier."
+            ],
+            "it": [
+              "16 mesi di tempo effettivo, ieri."
+            ],
+            "ja": [
+              "昨日の時点で、16ヵ月です。"
+            ],
+            "ko": [
+              "어제 기준으로 고유 시간 16개월입니다."
+            ],
             "pt-br": [
               "Dezesseis meses de tempo próprio, ontem."
+            ],
+            "ru": [
+              "16 месяцев по собственному времени, вчера."
+            ],
+            "s-cn": [
+              "到昨天为止，按这里的时间算，已经过去十六个月了。"
+            ],
+            "t-cn": [
+              "到昨天為止，按這裡的時間算， 已經過去十六個月了。"
             ]
           },
           "provenance": {
@@ -202,8 +436,35 @@
             "en": [
               "You must be working hard."
             ],
+            "de": [
+              "Du arbeitest offenbar sehr hart."
+            ],
+            "es": [
+              "Debes de estar trabajando muy duro."
+            ],
+            "fr": [
+              "Vous devez vraiment travailler dur."
+            ],
+            "it": [
+              "Devi proprio lavorare sodo."
+            ],
+            "ja": [
+              "励んでいるな。"
+            ],
+            "ko": [
+              "정말 열심히 일하고 있나 보군."
+            ],
             "pt-br": [
               "Você deve estar trabalhando duro."
+            ],
+            "ru": [
+              "Ты, должно быть, очень много работаешь."
+            ],
+            "s-cn": [
+              "那你这段时间一定没闲着。"
+            ],
+            "t-cn": [
+              "那你這段時間一定沒閒著。"
             ]
           },
           "provenance": {
@@ -225,9 +486,45 @@
               "There's a lot to learn yet. And I'm spending a decent amount of time back in this Warehouse.",
               "Doing what I can to keep it standing. This place needs a lot of help."
             ],
+            "de": [
+              "Es gibt noch viel zu lernen. Und ich verbringe wieder recht viel Zeit in diesem Lagerhaus.",
+              "Ich tue, was ich kann, damit hier nichts zusammenbricht. Dieser Ort braucht jede Menge Hilfe."
+            ],
+            "es": [
+              "Aún queda mucho por aprender. Y estoy pasando bastante tiempo de nuevo en este almacén.",
+              "Hago lo que puedo para mantenerlo en pie. Este lugar necesita mucha ayuda."
+            ],
+            "fr": [
+              "Il me reste beaucoup à apprendre. Et je passe pas mal de temps à nouveau dans cet entrepôt.",
+              "Je fais ce que je peux pour que ça tienne debout. Cet endroit en a sacrément besoin."
+            ],
+            "it": [
+              "C'è ancora molto da imparare. E sto trascorrendo parecchio tempo di nuovo in questo deposito.",
+              "Faccio il possibile per tenerlo in piedi. Questo posto ha bisogno di molto aiuto."
+            ],
+            "ja": [
+              "まだ学ぶことがたくさんあります。 この倉庫にも戻って、 かなりの時間を過ごしています。",
+              "ここを維持するには 相当手を入れる必要が ありますから。"
+            ],
+            "ko": [
+              "아직 배울 게 많아. 그리고 이 창고에 돌아와서 꽤 많은 시간을 보내고 있지.",
+              "제가 할 수 있는 만큼 관리하고 있습니다. 손볼 곳이 많더군요."
+            ],
             "pt-br": [
               "Ainda há muito a aprender. E estou passando um bom tempo de volta a este Armazém.",
               "Fazendo o que posso para mantê-lo de pé. Este lugar precisa de muita ajuda."
+            ],
+            "ru": [
+              "Ещё многому предстоит научиться. И я снова провожу немало времени на этом складе.",
+              "Делаю всё, что могу, чтобы поддержать это место в порядке. Дел тут невпроворот."
+            ],
+            "s-cn": [
+              "要学的东西还多着呢。而且， 我也经常回这座仓库，在这儿待的时间可不少。",
+              "我在尽力撑住这里。这地方需要修补的实在太多了。"
+            ],
+            "t-cn": [
+              "要學的東西還多著呢。 而且，我也經常回這座倉庫， 在這兒待的時間可不少。",
+              "我在盡力撐住這裡。這地方需要修補的實在太多了。"
             ]
           },
           "provenance": {
@@ -249,8 +546,35 @@
             "en": [
               "Don't I know it."
             ],
+            "de": [
+              "Das musst du mir nicht sagen."
+            ],
+            "es": [
+              "Ya lo creo."
+            ],
+            "fr": [
+              "Ça ne m'étonne pas."
+            ],
+            "it": [
+              "Non mi dire."
+            ],
+            "ja": [
+              "そうだな。"
+            ],
+            "ko": [
+              "나도 잘 알지."
+            ],
             "pt-br": [
               "Nem me fale."
+            ],
+            "ru": [
+              "Ещё бы."
+            ],
+            "s-cn": [
+              "这我可太清楚了。"
+            ],
+            "t-cn": [
+              "這我可太清楚了。"
             ]
           },
           "provenance": {
@@ -272,9 +596,45 @@
               "You who are speaking, make answer! You are Sinking Star?",
               "Address me directly! Whence do you speak?"
             ],
+            "de": [
+              "Du, der du sprichst, antworte! Bist du der Sinkende Stern?",
+              "Sprich direkt zu mir! Von wo aus sprichst du?"
+            ],
+            "es": [
+              "¡Tú, que estás hablando, responde! ¿Eres la Estrella del Ocaso?",
+              "¡Háblame directamente! ¿Desde dónde hablas?"
+            ],
+            "fr": [
+              "Vous qui parlez, répondez ! Êtes-vous l'Étoile engloutie ?",
+              "Adressez-vous directement à moi ! Où êtes-vous ?"
+            ],
+            "it": [
+              "Tu che parli, rispondi! Sei tu Sinking Star?",
+              "Rivolgiti direttamente a me! Da dove parli?"
+            ],
+            "ja": [
+              "おーい！ 何者だ！？ 沈み行く星の教団の者か！？",
+              "この声は一体どこから？"
+            ],
+            "ko": [
+              "지금 말하는 자여, 대답해라! 네가 가라앉는 별인가?",
+              "내게 직접 말해라! 어디서 말하고 있는 거지?"
+            ],
             "pt-br": [
               "Você que está falando, responda! Você é a Estrela Submersa?",
               "Fale diretamente comigo! De onde você fala?"
+            ],
+            "ru": [
+              "Кто бы ты ни был, отвечай! Ты — Гаснущая звезда?",
+              "Говори со мной прямо! Откуда доносится твой голос?"
+            ],
+            "s-cn": [
+              "刚才说话的，回答我！你们就是沉星之序的人？",
+              "直接回答我！你们究竟身在何处？"
+            ],
+            "t-cn": [
+              "剛才說話的，回答我！ 你們就是沉星之序的人？",
+              "直接回答我！你們究竟身在何處？"
             ]
           },
           "provenance": {
@@ -298,10 +658,55 @@
               "that we mustn't speak directly with any Visitor of insufficient rank,",
               "regardless of any upset this may cause."
             ],
+            "de": [
+              "Sokoban, so beschäftigt du auch gewesen bist, du bist doch sicher über die neue Regel informiert worden,",
+              "dass jedes direkte Gespräch mit einem Besucher unzureichenden Ranges verboten ist,",
+              "ungeachtet jeder Verstimmung, die dadurch entstehen mag."
+            ],
+            "es": [
+              "Sokoban, con lo ocupado que has estado, seguro que te han informado de la nueva regla",
+              "de que no debemos hablar directamente con ningún Visitante de rango insuficiente,",
+              "por mucho malestar que pueda causar eso."
+            ],
+            "fr": [
+              "Sokoban, même si vous avez été très occupé, vous avez sûrement été informé de la nouvelle règle",
+              "qui nous interdit de parler directement à tout Visiteur de rang insuffisant,",
+              "quelles que soient les contrariétés que cela puisse causer."
+            ],
+            "it": [
+              "Sokoban, per quanto tu sia stato impegnato, sicuramente sei stato informato della nuova regola",
+              "che non dobbiamo parlare direttamente con alcun Visitatore di rango insufficiente,",
+              "a prescindere dal disagio che può causare."
+            ],
+            "ja": [
+              "倉庫番、 新たな規則は知っているな？",
+              "低位の来訪者との 対話は禁止だ。",
+              "たとえ相手を怒らせても。"
+            ],
+            "ko": [
+              "소코반, 아무리 바빴어도, 새 규칙에 관해서는 분명 전해 들었겠지.",
+              "계급이 충분히 높지 않은 방문자와는 직접 말을 섞어선 안 된다는 규칙 말이야.",
+              "그로 인해 불쾌해하더라도 말이지."
+            ],
             "pt-br": [
               "Sokoban, com toda a correria que você teve, certamente foi informado da nova regra",
               "de que não devemos falar diretamente com qualquer Visitante de patente insuficiente,",
               "independentemente de qualquer transtorno que isso possa causar."
+            ],
+            "ru": [
+              "Сокобан, при всей твоей занятости, тебе наверняка сообщили о новом правиле",
+              "мы не должны говорить напрямую ни с одним Гостем недостаточного ранга,",
+              "независимо от того, какое это может вызвать недовольство."
+            ],
+            "s-cn": [
+              "守库人，你近来虽然忙得不可开交， 但肯定也听说了那条新规：",
+              "我们不得直接与任何级别不足的访客交谈，",
+              "无论这会让对方多么不快。"
+            ],
+            "t-cn": [
+              "守庫人，你近來雖然忙得不可開交， 但肯定也聽說了那條新規：",
+              "我們不得直接與任何級別不足的訪客交談，",
+              "無論這會讓對方多麼不快。"
             ]
           },
           "provenance": {
@@ -324,8 +729,35 @@
             "en": [
               "(sigh)"
             ],
+            "de": [
+              "(seufzt)"
+            ],
+            "es": [
+              "(suspiro)"
+            ],
+            "fr": [
+              "(soupir)"
+            ],
+            "it": [
+              "(sospiro)"
+            ],
+            "ja": [
+              "…"
+            ],
+            "ko": [
+              "(한숨)"
+            ],
             "pt-br": [
               "(suspiro)"
+            ],
+            "ru": [
+              "(вздох)"
+            ],
+            "s-cn": [
+              "（叹气）"
+            ],
+            "t-cn": [
+              "（嘆氣）"
             ]
           },
           "provenance": {
@@ -346,8 +778,35 @@
             "en": [
               "Is that all on my account?"
             ],
+            "de": [
+              "Ist das alles meinetwegen?"
+            ],
+            "es": [
+              "¿Todo eso es por mí?"
+            ],
+            "fr": [
+              "Est-ce que c'est de ma faute ?"
+            ],
+            "it": [
+              "Tutto questo per me?"
+            ],
+            "ja": [
+              "私が原因ですか？"
+            ],
+            "ko": [
+              "그게 다 나 때문이야?"
+            ],
             "pt-br": [
               "Isso tudo é por minha causa?"
+            ],
+            "ru": [
+              "И всё это ради меня?"
+            ],
+            "s-cn": [
+              "这条规定是因为我才定的？"
+            ],
+            "t-cn": [
+              "這條規定是因為我才定的？"
             ]
           },
           "provenance": {
@@ -368,8 +827,35 @@
             "en": [
               "I did enjoy our conversations, but they caused a kerfuffle."
             ],
+            "de": [
+              "Unsere Gespräche haben mir durchaus gefallen, doch sie haben einigen Wirbel ausgelöst."
+            ],
+            "es": [
+              "Disfruté de nuestras conversaciones, pero causaron cierto revuelo."
+            ],
+            "fr": [
+              "J'ai apprécié nos conversations, mais elles ont provoqué tout un foin."
+            ],
+            "it": [
+              "Mi piacevano le nostre conversazioni, ma causavano confusione."
+            ],
+            "ja": [
+              "君との会話は楽しかったが、 騒動になってな。"
+            ],
+            "ko": [
+              "우리 대화를 즐기긴 했지만, 그 때문에 약간의 소동이 있었거든."
+            ],
             "pt-br": [
               "Eu gostava das nossas conversas, mas elas causaram um alvoroço."
+            ],
+            "ru": [
+              "Мне нравились наши разговоры, но они вызвали переполох."
+            ],
+            "s-cn": [
+              "我确实很享受我们的谈话， 但也正是我们之间的谈话惹出了不小的风波。"
+            ],
+            "t-cn": [
+              "我確實很享受我們的談話， 但也正是我們之間的談話惹出了不小的風波。"
             ]
           },
           "provenance": {
@@ -390,8 +876,35 @@
             "en": [
               "Apologies."
             ],
+            "de": [
+              "Verzeihung."
+            ],
+            "es": [
+              "Mis disculpas."
+            ],
+            "fr": [
+              "Mes excuses."
+            ],
+            "it": [
+              "Scusate."
+            ],
+            "ja": [
+              "申し訳ありません。"
+            ],
+            "ko": [
+              "죄송합니다."
+            ],
             "pt-br": [
               "Peço desculpas."
+            ],
+            "ru": [
+              "Прошу прощения."
+            ],
+            "s-cn": [
+              "抱歉。"
+            ],
+            "t-cn": [
+              "抱歉。"
             ]
           },
           "provenance": {
@@ -415,11 +928,65 @@
               "I declare this Appreciation Ceremony ... commenced. Free the zeroth block!",
               "We begin with four points."
             ],
+            "de": [
+              "Nicht nötig. Das sollte ohnehin schon die Regel sein.",
+              "Als ranghöchster anwesender Offizier des Ordens des sinkenden Sterns,",
+              "erkläre ich diese Würdigungszeremonie ... für eröffnet. Befreie den nullten Block!",
+              "Wir beginnen mit vier Punkten."
+            ],
+            "es": [
+              "No hace falta. Se suponía que esa ya era la regla.",
+              "Como la oficial de mayor rango presente de la Orden de la Estrella del Ocaso,",
+              "Declaro esta ceremonia de agradecimiento... comenzada. ¡Liberad el bloque de dimensión cero!",
+              "Empezamos con cuatro puntos."
+            ],
+            "fr": [
+              "Inutile. C'était censé être la règle depuis le début.",
+              "En tant qu'officier présent le plus haut gradé de l'Ordre de l'Étoile engloutie,",
+              "je déclare cette cérémonie d'appréciation... ouverte. Libérez le bloc zéro !",
+              "Nous commençons par quatre points."
+            ],
+            "it": [
+              "Non ce n'è bisogno. Doveva già essere la regola.",
+              "In qualità di ufficiale presente di grado più alto dell'Order of the Sinking Star,",
+              "dichiaro questa cerimonia di ringraziamento... iniziata. Liberate il blocco zeroth!",
+              "Iniziamo con quattro punti."
+            ],
+            "ja": [
+              "…",
+              "謝る必要はない。 沈み行く星の教団の 最高位者として、",
+              "感謝式の開会を宣言する。 第0ブロックを開け！",
+              "4つの点より始める。"
+            ],
+            "ko": [
+              "그럴 필요 없어. 원래부터 그게 규칙이었어야 하니까.",
+              "가라앉는 별의 결사단에서 이 자리에 있는 최고위 장교로서,",
+              "감상 의식의 시작을... 선언한다. 0번째 블록을 해제하라!",
+              "우리는 네 개의 점에서 시작한다."
+            ],
             "pt-br": [
               "Não precisa. Essa já deveria ser a regra.",
               "Como o oficial presente mais antigo da Order of the Sinking Star,",
               "declaro esta cerimônia de agradecimento... iniciada. Liberem o bloco zero!",
               "Começamos com quatro pontos."
+            ],
+            "ru": [
+              "Не нужно. Это правило и так должно было действовать.",
+              "Как старший из присутствующих офицеров Ордена Гаснущей звезды,",
+              "Объявляю Церемонию благодарности... открытой. Освободить нулевой блок!",
+              "Начнём с четырёх точек."
+            ],
+            "s-cn": [
+              "不用道歉。这规矩本来早该定下来的。",
+              "作为在场级别最高的沉星之序官员，",
+              "我宣布，本次鉴赏仪式…… 正式开始。解冻零号区块！",
+              "我们从四个点开始。"
+            ],
+            "t-cn": [
+              "不用道歉。這規矩本來早該定下來的。",
+              "作為在場級別最高的沉星之序官員，",
+              "我宣布，本次鑑賞儀式…… 正式開始。解凍零號區塊！",
+              "我們從四個點開始。"
             ]
           },
           "provenance": {
@@ -443,8 +1010,35 @@
             "en": [
               "Heroes, Mirrors, Stones, Beams."
             ],
+            "de": [
+              "Helden, Spiegel, Steine, Strahlen."
+            ],
+            "es": [
+              "Héroes, espejos, piedras, haces."
+            ],
+            "fr": [
+              "Héros, miroirs, pierres, faisceaux."
+            ],
+            "it": [
+              "Eroi, specchi, pietre, raggi."
+            ],
+            "ja": [
+              "英雄、鏡、石、光線。"
+            ],
+            "ko": [
+              "영웅, 거울, 바위, 빔."
+            ],
             "pt-br": [
               "Heróis, Espelhos, Pedras, Feixes."
+            ],
+            "ru": [
+              "Герои, зеркала, камни, лучи."
+            ],
+            "s-cn": [
+              "英雄、镜子、飞石、光束。"
+            ],
+            "t-cn": [
+              "英雄、鏡子、飛石、光束。"
             ]
           },
           "provenance": {
@@ -465,8 +1059,35 @@
             "en": [
               "Simple points of dimension zero."
             ],
+            "de": [
+              "Einfache Punkte der Dimension null."
+            ],
+            "es": [
+              "Puntos simples de dimensión cero."
+            ],
+            "fr": [
+              "Des points simples de dimension zéro."
+            ],
+            "it": [
+              "Semplici punti di dimensione zero."
+            ],
+            "ja": [
+              "単なる零次元の点。"
+            ],
+            "ko": [
+              "차원이 없는 단순한 점들이다."
+            ],
             "pt-br": [
               "Pontos simples de dimensão zero."
+            ],
+            "ru": [
+              "Простые точки нулевого измерения."
+            ],
+            "s-cn": [
+              "简单纯粹的零维之点。"
+            ],
+            "t-cn": [
+              "簡單純粹的零維之點。"
             ]
           },
           "provenance": {
@@ -487,8 +1108,35 @@
             "en": [
               "One by one, visit and observe."
             ],
+            "de": [
+              "Eines nach dem anderen: besuchen und beobachten."
+            ],
+            "es": [
+              "De uno en uno, visita y observa."
+            ],
+            "fr": [
+              "Un à un, visitez et observez."
+            ],
+            "it": [
+              "Uno per uno, visita e osserva."
+            ],
+            "ja": [
+              "ひとつずつ巡り、観察せよ。"
+            ],
+            "ko": [
+              "하나씩, 찾아가 살펴보라."
+            ],
             "pt-br": [
               "Um por um, visite e observe."
+            ],
+            "ru": [
+              "Один за другим, посещайте и наблюдайте."
+            ],
+            "s-cn": [
+              "逐一造访，细心观察。"
+            ],
+            "t-cn": [
+              "逐一造訪，細心觀察。"
             ]
           },
           "provenance": {
@@ -536,6 +1184,192 @@
           "Simple points of dimension zero.",
           "One by one, visit and observe."
         ],
+        "de": [
+          "Willkommen zurück, Amtierende Direktorin.",
+          "Danke, Sokoban.",
+          "Heda! Heda, wer spricht da?",
+          "Wie ich sehe, hast du die Wiederverbindung sehr gut ausgeführt.",
+          "Unsere Besucherin hat nicht lange gewartet, nur eine Handvoll Sekunden.",
+          "Hab mein Bestes getan.",
+          "Hallo! Wo ... wo seid ihr?!",
+          "Es ist schon etwas her, dass wir miteinander gesprochen haben.",
+          "Gestern waren es 16 Monate Eigenzeit.",
+          "Du arbeitest offenbar sehr hart.",
+          "Es gibt noch viel zu lernen. Und ich verbringe wieder recht viel Zeit in diesem Lagerhaus.",
+          "Ich tue, was ich kann, damit hier nichts zusammenbricht. Dieser Ort braucht jede Menge Hilfe.",
+          "Das musst du mir nicht sagen.",
+          "Du, der du sprichst, antworte! Bist du der Sinkende Stern?",
+          "Sprich direkt zu mir! Von wo aus sprichst du?",
+          "Sokoban, so beschäftigt du auch gewesen bist, du bist doch sicher über die neue Regel informiert worden,",
+          "dass jedes direkte Gespräch mit einem Besucher unzureichenden Ranges verboten ist,",
+          "ungeachtet jeder Verstimmung, die dadurch entstehen mag.",
+          "(seufzt)",
+          "Ist das alles meinetwegen?",
+          "Unsere Gespräche haben mir durchaus gefallen, doch sie haben einigen Wirbel ausgelöst.",
+          "Verzeihung.",
+          "Nicht nötig. Das sollte ohnehin schon die Regel sein.",
+          "Als ranghöchster anwesender Offizier des Ordens des sinkenden Sterns,",
+          "erkläre ich diese Würdigungszeremonie ... für eröffnet. Befreie den nullten Block!",
+          "Wir beginnen mit vier Punkten.",
+          "Helden, Spiegel, Steine, Strahlen.",
+          "Einfache Punkte der Dimension null.",
+          "Eines nach dem anderen: besuchen und beobachten."
+        ],
+        "es": [
+          "Bienvenida de nuevo, directora en funciones.",
+          "Gracias, Sokoban.",
+          "¡Saludos! ¡Saludos! ¿Quién habla?",
+          "Veo que has realizado la reconexión a la perfección.",
+          "Nuestro Visitante no ha esperado más que unos pocos segundos.",
+          "He hecho todo lo que he podido.",
+          "¡Hola! ¿Dónde... dónde estás?",
+          "Ha pasado bastante tiempo desde la última vez que hablamos.",
+          "Dieciséis meses con todas sus horas, a fecha de ayer.",
+          "Debes de estar trabajando muy duro.",
+          "Aún queda mucho por aprender. Y estoy pasando bastante tiempo de nuevo en este almacén.",
+          "Hago lo que puedo para mantenerlo en pie. Este lugar necesita mucha ayuda.",
+          "Ya lo creo.",
+          "¡Tú, que estás hablando, responde! ¿Eres la Estrella del Ocaso?",
+          "¡Háblame directamente! ¿Desde dónde hablas?",
+          "Sokoban, con lo ocupado que has estado, seguro que te han informado de la nueva regla",
+          "de que no debemos hablar directamente con ningún Visitante de rango insuficiente,",
+          "por mucho malestar que pueda causar eso.",
+          "(suspiro)",
+          "¿Todo eso es por mí?",
+          "Disfruté de nuestras conversaciones, pero causaron cierto revuelo.",
+          "Mis disculpas.",
+          "No hace falta. Se suponía que esa ya era la regla.",
+          "Como la oficial de mayor rango presente de la Orden de la Estrella del Ocaso,",
+          "Declaro esta ceremonia de agradecimiento... comenzada. ¡Liberad el bloque de dimensión cero!",
+          "Empezamos con cuatro puntos.",
+          "Héroes, espejos, piedras, haces.",
+          "Puntos simples de dimensión cero.",
+          "De uno en uno, visita y observa."
+        ],
+        "fr": [
+          "Bon retour parmi nous, directrice par intérim.",
+          "Merci, sokoban.",
+          "Holà ! Qui parle ?",
+          "Je vois que vous avez parfaitement raccordé la reconnexion.",
+          "Notre Visiteuse n'a pas attendu plus de quelques secondes.",
+          "J'ai fait de mon mieux.",
+          "Hé ! Où... où êtes-vous ?!",
+          "Cela fait un moment que nous n'avons pas parlé.",
+          "16 mois de temps propre, hier.",
+          "Vous devez vraiment travailler dur.",
+          "Il me reste beaucoup à apprendre. Et je passe pas mal de temps à nouveau dans cet entrepôt.",
+          "Je fais ce que je peux pour que ça tienne debout. Cet endroit en a sacrément besoin.",
+          "Ça ne m'étonne pas.",
+          "Vous qui parlez, répondez ! Êtes-vous l'Étoile engloutie ?",
+          "Adressez-vous directement à moi ! Où êtes-vous ?",
+          "Sokoban, même si vous avez été très occupé, vous avez sûrement été informé de la nouvelle règle",
+          "qui nous interdit de parler directement à tout Visiteur de rang insuffisant,",
+          "quelles que soient les contrariétés que cela puisse causer.",
+          "(soupir)",
+          "Est-ce que c'est de ma faute ?",
+          "J'ai apprécié nos conversations, mais elles ont provoqué tout un foin.",
+          "Mes excuses.",
+          "Inutile. C'était censé être la règle depuis le début.",
+          "En tant qu'officier présent le plus haut gradé de l'Ordre de l'Étoile engloutie,",
+          "je déclare cette cérémonie d'appréciation... ouverte. Libérez le bloc zéro !",
+          "Nous commençons par quatre points.",
+          "Héros, miroirs, pierres, faisceaux.",
+          "Des points simples de dimension zéro.",
+          "Un à un, visitez et observez."
+        ],
+        "it": [
+          "Bentornata, direttrice ad interim.",
+          "Grazie, Sokoban.",
+          "Salve! Salve, chi parla?",
+          "Vedo che hai eseguito la riconnessione molto bene.",
+          "Il nostro Visitatore non ha aspettato che pochi secondi.",
+          "Ho fatto del mio meglio.",
+          "Salve! Dove... dove siete?!",
+          "È passato un po' di tempo da quando ci siamo parlati l'ultima volta.",
+          "16 mesi di tempo effettivo, ieri.",
+          "Devi proprio lavorare sodo.",
+          "C'è ancora molto da imparare. E sto trascorrendo parecchio tempo di nuovo in questo deposito.",
+          "Faccio il possibile per tenerlo in piedi. Questo posto ha bisogno di molto aiuto.",
+          "Non mi dire.",
+          "Tu che parli, rispondi! Sei tu Sinking Star?",
+          "Rivolgiti direttamente a me! Da dove parli?",
+          "Sokoban, per quanto tu sia stato impegnato, sicuramente sei stato informato della nuova regola",
+          "che non dobbiamo parlare direttamente con alcun Visitatore di rango insufficiente,",
+          "a prescindere dal disagio che può causare.",
+          "(sospiro)",
+          "Tutto questo per me?",
+          "Mi piacevano le nostre conversazioni, ma causavano confusione.",
+          "Scusate.",
+          "Non ce n'è bisogno. Doveva già essere la regola.",
+          "In qualità di ufficiale presente di grado più alto dell'Order of the Sinking Star,",
+          "dichiaro questa cerimonia di ringraziamento... iniziata. Liberate il blocco zeroth!",
+          "Iniziamo con quattro punti.",
+          "Eroi, specchi, pietre, raggi.",
+          "Semplici punti di dimensione zero.",
+          "Uno per uno, visita e osserva."
+        ],
+        "ja": [
+          "お帰りなさい、団長代理。",
+          "ありがとう、倉庫番。",
+          "おーい！？",
+          "うまくつなぎ直せたようね。",
+          "再接続は完璧だ。 訪問者も数秒しか待っていない。",
+          "全力を尽くしました。",
+          "おーい！ど…どこにいるの！？",
+          "ここを離れてから ずいぶん時間が経ったようだ。",
+          "昨日の時点で、16ヵ月です。",
+          "励んでいるな。",
+          "まだ学ぶことがたくさんあります。 この倉庫にも戻って、 かなりの時間を過ごしています。",
+          "ここを維持するには 相当手を入れる必要が ありますから。",
+          "そうだな。",
+          "おーい！ 何者だ！？ 沈み行く星の教団の者か！？",
+          "この声は一体どこから？",
+          "倉庫番、 新たな規則は知っているな？",
+          "低位の来訪者との 対話は禁止だ。",
+          "たとえ相手を怒らせても。",
+          "…",
+          "私が原因ですか？",
+          "君との会話は楽しかったが、 騒動になってな。",
+          "申し訳ありません。",
+          "…",
+          "謝る必要はない。 沈み行く星の教団の 最高位者として、",
+          "感謝式の開会を宣言する。 第0ブロックを開け！",
+          "4つの点より始める。",
+          "英雄、鏡、石、光線。",
+          "単なる零次元の点。",
+          "ひとつずつ巡り、観察せよ。"
+        ],
+        "ko": [
+          "돌아오신 걸 환영합니다, 대리 감독관님.",
+          "고마워, 소코반.",
+          "이봐! 이봐, 말하는 자는 누구지?",
+          "재연결을 완벽하게 해냈군.",
+          "방문자가 몇 초밖에 기다리지 않았어.",
+          "최선을 다했습니다.",
+          "이봐! 어디.. 어디 있는 거야?!",
+          "우리가 마지막으로 대화한 뒤로 꽤 시간이 흘렀네.",
+          "어제 기준으로 고유 시간 16개월입니다.",
+          "정말 열심히 일하고 있나 보군.",
+          "아직 배울 게 많아. 그리고 이 창고에 돌아와서 꽤 많은 시간을 보내고 있지.",
+          "제가 할 수 있는 만큼 관리하고 있습니다. 손볼 곳이 많더군요.",
+          "나도 잘 알지.",
+          "지금 말하는 자여, 대답해라! 네가 가라앉는 별인가?",
+          "내게 직접 말해라! 어디서 말하고 있는 거지?",
+          "소코반, 아무리 바빴어도, 새 규칙에 관해서는 분명 전해 들었겠지.",
+          "계급이 충분히 높지 않은 방문자와는 직접 말을 섞어선 안 된다는 규칙 말이야.",
+          "그로 인해 불쾌해하더라도 말이지.",
+          "(한숨)",
+          "그게 다 나 때문이야?",
+          "우리 대화를 즐기긴 했지만, 그 때문에 약간의 소동이 있었거든.",
+          "죄송합니다.",
+          "그럴 필요 없어. 원래부터 그게 규칙이었어야 하니까.",
+          "가라앉는 별의 결사단에서 이 자리에 있는 최고위 장교로서,",
+          "감상 의식의 시작을... 선언한다. 0번째 블록을 해제하라!",
+          "우리는 네 개의 점에서 시작한다.",
+          "영웅, 거울, 바위, 빔.",
+          "차원이 없는 단순한 점들이다.",
+          "하나씩, 찾아가 살펴보라."
+        ],
         "pt-br": [
           "Bem-vinda de volta, diretora interina.",
           "Obrigada, Sokoban.",
@@ -566,6 +1400,99 @@
           "Heróis, Espelhos, Pedras, Feixes.",
           "Pontos simples de dimensão zero.",
           "Um por um, visite e observe."
+        ],
+        "ru": [
+          "С возвращением, Исполняющая обязанности Директора.",
+          "Спасибо, Сокобан.",
+          "Эй! Эй, кто говорит?",
+          "Похоже, ты отлично выполнил повторное соединение.",
+          "Наш Гость не прождал и нескольких секунд.",
+          "Старался как мог.",
+          "Эй! Где... где ты?!",
+          "Давно мы не разговаривали.",
+          "16 месяцев по собственному времени, вчера.",
+          "Ты, должно быть, очень много работаешь.",
+          "Ещё многому предстоит научиться. И я снова провожу немало времени на этом складе.",
+          "Делаю всё, что могу, чтобы поддержать это место в порядке. Дел тут невпроворот.",
+          "Ещё бы.",
+          "Кто бы ты ни был, отвечай! Ты — Гаснущая звезда?",
+          "Говори со мной прямо! Откуда доносится твой голос?",
+          "Сокобан, при всей твоей занятости, тебе наверняка сообщили о новом правиле",
+          "мы не должны говорить напрямую ни с одним Гостем недостаточного ранга,",
+          "независимо от того, какое это может вызвать недовольство.",
+          "(вздох)",
+          "И всё это ради меня?",
+          "Мне нравились наши разговоры, но они вызвали переполох.",
+          "Прошу прощения.",
+          "Не нужно. Это правило и так должно было действовать.",
+          "Как старший из присутствующих офицеров Ордена Гаснущей звезды,",
+          "Объявляю Церемонию благодарности... открытой. Освободить нулевой блок!",
+          "Начнём с четырёх точек.",
+          "Герои, зеркала, камни, лучи.",
+          "Простые точки нулевого измерения.",
+          "Один за другим, посещайте и наблюдайте."
+        ],
+        "s-cn": [
+          "欢迎回来，代理主管。",
+          "谢谢你，守库人。",
+          "喂！是谁在说话？",
+          "看来你把连接恢复得相当好。",
+          "我们的访客只等了短短几秒。",
+          "我尽力了。",
+          "有人吗！你们……你们在哪儿？！",
+          "我们有一阵子没说话了。",
+          "到昨天为止，按这里的时间算，已经过去十六个月了。",
+          "那你这段时间一定没闲着。",
+          "要学的东西还多着呢。而且， 我也经常回这座仓库，在这儿待的时间可不少。",
+          "我在尽力撑住这里。这地方需要修补的实在太多了。",
+          "这我可太清楚了。",
+          "刚才说话的，回答我！你们就是沉星之序的人？",
+          "直接回答我！你们究竟身在何处？",
+          "守库人，你近来虽然忙得不可开交， 但肯定也听说了那条新规：",
+          "我们不得直接与任何级别不足的访客交谈，",
+          "无论这会让对方多么不快。",
+          "（叹气）",
+          "这条规定是因为我才定的？",
+          "我确实很享受我们的谈话， 但也正是我们之间的谈话惹出了不小的风波。",
+          "抱歉。",
+          "不用道歉。这规矩本来早该定下来的。",
+          "作为在场级别最高的沉星之序官员，",
+          "我宣布，本次鉴赏仪式…… 正式开始。解冻零号区块！",
+          "我们从四个点开始。",
+          "英雄、镜子、飞石、光束。",
+          "简单纯粹的零维之点。",
+          "逐一造访，细心观察。"
+        ],
+        "t-cn": [
+          "歡迎回來，代理主管。",
+          "謝謝你，守庫人。",
+          "喂！是誰在說話？",
+          "看來你把連接恢復得相當好。",
+          "我們的訪客只等了短短幾秒。",
+          "我盡力了。",
+          "有人嗎！你們……你們在哪兒？！",
+          "我們有一陣子沒說話了。",
+          "到昨天為止，按這裡的時間算， 已經過去十六個月了。",
+          "那你這段時間一定沒閒著。",
+          "要學的東西還多著呢。 而且，我也經常回這座倉庫， 在這兒待的時間可不少。",
+          "我在盡力撐住這裡。這地方需要修補的實在太多了。",
+          "這我可太清楚了。",
+          "剛才說話的，回答我！ 你們就是沉星之序的人？",
+          "直接回答我！你們究竟身在何處？",
+          "守庫人，你近來雖然忙得不可開交， 但肯定也聽說了那條新規：",
+          "我們不得直接與任何級別不足的訪客交談，",
+          "無論這會讓對方多麼不快。",
+          "（嘆氣）",
+          "這條規定是因為我才定的？",
+          "我確實很享受我們的談話， 但也正是我們之間的談話惹出了不小的風波。",
+          "抱歉。",
+          "不用道歉。這規矩本來早該定下來的。",
+          "作為在場級別最高的沉星之序官員，",
+          "我宣布，本次鑑賞儀式…… 正式開始。解凍零號區塊！",
+          "我們從四個點開始。",
+          "英雄、鏡子、飛石、光束。",
+          "簡單純粹的零維之點。",
+          "逐一造訪，細心觀察。"
         ]
       },
       "silentCues": [],

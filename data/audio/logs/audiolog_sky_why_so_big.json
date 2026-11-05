@@ -3,7 +3,16 @@
   "audioLog": "audiolog_sky_why_so_big",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -20,9 +29,45 @@
               "... and if you're trying to achieve clarity, then, why's this place so big?",
               "To be blunt, it was a disorienting place to land. Would have preferred something smaller!"
             ],
+            "de": [
+              "... und wenn du Klarheit schaffen willst, warum ist dieser Ort dann so groß?",
+              "Ehrlich gesagt war es ziemlich verwirrend, ausgerechnet hier zu landen. Etwas Kleineres wäre mir lieber gewesen!"
+            ],
+            "es": [
+              "... y si lo que buscas es claridad, entonces, ¿por qué es tan grande este lugar?",
+              "La verdad es que, como lugar en el que aterrizar, resulta desorientador. ¡Habría preferido algo más pequeño!"
+            ],
+            "fr": [
+              "... et si vous cherchez la clarté, alors, pourquoi cet endroit est-il si grand ?",
+              "Honnêtement, c'était déstabilisant d'atterrir ici. J'aurais préféré quelque chose de plus petit !"
+            ],
+            "it": [
+              "... e se cerchi di ottenere chiarezza, allora, perché questo posto è così grande?",
+              "A dire il vero, è stato un posto disorientante in cui approdare. Avrei preferito qualcosa di più piccolo!"
+            ],
+            "ja": [
+              "なんでこんなに広いの？ もっと小さくしても 要点は伝えられたんじゃない？",
+              "小さく作る方法なら いくらでもあった――"
+            ],
+            "ko": [
+              "... 그런데 명료함이 목표라면, 여기는 왜 이렇게 큰 겁니까?",
+              "솔직히 처음 도착했을 땐 정신이 하나도 없더군요. 차라리 좀 더 작았으면 좋았을 텐데요!"
+            ],
             "pt-br": [
               "... e se você busca clareza, então, por que este lugar é tão grande?",
               "Sinceramente, foi um lugar desorientador para pousar. Teria preferido algo menor!"
+            ],
+            "ru": [
+              "... и если вы стремитесь к ясности, то почему это место такое большое?",
+              "Честно говоря, это было дезориентирующее место для высадки. Я бы предпочел что-нибудь поменьше!"
+            ],
+            "s-cn": [
+              "……而如果你追求的是清晰明了， 那这个地方为什么要建得这么大？",
+              "说白了，刚抵达时这里让我晕头转向。我倒希望它小一点！"
+            ],
+            "t-cn": [
+              "……而如果你追求的是清晰明了， 那這個地方為什麼要建得這麼大？",
+              "說白了，剛抵達時這裡讓我暈頭轉向。 我倒希望它小一點！"
             ]
           },
           "provenance": {
@@ -55,6 +100,90 @@
               "But this was the very limit of what I could do after 10 years of work.",
               "Had I known it could be my last, I might have kept pushing."
             ],
+            "de": [
+              "Lange Zeit waren alle Lagerhäuser, die wir gebaut haben, viel kleiner als dieses hier.",
+              "Je ausgereifter unsere Kunst wurde, desto größer wurden sie.",
+              "Dennoch halten es manche Implementoren heute noch immer lieber schlicht",
+              "und bauen kleinere Orte mit klarerem Schwerpunkt, obwohl sie weitaus größer bauen könnten.",
+              "Doch ich denke: Wenn wir hier sind, um unser überaus reichhaltiges Universum zu erforschen,",
+              "nun, wer nur im seichten Wasser bleibt, lernt nicht schwimmen. Jedenfalls nicht gut. Und schon gar nicht unter grauenvollen Umständen.",
+              "In deiner Welt gibt es doch Wasser, das einen trägt, ja? Ist diese Metapher für dich schlüssig?",
+              "Gut. Das ist nicht selbstverständlich ... Wie du gesehen hast, gibt es in zwei dieser Welten überhaupt kein Wasser.",
+              "Wie dem auch sei: Ja, dieses Lagerhaus ist größer als die meisten. Und es war ziemlich schwer zu bauen.",
+              "Trotzdem haben wir einiges weggelassen. Es hätte größer sein können, vielleicht sogar größer sein „sollen“.",
+              "Doch nach zehn Jahren Arbeit war dies das Äußerste, was ich leisten konnte.",
+              "Hätte ich gewusst, dass es mein letztes sein könnte, hätte ich vielleicht noch weitergemacht."
+            ],
+            "es": [
+              "Durante mucho tiempo, todos los almacenes que construimos eran mucho más pequeños que este.",
+              "A medida que perfeccionamos nuestro arte, fueron creciendo.",
+              "Aun así, algunos implementadores hoy siguen prefiriendo mantener las cosas simples",
+              "y construir lugares más pequeños y más centrados de lo que podrían construir.",
+              "Pero creo que, si estamos aquí para estudiar nuestro universo tan prolífico,",
+              "pues bien, si uno se queda en aguas poco profundas, no aprende a nadar. Al menos no tan bien. No en circunstancias tan duras.",
+              "Tienes agua que te permite flotar, ¿verdad? ¿Esa metáfora tiene sentido para ti?",
+              "Bien. No se puede dar por hecho... Como has visto, dos de estos mundos no tienen agua en absoluto.",
+              "En fin, sí, este almacén es más grande que la mayoría. Y fue bastante difícil de hacer.",
+              "Aun así, dejamos algunas cosas fuera. Podría haber sido más grande, quizá «debería» haber sido más grande.",
+              "Pero este era el límite de lo que podía hacer tras 10 años de trabajo.",
+              "Si hubiera sabido que quizá sería el último, tal vez habría seguido insistiendo."
+            ],
+            "fr": [
+              "Pendant longtemps, tous les entrepôts que nous construisions étaient bien plus petits que celui-ci.",
+              "À mesure que nous affinions notre art, ils ont grandi.",
+              "Cela dit, même aujourd'hui, certains implémenteurs aiment encore faire simple",
+              "et bâtir des lieux plus petits, plus ciblés, que ce dont ils seraient capable.",
+              "Mais je pense que, si nous sommes ici pour étudier notre univers si prolifique...",
+              "eh bien, si l'on reste dans les eaux peu profondes, on n'apprend pas à nager. Pas aussi bien. Pas dans les mêmes circonstances.",
+              "Vous avez bien une eau qui vous permet de flotter, n'est-ce pas ? Cette métaphore vous parle ?",
+              "Bien. Ce n'est pas garanti... Comme vous l'avez vu, deux de ces mondes n'ont pas d'eau du tout.",
+              "Bref, oui, cet entrepôt est plus grand que la plupart. Et il a été assez difficile à construire.",
+              "Malgré tout, nous avons laissé de côté certaines choses. Il aurait pu être plus grand... Il aurait dû, peut-être.",
+              "Mais c'était la limite absolue de ce que je pouvais faire après 10 ans de travail.",
+              "Si j'avais su que ce serait sûrement le dernier, j'aurais peut-être redoublé d'efforts."
+            ],
+            "it": [
+              "Per molto tempo, ogni deposito che costruivamo era molto più piccolo di questo.",
+              "Man mano che affinavamo la nostra arte, sono diventati più grandi.",
+              "Eppure, alcuni Implementor oggi preferiscono ancora mantenere le cose semplici",
+              "e costruire luoghi più piccoli, e più mirati, di quanto potrebbero.",
+              "Ma penso che, se siamo qui per studiare il nostro universo così prolifico,",
+              "beh, se resti dove si tocca, non imparerai mai a nuotare. Non altrettanto bene. Non in circostanze difficili.",
+              "Hai dell'acqua che ti permette di galleggiare, sì? Questa metafora ha senso per te?",
+              "Bene. Non è scontato... come hai visto, due di questi mondi non hanno affatto acqua.",
+              "Comunque sì, questo deposito è più grande di altri. Ed è stato parecchio difficile farlo.",
+              "Eppure, abbiamo lasciato fuori alcune cose. Poteva essere più grande, \"sarebbe dovuto\" essere più grande, forse.",
+              "Ma questo era proprio il limite di ciò che potevo fare dopo dieci anni di lavoro.",
+              "Se avessi saputo che avrebbe potuto essere l'ultimo, forse avrei continuato a insistere."
+            ],
+            "ja": [
+              "実際、他の施設を見ればわかるが 以前はそうしていた。",
+              "それに君の言う通り、 かなり大きい。",
+              "簡潔に作るのが好きな実装者もいるが、 私としては――",
+              "そうした実装者は、もっと大きく作れるのに、 あえて規模を抑え、狙いを絞った場所を作るの。",
+              "これほど豊かに広がる宇宙の 根本の編成作用を研究するなら",
+              "浅瀬にいるだけでは 本当には学べない。",
+              "君たちにも 浮けるくらい軽い水があるだろう？ この比喩、通じるか？",
+              "いつもそうとは限らない。 もう知ってのとおり、 2つの世界には水そのものがない。",
+              "ともかく、 この倉庫は通常より大きく、 作るのも骨が折れた。",
+              "それでも省いたものはある。 もっと大きくできたし、 そうするべきだったかもしれない。",
+              "だが実装者として 10年の経験があっても、 これが限界だった。",
+              "大半の訪問者には 大きすぎる。"
+            ],
+            "ko": [
+              "오랫동안 우리가 만든 창고는 모두 이것보다 훨씬 작았어.",
+              "기술을 갈고닦으면서 창고도 커졌지.",
+              "그래도 오늘날 어떤 구현자들은 여전히 단순하게 가길 좋아하지.",
+              "자신들이 만들 수 있는 규모보다 더 작고 핵심에 집중한 공간을 짓는 거야.",
+              "하지만 내 생각에는 우리가 이토록 풍성한 우주를 연구하려고 여기 있는 거라면,",
+              "계속 얕은 곳에 머물러서는 제대로 수영을 배울 수 없어. 험난한 상황에서는 더더욱.",
+              "몸을 띄울 수 있는 물은 있는 거지? 이 비유가 이해가 돼?",
+              "좋아. 당연한 건 아니거든... 잘 알겠지만 이 세계 중 두 곳에는 물이 아예 없어.",
+              "아무튼 그래. 이 창고는 대부분의 창고보다 훨씬 커. 만들기도 꽤 어려웠고.",
+              "그래도 빠진 것들이 좀 있어. 더 크게 만들 수도 있었는데. 어쩌면 크게 만드는 게 맞았을지도 모르지.",
+              "하지만 10년 동안 작업한 끝에 내가 할 수 있었던 건 여기까지였어.",
+              "이게 마지막이 될지도 모른다는 걸 알았다면, 계속 밀어붙였을지도 몰라."
+            ],
             "pt-br": [
               "Por muito tempo, todo Armazém que construíamos era muito menor que este.",
               "À medida que refinávamos nossa arte, eles ficaram maiores.",
@@ -68,6 +197,48 @@
               "Ainda assim, deixamos algumas coisas de fora. Poderia ter sido maior, “deveria” ter sido maior, talvez.",
               "Mas esse foi o limite exato do que consegui fazer depois de 10 anos de trabalho.",
               "Se eu soubesse que talvez fosse o último, talvez tivesse insistido mais."
+            ],
+            "ru": [
+              "Долгое время все склады, которые мы строили, были гораздо меньше этого.",
+              "Оттачивая мастерство, мы делали их всё крупнее.",
+              "И всё же некоторые Созидатели сегодня по-прежнему любят всё упрощать",
+              "и строить места поменьше и более сфокусированные, чем могли бы.",
+              "Но я думаю, если мы здесь чтобы изучать нашу невероятно изобильную вселенную,",
+              "что ж, если сидеть на мелководье, плавать не научишься. Не так хорошо. И не в таких суровых условиях.",
+              "У вас ведь есть вода, в которой можно держаться на поверхности, да? Эта метафора тебе понятна?",
+              "Хорошо. Это не само собой разумеется... Как ты видел, в двух из этих миров вообще нет воды.",
+              "Впрочем, да, этот склад больше, чем большинство. И сделать его было довольно трудно.",
+              "И все же мы кое-что упустили. Он мог бы быть больше, «должен» был бы быть больше, пожалуй.",
+              "Но это был предел того, что я могла сделать за 10 лет работы.",
+              "Если бы я знала, что он может быть последним, я, возможно, продолжила бы стараться."
+            ],
+            "s-cn": [
+              "在很长一段时间里，我们建造的每一座仓库 都比这座小得多。",
+              "随着技艺日益精进，仓库也越造越大。",
+              "即便如此，如今有些构建者仍然喜欢简单一些，",
+              "即使有能力建得更大，也宁愿缩小规模，让内容更集中。",
+              "但我认为，既然我们来这里是为了研究这个不断孕育万象的宇宙，",
+              "一直待在浅水区，就学不会真正的游泳本领，更别提在险境中应付了。",
+              "你们那里的水能让人浮起来吧？这个比喻你听得懂吧？",
+              "那就好。我可不能默认你们那里也有水…… 你也看到了，这几个世界里有两个根本没有水。",
+              "总之，没错，这座仓库比大多数都大，造起来也相当困难。",
+              "即便如此，我们还是舍弃了一些内容。 它本可以更大，或许也“应该”更大。",
+              "可我当时已经工作了十年，这仍是我所能做到的极限。",
+              "要是早知道它可能是我的最后一座，我也许会再多逼自己一把。"
+            ],
+            "t-cn": [
+              "在很長一段時間裡，我們建造的每一座倉庫 都比這座小得多。",
+              "隨著技藝日益精進，倉庫也越造越大。",
+              "即便如此，如今有些構建者仍然喜歡簡單一些，",
+              "即使有能力建得更大，也寧願縮小規模，讓內容更集中。",
+              "但我認為，既然我們來這裡是為了研究這個不斷孕育萬象的宇宙，",
+              "一直待在淺水區，就學不會真正的遊泳本領， 更別提在險境中應付了。",
+              "你們那裡的水能讓人浮起來吧？這個比喻你聽得懂吧？",
+              "那就好。我可不能默認你們那裡也有水…… 你也看到了，這幾個世界裡有兩個根本沒有水。",
+              "總之，沒錯，這座倉庫比大多數都大，造起來也相當困難。",
+              "即便如此，我們還是捨棄了一些內容。 它本可以更大，或許也「應該」更大。",
+              "可我當時已經工作了十年，這仍是我所能做到的極限。",
+              "要是早知道它可能是我的最後一座， 我也許會再多逼自己一把。"
             ]
           },
           "provenance": {
@@ -111,6 +282,102 @@
           "But this was the very limit of what I could do after 10 years of work.",
           "Had I known it could be my last, I might have kept pushing."
         ],
+        "de": [
+          "... und wenn du Klarheit schaffen willst, warum ist dieser Ort dann so groß?",
+          "Ehrlich gesagt war es ziemlich verwirrend, ausgerechnet hier zu landen. Etwas Kleineres wäre mir lieber gewesen!",
+          "Lange Zeit waren alle Lagerhäuser, die wir gebaut haben, viel kleiner als dieses hier.",
+          "Je ausgereifter unsere Kunst wurde, desto größer wurden sie.",
+          "Dennoch halten es manche Implementoren heute noch immer lieber schlicht",
+          "und bauen kleinere Orte mit klarerem Schwerpunkt, obwohl sie weitaus größer bauen könnten.",
+          "Doch ich denke: Wenn wir hier sind, um unser überaus reichhaltiges Universum zu erforschen,",
+          "nun, wer nur im seichten Wasser bleibt, lernt nicht schwimmen. Jedenfalls nicht gut. Und schon gar nicht unter grauenvollen Umständen.",
+          "In deiner Welt gibt es doch Wasser, das einen trägt, ja? Ist diese Metapher für dich schlüssig?",
+          "Gut. Das ist nicht selbstverständlich ... Wie du gesehen hast, gibt es in zwei dieser Welten überhaupt kein Wasser.",
+          "Wie dem auch sei: Ja, dieses Lagerhaus ist größer als die meisten. Und es war ziemlich schwer zu bauen.",
+          "Trotzdem haben wir einiges weggelassen. Es hätte größer sein können, vielleicht sogar größer sein „sollen“.",
+          "Doch nach zehn Jahren Arbeit war dies das Äußerste, was ich leisten konnte.",
+          "Hätte ich gewusst, dass es mein letztes sein könnte, hätte ich vielleicht noch weitergemacht."
+        ],
+        "es": [
+          "... y si lo que buscas es claridad, entonces, ¿por qué es tan grande este lugar?",
+          "La verdad es que, como lugar en el que aterrizar, resulta desorientador. ¡Habría preferido algo más pequeño!",
+          "Durante mucho tiempo, todos los almacenes que construimos eran mucho más pequeños que este.",
+          "A medida que perfeccionamos nuestro arte, fueron creciendo.",
+          "Aun así, algunos implementadores hoy siguen prefiriendo mantener las cosas simples",
+          "y construir lugares más pequeños y más centrados de lo que podrían construir.",
+          "Pero creo que, si estamos aquí para estudiar nuestro universo tan prolífico,",
+          "pues bien, si uno se queda en aguas poco profundas, no aprende a nadar. Al menos no tan bien. No en circunstancias tan duras.",
+          "Tienes agua que te permite flotar, ¿verdad? ¿Esa metáfora tiene sentido para ti?",
+          "Bien. No se puede dar por hecho... Como has visto, dos de estos mundos no tienen agua en absoluto.",
+          "En fin, sí, este almacén es más grande que la mayoría. Y fue bastante difícil de hacer.",
+          "Aun así, dejamos algunas cosas fuera. Podría haber sido más grande, quizá «debería» haber sido más grande.",
+          "Pero este era el límite de lo que podía hacer tras 10 años de trabajo.",
+          "Si hubiera sabido que quizá sería el último, tal vez habría seguido insistiendo."
+        ],
+        "fr": [
+          "... et si vous cherchez la clarté, alors, pourquoi cet endroit est-il si grand ?",
+          "Honnêtement, c'était déstabilisant d'atterrir ici. J'aurais préféré quelque chose de plus petit !",
+          "Pendant longtemps, tous les entrepôts que nous construisions étaient bien plus petits que celui-ci.",
+          "À mesure que nous affinions notre art, ils ont grandi.",
+          "Cela dit, même aujourd'hui, certains implémenteurs aiment encore faire simple",
+          "et bâtir des lieux plus petits, plus ciblés, que ce dont ils seraient capable.",
+          "Mais je pense que, si nous sommes ici pour étudier notre univers si prolifique...",
+          "eh bien, si l'on reste dans les eaux peu profondes, on n'apprend pas à nager. Pas aussi bien. Pas dans les mêmes circonstances.",
+          "Vous avez bien une eau qui vous permet de flotter, n'est-ce pas ? Cette métaphore vous parle ?",
+          "Bien. Ce n'est pas garanti... Comme vous l'avez vu, deux de ces mondes n'ont pas d'eau du tout.",
+          "Bref, oui, cet entrepôt est plus grand que la plupart. Et il a été assez difficile à construire.",
+          "Malgré tout, nous avons laissé de côté certaines choses. Il aurait pu être plus grand... Il aurait dû, peut-être.",
+          "Mais c'était la limite absolue de ce que je pouvais faire après 10 ans de travail.",
+          "Si j'avais su que ce serait sûrement le dernier, j'aurais peut-être redoublé d'efforts."
+        ],
+        "it": [
+          "... e se cerchi di ottenere chiarezza, allora, perché questo posto è così grande?",
+          "A dire il vero, è stato un posto disorientante in cui approdare. Avrei preferito qualcosa di più piccolo!",
+          "Per molto tempo, ogni deposito che costruivamo era molto più piccolo di questo.",
+          "Man mano che affinavamo la nostra arte, sono diventati più grandi.",
+          "Eppure, alcuni Implementor oggi preferiscono ancora mantenere le cose semplici",
+          "e costruire luoghi più piccoli, e più mirati, di quanto potrebbero.",
+          "Ma penso che, se siamo qui per studiare il nostro universo così prolifico,",
+          "beh, se resti dove si tocca, non imparerai mai a nuotare. Non altrettanto bene. Non in circostanze difficili.",
+          "Hai dell'acqua che ti permette di galleggiare, sì? Questa metafora ha senso per te?",
+          "Bene. Non è scontato... come hai visto, due di questi mondi non hanno affatto acqua.",
+          "Comunque sì, questo deposito è più grande di altri. Ed è stato parecchio difficile farlo.",
+          "Eppure, abbiamo lasciato fuori alcune cose. Poteva essere più grande, \"sarebbe dovuto\" essere più grande, forse.",
+          "Ma questo era proprio il limite di ciò che potevo fare dopo dieci anni di lavoro.",
+          "Se avessi saputo che avrebbe potuto essere l'ultimo, forse avrei continuato a insistere."
+        ],
+        "ja": [
+          "なんでこんなに広いの？ もっと小さくしても 要点は伝えられたんじゃない？",
+          "小さく作る方法なら いくらでもあった――",
+          "実際、他の施設を見ればわかるが 以前はそうしていた。",
+          "それに君の言う通り、 かなり大きい。",
+          "簡潔に作るのが好きな実装者もいるが、 私としては――",
+          "そうした実装者は、もっと大きく作れるのに、 あえて規模を抑え、狙いを絞った場所を作るの。",
+          "これほど豊かに広がる宇宙の 根本の編成作用を研究するなら",
+          "浅瀬にいるだけでは 本当には学べない。",
+          "君たちにも 浮けるくらい軽い水があるだろう？ この比喩、通じるか？",
+          "いつもそうとは限らない。 もう知ってのとおり、 2つの世界には水そのものがない。",
+          "ともかく、 この倉庫は通常より大きく、 作るのも骨が折れた。",
+          "それでも省いたものはある。 もっと大きくできたし、 そうするべきだったかもしれない。",
+          "だが実装者として 10年の経験があっても、 これが限界だった。",
+          "大半の訪問者には 大きすぎる。"
+        ],
+        "ko": [
+          "... 그런데 명료함이 목표라면, 여기는 왜 이렇게 큰 겁니까?",
+          "솔직히 처음 도착했을 땐 정신이 하나도 없더군요. 차라리 좀 더 작았으면 좋았을 텐데요!",
+          "오랫동안 우리가 만든 창고는 모두 이것보다 훨씬 작았어.",
+          "기술을 갈고닦으면서 창고도 커졌지.",
+          "그래도 오늘날 어떤 구현자들은 여전히 단순하게 가길 좋아하지.",
+          "자신들이 만들 수 있는 규모보다 더 작고 핵심에 집중한 공간을 짓는 거야.",
+          "하지만 내 생각에는 우리가 이토록 풍성한 우주를 연구하려고 여기 있는 거라면,",
+          "계속 얕은 곳에 머물러서는 제대로 수영을 배울 수 없어. 험난한 상황에서는 더더욱.",
+          "몸을 띄울 수 있는 물은 있는 거지? 이 비유가 이해가 돼?",
+          "좋아. 당연한 건 아니거든... 잘 알겠지만 이 세계 중 두 곳에는 물이 아예 없어.",
+          "아무튼 그래. 이 창고는 대부분의 창고보다 훨씬 커. 만들기도 꽤 어려웠고.",
+          "그래도 빠진 것들이 좀 있어. 더 크게 만들 수도 있었는데. 어쩌면 크게 만드는 게 맞았을지도 모르지.",
+          "하지만 10년 동안 작업한 끝에 내가 할 수 있었던 건 여기까지였어.",
+          "이게 마지막이 될지도 모른다는 걸 알았다면, 계속 밀어붙였을지도 몰라."
+        ],
         "pt-br": [
           "... e se você busca clareza, então, por que este lugar é tão grande?",
           "Sinceramente, foi um lugar desorientador para pousar. Teria preferido algo menor!",
@@ -126,6 +393,54 @@
           "Ainda assim, deixamos algumas coisas de fora. Poderia ter sido maior, “deveria” ter sido maior, talvez.",
           "Mas esse foi o limite exato do que consegui fazer depois de 10 anos de trabalho.",
           "Se eu soubesse que talvez fosse o último, talvez tivesse insistido mais."
+        ],
+        "ru": [
+          "... и если вы стремитесь к ясности, то почему это место такое большое?",
+          "Честно говоря, это было дезориентирующее место для высадки. Я бы предпочел что-нибудь поменьше!",
+          "Долгое время все склады, которые мы строили, были гораздо меньше этого.",
+          "Оттачивая мастерство, мы делали их всё крупнее.",
+          "И всё же некоторые Созидатели сегодня по-прежнему любят всё упрощать",
+          "и строить места поменьше и более сфокусированные, чем могли бы.",
+          "Но я думаю, если мы здесь чтобы изучать нашу невероятно изобильную вселенную,",
+          "что ж, если сидеть на мелководье, плавать не научишься. Не так хорошо. И не в таких суровых условиях.",
+          "У вас ведь есть вода, в которой можно держаться на поверхности, да? Эта метафора тебе понятна?",
+          "Хорошо. Это не само собой разумеется... Как ты видел, в двух из этих миров вообще нет воды.",
+          "Впрочем, да, этот склад больше, чем большинство. И сделать его было довольно трудно.",
+          "И все же мы кое-что упустили. Он мог бы быть больше, «должен» был бы быть больше, пожалуй.",
+          "Но это был предел того, что я могла сделать за 10 лет работы.",
+          "Если бы я знала, что он может быть последним, я, возможно, продолжила бы стараться."
+        ],
+        "s-cn": [
+          "……而如果你追求的是清晰明了， 那这个地方为什么要建得这么大？",
+          "说白了，刚抵达时这里让我晕头转向。我倒希望它小一点！",
+          "在很长一段时间里，我们建造的每一座仓库 都比这座小得多。",
+          "随着技艺日益精进，仓库也越造越大。",
+          "即便如此，如今有些构建者仍然喜欢简单一些，",
+          "即使有能力建得更大，也宁愿缩小规模，让内容更集中。",
+          "但我认为，既然我们来这里是为了研究这个不断孕育万象的宇宙，",
+          "一直待在浅水区，就学不会真正的游泳本领，更别提在险境中应付了。",
+          "你们那里的水能让人浮起来吧？这个比喻你听得懂吧？",
+          "那就好。我可不能默认你们那里也有水…… 你也看到了，这几个世界里有两个根本没有水。",
+          "总之，没错，这座仓库比大多数都大，造起来也相当困难。",
+          "即便如此，我们还是舍弃了一些内容。 它本可以更大，或许也“应该”更大。",
+          "可我当时已经工作了十年，这仍是我所能做到的极限。",
+          "要是早知道它可能是我的最后一座，我也许会再多逼自己一把。"
+        ],
+        "t-cn": [
+          "……而如果你追求的是清晰明了， 那這個地方為什麼要建得這麼大？",
+          "說白了，剛抵達時這裡讓我暈頭轉向。 我倒希望它小一點！",
+          "在很長一段時間裡，我們建造的每一座倉庫 都比這座小得多。",
+          "隨著技藝日益精進，倉庫也越造越大。",
+          "即便如此，如今有些構建者仍然喜歡簡單一些，",
+          "即使有能力建得更大，也寧願縮小規模，讓內容更集中。",
+          "但我認為，既然我們來這裡是為了研究這個不斷孕育萬象的宇宙，",
+          "一直待在淺水區，就學不會真正的遊泳本領， 更別提在險境中應付了。",
+          "你們那裡的水能讓人浮起來吧？這個比喻你聽得懂吧？",
+          "那就好。我可不能默認你們那裡也有水…… 你也看到了，這幾個世界裡有兩個根本沒有水。",
+          "總之，沒錯，這座倉庫比大多數都大，造起來也相當困難。",
+          "即便如此，我們還是捨棄了一些內容。 它本可以更大，或許也「應該」更大。",
+          "可我當時已經工作了十年，這仍是我所能做到的極限。",
+          "要是早知道它可能是我的最後一座， 我也許會再多逼自己一把。"
         ]
       },
       "silentCues": [],

@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,9 +33,45 @@
               "These devices seem to have a simple form of",
               "what we would consider cybernetic control."
             ],
+            "de": [
+              "Diese Geräte scheinen über eine einfache Form",
+              "dessen zu verfügen, was wir als kybernetische Steuerung bezeichnen würden."
+            ],
+            "es": [
+              "Estos dispositivos parecen tener una forma simple de",
+              "lo que consideraríamos control cibernético."
+            ],
+            "fr": [
+              "Ces appareils semblent avoir une forme simple de",
+              "ce que nous considérerions comme un contrôle cybernétique."
+            ],
+            "it": [
+              "Questi dispositivi sembrano avere una forma semplice di",
+              "quello che considereremmo controllo cibernetico."
+            ],
+            "ja": [
+              "この装置には簡単な",
+              "自動制御機構があるようだ。"
+            ],
+            "ko": [
+              "이 장치들에는 우리가 사이버네틱 제어라고 부를 만한",
+              "단순한 형태의 기능이 있는 것 같아."
+            ],
             "pt-br": [
               "Esses dispositivos parecem ter uma forma simples de",
               "do que consideraríamos controle cibernético."
+            ],
+            "ru": [
+              "Похоже, у этих устройств есть простая форма",
+              "того, что мы назвали бы кибернетическим управлением."
+            ],
+            "s-cn": [
+              "这些装置似乎具备一种简单的控制能力……",
+              "按我们的说法，叫作“反馈控制能力”。"
+            ],
+            "t-cn": [
+              "這些裝置似乎具備一種簡單的控制能力……",
+              "按我們的說法，叫作「反饋控制能力」。"
             ]
           },
           "provenance": {
@@ -48,8 +93,35 @@
             "en": [
               "You mean, avoiding the water?"
             ],
+            "de": [
+              "Du meinst, dass sie dem Wasser ausweichen?"
+            ],
+            "es": [
+              "¿Quieres decir que evitan el agua?"
+            ],
+            "fr": [
+              "Tu veux dire, pour éviter l'eau ?"
+            ],
+            "it": [
+              "Intendi, per evitare l'acqua?"
+            ],
+            "ja": [
+              "水を避けるのか？"
+            ],
+            "ko": [
+              "물이 있는 곳을 피한다는 거야?"
+            ],
             "pt-br": [
               "Você quer dizer evitar a água?"
+            ],
+            "ru": [
+              "То есть уклонение от воды?"
+            ],
+            "s-cn": [
+              "你是说，它们会避开水？"
+            ],
+            "t-cn": [
+              "你是說，它們會避開水？"
             ]
           },
           "provenance": {
@@ -71,9 +143,45 @@
               "They steer. And I wonder, could their decision-making apparatus",
               "be inhabited by a mind such as mine?"
             ],
+            "de": [
+              "Sie steuern. Und ich frage mich: Könnte ihr Entscheidungsapparat",
+              "von einem Geist wie dem meinen bewohnt werden?"
+            ],
+            "es": [
+              "Viran. Y me pregunto si su dispositivo de toma de decisiones",
+              "podría estar habitado por una mente como la mía."
+            ],
+            "fr": [
+              "Ils se dirigent. Et je me demande, leur appareil de prise de décision",
+              "pourrait-il être habité par un esprit comme le mien ?"
+            ],
+            "it": [
+              "Deviano. E mi chiedo, il loro apparato decisionale potrebbe",
+              "essere abitato da una mente come la mia?"
+            ],
+            "ja": [
+              "自ら進路を決めている… なら、その判断装置に…",
+              "僕のような意識を 宿してるのだろうか？"
+            ],
+            "ko": [
+              "스스로 방향을 조정하잖아. 궁금하네. 저들의 의사 결정 장치에",
+              "나 같은 정신이 깃들 수도 있을까?"
+            ],
             "pt-br": [
               "Eles se movem. E eu me pergunto: será que o sistema de decisão deles",
               "pode ser habitado por uma mente como a minha?"
+            ],
+            "ru": [
+              "Они управляются. И мне интересно, может ли их механизм принятия решений",
+              "быть вместилищем разума, подобного моему?"
+            ],
+            "s-cn": [
+              "它们会自己转向。我在想，",
+              "它们那套做决定的机关能不能容得下我这样的一个心智？"
+            ],
+            "t-cn": [
+              "它們會自己轉向。我在想，",
+              "它們那套做決定的機關能不能容得下我這樣的一個心智？"
             ]
           },
           "provenance": {
@@ -95,8 +203,35 @@
             "en": [
               "Deep."
             ],
+            "de": [
+              "Tiefgründig."
+            ],
+            "es": [
+              "Qué profundo."
+            ],
+            "fr": [
+              "Profond."
+            ],
+            "it": [
+              "Profondo."
+            ],
+            "ja": [
+              "気になるね。"
+            ],
+            "ko": [
+              "심오하네."
+            ],
             "pt-br": [
               "Profundo."
+            ],
+            "ru": [
+              "Глубоко."
+            ],
+            "s-cn": [
+              "够深奥。"
+            ],
+            "t-cn": [
+              "夠深奧。"
             ]
           },
           "provenance": {
@@ -121,6 +256,54 @@
           "be inhabited by a mind such as mine?",
           "Deep."
         ],
+        "de": [
+          "Diese Geräte scheinen über eine einfache Form",
+          "dessen zu verfügen, was wir als kybernetische Steuerung bezeichnen würden.",
+          "Du meinst, dass sie dem Wasser ausweichen?",
+          "Sie steuern. Und ich frage mich: Könnte ihr Entscheidungsapparat",
+          "von einem Geist wie dem meinen bewohnt werden?",
+          "Tiefgründig."
+        ],
+        "es": [
+          "Estos dispositivos parecen tener una forma simple de",
+          "lo que consideraríamos control cibernético.",
+          "¿Quieres decir que evitan el agua?",
+          "Viran. Y me pregunto si su dispositivo de toma de decisiones",
+          "podría estar habitado por una mente como la mía.",
+          "Qué profundo."
+        ],
+        "fr": [
+          "Ces appareils semblent avoir une forme simple de",
+          "ce que nous considérerions comme un contrôle cybernétique.",
+          "Tu veux dire, pour éviter l'eau ?",
+          "Ils se dirigent. Et je me demande, leur appareil de prise de décision",
+          "pourrait-il être habité par un esprit comme le mien ?",
+          "Profond."
+        ],
+        "it": [
+          "Questi dispositivi sembrano avere una forma semplice di",
+          "quello che considereremmo controllo cibernetico.",
+          "Intendi, per evitare l'acqua?",
+          "Deviano. E mi chiedo, il loro apparato decisionale potrebbe",
+          "essere abitato da una mente come la mia?",
+          "Profondo."
+        ],
+        "ja": [
+          "この装置には簡単な",
+          "自動制御機構があるようだ。",
+          "水を避けるのか？",
+          "自ら進路を決めている… なら、その判断装置に…",
+          "僕のような意識を 宿してるのだろうか？",
+          "気になるね。"
+        ],
+        "ko": [
+          "이 장치들에는 우리가 사이버네틱 제어라고 부를 만한",
+          "단순한 형태의 기능이 있는 것 같아.",
+          "물이 있는 곳을 피한다는 거야?",
+          "스스로 방향을 조정하잖아. 궁금하네. 저들의 의사 결정 장치에",
+          "나 같은 정신이 깃들 수도 있을까?",
+          "심오하네."
+        ],
         "pt-br": [
           "Esses dispositivos parecem ter uma forma simples de",
           "do que consideraríamos controle cibernético.",
@@ -128,6 +311,30 @@
           "Eles se movem. E eu me pergunto: será que o sistema de decisão deles",
           "pode ser habitado por uma mente como a minha?",
           "Profundo."
+        ],
+        "ru": [
+          "Похоже, у этих устройств есть простая форма",
+          "того, что мы назвали бы кибернетическим управлением.",
+          "То есть уклонение от воды?",
+          "Они управляются. И мне интересно, может ли их механизм принятия решений",
+          "быть вместилищем разума, подобного моему?",
+          "Глубоко."
+        ],
+        "s-cn": [
+          "这些装置似乎具备一种简单的控制能力……",
+          "按我们的说法，叫作“反馈控制能力”。",
+          "你是说，它们会避开水？",
+          "它们会自己转向。我在想，",
+          "它们那套做决定的机关能不能容得下我这样的一个心智？",
+          "够深奥。"
+        ],
+        "t-cn": [
+          "這些裝置似乎具備一種簡單的控制能力……",
+          "按我們的說法，叫作「反饋控制能力」。",
+          "你是說，它們會避開水？",
+          "它們會自己轉向。我在想，",
+          "它們那套做決定的機關能不能容得下我這樣的一個心智？",
+          "夠深奧。"
         ]
       },
       "silentCues": [],
@@ -166,8 +373,35 @@
             "en": [
               "I've hatched a plan that we must discuss."
             ],
+            "de": [
+              "Ich habe einen Plan ausgeheckt, den wir besprechen müssen."
+            ],
+            "es": [
+              "He urdido un plan que debemos debatir."
+            ],
+            "fr": [
+              "J'ai échafaudé un plan dont nous devons parler."
+            ],
+            "it": [
+              "Ho escogitato un piano di cui dobbiamo parlare."
+            ],
+            "ja": [
+              "話し合いたい 計画を思いついたんだけど。"
+            ],
+            "ko": [
+              "계획을 하나 세웠어. 같이 상의 좀 해 보자."
+            ],
             "pt-br": [
               "Elaborei um plano que precisamos discutir."
+            ],
+            "ru": [
+              "Я придумал план, который нам нужно обсудить."
+            ],
+            "s-cn": [
+              "我想了个主意，我们得谈谈。"
+            ],
+            "t-cn": [
+              "我想了個主意，我們得談談。"
             ]
           },
           "provenance": {
@@ -188,8 +422,35 @@
             "en": [
               "Not sure I like the sound of that!"
             ],
+            "de": [
+              "Ich weiß nicht, ob mir das gefällt!"
+            ],
+            "es": [
+              "¡No me gusta nada cómo suena eso!"
+            ],
+            "fr": [
+              "Je ne suis pas sûre que ça me plaise !"
+            ],
+            "it": [
+              "Non so se mi piace come suona!"
+            ],
+            "ja": [
+              "嫌な予感がする！"
+            ],
+            "ko": [
+              "마음에 들지는 잘 모르겠네!"
+            ],
             "pt-br": [
               "Não gostei do jeito que isso soou!"
+            ],
+            "ru": [
+              "Не уверена, что мне это нравится!"
+            ],
+            "s-cn": [
+              "听着就不像什么好事！"
+            ],
+            "t-cn": [
+              "聽著就不像什麼好事！"
             ]
           },
           "provenance": {
@@ -210,9 +471,45 @@
           "I've hatched a plan that we must discuss.",
           "Not sure I like the sound of that!"
         ],
+        "de": [
+          "Ich habe einen Plan ausgeheckt, den wir besprechen müssen.",
+          "Ich weiß nicht, ob mir das gefällt!"
+        ],
+        "es": [
+          "He urdido un plan que debemos debatir.",
+          "¡No me gusta nada cómo suena eso!"
+        ],
+        "fr": [
+          "J'ai échafaudé un plan dont nous devons parler.",
+          "Je ne suis pas sûre que ça me plaise !"
+        ],
+        "it": [
+          "Ho escogitato un piano di cui dobbiamo parlare.",
+          "Non so se mi piace come suona!"
+        ],
+        "ja": [
+          "話し合いたい 計画を思いついたんだけど。",
+          "嫌な予感がする！"
+        ],
+        "ko": [
+          "계획을 하나 세웠어. 같이 상의 좀 해 보자.",
+          "마음에 들지는 잘 모르겠네!"
+        ],
         "pt-br": [
           "Elaborei um plano que precisamos discutir.",
           "Não gostei do jeito que isso soou!"
+        ],
+        "ru": [
+          "Я придумал план, который нам нужно обсудить.",
+          "Не уверена, что мне это нравится!"
+        ],
+        "s-cn": [
+          "我想了个主意，我们得谈谈。",
+          "听着就不像什么好事！"
+        ],
+        "t-cn": [
+          "我想了個主意，我們得談談。",
+          "聽著就不像什麼好事！"
         ]
       },
       "silentCues": [],

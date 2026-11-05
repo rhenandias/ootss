@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "So your spirit friend, he is a boat, but he wasn't *transmuted* into a boat?"
             ],
+            "de": [
+              "Dein Freund, der Geist, ist also ein Boot, aber er ist nicht in ein Boot transmutiert worden?"
+            ],
+            "es": [
+              "Entonces tu amigo espíritu es un barco, ¿pero no lo transmutaron en un barco?"
+            ],
+            "fr": [
+              "Donc votre ami esprit, c'est un bateau, mais il n'a pas été transmuté en bateau ?"
+            ],
+            "it": [
+              "Quindi il tuo amico spirito è una barca, ma non è stato trasmutato in una barca?"
+            ],
+            "ja": [
+              "お前の幽霊の仲間は、 船に変えられたんじゃないのか？"
+            ],
+            "ko": [
+              "그럼 네 영혼 친구는 배지만... 배로 변한 건 아니었군?"
+            ],
             "pt-br": [
               "Então seu amigo espírito é um barco, mas não foi transmutado em um barco?"
+            ],
+            "ru": [
+              "Значит, твой друг-дух — лодка, но его не превратили в лодку?"
+            ],
+            "s-cn": [
+              "这么说，你那位灵体朋友本身是一艘船，而不是被转化成一艘船的？"
+            ],
+            "t-cn": [
+              "這麼說，你那位靈體朋友本身是一艘船， 而不是被轉化成一艘船的？"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "No, the boat was built with filaments threaded through the frame. He was bound into those filaments."
             ],
+            "de": [
+              "Nein. Man hat das Boot gebaut und feine Fäden durch des Rumpfgerüst gezogen. In diese Fäden hat man ihn gebunden."
+            ],
+            "es": [
+              "No, primero construyeron el barco, con filamentos entrelazados por el armazón. A él lo vincularon a esos filamentos."
+            ],
+            "fr": [
+              "Non, le bateau a été construit avec des filaments passés dans l'ossature. Il a été lié à ces filaments."
+            ],
+            "it": [
+              "No, la barca è stata costruita con dei filamenti inseriti nel telaio. Lui è stato vincolato a quei filamenti."
+            ],
+            "ja": [
+              "いや。船が造られて アイツはその中の 構造に組み込まれたんだ。"
+            ],
+            "ko": [
+              "아니, 배는 틀에 실을 꿰어 넣어 만들어졌고, 보라이두스는 그 실에 결속되어 있어."
+            ],
             "pt-br": [
               "Não, o barco foi construído com filamentos passando pela estrutura. Ele foi ligado a esses filamentos."
+            ],
+            "ru": [
+              "Нет, лодку построили, пропустив нити через каркас. Его заключили в эти нити."
+            ],
+            "s-cn": [
+              "不是。船是造出来的，骨架中穿有细丝。他就被缚在这些细丝之中。"
+            ],
+            "t-cn": [
+              "不是。船是造出來的，骨架中穿有細絲。 他就被縛在這些細絲之中。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Must be a very special kind of filament."
             ],
+            "de": [
+              "Das müssen ganz besondere Fäden sein."
+            ],
+            "es": [
+              "Debe de ser un tipo de filamento muy especial."
+            ],
+            "fr": [
+              "Ça doit être un type de filament très spécial."
+            ],
+            "it": [
+              "Dev'essere un tipo di filamento davvero speciale."
+            ],
+            "ja": [
+              "特別な構造なんだろうな。"
+            ],
+            "ko": [
+              "아주 특별한 실임에 틀림없군."
+            ],
             "pt-br": [
               "Deve ser um tipo muito especial de filamento."
+            ],
+            "ru": [
+              "Должно быть, это очень особые нити."
+            ],
+            "s-cn": [
+              "那一定是一种非常特别的细丝。"
+            ],
+            "t-cn": [
+              "那一定是一種非常特別的細絲。"
             ]
           },
           "provenance": {
@@ -89,8 +179,35 @@
             "en": [
               "Deepest secret."
             ],
+            "de": [
+              "Das ist ein streng gehütetes Geheimnis."
+            ],
+            "es": [
+              "El secreto más profundo."
+            ],
+            "fr": [
+              "C'est le plus grand des secrets."
+            ],
+            "it": [
+              "Segretissima."
+            ],
+            "ja": [
+              "極秘だよ。"
+            ],
+            "ko": [
+              "가장 깊은 비밀이지."
+            ],
             "pt-br": [
               "Segredo mais profundo."
+            ],
+            "ru": [
+              "Глубочайший секрет."
+            ],
+            "s-cn": [
+              "最高机密。"
+            ],
+            "t-cn": [
+              "最高機密。"
             ]
           },
           "provenance": {
@@ -113,11 +230,65 @@
           "Must be a very special kind of filament.",
           "Deepest secret."
         ],
+        "de": [
+          "Dein Freund, der Geist, ist also ein Boot, aber er ist nicht in ein Boot transmutiert worden?",
+          "Nein. Man hat das Boot gebaut und feine Fäden durch des Rumpfgerüst gezogen. In diese Fäden hat man ihn gebunden.",
+          "Das müssen ganz besondere Fäden sein.",
+          "Das ist ein streng gehütetes Geheimnis."
+        ],
+        "es": [
+          "Entonces tu amigo espíritu es un barco, ¿pero no lo transmutaron en un barco?",
+          "No, primero construyeron el barco, con filamentos entrelazados por el armazón. A él lo vincularon a esos filamentos.",
+          "Debe de ser un tipo de filamento muy especial.",
+          "El secreto más profundo."
+        ],
+        "fr": [
+          "Donc votre ami esprit, c'est un bateau, mais il n'a pas été transmuté en bateau ?",
+          "Non, le bateau a été construit avec des filaments passés dans l'ossature. Il a été lié à ces filaments.",
+          "Ça doit être un type de filament très spécial.",
+          "C'est le plus grand des secrets."
+        ],
+        "it": [
+          "Quindi il tuo amico spirito è una barca, ma non è stato trasmutato in una barca?",
+          "No, la barca è stata costruita con dei filamenti inseriti nel telaio. Lui è stato vincolato a quei filamenti.",
+          "Dev'essere un tipo di filamento davvero speciale.",
+          "Segretissima."
+        ],
+        "ja": [
+          "お前の幽霊の仲間は、 船に変えられたんじゃないのか？",
+          "いや。船が造られて アイツはその中の 構造に組み込まれたんだ。",
+          "特別な構造なんだろうな。",
+          "極秘だよ。"
+        ],
+        "ko": [
+          "그럼 네 영혼 친구는 배지만... 배로 변한 건 아니었군?",
+          "아니, 배는 틀에 실을 꿰어 넣어 만들어졌고, 보라이두스는 그 실에 결속되어 있어.",
+          "아주 특별한 실임에 틀림없군.",
+          "가장 깊은 비밀이지."
+        ],
         "pt-br": [
           "Então seu amigo espírito é um barco, mas não foi transmutado em um barco?",
           "Não, o barco foi construído com filamentos passando pela estrutura. Ele foi ligado a esses filamentos.",
           "Deve ser um tipo muito especial de filamento.",
           "Segredo mais profundo."
+        ],
+        "ru": [
+          "Значит, твой друг-дух — лодка, но его не превратили в лодку?",
+          "Нет, лодку построили, пропустив нити через каркас. Его заключили в эти нити.",
+          "Должно быть, это очень особые нити.",
+          "Глубочайший секрет."
+        ],
+        "s-cn": [
+          "这么说，你那位灵体朋友本身是一艘船，而不是被转化成一艘船的？",
+          "不是。船是造出来的，骨架中穿有细丝。他就被缚在这些细丝之中。",
+          "那一定是一种非常特别的细丝。",
+          "最高机密。"
+        ],
+        "t-cn": [
+          "這麼說，你那位靈體朋友本身是一艘船， 而不是被轉化成一艘船的？",
+          "不是。船是造出來的，骨架中穿有細絲。 他就被縛在這些細絲之中。",
+          "那一定是一種非常特別的細絲。",
+          "最高機密。"
         ]
       },
       "silentCues": [],

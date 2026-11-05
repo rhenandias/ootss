@@ -3,7 +3,16 @@
   "audioLog": "audiolog_s_tradition_of_our_people_part_2b",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -21,10 +30,55 @@
               "and would be automatically removed upon your exit.",
               "But today, I'll allow it. They're nice. They help the place feel lived-in."
             ],
+            "de": [
+              "Was deine eigenen Aufnahmen angeht ... normalerweise würden sie als Fremdkörper gelten,",
+              "und würden automatisch entfernt, sobald du gehst.",
+              "Aber heute gestatte ich es. Sie sind schön. So wirkt dieser Ort gleich viel belebter."
+            ],
+            "es": [
+              "Con respecto a tus propias grabaciones... normalmente se considerarían objetos ajenos",
+              "y se retirarían automáticamente al salir.",
+              "Pero hoy lo permitiré. Están bien. Hacen que el lugar parezca habitado."
+            ],
+            "fr": [
+              "Concernant vos propres enregistrements... normalement, ils seraient considérés comme des objets étrangers",
+              "et seraient automatiquement retirés à votre sortie.",
+              "Mais aujourd'hui, je vais laisser passer. C'est sympa. Ça donne l'impression que l'endroit est vraiment habité."
+            ],
+            "it": [
+              "Per quanto riguarda le tue registrazioni... di solito sarebbero considerate oggetti estranei",
+              "e verrebbero rimosse automaticamente alla tua uscita.",
+              "Ma oggi le permetterò. Sono carine. Danno al posto un'aria vissuta."
+            ],
+            "ja": [
+              "君の記録については、 本来なら次の訪問者を 入れる前に消すが、",
+              "訪問者の目標になるような 場所に置く。",
+              "今回は残しておく。 気に入った。 人の気配を感じられる。"
+            ],
+            "ko": [
+              "네가 남긴 녹음은... 평소라면 외부에서 들어온 이물질로 여겨져서",
+              "그리고 나가면 자동으로 제거되게 되어 있었어.",
+              "하지만 오늘은 허락할게. 괜찮네. 사람 사는 곳 같은 느낌이 들어."
+            ],
             "pt-br": [
               "Quanto às suas próprias gravações... normalmente elas seriam consideradas objetos estranhos",
               "e seriam removidas automaticamente quando você saísse.",
               "Mas hoje, vou permitir. São legais. Deixam o lugar com cara de que alguém vive ali."
+            ],
+            "ru": [
+              "Что касается твоих собственных записей... обычно их сочли бы чуждыми предметами",
+              "и автоматически удалялось бы при твоём выходе.",
+              "Но сегодня я это позволю. Это приятно. Создаёт ощущение, что здесь кто-то живёт."
+            ],
+            "s-cn": [
+              "至于你留下的录音…… 通常会被视为不属于这里的外来物，",
+              "而且会在你离开时被自动清除。",
+              "不过，今天我就破个例。 这些录音挺不错，让这里多了点人味儿。"
+            ],
+            "t-cn": [
+              "至於你留下的錄音…… 通常會被視為不屬於這裡的外來物，",
+              "而且會在你離開時被自動清除。",
+              "不過，今天我就破個例。 這些錄音挺不錯，讓這裡多了點人味兒。"
             ]
           },
           "provenance": {
@@ -48,10 +102,55 @@
           "and would be automatically removed upon your exit.",
           "But today, I'll allow it. They're nice. They help the place feel lived-in."
         ],
+        "de": [
+          "Was deine eigenen Aufnahmen angeht ... normalerweise würden sie als Fremdkörper gelten,",
+          "und würden automatisch entfernt, sobald du gehst.",
+          "Aber heute gestatte ich es. Sie sind schön. So wirkt dieser Ort gleich viel belebter."
+        ],
+        "es": [
+          "Con respecto a tus propias grabaciones... normalmente se considerarían objetos ajenos",
+          "y se retirarían automáticamente al salir.",
+          "Pero hoy lo permitiré. Están bien. Hacen que el lugar parezca habitado."
+        ],
+        "fr": [
+          "Concernant vos propres enregistrements... normalement, ils seraient considérés comme des objets étrangers",
+          "et seraient automatiquement retirés à votre sortie.",
+          "Mais aujourd'hui, je vais laisser passer. C'est sympa. Ça donne l'impression que l'endroit est vraiment habité."
+        ],
+        "it": [
+          "Per quanto riguarda le tue registrazioni... di solito sarebbero considerate oggetti estranei",
+          "e verrebbero rimosse automaticamente alla tua uscita.",
+          "Ma oggi le permetterò. Sono carine. Danno al posto un'aria vissuta."
+        ],
+        "ja": [
+          "君の記録については、 本来なら次の訪問者を 入れる前に消すが、",
+          "訪問者の目標になるような 場所に置く。",
+          "今回は残しておく。 気に入った。 人の気配を感じられる。"
+        ],
+        "ko": [
+          "네가 남긴 녹음은... 평소라면 외부에서 들어온 이물질로 여겨져서",
+          "그리고 나가면 자동으로 제거되게 되어 있었어.",
+          "하지만 오늘은 허락할게. 괜찮네. 사람 사는 곳 같은 느낌이 들어."
+        ],
         "pt-br": [
           "Quanto às suas próprias gravações... normalmente elas seriam consideradas objetos estranhos",
           "e seriam removidas automaticamente quando você saísse.",
           "Mas hoje, vou permitir. São legais. Deixam o lugar com cara de que alguém vive ali."
+        ],
+        "ru": [
+          "Что касается твоих собственных записей... обычно их сочли бы чуждыми предметами",
+          "и автоматически удалялось бы при твоём выходе.",
+          "Но сегодня я это позволю. Это приятно. Создаёт ощущение, что здесь кто-то живёт."
+        ],
+        "s-cn": [
+          "至于你留下的录音…… 通常会被视为不属于这里的外来物，",
+          "而且会在你离开时被自动清除。",
+          "不过，今天我就破个例。 这些录音挺不错，让这里多了点人味儿。"
+        ],
+        "t-cn": [
+          "至於你留下的錄音…… 通常會被視為不屬於這裡的外來物，",
+          "而且會在你離開時被自動清除。",
+          "不過，今天我就破個例。 這些錄音挺不錯，讓這裡多了點人味兒。"
         ]
       },
       "silentCues": [],

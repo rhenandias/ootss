@@ -3,7 +3,16 @@
   "audioLog": "end3_sokoban_writing_choice_1",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -24,6 +33,54 @@
               "It is also a somewhat more-personal substitute for my presence.",
               "Godspeed."
             ],
+            "de": [
+              "Dieses Abbild meiner selbst nennen sie ein „Hologramm“, obwohl man darunter in meiner Heimat ein Trugbild versteht, das nur aus Licht besteht.",
+              "Aber wie du spürst, ist dieses „Hologramm“ materiell. Sobald ich einen gewissen Rang erreicht habe, werde ich in die Wissenschaften eingeweiht, die das ermöglichen.",
+              "Hier reichen statische Schilder nicht mehr aus, um alles zu vermitteln, was wir dir mitteilen möchten.",
+              "Das Hologramm wird auf eine größere Auswahl an Antworten zurückgreifen, die vorab verfasst worden sind.",
+              "Außerdem ist es ein etwas persönlicherer Ersatz für meine Gegenwart.",
+              "Viel Erfolg!"
+            ],
+            "es": [
+              "A esta representación de mí la llaman «holograma», aunque de donde vengo, la palabra correspondiente denota más bien un espejismo hecho solo de luz.",
+              "Como puedes comprobar, este «holograma» es sólido. Cuando alcance cierto rango, empezarán a explicarme las ciencias que permiten hacer esto.",
+              "En esta zona, los carteles inertes ya no bastan para el nivel de comunicación que queremos ofrecer.",
+              "El holograma recurrirá a una variedad más amplia de respuestas escritas de antemano.",
+              "También es un sustituto algo más personal de mi presencia.",
+              "Buena suerte."
+            ],
+            "fr": [
+              "Cette représentation de moi, ils appellent cela un « hologramme », même si, d'où je viens, ce même mot désigne un mirage fait uniquement de lumière.",
+              "Comme vous pouvez le sentir, cet « hologramme » est solide. Lorsque j'aurai atteint un certain rang, on m'enseignera les sciences qui rendent cela possible.",
+              "Dans cette zone, les panneaux inertes ne permettent plus de communiquer aussi efficacement que nous le souhaitons.",
+              "L'hologramme s'appuiera sur une plus grande variété de réponses préécrites.",
+              "C'est aussi un substitut un peu plus personnel à ma présence.",
+              "Bon voyage."
+            ],
+            "it": [
+              "Di me, questa rappresentazione la chiamano \"ologramma\", sebbene da dove vengo, la parola corrispondente si riferisca a un miraggio fatto solo di luce.",
+              "Ma come puoi sentire, questo \"ologramma\" è solido. Una volta raggiunto un certo grado mi insegneranno le scienze che lo rendono possibile.",
+              "In quest'area, i cartelli inerti non bastano più per il livello di comunicazione che vogliamo offrire.",
+              "L'ologramma attingerà a una gamma più ampia di risposte pre-scritte.",
+              "È anche un sostituto un po' più personale della mia presenza.",
+              "Buon viaggio."
+            ],
+            "ja": [
+              "この姿を彼らは「ホログラム」と呼ぶ。 私の世界では、 光だけの幻を意味する言葉だ。",
+              "これには実体がある。 一定の階級になれば 私も作り方を学べるらしい。",
+              "この区域では、看板の決まった文面だけでは、 私たちの伝えたいことを 十分に伝えられなくなる。",
+              "ホログラムなら、あらかじめ用意した 多彩な返答を使い分けられる。",
+              "前の試練と同じく、 これからの課題では、 団長代理は君との接触を禁じたがっている。",
+              "ご武運を。"
+            ],
+            "ko": [
+              "지금 보시는 제 모습을 여기서는 '홀로그램'이라고 부르더군요. 하지만 제가 온 곳에서 이에 대응하는 말은 빛만으로 이루어진 신기루를 뜻하죠.",
+              "직접 느끼시겠지만, 이 '홀로그램'에는 실체가 있습니다. 제가 일정한 등급에 도달하면 이걸 가능하게 하는 과학을 배우게 되겠죠.",
+              "이 영역에서는 정적인 표지판만으로는 우리가 원하는 수준의 소통을 하기에 부족해.",
+              "홀로그램은 미리 작성된 답변을 더욱 다양하게 활용할 겁니다.",
+              "또한 제가 직접 함께하지 못하는 대신 좀 더 개인적인 방식으로 제 존재를 대신하기도 합니다.",
+              "행운을 빕니다."
+            ],
             "pt-br": [
               "Essa representação de mim eles chamam de “holograma”, embora, de onde venho, a palavra correspondente se refira a uma miragem feita só de luz.",
               "Mas, como você pode sentir, esse “holograma” é sólido. Quando eu alcançar uma certa patente vou aprender as ciências que tornam isso possível.",
@@ -31,6 +88,30 @@
               "O holograma recorrerá a uma variedade maior de respostas pré-escritas.",
               "Ele também é um substituto um pouco mais pessoal para a minha presença.",
               "Boa jornada."
+            ],
+            "ru": [
+              "Это моё изображение они называют «голограммой», хотя там, откуда я родом, соответствующее слово относится к миражу, состоящему только из света.",
+              "Как ты можешь почувствовать, эта «голограмма» осязаема. Когда я достигну определенного ранга, меня начнут обучать наукам, которые позволяют это делать.",
+              "В этой области неподвижных табличек уже недостаточно для того уровня общения, к которому мы стремимся.",
+              "Голограмма будет опираться на более широкий набор заранее заготовленных ответов.",
+              "Это также более личная замена моему присутствию.",
+              "Счастливого пути."
+            ],
+            "s-cn": [
+              "他们把眼前这个“我”称作“全息投影”； 可在我的家乡，与之对应的那个词指的是纯由光构成的幻象。",
+              "但你也能感觉到，这个“全息投影”是有实体的。 等我升到一定级别，就会有人给我传授这种技术背后的科学原理。",
+              "在这一带，静止的标牌已不足以 达到我们想要提供的沟通层次了。",
+              "全息投影会调用更多预先写好的回应。",
+              "这个全息投影多少也能代替我本人在场， 比冷冰冰的标牌更亲切。",
+              "祝你一路顺风。"
+            ],
+            "t-cn": [
+              "他們把眼前這個「我」稱作「全息投影」； 可在我的家鄉，與之對應的那個詞指的是純由光構成的幻象。",
+              "但你也能感覺到，這個「全息投影」是有實體的。 等我升到一定級別， 就會有人給我傳授這種技術背後的科學原理。",
+              "在這一帶，靜止的標牌已不足以 達到我們想要提供的溝通層次了。",
+              "全息投影會調用更多預先寫好的回應。",
+              "這個全息投影多少也能代替我本人在場， 比冷冰冰的標牌更親切。",
+              "祝你一路順風。"
             ]
           },
           "provenance": {
@@ -60,6 +141,54 @@
           "It is also a somewhat more-personal substitute for my presence.",
           "Godspeed."
         ],
+        "de": [
+          "Dieses Abbild meiner selbst nennen sie ein „Hologramm“, obwohl man darunter in meiner Heimat ein Trugbild versteht, das nur aus Licht besteht.",
+          "Aber wie du spürst, ist dieses „Hologramm“ materiell. Sobald ich einen gewissen Rang erreicht habe, werde ich in die Wissenschaften eingeweiht, die das ermöglichen.",
+          "Hier reichen statische Schilder nicht mehr aus, um alles zu vermitteln, was wir dir mitteilen möchten.",
+          "Das Hologramm wird auf eine größere Auswahl an Antworten zurückgreifen, die vorab verfasst worden sind.",
+          "Außerdem ist es ein etwas persönlicherer Ersatz für meine Gegenwart.",
+          "Viel Erfolg!"
+        ],
+        "es": [
+          "A esta representación de mí la llaman «holograma», aunque de donde vengo, la palabra correspondiente denota más bien un espejismo hecho solo de luz.",
+          "Como puedes comprobar, este «holograma» es sólido. Cuando alcance cierto rango, empezarán a explicarme las ciencias que permiten hacer esto.",
+          "En esta zona, los carteles inertes ya no bastan para el nivel de comunicación que queremos ofrecer.",
+          "El holograma recurrirá a una variedad más amplia de respuestas escritas de antemano.",
+          "También es un sustituto algo más personal de mi presencia.",
+          "Buena suerte."
+        ],
+        "fr": [
+          "Cette représentation de moi, ils appellent cela un « hologramme », même si, d'où je viens, ce même mot désigne un mirage fait uniquement de lumière.",
+          "Comme vous pouvez le sentir, cet « hologramme » est solide. Lorsque j'aurai atteint un certain rang, on m'enseignera les sciences qui rendent cela possible.",
+          "Dans cette zone, les panneaux inertes ne permettent plus de communiquer aussi efficacement que nous le souhaitons.",
+          "L'hologramme s'appuiera sur une plus grande variété de réponses préécrites.",
+          "C'est aussi un substitut un peu plus personnel à ma présence.",
+          "Bon voyage."
+        ],
+        "it": [
+          "Di me, questa rappresentazione la chiamano \"ologramma\", sebbene da dove vengo, la parola corrispondente si riferisca a un miraggio fatto solo di luce.",
+          "Ma come puoi sentire, questo \"ologramma\" è solido. Una volta raggiunto un certo grado mi insegneranno le scienze che lo rendono possibile.",
+          "In quest'area, i cartelli inerti non bastano più per il livello di comunicazione che vogliamo offrire.",
+          "L'ologramma attingerà a una gamma più ampia di risposte pre-scritte.",
+          "È anche un sostituto un po' più personale della mia presenza.",
+          "Buon viaggio."
+        ],
+        "ja": [
+          "この姿を彼らは「ホログラム」と呼ぶ。 私の世界では、 光だけの幻を意味する言葉だ。",
+          "これには実体がある。 一定の階級になれば 私も作り方を学べるらしい。",
+          "この区域では、看板の決まった文面だけでは、 私たちの伝えたいことを 十分に伝えられなくなる。",
+          "ホログラムなら、あらかじめ用意した 多彩な返答を使い分けられる。",
+          "前の試練と同じく、 これからの課題では、 団長代理は君との接触を禁じたがっている。",
+          "ご武運を。"
+        ],
+        "ko": [
+          "지금 보시는 제 모습을 여기서는 '홀로그램'이라고 부르더군요. 하지만 제가 온 곳에서 이에 대응하는 말은 빛만으로 이루어진 신기루를 뜻하죠.",
+          "직접 느끼시겠지만, 이 '홀로그램'에는 실체가 있습니다. 제가 일정한 등급에 도달하면 이걸 가능하게 하는 과학을 배우게 되겠죠.",
+          "이 영역에서는 정적인 표지판만으로는 우리가 원하는 수준의 소통을 하기에 부족해.",
+          "홀로그램은 미리 작성된 답변을 더욱 다양하게 활용할 겁니다.",
+          "또한 제가 직접 함께하지 못하는 대신 좀 더 개인적인 방식으로 제 존재를 대신하기도 합니다.",
+          "행운을 빕니다."
+        ],
         "pt-br": [
           "Essa representação de mim eles chamam de “holograma”, embora, de onde venho, a palavra correspondente se refira a uma miragem feita só de luz.",
           "Mas, como você pode sentir, esse “holograma” é sólido. Quando eu alcançar uma certa patente vou aprender as ciências que tornam isso possível.",
@@ -67,6 +196,30 @@
           "O holograma recorrerá a uma variedade maior de respostas pré-escritas.",
           "Ele também é um substituto um pouco mais pessoal para a minha presença.",
           "Boa jornada."
+        ],
+        "ru": [
+          "Это моё изображение они называют «голограммой», хотя там, откуда я родом, соответствующее слово относится к миражу, состоящему только из света.",
+          "Как ты можешь почувствовать, эта «голограмма» осязаема. Когда я достигну определенного ранга, меня начнут обучать наукам, которые позволяют это делать.",
+          "В этой области неподвижных табличек уже недостаточно для того уровня общения, к которому мы стремимся.",
+          "Голограмма будет опираться на более широкий набор заранее заготовленных ответов.",
+          "Это также более личная замена моему присутствию.",
+          "Счастливого пути."
+        ],
+        "s-cn": [
+          "他们把眼前这个“我”称作“全息投影”； 可在我的家乡，与之对应的那个词指的是纯由光构成的幻象。",
+          "但你也能感觉到，这个“全息投影”是有实体的。 等我升到一定级别，就会有人给我传授这种技术背后的科学原理。",
+          "在这一带，静止的标牌已不足以 达到我们想要提供的沟通层次了。",
+          "全息投影会调用更多预先写好的回应。",
+          "这个全息投影多少也能代替我本人在场， 比冷冰冰的标牌更亲切。",
+          "祝你一路顺风。"
+        ],
+        "t-cn": [
+          "他們把眼前這個「我」稱作「全息投影」； 可在我的家鄉，與之對應的那個詞指的是純由光構成的幻象。",
+          "但你也能感覺到，這個「全息投影」是有實體的。 等我升到一定級別， 就會有人給我傳授這種技術背後的科學原理。",
+          "在這一帶，靜止的標牌已不足以 達到我們想要提供的溝通層次了。",
+          "全息投影會調用更多預先寫好的回應。",
+          "這個全息投影多少也能代替我本人在場， 比冷冰冰的標牌更親切。",
+          "祝你一路順風。"
         ]
       },
       "silentCues": [],

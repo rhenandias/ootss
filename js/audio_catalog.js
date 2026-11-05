@@ -4,6 +4,20 @@ const LevelAudio = (() => {
   let language = 'en';
   let active = null;
   const cache = new Map();
+  const languageLabels = {
+    en: '🇺🇸 English',
+    'pt-br': '🇧🇷 Português (Brasil)',
+    de: '🇩🇪 Deutsch',
+    es: '🇪🇸 Español',
+    fr: '🇫🇷 Français',
+    it: '🇮🇹 Italiano',
+    ja: '🇯🇵 日本語',
+    ko: '🇰🇷 한국어',
+    ru: '🇷🇺 Русский',
+    's-cn': '简体中文',
+    't-cn': '繁體中文'
+  };
+  const languageTags = { 's-cn': 'zh-Hans', 't-cn': 'zh-Hant' };
 
   function setCatalog(value) { catalog = value; }
   function hasLevel(name) { return Boolean(catalog.levels[name]); }
@@ -56,11 +70,13 @@ const LevelAudio = (() => {
     label.append(element('span', 'sr-only', 'Transcript language'));
     const select = element('select');
     select.setAttribute('aria-label', 'Transcript language');
-    for (const [value, text] of [['en', '🇺🇸 English'], ['pt-br', '🇧🇷 Português']]) {
-      const option = element('option', '', text);
+    const languages = catalog.languages?.length ? catalog.languages : ['en', 'pt-br'];
+    for (const value of languages) {
+      const option = element('option', '', languageLabels[value] || value);
       option.value = value;
       select.append(option);
     }
+    if (!languages.includes(language)) language = languages.includes('en') ? 'en' : languages[0];
     select.value = language;
     label.append(select);
     const controls = element('div', 'level-audio-controls');
@@ -92,7 +108,7 @@ const LevelAudio = (() => {
       transcriptBody.replaceChildren();
       if (!state.clip) return;
       transcriptTitle.textContent = state.clip.speakerName;
-      transcriptBody.lang = language;
+      transcriptBody.lang = languageTags[language] || language;
       let chunks = state.clip.transcripts[language];
       if (!chunks?.length && state.clip.conversationTranscripts?.[language]?.length) {
         chunks = state.clip.conversationTranscripts[language];

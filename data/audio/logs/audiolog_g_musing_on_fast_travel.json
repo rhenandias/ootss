@@ -3,7 +3,16 @@
   "audioLog": "audiolog_g_musing_on_fast_travel",
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -27,6 +36,72 @@
               "or do they function due to some enabling property in the basic nature of this place, absent in ours?",
               "Speaking of which..."
             ],
+            "de": [
+              "Quigley, diese Art der Fortbewegung ist ... charmant. Ich habe nichts dagegen.",
+              "Natürlich hat mir die binäre Unterteilung schon immer gefallen,",
+              "die wir beim Nationaltransport verwenden (so verwirrend sie für Neuankömmlinge auch sein mag);",
+              "doch die Schwäche unseres Systems liegt darin, dass es aus einer Abfolge von Sprüngen besteht, die einen linearen Weg bilden, wie eine Straße.",
+              "Natürlich legen wir ein Straßennetz an. Doch die grundlegende Einschränkung bleibt bestehen: die Beschränkung auf eine Dimension.",
+              "Hier hingegen kann man sich frei in zwei Dimensionen bewegen.",
+              "Also. Wie funktionieren diese Transportplattformen? Könnten wir sie auch in unserer Welt bauen,",
+              "oder funktionieren sie dank einer besonderen Eigenschaft, die diesem Ort von Grund auf eigen ist, unserer Welt jedoch fehlt?",
+              "Apropos ..."
+            ],
+            "es": [
+              "Quigley, esta forma de moverse es... adorable. No me molesta.",
+              "Por supuesto, siempre he disfrutado mucho la partición binaria",
+              "que usamos para el Transporte Nacional (por confuso que pueda resultar para los recién llegados);",
+              "pero la debilidad de nuestro sistema es que se manifiesta como una secuencia de saltos, que crean un camino lineal, como una carretera.",
+              "Obviamente, se puede tejer una red de carreteras, como hacemos nosotros. Pero la limitación de fondo a una sola dimensión sigue ahí.",
+              "Aquí, el viaje es libre en dos dimensiones.",
+              "Así pues, ¿cómo funcionan estas plataformas de transporte? ¿Podríamos construirlas también en nuestro mundo,",
+              "o funcionan gracias a alguna propiedad facilitante en la naturaleza básica de este lugar que no exista en el nuestro?",
+              "Hablando del tema..."
+            ],
+            "fr": [
+              "Quigley, cette façon de se déplacer est... charmante. Elle me plait bien.",
+              "Bien sûr, j'ai toujours aimé la partition binaire",
+              "que nous utilisons pour le transport national (même si cela peut prêter à confusion pour les nouveaux venus) ;",
+              "mais la faiblesse de notre système, c'est que ses déplacements se font par une succession de sauts, qui créent un chemin linéaire, comme une route.",
+              "Bien sûr, on peut faire un réseau de routes. Mais la limite fondamentale à une seule dimension reste là.",
+              "Ici, le voyage est libre sur deux dimensions.",
+              "Donc. Comment fonctionnent ces plateformes de transport ? Pourrions-nous en construire dans notre monde aussi,",
+              "ou bien fonctionnent-elles grâce à une propriété facilitatrice dans la nature même de cet endroit, absente chez nous ?",
+              "À ce propos..."
+            ],
+            "it": [
+              "Quigley, questo modo di spostarsi è... carino. Non mi dispiace.",
+              "Naturalmente ho sempre apprezzato lo schema di suddivisione binaria",
+              "che usiamo per il Trasporto nazionale (per quanto possa confondere i nuovi arrivati);",
+              "ma il limite del nostro schema è che si manifesta come una sequenza di salti, che creano un percorso lineare, come una strada.",
+              "Certo, creiamo una rete di strade. Ma il limite di fondo a una sola dimensione resta.",
+              "Qui, il viaggio è libero in due dimensioni.",
+              "Dunque. Come funzionano queste piattaforme di trasporto? Potremmo costruirle anche nel nostro mondo,",
+              "o funzionano grazie a qualche proprietà abilitante nella natura stessa di questo luogo, assente nel nostro?",
+              "A proposito..."
+            ],
+            "ja": [
+              "クイグリー、面白い移動手段を見つけた。 これも悪くない。",
+              "もちろん私は 国内輸送で使われる",
+              "二分方式を気に入っている。 （慣れない者には分かりにくいが）",
+              "だが我々の方法では 直線上にしか移動できない。",
+              "もちろん、道は網の目のように張り巡らせる。 だが、1次元に縛られるという 根本的な制限は残る。",
+              "ここの移動方法は、 二次元的で自由だ。",
+              "この足場はどういう仕組みになっている？ 我々の世界でも仕えるのか？",
+              "それともこの世界には、 我々の世界にはない 何かがあるのか？",
+              "そういえば…"
+            ],
+            "ko": [
+              "퀴글리, 이런 이동 방식은 ... 귀엽군. 싫진 않아.",
+              "물론 난 예전부터 이 이진 분할 방식을 좋아했어.",
+              "국가 운송에 쓰는 그 방식 말이야(처음 온 사람들에겐 헷갈릴 순 있겠지).",
+              "하지만 우리 방식의 약점은 연속적인 도약으로 이루어져 도로처럼 하나의 선을 이룬다는 거야.",
+              "물론 우리는 도로망을 만들지. 하지만 일차원에 한정된다는 근본적인 한계는 여전해.",
+              "이곳에서는 두 차원을 가로질러 자유롭게 이동할 수 있어.",
+              "그렇다면 이 운송 플랫폼은 대체 어떻게 작동하는 거지? 우리 세계에서도 이렇게 할 수 있을까?",
+              "아니면 이곳의 본질에는 이걸 가능하게 하면서, 우리 쪽에는 없는 그런 특성이 있는 걸까?",
+              "그러고 보니..."
+            ],
             "pt-br": [
               "Quigley, esse jeito de se mover é... fofo. Não me importo.",
               "Claro que sempre gostei do esquema binário de partição",
@@ -37,6 +112,39 @@
               "Então. Como funcionam essas plataformas de transporte? Será que poderíamos fazer isso no nosso mundo também,",
               "ou elas funcionam devido a alguma propriedade habilitadora na própria natureza básica deste lugar, que não existe no nosso?",
               "Falando nisso..."
+            ],
+            "ru": [
+              "Квигли, этот способ передвижения... милый. Мне он нравится.",
+              "Разумеется, мне всегда нравилась схема двоичного разделения,",
+              "которую мы используем для Национального транспорта (хотя новичкам она и кажется запутанной);",
+              "но слабость нашей схемы в том, что она представляет собой последовательность скачков, которые образуют линейный путь, как дорога.",
+              "Конечно, мы создаём сеть дорог. Но основное ограничение одним измерением всё равно остаётся.",
+              "Здесь же перемещение идет в двух измерениях.",
+              "Итак. Как работают эти транспортные платформы? Можем ли мы сделать такое и в нашем мире,",
+              "или они работают благодаря какому-то свойству самой природы этого места, которого нет у нас?",
+              "Кстати об этом..."
+            ],
+            "s-cn": [
+              "奎格利，这种移动方式……还挺迷人的。我并不讨厌。",
+              "当然，我一直很喜欢那种层层二分的区划方式，",
+              "全国交通系统采用的正是这一套（尽管新人往往很难弄懂）；",
+              "但我们这套方案的缺点在于： 它是一连串的跳跃，连起来只是一条线，就像一条路。",
+              "当然，我们也会把道路织成一张网。 但局限于单一维度的限制依然存在。",
+              "而在这里，可以在两个维度上自由移动。",
+              "那么，这些传送平台是如何运作的？ 我们也能在自己的世界里造出这种东西吗，",
+              "还是说，这里的空间本身具有某种特性， 才能实现这种传送，而我们的世界没有？",
+              "说到这个……"
+            ],
+            "t-cn": [
+              "奎格利，這種移動方式……還挺迷人的。我並不討厭。",
+              "當然，我一直很喜歡那種層層二分的區劃方式，",
+              "全國交通系統採用的正是這一套（儘管新人往往很難弄懂）；",
+              "但我們這套方案的缺點在於： 它是一連串的跳躍，連起來只是一條線，就像一條路。",
+              "當然，我們也會把道路織成一張網。 但局限於單一維度的限制依然存在。",
+              "而在這裡，可以在兩個維度上自由移動。",
+              "那麼，這些傳送平臺是如何運作的？ 我們也能在自己的世界裡造出這種東西嗎，",
+              "還是說，這裡的空間本身具有某種特性， 才能實現這種傳送，而我們的世界沒有？",
+              "說到這個……"
             ]
           },
           "provenance": {
@@ -72,6 +180,72 @@
           "or do they function due to some enabling property in the basic nature of this place, absent in ours?",
           "Speaking of which..."
         ],
+        "de": [
+          "Quigley, diese Art der Fortbewegung ist ... charmant. Ich habe nichts dagegen.",
+          "Natürlich hat mir die binäre Unterteilung schon immer gefallen,",
+          "die wir beim Nationaltransport verwenden (so verwirrend sie für Neuankömmlinge auch sein mag);",
+          "doch die Schwäche unseres Systems liegt darin, dass es aus einer Abfolge von Sprüngen besteht, die einen linearen Weg bilden, wie eine Straße.",
+          "Natürlich legen wir ein Straßennetz an. Doch die grundlegende Einschränkung bleibt bestehen: die Beschränkung auf eine Dimension.",
+          "Hier hingegen kann man sich frei in zwei Dimensionen bewegen.",
+          "Also. Wie funktionieren diese Transportplattformen? Könnten wir sie auch in unserer Welt bauen,",
+          "oder funktionieren sie dank einer besonderen Eigenschaft, die diesem Ort von Grund auf eigen ist, unserer Welt jedoch fehlt?",
+          "Apropos ..."
+        ],
+        "es": [
+          "Quigley, esta forma de moverse es... adorable. No me molesta.",
+          "Por supuesto, siempre he disfrutado mucho la partición binaria",
+          "que usamos para el Transporte Nacional (por confuso que pueda resultar para los recién llegados);",
+          "pero la debilidad de nuestro sistema es que se manifiesta como una secuencia de saltos, que crean un camino lineal, como una carretera.",
+          "Obviamente, se puede tejer una red de carreteras, como hacemos nosotros. Pero la limitación de fondo a una sola dimensión sigue ahí.",
+          "Aquí, el viaje es libre en dos dimensiones.",
+          "Así pues, ¿cómo funcionan estas plataformas de transporte? ¿Podríamos construirlas también en nuestro mundo,",
+          "o funcionan gracias a alguna propiedad facilitante en la naturaleza básica de este lugar que no exista en el nuestro?",
+          "Hablando del tema..."
+        ],
+        "fr": [
+          "Quigley, cette façon de se déplacer est... charmante. Elle me plait bien.",
+          "Bien sûr, j'ai toujours aimé la partition binaire",
+          "que nous utilisons pour le transport national (même si cela peut prêter à confusion pour les nouveaux venus) ;",
+          "mais la faiblesse de notre système, c'est que ses déplacements se font par une succession de sauts, qui créent un chemin linéaire, comme une route.",
+          "Bien sûr, on peut faire un réseau de routes. Mais la limite fondamentale à une seule dimension reste là.",
+          "Ici, le voyage est libre sur deux dimensions.",
+          "Donc. Comment fonctionnent ces plateformes de transport ? Pourrions-nous en construire dans notre monde aussi,",
+          "ou bien fonctionnent-elles grâce à une propriété facilitatrice dans la nature même de cet endroit, absente chez nous ?",
+          "À ce propos..."
+        ],
+        "it": [
+          "Quigley, questo modo di spostarsi è... carino. Non mi dispiace.",
+          "Naturalmente ho sempre apprezzato lo schema di suddivisione binaria",
+          "che usiamo per il Trasporto nazionale (per quanto possa confondere i nuovi arrivati);",
+          "ma il limite del nostro schema è che si manifesta come una sequenza di salti, che creano un percorso lineare, come una strada.",
+          "Certo, creiamo una rete di strade. Ma il limite di fondo a una sola dimensione resta.",
+          "Qui, il viaggio è libero in due dimensioni.",
+          "Dunque. Come funzionano queste piattaforme di trasporto? Potremmo costruirle anche nel nostro mondo,",
+          "o funzionano grazie a qualche proprietà abilitante nella natura stessa di questo luogo, assente nel nostro?",
+          "A proposito..."
+        ],
+        "ja": [
+          "クイグリー、面白い移動手段を見つけた。 これも悪くない。",
+          "もちろん私は 国内輸送で使われる",
+          "二分方式を気に入っている。 （慣れない者には分かりにくいが）",
+          "だが我々の方法では 直線上にしか移動できない。",
+          "もちろん、道は網の目のように張り巡らせる。 だが、1次元に縛られるという 根本的な制限は残る。",
+          "ここの移動方法は、 二次元的で自由だ。",
+          "この足場はどういう仕組みになっている？ 我々の世界でも仕えるのか？",
+          "それともこの世界には、 我々の世界にはない 何かがあるのか？",
+          "そういえば…"
+        ],
+        "ko": [
+          "퀴글리, 이런 이동 방식은 ... 귀엽군. 싫진 않아.",
+          "물론 난 예전부터 이 이진 분할 방식을 좋아했어.",
+          "국가 운송에 쓰는 그 방식 말이야(처음 온 사람들에겐 헷갈릴 순 있겠지).",
+          "하지만 우리 방식의 약점은 연속적인 도약으로 이루어져 도로처럼 하나의 선을 이룬다는 거야.",
+          "물론 우리는 도로망을 만들지. 하지만 일차원에 한정된다는 근본적인 한계는 여전해.",
+          "이곳에서는 두 차원을 가로질러 자유롭게 이동할 수 있어.",
+          "그렇다면 이 운송 플랫폼은 대체 어떻게 작동하는 거지? 우리 세계에서도 이렇게 할 수 있을까?",
+          "아니면 이곳의 본질에는 이걸 가능하게 하면서, 우리 쪽에는 없는 그런 특성이 있는 걸까?",
+          "그러고 보니..."
+        ],
         "pt-br": [
           "Quigley, esse jeito de se mover é... fofo. Não me importo.",
           "Claro que sempre gostei do esquema binário de partição",
@@ -82,6 +256,39 @@
           "Então. Como funcionam essas plataformas de transporte? Será que poderíamos fazer isso no nosso mundo também,",
           "ou elas funcionam devido a alguma propriedade habilitadora na própria natureza básica deste lugar, que não existe no nosso?",
           "Falando nisso..."
+        ],
+        "ru": [
+          "Квигли, этот способ передвижения... милый. Мне он нравится.",
+          "Разумеется, мне всегда нравилась схема двоичного разделения,",
+          "которую мы используем для Национального транспорта (хотя новичкам она и кажется запутанной);",
+          "но слабость нашей схемы в том, что она представляет собой последовательность скачков, которые образуют линейный путь, как дорога.",
+          "Конечно, мы создаём сеть дорог. Но основное ограничение одним измерением всё равно остаётся.",
+          "Здесь же перемещение идет в двух измерениях.",
+          "Итак. Как работают эти транспортные платформы? Можем ли мы сделать такое и в нашем мире,",
+          "или они работают благодаря какому-то свойству самой природы этого места, которого нет у нас?",
+          "Кстати об этом..."
+        ],
+        "s-cn": [
+          "奎格利，这种移动方式……还挺迷人的。我并不讨厌。",
+          "当然，我一直很喜欢那种层层二分的区划方式，",
+          "全国交通系统采用的正是这一套（尽管新人往往很难弄懂）；",
+          "但我们这套方案的缺点在于： 它是一连串的跳跃，连起来只是一条线，就像一条路。",
+          "当然，我们也会把道路织成一张网。 但局限于单一维度的限制依然存在。",
+          "而在这里，可以在两个维度上自由移动。",
+          "那么，这些传送平台是如何运作的？ 我们也能在自己的世界里造出这种东西吗，",
+          "还是说，这里的空间本身具有某种特性， 才能实现这种传送，而我们的世界没有？",
+          "说到这个……"
+        ],
+        "t-cn": [
+          "奎格利，這種移動方式……還挺迷人的。我並不討厭。",
+          "當然，我一直很喜歡那種層層二分的區劃方式，",
+          "全國交通系統採用的正是這一套（儘管新人往往很難弄懂）；",
+          "但我們這套方案的缺點在於： 它是一連串的跳躍，連起來只是一條線，就像一條路。",
+          "當然，我們也會把道路織成一張網。 但局限於單一維度的限制依然存在。",
+          "而在這裡，可以在兩個維度上自由移動。",
+          "那麼，這些傳送平臺是如何運作的？ 我們也能在自己的世界裡造出這種東西嗎，",
+          "還是說，這裡的空間本身具有某種特性， 才能實現這種傳送，而我們的世界沒有？",
+          "說到這個……"
         ]
       },
       "silentCues": [],

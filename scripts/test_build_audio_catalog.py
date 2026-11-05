@@ -8,7 +8,8 @@ import wave
 
 from export_audio_catalog import parse_subtitles, write_json
 from build_audio_catalog import (references_for_entity, expand_story_namespaces,
-    resolve_block, world_features, world_triggers, placement_audit, publish, digest, encode_clip, MEDIA_PROFILE)
+    resolve_block, world_features, world_triggers, placement_audit, publish, digest, encode_clip, MEDIA_PROFILE,
+    load_subtitles)
 
 
 def entity(kind, fields, identity=1):
@@ -21,6 +22,26 @@ def wav_file(path):
         wav.setsampwidth(2)
         wav.setframerate(8000)
         wav.writeframes(b'\0\0' * 8000)
+
+
+class SubtitleDiscoveryTests(unittest.TestCase):
+    def test_discovers_original_and_extracted_languages_with_unicode(self):
+        for suffix in ('.subtitles', '.subtitles.txt'):
+            with self.subTest(suffix=suffix), tempfile.TemporaryDirectory() as folder:
+                root = Path(folder)
+                for language, text in {'en': 'Hello', 'ja': 'こんにちは', 's-cn': '你好'}.items():
+                    (root / (language + suffix)).write_text(
+                        f'\ufeff:: scene\n= warrior +0 1\n{text}\n', encoding='utf-8')
+                (root / 'unrelated.txt').write_text('ignore', encoding='utf-8')
+                subtitles, hashes = load_subtitles(root)
+                self.assertEqual(list(subtitles), ['en', 'ja', 's-cn'])
+                self.assertEqual(subtitles['ja']['scene']['cues'][0]['textLines'], ['こんにちは'])
+                self.assertEqual(set(hashes), set(subtitles))
+
+    def test_requires_english_for_clip_identities(self):
+        with tempfile.TemporaryDirectory() as folder:
+            with self.assertRaisesRegex(ValueError, 'English subtitles are required'):
+                load_subtitles(Path(folder))
 
 
 class AssociationTests(unittest.TestCase):

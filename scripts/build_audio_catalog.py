@@ -378,13 +378,25 @@ def publish(stage, output_root, generated, previous, previous_catalog):
         (output_root / relative).unlink(missing_ok=True)
 
 
-def build(extracted_root, package, output_root, markers, ffmpeg, schema=None, workers=4, inspect_only=False):
-    initialize_schema(package, schema)
+def load_subtitles(directory):
+    """Discover all languages from either original subtitles or extracted TXT files."""
+    paths = sorted(directory.glob('*.subtitles')) or sorted(directory.glob('*.subtitles.txt'))
+    sources = {path.name.split('.subtitles')[0]: path for path in paths}
+    if 'en' not in sources:
+        raise ValueError(f'English subtitles are required in {directory}')
     subtitles, subtitle_hashes = {}, {}
-    for language in ('en', 'pt-br'):
-        path = extracted_root / f'legendas/data/strings/subtitles/{language}.subtitles.txt'
+    for language in ['en', *sorted(set(sources) - {'en'})]:
+        path = sources[language]
         subtitles[language] = parse_subtitles(path.read_text(encoding='utf-8-sig'))
         subtitle_hashes[language] = digest(path)
+    return subtitles, subtitle_hashes
+
+
+def build(extracted_root, package, output_root, markers, ffmpeg, schema=None, workers=4, inspect_only=False,
+          subtitles_dir=None):
+    initialize_schema(package, schema)
+    subtitles, subtitle_hashes = load_subtitles(
+        subtitles_dir if subtitles_dir is not None else extracted_root / 'legendas/data/strings/subtitles')
     english = subtitles['en']
     audio_root = extracted_root / 'audio/data/sound/GeneratedSoundBanks/Windows/ExternalSources/English'
     scanned, world, decode_issues, missing_references = scan_package(package, english)
@@ -516,6 +528,7 @@ if __name__ == '__main__':
     parser.add_argument('--extracted-root', type=Path, required=True)
     parser.add_argument('--package', type=Path, required=True)
     parser.add_argument('--schema', type=Path)
+    parser.add_argument('--subtitles-dir', type=Path, help='Original game subtitles directory or extracted subtitle TXT directory; discovers all languages')
     parser.add_argument('--markers', type=Path, default=ROOT / 'data/markers.json')
     parser.add_argument('--output-root', type=Path, default=ROOT)
     parser.add_argument('--ffmpeg', type=Path, default=shutil.which('ffmpeg'))
@@ -527,4 +540,4 @@ if __name__ == '__main__':
     if not 1 <= args.workers <= 16:
         parser.error('--workers must be between 1 and 16')
     build(args.extracted_root, args.package, args.output_root, args.markers,
-          args.ffmpeg, args.schema, args.workers, args.inspect_only)
+          args.ffmpeg, args.schema, args.workers, args.inspect_only, args.subtitles_dir)

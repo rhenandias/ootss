@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -32,6 +41,78 @@
               "The early rays of dawn drifted through the window;",
               "I'd had two drinks too many. I thanked him and took leave."
             ],
+            "de": [
+              "Der Fremde hat gesagt, selbst wenn es äußerst schwierig sei, das Ganze zu bewerkstelligen, und gewaltige Ausgaben erfordere,",
+              "solle ich dennoch auf die Spiegelinseln zurückkehren und meine Seele heilen.",
+              "Dass es nötig sei, um diese Welt als ganzer Mensch mit Selbstachtung zu verlassen.",
+              "Ich habe ihm gesagt, das sei aussichtslos. Ich hatte hier noch zu viel zu regeln. Alles sollte in Ordnung sein, bevor ich nicht mehr bin.",
+              "Bei meinen Geschäftspartnern sei doch alles soweit in Ordnung, hat er gesagt. Und ohnehin hätten sie alle noch reichlich Zeit.",
+              "Er hat gesagt, ich hätte nur noch wenige Tage, um meine Seele zu heilen.",
+              "Der Alkohol hat mein Blut erwärmt. In meinem Kopf hat ein Plan Gestalt angenommen.",
+              "Ich habe ihm gesagt, es wäre ziemlich umständlich und mit erheblichen Kosten verbunden, aber ... machbar.",
+              "Die ersten Strahlen der Morgensonne sind durchs Fenster gefallen;",
+              "Ich hatte zwei Gläser zu viel intus. Ich habe ihm gedankt und mich verabschiedet."
+            ],
+            "es": [
+              "Dijo que, aunque fuera muy difícil de concretar y requiriera un gasto generoso,",
+              "Yo debería regresar a las Islas de los Espejos y sanar mi alma.",
+              "Que era necesario si quería dejar este mundo como un hombre pleno y en paz consigo mismo.",
+              "Le dije que la idea era inviable. Tenía demasiados asuntos aquí que atender para asegurarme de dejarlo todo en orden antes de irme.",
+              "Dijo que mis socios ya parecían tenerlo todo bastante en orden y que, de todos modos, a ellos les quedaba mucho más tiempo.",
+              "Dijo que era a mí a quien le quedaban pocos días para reparar mi alma.",
+              "El alcohol me caldeó la sangre. Un plan fue tomando forma en mi mente.",
+              "Le dije que sería bastante incómodo y supondría un gasto considerable, pero... era factible.",
+              "Los primeros rayos del amanecer se colaban por la ventana;",
+              "me había tomado dos copas de más. Le di las gracias y me despedí."
+            ],
+            "fr": [
+              "Il disait que même si cela devait s'avérer très difficile et demander de grosses dépenses,",
+              "je devais tout de même retourner aux Îles Miroirs et guérir mon âme.",
+              "Que c'était nécessaire pour quitter ce monde en homme accompli, digne de sa propre estime.",
+              "Je lui ai dit que c'était peine perdue. J'avais trop de choses à gérer ici, pour m'assurer de tout laisser en ordre avant mon départ.",
+              "Il a dit que les affaires de mes associés semblaient déjà bien se porter, et qu'ils avaient de toute façon bien plus de temps devant eux.",
+              "Il a dit que c'était moi qui n'avais plus que quelques jours pour réparer mon âme.",
+              "Les libations me réchauffaient le sang. Un plan prenait forme dans mon esprit.",
+              "Je lui ai dit que ce serait difficile, et coûteux, mais... faisable.",
+              "Les premières lueurs de l'aube filtraient par la fenêtre ;",
+              "j'avais bu deux verres de trop. Je l'ai remercié et je suis parti."
+            ],
+            "it": [
+              "Disse che anche se sarebbe stato molto difficile da realizzare e avrebbe richiesto una spesa notevole,",
+              "Dovevo comunque tornare alle Isole specchio e guarire la mia anima.",
+              "Che era necessario se volevo lasciare questo mondo da uomo completo e in pace con sé stesso.",
+              "Gli dissi che era un'idea senza speranza. Avevo troppe cose da gestire qui, per assicurarmi di lasciare tutto in ordine prima della mia fine.",
+              "Disse che i miei soci sembravano già cavarsela abbastanza bene, e comunque, avevano tutti molto più tempo a disposizione.",
+              "Disse che ero io ad avere pochi giorni a disposizione per risanare la mia anima.",
+              "Le libagioni mi scaldarono il sangue. Nella mia mente prese forma un piano.",
+              "Gli dissi che sarebbe stato piuttosto scomodo e molto dispendioso, ma... fattibile.",
+              "I primi raggi dell'alba brillavano attraverso la finestra;",
+              "Avevo bevuto due bicchieri di troppo. Lo ringraziai e me ne andai."
+            ],
+            "ja": [
+              "たとえ実現が極めて困難で 相当な金がかかるとしても、",
+              "鏡の島へ戻り この問題に決着をつけるべきだ、と。",
+              "私の根幹と 自尊心のためにも、と言った。",
+              "無理な話だと伝えたよ。 私が死ぬ前にすべてをきちんと整えるには、 ここで片づけることが多すぎた。",
+              "仲間たちのほうは、もう十分 うまくやっているようだと、彼は言った。 それに、彼らにはまだ たっぷり時間が残されているとね。",
+              "少しくらい出費しないと これまで働いた意味がない。",
+              "酒が体に回るにつれ、 一つの計画が浮かんできた。",
+              "かなり大変だし 相当な出費になるが… できなくはないと言った。",
+              "夜明けの光が 窓から差し込み",
+              "私は二杯ほど飲みすぎていた。 礼を言って店を出た。"
+            ],
+            "ko": [
+              "그러면서 그것을 실현시키는 일이 아주 어렵고 막대한 비용이 들더라도,",
+              "내가 반드시 거울의 섬으로 돌아가 내 영혼을 치유해야 한다고 했어.",
+              "온전하고 스스로 당당한 사람으로 이 세상을 떠나려면 꼭 그래야 한다고 했지.",
+              "난 가망없는 생각이라고 말했어. 떠나기 전에 모든 걸 제대로 정리하려면, 여기서 처리할 일이 너무 많다고.",
+              "그는 내 동료들이 이미 잘 꾸려 가는 것 같다고, 어쨌든 그들에겐 시간이 훨씬 더 많다고 했어.",
+              "영혼을 치유할 날이 얼마 남지 않은 건 바로 나라고 했지.",
+              "술기운에 피가 뜨거워졌어. 머릿속에서 계획이 떠올랐지.",
+              "나는 꽤 번거롭고, 큰돈도 들겠지만... 할 수는 있다고 했지.",
+              "새벽의 첫 햇살이 창문으로 비쳐 들어왔고",
+              "난 술을 주량보다 두 잔쯤 더 마신 상태였지. 난 그에게 고맙다고 하고 자리를 떴어."
+            ],
             "pt-br": [
               "O estranho disse que, mesmo que fosse muito difícil de concretizar e exigisse um gasto vultoso,",
               "eu ainda deveria voltar às Ilhas de Espelhos e curar minha alma.",
@@ -43,6 +124,42 @@
               "Eu disse a ele que seria bem inconveniente, e um gasto considerável, mas... possível.",
               "Os primeiros raios da aurora entravam pela janela;",
               "eu tinha bebido além da conta. Agradeci a ele e me despedi."
+            ],
+            "ru": [
+              "Он сказал, что даже если это окажется очень трудно осуществить и потребует преизрядных затрат,",
+              "Я всё равно должен вернуться на Зеркальные острова и исцелить свою душу.",
+              "Что без этого я не смогу покинуть этот мир цельным человеком, сохранившим самоуважение.",
+              "Я сказал ему, что затея безнадёжная. Здесь слишком много дел, которые нужно уладить до моего ухода.",
+              "Он сказал, что у моих соратников и так всё достаточно хорошо, да и времени у них ещё предостаточно.",
+              "Он сказал, что это у меня осталось мало дней, чтобы исцелить свою душу.",
+              "Вино разогрело мне кровь. В голове сложился план.",
+              "Я сказал ему, что это будет довольно неудобно и обойдётся недёшево, но... вполне возможно.",
+              "Первые лучи рассвета проникали в окно;",
+              "я выпил лишнего. Я поблагодарил его и откланялся."
+            ],
+            "s-cn": [
+              "那个陌生人说，即便此事极难完成，而且耗资不菲，",
+              "我仍该回到镜之群岛，疗愈我的灵魂。",
+              "那是我若要作为一个完整而自重的人 离开这世间的必经之事。",
+              "我告诉他这想法毫无希望。 我在这儿有太多事要打理， 得确保在我走之前一切都安排妥当。",
+              "他说我和那些生意伙伴的事看起来已经安排妥当了； 反正他们往后有的是时间慢慢处理。",
+              "他说，真正该抓紧时间修补灵魂的是我，我剩下的时间已经不多了。",
+              "酒下肚，血液都暖了。 一个计划在我脑中成形。",
+              "我告诉他，这会相当麻烦，还得花上一大笔钱，但……并非办不到。",
+              "晨曦的第一缕光透过窗户飘了进来；",
+              "我多喝了两杯。谢过他后，我便告辞了。"
+            ],
+            "t-cn": [
+              "那個陌生人說，即便此事極難完成，而且耗資不菲，",
+              "我仍該回到鏡之群島，療愈我的靈魂。",
+              "那是我若要作為一個完整而自重的人 離開這世間的必經之事。",
+              "我告訴他這想法毫無希望。 我在這兒有太多事要打理， 得確保在我走之前一切都安排妥當。",
+              "他說我和那些生意夥伴的事看起來已經安排妥當了； 反正他們往後有的是時間慢慢處理。",
+              "他說，真正該抓緊時間修補靈魂的是我， 我剩下的時間已經不多了。",
+              "酒下肚，血液都暖了。 一個計劃在我腦中成形。",
+              "我告訴他，這會相當麻煩，還得花上一大筆錢， 但……並非辦不到。",
+              "晨曦的第一縷光透過窗戶飄了進來；",
+              "我多喝了兩杯。謝過他後，我便告辭了。"
             ]
           },
           "provenance": {
@@ -80,6 +197,78 @@
           "The early rays of dawn drifted through the window;",
           "I'd had two drinks too many. I thanked him and took leave."
         ],
+        "de": [
+          "Der Fremde hat gesagt, selbst wenn es äußerst schwierig sei, das Ganze zu bewerkstelligen, und gewaltige Ausgaben erfordere,",
+          "solle ich dennoch auf die Spiegelinseln zurückkehren und meine Seele heilen.",
+          "Dass es nötig sei, um diese Welt als ganzer Mensch mit Selbstachtung zu verlassen.",
+          "Ich habe ihm gesagt, das sei aussichtslos. Ich hatte hier noch zu viel zu regeln. Alles sollte in Ordnung sein, bevor ich nicht mehr bin.",
+          "Bei meinen Geschäftspartnern sei doch alles soweit in Ordnung, hat er gesagt. Und ohnehin hätten sie alle noch reichlich Zeit.",
+          "Er hat gesagt, ich hätte nur noch wenige Tage, um meine Seele zu heilen.",
+          "Der Alkohol hat mein Blut erwärmt. In meinem Kopf hat ein Plan Gestalt angenommen.",
+          "Ich habe ihm gesagt, es wäre ziemlich umständlich und mit erheblichen Kosten verbunden, aber ... machbar.",
+          "Die ersten Strahlen der Morgensonne sind durchs Fenster gefallen;",
+          "Ich hatte zwei Gläser zu viel intus. Ich habe ihm gedankt und mich verabschiedet."
+        ],
+        "es": [
+          "Dijo que, aunque fuera muy difícil de concretar y requiriera un gasto generoso,",
+          "Yo debería regresar a las Islas de los Espejos y sanar mi alma.",
+          "Que era necesario si quería dejar este mundo como un hombre pleno y en paz consigo mismo.",
+          "Le dije que la idea era inviable. Tenía demasiados asuntos aquí que atender para asegurarme de dejarlo todo en orden antes de irme.",
+          "Dijo que mis socios ya parecían tenerlo todo bastante en orden y que, de todos modos, a ellos les quedaba mucho más tiempo.",
+          "Dijo que era a mí a quien le quedaban pocos días para reparar mi alma.",
+          "El alcohol me caldeó la sangre. Un plan fue tomando forma en mi mente.",
+          "Le dije que sería bastante incómodo y supondría un gasto considerable, pero... era factible.",
+          "Los primeros rayos del amanecer se colaban por la ventana;",
+          "me había tomado dos copas de más. Le di las gracias y me despedí."
+        ],
+        "fr": [
+          "Il disait que même si cela devait s'avérer très difficile et demander de grosses dépenses,",
+          "je devais tout de même retourner aux Îles Miroirs et guérir mon âme.",
+          "Que c'était nécessaire pour quitter ce monde en homme accompli, digne de sa propre estime.",
+          "Je lui ai dit que c'était peine perdue. J'avais trop de choses à gérer ici, pour m'assurer de tout laisser en ordre avant mon départ.",
+          "Il a dit que les affaires de mes associés semblaient déjà bien se porter, et qu'ils avaient de toute façon bien plus de temps devant eux.",
+          "Il a dit que c'était moi qui n'avais plus que quelques jours pour réparer mon âme.",
+          "Les libations me réchauffaient le sang. Un plan prenait forme dans mon esprit.",
+          "Je lui ai dit que ce serait difficile, et coûteux, mais... faisable.",
+          "Les premières lueurs de l'aube filtraient par la fenêtre ;",
+          "j'avais bu deux verres de trop. Je l'ai remercié et je suis parti."
+        ],
+        "it": [
+          "Disse che anche se sarebbe stato molto difficile da realizzare e avrebbe richiesto una spesa notevole,",
+          "Dovevo comunque tornare alle Isole specchio e guarire la mia anima.",
+          "Che era necessario se volevo lasciare questo mondo da uomo completo e in pace con sé stesso.",
+          "Gli dissi che era un'idea senza speranza. Avevo troppe cose da gestire qui, per assicurarmi di lasciare tutto in ordine prima della mia fine.",
+          "Disse che i miei soci sembravano già cavarsela abbastanza bene, e comunque, avevano tutti molto più tempo a disposizione.",
+          "Disse che ero io ad avere pochi giorni a disposizione per risanare la mia anima.",
+          "Le libagioni mi scaldarono il sangue. Nella mia mente prese forma un piano.",
+          "Gli dissi che sarebbe stato piuttosto scomodo e molto dispendioso, ma... fattibile.",
+          "I primi raggi dell'alba brillavano attraverso la finestra;",
+          "Avevo bevuto due bicchieri di troppo. Lo ringraziai e me ne andai."
+        ],
+        "ja": [
+          "たとえ実現が極めて困難で 相当な金がかかるとしても、",
+          "鏡の島へ戻り この問題に決着をつけるべきだ、と。",
+          "私の根幹と 自尊心のためにも、と言った。",
+          "無理な話だと伝えたよ。 私が死ぬ前にすべてをきちんと整えるには、 ここで片づけることが多すぎた。",
+          "仲間たちのほうは、もう十分 うまくやっているようだと、彼は言った。 それに、彼らにはまだ たっぷり時間が残されているとね。",
+          "少しくらい出費しないと これまで働いた意味がない。",
+          "酒が体に回るにつれ、 一つの計画が浮かんできた。",
+          "かなり大変だし 相当な出費になるが… できなくはないと言った。",
+          "夜明けの光が 窓から差し込み",
+          "私は二杯ほど飲みすぎていた。 礼を言って店を出た。"
+        ],
+        "ko": [
+          "그러면서 그것을 실현시키는 일이 아주 어렵고 막대한 비용이 들더라도,",
+          "내가 반드시 거울의 섬으로 돌아가 내 영혼을 치유해야 한다고 했어.",
+          "온전하고 스스로 당당한 사람으로 이 세상을 떠나려면 꼭 그래야 한다고 했지.",
+          "난 가망없는 생각이라고 말했어. 떠나기 전에 모든 걸 제대로 정리하려면, 여기서 처리할 일이 너무 많다고.",
+          "그는 내 동료들이 이미 잘 꾸려 가는 것 같다고, 어쨌든 그들에겐 시간이 훨씬 더 많다고 했어.",
+          "영혼을 치유할 날이 얼마 남지 않은 건 바로 나라고 했지.",
+          "술기운에 피가 뜨거워졌어. 머릿속에서 계획이 떠올랐지.",
+          "나는 꽤 번거롭고, 큰돈도 들겠지만... 할 수는 있다고 했지.",
+          "새벽의 첫 햇살이 창문으로 비쳐 들어왔고",
+          "난 술을 주량보다 두 잔쯤 더 마신 상태였지. 난 그에게 고맙다고 하고 자리를 떴어."
+        ],
         "pt-br": [
           "O estranho disse que, mesmo que fosse muito difícil de concretizar e exigisse um gasto vultoso,",
           "eu ainda deveria voltar às Ilhas de Espelhos e curar minha alma.",
@@ -91,6 +280,42 @@
           "Eu disse a ele que seria bem inconveniente, e um gasto considerável, mas... possível.",
           "Os primeiros raios da aurora entravam pela janela;",
           "eu tinha bebido além da conta. Agradeci a ele e me despedi."
+        ],
+        "ru": [
+          "Он сказал, что даже если это окажется очень трудно осуществить и потребует преизрядных затрат,",
+          "Я всё равно должен вернуться на Зеркальные острова и исцелить свою душу.",
+          "Что без этого я не смогу покинуть этот мир цельным человеком, сохранившим самоуважение.",
+          "Я сказал ему, что затея безнадёжная. Здесь слишком много дел, которые нужно уладить до моего ухода.",
+          "Он сказал, что у моих соратников и так всё достаточно хорошо, да и времени у них ещё предостаточно.",
+          "Он сказал, что это у меня осталось мало дней, чтобы исцелить свою душу.",
+          "Вино разогрело мне кровь. В голове сложился план.",
+          "Я сказал ему, что это будет довольно неудобно и обойдётся недёшево, но... вполне возможно.",
+          "Первые лучи рассвета проникали в окно;",
+          "я выпил лишнего. Я поблагодарил его и откланялся."
+        ],
+        "s-cn": [
+          "那个陌生人说，即便此事极难完成，而且耗资不菲，",
+          "我仍该回到镜之群岛，疗愈我的灵魂。",
+          "那是我若要作为一个完整而自重的人 离开这世间的必经之事。",
+          "我告诉他这想法毫无希望。 我在这儿有太多事要打理， 得确保在我走之前一切都安排妥当。",
+          "他说我和那些生意伙伴的事看起来已经安排妥当了； 反正他们往后有的是时间慢慢处理。",
+          "他说，真正该抓紧时间修补灵魂的是我，我剩下的时间已经不多了。",
+          "酒下肚，血液都暖了。 一个计划在我脑中成形。",
+          "我告诉他，这会相当麻烦，还得花上一大笔钱，但……并非办不到。",
+          "晨曦的第一缕光透过窗户飘了进来；",
+          "我多喝了两杯。谢过他后，我便告辞了。"
+        ],
+        "t-cn": [
+          "那個陌生人說，即便此事極難完成，而且耗資不菲，",
+          "我仍該回到鏡之群島，療愈我的靈魂。",
+          "那是我若要作為一個完整而自重的人 離開這世間的必經之事。",
+          "我告訴他這想法毫無希望。 我在這兒有太多事要打理， 得確保在我走之前一切都安排妥當。",
+          "他說我和那些生意夥伴的事看起來已經安排妥當了； 反正他們往後有的是時間慢慢處理。",
+          "他說，真正該抓緊時間修補靈魂的是我， 我剩下的時間已經不多了。",
+          "酒下肚，血液都暖了。 一個計劃在我腦中成形。",
+          "我告訴他，這會相當麻煩，還得花上一大筆錢， 但……並非辦不到。",
+          "晨曦的第一縷光透過窗戶飄了進來；",
+          "我多喝了兩杯。謝過他後，我便告辭了。"
         ]
       },
       "silentCues": [],

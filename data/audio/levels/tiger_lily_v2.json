@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -28,6 +37,54 @@
               "which makes it quicker and more comfortable to experiment and execute ideas,",
               "and allows for more complex puzzles while adding fewer objects to the level."
             ],
+            "de": [
+              "Hier ist Patricks Überarbeitung. Darin wird die Wechselwirkung gründlicher ausgelotet",
+              "und das Rätsel gewinnt an Tiefe, weil man herausfinden muss,",
+              "wo genau die Lilien abzulegen sind, um die nächste Insel zu erreichen.",
+              "Wir haben die Goblins durch Drachen ersetzt. Drachen lassen sich auch schieben, ohne dass ein Stein dazwischenliegt,",
+              "wodurch sich Ideen schneller und angenehmer ausprobieren und umsetzen lassen,",
+              "und komplexere Rätsel möglich sind, ohne das Level mit weiteren Objekten zu füllen."
+            ],
+            "es": [
+              "Aquí está la revisión de Patrick. La interacción se explora con más profundidad",
+              "y añade complejidad al puzle, al obligar al jugador a averiguar",
+              "exactamente dónde dejar caer los nenúfares para llegar a la siguiente isla.",
+              "Sustituimos a los goblins por dragones. Los dragones se pueden empujar sin una piedra en medio,",
+              "lo que hace más rápido y cómodo experimentar y ejecutar ideas,",
+              "y facilita puzles más complejos con menos objetos en el nivel."
+            ],
+            "fr": [
+              "Voici la révision de Patrick. L'interaction est explorée davantage",
+              "et ajoute de la profondeur à l'énigme en obligeant le joueur à déterminer",
+              "exactement où déposer les nénuphars pour atteindre la prochaine île.",
+              "Les gobelins ont été remplacés par des dragons. On peut pousser les dragons sans pierre entre les deux,",
+              "ce qui rend les essais et l'exécution des idées plus rapides et plus confortables,",
+              "et permet des énigmes plus complexes tout en ajoutant moins d'objets au niveau."
+            ],
+            "it": [
+              "Ecco la revisione di Patrick. L'interazione viene esplorata più a fondo",
+              "e aggiunge profondità al rompicapo richiedendo al giocatore di capire",
+              "esattamente dove lasciare le ninfee per raggiungere l'isola successiva.",
+              "I goblin sono stati sostituiti dai draghi. I draghi possono essere spinti senza una pietra in mezzo,",
+              "il che rende più rapido e comodo sperimentare ed eseguire le idee,",
+              "e permette rompicapo più complessi aggiungendo meno oggetti al livello."
+            ],
+            "ja": [
+              "これはパトリックの改良版だ。 駒同士の相互作用をもっと深く掘り下げ、",
+              "次の島へ進むために、 スイレンをどこへ落とせばいいのか",
+              "正確に見極める必要があり、 パズルにも深みが加わっている。",
+              "ここでは間に石を挟まずに押せる ゴブリンをドラゴンに置き換えた。",
+              "これでより素早く快適に 様々なアイデアを試したり 実行しやすくなっている。",
+              "しかも、オブジェクトを増やすことなく、 より複雑なパズルを作れるようになった。"
+            ],
+            "ko": [
+              "이건 패트릭이 수정한 버전이야. 이 상호작용을 더 깊이 파고들어",
+              "다음 섬에 도달하려면 수련을 정확히 어디에 떨어뜨려야 하는지",
+              "직접 알아내게 해서 퍼즐에 깊이를 더했지.",
+              "고블린은 드래곤으로 교체했어. 드래곤은 사이에 돌이 없어도 밀 수 있어서,",
+              "아이디어를 실험하고 실행하기가 더 빠르고 편해지고",
+              "레벨에 들어가는 오브젝트 수는 줄이면서도 더 복잡한 퍼즐을 만들 수 있지."
+            ],
             "pt-br": [
               "Aqui está a revisão do Patrick. A interação é explorada com mais profundidade",
               "e acrescenta profundidade ao quebra-cabeça ao exigir que o jogador descubra",
@@ -35,6 +92,30 @@
               "Os Goblins foram trocados por Dragões. Dragões podem ser empurrados sem uma pedra no meio,",
               "o que torna mais rápido e confortável testar e executar ideias,",
               "e permite quebra-cabeças mais complexos ao adicionar menos objetos à fase."
+            ],
+            "ru": [
+              "Вот переработка Патрика. Взаимодействие раскрывается глубже",
+              "и добавляет головоломке глубины, поскольку игроку нужно разобраться,",
+              "где именно ронять кувшинки, чтобы добраться до следующего острова.",
+              "Гоблинов заменили драконами. Драконов можно толкать без камня между ними,",
+              "что делает эксперименты и исполнение идей быстрее и удобнее,",
+              "и позволяет создавать более сложные головоломки, добавляя на уровень меньше объектов."
+            ],
+            "s-cn": [
+              "这是帕特里克的改版。这一版对该互动做了更深入的探索，",
+              "还要求玩家自己想清楚，究竟该把睡莲放在哪些位置，",
+              "才能抵达下一座岛，由此增加解谜深度。",
+              "哥布林被换成了龙。推龙时不必在中间垫一块石头，",
+              "让玩家试验、落实各种解题思路都更快、更顺手，",
+              "也能用更少的关卡物体设计出更复杂的谜题。"
+            ],
+            "t-cn": [
+              "這是派屈克的改版。這一版對該互動做了更深入的探索，",
+              "還要求玩家自己想清楚，究竟該把睡蓮放在哪些位置，",
+              "才能抵達下一座島，由此增加解謎深度。",
+              "哥布林被換成了龍。推龍時不必在中間墊一塊石頭，",
+              "讓玩家試驗、落實各種解題思路都更快、更順手，",
+              "也能用更少的關卡物體設計出更複雜的謎題。"
             ]
           },
           "provenance": {
@@ -64,6 +145,54 @@
           "which makes it quicker and more comfortable to experiment and execute ideas,",
           "and allows for more complex puzzles while adding fewer objects to the level."
         ],
+        "de": [
+          "Hier ist Patricks Überarbeitung. Darin wird die Wechselwirkung gründlicher ausgelotet",
+          "und das Rätsel gewinnt an Tiefe, weil man herausfinden muss,",
+          "wo genau die Lilien abzulegen sind, um die nächste Insel zu erreichen.",
+          "Wir haben die Goblins durch Drachen ersetzt. Drachen lassen sich auch schieben, ohne dass ein Stein dazwischenliegt,",
+          "wodurch sich Ideen schneller und angenehmer ausprobieren und umsetzen lassen,",
+          "und komplexere Rätsel möglich sind, ohne das Level mit weiteren Objekten zu füllen."
+        ],
+        "es": [
+          "Aquí está la revisión de Patrick. La interacción se explora con más profundidad",
+          "y añade complejidad al puzle, al obligar al jugador a averiguar",
+          "exactamente dónde dejar caer los nenúfares para llegar a la siguiente isla.",
+          "Sustituimos a los goblins por dragones. Los dragones se pueden empujar sin una piedra en medio,",
+          "lo que hace más rápido y cómodo experimentar y ejecutar ideas,",
+          "y facilita puzles más complejos con menos objetos en el nivel."
+        ],
+        "fr": [
+          "Voici la révision de Patrick. L'interaction est explorée davantage",
+          "et ajoute de la profondeur à l'énigme en obligeant le joueur à déterminer",
+          "exactement où déposer les nénuphars pour atteindre la prochaine île.",
+          "Les gobelins ont été remplacés par des dragons. On peut pousser les dragons sans pierre entre les deux,",
+          "ce qui rend les essais et l'exécution des idées plus rapides et plus confortables,",
+          "et permet des énigmes plus complexes tout en ajoutant moins d'objets au niveau."
+        ],
+        "it": [
+          "Ecco la revisione di Patrick. L'interazione viene esplorata più a fondo",
+          "e aggiunge profondità al rompicapo richiedendo al giocatore di capire",
+          "esattamente dove lasciare le ninfee per raggiungere l'isola successiva.",
+          "I goblin sono stati sostituiti dai draghi. I draghi possono essere spinti senza una pietra in mezzo,",
+          "il che rende più rapido e comodo sperimentare ed eseguire le idee,",
+          "e permette rompicapo più complessi aggiungendo meno oggetti al livello."
+        ],
+        "ja": [
+          "これはパトリックの改良版だ。 駒同士の相互作用をもっと深く掘り下げ、",
+          "次の島へ進むために、 スイレンをどこへ落とせばいいのか",
+          "正確に見極める必要があり、 パズルにも深みが加わっている。",
+          "ここでは間に石を挟まずに押せる ゴブリンをドラゴンに置き換えた。",
+          "これでより素早く快適に 様々なアイデアを試したり 実行しやすくなっている。",
+          "しかも、オブジェクトを増やすことなく、 より複雑なパズルを作れるようになった。"
+        ],
+        "ko": [
+          "이건 패트릭이 수정한 버전이야. 이 상호작용을 더 깊이 파고들어",
+          "다음 섬에 도달하려면 수련을 정확히 어디에 떨어뜨려야 하는지",
+          "직접 알아내게 해서 퍼즐에 깊이를 더했지.",
+          "고블린은 드래곤으로 교체했어. 드래곤은 사이에 돌이 없어도 밀 수 있어서,",
+          "아이디어를 실험하고 실행하기가 더 빠르고 편해지고",
+          "레벨에 들어가는 오브젝트 수는 줄이면서도 더 복잡한 퍼즐을 만들 수 있지."
+        ],
         "pt-br": [
           "Aqui está a revisão do Patrick. A interação é explorada com mais profundidade",
           "e acrescenta profundidade ao quebra-cabeça ao exigir que o jogador descubra",
@@ -71,6 +200,30 @@
           "Os Goblins foram trocados por Dragões. Dragões podem ser empurrados sem uma pedra no meio,",
           "o que torna mais rápido e confortável testar e executar ideias,",
           "e permite quebra-cabeças mais complexos ao adicionar menos objetos à fase."
+        ],
+        "ru": [
+          "Вот переработка Патрика. Взаимодействие раскрывается глубже",
+          "и добавляет головоломке глубины, поскольку игроку нужно разобраться,",
+          "где именно ронять кувшинки, чтобы добраться до следующего острова.",
+          "Гоблинов заменили драконами. Драконов можно толкать без камня между ними,",
+          "что делает эксперименты и исполнение идей быстрее и удобнее,",
+          "и позволяет создавать более сложные головоломки, добавляя на уровень меньше объектов."
+        ],
+        "s-cn": [
+          "这是帕特里克的改版。这一版对该互动做了更深入的探索，",
+          "还要求玩家自己想清楚，究竟该把睡莲放在哪些位置，",
+          "才能抵达下一座岛，由此增加解谜深度。",
+          "哥布林被换成了龙。推龙时不必在中间垫一块石头，",
+          "让玩家试验、落实各种解题思路都更快、更顺手，",
+          "也能用更少的关卡物体设计出更复杂的谜题。"
+        ],
+        "t-cn": [
+          "這是派屈克的改版。這一版對該互動做了更深入的探索，",
+          "還要求玩家自己想清楚，究竟該把睡蓮放在哪些位置，",
+          "才能抵達下一座島，由此增加解謎深度。",
+          "哥布林被換成了龍。推龍時不必在中間墊一塊石頭，",
+          "讓玩家試驗、落實各種解題思路都更快、更順手，",
+          "也能用更少的關卡物體設計出更複雜的謎題。"
         ]
       },
       "silentCues": [],

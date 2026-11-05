@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -25,10 +34,55 @@
               "Said he was taught by an older fellow, another soldier.",
               "Another disgraced soldier."
             ],
+            "de": [
+              "Valens ist unglaublich stark. Er hat gesagt, das sei ein Trick, aber über die Einzelheiten redet er nicht gern.",
+              "Er hat gesagt, er hat es von einem älteren Mann gelernt, auch einem Soldaten.",
+              "Noch ein Soldat, der in Ungnade gefallen ist."
+            ],
+            "es": [
+              "Valens es increíblemente fuerte. Dice que es por no sé qué truco, pero los detalles son difíciles de explicar.",
+              "Según él, se lo enseñó un hombre mayor, otro soldado.",
+              "Otro soldado deshonrado."
+            ],
+            "fr": [
+              "Valens est incroyablement fort. Il a dit qu'il avait une astuce, mais les détails sont difficiles à expliquer.",
+              "Il a dit qu'il avait été formé par un vieil homme, un autre soldat.",
+              "Un autre soldat déshonoré."
+            ],
+            "it": [
+              "Valens è incredibilmente forte. Ha detto che è un trucco, ma i dettagli sono difficili da spiegare.",
+              "Ha detto che ha imparato da un uomo più vecchio, un altro soldato.",
+              "Un altro soldato caduto in disgrazia."
+            ],
+            "ja": [
+              "ヴァレンスは力持ちなんだ。 コツがあるらしいけど 詳しくはわかんないや。",
+              "年上の兵士にやり方を 教わったんだって。",
+              "また訳あり兵士だ。"
+            ],
+            "ko": [
+              "발렌스는 엄청 강해. 속임수라고 했지만, 자세한 건 말하기 어렵대.",
+              "자기보다 나이가 많은, 다른 병사에게 배웠다더라.",
+              "또 한 명의 불명예스러운 군인이지."
+            ],
             "pt-br": [
               "Valens é incrivelmente forte. Ele disse que é um truque, mas os detalhes são difíceis de explicar.",
               "Disse que aprendeu com um homem mais velho, outro soldado.",
               "Outro soldado desonrado."
+            ],
+            "ru": [
+              "Валенс невероятно силён. Он сказал, что это трюк, но подробности трудно объяснить.",
+              "Сказал, что его учил пожилой мужчина, ещё один солдат.",
+              "Ещё один опальный солдат."
+            ],
+            "s-cn": [
+              "瓦伦斯力气大得吓人。他说这里面有诀窍，不过详情不方便说。",
+              "他说是一个年长的人教他的，也是个士兵。",
+              "另一个不光彩的士兵。"
+            ],
+            "t-cn": [
+              "瓦倫斯力氣大得嚇人。 他說這裡面有訣竅，不過詳情不方便說。",
+              "他說是一個年長的人教他的，也是個士兵。",
+              "另一個不光彩的士兵。"
             ]
           },
           "provenance": {
@@ -52,10 +106,55 @@
           "Said he was taught by an older fellow, another soldier.",
           "Another disgraced soldier."
         ],
+        "de": [
+          "Valens ist unglaublich stark. Er hat gesagt, das sei ein Trick, aber über die Einzelheiten redet er nicht gern.",
+          "Er hat gesagt, er hat es von einem älteren Mann gelernt, auch einem Soldaten.",
+          "Noch ein Soldat, der in Ungnade gefallen ist."
+        ],
+        "es": [
+          "Valens es increíblemente fuerte. Dice que es por no sé qué truco, pero los detalles son difíciles de explicar.",
+          "Según él, se lo enseñó un hombre mayor, otro soldado.",
+          "Otro soldado deshonrado."
+        ],
+        "fr": [
+          "Valens est incroyablement fort. Il a dit qu'il avait une astuce, mais les détails sont difficiles à expliquer.",
+          "Il a dit qu'il avait été formé par un vieil homme, un autre soldat.",
+          "Un autre soldat déshonoré."
+        ],
+        "it": [
+          "Valens è incredibilmente forte. Ha detto che è un trucco, ma i dettagli sono difficili da spiegare.",
+          "Ha detto che ha imparato da un uomo più vecchio, un altro soldato.",
+          "Un altro soldato caduto in disgrazia."
+        ],
+        "ja": [
+          "ヴァレンスは力持ちなんだ。 コツがあるらしいけど 詳しくはわかんないや。",
+          "年上の兵士にやり方を 教わったんだって。",
+          "また訳あり兵士だ。"
+        ],
+        "ko": [
+          "발렌스는 엄청 강해. 속임수라고 했지만, 자세한 건 말하기 어렵대.",
+          "자기보다 나이가 많은, 다른 병사에게 배웠다더라.",
+          "또 한 명의 불명예스러운 군인이지."
+        ],
         "pt-br": [
           "Valens é incrivelmente forte. Ele disse que é um truque, mas os detalhes são difíceis de explicar.",
           "Disse que aprendeu com um homem mais velho, outro soldado.",
           "Outro soldado desonrado."
+        ],
+        "ru": [
+          "Валенс невероятно силён. Он сказал, что это трюк, но подробности трудно объяснить.",
+          "Сказал, что его учил пожилой мужчина, ещё один солдат.",
+          "Ещё один опальный солдат."
+        ],
+        "s-cn": [
+          "瓦伦斯力气大得吓人。他说这里面有诀窍，不过详情不方便说。",
+          "他说是一个年长的人教他的，也是个士兵。",
+          "另一个不光彩的士兵。"
+        ],
+        "t-cn": [
+          "瓦倫斯力氣大得嚇人。 他說這裡面有訣竅，不過詳情不方便說。",
+          "他說是一個年長的人教他的，也是個士兵。",
+          "另一個不光彩的士兵。"
         ]
       },
       "silentCues": [],
@@ -95,9 +194,45 @@
               "Don't tell him I said \"disgraced\", haha!",
               "They have some official term for it. A neutral term."
             ],
+            "de": [
+              "Sag ihm bloß nicht, dass ich „in Ungnade gefallen“ gesagt habe, haha!",
+              "Dafür haben sie irgendeinen offiziellen Ausdruck. Einen neutralen."
+            ],
+            "es": [
+              "¡Ni se te ocurra decirle que he dicho «deshonrado», ja, ja!",
+              "Ellos tienen un término oficial para eso. Uno más neutro."
+            ],
+            "fr": [
+              "Ne lui dites pas que j'ai dit « déshonoré », haha !",
+              "Ils ont un terme officiel pour ça. Un terme neutre."
+            ],
+            "it": [
+              "Non dirgli che ho usato la parola \"sciagurato\", haha!",
+              "Esiste un termine ufficiale per questo. Un termine neutro."
+            ],
+            "ja": [
+              "「訳あり」って言ったの、 内緒ね！あはは！",
+              "でもちゃんとした呼び方が あるんだって。"
+            ],
+            "ko": [
+              "그쪽에 가서 내가 \"불명예스럽다\"고 했다고 말하지 마, 하하!",
+              "뭔가 공식적인 용어가 있더라고. 중립적인 용어로 말이야."
+            ],
             "pt-br": [
               "Não conta pra ele que eu disse “desonrado”, haha!",
               "Eles usam um termo oficial pra isso. Um termo neutro."
+            ],
+            "ru": [
+              "Не говори ему, что я сказала «позорный», ха-ха!",
+              "Для этого есть какой-то официальный термин. Более нейтральный."
+            ],
+            "s-cn": [
+              "别告诉他我用了“不光彩”这词，哈哈！",
+              "他们有一套官方叫法。比较中性的那种。"
+            ],
+            "t-cn": [
+              "別告訴他我用了「不光彩」這詞，哈哈！",
+              "他們有一套官方叫法。比較中性的那種。"
             ]
           },
           "provenance": {
@@ -119,9 +254,45 @@
           "Don't tell him I said \"disgraced\", haha!",
           "They have some official term for it. A neutral term."
         ],
+        "de": [
+          "Sag ihm bloß nicht, dass ich „in Ungnade gefallen“ gesagt habe, haha!",
+          "Dafür haben sie irgendeinen offiziellen Ausdruck. Einen neutralen."
+        ],
+        "es": [
+          "¡Ni se te ocurra decirle que he dicho «deshonrado», ja, ja!",
+          "Ellos tienen un término oficial para eso. Uno más neutro."
+        ],
+        "fr": [
+          "Ne lui dites pas que j'ai dit « déshonoré », haha !",
+          "Ils ont un terme officiel pour ça. Un terme neutre."
+        ],
+        "it": [
+          "Non dirgli che ho usato la parola \"sciagurato\", haha!",
+          "Esiste un termine ufficiale per questo. Un termine neutro."
+        ],
+        "ja": [
+          "「訳あり」って言ったの、 内緒ね！あはは！",
+          "でもちゃんとした呼び方が あるんだって。"
+        ],
+        "ko": [
+          "그쪽에 가서 내가 \"불명예스럽다\"고 했다고 말하지 마, 하하!",
+          "뭔가 공식적인 용어가 있더라고. 중립적인 용어로 말이야."
+        ],
         "pt-br": [
           "Não conta pra ele que eu disse “desonrado”, haha!",
           "Eles usam um termo oficial pra isso. Um termo neutro."
+        ],
+        "ru": [
+          "Не говори ему, что я сказала «позорный», ха-ха!",
+          "Для этого есть какой-то официальный термин. Более нейтральный."
+        ],
+        "s-cn": [
+          "别告诉他我用了“不光彩”这词，哈哈！",
+          "他们有一套官方叫法。比较中性的那种。"
+        ],
+        "t-cn": [
+          "別告訴他我用了「不光彩」這詞，哈哈！",
+          "他們有一套官方叫法。比較中性的那種。"
         ]
       },
       "silentCues": [],
@@ -161,9 +332,45 @@
               "Izzy's swap powers are amazing. He got them in some kind of accident.",
               "Great for moving heavy stuff, not so great for getting close to people."
             ],
+            "de": [
+              "Izzys Tauschkraft ist der Wahnsinn. Die hat er durch irgendeinen Unfall bekommen.",
+              "Super, um schwere Sachen zu bewegen, aber nicht wirklich geeignet, um Leuten nahezukommen."
+            ],
+            "es": [
+              "Los poderes de intercambio de Izzy son increíbles. Los consiguió por algún tipo de accidente.",
+              "Sirven mucho para mover cosas pesadas, pero no tanto para acercarse a la gente."
+            ],
+            "fr": [
+              "Les pouvoirs d'échange d'Izzy sont incroyables. Il les a à cause d'une sorte d'accident.",
+              "C'est génial pour déplacer des trucs lourds, mais pas terrible pour se rapprocher des gens."
+            ],
+            "it": [
+              "I poteri di scambio di Izzy sono incredibili. Li ha ottenuti in una specie di incidente.",
+              "Ottimi per spostare cose pesanti, ma non sono l'ideale per avvicinarsi alle persone."
+            ],
+            "ja": [
+              "イジーの入れ替え能力、すごいんだ。 事故で身についたんだって。",
+              "人に使ったら近寄りすぎちゃう。"
+            ],
+            "ko": [
+              "이지의 위치 교환 능력은 정말 대단해. 어떤 사고 때문에 얻게 됐대.",
+              "무거운 걸 옮기는 데에는 좋지만, 사람들과 가까워지는 데에는 별로야."
+            ],
             "pt-br": [
               "Os poderes de troca do Izzy são incríveis. Foi por causa de um acidente.",
               "São ótimos pra mover coisas pesadas, mas não ajudam muito a se aproximar das pessoas."
+            ],
+            "ru": [
+              "Способности Иззи к обмену местами просто потрясающие. Это произошло из-за какого-то несчастного случая.",
+              "Для перемещения тяжестей — отлично, но вот чтобы сближаться с людьми — не очень."
+            ],
+            "s-cn": [
+              "伊兹的换位能力特别厉害，好像是在某次意外中获得的。",
+              "搬重物很方便，但跟人亲近就不太方便了。"
+            ],
+            "t-cn": [
+              "伊茲的換位能力特別厲害， 好像是在某次意外中獲得的。",
+              "搬重物很方便，但跟人親近就不太方便了。"
             ]
           },
           "provenance": {
@@ -185,9 +392,45 @@
           "Izzy's swap powers are amazing. He got them in some kind of accident.",
           "Great for moving heavy stuff, not so great for getting close to people."
         ],
+        "de": [
+          "Izzys Tauschkraft ist der Wahnsinn. Die hat er durch irgendeinen Unfall bekommen.",
+          "Super, um schwere Sachen zu bewegen, aber nicht wirklich geeignet, um Leuten nahezukommen."
+        ],
+        "es": [
+          "Los poderes de intercambio de Izzy son increíbles. Los consiguió por algún tipo de accidente.",
+          "Sirven mucho para mover cosas pesadas, pero no tanto para acercarse a la gente."
+        ],
+        "fr": [
+          "Les pouvoirs d'échange d'Izzy sont incroyables. Il les a à cause d'une sorte d'accident.",
+          "C'est génial pour déplacer des trucs lourds, mais pas terrible pour se rapprocher des gens."
+        ],
+        "it": [
+          "I poteri di scambio di Izzy sono incredibili. Li ha ottenuti in una specie di incidente.",
+          "Ottimi per spostare cose pesanti, ma non sono l'ideale per avvicinarsi alle persone."
+        ],
+        "ja": [
+          "イジーの入れ替え能力、すごいんだ。 事故で身についたんだって。",
+          "人に使ったら近寄りすぎちゃう。"
+        ],
+        "ko": [
+          "이지의 위치 교환 능력은 정말 대단해. 어떤 사고 때문에 얻게 됐대.",
+          "무거운 걸 옮기는 데에는 좋지만, 사람들과 가까워지는 데에는 별로야."
+        ],
         "pt-br": [
           "Os poderes de troca do Izzy são incríveis. Foi por causa de um acidente.",
           "São ótimos pra mover coisas pesadas, mas não ajudam muito a se aproximar das pessoas."
+        ],
+        "ru": [
+          "Способности Иззи к обмену местами просто потрясающие. Это произошло из-за какого-то несчастного случая.",
+          "Для перемещения тяжестей — отлично, но вот чтобы сближаться с людьми — не очень."
+        ],
+        "s-cn": [
+          "伊兹的换位能力特别厉害，好像是在某次意外中获得的。",
+          "搬重物很方便，但跟人亲近就不太方便了。"
+        ],
+        "t-cn": [
+          "伊茲的換位能力特別厲害， 好像是在某次意外中獲得的。",
+          "搬重物很方便，但跟人親近就不太方便了。"
         ]
       },
       "silentCues": [],
@@ -226,8 +469,35 @@
             "en": [
               "I'm glad we had this time to talk!"
             ],
+            "de": [
+              "Ich bin so froh, dass wir mal reden konnten!"
+            ],
+            "es": [
+              "¡Me alegra que hayamos podido hablar!"
+            ],
+            "fr": [
+              "Je suis contente qu'on ait eu le temps de discuter !"
+            ],
+            "it": [
+              "Sono felice che abbiamo avuto il tempo di parlare!"
+            ],
+            "ja": [
+              "話せてよかったよ！"
+            ],
+            "ko": [
+              "이렇게 이야기 나눌 시간이 생겨서 다행이야!"
+            ],
             "pt-br": [
               "Que bom ter tido esse tempo pra conversar!"
+            ],
+            "ru": [
+              "Я рада, что мы поговорили!"
+            ],
+            "s-cn": [
+              "很高兴有机会跟你聊天！"
+            ],
+            "t-cn": [
+              "很高興有機會跟你聊天！"
             ]
           },
           "provenance": {
@@ -247,8 +517,35 @@
         "en": [
           "I'm glad we had this time to talk!"
         ],
+        "de": [
+          "Ich bin so froh, dass wir mal reden konnten!"
+        ],
+        "es": [
+          "¡Me alegra que hayamos podido hablar!"
+        ],
+        "fr": [
+          "Je suis contente qu'on ait eu le temps de discuter !"
+        ],
+        "it": [
+          "Sono felice che abbiamo avuto il tempo di parlare!"
+        ],
+        "ja": [
+          "話せてよかったよ！"
+        ],
+        "ko": [
+          "이렇게 이야기 나눌 시간이 생겨서 다행이야!"
+        ],
         "pt-br": [
           "Que bom ter tido esse tempo pra conversar!"
+        ],
+        "ru": [
+          "Я рада, что мы поговорили!"
+        ],
+        "s-cn": [
+          "很高兴有机会跟你聊天！"
+        ],
+        "t-cn": [
+          "很高興有機會跟你聊天！"
         ]
       },
       "silentCues": [],

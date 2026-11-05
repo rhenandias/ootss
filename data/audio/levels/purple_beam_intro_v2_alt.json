@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "This architecture is strange. Makes you wonder who they were."
             ],
+            "de": [
+              "Diese Architektur ist seltsam. Da fragt man sich, wer sie wohl waren."
+            ],
+            "es": [
+              "Esta arquitectura es extraña. Te hace preguntarte quiénes eran."
+            ],
+            "fr": [
+              "Cette architecture est étrange. Je me demande qui étaient ces gens."
+            ],
+            "it": [
+              "Questa architettura è strana. Viene da chiedersi chiedere chi fossero."
+            ],
+            "ja": [
+              "変な建物だ。 どんな人たちが使ってたんだ？"
+            ],
+            "ko": [
+              "이 구조물은 이상해. 대체 누가 이런 걸 만들었는지 궁금해지는걸."
+            ],
             "pt-br": [
               "Essa arquitetura é estranha. Faz você se perguntar quem eles eram."
+            ],
+            "ru": [
+              "Эта архитектура странная. Заставляет задуматься, кем они были."
+            ],
+            "s-cn": [
+              "这里的建筑很奇怪。让人忍不住猜想，建造者究竟是什么人。"
+            ],
+            "t-cn": [
+              "這裡的建築很奇怪。讓人忍不住猜想， 建造者究竟是什麼人。"
             ]
           },
           "provenance": {
@@ -45,8 +81,35 @@
             "en": [
               "You should ask your friend."
             ],
+            "de": [
+              "Frag doch deinen Freund."
+            ],
+            "es": [
+              "Deberías preguntárselo a tu amigo."
+            ],
+            "fr": [
+              "Tu devrais poser la question à ton ami."
+            ],
+            "it": [
+              "Dovresti chiedere alla tua amica."
+            ],
+            "ja": [
+              "友達に聞きなよ。"
+            ],
+            "ko": [
+              "네 친구한테 물어봐."
+            ],
             "pt-br": [
               "Você deveria perguntar ao seu amigo."
+            ],
+            "ru": [
+              "Спроси у своего друга."
+            ],
+            "s-cn": [
+              "你该问问你的朋友。"
+            ],
+            "t-cn": [
+              "你該問問你的朋友。"
             ]
           },
           "provenance": {
@@ -67,8 +130,35 @@
             "en": [
               "Yeah... Where's he gone to?"
             ],
+            "de": [
+              "Ja ... Wo ist er denn hin?"
+            ],
+            "es": [
+              "Sí... ¿Adónde se ha ido?"
+            ],
+            "fr": [
+              "Ouais... Où est-il passé ?"
+            ],
+            "it": [
+              "Già... Dove sarà finito?"
+            ],
+            "ja": [
+              "どこ行ったんだ？"
+            ],
+            "ko": [
+              "그러게... 어디로 간 거지?"
+            ],
             "pt-br": [
               "É... Para onde ele foi?"
+            ],
+            "ru": [
+              "Да... Куда же он подевался?"
+            ],
+            "s-cn": [
+              "是啊……他跑哪儿去了？"
+            ],
+            "t-cn": [
+              "是啊……他跑哪兒去了？"
             ]
           },
           "provenance": {
@@ -90,10 +180,55 @@
           "You should ask your friend.",
           "Yeah... Where's he gone to?"
         ],
+        "de": [
+          "Diese Architektur ist seltsam. Da fragt man sich, wer sie wohl waren.",
+          "Frag doch deinen Freund.",
+          "Ja ... Wo ist er denn hin?"
+        ],
+        "es": [
+          "Esta arquitectura es extraña. Te hace preguntarte quiénes eran.",
+          "Deberías preguntárselo a tu amigo.",
+          "Sí... ¿Adónde se ha ido?"
+        ],
+        "fr": [
+          "Cette architecture est étrange. Je me demande qui étaient ces gens.",
+          "Tu devrais poser la question à ton ami.",
+          "Ouais... Où est-il passé ?"
+        ],
+        "it": [
+          "Questa architettura è strana. Viene da chiedersi chiedere chi fossero.",
+          "Dovresti chiedere alla tua amica.",
+          "Già... Dove sarà finito?"
+        ],
+        "ja": [
+          "変な建物だ。 どんな人たちが使ってたんだ？",
+          "友達に聞きなよ。",
+          "どこ行ったんだ？"
+        ],
+        "ko": [
+          "이 구조물은 이상해. 대체 누가 이런 걸 만들었는지 궁금해지는걸.",
+          "네 친구한테 물어봐.",
+          "그러게... 어디로 간 거지?"
+        ],
         "pt-br": [
           "Essa arquitetura é estranha. Faz você se perguntar quem eles eram.",
           "Você deveria perguntar ao seu amigo.",
           "É... Para onde ele foi?"
+        ],
+        "ru": [
+          "Эта архитектура странная. Заставляет задуматься, кем они были.",
+          "Спроси у своего друга.",
+          "Да... Куда же он подевался?"
+        ],
+        "s-cn": [
+          "这里的建筑很奇怪。让人忍不住猜想，建造者究竟是什么人。",
+          "你该问问你的朋友。",
+          "是啊……他跑哪儿去了？"
+        ],
+        "t-cn": [
+          "這裡的建築很奇怪。讓人忍不住猜想， 建造者究竟是什麼人。",
+          "你該問問你的朋友。",
+          "是啊……他跑哪兒去了？"
         ]
       },
       "silentCues": [],

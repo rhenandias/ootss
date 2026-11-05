@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -23,8 +32,35 @@
             "en": [
               "What are those weird red ... energies?"
             ],
+            "de": [
+              "Was sind das für seltsame rote ... Energien?"
+            ],
+            "es": [
+              "¿Qué son esas extrañas... energías rojas?"
+            ],
+            "fr": [
+              "C'est quoi, ces étranges... énergies rouges ?"
+            ],
+            "it": [
+              "Cosa sono quelle strane... energie rosse?"
+            ],
+            "ja": [
+              "何あの…赤いエネルギーは？"
+            ],
+            "ko": [
+              "저 이상한 붉은... 에너지들은 뭐지?"
+            ],
             "pt-br": [
               "O que são essas estranhas... energias vermelhas?"
+            ],
+            "ru": [
+              "Что это за странные красные... энергии?"
+            ],
+            "s-cn": [
+              "那些古怪的红色能量……是什么？"
+            ],
+            "t-cn": [
+              "那些古怪的紅色能量……是什麼？"
             ]
           },
           "provenance": {
@@ -44,8 +80,35 @@
         "en": [
           "What are those weird red ... energies?"
         ],
+        "de": [
+          "Was sind das für seltsame rote ... Energien?"
+        ],
+        "es": [
+          "¿Qué son esas extrañas... energías rojas?"
+        ],
+        "fr": [
+          "C'est quoi, ces étranges... énergies rouges ?"
+        ],
+        "it": [
+          "Cosa sono quelle strane... energie rosse?"
+        ],
+        "ja": [
+          "何あの…赤いエネルギーは？"
+        ],
+        "ko": [
+          "저 이상한 붉은... 에너지들은 뭐지?"
+        ],
         "pt-br": [
           "O que são essas estranhas... energias vermelhas?"
+        ],
+        "ru": [
+          "Что это за странные красные... энергии?"
+        ],
+        "s-cn": [
+          "那些古怪的红色能量……是什么？"
+        ],
+        "t-cn": [
+          "那些古怪的紅色能量……是什麼？"
         ]
       },
       "silentCues": [],
@@ -84,8 +147,35 @@
             "en": [
               "Do you feel something strange?"
             ],
+            "de": [
+              "Spürst du etwas Seltsames?"
+            ],
+            "es": [
+              "¿Sientes algo extraño?"
+            ],
+            "fr": [
+              "Tu sens quelque chose d'étrange ?"
+            ],
+            "it": [
+              "Senti qualcosa di strano?"
+            ],
+            "ja": [
+              "なんか変な感じする？"
+            ],
+            "ko": [
+              "뭔가 이상한 게 느껴져?"
+            ],
             "pt-br": [
               "Você sente algo estranho?"
+            ],
+            "ru": [
+              "Ты чувствуешь что-нибудь странное?"
+            ],
+            "s-cn": [
+              "你有没有觉得哪里不对劲？"
+            ],
+            "t-cn": [
+              "你有沒有覺得哪裡不對勁？"
             ]
           },
           "provenance": {
@@ -106,8 +196,35 @@
             "en": [
               "No. Do you?"
             ],
+            "de": [
+              "Nein. Du?"
+            ],
+            "es": [
+              "No. ¿Y tú?"
+            ],
+            "fr": [
+              "Non. Et toi ?"
+            ],
+            "it": [
+              "No. E tu?"
+            ],
+            "ja": [
+              "いいや。お前は？"
+            ],
+            "ko": [
+              "아니. 너는?"
+            ],
             "pt-br": [
               "Não. E você?"
+            ],
+            "ru": [
+              "Нет. А ты?"
+            ],
+            "s-cn": [
+              "没有。你觉得呢？"
+            ],
+            "t-cn": [
+              "沒有。你覺得呢？"
             ]
           },
           "provenance": {
@@ -128,8 +245,35 @@
             "en": [
               "I think ... Maybe ... not?"
             ],
+            "de": [
+              "Ich glaube ... Vielleicht ... doch nicht?"
+            ],
+            "es": [
+              "Creo que... quizá... ¿no?"
+            ],
+            "fr": [
+              "Je crois... peut-être que... non ?"
+            ],
+            "it": [
+              "Credo... Forse... no?"
+            ],
+            "ja": [
+              "えっと…しない、かも？"
+            ],
+            "ko": [
+              "내 생각엔... 아마... 아닌 것 같은데?"
+            ],
             "pt-br": [
               "Acho... que talvez... não?"
+            ],
+            "ru": [
+              "Думаю... Наверное... нет?"
+            ],
+            "s-cn": [
+              "我觉得……也许……没有？"
+            ],
+            "t-cn": [
+              "我覺得……也許……沒有？"
             ]
           },
           "provenance": {
@@ -151,10 +295,55 @@
           "No. Do you?",
           "I think ... Maybe ... not?"
         ],
+        "de": [
+          "Spürst du etwas Seltsames?",
+          "Nein. Du?",
+          "Ich glaube ... Vielleicht ... doch nicht?"
+        ],
+        "es": [
+          "¿Sientes algo extraño?",
+          "No. ¿Y tú?",
+          "Creo que... quizá... ¿no?"
+        ],
+        "fr": [
+          "Tu sens quelque chose d'étrange ?",
+          "Non. Et toi ?",
+          "Je crois... peut-être que... non ?"
+        ],
+        "it": [
+          "Senti qualcosa di strano?",
+          "No. E tu?",
+          "Credo... Forse... no?"
+        ],
+        "ja": [
+          "なんか変な感じする？",
+          "いいや。お前は？",
+          "えっと…しない、かも？"
+        ],
+        "ko": [
+          "뭔가 이상한 게 느껴져?",
+          "아니. 너는?",
+          "내 생각엔... 아마... 아닌 것 같은데?"
+        ],
         "pt-br": [
           "Você sente algo estranho?",
           "Não. E você?",
           "Acho... que talvez... não?"
+        ],
+        "ru": [
+          "Ты чувствуешь что-нибудь странное?",
+          "Нет. А ты?",
+          "Думаю... Наверное... нет?"
+        ],
+        "s-cn": [
+          "你有没有觉得哪里不对劲？",
+          "没有。你觉得呢？",
+          "我觉得……也许……没有？"
+        ],
+        "t-cn": [
+          "你有沒有覺得哪裡不對勁？",
+          "沒有。你覺得呢？",
+          "我覺得……也許……沒有？"
         ]
       },
       "silentCues": [],
@@ -193,8 +382,35 @@
             "en": [
               "What is that ... out ... there?"
             ],
+            "de": [
+              "Was ist das ... dort ... draußen?"
+            ],
+            "es": [
+              "¿Qué es eso... de ahí... fuera?"
+            ],
+            "fr": [
+              "Qu'est-ce que c'est... là-bas ?"
+            ],
+            "it": [
+              "Che cos'è... quella cosa... là?"
+            ],
+            "ja": [
+              "あれは…なんだ？"
+            ],
+            "ko": [
+              "저... 밖에... 저건 뭐지?"
+            ],
             "pt-br": [
               "O que é aquilo... lá... fora?"
+            ],
+            "ru": [
+              "Что... это... там?.."
+            ],
+            "s-cn": [
+              "外……外边那个……是什么？"
+            ],
+            "t-cn": [
+              "外……外邊那個……是什麼？"
             ]
           },
           "provenance": {
@@ -215,8 +431,35 @@
             "en": [
               "I told you this was strange. I told you!!"
             ],
+            "de": [
+              "Ich hab doch gesagt, dass das seltsam ist. Ich hab's gesagt!!"
+            ],
+            "es": [
+              "Te dije que esto era raro. ¡¡Te lo dije!!"
+            ],
+            "fr": [
+              "Je t'avais dit que c'était étrange. Je te l'avais dit !!"
+            ],
+            "it": [
+              "Ti avevo detto che era strano. Te l'avevo detto!!"
+            ],
+            "ja": [
+              "やっぱり変だと思った！！"
+            ],
+            "ko": [
+              "이상하다고 했잖아. 내가 말했지!!"
+            ],
             "pt-br": [
               "Eu disse que isso era estranho. Eu disse!!"
+            ],
+            "ru": [
+              "Я же говорила, что это странно. Я же говорила!!"
+            ],
+            "s-cn": [
+              "我就说这里不对劲。我说了吧！！"
+            ],
+            "t-cn": [
+              "我就說這裡不對勁。我說了吧！！"
             ]
           },
           "provenance": {
@@ -237,8 +480,35 @@
             "en": [
               "Hello ... hello there? Could you help me out by skipping a stone back across the water?"
             ],
+            "de": [
+              "Hallo ... Hallo da drüben? Könnt ihr mir helfen und einen Stein übers Wasser zurückflitschen lassen?"
+            ],
+            "es": [
+              "Hola... ¿hola? ¿Podrías ayudarme y hacer saltar una piedra de vuelta por el agua?"
+            ],
+            "fr": [
+              "Hé là... euh, bonjour ? Vous pourriez m'aider en faisant ricocher une pierre de l'autre côté de l'eau ?"
+            ],
+            "it": [
+              "Ciao... ehilà? Potresti aiutarmi facendo rimbalzare una pietra sull'acqua fino a questa sponda?"
+            ],
+            "ja": [
+              "ど…どうも。手伝ってくれない？ 石を水の向こうへ押してほしいんだ。"
+            ],
+            "ko": [
+              "안녕... 저기 있잖아? 물수제비로 돌을 물 건너편으로 다시 보내게 좀 도와주겠어?"
+            ],
             "pt-br": [
               "Olá... olá? Você poderia me ajudar fazendo uma pedra quicar de volta pela água?"
+            ],
+            "ru": [
+              "Здравствуйте... эй, есть тут кто? Вы не могли бы помочь мне, пустив камень скакать по воде обратно?"
+            ],
+            "s-cn": [
+              "喂……那边有人吗？能不能帮个忙，打个水漂， 把一块石头送回我这边来？"
+            ],
+            "t-cn": [
+              "餵……那邊有人嗎？能不能幫個忙， 打個水漂，把一塊石頭送回我這邊來？"
             ]
           },
           "provenance": {
@@ -259,8 +529,35 @@
             "en": [
               "That's water?"
             ],
+            "de": [
+              "Das ist Wasser?"
+            ],
+            "es": [
+              "¿Eso es agua?"
+            ],
+            "fr": [
+              "C'est de l'eau, ça ?"
+            ],
+            "it": [
+              "Quella è acqua?"
+            ],
+            "ja": [
+              "これって水なのか？"
+            ],
+            "ko": [
+              "그게... 물이라고?"
+            ],
             "pt-br": [
               "Isso é água?"
+            ],
+            "ru": [
+              "Это вода?"
+            ],
+            "s-cn": [
+              "那是水？"
+            ],
+            "t-cn": [
+              "那是水？"
             ]
           },
           "provenance": {
@@ -281,8 +578,35 @@
             "en": [
               "How'd you put all that water in one place?"
             ],
+            "de": [
+              "Wie hast du denn all das Wasser auf einen Fleck gekriegt?"
+            ],
+            "es": [
+              "¿Cómo has conseguido meter toda esa agua en un solo sitio?"
+            ],
+            "fr": [
+              "Comment avez-vous réussi à mettre autant d'eau au même endroit ?"
+            ],
+            "it": [
+              "Come hai fatto a mettere tutta quell'acqua in un solo posto?"
+            ],
+            "ja": [
+              "なんで水がまとまってるの？"
+            ],
+            "ko": [
+              "어떻게 물을 한곳에 그렇게 많이 모았지?"
+            ],
             "pt-br": [
               "Como você juntou toda essa água num lugar só?"
+            ],
+            "ru": [
+              "Как ты собрала столько воды в одном месте?"
+            ],
+            "s-cn": [
+              "你们怎么把这么多水都聚到一起的？"
+            ],
+            "t-cn": [
+              "你們怎麼把這麼多水都聚到一起的？"
             ]
           },
           "provenance": {
@@ -303,8 +627,35 @@
             "en": [
               "This is a lot of water for you?"
             ],
+            "de": [
+              "Das hältst du für viel Wasser?"
+            ],
+            "es": [
+              "¿Crees que esto es mucha agua?"
+            ],
+            "fr": [
+              "Vous trouvez que c'est beaucoup d'eau ?"
+            ],
+            "it": [
+              "Ti sembra tanta acqua?"
+            ],
+            "ja": [
+              "この水が珍しいのかい？"
+            ],
+            "ko": [
+              "이 물이 많다고 생각해?"
+            ],
             "pt-br": [
               "Você acha que isso é muita água?"
+            ],
+            "ru": [
+              "Ты считаешь, это много воды?"
+            ],
+            "s-cn": [
+              "这点水，在你们看来就很多了？"
+            ],
+            "t-cn": [
+              "這點水，在你們看來就很多了？"
             ]
           },
           "provenance": {
@@ -329,6 +680,54 @@
           "How'd you put all that water in one place?",
           "This is a lot of water for you?"
         ],
+        "de": [
+          "Was ist das ... dort ... draußen?",
+          "Ich hab doch gesagt, dass das seltsam ist. Ich hab's gesagt!!",
+          "Hallo ... Hallo da drüben? Könnt ihr mir helfen und einen Stein übers Wasser zurückflitschen lassen?",
+          "Das ist Wasser?",
+          "Wie hast du denn all das Wasser auf einen Fleck gekriegt?",
+          "Das hältst du für viel Wasser?"
+        ],
+        "es": [
+          "¿Qué es eso... de ahí... fuera?",
+          "Te dije que esto era raro. ¡¡Te lo dije!!",
+          "Hola... ¿hola? ¿Podrías ayudarme y hacer saltar una piedra de vuelta por el agua?",
+          "¿Eso es agua?",
+          "¿Cómo has conseguido meter toda esa agua en un solo sitio?",
+          "¿Crees que esto es mucha agua?"
+        ],
+        "fr": [
+          "Qu'est-ce que c'est... là-bas ?",
+          "Je t'avais dit que c'était étrange. Je te l'avais dit !!",
+          "Hé là... euh, bonjour ? Vous pourriez m'aider en faisant ricocher une pierre de l'autre côté de l'eau ?",
+          "C'est de l'eau, ça ?",
+          "Comment avez-vous réussi à mettre autant d'eau au même endroit ?",
+          "Vous trouvez que c'est beaucoup d'eau ?"
+        ],
+        "it": [
+          "Che cos'è... quella cosa... là?",
+          "Ti avevo detto che era strano. Te l'avevo detto!!",
+          "Ciao... ehilà? Potresti aiutarmi facendo rimbalzare una pietra sull'acqua fino a questa sponda?",
+          "Quella è acqua?",
+          "Come hai fatto a mettere tutta quell'acqua in un solo posto?",
+          "Ti sembra tanta acqua?"
+        ],
+        "ja": [
+          "あれは…なんだ？",
+          "やっぱり変だと思った！！",
+          "ど…どうも。手伝ってくれない？ 石を水の向こうへ押してほしいんだ。",
+          "これって水なのか？",
+          "なんで水がまとまってるの？",
+          "この水が珍しいのかい？"
+        ],
+        "ko": [
+          "저... 밖에... 저건 뭐지?",
+          "이상하다고 했잖아. 내가 말했지!!",
+          "안녕... 저기 있잖아? 물수제비로 돌을 물 건너편으로 다시 보내게 좀 도와주겠어?",
+          "그게... 물이라고?",
+          "어떻게 물을 한곳에 그렇게 많이 모았지?",
+          "이 물이 많다고 생각해?"
+        ],
         "pt-br": [
           "O que é aquilo... lá... fora?",
           "Eu disse que isso era estranho. Eu disse!!",
@@ -336,6 +735,30 @@
           "Isso é água?",
           "Como você juntou toda essa água num lugar só?",
           "Você acha que isso é muita água?"
+        ],
+        "ru": [
+          "Что... это... там?..",
+          "Я же говорила, что это странно. Я же говорила!!",
+          "Здравствуйте... эй, есть тут кто? Вы не могли бы помочь мне, пустив камень скакать по воде обратно?",
+          "Это вода?",
+          "Как ты собрала столько воды в одном месте?",
+          "Ты считаешь, это много воды?"
+        ],
+        "s-cn": [
+          "外……外边那个……是什么？",
+          "我就说这里不对劲。我说了吧！！",
+          "喂……那边有人吗？能不能帮个忙，打个水漂， 把一块石头送回我这边来？",
+          "那是水？",
+          "你们怎么把这么多水都聚到一起的？",
+          "这点水，在你们看来就很多了？"
+        ],
+        "t-cn": [
+          "外……外邊那個……是什麼？",
+          "我就說這裡不對勁。我說了吧！！",
+          "餵……那邊有人嗎？能不能幫個忙， 打個水漂，把一塊石頭送回我這邊來？",
+          "那是水？",
+          "你們怎麼把這麼多水都聚到一起的？",
+          "這點水，在你們看來就很多了？"
         ]
       },
       "silentCues": [],
@@ -374,8 +797,35 @@
             "en": [
               "Thanks for the help, ..."
             ],
+            "de": [
+              "Danke für die Hilfe, ..."
+            ],
+            "es": [
+              "Gracias por la ayuda..."
+            ],
+            "fr": [
+              "Merci pour votre aide, euh..."
+            ],
+            "it": [
+              "Grazie per l'aiuto..."
+            ],
+            "ja": [
+              "助かったよ、えっと…"
+            ],
+            "ko": [
+              "도와줘서 고마워..."
+            ],
             "pt-br": [
               "Obrigado pela ajuda..."
+            ],
+            "ru": [
+              "Спасибо за помощь,"
+            ],
+            "s-cn": [
+              "多谢帮忙，呃……"
+            ],
+            "t-cn": [
+              "多謝幫忙，呃……"
             ]
           },
           "provenance": {
@@ -396,8 +846,35 @@
             "en": [
               "I'm Janaila. Good to meet you."
             ],
+            "de": [
+              "Ich bin Janaila. Freut mich."
+            ],
+            "es": [
+              "Janaila. Encantada de conocerte."
+            ],
+            "fr": [
+              "Janaila. Ravie de faire votre connaissance."
+            ],
+            "it": [
+              "Janaila. Piacere di conoscerti."
+            ],
+            "ja": [
+              "ジャネイラだよ。よろしく。"
+            ],
+            "ko": [
+              "자나일라야. 만나서 반가워."
+            ],
             "pt-br": [
               "Janaila. Prazer em te conhecer."
+            ],
+            "ru": [
+              "Жанайла. Приятно познакомиться."
+            ],
+            "s-cn": [
+              "我是贾奈拉。幸会。"
+            ],
+            "t-cn": [
+              "我是賈奈拉。幸會。"
             ]
           },
           "provenance": {
@@ -418,8 +895,35 @@
             "en": [
               "Think we'll see her again?"
             ],
+            "de": [
+              "Meinst du, wir sehen sie wieder?"
+            ],
+            "es": [
+              "¿Crees que la volveremos a ver?"
+            ],
+            "fr": [
+              "Vous croyez qu'on la reverra ?"
+            ],
+            "it": [
+              "Pensi che la rivedremo?"
+            ],
+            "ja": [
+              "また会えるかな？"
+            ],
+            "ko": [
+              "다시 만날 수 있을까?"
+            ],
             "pt-br": [
               "Será que vamos vê-la de novo?"
+            ],
+            "ru": [
+              "Как думаешь, мы ещё её увидим?"
+            ],
+            "s-cn": [
+              "你觉得我们还会见到她吗？"
+            ],
+            "t-cn": [
+              "你覺得我們還會見到她嗎？"
             ]
           },
           "provenance": {
@@ -441,10 +945,55 @@
           "I'm Janaila. Good to meet you.",
           "Think we'll see her again?"
         ],
+        "de": [
+          "Danke für die Hilfe, ...",
+          "Ich bin Janaila. Freut mich.",
+          "Meinst du, wir sehen sie wieder?"
+        ],
+        "es": [
+          "Gracias por la ayuda...",
+          "Janaila. Encantada de conocerte.",
+          "¿Crees que la volveremos a ver?"
+        ],
+        "fr": [
+          "Merci pour votre aide, euh...",
+          "Janaila. Ravie de faire votre connaissance.",
+          "Vous croyez qu'on la reverra ?"
+        ],
+        "it": [
+          "Grazie per l'aiuto...",
+          "Janaila. Piacere di conoscerti.",
+          "Pensi che la rivedremo?"
+        ],
+        "ja": [
+          "助かったよ、えっと…",
+          "ジャネイラだよ。よろしく。",
+          "また会えるかな？"
+        ],
+        "ko": [
+          "도와줘서 고마워...",
+          "자나일라야. 만나서 반가워.",
+          "다시 만날 수 있을까?"
+        ],
         "pt-br": [
           "Obrigado pela ajuda...",
           "Janaila. Prazer em te conhecer.",
           "Será que vamos vê-la de novo?"
+        ],
+        "ru": [
+          "Спасибо за помощь,",
+          "Жанайла. Приятно познакомиться.",
+          "Как думаешь, мы ещё её увидим?"
+        ],
+        "s-cn": [
+          "多谢帮忙，呃……",
+          "我是贾奈拉。幸会。",
+          "你觉得我们还会见到她吗？"
+        ],
+        "t-cn": [
+          "多謝幫忙，呃……",
+          "我是賈奈拉。幸會。",
+          "你覺得我們還會見到她嗎？"
         ]
       },
       "silentCues": [],

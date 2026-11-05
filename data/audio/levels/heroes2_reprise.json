@@ -7,7 +7,16 @@
   },
   "subtitleSha256": {
     "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e"
+    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
+    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
+    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
+    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
+    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
+    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
+    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
+    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
+    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
+    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
   },
   "conversations": [
     {
@@ -27,12 +36,75 @@
               "Even if I never make my living by the sword again... it's the indignity of it, you know?",
               "The deal with the King aside, I'd capture this snakeweasel just on principle. He's left enough wreckage behind him already."
             ],
+            "de": [
+              "Wenn wir Magistrat Reynard fassen, wird der König befehlen, meine Schwertbindung aufzuheben.",
+              "Und dann habe ich die Freiheit, meinen eigenen Weg zu gehen,",
+              "statt mich nur zu ducken und mich mit den Resten abzufinden, die mir bleiben.",
+              "Selbst wenn ich nie wieder zum Schwert greife, um meinen Lebensunterhalt zu verdienen ... Es ist diese Demütigung, verstehst du?",
+              "Abmachung mit dem König hin oder her: Dieses Schlangenwiesel würde ich schon aus Prinzip fassen. Er hat bereits genug Verwüstung verursacht."
+            ],
+            "es": [
+              "Si atrapamos al magistrado Reynard, el rey ordenará que anulen mi atadura a la espada.",
+              "Y eso me dará libertad para elegir mi propio camino,",
+              "en lugar de acobardarme y aceptar las migajas que me dejen.",
+              "Aunque nunca vuelva a ganarme la vida con la espada... es por la humillación, ¿sabes?",
+              "Dejando a un lado el trato con el rey, atraparía a esa sabandija por una cuestión de principios. Ya ha causado suficientes estragos."
+            ],
+            "fr": [
+              "Si nous capturons le magistrat Reynard, le roi ordonnera qu'on lève mon entrave d'épée.",
+              "Et je serai alors libre de choisir ma propre voie,",
+              "au lieu de me terrer et de me contenter des miettes qu'on veut bien me laisser.",
+              "Même si je ne gagne plus jamais ma vie par l'épée... c'est humiliant, vous comprenez ?",
+              "Même sans cet accord avec le roi, je capturerais cette fouine de malheur par principe. Il a déjà fait assez de dégâts comme ça."
+            ],
+            "it": [
+              "Se catturiamo il magistrato Reynard, il Re ordinerà di sciogliere il mio vincolo della spada.",
+              "E questo mi darà la libertà di scegliere la mia strada,",
+              "invece di rannicchiarmi per la paura e accettare qualsiasi avanzo mi lascino.",
+              "Anche se non dovessi mai più guadagnarmi da vivere con la spada... è umiliante, capisci?",
+              "A prescindere dall'accordo con il Re, catturerei questa serpe anche solo per principio. Ha già seminato abbastanza distruzione."
+            ],
+            "ja": [
+              "判事を捕まえれば、 王は俺を解放してくれる。",
+              "そしたら また俺の人生が変わる。",
+              "縮こまって、残り物を ありがたく受け取るだけなんて、まっぴらだ。",
+              "二度と剣で食っていけなくても… あの屈辱は我慢できねえ。分かるだろ？",
+              "それを抜きにしても ヤツを捕まえるけどな。 被害を出しすぎてる。"
+            ],
+            "ko": [
+              "치안판사 레이너드를 잡으면, 국왕이 날 검에 묶인 몸에서 풀어주라고 명령할 거야.",
+              "그러면 내 길을 스스로 정할 자유가 생기겠지,",
+              "움츠린 채 내 몫으로 남은 부스러기나 받아들이는 대신에.",
+              "다시는 검으로 먹고살지 않더라도... 이렇게 사는 게 굴욕적이잖아, 안 그래?",
+              "국왕과의 거래가 아니더라도, 그 간악한 족제비 같은 놈은 도리상 잡아야겠어. 이미 가는 곳마다 충분히 망쳐놨으니까."
+            ],
             "pt-br": [
               "Se pegarmos o Magistrado Reynard, o Rei mandará desfazer meu vínculo com a espada.",
               "E isso me dará liberdade para escolher meu próprio caminho,",
               "em vez de só me encolher e aceitar as migalhas que me deixam.",
               "Mesmo que eu nunca mais ganhe a vida com a espada... é pela humilhação, sabe?",
               "Mesmo sem o acordo com o Rei, eu pegaria esse crápula por uma questão de princípio. Ele já deixou estragos demais pelo caminho."
+            ],
+            "ru": [
+              "Если мы поймаем Магистрата Рейнарда, король прикажет снять с меня оковы меча.",
+              "И тогда я буду волен выбирать свой путь,",
+              "а не съёживаться от страха и довольствоваться объедками, которые мне оставят.",
+              "Даже если я больше никогда не стану зарабатывать мечом... это ведь унизительно, понимаешь?",
+              "Даже без сделки с королём я бы поймал этого гада из принципа. Хватит с нас бед, которые он натворил."
+            ],
+            "s-cn": [
+              "只要抓住雷纳德执政官，国王就会下令解除我的剑缚。",
+              "那样我就能自由地走自己的路了，",
+              "而不是畏畏缩缩，只能接受别人施舍的那点机会。",
+              "就算我以后再也不靠剑谋生…… 可被这样束缚着，实在太屈辱了，你明白吗？",
+              "撇开和国王的交易不谈，光凭原则我也要抓住这条毒蛇。 他身后已经留下够多残骸了。"
+            ],
+            "t-cn": [
+              "只要抓住雷納德執政官，國王就會下令解除我的縛劍。",
+              "那樣我就能自由地走自己的路了，",
+              "而不是畏畏縮縮，只能接受別人施捨的那點機會。",
+              "就算我以後再也不靠劍謀生…… 可被這樣束縛著，實在太屈辱了，你明白嗎？",
+              "撇開和國王的交易不談，光憑原則我也要抓住這條毒蛇。 他身後已經留下夠多殘骸了。"
             ]
           },
           "provenance": {
@@ -60,12 +132,75 @@
           "Even if I never make my living by the sword again... it's the indignity of it, you know?",
           "The deal with the King aside, I'd capture this snakeweasel just on principle. He's left enough wreckage behind him already."
         ],
+        "de": [
+          "Wenn wir Magistrat Reynard fassen, wird der König befehlen, meine Schwertbindung aufzuheben.",
+          "Und dann habe ich die Freiheit, meinen eigenen Weg zu gehen,",
+          "statt mich nur zu ducken und mich mit den Resten abzufinden, die mir bleiben.",
+          "Selbst wenn ich nie wieder zum Schwert greife, um meinen Lebensunterhalt zu verdienen ... Es ist diese Demütigung, verstehst du?",
+          "Abmachung mit dem König hin oder her: Dieses Schlangenwiesel würde ich schon aus Prinzip fassen. Er hat bereits genug Verwüstung verursacht."
+        ],
+        "es": [
+          "Si atrapamos al magistrado Reynard, el rey ordenará que anulen mi atadura a la espada.",
+          "Y eso me dará libertad para elegir mi propio camino,",
+          "en lugar de acobardarme y aceptar las migajas que me dejen.",
+          "Aunque nunca vuelva a ganarme la vida con la espada... es por la humillación, ¿sabes?",
+          "Dejando a un lado el trato con el rey, atraparía a esa sabandija por una cuestión de principios. Ya ha causado suficientes estragos."
+        ],
+        "fr": [
+          "Si nous capturons le magistrat Reynard, le roi ordonnera qu'on lève mon entrave d'épée.",
+          "Et je serai alors libre de choisir ma propre voie,",
+          "au lieu de me terrer et de me contenter des miettes qu'on veut bien me laisser.",
+          "Même si je ne gagne plus jamais ma vie par l'épée... c'est humiliant, vous comprenez ?",
+          "Même sans cet accord avec le roi, je capturerais cette fouine de malheur par principe. Il a déjà fait assez de dégâts comme ça."
+        ],
+        "it": [
+          "Se catturiamo il magistrato Reynard, il Re ordinerà di sciogliere il mio vincolo della spada.",
+          "E questo mi darà la libertà di scegliere la mia strada,",
+          "invece di rannicchiarmi per la paura e accettare qualsiasi avanzo mi lascino.",
+          "Anche se non dovessi mai più guadagnarmi da vivere con la spada... è umiliante, capisci?",
+          "A prescindere dall'accordo con il Re, catturerei questa serpe anche solo per principio. Ha già seminato abbastanza distruzione."
+        ],
+        "ja": [
+          "判事を捕まえれば、 王は俺を解放してくれる。",
+          "そしたら また俺の人生が変わる。",
+          "縮こまって、残り物を ありがたく受け取るだけなんて、まっぴらだ。",
+          "二度と剣で食っていけなくても… あの屈辱は我慢できねえ。分かるだろ？",
+          "それを抜きにしても ヤツを捕まえるけどな。 被害を出しすぎてる。"
+        ],
+        "ko": [
+          "치안판사 레이너드를 잡으면, 국왕이 날 검에 묶인 몸에서 풀어주라고 명령할 거야.",
+          "그러면 내 길을 스스로 정할 자유가 생기겠지,",
+          "움츠린 채 내 몫으로 남은 부스러기나 받아들이는 대신에.",
+          "다시는 검으로 먹고살지 않더라도... 이렇게 사는 게 굴욕적이잖아, 안 그래?",
+          "국왕과의 거래가 아니더라도, 그 간악한 족제비 같은 놈은 도리상 잡아야겠어. 이미 가는 곳마다 충분히 망쳐놨으니까."
+        ],
         "pt-br": [
           "Se pegarmos o Magistrado Reynard, o Rei mandará desfazer meu vínculo com a espada.",
           "E isso me dará liberdade para escolher meu próprio caminho,",
           "em vez de só me encolher e aceitar as migalhas que me deixam.",
           "Mesmo que eu nunca mais ganhe a vida com a espada... é pela humilhação, sabe?",
           "Mesmo sem o acordo com o Rei, eu pegaria esse crápula por uma questão de princípio. Ele já deixou estragos demais pelo caminho."
+        ],
+        "ru": [
+          "Если мы поймаем Магистрата Рейнарда, король прикажет снять с меня оковы меча.",
+          "И тогда я буду волен выбирать свой путь,",
+          "а не съёживаться от страха и довольствоваться объедками, которые мне оставят.",
+          "Даже если я больше никогда не стану зарабатывать мечом... это ведь унизительно, понимаешь?",
+          "Даже без сделки с королём я бы поймал этого гада из принципа. Хватит с нас бед, которые он натворил."
+        ],
+        "s-cn": [
+          "只要抓住雷纳德执政官，国王就会下令解除我的剑缚。",
+          "那样我就能自由地走自己的路了，",
+          "而不是畏畏缩缩，只能接受别人施舍的那点机会。",
+          "就算我以后再也不靠剑谋生…… 可被这样束缚着，实在太屈辱了，你明白吗？",
+          "撇开和国王的交易不谈，光凭原则我也要抓住这条毒蛇。 他身后已经留下够多残骸了。"
+        ],
+        "t-cn": [
+          "只要抓住雷納德執政官，國王就會下令解除我的縛劍。",
+          "那樣我就能自由地走自己的路了，",
+          "而不是畏畏縮縮，只能接受別人施捨的那點機會。",
+          "就算我以後再也不靠劍謀生…… 可被這樣束縛著，實在太屈辱了，你明白嗎？",
+          "撇開和國王的交易不談，光憑原則我也要抓住這條毒蛇。 他身後已經留下夠多殘骸了。"
         ]
       },
       "silentCues": [],
@@ -104,8 +239,35 @@
             "en": [
               "My meeting spot with my friend Tif is up ahead. You'll like her."
             ],
+            "de": [
+              "Weiter vorn treffe ich mich mit meiner Freundin Tif. Du wirst sie mögen."
+            ],
+            "es": [
+              "Mi punto de encuentro con mi amiga Tif está más adelante. Te va a caer genial."
+            ],
+            "fr": [
+              "Mon point de rendez-vous avec mon amie Tif est juste devant. Vous allez l'aimer."
+            ],
+            "it": [
+              "Il punto d'incontro con la mia amica Tif è poco più avanti. Ti piacerà, vedrai."
+            ],
+            "ja": [
+              "ティフとの合流地点は この先だ。 きっと気に入るぞ。"
+            ],
+            "ko": [
+              "내 친구 티프랑 만날 장소가 저 앞이야. 당신도 맘에 들 거요."
+            ],
             "pt-br": [
               "Meu ponto de encontro com minha amiga Tif é ali na frente. Você vai gostar dela."
+            ],
+            "ru": [
+              "Впереди место встречи с моей подругой Тиф. Она тебе понравится."
+            ],
+            "s-cn": [
+              "我和我朋友蒂芙的碰头点就在前面。你会喜欢她的。"
+            ],
+            "t-cn": [
+              "我和我朋友蒂芙的碰頭點就在前面。你會喜歡她的。"
             ]
           },
           "provenance": {
@@ -125,8 +287,35 @@
         "en": [
           "My meeting spot with my friend Tif is up ahead. You'll like her."
         ],
+        "de": [
+          "Weiter vorn treffe ich mich mit meiner Freundin Tif. Du wirst sie mögen."
+        ],
+        "es": [
+          "Mi punto de encuentro con mi amiga Tif está más adelante. Te va a caer genial."
+        ],
+        "fr": [
+          "Mon point de rendez-vous avec mon amie Tif est juste devant. Vous allez l'aimer."
+        ],
+        "it": [
+          "Il punto d'incontro con la mia amica Tif è poco più avanti. Ti piacerà, vedrai."
+        ],
+        "ja": [
+          "ティフとの合流地点は この先だ。 きっと気に入るぞ。"
+        ],
+        "ko": [
+          "내 친구 티프랑 만날 장소가 저 앞이야. 당신도 맘에 들 거요."
+        ],
         "pt-br": [
           "Meu ponto de encontro com minha amiga Tif é ali na frente. Você vai gostar dela."
+        ],
+        "ru": [
+          "Впереди место встречи с моей подругой Тиф. Она тебе понравится."
+        ],
+        "s-cn": [
+          "我和我朋友蒂芙的碰头点就在前面。你会喜欢她的。"
+        ],
+        "t-cn": [
+          "我和我朋友蒂芙的碰頭點就在前面。你會喜歡她的。"
         ]
       },
       "silentCues": [],
