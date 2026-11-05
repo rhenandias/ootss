@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -54,7 +54,7 @@
               "Ele trancou a gente porque você roubou a maleta dele?"
             ],
             "ru": [
-              "Он запер нас из-за того, что ты украла его ранец?"
+              "Он запер нас из-за того, что ты украла его футляр?"
             ],
             "s-cn": [
               "合着他把我们关起来，就因为你偷了他的箱子？"
@@ -87,32 +87,32 @@
               "kleine Notizen verraten viel über Menschen, wisst ihr? Man muss zwischen den Zeilen lesen. Also habe ich mal reingelinst."
             ],
             "es": [
-              "Al principio me decepcionó. Pero luego me di cuenta,",
-              "las notas dicen mucho de la gente, ¿sabes? Puedes leer entre líneas. Así que les eché un vistazo."
+              "Al principio me decepcionó. Pero luego me di cuenta",
+              "de que las notas dicen mucho de la gente, ¿sabes? Permiten leer entre líneas. Así que les eché un vistazo."
             ],
             "fr": [
               "Au début, j'étais déçue. Mais ensuite, j'ai réalisé",
               "que les écrits en disent long sur les gens, tu sais... surtout quand on lit entre les lignes. Alors j'ai jeté un coup d'œil."
             ],
             "it": [
-              "All'inizio è stata una delusione. Ma poi ho capito,",
-              "gli appunti rivelano molto delle persone, sai? Bisogna leggere tra le righe. Quindi ho dato una sbirciatina."
+              "All'inizio mi sentivo delusa. Ma poi ho capito.",
+              "Gli appunti rivelano molto delle persone, sai? Bisogna leggere tra le righe. Quindi ho dato una sbirciatina."
             ],
             "ja": [
               "ヤツの本性を知るために 読んでみたの。",
               "走り書きのメモにこそ 人となりが出るんだよ！"
             ],
             "ko": [
-              "처음엔 실망했어. 하지만 곧 깨달았지,",
+              "처음엔 실망했어. 하지만 곧 깨달았지.",
               "사소한 메모만 봐도 어떤 사람에 대해 많은 걸 알 수 있잖아? 행간을 읽는 거지. 그래서 살짝 들여다봤어."
             ],
             "pt-br": [
-              "De início fiquei decepcionado. Mas depois percebi,",
+              "De início fiquei decepcionada. Mas depois percebi,",
               "pequenas anotações dizem muito sobre as pessoas, sabe? Lendo nas entrelinhas. Então dei uma espiadinha."
             ],
             "ru": [
-              "Сначала меня это разочаровало. Но потом пришло понимание,",
-              "заметки много рассказывают о людях, знаешь? Читать между строк. Вот я и заглянула одним глазком."
+              "Сначала меня это разочаровало. Но потом пришло понимание:",
+              "заметки много рассказывают о людях, знаешь? Читай между строк. Вот я и заглянула одним глазком."
             ],
             "s-cn": [
               "起初我很失望。但随后我意识到，",
@@ -198,7 +198,7 @@
             ],
             "es": [
               "No deberíamos haber aceptado nunca este trabajo, o quizá sí deberíamos haberlo hecho... como hicimos... porque si no...",
-              "no sabríamos lo que sabemos, que es que tenemos que detenerlo... lo antes posible."
+              "no sabríamos lo que sabemos, que es que tenemos que impedírselo... lo antes posible."
             ],
             "fr": [
               "On n'aurait jamais dû accepter ce boulot... ou peut-être que si, comme on l'a fait, parce que si on avait refusé,",
@@ -214,7 +214,7 @@
             ],
             "ko": [
               "우린 이 일을 맡지 말았어야 했어. 아니, 맡길 잘했을지도 몰라... 안 그랬더라면",
-              "지금 우리가 아는 사실을 몰랐을 테니까. 놈을 막아야 한다는 거 말이야... 최대한 빨리."
+              "지금 우리가 아는 사실을 몰랐을 테니까. 우린 놈을 막아야 해... 그것도 최대한 빨리."
             ],
             "pt-br": [
               "Nunca deveríamos ter aceitado esse serviço, ou talvez devêssemos ter — como fizemos — porque, se não tivéssemos,",
@@ -266,11 +266,11 @@
         ],
         "es": [
           "¿Nos encerró porque le robaste el estuche?",
-          "Al principio me decepcionó. Pero luego me di cuenta,",
-          "las notas dicen mucho de la gente, ¿sabes? Puedes leer entre líneas. Así que les eché un vistazo.",
+          "Al principio me decepcionó. Pero luego me di cuenta",
+          "de que las notas dicen mucho de la gente, ¿sabes? Permiten leer entre líneas. Así que les eché un vistazo.",
           "¿Y?",
           "No deberíamos haber aceptado nunca este trabajo, o quizá sí deberíamos haberlo hecho... como hicimos... porque si no...",
-          "no sabríamos lo que sabemos, que es que tenemos que detenerlo... lo antes posible."
+          "no sabríamos lo que sabemos, que es que tenemos que impedírselo... lo antes posible."
         ],
         "fr": [
           "Il nous a enfermés parce que tu as volé sa malle ?",
@@ -282,8 +282,8 @@
         ],
         "it": [
           "Ci ha rinchiusi perché hai rubato la sua valigetta?",
-          "All'inizio è stata una delusione. Ma poi ho capito,",
-          "gli appunti rivelano molto delle persone, sai? Bisogna leggere tra le righe. Quindi ho dato una sbirciatina.",
+          "All'inizio mi sentivo delusa. Ma poi ho capito.",
+          "Gli appunti rivelano molto delle persone, sai? Bisogna leggere tra le righe. Quindi ho dato una sbirciatina.",
           "E...?",
           "Non avremmo mai dovuto accettare questo lavoro, o forse avremmo dovuto... come abbiamo fatto... perché se non l'avessimo fatto,",
           "non sapremmo quello che sappiamo, ovvero che dobbiamo fermarlo... il prima possibile."
@@ -298,24 +298,24 @@
         ],
         "ko": [
           "네가 그놈 상자를 훔쳐서 놈이 우릴 가뒀다고?",
-          "처음엔 실망했어. 하지만 곧 깨달았지,",
+          "처음엔 실망했어. 하지만 곧 깨달았지.",
           "사소한 메모만 봐도 어떤 사람에 대해 많은 걸 알 수 있잖아? 행간을 읽는 거지. 그래서 살짝 들여다봤어.",
           "그래서?",
           "우린 이 일을 맡지 말았어야 했어. 아니, 맡길 잘했을지도 몰라... 안 그랬더라면",
-          "지금 우리가 아는 사실을 몰랐을 테니까. 놈을 막아야 한다는 거 말이야... 최대한 빨리."
+          "지금 우리가 아는 사실을 몰랐을 테니까. 우린 놈을 막아야 해... 그것도 최대한 빨리."
         ],
         "pt-br": [
           "Ele trancou a gente porque você roubou a maleta dele?",
-          "De início fiquei decepcionado. Mas depois percebi,",
+          "De início fiquei decepcionada. Mas depois percebi,",
           "pequenas anotações dizem muito sobre as pessoas, sabe? Lendo nas entrelinhas. Então dei uma espiadinha.",
           "E aí?",
           "Nunca deveríamos ter aceitado esse serviço, ou talvez devêssemos ter — como fizemos — porque, se não tivéssemos,",
           "não saberíamos o que sabemos, que é: temos que impedir ele... o mais rápido possível."
         ],
         "ru": [
-          "Он запер нас из-за того, что ты украла его ранец?",
-          "Сначала меня это разочаровало. Но потом пришло понимание,",
-          "заметки много рассказывают о людях, знаешь? Читать между строк. Вот я и заглянула одним глазком.",
+          "Он запер нас из-за того, что ты украла его футляр?",
+          "Сначала меня это разочаровало. Но потом пришло понимание:",
+          "заметки много рассказывают о людях, знаешь? Читай между строк. Вот я и заглянула одним глазком.",
           "И?",
           "Нам вообще не следовало брать этот заказ, или, может, следовало — как мы и сделали — потому что если бы нет,",
           "мы бы не узнали того, что знаем сейчас, а именно — что мы должны его остановить... как можно скорее."
@@ -438,7 +438,7 @@
               "まずはクリスタルをどうにかしよう。"
             ],
             "ko": [
-              "이 수정들 얘기 좀 해야겠어... 어떻게 만들어지는지."
+              "이 수정들이 어떻게 만들어지는지... 그 얘기를 좀 해야겠어."
             ],
             "pt-br": [
               "Esses cristais. Precisamos conversar sobre... como são feitos."
@@ -493,7 +493,7 @@
         ],
         "ko": [
           "그를 막는다고, 무엇으로부터?",
-          "이 수정들 얘기 좀 해야겠어... 어떻게 만들어지는지."
+          "이 수정들이 어떻게 만들어지는지... 그 얘기를 좀 해야겠어."
         ],
         "pt-br": [
           "Impedir ele de quê?",

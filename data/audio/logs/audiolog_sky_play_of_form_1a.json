@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_sky_play_of_form_1a",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -61,7 +61,7 @@
               "... le leggi della fisica, della chimica, dell'astronomia e così via.",
               "Quindi, cos'è la legge? Se la si guarda dall'interno del tempo,",
               "la legge fisica consiste in un insieme di regole, non molto diverso dalle regole di un gioco:",
-              "quando l'oggetto A e l'oggetto B interagiscono, e le proprietà di A e B",
+              "quando l'oggetto A e l'oggetto B interagiscono e le proprietà di A e B",
               "sono disposte in un certo modo, il regolamento ti dice il risultato.",
               "Ripeti queste regole ancora e ancora, ed ecco la fisica, la chimica o qualsiasi altro insieme di leggi che tu possa codificare."
             ],
@@ -90,12 +90,12 @@
               "Repita essas regras várias e várias vezes, e é a física acontecendo, ou a química, ou qualquer outro conjunto de leis que você consiga codificar."
             ],
             "ru": [
-              "... законах физики, химии, астрономии и так далее.",
+              "... законы физики, химии, астрономии и так далее.",
               "Так что же такое Закон? Если смотреть изнутри Времени,",
               "физический Закон состоит из набора правил, не столь уж отличных от правил игры:",
-              "когда объект А и объект Б взаимодействуют, и свойства А и Б",
+              "когда объект А и объект В взаимодействуют, и свойства А и В",
               "расположены так или иначе, правила подскажут результат.",
-              "Повторяйте эти правила снова и снова, и вот так работает физика, или химия, или любой другой формализуемый набор законов."
+              "Повторяешь эти правила снова и снова, и вот так работает физика, или химия, или любой другой формализуемый набор законов."
             ],
             "s-cn": [
               "……物理学、化学、天文学等领域的法则。",
@@ -117,12 +117,12 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_1__acting.wav",
             "subtitleCueLines": [
-              9876,
-              9880,
-              9885,
-              9889,
-              9893,
-              9897
+              9886,
+              9890,
+              9895,
+              9899,
+              9903,
+              9907
             ],
             "explicitAudioReference": null
           }
@@ -171,7 +171,7 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_2__sokoban.wav",
             "subtitleCueLines": [
-              9902
+              9912
             ],
             "explicitAudioReference": null
           }
@@ -247,7 +247,7 @@
               "Cuando acercamos estos dos elementos, se libera una especie de potencial:",
               "se produce esta gran explosión de posibilidades, que genera formas sorprendentes de interacción entre el espejo y la piedra.",
               "Y cribamos, encontramos las consecuencias más deliciosas y hermosas, o simplemente inesperadas,",
-              "y los enmarcamos, para ayudar a los Visitantes como tú a apreciar este despliegue.",
+              "y las enmarcamos, para ayudar a los Visitantes como tú a apreciar este despliegue.",
               "Ese es el porqué de todos estos puzles. Los puzles enmarcan casos concretos de ese despliegue.",
               "Y muchos casos, bien expuestos juntos, completan en nuestra mente una imagen rica y multidimensional.",
               "Se ven las similitudes entre un comportamiento y otro.",
@@ -290,13 +290,13 @@
               "l'esplosione creativa che avviene quando le regole agiscono sullo stato.",
               "Quando uno specchio e una pietra da lanciare si incontrano e il risultato genera novità e sorpresa,",
               "lo vediamo come una manifestazione specifica del continuo dispiegarsi del processo di creazione dell'universo.",
-              "Osserviamo con occhi spalancati; cerchiamo di immergerci, di assorbire tutto.",
+              "Osserviamo con occhi spalancati, cerchiamo di immergerci, di assorbire tutto.",
               "In qualche modo l'universo vuole che lo specchio e la pietra da lanciare giochino insieme.",
               "Quando avviciniamo questi due elementi, si libera una qualche forma di potenziale:",
               "avviene questa grande esplosione di possibilità, che genera modi sorprendenti in cui specchio e pietra possono interagire.",
-              "E setacciando, troviamo le conseguenze più deliziose e belle, o semplicemente inaspettate,",
+              "Ed esplorando, troviamo le conseguenze più deliziose e belle, o semplicemente inaspettate,",
               "e le inquadriamo, per aiutare i Visitatori come te ad apprezzare questo dispiegarsi.",
-              "Ecco il perché di tutti questi enigmi. Gli enigmi fanno da cornice a esempi specifici di questo dispiegarsi.",
+              "Ecco il perché di tutti questi rompicapo. I rompicapo fanno da cornice a esempi specifici di questo dispiegarsi.",
               "E molti casi, ben presentati insieme, riempiono la nostra mente di un'immagine ricca e multidimensionale.",
               "Si vedono le somiglianze tra un comportamento e l'altro.",
               "Si vedono le differenze. Si notano i momenti unici che sembrano comunicare qualcosa di speciale, che sfugge alle parole.",
@@ -333,22 +333,22 @@
               "한 상태를 다른 상태에 대응시킨다고 할 수 있지.",
               "하지만 규칙은 상태와 상태를 무미건조하게 대응시키지 않아.",
               "규칙이 꼭 알맞으면, 뭔가를 만들어내. 풍성하고 때로는 무척이나 놀라운 결과를 낳는 거야.",
-              "그러면 다시 그 영적 전통들로 돌아오게 되지. 우주가 기쁨을 표현하는 한 방식으로 형태를 탐구한다고 말하는 전통들로.",
+              "그러면 다시 그 영적 전통들로 돌아오게 되지 우주가 기쁨을 표현하는 한 방식으로 형태를 탐구한다고 말하는 전통들로.",
               "우리 전통은 그 전통들을 이어받았어. 우리는 이 형태의 유희를 법칙이 허용하는 가능성의 개화로 보며 그 전통을 이어 가:",
               "규칙이 상태에 작용한 결과로 일어나는 창조의 폭발인 거지.",
               "거울과 물수제비가 만나서, 그 결과로 새로움과 놀라움이 생겨나면,",
               "우리는 그걸 우주가 끊임없이 펼치는 창조의 구체적인 한 사례로 봐.",
-              "우린 눈을 크게 뜨고 바라보며 그 안에 푹 잠겨, 모든 걸 받아들이려 해.",
+              "눈을 크게 뜨고 바라보며 그 안에 푹 잠겨, 모든 걸 받아들이려 해.",
               "어떤 식으로든 우주는 거울과 물수제비가 함께 놀기를 원하는 거야.",
               "우리가 이 두 요소를 한데 모으면, 어떤 잠재력이 방출돼.",
               "가능성이 엄청나게 폭발하면서, 거울과 돌이 서로 작용하는 놀라운 방식들이 생겨나.",
               "그러면 우리는 그걸 샅샅이 살펴서, 가장 즐겁거나 아름다운 결과, 아니면 그저 뜻밖인 결과를 찾아내지.",
-              "그리고 거기에 틀을 둘러, 너 같은 방문객들이 이 전개를 음미할 수 있게 돕지.",
-              "이 모든 퍼즐이 존재하는 이유야. 퍼즐은 전개의 구체적인 사례들을 틀로 감싸 주지.",
-              "많은 사례를 함께 잘 펼쳐 놓으면, 머릿속에 풍성하고 다차원적인 그림이 완성되지.",
+              "그리고 거기에 틀을 두른 다음 너 같은 방문객들이 이 전개를 음미할 수 있게 돕는 거야.",
+              "그게 이 모든 퍼즐이 존재하는 이유야. 퍼즐은 전개의 구체적인 사례들을 틀로 감싸지.",
+              "많은 사례를 함께 잘 펼쳐 놓으면, 머릿속에 풍성하고 다차원적인 그림이 완성되는 거야.",
               "어떤 움직임과 다른 움직임 사이에서 닮은 점을 보게 돼.",
               "차이점도 보게 되지. 말로 표현하기 어려운 뭔가 특별한 것을 전하는 듯한 독특한 순간들을 알아차리게 돼.",
-              "별자리처럼 모인 사례들을 통해, 우리는 의식 속에 만들어 가",
+              "별자리처럼 모인 사례들을 통해, 우리는 다른 방법으로는",
               "결코 얻을 수 없는 형태의 유희에 대한 심상을 만들어가는 거야."
             ],
             "pt-br": [
@@ -391,11 +391,11 @@
               "Мы сближаем эти два элемента, и высвобождается некий потенциал:",
               "происходит этот большой взрыв возможностей, порождающий удивительные способы взаимодействия зеркала и камня.",
               "Мы внимательно просматриваем их, находим последствия наиболее восхитительные, прекрасные или просто неожиданные,",
-              "и мы заключаем их в рамки, чтобы посетители вроде тебя могли оценить это развёртывание.",
+              "и мы заключаем их в рамки, чтобы Гости вроде тебя могли оценить это развёртывание.",
               "Вот для чего нужны все эти головоломки. Они обрамляют отдельные примеры развёртывания.",
               "Многочисленные случаи, наглядно представленные вместе, создают в нашем сознании богатый, многомерный образ.",
-              "Вы видите сходства между одними взаимодействиями и другими.",
-              "Вы видите различия. Вы замечаете уникальные моменты, которые, кажется, передают что-то особенное, что невозможно выразить словами.",
+              "Ты видишь сходства между одними взаимодействиями и другими.",
+              "Видишь различия. Замечаешь уникальные моменты, которые, кажется, передают что-то особенное, что невозможно выразить словами.",
               "Из созвездия примеров мы строим в нашем сознании",
               "видение Игры форм, которого мы бы иначе не достигли."
             ],
@@ -451,28 +451,28 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_3__acting.wav",
             "subtitleCueLines": [
-              9905,
-              9908,
-              9913,
-              9916,
-              9919,
-              9925,
-              9931,
-              9936,
+              9915,
+              9918,
+              9923,
+              9926,
+              9929,
+              9935,
               9941,
-              9945,
-              9949,
-              9953,
-              9957,
-              9961,
-              9966,
+              9946,
+              9951,
+              9955,
+              9959,
+              9963,
+              9967,
               9971,
               9976,
               9981,
-              9985,
-              9990,
+              9986,
+              9991,
               9995,
-              9999
+              10000,
+              10005,
+              10009
             ],
             "explicitAudioReference": null
           }
@@ -488,28 +488,28 @@
               "I'll do what I can to take note of these ideas."
             ],
             "de": [
-              "Ich werde tun, was ich kann, um mich mit diesen Ideen vertraut zu machen."
+              "Ich werde tun, was ich kann, um diese Ideen festzuhalten."
             ],
             "es": [
-              "Haré lo que pueda para familiarizarme un poco con estas ideas."
+              "Haré lo que pueda para tomar nota de estas ideas."
             ],
             "fr": [
-              "Je vais faire tout mon possible pour me familiariser avec ces idées."
+              "Je vais faire tout mon possible pour prendre note de ces idées."
             ],
             "it": [
-              "Farò il possibile per familiarizzare con queste idee."
+              "Farò il possibile per prendere nota di queste idee."
             ],
             "ja": [
               "できる範囲で、 その考え方への理解を深めてみます。"
             ],
             "ko": [
-              "힘닿는 데까지 이런 생각들에 익숙해져 보겠습니다."
+              "힘닿는 데까지 이런 생각들을 유념하겠습니다."
             ],
             "pt-br": [
-              "Farei o que puder para me familiarizar com essas ideias."
+              "Farei o que puder para tomar nota dessas ideias."
             ],
             "ru": [
-              "Я сделаю все, что смогу, чтобы познакомиться с этими идеями."
+              "Я сделаю все, что смогу, чтобы принять эти идеи к сведению."
             ],
             "s-cn": [
               "我会尽量去了解这些想法。"
@@ -521,7 +521,7 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_4__sokoban.wav",
             "subtitleCueLines": [
-              10003
+              10013
             ],
             "explicitAudioReference": null
           }
@@ -550,8 +550,8 @@
             ],
             "fr": [
               "Vous n'êtes pas obligé d'y croire. Une bonne partie de l'Ordre n'y croit pas non plus !",
-              "Mais votre tâche, pour l'instant, est, sans tenir compte de ce que l'on croit ou non,",
-              "d'ouvrir simplement les yeux très grand et de voir. Voir simplement les phénomènes."
+              "Mais votre tâche, pour l'instant, sans tenir compte de ce que l'on croit ou non,",
+              "est d'ouvrir simplement les yeux très grand et de voir. Voyez les phénomènes."
             ],
             "it": [
               "Non devi crederci per forza. Una discreta parte dell'Ordine non ci crede!",
@@ -592,9 +592,9 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_5__acting.wav",
             "subtitleCueLines": [
-              10008,
-              10012,
-              10016
+              10018,
+              10022,
+              10026
             ],
             "explicitAudioReference": null
           }
@@ -610,13 +610,13 @@
               "I can do that. Seeing objectively is the foundation of Natural Philosophy, after all."
             ],
             "de": [
-              "Das kann ich. Schließlich beruht die Naturphilosophie darauf, die Dinge unvoreingenommen zu betrachten."
+              "Das kann ich. Schließlich beruht die Naturphilosophie darauf, die Dinge objektiv zu betrachten."
             ],
             "es": [
               "Eso puedo hacerlo. Observar con objetividad es la base de la filosofía natural, al fin y al cabo."
             ],
             "fr": [
-              "Je peux faire ça. Après tout, observer sans préjugés est le fondement de la philosophie naturelle."
+              "Je peux faire ça. L'observation objective est le fondement de la philosophie naturelle, après tout."
             ],
             "it": [
               "Questo posso farlo. Vedere le cose con obiettività è il fondamento della filosofia naturale, dopotutto."
@@ -643,7 +643,7 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_6__sokoban.wav",
             "subtitleCueLines": [
-              10020
+              10030
             ],
             "explicitAudioReference": null
           }
@@ -672,7 +672,7 @@
               "À plus tard, petit cafard."
             ],
             "it": [
-              "Bene. Ci parleremo di nuovo, dopo che avrai esplorato ancora un po'.",
+              "Bene. Parleremo di nuovo dopo che avrai esplorato ancora un po'.",
               "Ci vediamo dopo, sayonara."
             ],
             "ja": [
@@ -681,7 +681,7 @@
             ],
             "ko": [
               "좋아. 좀 더 탐험한 뒤에, 다시 이야기하자.",
-              "나중에 보자, 앨리게이터!"
+              "나중에 보자, 앨리게이터."
             ],
             "pt-br": [
               "Ótimo. Falaremos de novo, depois que você explorar um pouco mais.",
@@ -689,7 +689,7 @@
             ],
             "ru": [
               "Хорошо. Мы ещё поговорим, когда ты исследуешь чуть дальше.",
-              "Увидимся позже, аллигатор."
+              "Чао-какао."
             ],
             "s-cn": [
               "很好。等你再深入探索一阵子，我们再接着聊。",
@@ -703,8 +703,8 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_7__acting.wav",
             "subtitleCueLines": [
-              10026,
-              10030
+              10036,
+              10040
             ],
             "explicitAudioReference": null
           }
@@ -753,7 +753,7 @@
           "provenance": {
             "sourceWav": "audiolog_sky_play_of_form_1a_8__sokoban.wav",
             "subtitleCueLines": [
-              10034
+              10044
             ],
             "explicitAudioReference": null
           }
@@ -833,11 +833,11 @@
           "Du erkennst die Unterschiede. Du bemerkst einzigartige Augenblicke, die etwas Besonderes mitzuteilen scheinen, das sich nicht in Worte fassen lässt.",
           "Aus einer Konstellation von Beispielen erschaffen wir in unserem Bewusstsein",
           "eine Vision des Spiels der Form, zu der wir sonst niemals gelangen würden.",
-          "Ich werde tun, was ich kann, um mich mit diesen Ideen vertraut zu machen.",
+          "Ich werde tun, was ich kann, um diese Ideen festzuhalten.",
           "Du musst nicht daran glauben. Ein guter Teil des Ordens glaubt auch nicht daran!",
           "Aber vorerst ist deine Aufgabe, ganz gleich, was irgendjemand glaubt oder nicht,",
           "einfach die Augen ganz weit aufzumachen und es nur zu sehen. Sieh einfach die Phänomene.",
-          "Das kann ich. Schließlich beruht die Naturphilosophie darauf, die Dinge unvoreingenommen zu betrachten.",
+          "Das kann ich. Schließlich beruht die Naturphilosophie darauf, die Dinge objektiv zu betrachten.",
           "Gut. Wir sprechen uns wieder, wenn du ein wenig weiter vorgedrungen bist.",
           "Bis später, Alligator.",
           "Was ... was?"
@@ -865,14 +865,14 @@
           "Cuando acercamos estos dos elementos, se libera una especie de potencial:",
           "se produce esta gran explosión de posibilidades, que genera formas sorprendentes de interacción entre el espejo y la piedra.",
           "Y cribamos, encontramos las consecuencias más deliciosas y hermosas, o simplemente inesperadas,",
-          "y los enmarcamos, para ayudar a los Visitantes como tú a apreciar este despliegue.",
+          "y las enmarcamos, para ayudar a los Visitantes como tú a apreciar este despliegue.",
           "Ese es el porqué de todos estos puzles. Los puzles enmarcan casos concretos de ese despliegue.",
           "Y muchos casos, bien expuestos juntos, completan en nuestra mente una imagen rica y multidimensional.",
           "Se ven las similitudes entre un comportamiento y otro.",
           "Se ven las diferencias. Se perciben momentos únicos que parecen comunicar algo especial, que desafían la verbalización.",
           "A partir de una constelación de ejemplos, construimos en nuestra conciencia",
           "una visión del juego de la forma que de otro modo nunca alcanzaríamos.",
-          "Haré lo que pueda para familiarizarme un poco con estas ideas.",
+          "Haré lo que pueda para tomar nota de estas ideas.",
           "No tienes por qué creerlas. ¡Una parte notable de la Orden no lo hace!",
           "Pero tu tarea por ahora es, sin importar lo que nadie crea o deje de creer,",
           "simplemente abrir los ojos de par en par y limitarte a mirarlo. Mirar los fenómenos.",
@@ -911,11 +911,11 @@
           "Vous voyez les différences. Vous remarquez des moments uniques qui semblent transmettre quelque chose de spécial, qui défie les mots.",
           "À partir d'une constellation d'exemples, nous construisons dans notre conscience",
           "une vision du jeu des formes que nous n'atteindrions jamais autrement.",
-          "Je vais faire tout mon possible pour me familiariser avec ces idées.",
+          "Je vais faire tout mon possible pour prendre note de ces idées.",
           "Vous n'êtes pas obligé d'y croire. Une bonne partie de l'Ordre n'y croit pas non plus !",
-          "Mais votre tâche, pour l'instant, est, sans tenir compte de ce que l'on croit ou non,",
-          "d'ouvrir simplement les yeux très grand et de voir. Voir simplement les phénomènes.",
-          "Je peux faire ça. Après tout, observer sans préjugés est le fondement de la philosophie naturelle.",
+          "Mais votre tâche, pour l'instant, sans tenir compte de ce que l'on croit ou non,",
+          "est d'ouvrir simplement les yeux très grand et de voir. Voyez les phénomènes.",
+          "Je peux faire ça. L'observation objective est le fondement de la philosophie naturelle, après tout.",
           "Bien. Nous reparlerons, après que vous aurez exploré un peu plus loin.",
           "À plus tard, petit cafard.",
           "Quoi... quoi ?"
@@ -924,7 +924,7 @@
           "... le leggi della fisica, della chimica, dell'astronomia e così via.",
           "Quindi, cos'è la legge? Se la si guarda dall'interno del tempo,",
           "la legge fisica consiste in un insieme di regole, non molto diverso dalle regole di un gioco:",
-          "quando l'oggetto A e l'oggetto B interagiscono, e le proprietà di A e B",
+          "quando l'oggetto A e l'oggetto B interagiscono e le proprietà di A e B",
           "sono disposte in un certo modo, il regolamento ti dice il risultato.",
           "Ripeti queste regole ancora e ancora, ed ecco la fisica, la chimica o qualsiasi altro insieme di leggi che tu possa codificare.",
           "Dinamiche di popolazione, la diffusione delle malattie.",
@@ -938,24 +938,24 @@
           "l'esplosione creativa che avviene quando le regole agiscono sullo stato.",
           "Quando uno specchio e una pietra da lanciare si incontrano e il risultato genera novità e sorpresa,",
           "lo vediamo come una manifestazione specifica del continuo dispiegarsi del processo di creazione dell'universo.",
-          "Osserviamo con occhi spalancati; cerchiamo di immergerci, di assorbire tutto.",
+          "Osserviamo con occhi spalancati, cerchiamo di immergerci, di assorbire tutto.",
           "In qualche modo l'universo vuole che lo specchio e la pietra da lanciare giochino insieme.",
           "Quando avviciniamo questi due elementi, si libera una qualche forma di potenziale:",
           "avviene questa grande esplosione di possibilità, che genera modi sorprendenti in cui specchio e pietra possono interagire.",
-          "E setacciando, troviamo le conseguenze più deliziose e belle, o semplicemente inaspettate,",
+          "Ed esplorando, troviamo le conseguenze più deliziose e belle, o semplicemente inaspettate,",
           "e le inquadriamo, per aiutare i Visitatori come te ad apprezzare questo dispiegarsi.",
-          "Ecco il perché di tutti questi enigmi. Gli enigmi fanno da cornice a esempi specifici di questo dispiegarsi.",
+          "Ecco il perché di tutti questi rompicapo. I rompicapo fanno da cornice a esempi specifici di questo dispiegarsi.",
           "E molti casi, ben presentati insieme, riempiono la nostra mente di un'immagine ricca e multidimensionale.",
           "Si vedono le somiglianze tra un comportamento e l'altro.",
           "Si vedono le differenze. Si notano i momenti unici che sembrano comunicare qualcosa di speciale, che sfugge alle parole.",
           "Da una costellazione di esempi, costruiamo nella nostra coscienza",
           "una visione del gioco di forme che altrimenti non raggiungeremmo mai.",
-          "Farò il possibile per familiarizzare con queste idee.",
+          "Farò il possibile per prendere nota di queste idee.",
           "Non devi crederci per forza. Una discreta parte dell'Ordine non ci crede!",
           "Ma il tuo compito per ora, ignorando ciò che chiunque creda o non creda,",
           "è aprire bene gli occhi, spalancarli, e semplicemente vedere. Osserva i fenomeni.",
           "Questo posso farlo. Vedere le cose con obiettività è il fondamento della filosofia naturale, dopotutto.",
-          "Bene. Ci parleremo di nuovo, dopo che avrai esplorato ancora un po'.",
+          "Bene. Parleremo di nuovo dopo che avrai esplorato ancora un po'.",
           "Ci vediamo dopo, sayonara.",
           "Cosa... che?"
         ],
@@ -1011,30 +1011,30 @@
           "한 상태를 다른 상태에 대응시킨다고 할 수 있지.",
           "하지만 규칙은 상태와 상태를 무미건조하게 대응시키지 않아.",
           "규칙이 꼭 알맞으면, 뭔가를 만들어내. 풍성하고 때로는 무척이나 놀라운 결과를 낳는 거야.",
-          "그러면 다시 그 영적 전통들로 돌아오게 되지. 우주가 기쁨을 표현하는 한 방식으로 형태를 탐구한다고 말하는 전통들로.",
+          "그러면 다시 그 영적 전통들로 돌아오게 되지 우주가 기쁨을 표현하는 한 방식으로 형태를 탐구한다고 말하는 전통들로.",
           "우리 전통은 그 전통들을 이어받았어. 우리는 이 형태의 유희를 법칙이 허용하는 가능성의 개화로 보며 그 전통을 이어 가:",
           "규칙이 상태에 작용한 결과로 일어나는 창조의 폭발인 거지.",
           "거울과 물수제비가 만나서, 그 결과로 새로움과 놀라움이 생겨나면,",
           "우리는 그걸 우주가 끊임없이 펼치는 창조의 구체적인 한 사례로 봐.",
-          "우린 눈을 크게 뜨고 바라보며 그 안에 푹 잠겨, 모든 걸 받아들이려 해.",
+          "눈을 크게 뜨고 바라보며 그 안에 푹 잠겨, 모든 걸 받아들이려 해.",
           "어떤 식으로든 우주는 거울과 물수제비가 함께 놀기를 원하는 거야.",
           "우리가 이 두 요소를 한데 모으면, 어떤 잠재력이 방출돼.",
           "가능성이 엄청나게 폭발하면서, 거울과 돌이 서로 작용하는 놀라운 방식들이 생겨나.",
           "그러면 우리는 그걸 샅샅이 살펴서, 가장 즐겁거나 아름다운 결과, 아니면 그저 뜻밖인 결과를 찾아내지.",
-          "그리고 거기에 틀을 둘러, 너 같은 방문객들이 이 전개를 음미할 수 있게 돕지.",
-          "이 모든 퍼즐이 존재하는 이유야. 퍼즐은 전개의 구체적인 사례들을 틀로 감싸 주지.",
-          "많은 사례를 함께 잘 펼쳐 놓으면, 머릿속에 풍성하고 다차원적인 그림이 완성되지.",
+          "그리고 거기에 틀을 두른 다음 너 같은 방문객들이 이 전개를 음미할 수 있게 돕는 거야.",
+          "그게 이 모든 퍼즐이 존재하는 이유야. 퍼즐은 전개의 구체적인 사례들을 틀로 감싸지.",
+          "많은 사례를 함께 잘 펼쳐 놓으면, 머릿속에 풍성하고 다차원적인 그림이 완성되는 거야.",
           "어떤 움직임과 다른 움직임 사이에서 닮은 점을 보게 돼.",
           "차이점도 보게 되지. 말로 표현하기 어려운 뭔가 특별한 것을 전하는 듯한 독특한 순간들을 알아차리게 돼.",
-          "별자리처럼 모인 사례들을 통해, 우리는 의식 속에 만들어 가",
+          "별자리처럼 모인 사례들을 통해, 우리는 다른 방법으로는",
           "결코 얻을 수 없는 형태의 유희에 대한 심상을 만들어가는 거야.",
-          "힘닿는 데까지 이런 생각들에 익숙해져 보겠습니다.",
+          "힘닿는 데까지 이런 생각들을 유념하겠습니다.",
           "꼭 믿을 필요는 없어. 결사단에도 믿지 않는 사람이 꽤 많으니까!",
           "하지만 지금 네가 할 일은, 누가 뭘 믿든 안 믿든 신경 쓰지 말고,",
           "그저 눈을 아주 크게 뜨고 그저 현상을 보는 거야.",
           "그건 할 수 있어. 객관적으로 보는 것이 자연철학의 토대니까, 결국은.",
           "좋아. 좀 더 탐험한 뒤에, 다시 이야기하자.",
-          "나중에 보자, 앨리게이터!",
+          "나중에 보자, 앨리게이터.",
           "뭐... 뭐라고 하셨죠?"
         ],
         "pt-br": [
@@ -1067,7 +1067,7 @@
           "Você vê as diferenças. Percebe momentos únicos que parecem comunicar algo especial, que desafia a verbalização.",
           "A partir de uma constelação de exemplos, construímos em nossa consciência",
           "uma visão do Jogo de Forma que nunca alcançaríamos de outro modo.",
-          "Farei o que puder para me familiarizar com essas ideias.",
+          "Farei o que puder para tomar nota dessas ideias.",
           "Você não precisa acreditar nelas. Uma boa parte da Ordem não acredita!",
           "Mas sua tarefa por enquanto, ignorando no que qualquer um acredita ou deixa de acreditar,",
           "é simplesmente abrir bem os olhos de verdade e apenas ver isso. Apenas veja os fenômenos.",
@@ -1077,12 +1077,12 @@
           "O que... o quê?"
         ],
         "ru": [
-          "... законах физики, химии, астрономии и так далее.",
+          "... законы физики, химии, астрономии и так далее.",
           "Так что же такое Закон? Если смотреть изнутри Времени,",
           "физический Закон состоит из набора правил, не столь уж отличных от правил игры:",
-          "когда объект А и объект Б взаимодействуют, и свойства А и Б",
+          "когда объект А и объект В взаимодействуют, и свойства А и В",
           "расположены так или иначе, правила подскажут результат.",
-          "Повторяйте эти правила снова и снова, и вот так работает физика, или химия, или любой другой формализуемый набор законов.",
+          "Повторяешь эти правила снова и снова, и вот так работает физика, или химия, или любой другой формализуемый набор законов.",
           "Динамика популяции, распространение болезней.",
           "Именно.",
           "Правила действуют на текущее состояние мира, и дают нам новое состояние мира.",
@@ -1099,20 +1099,20 @@
           "Мы сближаем эти два элемента, и высвобождается некий потенциал:",
           "происходит этот большой взрыв возможностей, порождающий удивительные способы взаимодействия зеркала и камня.",
           "Мы внимательно просматриваем их, находим последствия наиболее восхитительные, прекрасные или просто неожиданные,",
-          "и мы заключаем их в рамки, чтобы посетители вроде тебя могли оценить это развёртывание.",
+          "и мы заключаем их в рамки, чтобы Гости вроде тебя могли оценить это развёртывание.",
           "Вот для чего нужны все эти головоломки. Они обрамляют отдельные примеры развёртывания.",
           "Многочисленные случаи, наглядно представленные вместе, создают в нашем сознании богатый, многомерный образ.",
-          "Вы видите сходства между одними взаимодействиями и другими.",
-          "Вы видите различия. Вы замечаете уникальные моменты, которые, кажется, передают что-то особенное, что невозможно выразить словами.",
+          "Ты видишь сходства между одними взаимодействиями и другими.",
+          "Видишь различия. Замечаешь уникальные моменты, которые, кажется, передают что-то особенное, что невозможно выразить словами.",
           "Из созвездия примеров мы строим в нашем сознании",
           "видение Игры форм, которого мы бы иначе не достигли.",
-          "Я сделаю все, что смогу, чтобы познакомиться с этими идеями.",
+          "Я сделаю все, что смогу, чтобы принять эти идеи к сведению.",
           "Тебе не обязательно им верить. Значительная часть Ордена не верит!",
           "Но твоя задача сейчас — не обращать внимания на то, во что кто-либо верит или не верит,",
           "просто открой глаза очень широко и просто увидь это. Просто увидь явления.",
           "Это я могу. Ведь объективный взгляд лежит в основе натурфилософии, в конце концов.",
           "Хорошо. Мы ещё поговорим, когда ты исследуешь чуть дальше.",
-          "Увидимся позже, аллигатор.",
+          "Чао-какао.",
           "Что... что?"
         ],
         "s-cn": [

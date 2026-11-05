@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -43,7 +43,7 @@
             ],
             "es": [
               "Ese artilugio tuyo... Lo normal sería que los soportes de un aparato así fuesen de madera ligera, lacada,",
-              "quizá con algo de metal en las uniones, y piedras cargadas para impulsarlo;",
+              "quizá con algo de metal en las uniones y piedras cargadas para impulsarlo;",
               "pero la madera, el metal y la piedra bloquean estos haces y tu traje no.",
               "Debe de estar hecho de materiales... exóticos y muy avanzados."
             ],
@@ -66,10 +66,10 @@
               "特殊な素材なのか？"
             ],
             "ko": [
-              "네가 쓰는 그 장치... 그런 장치의 지지대라면 가벼운 나무를 깎아서 옻칠을 했을 법한데,",
-              "연결 부위에는 금속을 좀 쓰고, 충전된 돌을 동력원으로 삼고;",
-              "그런데 나무도, 금속도, 돌도 이 빔을 막는데 네 작업복은 그렇지 않네.",
-              "분명 특수한 재료로 만들었겠군... 훨씬 진보된 재료로."
+              "네가 쓰는 그 장치... 그런 장치의 지지대라면 가벼운 나무를 깎아 옻칠을 해서 만들었을 줄 알았어.",
+              "연결 부위에는 금속을 좀 쓰고, 충전된 돌을 동력원으로 삼고 말이지.",
+              "그런데 나무도, 금속도, 돌도 이 빔을 막는데 네 작업복은 그렇지 않잖아.",
+              "분명 아주 생소하고도... 고도로 발달된 소재로 만들었겠지."
             ],
             "pt-br": [
               "Essa sua engenhoca... Eu esperaria que as hastes de um aparelho assim fossem feitas de madeira leve, laqueada,",
@@ -78,7 +78,7 @@
               "Deve ser feito de materiais... exóticos e muito avançados."
             ],
             "ru": [
-              "Это твоё приспособление... Я бы ожидал, что каркас такого устройства сделан из лёгкого дерева, покрытого лаком,",
+              "Это твоё приспособление... Я бы ожидал, что каркас такого устройства будет сделан из лёгкого дерева, покрытого лаком,",
               "может, с металлическими креплениями, а приводят его в движение заряженные камни;",
               "но дерево, металл и камень задерживают эти лучи, а твой костюм нет.",
               "Должно быть, он сделан из материалов... диковинных и весьма совершенных."
@@ -99,10 +99,10 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_1__wizard.wav",
             "subtitleCueLines": [
-              7582,
-              7587,
-              7591,
-              7595
+              7592,
+              7597,
+              7601,
+              7605
             ],
             "explicitAudioReference": null
           }
@@ -151,7 +151,7 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_2__gemsman.wav",
             "subtitleCueLines": [
-              7600
+              7610
             ],
             "explicitAudioReference": null
           }
@@ -200,7 +200,7 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_3__wizard.wav",
             "subtitleCueLines": [
-              7604
+              7614
             ],
             "explicitAudioReference": null
           }
@@ -249,7 +249,7 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_4__gemsman.wav",
             "subtitleCueLines": [
-              7607
+              7617
             ],
             "explicitAudioReference": null
           }
@@ -268,7 +268,7 @@
               "Weil die Strahlen darauf ausgelegt sind, Menschen zu durchdringen! Wenn der Anzug also einem Menschen ähnlicher ist ...!"
             ],
             "es": [
-              "¡Porque los haces se hicieron para atravesar personas, así que, si el traje se parece más a una persona...!"
+              "Porque los haces se hicieron para atravesar personas, ¡así que, si el traje se parece más a una persona...!"
             ],
             "fr": [
               "Parce que les faisceaux ont été faits pour traverser les gens, donc si la combinaison est comme une personne... !"
@@ -280,13 +280,13 @@
               "光線は人を通すよう作られてるからか？"
             ],
             "ko": [
-              "빔이 사람을 통과하도록 만들어졌기 때문이야. 그러니까 작업복이 사람에 더 가까워지면...!"
+              "빔이 사람을 통과하도록 만들어졌기 때문이야. 그러니까 작업복이 사람과 더 비슷하다면...!"
             ],
             "pt-br": [
               "Porque os feixes foram feitos para atravessar pessoas, então, se o traje for mais parecido com uma pessoa...!"
             ],
             "ru": [
-              "Ведь лучи были созданы, чтобы проходить сквозь людей, так что если костюм больше похож на человека...!"
+              "Ведь лучи были созданы, чтобы проходить сквозь людей, так что если костюм больше похож на человека!.."
             ],
             "s-cn": [
               "因为这些光束本是为了穿透人体而造的， 所以如果采晶服在材质上更接近人体……！"
@@ -298,7 +298,7 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_5__wizard.wav",
             "subtitleCueLines": [
-              7612
+              7622
             ],
             "explicitAudioReference": null
           }
@@ -341,9 +341,9 @@
               "ああ、先代の職人の道具だった。"
             ],
             "ko": [
-              "그래. 우리 작업자들은 작업복을 입은 채로 빔 안에 서 있어야 했거든.",
-              "그게 필수 조건이야. 작업복은 그저 그 문제를 해결하도록 설계한 결과물이지.",
-              "하다 보면 미리 알았더라면 이상하게 여겼을 결과에 도달하기도 해."
+              "그래. 우리는 작업복을 입은 채로 빔 안에 서 있어야 했거든.",
+              "그게 필수 조건이었어. 작업복은 그저 그 문제를 해결하도록 설계한 결과물이지.",
+              "가끔은 처음엔 상상도 못 했을 엉뚱한 결과에 도달하기도 하니까."
             ],
             "pt-br": [
               "Sim. Nossos operários precisavam ficar no meio dos feixes enquanto usavam os trajes.",
@@ -369,9 +369,9 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_6__gemsman.wav",
             "subtitleCueLines": [
-              7617,
-              7621,
-              7625
+              7627,
+              7631,
+              7635
             ],
             "explicitAudioReference": null
           }
@@ -410,13 +410,13 @@
         ],
         "es": [
           "Ese artilugio tuyo... Lo normal sería que los soportes de un aparato así fuesen de madera ligera, lacada,",
-          "quizá con algo de metal en las uniones, y piedras cargadas para impulsarlo;",
+          "quizá con algo de metal en las uniones y piedras cargadas para impulsarlo;",
           "pero la madera, el metal y la piedra bloquean estos haces y tu traje no.",
           "Debe de estar hecho de materiales... exóticos y muy avanzados.",
           "Más bien al contrario.",
           "¿Eh?",
           "Está hecho de hueso de animal, cuero, cosido con tendones...",
-          "¡Porque los haces se hicieron para atravesar personas, así que, si el traje se parece más a una persona...!",
+          "Porque los haces se hicieron para atravesar personas, ¡así que, si el traje se parece más a una persona...!",
           "Sí. Nuestros trabajadores tenían que situarse dentro de los haces con los trajes puestos.",
           "Ese es el requisito. El traje no es más que el diseño que resuelve el problema.",
           "A veces acabas en una situación que antes te habría parecido extraña."
@@ -461,17 +461,17 @@
           "ああ、先代の職人の道具だった。"
         ],
         "ko": [
-          "네가 쓰는 그 장치... 그런 장치의 지지대라면 가벼운 나무를 깎아서 옻칠을 했을 법한데,",
-          "연결 부위에는 금속을 좀 쓰고, 충전된 돌을 동력원으로 삼고;",
-          "그런데 나무도, 금속도, 돌도 이 빔을 막는데 네 작업복은 그렇지 않네.",
-          "분명 특수한 재료로 만들었겠군... 훨씬 진보된 재료로.",
+          "네가 쓰는 그 장치... 그런 장치의 지지대라면 가벼운 나무를 깎아 옻칠을 해서 만들었을 줄 알았어.",
+          "연결 부위에는 금속을 좀 쓰고, 충전된 돌을 동력원으로 삼고 말이지.",
+          "그런데 나무도, 금속도, 돌도 이 빔을 막는데 네 작업복은 그렇지 않잖아.",
+          "분명 아주 생소하고도... 고도로 발달된 소재로 만들었겠지.",
           "사실은 정반대야.",
           "오?",
           "동물의 뼈와 가죽으로 만들어졌고, 힘줄로 꿰맸지...",
-          "빔이 사람을 통과하도록 만들어졌기 때문이야. 그러니까 작업복이 사람에 더 가까워지면...!",
-          "그래. 우리 작업자들은 작업복을 입은 채로 빔 안에 서 있어야 했거든.",
-          "그게 필수 조건이야. 작업복은 그저 그 문제를 해결하도록 설계한 결과물이지.",
-          "하다 보면 미리 알았더라면 이상하게 여겼을 결과에 도달하기도 해."
+          "빔이 사람을 통과하도록 만들어졌기 때문이야. 그러니까 작업복이 사람과 더 비슷하다면...!",
+          "그래. 우리는 작업복을 입은 채로 빔 안에 서 있어야 했거든.",
+          "그게 필수 조건이었어. 작업복은 그저 그 문제를 해결하도록 설계한 결과물이지.",
+          "가끔은 처음엔 상상도 못 했을 엉뚱한 결과에 도달하기도 하니까."
         ],
         "pt-br": [
           "Essa sua engenhoca... Eu esperaria que as hastes de um aparelho assim fossem feitas de madeira leve, laqueada,",
@@ -487,14 +487,14 @@
           "Às vezes você acaba chegando a um resultado que antes teria parecido estranho."
         ],
         "ru": [
-          "Это твоё приспособление... Я бы ожидал, что каркас такого устройства сделан из лёгкого дерева, покрытого лаком,",
+          "Это твоё приспособление... Я бы ожидал, что каркас такого устройства будет сделан из лёгкого дерева, покрытого лаком,",
           "может, с металлическими креплениями, а приводят его в движение заряженные камни;",
           "но дерево, металл и камень задерживают эти лучи, а твой костюм нет.",
           "Должно быть, он сделан из материалов... диковинных и весьма совершенных.",
           "На самом деле всё наоборот.",
           "А?",
           "Он сделан из костей, кожи животных, сшит жилами...",
-          "Ведь лучи были созданы, чтобы проходить сквозь людей, так что если костюм больше похож на человека...!",
+          "Ведь лучи были созданы, чтобы проходить сквозь людей, так что если костюм больше похож на человека!..",
           "Да. Нашим рабочим нужно было стоять в лучах в этих костюмах.",
           "Такова была задача. А костюм — просто конструкция, которая её решает.",
           "Порой приходишь к такому, что прежде показалось бы странным."
@@ -545,7 +545,7 @@
             "source": "data-common/gem_transport.entities"
           }
         ],
-        "subtitleLine": 7581,
+        "subtitleLine": 7591,
         "subtitleHeader": "::"
       }
     },
@@ -566,13 +566,13 @@
               "Du hast gesagt, sie „mussten“ in den Strahlen stehen ... Müssen sie das nicht mehr?"
             ],
             "es": [
-              "Has dicho que «tenían» que situarse dentro de los haces... ¿Ya no hace falta?"
+              "Has dicho que «tenían» que situarse dentro de los haces... ¿Es que ya no tienen que hacerlo?"
             ],
             "fr": [
               "Vous avez dit qu'ils « devaient » se tenir dans les faisceaux... ce n'est plus le cas ?"
             ],
             "it": [
-              "Hai detto che 'dovevano' stare dentro i raggi... ora non più?"
+              "Hai detto che \"dovevano\" stare dentro i raggi... ora non più?"
             ],
             "ja": [
               "道具とな…"
@@ -581,7 +581,7 @@
               "빔 안에 서 있어야 '했다'고 했지... 지금은 아니야?"
             ],
             "pt-br": [
-              "Você disse que eles 'precisavam' ficar no meio dos feixes... não precisam mais?"
+              "Você disse que eles “precisavam” ficar no meio dos feixes... não precisam mais?"
             ],
             "ru": [
               "Ты сказал, им «нужно было» стоять в лучах... а теперь не нужно?"
@@ -596,7 +596,7 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_end_1__wizard.wav",
             "subtitleCueLines": [
-              7634
+              7644
             ],
             "explicitAudioReference": null
           }
@@ -618,14 +618,14 @@
             ],
             "es": [
               "Toda esa forma de hacer las cosas se vino abajo. El motivo es un secreto.",
-              "Ya no podemos construir nuevos proyectores de haces. Ya hablaré de eso, ¡pero restaurar este viejo traje era el primer paso!"
+              "Ya no podemos construir nuevos proyectores de haces. Ya te hablaré de eso, ¡pero restaurar este viejo traje era el primer paso!"
             ],
             "fr": [
               "Tout ce système s'est effondré. Pourquoi, c'est un secret.",
               "On ne peut plus fabriquer de nouveaux projecteurs. J'y viendrai, mais remettre en état cette vieille combinaison était la première étape !"
             ],
             "it": [
-              "Tutto quel modo di fare è crollato. Il motivo del crollo è un segreto.",
+              "Tutto quel modo di fare è crollato. Il motivo è un segreto.",
               "Non possiamo più costruire nuovi lanciaraggi. Ci arriverò, ma rimettere a nuovo questa vecchia tuta era il primo passo!"
             ],
             "ja": [
@@ -633,8 +633,8 @@
               "新しく作れなくなったんだ。 それをどうにかしたい…"
             ],
             "ko": [
-              "그 작업 방식 자체가 무너졌어. 왜 무너졌는지는 비밀이야.",
-              "이제는 빔캐스터를 새로 만들 수 없어. 그 이야기는 나중에 할게, 우선은 이 낡은 작업복을 다시 작동시키는 게 첫 단계였지!"
+              "그 작업 방식 자체가 사라졌어. 왜 그렇게 됐는지는 비밀이야.",
+              "이제는 빔캐스터를 새로 만들 수 없어. 그 이야기는 나중에 하겠지만 일단은 이 낡은 작업복을 다시 작동시키는 게 첫 단계였지!"
             ],
             "pt-br": [
               "Todo aquele modo de fazer as coisas ruiu. O motivo é segredo.",
@@ -642,7 +642,7 @@
             ],
             "ru": [
               "Вся эта система рухнула. Почему она рухнула — секрет.",
-              "Мы больше не можем строить лучемёты. Я ещё об этом расскажу, но сначала нужно было восстановить этот старый костюм!"
+              "Мы больше не можем строить лучеметы. Я ещё об этом расскажу, но сначала нужно было восстановить этот старый костюм!"
             ],
             "s-cn": [
               "那一整套做法已经崩溃了。 至于为何崩溃，是个秘密。",
@@ -656,8 +656,8 @@
           "provenance": {
             "sourceWav": "sp_gem_transport_end_2__gemsman.wav",
             "subtitleCueLines": [
-              7638,
-              7642
+              7648,
+              7652
             ],
             "explicitAudioReference": null
           }
@@ -679,9 +679,9 @@
           "Wir können keine neuen Strahlenwerfer mehr bauen. Dazu komme ich noch, aber der erste Schritt war, diesen alten Anzug wieder zum Laufen zu bringen!"
         ],
         "es": [
-          "Has dicho que «tenían» que situarse dentro de los haces... ¿Ya no hace falta?",
+          "Has dicho que «tenían» que situarse dentro de los haces... ¿Es que ya no tienen que hacerlo?",
           "Toda esa forma de hacer las cosas se vino abajo. El motivo es un secreto.",
-          "Ya no podemos construir nuevos proyectores de haces. Ya hablaré de eso, ¡pero restaurar este viejo traje era el primer paso!"
+          "Ya no podemos construir nuevos proyectores de haces. Ya te hablaré de eso, ¡pero restaurar este viejo traje era el primer paso!"
         ],
         "fr": [
           "Vous avez dit qu'ils « devaient » se tenir dans les faisceaux... ce n'est plus le cas ?",
@@ -689,8 +689,8 @@
           "On ne peut plus fabriquer de nouveaux projecteurs. J'y viendrai, mais remettre en état cette vieille combinaison était la première étape !"
         ],
         "it": [
-          "Hai detto che 'dovevano' stare dentro i raggi... ora non più?",
-          "Tutto quel modo di fare è crollato. Il motivo del crollo è un segreto.",
+          "Hai detto che \"dovevano\" stare dentro i raggi... ora non più?",
+          "Tutto quel modo di fare è crollato. Il motivo è un segreto.",
           "Non possiamo più costruire nuovi lanciaraggi. Ci arriverò, ma rimettere a nuovo questa vecchia tuta era il primo passo!"
         ],
         "ja": [
@@ -700,18 +700,18 @@
         ],
         "ko": [
           "빔 안에 서 있어야 '했다'고 했지... 지금은 아니야?",
-          "그 작업 방식 자체가 무너졌어. 왜 무너졌는지는 비밀이야.",
-          "이제는 빔캐스터를 새로 만들 수 없어. 그 이야기는 나중에 할게, 우선은 이 낡은 작업복을 다시 작동시키는 게 첫 단계였지!"
+          "그 작업 방식 자체가 사라졌어. 왜 그렇게 됐는지는 비밀이야.",
+          "이제는 빔캐스터를 새로 만들 수 없어. 그 이야기는 나중에 하겠지만 일단은 이 낡은 작업복을 다시 작동시키는 게 첫 단계였지!"
         ],
         "pt-br": [
-          "Você disse que eles 'precisavam' ficar no meio dos feixes... não precisam mais?",
+          "Você disse que eles “precisavam” ficar no meio dos feixes... não precisam mais?",
           "Todo aquele modo de fazer as coisas ruiu. O motivo é segredo.",
           "Não conseguimos mais construir Lança-feixes. Já vou chegar lá, mas reformar este traje velho era o primeiro passo!"
         ],
         "ru": [
           "Ты сказал, им «нужно было» стоять в лучах... а теперь не нужно?",
           "Вся эта система рухнула. Почему она рухнула — секрет.",
-          "Мы больше не можем строить лучемёты. Я ещё об этом расскажу, но сначала нужно было восстановить этот старый костюм!"
+          "Мы больше не можем строить лучеметы. Я ещё об этом расскажу, но сначала нужно было восстановить этот старый костюм!"
         ],
         "s-cn": [
           "你说他们“需要”站进光束里……现在已经不需要了吗？",
@@ -743,7 +743,7 @@
             "source": "data-common/gem_transport.entities"
           }
         ],
-        "subtitleLine": 7633,
+        "subtitleLine": 7643,
         "subtitleHeader": "::"
       }
     }

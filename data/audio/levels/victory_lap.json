@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -36,7 +36,7 @@
               "Jenseits dieses Farbsaums liegt ein Gebiet, das ... riesig wirkt."
             ],
             "es": [
-              "El territorio más allá de esa Franja de Color parece... inmenso."
+              "El territorio más allá de esa franja de color parece... inmenso."
             ],
             "fr": [
               "Le territoire au-delà de cette frange de couleur a l'air... immense."
@@ -48,7 +48,7 @@
               "あの境界の向こう… ずいぶん広そうだ。 見えるか？"
             ],
             "ko": [
-              "저 색의 경계 너머의 영토는 정말... 광활해 보이네."
+              "저 색의 경계 너머의 땅은 정말... 광활해 보이네."
             ],
             "pt-br": [
               "O território além daquela borda colorida parece... imenso."
@@ -232,7 +232,7 @@
               "Mein Auftrag ist es, diesen Mann festzunehmen. Ich gehe weiter, ganz gleich, was dahinter wartet."
             ],
             "es": [
-              "Mi cometido es apresar a ese hombre. Seguiré adelante, sin importar lo que aguarde más allá."
+              "Mi cometido es apresar a ese hombre. Seguiré adelante, sin importar lo que nos aguarde más allá."
             ],
             "fr": [
               "J'ai pour mission d'appréhender cet homme. Je poursuivrai, quoi qu'il y ait de l'autre côté."
@@ -244,13 +244,13 @@
               "俺はあの男を 捕らえるまで 止まることはない。"
             ],
             "ko": [
-              "그자를 체포하는 것이 제 임무입니다. 저 너머에 무엇이 기다리든 나아가겠습니다."
+              "그자를 체포하는 것이 내 임무일세. 저 너머에 무엇이 기다리든 나아가야 해."
             ],
             "pt-br": [
               "É meu dever prender aquele homem. Seguirei adiante, seja o que for que me espere."
             ],
             "ru": [
-              "Мне поручено задержать этого человека. Я пойду дальше, что бы меня там ни ждало."
+              "Мне поручено задержать этого человека. Я пойду дальше, что бы там меня ни ждало."
             ],
             "s-cn": [
               "逮捕那个人是我的职责。 无论前方等待我的是什么，我都会继续前行。"
@@ -348,7 +348,7 @@
               "Você!"
             ],
             "ru": [
-              "Вы!"
+              "Ты!"
             ],
             "s-cn": [
               "你！"
@@ -471,8 +471,8 @@
               "por mi ventana, me encontraba de rodillas junto a mi cama, rezando.",
               "Totalmente afligido por todos mis problemas. ¿Qué iba a hacer con mi hijo Ratleigh,",
               "para ayudarle a convertirse en... algo que no sea semejante piltrafa?",
-              "Y en cuanto a mí... ¿Se ha agotado mi época de creatividad juvenil?",
-              "¿Voy a quedar relegado, siendo mi papel desde ahora hasta el Fin tan solo deambular y marchitarme?",
+              "Y en cuanto a mí... ¿Se habrá agotado mi época de creatividad juvenil?",
+              "¿Voy a quedar relegado, interpretando mi papel actual hasta el final, este que consiste en deambular y marchitarme?",
               "Soy un hombre de éxito. He hecho algunas cosas buenas; he aumentado enormemente la eficiencia de las prisiones,",
               "y me aseguré de que muchos criminales ya no pudieran alimentarse de la ciudadanía de bien,",
               "y así he conseguido que nuestra tierra sea un lugar sano en el que los buenos puedan prosperar.",
@@ -561,7 +561,7 @@
               "Je prends maintenant... congé. À plus tard, petits cafards !"
             ],
             "it": [
-              "Una volta, anzi solo qualche mese fa, la luna malaticcia proiettava",
+              "Una volta, anzi solo qualche mese fa, vedevo la luna malaticcia",
               "dalla mia finestra. Ero in ginocchio accanto al letto, a pregare.",
               "Completamente abbattuto da tutti i miei problemi. Che devo fare con mio figlio Ratleigh,",
               "per aiutarlo a diventare... qualcosa che non sia un inutile moccolo?",
@@ -659,7 +659,7 @@
               "내 창문을 통해 드리울 때, 나는 침대 옆에 무릎을 꿇고 기도하고 있었지.",
               "낙담한 채 온갖 고민에 빠져 있었어. 내 아들 래틀리를 어떻게 해야 하나,",
               "저렇게 쓸모없는 녀석을... 어떻게 해야 하지?",
-              "그리고 나는 말이야... 내 젊은 날의 창의력도 이제 다한 건가?",
+              "그리고 내... 젊은 날의 창의력도 이제 다한 걸까?",
               "이제 나는 뒷전으로 밀려나, 마지막 순간까지 그저 늙고 쇠약해져 가기만 하는 건가?",
               "난 성공한 사람이야. 좋은 일도 좀 하긴 했지. 감옥의 효율을 크게 높였고,",
               "많은 범죄자들이 더는 선량한 시민들을 착취하지 못하게 했지.",
@@ -668,7 +668,7 @@
               "삶은 서류 작업과 관리 업무, 그리고 정말 누구라도 나 대신 처리할 수 있는 뻔한 사건들의 연속이었어.",
               "날이 갈수록 더 깊어지는 피로가 나를 짓눌렀지.",
               "그날 밤에는 내 쓸모가 완전히 다한 것 같았어. 솔직하게 말해서, 눈물범벅이 되고 말았지.",
-              "나는 늘 그렇듯 큰소리로 기도했어. 신께서 내가 정말 진심이라는 걸 아실 수 있도록 말이야...",
+              "나는 늘 그렇듯 큰소리로 기도했어. 신께서 내가 정말 진심이라는 걸 아실 수 있도록...",
               "그랬더니 이번엔 정말로 기도에 대한 구체적인 응답을 받을 수 있었어.",
               "내 앞에 한 여인이 나타났지. 다채로운 빛에 감싸인, 성스러운 존재였어.",
               "지금은 그 여인이 천사는 아니었다는 걸 알지만, 천사나 다름없었어.",
@@ -744,8 +744,8 @@
               "Ajoelhei-me diante dela, e jurei realizar.",
               "E agora, agora mesmo, neste exato segundo,",
               "o ato se consumou.",
-              "Você não vai me pegar hoje. Talvez nunca.",
-              "Mas você não fracassou, porque agora todos nós fazemos parte de algo maior.",
+              "Vocês não vão me pegar hoje. Talvez nunca.",
+              "Mas vocês não fracassaram, porque agora todos nós fazemos parte de algo maior.",
               "Eu agora... me retiro. Até, jacaré!"
             ],
             "ru": [
@@ -793,7 +793,7 @@
               "дело свершилось.",
               "Сегодня вы меня не поймаете. Возможно, никогда.",
               "Но вы не потерпели поражение, потому что теперь мы все часть чего-то большего.",
-              "Я теперь... удаляюсь. До скорого, аллигаторы!"
+              "Я теперь... удаляюсь. Чао-какао!"
             ],
             "s-cn": [
               "从前……其实也就是几个月前。惨白的月光倾洒而下，",
@@ -1023,7 +1023,7 @@
               "Ele nos chamou de... jacaré? O que é um jacaré?"
             ],
             "ru": [
-              "Он назвал нас... аллигаторами? Что такое аллигатор?"
+              "Он назвал нас... какао? Что такое какао?"
             ],
             "s-cn": [
               "他叫我们……小鳄鱼？鳄鱼是什么？"
@@ -1314,20 +1314,20 @@
           "Was für eine Frechheit!"
         ],
         "es": [
-          "El territorio más allá de esa Franja de Color parece... inmenso.",
+          "El territorio más allá de esa franja de color parece... inmenso.",
           "Qué extraño y... ¡desconcertante!",
           "...",
           "¿Qué clase de peligros puede esconder ese territorio?",
           "¿Podríamos perdernos ahí fuera y no volver jamás?",
-          "Mi cometido es apresar a ese hombre. Seguiré adelante, sin importar lo que aguarde más allá.",
+          "Mi cometido es apresar a ese hombre. Seguiré adelante, sin importar lo que nos aguarde más allá.",
           "En tal caso, dejad que os cuente una historia.",
           "¡Tú!",
           "Hace un tiempo, apenas unos meses, en realidad, con la luz de la luna enfermiza cayendo",
           "por mi ventana, me encontraba de rodillas junto a mi cama, rezando.",
           "Totalmente afligido por todos mis problemas. ¿Qué iba a hacer con mi hijo Ratleigh,",
           "para ayudarle a convertirse en... algo que no sea semejante piltrafa?",
-          "Y en cuanto a mí... ¿Se ha agotado mi época de creatividad juvenil?",
-          "¿Voy a quedar relegado, siendo mi papel desde ahora hasta el Fin tan solo deambular y marchitarme?",
+          "Y en cuanto a mí... ¿Se habrá agotado mi época de creatividad juvenil?",
+          "¿Voy a quedar relegado, interpretando mi papel actual hasta el final, este que consiste en deambular y marchitarme?",
           "Soy un hombre de éxito. He hecho algunas cosas buenas; he aumentado enormemente la eficiencia de las prisiones,",
           "y me aseguré de que muchos criminales ya no pudieran alimentarse de la ciudadanía de bien,",
           "y así he conseguido que nuestra tierra sea un lugar sano en el que los buenos puedan prosperar.",
@@ -1442,7 +1442,7 @@
           "Ho il compito di arrestare quell'uomo. Proseguirò qualunque cosa mi attenda.",
           "In tal caso, lasciate che vi racconti una storia.",
           "Tu!",
-          "Una volta, anzi solo qualche mese fa, la luna malaticcia proiettava",
+          "Una volta, anzi solo qualche mese fa, vedevo la luna malaticcia",
           "dalla mia finestra. Ero in ginocchio accanto al letto, a pregare.",
           "Completamente abbattuto da tutti i miei problemi. Che devo fare con mio figlio Ratleigh,",
           "per aiutarlo a diventare... qualcosa che non sia un inutile moccolo?",
@@ -1554,19 +1554,19 @@
           "失礼しちゃうわね！"
         ],
         "ko": [
-          "저 색의 경계 너머의 영토는 정말... 광활해 보이네.",
+          "저 색의 경계 너머의 땅은 정말... 광활해 보이네.",
           "이상하고... 방향 감각이 사라질 것 같아!",
           "...",
           "그곳에는 어떤 위험이 도사리고 있을까?",
           "그곳에서 길을 잃고, 다시는 돌아오지 못할 수도 있을까?",
-          "그자를 체포하는 것이 제 임무입니다. 저 너머에 무엇이 기다리든 나아가겠습니다.",
+          "그자를 체포하는 것이 내 임무일세. 저 너머에 무엇이 기다리든 나아가야 해.",
           "그렇다면 내가 모두에게 이야기를 하나 들려주지.",
           "거기 있었군!",
           "옛날에, 사실 몇 달 전쯤이지만, 창백한 달이 빛을 드리우던",
           "내 창문을 통해 드리울 때, 나는 침대 옆에 무릎을 꿇고 기도하고 있었지.",
           "낙담한 채 온갖 고민에 빠져 있었어. 내 아들 래틀리를 어떻게 해야 하나,",
           "저렇게 쓸모없는 녀석을... 어떻게 해야 하지?",
-          "그리고 나는 말이야... 내 젊은 날의 창의력도 이제 다한 건가?",
+          "그리고 내... 젊은 날의 창의력도 이제 다한 걸까?",
           "이제 나는 뒷전으로 밀려나, 마지막 순간까지 그저 늙고 쇠약해져 가기만 하는 건가?",
           "난 성공한 사람이야. 좋은 일도 좀 하긴 했지. 감옥의 효율을 크게 높였고,",
           "많은 범죄자들이 더는 선량한 시민들을 착취하지 못하게 했지.",
@@ -1575,7 +1575,7 @@
           "삶은 서류 작업과 관리 업무, 그리고 정말 누구라도 나 대신 처리할 수 있는 뻔한 사건들의 연속이었어.",
           "날이 갈수록 더 깊어지는 피로가 나를 짓눌렀지.",
           "그날 밤에는 내 쓸모가 완전히 다한 것 같았어. 솔직하게 말해서, 눈물범벅이 되고 말았지.",
-          "나는 늘 그렇듯 큰소리로 기도했어. 신께서 내가 정말 진심이라는 걸 아실 수 있도록 말이야...",
+          "나는 늘 그렇듯 큰소리로 기도했어. 신께서 내가 정말 진심이라는 걸 아실 수 있도록...",
           "그랬더니 이번엔 정말로 기도에 대한 구체적인 응답을 받을 수 있었어.",
           "내 앞에 한 여인이 나타났지. 다채로운 빛에 감싸인, 성스러운 존재였어.",
           "지금은 그 여인이 천사는 아니었다는 걸 알지만, 천사나 다름없었어.",
@@ -1664,8 +1664,8 @@
           "Ajoelhei-me diante dela, e jurei realizar.",
           "E agora, agora mesmo, neste exato segundo,",
           "o ato se consumou.",
-          "Você não vai me pegar hoje. Talvez nunca.",
-          "Mas você não fracassou, porque agora todos nós fazemos parte de algo maior.",
+          "Vocês não vão me pegar hoje. Talvez nunca.",
+          "Mas vocês não fracassaram, porque agora todos nós fazemos parte de algo maior.",
           "Eu agora... me retiro. Até, jacaré!",
           "Acho que ele foi embora.",
           "Ele nos chamou de... jacaré? O que é um jacaré?",
@@ -1679,9 +1679,9 @@
           "...",
           "Какие опасности могут таиться в тех землях?",
           "Можем ли мы там заблудиться и никогда не вернуться?",
-          "Мне поручено задержать этого человека. Я пойду дальше, что бы меня там ни ждало.",
+          "Мне поручено задержать этого человека. Я пойду дальше, что бы там меня ни ждало.",
           "В таком случае, позвольте мне рассказать вам одну историю.",
-          "Вы!",
+          "Ты!",
           "Однажды, всего несколько месяцев назад, когда свет болезненно-бледной луны падал",
           "через моё окно, я стоял на коленях у кровати и молился.",
           "Совершенно подавленный всеми моими бедами. Что мне делать с моим сыном Рэтли,",
@@ -1726,9 +1726,9 @@
           "дело свершилось.",
           "Сегодня вы меня не поймаете. Возможно, никогда.",
           "Но вы не потерпели поражение, потому что теперь мы все часть чего-то большего.",
-          "Я теперь... удаляюсь. До скорого, аллигаторы!",
+          "Я теперь... удаляюсь. Чао-какао!",
           "Кажется, он ушёл.",
-          "Он назвал нас... аллигаторами? Что такое аллигатор?",
+          "Он назвал нас... какао? Что такое какао?",
           "Похоже на какого-то монстра!",
           "Он что, говорит, что на самом деле мы — монстры?",
           "Ну это же просто возмутительно!"
@@ -1917,7 +1917,7 @@
               "同情を買おうとしても無駄だ。 逃げるなら追うのみ。"
             ],
             "ko": [
-              "그 신세 한탄에 우리가 넘어갈 줄 알았나 보군. 어림없지. 놈이 달아나면 우린 뒤쫓고 잡는다. 간단해."
+              "그 신세 한탄에 우리가 넘어가길 바랐나 보군. 어림없지. 놈이 달아나면 우린 뒤쫓고 잡는다. 간단해."
             ],
             "pt-br": [
               "Ele achou que a gente ia cair na história triste dele. Não. Ele foge, a gente segue, e captura. Simples."
@@ -2405,7 +2405,7 @@
           "全力を尽くすぞ！"
         ],
         "ko": [
-          "그 신세 한탄에 우리가 넘어갈 줄 알았나 보군. 어림없지. 놈이 달아나면 우린 뒤쫓고 잡는다. 간단해.",
+          "그 신세 한탄에 우리가 넘어가길 바랐나 보군. 어림없지. 놈이 달아나면 우린 뒤쫓고 잡는다. 간단해.",
           "난 내 자유를 되찾고 싶어. 그자가 열쇠야.",
           "아주 이상한 데로 간 것 같은데.",
           "그럼 우리도 아주 이상한 데로 가겠네.",

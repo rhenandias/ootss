@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "skipping_stones_approaching_impeller",
+    "audioKey": "skipping_stones_115343369",
+    "triggerKind": "movement",
+    "blocks": [
+      "skipping_stones_approaching_impeller"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      2.5,
+      1.984640121459961,
+      1.0
+    ],
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 115343369,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "skipping_stones_approaching_impeller",
+        "rule": "exact-reference",
+        "coordinates": [
+          34.0,
+          2.484640121459961,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "skipping_stones_approaching_impeller",
+      "clips": [
+        {
+          "id": "skipping_stones_approaching_impeller_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 7.272437,
+          "src": "audio/clips/skipping_stones_approaching_impeller_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "There it is just north of you. A miniature paradise, but tarry not.",
+              "Besmirch those symbols, break the interdiction!"
+            ],
+            "de": [
+              "Da ist es, direkt nördlich von dir. Ein kleines Paradies, doch verweile nicht.",
+              "Verschandle diese Symbole, brich das Interdikt!"
+            ],
+            "es": [
+              "Ahí está, justo al norte de ti. Un paraíso en miniatura, pero no te demores.",
+              "¡Emborrona esos símbolos y despeja el veto!"
+            ],
+            "fr": [
+              "Le voilà, juste au nord. Un petit paradis... mais ne t'attarde pas.",
+              "Souille ces symboles, brise l'interdiction !"
+            ],
+            "it": [
+              "Ecco, proprio a nord rispetto a te. Un paradiso in miniatura, ma non indugiare.",
+              "Imbratta quei simboli, spezza l'interdizione!"
+            ],
+            "ja": [
+              "まるで楽園だけど 長居しないように。",
+              "印を壊せ、 推進器が必要なんだ！"
+            ],
+            "ko": [
+              "저기 네 바로 북쪽에 있군. 작은 낙원이지만, 지체하진 마.",
+              "그 문양들을 더럽혀! 금제를 깨버리는 거야!"
+            ],
+            "pt-br": [
+              "Está ali bem ao norte de você. Um paraíso em miniatura, mas não se demore.",
+              "Suje aqueles símbolos, quebre o interdito!"
+            ],
+            "ru": [
+              "Вот оно прямо к северу от тебя. Маленький рай, но не задерживайся.",
+              "Испорти эти символы, сломай запрет!"
+            ],
+            "s-cn": [
+              "它就在你正北边。是一处很小的乐园，但别久留。",
+              "把那些符号弄花，破掉阻航阵！"
+            ],
+            "t-cn": [
+              "它就在你正北邊。是一處很小的樂園，但別久留。",
+              "把那些符號弄花，破掉阻航陣！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_approaching_impeller_1__boat.wav",
+            "subtitleCueLines": [
+              4753,
+              4758
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "There it is just north of you. A miniature paradise, but tarry not.",
+          "Besmirch those symbols, break the interdiction!"
+        ],
+        "de": [
+          "Da ist es, direkt nördlich von dir. Ein kleines Paradies, doch verweile nicht.",
+          "Verschandle diese Symbole, brich das Interdikt!"
+        ],
+        "es": [
+          "Ahí está, justo al norte de ti. Un paraíso en miniatura, pero no te demores.",
+          "¡Emborrona esos símbolos y despeja el veto!"
+        ],
+        "fr": [
+          "Le voilà, juste au nord. Un petit paradis... mais ne t'attarde pas.",
+          "Souille ces symboles, brise l'interdiction !"
+        ],
+        "it": [
+          "Ecco, proprio a nord rispetto a te. Un paradiso in miniatura, ma non indugiare.",
+          "Imbratta quei simboli, spezza l'interdizione!"
+        ],
+        "ja": [
+          "まるで楽園だけど 長居しないように。",
+          "印を壊せ、 推進器が必要なんだ！"
+        ],
+        "ko": [
+          "저기 네 바로 북쪽에 있군. 작은 낙원이지만, 지체하진 마.",
+          "그 문양들을 더럽혀! 금제를 깨버리는 거야!"
+        ],
+        "pt-br": [
+          "Está ali bem ao norte de você. Um paraíso em miniatura, mas não se demore.",
+          "Suje aqueles símbolos, quebre o interdito!"
+        ],
+        "ru": [
+          "Вот оно прямо к северу от тебя. Маленький рай, но не задерживайся.",
+          "Испорти эти символы, сломай запрет!"
+        ],
+        "s-cn": [
+          "它就在你正北边。是一处很小的乐园，但别久留。",
+          "把那些符号弄花，破掉阻航阵！"
+        ],
+        "t-cn": [
+          "它就在你正北邊。是一處很小的樂園，但別久留。",
+          "把那些符號弄花，破掉阻航陣！"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

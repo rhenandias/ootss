@@ -1,0 +1,762 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "skipping_stones_gold_room_impending",
+    "audioKey": "skipping_stones_115343364",
+    "triggerKind": "movement",
+    "blocks": [
+      "skipping_stones_gold_room_impending"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      2.4683685302734375,
+      3.0,
+      1.0
+    ],
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 115343364,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "skipping_stones_gold_room_impending",
+        "rule": "exact-reference",
+        "coordinates": [
+          39.05609893798828,
+          30.82189178466797,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "skipping_stones_gold_room_impending",
+      "clips": [
+        {
+          "id": "skipping_stones_gold_room_impending_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.330292,
+          "src": "audio/clips/skipping_stones_gold_room_impending_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Hello, skipper?"
+            ],
+            "de": [
+              "Hallo, Skipperin?"
+            ],
+            "es": [
+              "¿Hola, capitán?"
+            ],
+            "fr": [
+              "Alors, ça roule ?"
+            ],
+            "it": [
+              "Ciao, skipper..."
+            ],
+            "ja": [
+              "なあ、船長。"
+            ],
+            "ko": [
+              "안녕, 선장?"
+            ],
+            "pt-br": [
+              "Olá, capitão?"
+            ],
+            "ru": [
+              "Эй, капитан?"
+            ],
+            "s-cn": [
+              "喂，船长？"
+            ],
+            "t-cn": [
+              "喂，船長？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_1__boat.wav",
+            "subtitleCueLines": [
+              4312
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.871896,
+          "src": "audio/clips/skipping_stones_gold_room_impending_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Calling me \"skipper\" now? Thank you for the joke that is clearly very funny."
+            ],
+            "de": [
+              "Jetzt nennst du mich auf einmal „Skipperin“? Danke für den Witz, der ganz offensichtlich urkomisch ist."
+            ],
+            "es": [
+              "¿Ahora me llamas «capitán»? Gracias por la broma, que claramente es muy divertida."
+            ],
+            "fr": [
+              "Comment ça, ça roule... ? Ah, les pierres... Merci pour la blague. C'est vraiment très drôle."
+            ],
+            "it": [
+              "Ora mi chiami \"skipper\"? Grazie per la battuta chiaramente davvero esilarante."
+            ],
+            "ja": [
+              "今度は船長呼ばわり？ 笑える冗談を どうも。"
+            ],
+            "ko": [
+              "나를 이제 \"선장\"이라고 부르는 거야? 아주 재미있는 농담이네. 고맙다."
+            ],
+            "pt-br": [
+              "Me chamando de “capitão” agora? Obrigada pela piada, que é claramente muito engraçada."
+            ],
+            "ru": [
+              "Теперь ты зовешь меня «капитаном»? Я поняла, спасибо за шутку, которая, очевидно, очень смешная."
+            ],
+            "s-cn": [
+              "现在肯叫我“船长”了？真是好笑，多谢啊。"
+            ],
+            "t-cn": [
+              "現在肯叫我「船長」了？真是好笑，多謝啊。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_2__sailor.wav",
+            "subtitleCueLines": [
+              4315
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.171271,
+          "src": "audio/clips/skipping_stones_gold_room_impending_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You're coming up on one of those things I haven't yet told you about."
+            ],
+            "de": [
+              "Du näherst dich einem dieser Dinge, von denen ich dir noch nichts erzählt habe."
+            ],
+            "es": [
+              "Te estás acercando a una de esas cosas de las que no te he hablado."
+            ],
+            "fr": [
+              "Tu approches de l'une de ces choses dont je ne t'ai pas encore parlé."
+            ],
+            "it": [
+              "Ti stai avvicinando a una di quelle cose di cui non ti ho ancora parlato."
+            ],
+            "ja": [
+              "すぐ近くに、 君にまだ言ってなかったものがある。"
+            ],
+            "ko": [
+              "내가 아직 안 알려 준 그것 중 하나에 가까워지고 있어."
+            ],
+            "pt-br": [
+              "Você está chegando perto de uma dessas coisas sobre as quais eu ainda não falei para você."
+            ],
+            "ru": [
+              "Ты приближаешься к одной из тех вещей, о которых я тебе не рассказывал."
+            ],
+            "s-cn": [
+              "你马上要碰到我还没告诉你的东西了。"
+            ],
+            "t-cn": [
+              "你馬上要碰到我還沒告訴你的東西了。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_3__boat.wav",
+            "subtitleCueLines": [
+              4320
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.650687,
+          "src": "audio/clips/skipping_stones_gold_room_impending_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh?"
+            ],
+            "de": [
+              "Oh?"
+            ],
+            "es": [
+              "¿Eh?"
+            ],
+            "fr": [
+              "Ah bon ?"
+            ],
+            "it": [
+              "Oh?"
+            ],
+            "ja": [
+              "何？"
+            ],
+            "ko": [
+              "오?"
+            ],
+            "pt-br": [
+              "Ah?"
+            ],
+            "ru": [
+              "А?"
+            ],
+            "s-cn": [
+              "哦？"
+            ],
+            "t-cn": [
+              "哦？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_4__sailor.wav",
+            "subtitleCueLines": [
+              4324
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 10.894104,
+          "src": "audio/clips/skipping_stones_gold_room_impending_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "There's a strange structure embedded in the next island over. A big golden platform.",
+              "It appears bright on my scry, beacon-like. Someone wants us to go there."
+            ],
+            "de": [
+              "Da ist ein seltsames Bauwerk, in die nächste Insel eingelassen. Eine große goldene Plattform.",
+              "In meiner Fernsicht leuchtet es hell, wie ein Signalgeber. Jemand will, dass wir dorthin gehen."
+            ],
+            "es": [
+              "Hay una estructura extraña empotrada en la isla siguiente. Una gran plataforma dorada.",
+              "En mi visión aparece brillante, como un faro. Alguien quiere que vayamos allí."
+            ],
+            "fr": [
+              "Il y a une étrange structure encastrée dans l'île d'à côté. Une grande plateforme dorée.",
+              "Elle apparaît brillante sur ma vision, comme un phare. Quelqu'un veut qu'on y aille."
+            ],
+            "it": [
+              "C'è una strana struttura incastonata nell'isola successiva. Una grande piattaforma dorata.",
+              "A me sembra luminosa, come un faro. Qualcuno vuole che ci andiamo."
+            ],
+            "ja": [
+              "次の島に、 大きく四角い 金の構造物がある。",
+              "強く光ってて、 呼びかけてるかのようだ。"
+            ],
+            "ko": [
+              "다음 섬에 이상한 구조물이 박혀 있어. 커다란 금으로 된 플랫폼이야.",
+              "내가 감지하기로는 밝게 빛나는 신호기 같은데. 누군가가 우리가 거길 가길 바라는 것 같아."
+            ],
+            "pt-br": [
+              "Há uma estrutura estranha encravada na próxima ilha. Uma grande Plataforma Dourada.",
+              "Ela aparece brilhante na minha vidência, como um farol. Alguém quer que a gente vá até lá."
+            ],
+            "ru": [
+              "На соседнем острове есть встроенная в него странная постройка. Большая золотая платформа.",
+              "На мой взгляд он светится ярко, как маяк. Кто-то хочет, чтобы мы туда пошли."
+            ],
+            "s-cn": [
+              "前面那座岛上嵌着一座奇怪的建筑，一个巨大的金色平台。",
+              "我窥测到它亮得像一座信标。有人想引我们过去。"
+            ],
+            "t-cn": [
+              "前面那座島上嵌著一座奇怪的建築， 一個巨大的金色平臺。",
+              "我窺測到它亮得像一座信標。有人想引我們過去。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_5__boat.wav",
+            "subtitleCueLines": [
+              4327,
+              4332
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.97025,
+          "src": "audio/clips/skipping_stones_gold_room_impending_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Maybe that's one of your traps..."
+            ],
+            "de": [
+              "Vielleicht ist das ja eine deiner Fallen ..."
+            ],
+            "es": [
+              "Quizá esa sea una de tus trampas..."
+            ],
+            "fr": [
+              "C'est peut-être un de tes pièges..."
+            ],
+            "it": [
+              "Forse è una delle tue trappole..."
+            ],
+            "ja": [
+              "安全なのかい？ いや、その四角形に 価値はあるのかい？"
+            ],
+            "ko": [
+              "네가 만든 함정일 수도 있고..."
+            ],
+            "pt-br": [
+              "Talvez essa seja uma das suas armadilhas..."
+            ],
+            "ru": [
+              "Может, это одна из твоих ловушек..."
+            ],
+            "s-cn": [
+              "没准那就是你说的陷阱之一……"
+            ],
+            "t-cn": [
+              "沒準那就是你說的陷阱之一……"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_6__sailor.wav",
+            "subtitleCueLines": [
+              4336
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_7__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 19.411583,
+          "src": "audio/clips/skipping_stones_gold_room_impending_7__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I wish you knew what a scry looked like *internally*, in the mind, so I could describe an important thing here:",
+              "There are tendrils of energy that should connect to somewhere here. But they don't. They go off... as if toward another world.",
+              "I've never seen its like before."
+            ],
+            "de": [
+              "Wenn du nur wüsstest, wie eine solche Fernsicht aussieht, innen, im Kopf. Dann könnte ich dir etwas Wichtiges beschreiben, das ich hier sehe:",
+              "Da sind Energieranken, die sich hier mit etwas verbinden müssten. Aber das tun sie nicht. Sie führen fort ... als würden sie in eine andere Welt reichen.",
+              "So etwas habe ich noch nie gesehen."
+            ],
+            "es": [
+              "Ojalá supieras cómo se ve una visión adivinatoria por dentro, en la mente, para poder describirte algo importante de este lugar:",
+              "Hay filamentos de energía que deberían conectarse a algún punto de este lugar. Pero no lo hacen. Se alejan... como si fueran hacia otro mundo.",
+              "Nunca he visto nada igual."
+            ],
+            "fr": [
+              "Si seulement tu savais à quoi ressemble la divination de l'intérieur, dans l'esprit, je pourrais te décrire une chose importante :",
+              "il y a des filaments d'énergie qui devraient se rattacher à quelque chose ici. Mais ce n'est pas le cas. Ils s'éloignent... comme vers un autre monde.",
+              "Je n'ai jamais rien vu de tel."
+            ],
+            "it": [
+              "Vorrei che sapessi com'è una divinazione dentro, nella mente, così potrei descriverti una cosa importante:",
+              "Ci sono filamenti di energia che dovrebbero collegarsi a qualcosa qui. Ma non è così. Si allontanano... come verso un altro mondo.",
+              "Non ho mai visto nulla di simile."
+            ],
+            "ja": [
+              "わからない。 でも異世界の来訪者として わかるのは――",
+              "あの構造物は 別の世界に繋がってる、 ということだ。",
+              "見えないほど、遠いところだ。"
+            ],
+            "ko": [
+              "천리안이 마음 속에서 어떻게 보이는지 네가 알면 좋을 텐데, 그래야 여기서 중요한 걸 하나 설명할 수 있거든:",
+              "원래 여기 어딘가에 이어져 있어야 할 에너지 가닥들이 있어. 그런데 그렇지가 않아. 멀리 뻗어 있어... 마치 다른 세계를 향하듯.",
+              "이런 건 처음 봐."
+            ],
+            "pt-br": [
+              "Queria que você soubesse como é uma vidência por dentro, na mente, para eu poder descrever algo importante aqui:",
+              "Há filamentos de energia que deveriam se conectar a algum lugar daqui. Mas não se conectam. Eles vão para longe... como se fossem para outro mundo.",
+              "Nunca vi nada parecido."
+            ],
+            "ru": [
+              "Если бы ты знала, как ясновидение выглядит изнутри, в сознании, я мог бы объяснить одну важную вещь:",
+              "Нити энергии должны соединяться с чем-то здесь. Но этого не происходит. Они уходят вдаль... словно в другой мир.",
+              "Ничего подобного я прежде не видел."
+            ],
+            "s-cn": [
+              "真希望你也知道，窥测时脑海里会呈现怎样的景象， 这样我就能向你描述这里发生的一个重要现象：",
+              "这里本该有一些能量的触须，连接到这儿的某个地方。 可它们没有。它们延伸开去……仿佛伸向另一个世界。",
+              "我还从没见过这样的东西。"
+            ],
+            "t-cn": [
+              "真希望你也知道，窺測時腦海裡會呈現怎樣的景象， 這樣我就能向你描述這裡發生的一個重要現象：",
+              "這裡本該有一些能量的觸鬚，連接到這兒的某個地方。 可它們沒有。它們延伸開去……仿佛伸向另一個世界。",
+              "我還從沒見過這樣的東西。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_7__boat.wav",
+            "subtitleCueLines": [
+              4339,
+              4344,
+              4349
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_8__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 12.472542,
+          "src": "audio/clips/skipping_stones_gold_room_impending_8__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "... well then ...",
+              "This is incredible, actually! All we have to do is tell them where it is; The guild can send a team to figure it out.",
+              "They'll pay us a fabulous bonus, and we'll be legends!"
+            ],
+            "de": [
+              "... Na dann ...",
+              "Das ist ja unglaublich! Wir müssen ihnen einfach nur sagen, wo es ist; die Gilde kann ein Team schicken, das es untersucht.",
+              "Sie zahlen uns eine traumhafte Prämie, und wir werden zu Legenden!"
+            ],
+            "es": [
+              "... bueno, entonces...",
+              "¡Pues esto es increíble! Solo tenemos que decirles dónde está; el Gremio puede enviar un equipo a investigarlo.",
+              "Nos pagarán una prima fabulosa ¡y seremos leyendas!"
+            ],
+            "fr": [
+              "... Eh bien...",
+              "C'est incroyable, alors ! Il suffit de leur dire où ça se trouve ; la Guilde peut envoyer une équipe pour élucider tout ça.",
+              "Ils nous offriront une prime fabuleuse, et on va devenir des légendes !"
+            ],
+            "it": [
+              "... beh, allora...",
+              "In realtà è incredibile! Dobbiamo solo dirgli dove si trova: la gilda può mandare una squadra a studiarla.",
+              "Ci daranno un favoloso premio in denaro e diventeremo leggende!"
+            ],
+            "ja": [
+              "…じゃあ…",
+              "どこ？",
+              "すごいじゃないか！ これをギルドに報告したら とんでもない報酬がもらえるよ！"
+            ],
+            "ko": [
+              "... 그럼...",
+              "생각해 보니, 정말 굉장한걸! 우린 위치만 알려주면 돼. 길드에서 조사팀을 보낼 테니까.",
+              "엄청난 포상금도 받을 거고, 우린 전설이 되는 거야!"
+            ],
+            "pt-br": [
+              "...bem, então...",
+              "Na verdade, isso é incrível! Só precisamos dizer a eles onde fica; a guilda pode mandar uma equipe para investigar.",
+              "Vão nos pagar um bônus fabuloso, e seremos lendas!"
+            ],
+            "ru": [
+              "... ну, тогда...",
+              "Это же невероятно! Нам нужно лишь сказать им, где это; гильдия пришлёт отряд разобраться.",
+              "Нам выплатят баснословную премию, и мы станем легендами!"
+            ],
+            "s-cn": [
+              "……好吧……",
+              "说真的，这也太惊人了！我们只要告诉他们位置， 公会就能派人来查个明白。",
+              "他们一定会给我们发一大笔奖金！我们要成传奇人物了！"
+            ],
+            "t-cn": [
+              "……好吧……",
+              "說真的，這也太驚人了！ 我們只要告訴他們位置，公會就能派人來查個明白。",
+              "他們一定會給我們發一大筆獎金！ 我們要成傳奇人物了！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_8__sailor.wav",
+            "subtitleCueLines": [
+              4352,
+              4356,
+              4362
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "skipping_stones_gold_room_impending_9__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 8.090146,
+          "src": "audio/clips/skipping_stones_gold_room_impending_9__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Maybe so. We'll have to get out of here first.",
+              "Just be sure to visit that ... shrine? ... when you get there."
+            ],
+            "de": [
+              "Mag sein. Aber zuerst müssen wir hier rauskommen.",
+              "Besuch auf jeden Fall diesen ... Schrein? ... wenn du dort ankommst."
+            ],
+            "es": [
+              "Tal vez. Antes tenemos que salir de aquí.",
+              "Eso sí, asegúrate de visitar ese... ¿santuario? cuando llegues allí."
+            ],
+            "fr": [
+              "Peut-être. Mais pour ça, on doit d'abord sortir d'ici.",
+              "Pense simplement à visiter ce... sanctuaire ?... quand tu y arriveras."
+            ],
+            "it": [
+              "Forse. Prima dobbiamo andare via di qui.",
+              "Assicurati solo di visitare quel... santuario? ...quando ci arrivi."
+            ],
+            "ja": [
+              "でもまずは ここを脱出しないと。",
+              "あの祭壇？を 忘れずに確認してくれよ。"
+            ],
+            "ko": [
+              "그럴지도 모르지. 우선 여기서 빠져나가야 해.",
+              "거기 도착하면 꼭 저... 성소?... 뭐 그런 곳을 방문해."
+            ],
+            "pt-br": [
+              "Talvez. Antes, precisamos sair daqui.",
+              "Só não se esqueça de visitar aquele... santuário?... quando chegar lá."
+            ],
+            "ru": [
+              "Возможно. Сначала нужно выбраться отсюда.",
+              "Только не забудь посетить ту... святыню?.. когда доберешься."
+            ],
+            "s-cn": [
+              "也许吧。我们得先离开这里再说。",
+              "到了那里，记得去那个……神龛？……看一眼。"
+            ],
+            "t-cn": [
+              "也許吧。我們得先離開這裡再說。",
+              "到了那裡，記得去那個……神龕？……看一眼。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "skipping_stones_gold_room_impending_9__boat.wav",
+            "subtitleCueLines": [
+              4366,
+              4370
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Hello, skipper?",
+          "Calling me \"skipper\" now? Thank you for the joke that is clearly very funny.",
+          "You're coming up on one of those things I haven't yet told you about.",
+          "Oh?",
+          "There's a strange structure embedded in the next island over. A big golden platform.",
+          "It appears bright on my scry, beacon-like. Someone wants us to go there.",
+          "Maybe that's one of your traps...",
+          "I wish you knew what a scry looked like *internally*, in the mind, so I could describe an important thing here:",
+          "There are tendrils of energy that should connect to somewhere here. But they don't. They go off... as if toward another world.",
+          "I've never seen its like before.",
+          "... well then ...",
+          "This is incredible, actually! All we have to do is tell them where it is; The guild can send a team to figure it out.",
+          "They'll pay us a fabulous bonus, and we'll be legends!",
+          "Maybe so. We'll have to get out of here first.",
+          "Just be sure to visit that ... shrine? ... when you get there."
+        ],
+        "de": [
+          "Hallo, Skipperin?",
+          "Jetzt nennst du mich auf einmal „Skipperin“? Danke für den Witz, der ganz offensichtlich urkomisch ist.",
+          "Du näherst dich einem dieser Dinge, von denen ich dir noch nichts erzählt habe.",
+          "Oh?",
+          "Da ist ein seltsames Bauwerk, in die nächste Insel eingelassen. Eine große goldene Plattform.",
+          "In meiner Fernsicht leuchtet es hell, wie ein Signalgeber. Jemand will, dass wir dorthin gehen.",
+          "Vielleicht ist das ja eine deiner Fallen ...",
+          "Wenn du nur wüsstest, wie eine solche Fernsicht aussieht, innen, im Kopf. Dann könnte ich dir etwas Wichtiges beschreiben, das ich hier sehe:",
+          "Da sind Energieranken, die sich hier mit etwas verbinden müssten. Aber das tun sie nicht. Sie führen fort ... als würden sie in eine andere Welt reichen.",
+          "So etwas habe ich noch nie gesehen.",
+          "... Na dann ...",
+          "Das ist ja unglaublich! Wir müssen ihnen einfach nur sagen, wo es ist; die Gilde kann ein Team schicken, das es untersucht.",
+          "Sie zahlen uns eine traumhafte Prämie, und wir werden zu Legenden!",
+          "Mag sein. Aber zuerst müssen wir hier rauskommen.",
+          "Besuch auf jeden Fall diesen ... Schrein? ... wenn du dort ankommst."
+        ],
+        "es": [
+          "¿Hola, capitán?",
+          "¿Ahora me llamas «capitán»? Gracias por la broma, que claramente es muy divertida.",
+          "Te estás acercando a una de esas cosas de las que no te he hablado.",
+          "¿Eh?",
+          "Hay una estructura extraña empotrada en la isla siguiente. Una gran plataforma dorada.",
+          "En mi visión aparece brillante, como un faro. Alguien quiere que vayamos allí.",
+          "Quizá esa sea una de tus trampas...",
+          "Ojalá supieras cómo se ve una visión adivinatoria por dentro, en la mente, para poder describirte algo importante de este lugar:",
+          "Hay filamentos de energía que deberían conectarse a algún punto de este lugar. Pero no lo hacen. Se alejan... como si fueran hacia otro mundo.",
+          "Nunca he visto nada igual.",
+          "... bueno, entonces...",
+          "¡Pues esto es increíble! Solo tenemos que decirles dónde está; el Gremio puede enviar un equipo a investigarlo.",
+          "Nos pagarán una prima fabulosa ¡y seremos leyendas!",
+          "Tal vez. Antes tenemos que salir de aquí.",
+          "Eso sí, asegúrate de visitar ese... ¿santuario? cuando llegues allí."
+        ],
+        "fr": [
+          "Alors, ça roule ?",
+          "Comment ça, ça roule... ? Ah, les pierres... Merci pour la blague. C'est vraiment très drôle.",
+          "Tu approches de l'une de ces choses dont je ne t'ai pas encore parlé.",
+          "Ah bon ?",
+          "Il y a une étrange structure encastrée dans l'île d'à côté. Une grande plateforme dorée.",
+          "Elle apparaît brillante sur ma vision, comme un phare. Quelqu'un veut qu'on y aille.",
+          "C'est peut-être un de tes pièges...",
+          "Si seulement tu savais à quoi ressemble la divination de l'intérieur, dans l'esprit, je pourrais te décrire une chose importante :",
+          "il y a des filaments d'énergie qui devraient se rattacher à quelque chose ici. Mais ce n'est pas le cas. Ils s'éloignent... comme vers un autre monde.",
+          "Je n'ai jamais rien vu de tel.",
+          "... Eh bien...",
+          "C'est incroyable, alors ! Il suffit de leur dire où ça se trouve ; la Guilde peut envoyer une équipe pour élucider tout ça.",
+          "Ils nous offriront une prime fabuleuse, et on va devenir des légendes !",
+          "Peut-être. Mais pour ça, on doit d'abord sortir d'ici.",
+          "Pense simplement à visiter ce... sanctuaire ?... quand tu y arriveras."
+        ],
+        "it": [
+          "Ciao, skipper...",
+          "Ora mi chiami \"skipper\"? Grazie per la battuta chiaramente davvero esilarante.",
+          "Ti stai avvicinando a una di quelle cose di cui non ti ho ancora parlato.",
+          "Oh?",
+          "C'è una strana struttura incastonata nell'isola successiva. Una grande piattaforma dorata.",
+          "A me sembra luminosa, come un faro. Qualcuno vuole che ci andiamo.",
+          "Forse è una delle tue trappole...",
+          "Vorrei che sapessi com'è una divinazione dentro, nella mente, così potrei descriverti una cosa importante:",
+          "Ci sono filamenti di energia che dovrebbero collegarsi a qualcosa qui. Ma non è così. Si allontanano... come verso un altro mondo.",
+          "Non ho mai visto nulla di simile.",
+          "... beh, allora...",
+          "In realtà è incredibile! Dobbiamo solo dirgli dove si trova: la gilda può mandare una squadra a studiarla.",
+          "Ci daranno un favoloso premio in denaro e diventeremo leggende!",
+          "Forse. Prima dobbiamo andare via di qui.",
+          "Assicurati solo di visitare quel... santuario? ...quando ci arrivi."
+        ],
+        "ja": [
+          "なあ、船長。",
+          "今度は船長呼ばわり？ 笑える冗談を どうも。",
+          "すぐ近くに、 君にまだ言ってなかったものがある。",
+          "何？",
+          "次の島に、 大きく四角い 金の構造物がある。",
+          "強く光ってて、 呼びかけてるかのようだ。",
+          "安全なのかい？ いや、その四角形に 価値はあるのかい？",
+          "わからない。 でも異世界の来訪者として わかるのは――",
+          "あの構造物は 別の世界に繋がってる、 ということだ。",
+          "見えないほど、遠いところだ。",
+          "…じゃあ…",
+          "どこ？",
+          "すごいじゃないか！ これをギルドに報告したら とんでもない報酬がもらえるよ！",
+          "でもまずは ここを脱出しないと。",
+          "あの祭壇？を 忘れずに確認してくれよ。"
+        ],
+        "ko": [
+          "안녕, 선장?",
+          "나를 이제 \"선장\"이라고 부르는 거야? 아주 재미있는 농담이네. 고맙다.",
+          "내가 아직 안 알려 준 그것 중 하나에 가까워지고 있어.",
+          "오?",
+          "다음 섬에 이상한 구조물이 박혀 있어. 커다란 금으로 된 플랫폼이야.",
+          "내가 감지하기로는 밝게 빛나는 신호기 같은데. 누군가가 우리가 거길 가길 바라는 것 같아.",
+          "네가 만든 함정일 수도 있고...",
+          "천리안이 마음 속에서 어떻게 보이는지 네가 알면 좋을 텐데, 그래야 여기서 중요한 걸 하나 설명할 수 있거든:",
+          "원래 여기 어딘가에 이어져 있어야 할 에너지 가닥들이 있어. 그런데 그렇지가 않아. 멀리 뻗어 있어... 마치 다른 세계를 향하듯.",
+          "이런 건 처음 봐.",
+          "... 그럼...",
+          "생각해 보니, 정말 굉장한걸! 우린 위치만 알려주면 돼. 길드에서 조사팀을 보낼 테니까.",
+          "엄청난 포상금도 받을 거고, 우린 전설이 되는 거야!",
+          "그럴지도 모르지. 우선 여기서 빠져나가야 해.",
+          "거기 도착하면 꼭 저... 성소?... 뭐 그런 곳을 방문해."
+        ],
+        "pt-br": [
+          "Olá, capitão?",
+          "Me chamando de “capitão” agora? Obrigada pela piada, que é claramente muito engraçada.",
+          "Você está chegando perto de uma dessas coisas sobre as quais eu ainda não falei para você.",
+          "Ah?",
+          "Há uma estrutura estranha encravada na próxima ilha. Uma grande Plataforma Dourada.",
+          "Ela aparece brilhante na minha vidência, como um farol. Alguém quer que a gente vá até lá.",
+          "Talvez essa seja uma das suas armadilhas...",
+          "Queria que você soubesse como é uma vidência por dentro, na mente, para eu poder descrever algo importante aqui:",
+          "Há filamentos de energia que deveriam se conectar a algum lugar daqui. Mas não se conectam. Eles vão para longe... como se fossem para outro mundo.",
+          "Nunca vi nada parecido.",
+          "...bem, então...",
+          "Na verdade, isso é incrível! Só precisamos dizer a eles onde fica; a guilda pode mandar uma equipe para investigar.",
+          "Vão nos pagar um bônus fabuloso, e seremos lendas!",
+          "Talvez. Antes, precisamos sair daqui.",
+          "Só não se esqueça de visitar aquele... santuário?... quando chegar lá."
+        ],
+        "ru": [
+          "Эй, капитан?",
+          "Теперь ты зовешь меня «капитаном»? Я поняла, спасибо за шутку, которая, очевидно, очень смешная.",
+          "Ты приближаешься к одной из тех вещей, о которых я тебе не рассказывал.",
+          "А?",
+          "На соседнем острове есть встроенная в него странная постройка. Большая золотая платформа.",
+          "На мой взгляд он светится ярко, как маяк. Кто-то хочет, чтобы мы туда пошли.",
+          "Может, это одна из твоих ловушек...",
+          "Если бы ты знала, как ясновидение выглядит изнутри, в сознании, я мог бы объяснить одну важную вещь:",
+          "Нити энергии должны соединяться с чем-то здесь. Но этого не происходит. Они уходят вдаль... словно в другой мир.",
+          "Ничего подобного я прежде не видел.",
+          "... ну, тогда...",
+          "Это же невероятно! Нам нужно лишь сказать им, где это; гильдия пришлёт отряд разобраться.",
+          "Нам выплатят баснословную премию, и мы станем легендами!",
+          "Возможно. Сначала нужно выбраться отсюда.",
+          "Только не забудь посетить ту... святыню?.. когда доберешься."
+        ],
+        "s-cn": [
+          "喂，船长？",
+          "现在肯叫我“船长”了？真是好笑，多谢啊。",
+          "你马上要碰到我还没告诉你的东西了。",
+          "哦？",
+          "前面那座岛上嵌着一座奇怪的建筑，一个巨大的金色平台。",
+          "我窥测到它亮得像一座信标。有人想引我们过去。",
+          "没准那就是你说的陷阱之一……",
+          "真希望你也知道，窥测时脑海里会呈现怎样的景象， 这样我就能向你描述这里发生的一个重要现象：",
+          "这里本该有一些能量的触须，连接到这儿的某个地方。 可它们没有。它们延伸开去……仿佛伸向另一个世界。",
+          "我还从没见过这样的东西。",
+          "……好吧……",
+          "说真的，这也太惊人了！我们只要告诉他们位置， 公会就能派人来查个明白。",
+          "他们一定会给我们发一大笔奖金！我们要成传奇人物了！",
+          "也许吧。我们得先离开这里再说。",
+          "到了那里，记得去那个……神龛？……看一眼。"
+        ],
+        "t-cn": [
+          "喂，船長？",
+          "現在肯叫我「船長」了？真是好笑，多謝啊。",
+          "你馬上要碰到我還沒告訴你的東西了。",
+          "哦？",
+          "前面那座島上嵌著一座奇怪的建築， 一個巨大的金色平臺。",
+          "我窺測到它亮得像一座信標。有人想引我們過去。",
+          "沒準那就是你說的陷阱之一……",
+          "真希望你也知道，窺測時腦海裡會呈現怎樣的景象， 這樣我就能向你描述這裡發生的一個重要現象：",
+          "這裡本該有一些能量的觸鬚，連接到這兒的某個地方。 可它們沒有。它們延伸開去……仿佛伸向另一個世界。",
+          "我還從沒見過這樣的東西。",
+          "……好吧……",
+          "說真的，這也太驚人了！ 我們只要告訴他們位置，公會就能派人來查個明白。",
+          "他們一定會給我們發一大筆獎金！ 我們要成傳奇人物了！",
+          "也許吧。我們得先離開這裡再說。",
+          "到了那裡，記得去那個……神龕？……看一眼。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -56,8 +56,8 @@
               "Ich werde weiter vordringen."
             ],
             "es": [
-              "Señor Quigley,",
-              "Momentos después de atravesarlo, el umbral se cerró de golpe y desapareció. Por el momento estoy solo.",
+              "Señor Quigley:",
+              "Momentos después de atravesarlo, el umbral se cerró de golpe y desapareció. Por el momento, estoy solo.",
               "Confío en que lo reabrirás cuando puedas. Hasta entonces, echaré un vistazo.",
               "Iré dejando un rastro de balizas, por si mandas a alguien tras de mí,",
               "y dejaré por escrito toda la información que pueda, por si desaparezco o expiro.",
@@ -108,8 +108,8 @@
               "先へ進もう。"
             ],
             "ko": [
-              "퀴글리 군,",
-              "내가 통과한 지 얼마 안 돼, 출입구가 갑자기 닫히더니 사라졌어. 현재는 나 혼자뿐이야.",
+              "퀴글리 군.",
+              "내가 통과하고 얼마 지나지 않아 출입구가 갑자기 닫히더니 사라졌어. 당분간은 나 혼자 헤쳐 나가야겠군.",
               "가능해지는 대로 다시 열어 주리라 믿어. 난 그때까지 주위를 둘러봐야겠군.",
               "혹시 사람을 보낼 경우를 대비해 신호기로 흔적을 남겨두지.",
               "혹시 내가 실종되거나 사망할 경우에 대비해 최대한 정보를 기록해 두겠어.",
@@ -224,8 +224,8 @@
           "Ich werde weiter vordringen."
         ],
         "es": [
-          "Señor Quigley,",
-          "Momentos después de atravesarlo, el umbral se cerró de golpe y desapareció. Por el momento estoy solo.",
+          "Señor Quigley:",
+          "Momentos después de atravesarlo, el umbral se cerró de golpe y desapareció. Por el momento, estoy solo.",
           "Confío en que lo reabrirás cuando puedas. Hasta entonces, echaré un vistazo.",
           "Iré dejando un rastro de balizas, por si mandas a alguien tras de mí,",
           "y dejaré por escrito toda la información que pueda, por si desaparezco o expiro.",
@@ -276,8 +276,8 @@
           "先へ進もう。"
         ],
         "ko": [
-          "퀴글리 군,",
-          "내가 통과한 지 얼마 안 돼, 출입구가 갑자기 닫히더니 사라졌어. 현재는 나 혼자뿐이야.",
+          "퀴글리 군.",
+          "내가 통과하고 얼마 지나지 않아 출입구가 갑자기 닫히더니 사라졌어. 당분간은 나 혼자 헤쳐 나가야겠군.",
           "가능해지는 대로 다시 열어 주리라 믿어. 난 그때까지 주위를 둘러봐야겠군.",
           "혹시 사람을 보낼 경우를 대비해 신호기로 흔적을 남겨두지.",
           "혹시 내가 실종되거나 사망할 경우에 대비해 최대한 정보를 기록해 두겠어.",
@@ -641,7 +641,7 @@
           "provenance": {
             "sourceWav": "intro_queen_am_i_dead_1__queen.wav",
             "subtitleCueLines": [
-              6940
+              6950
             ],
             "explicitAudioReference": null
           }
@@ -705,7 +705,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 6939,
+        "subtitleLine": 6949,
         "subtitleHeader": ":::"
       }
     },
@@ -767,8 +767,8 @@
           "provenance": {
             "sourceWav": "intro_queen_callout_alt_1__queen.wav",
             "subtitleCueLines": [
-              6947,
-              6951
+              6957,
+              6961
             ],
             "explicitAudioReference": null
           }
@@ -843,7 +843,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 6946,
+        "subtitleLine": 6956,
         "subtitleHeader": ":::"
       }
     },
@@ -894,7 +894,7 @@
           "provenance": {
             "sourceWav": "intro_queen_foreign_script_1__queen.wav",
             "subtitleCueLines": [
-              6958
+              6968
             ],
             "explicitAudioReference": null
           }
@@ -958,7 +958,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 6957,
+        "subtitleLine": 6967,
         "subtitleHeader": ":::"
       }
     },
@@ -1009,7 +1009,7 @@
           "provenance": {
             "sourceWav": "intro_queen_sign_1__queen.wav",
             "subtitleCueLines": [
-              6966
+              6976
             ],
             "explicitAudioReference": null
           }
@@ -1073,7 +1073,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 6965,
+        "subtitleLine": 6975,
         "subtitleHeader": ":::"
       }
     },
@@ -1135,8 +1135,8 @@
           "provenance": {
             "sourceWav": "intro_queen_hosts_1_1__queen.wav",
             "subtitleCueLines": [
-              6973,
-              6977
+              6983,
+              6987
             ],
             "explicitAudioReference": null
           }
@@ -1211,7 +1211,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 6972,
+        "subtitleLine": 6982,
         "subtitleHeader": ":::"
       }
     },
@@ -1242,7 +1242,7 @@
               "Si vous voulez m'aider, renvoyez-moi auprès de mes hommes."
             ],
             "it": [
-              "Voi che vi fate chiamare Sinking Star!",
+              "Voi che vi fate chiamare Stella discendente!",
               "Se volete aiutarmi, rimandatemi dai miei uomini."
             ],
             "ja": [
@@ -1254,7 +1254,7 @@
               "날 돕고 싶다면, 날 내 부하들에게 돌려보내 다오."
             ],
             "pt-br": [
-              "Vocês que se chamam de Sinking Star!",
+              "Vocês que se chamam de Estrela Submersa!",
               "Se querem me ajudar, me mandem de volta para o meu grupo."
             ],
             "ru": [
@@ -1273,8 +1273,8 @@
           "provenance": {
             "sourceWav": "intro_queen_hosts_2_1__queen.wav",
             "subtitleCueLines": [
-              6984,
-              6988
+              6994,
+              6998
             ],
             "explicitAudioReference": null
           }
@@ -1302,7 +1302,7 @@
           "Si vous voulez m'aider, renvoyez-moi auprès de mes hommes."
         ],
         "it": [
-          "Voi che vi fate chiamare Sinking Star!",
+          "Voi che vi fate chiamare Stella discendente!",
           "Se volete aiutarmi, rimandatemi dai miei uomini."
         ],
         "ja": [
@@ -1314,7 +1314,7 @@
           "날 돕고 싶다면, 날 내 부하들에게 돌려보내 다오."
         ],
         "pt-br": [
-          "Vocês que se chamam de Sinking Star!",
+          "Vocês que se chamam de Estrela Submersa!",
           "Se querem me ajudar, me mandem de volta para o meu grupo."
         ],
         "ru": [
@@ -1349,7 +1349,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 6983,
+        "subtitleLine": 6993,
         "subtitleHeader": ":::"
       }
     },
@@ -1400,7 +1400,7 @@
           "provenance": {
             "sourceWav": "intro_queen_hosts_3_1__queen.wav",
             "subtitleCueLines": [
-              6996
+              7006
             ],
             "explicitAudioReference": null
           }
@@ -1464,7 +1464,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 6995,
+        "subtitleLine": 7005,
         "subtitleHeader": ":::"
       }
     },
@@ -1515,7 +1515,7 @@
           "provenance": {
             "sourceWav": "intro_queen_teleporter_1__queen.wav",
             "subtitleCueLines": [
-              7005
+              7015
             ],
             "explicitAudioReference": null
           }
@@ -1579,7 +1579,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 7004,
+        "subtitleLine": 7014,
         "subtitleHeader": ":::"
       }
     },
@@ -1762,19 +1762,19 @@
           "provenance": {
             "sourceWav": "audiolog_sky_10000_things_1__acting.wav",
             "subtitleCueLines": [
-              10102,
-              10107,
               10112,
               10117,
               10122,
               10127,
-              10133,
-              10136,
-              10140,
+              10132,
+              10137,
               10143,
-              10148,
-              10152,
-              10156
+              10146,
+              10150,
+              10153,
+              10158,
+              10162,
+              10166
             ],
             "explicitAudioReference": null
           }
@@ -1823,7 +1823,7 @@
           "provenance": {
             "sourceWav": "audiolog_sky_10000_things_2__sokoban.wav",
             "subtitleCueLines": [
-              10160
+              10170
             ],
             "explicitAudioReference": null
           }
@@ -1894,9 +1894,9 @@
           "provenance": {
             "sourceWav": "audiolog_sky_10000_things_3__acting.wav",
             "subtitleCueLines": [
-              10165,
-              10170,
-              10175
+              10175,
+              10180,
+              10185
             ],
             "explicitAudioReference": null
           }
@@ -2136,7 +2136,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 10101,
+        "subtitleLine": 10111,
         "subtitleHeader": "::"
       }
     },
@@ -2158,10 +2158,38 @@
               "to one identifiable thing, to many identifiable things.",
               "So let's consider the idea of Distinction -- lines being drawn to distinguish things from each other."
             ],
-            "de": [],
-            "es": [],
-            "fr": [],
-            "it": [],
+            "de": [
+              "In unserem Kanon gibt es noch ein Werk, das Anregungen",
+              "aus der daoistischen Tradition bezieht, dem Ganzen aber eine mathematische Wendung gibt.",
+              "Du erinnerst dich: Zuerst erschafft das Dao das Eine oder bringt es hervor, das Eine erschafft die Zwei und so weiter.",
+              "Betrachten wir also folgenden Übergang: von nichts Identifizierbarem,",
+              "zu einem identifizierbaren Ding, zu vielen identifizierbaren Dingen.",
+              "Betrachten wir also die Idee der Unterscheidung – wir ziehen Linien, um Dinge voneinander zu unterscheiden."
+            ],
+            "es": [
+              "Hay otra obra de nuestro canon que se inspira",
+              "en la tradición taoísta, pero le da un enfoque matemático.",
+              "Recordarás que primero el Dao crea o da lugar al Uno, el Uno crea el Dos, y así sucesivamente.",
+              "Así que queremos explorar la idea de pasar de no haber nada identificable,",
+              "a una cosa identificable, y luego a muchas cosas identificables.",
+              "Consideremos, pues, la idea de distinción: trazar líneas para distinguir unas cosas de otras."
+            ],
+            "fr": [
+              "Il existe une autre œuvre de notre canon, qui s'inspire",
+              "de la tradition taoïste, et l'intègre aux mathématiques.",
+              "Vous vous souvenez que le Tao crée ou fait d'abord naître l'Un, l'Un crée le Deux, et ainsi de suite.",
+              "Nous voulons donc examiner l'idée de passer de rien d'identifiable,",
+              "à une chose identifiable, puis à de nombreuses choses identifiables.",
+              "Considérons donc l'idée de distinction : des lignes que l'on trace pour distinguer les choses les unes des autres."
+            ],
+            "it": [
+              "C'è un'altra opera del nostro canone, che trae ispirazione",
+              "dalla tradizione taoista, ma la interpreta in chiave matematica.",
+              "Ricorderai che prima il Dao crea o dà origine all'Uno, l'Uno crea il Due, e così via.",
+              "Quindi vogliamo esaminare l'idea del passaggio da nulla di identificabile,",
+              "a una cosa identificabile, a molte cose identificabili.",
+              "Consideriamo dunque l'idea di distinzione: linee tracciate per distinguere le cose le une dalle altre."
+            ],
             "ja": [
               "私たちの典籍には、 こんな作品もある。着想のもとにあるのは、",
               "道家の伝統。 それを数学の視点から捉え直したものよ。",
@@ -2170,21 +2198,42 @@
               "一つのものを見分けられる状態へ、 やがて、多くのものを見分けられる状態へ。 その移り変わりを考えてみたいの。",
               "そこで、「区別」という考え方を見てみましょう。 線を引いて、あるものと別のものを 区別することよ。"
             ],
-            "ko": [],
-            "pt-br": [],
-            "ru": [],
+            "ko": [
+              "우리 정전에는 또 다른 저작이 있어. 영감을 얻은 곳은",
+              "도교 전통에서 온 건데, 거기에 수학적인 관점을 더한 거야.",
+              "기억할 거야. 먼저 도가 하나를 만들거나 낳고, 하나가 둘을 낳는 식으로 이어진다는 걸.",
+              "그러니 식별할 수 있는 게 전혀 없는 상태에서, 어떻게 나아가는지 살펴보자는 거야,",
+              "식별할 수 있는 하나로, 그리고 식별할 수 있는 여럿으로.",
+              "그럼 구분이라는 개념을 생각해 보자... 선을 그어서 무언가를 서로 구별하는 거지."
+            ],
+            "pt-br": [
+              "Há outra obra do nosso cânone, que se inspira",
+              "da tradição taoísta, mas dá a ela um toque matemático.",
+              "Você deve se lembrar de que primeiro o Dao cria ou dá origem ao Um, o Um cria o Dois, e assim por diante.",
+              "Então queremos examinar a ideia de passar de nada que seja identificável,",
+              "para uma coisa identificável, para muitas coisas identificáveis.",
+              "Vamos considerar a ideia de distinção: linhas traçadas para distinguir as coisas umas das outras."
+            ],
+            "ru": [
+              "Есть ещё одно произведение из нашего канона, которое черпает вдохновение",
+              "в даосской традиции и переводит её на язык математики.",
+              "Как ты помнишь, сначала Дао создаёт, или порождает, Одно, Одно создаёт Два и так далее.",
+              "Итак, мы хотим рассмотреть идею перехода от отсутствия чего-либо различимого,",
+              "к одной различимой вещи, а затем — к множеству различимых вещей.",
+              "Рассмотрим понятие Различения — проведения границ, которые позволяют отличать вещи друг от друга."
+            ],
             "s-cn": [],
             "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_1__acting.wav",
             "subtitleCueLines": [
-              10988,
-              10992,
-              10996,
-              11001,
-              11005,
-              11009
+              10998,
+              11002,
+              11006,
+              11011,
+              11015,
+              11019
             ],
             "explicitAudioReference": null
           }
@@ -2199,23 +2248,37 @@
             "en": [
               "You're saying distinguish instead of create -- so the things are already created?"
             ],
-            "de": [],
-            "es": [],
-            "fr": [],
-            "it": [],
+            "de": [
+              "Du sagst unterscheiden statt erschaffen – die Dinge sind also bereits erschaffen?"
+            ],
+            "es": [
+              "Hablas de distinguir en lugar de crear, ¿entonces las cosas ya están creadas?"
+            ],
+            "fr": [
+              "Vous dites distinguer plutôt que créer... les choses sont donc déjà créées ?"
+            ],
+            "it": [
+              "Dici distinguere invece di creare... quindi le cose sono già state create?"
+            ],
             "ja": [
               "創造するのではなく、区別すると言うのですね。 では、物はすでに創造されているのですか？"
             ],
-            "ko": [],
-            "pt-br": [],
-            "ru": [],
+            "ko": [
+              "만든다고 안 하고 구별한다고 하네... 그럼 이미 만들어져 있다는 거야?"
+            ],
+            "pt-br": [
+              "Você diz distinguir em vez de criar, então as coisas já estão criadas?"
+            ],
+            "ru": [
+              "Вы говорите «отличать», а не «создавать» — значит, вещи уже созданы?"
+            ],
             "s-cn": [],
             "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_2__sokoban.wav",
             "subtitleCueLines": [
-              11014
+              11024
             ],
             "explicitAudioReference": null
           }
@@ -2252,10 +2315,106 @@
               "With just these two rules of rewriting, a tree can blossom that is huge, as large as you like.",
               "You know what I mean by a tree, in the mathematical sense?"
             ],
-            "de": [],
-            "es": [],
-            "fr": [],
-            "it": [],
+            "de": [
+              "Es ist ein anderes Bild von der Schöpfung. Ich habe „nichts Identifizierbares“ gesagt,",
+              "aber stell dir darunter kein physisches Nichts vor. Eher ein Potenzial, das alles durchdringt.",
+              "Ein undifferenziertes Ganzes braucht keine Unterscheidung.",
+              "Doch sobald wir sagen, es gebe das Eine, ist damit zwangsläufig etwas verbunden, nämlich eine Unterscheidung:",
+              "zwischen diesem Einen und allem, was dieses Eine nicht ist.",
+              "Um das mathematisch abzubilden, hat der Autor mit etwas begonnen, das er die Erste Unterscheidung nannte.",
+              "Diese Unterscheidung bedeutet: Nun haben wir zwei Dinge, A und Nicht-A.",
+              "Sobald es eine Grenze gibt, ergibt sich die Möglichkeit, sie zu überschreiten.",
+              "Man kann die Grenze von A zu Nicht-A überschreiten, oder umgekehrt von Nicht-A zu A.",
+              "Im menschlichen Maßstab vielleicht: vom Leben zum Tod und wieder zurück. Von Zufriedenheit zu Langeweile und wieder zurück.",
+              "Überschreitungen lassen sich mathematisch notieren. Ein einziges rechtwinkliges Zeichen sagt dabei zweierlei aus:",
+              "Es gibt eine Unterscheidung, und außerdem: „Ich habe sie überschritten.“",
+              "Und dann kannst du zwei Regeln einführen, um diese Notation umzuformen.",
+              "Wenn du hinübergehst und wieder zurück, landest du dort, wo du angefangen hast – das ist dasselbe, wie stehen zu bleiben.",
+              "Und umgekehrt gilt dasselbe. Überall, wo du stehen geblieben bist, also nichts geschrieben hast,",
+              "kannst du das durch etwas anderes ersetzen: durch Überschreiten und anschließende Rückkehr,",
+              "dargestellt als rechtwinkliges Zeichen, das in einem anderen steht.",
+              "Und dieselbe Unterscheidung zweimal zu notieren ist dasselbe, wie sie einmal zu notieren ...",
+              "man sagt damit lediglich redundanterweise zweimal dasselbe.",
+              "(Das sieht aus wie zwei rechtwinklige Zeichen, die nebeneinanderstehen.)",
+              "Wo immer du eine Unterscheidung notiert hast, kannst du sie beliebig oft wiederholen: zweimal, dreimal oder so oft du willst.",
+              "Mit nur diesen beiden Umformungsregeln kann ein gewaltiger Baum erblühen, so groß, wie du nur willst.",
+              "Du weißt, was ich mit einem Baum meine, im mathematischen Sinn?"
+            ],
+            "es": [
+              "Es otra manera de ver la creación. He dicho «nada identificable»,",
+              "pero no lo imagines como una nada física. Más bien como un potencial que lo impregna todo.",
+              "Un todo indiferenciado no necesita distinción.",
+              "Sin embargo, en cuanto decimos que hay Uno, eso implica necesariamente una distinción:",
+              "entre ese Uno y aquello que no es el Uno.",
+              "Para modelarlo matemáticamente, el autor empezó con lo que llamó la Primera Distinción.",
+              "Esta distinción implica que ahora tenemos dos cosas, A y no A.",
+              "Una vez que tienes un límite, eso admite la posibilidad de cruzarlo.",
+              "Puedes pasar de A a no A, o de no A a A.",
+              "A una escala más humana, quizás, de vivo a muerto, y luego de vuelta a vivo. De complacido a aburrido, y luego de vuelta a complacido.",
+              "Puedes escribir cruces matemáticamente, de modo que una sola marca en ángulo recto",
+              "indique que hay una distinción y también diga «la he cruzado».",
+              "Y luego puedes introducir dos reglas para manipular lo escrito.",
+              "Si cruzas y luego descruzas, acabas donde empezaste... equivale a quedarse quieto.",
+              "Y lo mismo a la inversa. Donde te hayas quedado quieto, es decir, donde no hayas escrito nada,",
+              "puedes sustituir esto por un cruce y un posterior descruce,",
+              "lo cual parece una marca en ángulo recto dentro de otra.",
+              "Y marcar la misma distinción dos veces es lo mismo que marcarla una vez...",
+              "simplemente estás diciendo lo mismo dos veces, de forma redundante.",
+              "(Esto parece dos marcas en ángulo recto una junto a la otra).",
+              "Así que, en cualquier lugar donde escribieras una distinción, puedes escribirla dos veces, tres veces, las que quieras.",
+              "Con solo estas dos reglas de reescritura, un árbol puede florecer hasta volverse enorme, tan grande como quieras.",
+              "¿Sabes a qué me refiero con un árbol en sentido matemático?"
+            ],
+            "fr": [
+              "C'est une autre façon de voir la création. J'ai dit « rien d'identifiable »,",
+              "mais n'imaginez pas un néant physique. Plutôt un potentiel omniprésent.",
+              "Un tout indifférencié n'a pas besoin de distinction.",
+              "Mais dès lors que nous affirmons qu'il y a Un, cela implique nécessairement une distinction :",
+              "entre l'Un, et ce qui n'est pas l'Un.",
+              "Pour modéliser cela mathématiquement, l'auteur a commencé par ce qu'il appelait la première distinction.",
+              "Cette distinction signifie que nous avons désormais deux choses, A et non A.",
+              "Dès qu'il y a une frontière, cela ouvre la possibilité de la franchir.",
+              "Vous pouvez passer de A à non A, ou de non A à A.",
+              "À une échelle plus humaine, peut-être de vivant à mort, puis de nouveau vivant. De satisfait à ennuyé, puis de nouveau satisfait.",
+              "On peut écrire les franchissements mathématiquement, avec un seul signe à angle droit qui, à la fois,",
+              "indique qu'il existe une distinction, et dit « je l'ai franchie ».",
+              "Et ensuite, on peut introduire deux règles pour manipuler ces notations.",
+              "Si vous traversez puis revenez en arrière, vous retrouvez votre point de départ – cela revient à rester immobile.",
+              "Et réciproquement. Partout où vous êtes resté immobile, autrement dit où vous n'avez rien écrit,",
+              "vous pouvez remplacer cela par un franchissement suivi d'un retour,",
+              "ce qui ressemble à un signe à angle droit à l'intérieur d'un autre.",
+              "Et noter la même distinction deux fois revient au même que la noter une seule fois...",
+              "vous ne faites que dire la même chose deux fois, de façon redondante.",
+              "(Cela ressemble à deux signes à angle droit côte à côte.)",
+              "Donc, partout où vous avez écrit une distinction, vous pouvez l'écrire deux fois, trois fois, autant de fois que vous voulez.",
+              "Avec ces deux seules règles de réécriture, un arbre peut fleurir et devenir immense, aussi grand que vous le souhaitez.",
+              "Vous savez ce que j'entends par un arbre, au sens mathématique ?"
+            ],
+            "it": [
+              "È una visione diversa della creazione. Ho detto \"nulla di identificabile\",",
+              "ma non immaginarlo come un nulla fisico. È più un potenziale che pervade ogni cosa.",
+              "Un tutto indifferenziato non ha bisogno di distinzione.",
+              "Ma una volta che diciamo che esiste l'Uno, questo implica necessariamente una distinzione:",
+              "tra quell'Uno, e tutto ciò che non è quell'Uno.",
+              "Per modellarlo matematicamente, l'autore partì da ciò che chiamò la Prima distinzione.",
+              "Questa distinzione significa che ora abbiamo due cose: A e Non A.",
+              "Una volta che hai un confine, questo ammette la possibilità di attraversarlo.",
+              "Puoi passare da A a Non A, o da Non A ad A.",
+              "Su una scala più umana, forse da vivo a morto, poi di nuovo vivo. Soddisfatto ad annoiato, poi di nuovo soddisfatto.",
+              "Puoi scrivere i passaggi matematicamente, usando un unico segno ad angolo retto che",
+              "afferma l'esistenza di una distinzione, e dice anche \"l'ho superata\".",
+              "E poi puoi introdurre due regole per manipolare ciò che hai scritto.",
+              "Se vai avanti e poi torni indietro, ti ritrovi al punto di partenza: è come restare fermi.",
+              "Vale anche il contrario. Ogni situazione in cui tu sia rimasto fermo, cioè senza scrivere nulla,",
+              "puoi sostituirla con un attraversamento seguito da un ritorno,",
+              "che appare come un segno ad angolo retto dentro un altro.",
+              "E segnare la stessa distinzione due volte è la stessa cosa che segnarla una volta...",
+              "Stai solo dicendo la stessa cosa due volte, in modo ridondante.",
+              "(Questo sembra due segni ad angolo retto, l'uno accanto all'altro.)",
+              "Quindi, ovunque tu abbia scritto una distinzione, puoi scriverla due volte, tre volte, quante volte vuoi.",
+              "Con queste sole due regole di riscrittura, un albero può fiorire fino a diventare enorme, grande quanto vuoi.",
+              "Sai cosa intendo per albero, in senso matematico?"
+            ],
             "ja": [
               "創造を、別の形で捉えているの。 「何も識別できない」と言ったけれど、",
               "でも、物理的に何も存在しない、という意味じゃない。 あらゆるところに可能性が満ちている、 そんな状態を思い浮かべて。",
@@ -2281,38 +2440,110 @@
               "この二つの書き換え規則だけで、 好きなだけ大きく枝を広げる、 巨大な木が育つの。",
               "数学でいう「木」が何かは、 分かるかしら？"
             ],
-            "ko": [],
-            "pt-br": [],
-            "ru": [],
+            "ko": [
+              "창조를 다르게 바라보는 거야. 내가 \"식별할 수 있는 게 전혀 없다\"고 했지만,",
+              "물리적으로 아무것도 없다는 뜻은 아니야. 모든 곳에 잠재력이 깃들어 있는 상태에 더 가깝지.",
+              "나뉘지 않은 전체에는 구분이 필요 없어.",
+              "하지만 하나가 있다고 말하는 순간, 거기에는 반드시 구분이 따르지.",
+              "그 하나와, 그 하나가 아닌 모든 것 사이에.",
+              "이걸 수학적으로 모형화하려고 그 저작자 자신이 최초의 구분이라고 부른 것에서 출발했어.",
+              "이 구분으로 이제 두 가지가 생긴 셈이지. A와 A가 아닌 것.",
+              "경계가 생기면, 그 경계를 넘을 가능성도 생기지.",
+              "A에서 A가 아닌 것으로, 또는 A가 아닌 것에서 A로 넘어갈 수 있어.",
+              "좀 더 인간적인 차원에서 보면, 삶에서 죽음으로, 다시 삶으로. 만족에서 지루함으로, 다시 만족으로.",
+              "경계 넘기를 수학적으로 표기할 수 있어, 직각 모양 기호 하나로",
+              "구분이 있다는 걸 나타내면서, 동시에 \"그걸 넘어갔다\"고 말하는 거지.",
+              "그런 다음, 그 표기를 조작하는 두 가지 규칙을 도입하는 거야.",
+              "넘어갔다가 다시 돌아오면, 출발한 곳에 도착하게 돼... 가만히 있는 것과 같지.",
+              "그 반대도 마찬가지야. 가만히 있었던 곳은 어디든, 다시 말해 아무것도 쓰지 않은 곳은,",
+              "이걸 넘어갔다가 다시 돌아오는 것으로 바꿔 쓸 수 있지.",
+              "직각 모양 기호 안에 같은 기호가 하나 더 있는 모습이지.",
+              "그리고 같은 구분을 두 번 적는 건 한 번 적는 것과 같아...",
+              "같은 말을 쓸데없이 두 번 하는 것뿐이니까.",
+              "(이건 직각 모양 기호 두 개가 나란히 있는 모습이야.)",
+              "그러니 구분을 적은 곳은 어디든, 두 번이든, 세 번이든, 원하는 만큼 적을 수 있어.",
+              "이 두 가지 다시 쓰기 규칙만으로, 트리는 얼마든지 거대하게, 원하는 만큼 뻗어 나갈 수 있지.",
+              "수학에서 말하는 트리가 뭔지는 알지?"
+            ],
+            "pt-br": [
+              "É outra visão da criação. Eu disse \"nada que seja identificável\",",
+              "mas não imagine isso como um vazio físico. É mais como um potencial que permeia tudo.",
+              "Um todo indiferenciado não precisa de distinção.",
+              "Mas, uma vez que dizemos que há Um, isso necessariamente envolve uma distinção:",
+              "entre esse Um, e aquilo que não é esse Um.",
+              "Para modelar isso matematicamente, o autor começou com o que chamou de Primeira Distinção.",
+              "Essa Distinção significa que agora temos duas coisas, A e Não A.",
+              "Uma vez que você tem uma fronteira, isso admite a possibilidade de cruzar a fronteira.",
+              "Você pode cruzar de A para Não A, ou de Não A para A.",
+              "Em uma escala mais humana, talvez Vivo para Morto, depois de volta para Vivo. Satisfeito para Entediado, depois de volta para Satisfeito.",
+              "Você pode escrever cruzamentos matematicamente, usando um único sinal em ângulo reto que tanto",
+              "afirma que há uma distinção, como também diz \"eu a cruzei\".",
+              "E então, você pode introduzir duas regras para manipular seus escritos.",
+              "Se você cruza e depois cruza de volta, acaba onde começou: é o mesmo que ficar parado.",
+              "O contrário também vale. Em qualquer lugar em que você ficou parado, ou seja, não escreveu nada,",
+              "você pode substituir isso por cruzar e depois cruzar de volta,",
+              "que fica parecendo um sinal em ângulo reto dentro de outro.",
+              "E marcar a mesma distinção duas vezes é o mesmo que marcá-la uma vez...",
+              "você está apenas dizendo a mesma coisa duas vezes, de forma redundante.",
+              "(Isso parece dois sinais em ângulo reto um ao lado do outro.)",
+              "Então, em qualquer lugar em que você escreveu uma distinção, pode escrevê-la duas vezes, três vezes, quantas quiser.",
+              "Com apenas essas duas regras de reescrita, uma árvore pode florescer e ficar enorme, tão grande quanto você quiser.",
+              "Você sabe o que quero dizer com árvore, no sentido matemático?"
+            ],
+            "ru": [
+              "Это другой взгляд на сотворение. Я говорю об «отсутствии чего-либо различимого»,",
+              "но не представляй это как физическую пустоту. Скорее как всепроникающий потенциал.",
+              "Неделимое целое не нуждается в различении.",
+              "Но как только мы говорим, что есть Одно, это неизбежно подразумевает различие:",
+              "между Одним и тем, что Не Одно.",
+              "Чтобы смоделировать это математически, автор начал с того, что назвал Первым различением.",
+              "Это Различение означает, что теперь у нас есть две вещи: A и Не A.",
+              "Как только у вас есть граница, появляется возможность пересечь эту границу.",
+              "Можно перейти из A в Не A, или из Не A в A.",
+              "На более человеческом уровне, возможно, из Живого в Мёртвое, а потом обратно в Живое. Из Довольного в Скучающее, а потом обратно в Довольное.",
+              "Можно записывать переходы математически, так что один знак в виде прямого угла одновременно",
+              "указывает, что есть граница, и говорит: «Я пересёк её».",
+              "А затем можно ввести два правила преобразования этих записей.",
+              "Если перейти границу и вернуться обратно, окажешься там, откуда начал — это то же самое, что стоять на месте.",
+              "И наоборот. Везде, где ты стоял на месте, иными словами, ничего не записывал,",
+              "можно заменить это на переход и затем обратный переход,",
+              "что выглядит как один знак прямого угла внутри другого.",
+              "А отметить одно и то же различение дважды — это то же самое, что отметить его один раз...",
+              "вы просто говорите одно и то же дважды, избыточно.",
+              "(Это выглядит как два знака прямого угла рядом друг с другом.)",
+              "Так что везде, где вы записали различение, можно записать его дважды, трижды, сколько угодно раз.",
+              "Всего с этими двумя правилами переписывания может расцвести дерево, которое будет огромным, настолько большим, насколько вам угодно.",
+              "Ты понимаешь, что я называю деревом в математическом смысле?"
+            ],
             "s-cn": [],
             "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_3__acting.wav",
             "subtitleCueLines": [
-              11018,
-              11022,
-              11026,
-              11031,
+              11028,
+              11032,
               11036,
-              11040,
-              11045,
-              11049,
-              11053,
-              11057,
-              11062,
-              11066,
-              11070,
-              11074,
-              11079,
+              11041,
+              11046,
+              11050,
+              11055,
+              11059,
+              11063,
+              11067,
+              11072,
+              11076,
+              11080,
               11084,
-              11088,
-              11092,
-              11097,
-              11101,
-              11105,
-              11110,
-              11115
+              11089,
+              11094,
+              11098,
+              11102,
+              11107,
+              11111,
+              11115,
+              11120,
+              11125
             ],
             "explicitAudioReference": null
           }
@@ -2338,10 +2569,62 @@
               "This gives you some insight into a small part of what we study here.",
               "Think on this, and we'll speak again soon."
             ],
-            "de": [],
-            "es": [],
-            "fr": [],
-            "it": [],
+            "de": [
+              "Gut.",
+              "Du kannst die Äste dieses Baumes immer weiter wachsen lassen,",
+              "indem du durch schrittweise Umformungen einen Ausdruck durch einen anderen ersetzt,",
+              "und den Ausdruck so lange erweiterst, wie es deine Geduld zulässt.",
+              "Und das Dao ist sehr geduldig.",
+              "Mit all unseren Kritzeleien haben wir gerade",
+              "eine riesige Vielfalt kunstvoller Formen geschaffen. Und das nur aus Überschreitungen und Wiederholungen.",
+              "Wenn wir die notierten Formen wieder reduzieren, laufen sie alle auf Unterscheidung oder Nicht-Unterscheidung hinaus,",
+              "doch die Baumstruktur, die du erschaffen kannst, birgt eine gewaltige Anzahl von Möglichkeiten.",
+              "Ein abzählbar unendlicher Dschungel.",
+              "Das gibt dir einen kleinen Einblick in einen Teil dessen, was wir hier erforschen.",
+              "Denk darüber nach, dann sprechen wir uns bald wieder."
+            ],
+            "es": [
+              "Bien.",
+              "Puedes seguir haciendo crecer las ramas de este árbol,",
+              "sustituyendo una cosa por otra mediante reescrituras incrementales,",
+              "expandiendo la expresión todo el tiempo que te permita la paciencia.",
+              "Y el Dao es muy paciente.",
+              "Con todos nuestros garabatos, acabamos de crear",
+              "una enorme proliferación de formas elaboradas. Todo a partir de simples cruces y reiteraciones.",
+              "Estas formas que escribimos, al reducirlas de nuevo, acaban todas siendo Distinción o No Distinción...",
+              "pero la estructura de árbol que puedes crear tiene un número ingente de posibilidades.",
+              "Una jungla de infinitud numerable.",
+              "Te aporta una idea, si bien ínfima, de todo lo que estudiamos aquí.",
+              "Piensa en ello y hablaremos de nuevo pronto."
+            ],
+            "fr": [
+              "Bien.",
+              "Vous pouvez continuer à faire croître les branches de cet arbre,",
+              "en remplaçant une chose par une autre au moyen de réécritures progressives,",
+              "en développant l'expression aussi longtemps que votre patience le permet.",
+              "Et le Tao est très patient.",
+              "Avec tous nos gribouillages, nous venons de créer",
+              "une immense prolifération de formes élaborées. Tout cela à partir de simples franchissements et reformulations.",
+              "Ces formes que nous avons écrites, une fois réduites à nouveau, se ramènent toutes à la distinction ou à l'absence de distinction –",
+              "mais la structure arborescente que vous pouvez créer offre un nombre immense de possibilités.",
+              "Une jungle infinie dénombrable.",
+              "Cela vous donne un aperçu d'une petite partie de ce que nous étudions ici.",
+              "Réfléchissez-y, et nous reparlerons bientôt."
+            ],
+            "it": [
+              "Bene.",
+              "Puoi continuare a far crescere i rami di questo albero,",
+              "sostituendo una cosa con un'altra tramite riscritture incrementali,",
+              "espandendo l'espressione finché la tua pazienza lo consente.",
+              "E il Dao è molto paziente.",
+              "Con tutti i nostri scarabocchi, abbiamo appena creato",
+              "un'enorme proliferazione di forme elaborate. Tutto partendo da passaggi e reiterazioni.",
+              "Queste forme che abbiamo scritto, quando ridotte di nuovo, si riconducono a Distinzione o Nessuna distinzione...",
+              "ma la struttura ad albero che puoi creare ha un numero enorme di possibilità.",
+              "Una giungla con un'infinità numerabile di elementi.",
+              "Questo ti dà qualche intuizione su una piccola parte di ciò che studiamo qui.",
+              "Pensa a questo, e ci parleremo di nuovo presto."
+            ],
             "ja": [
               "よかった。",
               "この木の枝は、 どこまでも伸ばしていける。",
@@ -2356,27 +2639,66 @@
               "これで、私たちがここで何を研究しているのか、 ほんの少し、分かってもらえたかしら。",
               "考えてみて。 近いうちに、また話しましょう。"
             ],
-            "ko": [],
-            "pt-br": [],
-            "ru": [],
+            "ko": [
+              "좋아.",
+              "이 트리의 가지를 계속 뻗어 나가게 할 수 있어.",
+              "조금씩 다시 쓰면서 하나를 다른 것으로 바꾸고,",
+              "인내심이 허락하는 한 계속 표현을 확장하는 거지.",
+              "그리고 도는 인내심이 아주 많아.",
+              "이렇게 이것저것 끄적이다 보니 우리가 방금 만들어낸 건",
+              "정교한 형태들이 엄청나게 증식한 모습이야. 전부 경계 넘기와 재진술만으로 생겨났지.",
+              "우리가 적은 이 형태들은 다시 줄이면, 결국 모두 구분 아니면 구분 없음으로 귀결돼...",
+              "하지만 만들어낼 수 있는 트리 구조의 가능성은 어마어마하게 많아.",
+              "가산 무한의 밀림이지.",
+              "이걸 알면 우리가 여기서 뭘 연구하는지 그 일부를 조금은 이해할 수 있을 거야.",
+              "잘 생각해 보고, 곧 다시 이야기하자."
+            ],
+            "pt-br": [
+              "Ótimo.",
+              "Você pode continuar fazendo crescer os ramos dessa árvore,",
+              "substituindo uma coisa por outra por meio de reescritas incrementais,",
+              "expandindo a expressão pelo tempo que sua paciência permitir.",
+              "E o Dao é muito paciente.",
+              "Com todos os nossos rabiscos, acabamos de criar",
+              "uma enorme proliferação de formas elaboradas. Tudo só a partir de cruzamentos e reiterações.",
+              "Essas formas que escrevemos, quando reduzidas de novo, todas se resumem à Distinção ou Nenhuma Distinção;",
+              "mas a estrutura em árvore que você pode criar tem um número enorme de possibilidades.",
+              "Uma selva infinita enumerável.",
+              "Isso lhe dá alguma visão de uma pequena parte do que estudamos aqui.",
+              "Pense nisso, e falaremos de novo em breve."
+            ],
+            "ru": [
+              "Хорошо.",
+              "Можно продолжать наращивать ветви этого дерева,",
+              "заменяя одно другим посредством постепенных переписываний,",
+              "разворачивая выражение до тех пор, пока хватает терпения.",
+              "А Дао очень терпеливо.",
+              "Всеми нашими каракулями, мы только что создали",
+              "огромное разрастание сложных форм. И всё это — лишь из переходов и повторений.",
+              "Эти записанные нами формы при повторном упрощении все сводятся к Различению или Отсутствию Различия...",
+              "но структура дерева, которую можно создать, имеет огромное число возможностей.",
+              "Счётно-бесконечные джунгли.",
+              "Это даёт некоторое представление о небольшой части того, что мы здесь изучаем.",
+              "Подумай об этом, и вскоре мы снова поговорим."
+            ],
             "s-cn": [],
             "t-cn": []
           },
           "provenance": {
             "sourceWav": "audiolog_sky_laws_of_form_5__acting.wav",
             "subtitleCueLines": [
-              11119,
-              11122,
-              11126,
-              11130,
-              11134,
-              11137,
-              11141,
-              11145,
-              11149,
-              11154,
-              11157,
-              11162
+              11129,
+              11132,
+              11136,
+              11140,
+              11144,
+              11147,
+              11151,
+              11155,
+              11159,
+              11164,
+              11167,
+              11172
             ],
             "explicitAudioReference": "audiolog_sky_laws_of_form_5__acting"
           }
@@ -2462,7 +2784,6 @@
           "Wo immer du eine Unterscheidung notiert hast, kannst du sie beliebig oft wiederholen: zweimal, dreimal oder so oft du willst.",
           "Mit nur diesen beiden Umformungsregeln kann ein gewaltiger Baum erblühen, so groß, wie du nur willst.",
           "Du weißt, was ich mit einem Baum meine, im mathematischen Sinn?",
-          "Bei uns gibt es ein recht großes Teilgebiet, das sie untersucht. Es spielt zwar keine Rolle für meine Arbeit, aber das Grundprinzip ist mir bekannt.",
           "Gut.",
           "Du kannst die Äste dieses Baumes immer weiter wachsen lassen,",
           "indem du durch schrittweise Umformungen einen Ausdruck durch einen anderen ersetzt,",
@@ -2478,12 +2799,12 @@
         ],
         "es": [
           "Hay otra obra de nuestro canon que se inspira",
-          "de la tradición taoísta, pero le da un enfoque matemático.",
+          "en la tradición taoísta, pero le da un enfoque matemático.",
           "Recordarás que primero el Dao crea o da lugar al Uno, el Uno crea el Dos, y así sucesivamente.",
           "Así que queremos explorar la idea de pasar de no haber nada identificable,",
           "a una cosa identificable, y luego a muchas cosas identificables.",
           "Consideremos, pues, la idea de distinción: trazar líneas para distinguir unas cosas de otras.",
-          "Dices distinguir en lugar de crear, ¿entonces las cosas ya están creadas?",
+          "Hablas de distinguir en lugar de crear, ¿entonces las cosas ya están creadas?",
           "Es otra manera de ver la creación. He dicho «nada identificable»,",
           "pero no lo imagines como una nada física. Más bien como un potencial que lo impregna todo.",
           "Un todo indiferenciado no necesita distinción.",
@@ -2503,11 +2824,10 @@
           "lo cual parece una marca en ángulo recto dentro de otra.",
           "Y marcar la misma distinción dos veces es lo mismo que marcarla una vez...",
           "simplemente estás diciendo lo mismo dos veces, de forma redundante.",
-          "(Esto parece dos marcas en ángulo recto una junto a la otra.)",
+          "(Esto parece dos marcas en ángulo recto una junto a la otra).",
           "Así que, en cualquier lugar donde escribieras una distinción, puedes escribirla dos veces, tres veces, las que quieras.",
           "Con solo estas dos reglas de reescritura, un árbol puede florecer hasta volverse enorme, tan grande como quieras.",
           "¿Sabes a qué me refiero con un árbol en sentido matemático?",
-          "Tenemos una rama bastante grande que los estudia. No es algo que entre en mi ámbito de trabajo, pero conozco la idea básica.",
           "Bien.",
           "Puedes seguir haciendo crecer las ramas de este árbol,",
           "sustituyendo una cosa por otra mediante reescrituras incrementales,",
@@ -2518,7 +2838,7 @@
           "Estas formas que escribimos, al reducirlas de nuevo, acaban todas siendo Distinción o No Distinción...",
           "pero la estructura de árbol que puedes crear tiene un número ingente de posibilidades.",
           "Una jungla de infinitud numerable.",
-          "Esto te aporta una idea, si bien ínfima, de todo lo que estudiamos aquí.",
+          "Te aporta una idea, si bien ínfima, de todo lo que estudiamos aquí.",
           "Piensa en ello y hablaremos de nuevo pronto."
         ],
         "fr": [
@@ -2552,7 +2872,6 @@
           "Donc, partout où vous avez écrit une distinction, vous pouvez l'écrire deux fois, trois fois, autant de fois que vous voulez.",
           "Avec ces deux seules règles de réécriture, un arbre peut fleurir et devenir immense, aussi grand que vous le souhaitez.",
           "Vous savez ce que j'entends par un arbre, au sens mathématique ?",
-          "On a tout un pan des mathématiques consacré à leur étude. Je n'en ai pas l'usage dans mon travail, mais j'en connais les principes de base.",
           "Bien.",
           "Vous pouvez continuer à faire croître les branches de cet arbre,",
           "en remplaçant une chose par une autre au moyen de réécritures progressives,",
@@ -2573,7 +2892,7 @@
           "Quindi vogliamo esaminare l'idea del passaggio da nulla di identificabile,",
           "a una cosa identificabile, a molte cose identificabili.",
           "Consideriamo dunque l'idea di distinzione: linee tracciate per distinguere le cose le une dalle altre.",
-          "Dici distinguere invece di creare, quindi le cose sono già state create?",
+          "Dici distinguere invece di creare... quindi le cose sono già state create?",
           "È una visione diversa della creazione. Ho detto \"nulla di identificabile\",",
           "ma non immaginarlo come un nulla fisico. È più un potenziale che pervade ogni cosa.",
           "Un tutto indifferenziato non ha bisogno di distinzione.",
@@ -2585,19 +2904,18 @@
           "Puoi passare da A a Non A, o da Non A ad A.",
           "Su una scala più umana, forse da vivo a morto, poi di nuovo vivo. Soddisfatto ad annoiato, poi di nuovo soddisfatto.",
           "Puoi scrivere i passaggi matematicamente, usando un unico segno ad angolo retto che",
-          "afferma l'esistenza di una distinzione, e dice anche \"l'ho attraversata\".",
+          "afferma l'esistenza di una distinzione, e dice anche \"l'ho superata\".",
           "E poi puoi introdurre due regole per manipolare ciò che hai scritto.",
-          "Se attraversi e poi torni indietro, ti ritrovi al punto di partenza: è come restare fermo.",
-          "Vale anche il contrario. Ovunque tu sia rimasto fermo, cioè non abbia scritto nulla,",
-          "puoi sostituire questo con un attraversamento e poi un ritorno,",
+          "Se vai avanti e poi torni indietro, ti ritrovi al punto di partenza: è come restare fermi.",
+          "Vale anche il contrario. Ogni situazione in cui tu sia rimasto fermo, cioè senza scrivere nulla,",
+          "puoi sostituirla con un attraversamento seguito da un ritorno,",
           "che appare come un segno ad angolo retto dentro un altro.",
           "E segnare la stessa distinzione due volte è la stessa cosa che segnarla una volta...",
           "Stai solo dicendo la stessa cosa due volte, in modo ridondante.",
-          "(Questo appare come due segni ad angolo retto l'uno accanto all'altro.)",
+          "(Questo sembra due segni ad angolo retto, l'uno accanto all'altro.)",
           "Quindi, ovunque tu abbia scritto una distinzione, puoi scriverla due volte, tre volte, quante volte vuoi.",
           "Con queste sole due regole di riscrittura, un albero può fiorire fino a diventare enorme, grande quanto vuoi.",
           "Sai cosa intendo per albero, in senso matematico?",
-          "Abbiamo un sottocampo piuttosto vasto che li studia. Non è il tipo di cosa che entra nel mio lavoro, ma ne conosco l'idea di base.",
           "Bene.",
           "Puoi continuare a far crescere i rami di questo albero,",
           "sostituendo una cosa con un'altra tramite riscritture incrementali,",
@@ -2605,9 +2923,9 @@
           "E il Dao è molto paziente.",
           "Con tutti i nostri scarabocchi, abbiamo appena creato",
           "un'enorme proliferazione di forme elaborate. Tutto partendo da passaggi e reiterazioni.",
-          "Queste forme che abbiamo scritto, quando ridotte di nuovo, si riconducono alla Distinzione o alla Nessuna Distinzione...",
+          "Queste forme che abbiamo scritto, quando ridotte di nuovo, si riconducono a Distinzione o Nessuna distinzione...",
           "ma la struttura ad albero che puoi creare ha un numero enorme di possibilità.",
-          "Una giungla numerabilmente infinita.",
+          "Una giungla con un'infinità numerabile di elementi.",
           "Questo ti dà qualche intuizione su una piccola parte di ciò che studiamo qui.",
           "Pensa a questo, e ci parleremo di nuovo presto."
         ],
@@ -2686,7 +3004,6 @@
           "그러니 구분을 적은 곳은 어디든, 두 번이든, 세 번이든, 원하는 만큼 적을 수 있어.",
           "이 두 가지 다시 쓰기 규칙만으로, 트리는 얼마든지 거대하게, 원하는 만큼 뻗어 나갈 수 있지.",
           "수학에서 말하는 트리가 뭔지는 알지?",
-          "그걸 연구하는 분야가 꽤 커. 내 일과는 관계가 없지만, 기본 개념은 알아.",
           "좋아.",
           "이 트리의 가지를 계속 뻗어 나가게 할 수 있어.",
           "조금씩 다시 쓰면서 하나를 다른 것으로 바꾸고,",
@@ -2731,7 +3048,6 @@
           "Então, em qualquer lugar em que você escreveu uma distinção, pode escrevê-la duas vezes, três vezes, quantas quiser.",
           "Com apenas essas duas regras de reescrita, uma árvore pode florescer e ficar enorme, tão grande quanto você quiser.",
           "Você sabe o que quero dizer com árvore, no sentido matemático?",
-          "Temos um subcampo bem grande que as estuda. Não é o tipo de coisa que entra no meu trabalho, mas conheço a ideia básica.",
           "Ótimo.",
           "Você pode continuar fazendo crescer os ramos dessa árvore,",
           "substituindo uma coisa por outra por meio de reescritas incrementais,",
@@ -2751,8 +3067,8 @@
           "Как ты помнишь, сначала Дао создаёт, или порождает, Одно, Одно создаёт Два и так далее.",
           "Итак, мы хотим рассмотреть идею перехода от отсутствия чего-либо различимого,",
           "к одной различимой вещи, а затем — к множеству различимых вещей.",
-          "Рассмотрим понятие различия — проведение границ, которые позволяют отличать вещи друг от друга.",
-          "Ты говоришь «отличать», а не «создавать» — значит, вещи уже созданы?",
+          "Рассмотрим понятие Различения — проведения границ, которые позволяют отличать вещи друг от друга.",
+          "Вы говорите «отличать», а не «создавать» — значит, вещи уже созданы?",
           "Это другой взгляд на сотворение. Я говорю об «отсутствии чего-либо различимого»,",
           "но не представляй это как физическую пустоту. Скорее как всепроникающий потенциал.",
           "Неделимое целое не нуждается в различении.",
@@ -2776,9 +3092,8 @@
           "Так что везде, где вы записали различение, можно записать его дважды, трижды, сколько угодно раз.",
           "Всего с этими двумя правилами переписывания может расцвести дерево, которое будет огромным, настолько большим, насколько вам угодно.",
           "Ты понимаешь, что я называю деревом в математическом смысле?",
-          "У нас есть довольно большая область, которая их изучает. Не то чтобы это входило в мою работу, но основную идею я знаю.",
           "Хорошо.",
-          "Вы можете продолжать наращивать ветви этого дерева,",
+          "Можно продолжать наращивать ветви этого дерева,",
           "заменяя одно другим посредством постепенных переписываний,",
           "разворачивая выражение до тех пор, пока хватает терпения.",
           "А Дао очень терпеливо.",
@@ -2787,8 +3102,8 @@
           "Эти записанные нами формы при повторном упрощении все сводятся к Различению или Отсутствию Различия...",
           "но структура дерева, которую можно создать, имеет огромное число возможностей.",
           "Счётно-бесконечные джунгли.",
-          "Это даёт вам некоторое представление о небольшой части того, что мы здесь изучаем.",
-          "Подумайте об этом, и вскоре мы снова поговорим."
+          "Это даёт некоторое представление о небольшой части того, что мы здесь изучаем.",
+          "Подумай об этом, и вскоре мы снова поговорим."
         ],
         "s-cn": [
           "我们所选出的精品中，还有一部作品从道家传统中汲取灵感，",
@@ -2884,13 +3199,6 @@
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "de": "Clip identities differ from English",
-        "es": "Clip identities differ from English",
-        "fr": "Clip identities differ from English",
-        "it": "Clip identities differ from English",
-        "ko": "Clip identities differ from English",
-        "pt-br": "Clip identities differ from English",
-        "ru": "Clip identities differ from English",
         "s-cn": "Clip identities differ from English",
         "t-cn": "Clip identities differ from English"
       },
@@ -2910,7 +3218,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 10987,
+        "subtitleLine": 10997,
         "subtitleHeader": "::"
       }
     },
@@ -2961,7 +3269,7 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_1__director.wav",
             "subtitleCueLines": [
-              14498
+              14508
             ],
             "explicitAudioReference": null
           }
@@ -2983,14 +3291,14 @@
             ],
             "es": [
               "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
-              "Nunca había visto una representación tan fluida. ¡Qué maravilla!"
+              "nunca había visto una representación tan fluida. ¡Qué maravilla!"
             ],
             "fr": [
               "Ahh, le champ de Clayson. Même si nous ne le connaissons que par des illustrations dans des livres et des journaux ;",
               "je n'ai jamais vu un rendu aussi fluide. Magnifique !"
             ],
             "it": [
-              "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+              "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti,",
               "non ho mai visto una rappresentazione così fluida. Bellissima!"
             ],
             "ja": [
@@ -2999,14 +3307,14 @@
             ],
             "ko": [
               "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
-              "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!"
+              "이렇게 매끄럽게 구현한 건 처음 보는군요. 아름답습니다!"
             ],
             "pt-br": [
               "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
               "Nunca vi uma representação tão fluida. Que beleza!"
             ],
             "ru": [
-              "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+              "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях.",
               "Никогда не видел такого плавного изображения. Красота!"
             ],
             "s-cn": [
@@ -3021,8 +3329,8 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_2__sokoban.wav",
             "subtitleCueLines": [
-              14502,
-              14507
+              14512,
+              14517
             ],
             "explicitAudioReference": null
           }
@@ -3043,7 +3351,7 @@
             "de": [
               "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
               "wobei der Ausgangszustand selbst stets null ist.",
-              "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+              "Quadriere sie, addiere die zweidimensionale Konstante dieser Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
               "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ..."
             ],
             "es": [
@@ -3085,7 +3393,7 @@
             "ru": [
               "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
               "где само начальное состояние всегда просто ноль.",
-              "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+              "Возведи в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
               "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли..."
             ],
             "s-cn": [
@@ -3104,10 +3412,10 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_3__director.wav",
             "subtitleCueLines": [
-              14512,
-              14516,
-              14520,
-              14527
+              14522,
+              14526,
+              14530,
+              14537
             ],
             "explicitAudioReference": null
           }
@@ -3156,7 +3464,7 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_4__sokoban.wav",
             "subtitleCueLines": [
-              14531
+              14541
             ],
             "explicitAudioReference": null
           }
@@ -3214,7 +3522,7 @@
               "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
               "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
               "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
-              "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+              "그 복잡성과 구조는 어째서인지 그냥 이미 그 안에 있어. 근본적으로 존재하는 거지.",
               "그럼 이건 어때? 본 적 있어?"
             ],
             "pt-br": [
@@ -3249,11 +3557,11 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_5__director.wav",
             "subtitleCueLines": [
-              14534,
-              14538,
-              14542,
-              14546,
-              14551
+              14544,
+              14548,
+              14552,
+              14556,
+              14561
             ],
             "explicitAudioReference": null
           }
@@ -3302,7 +3610,7 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_6__sokoban.wav",
             "subtitleCueLines": [
-              14555
+              14565
             ],
             "explicitAudioReference": null
           }
@@ -3395,11 +3703,11 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_7__director.wav",
             "subtitleCueLines": [
-              14558,
-              14562,
-              14566,
-              14570,
-              14574
+              14568,
+              14572,
+              14576,
+              14580,
+              14584
             ],
             "explicitAudioReference": null
           }
@@ -3437,7 +3745,7 @@
           "Eine so flüssige Darstellung habe ich noch nie gesehen. Wunderschön!",
           "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
           "wobei der Ausgangszustand selbst stets null ist.",
-          "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+          "Quadriere sie, addiere die zweidimensionale Konstante dieser Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
           "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ...",
           "Unendliche Details. Unglaubliche Komplexität.",
           "Schön, dass du das verstehst. Ich gebe dir das hier zum Spielen. Was man unbedingt verinnerlichen muss –",
@@ -3455,7 +3763,7 @@
         "es": [
           "¿Reconoces esto?",
           "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
-          "Nunca había visto una representación tan fluida. ¡Qué maravilla!",
+          "nunca había visto una representación tan fluida. ¡Qué maravilla!",
           "Es uno de los ejemplos más simples de la aplicación de reglas sobre un estado repetido...",
           "donde el estado inicial en sí mismo es siempre e invariablemente cero.",
           "Eleva al cuadrado, suma la constante bidimensional de esa posición en el plano y ese es el nuevo número; repite el proceso.",
@@ -3496,7 +3804,7 @@
         ],
         "it": [
           "Riconosci questo?",
-          "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+          "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti,",
           "non ho mai visto una rappresentazione così fluida. Bellissima!",
           "È uno degli esempi più semplici di regole applicate ripetutamente a uno stato...",
           "dove lo stato iniziale stesso è semplicemente sempre zero.",
@@ -3539,7 +3847,7 @@
         "ko": [
           "이걸 알아보겠어?",
           "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
-          "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!",
+          "이렇게 매끄럽게 구현한 건 처음 보는군요. 아름답습니다!",
           "이건 상태에 규칙을 반복 적용하는 가장 단순한 예시 중 하나야.",
           "시작 상태 자체는 항상 0이지.",
           "그걸 제곱하고 평면에서의 위치에 해당하는 2차원 상수를 더하면 새로운 수가 나오고, 그걸 반복하는 거야.",
@@ -3548,7 +3856,7 @@
           "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
           "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
           "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
-          "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+          "그 복잡성과 구조는 어째서인지 그냥 이미 그 안에 있어. 근본적으로 존재하는 거지.",
           "그럼 이건 어때? 본 적 있어?",
           "아니요... 전혀 모르겠습니다.",
           "직접 가지고 놀아 봐. 이건 \"생명\"이라고 해.",
@@ -3580,11 +3888,11 @@
         ],
         "ru": [
           "Узнаёшь?",
-          "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+          "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях.",
           "Никогда не видел такого плавного изображения. Красота!",
           "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
           "где само начальное состояние всегда просто ноль.",
-          "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+          "Возведи в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
           "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли...",
           "Бесконечная детализация. Невероятная сложность.",
           "Рад, что ты понимаешь. Я дам тебе это поиграть. Важно усвоить главное —",
@@ -3661,7 +3969,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 14497,
+        "subtitleLine": 14507,
         "subtitleHeader": "::"
       }
     },
@@ -3682,10 +3990,34 @@
               "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men.",
               "Unto ages of ages. Thy will be done. Amen."
             ],
-            "de": [],
-            "es": [],
-            "fr": [],
-            "it": [],
+            "de": [
+              "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen und hast, die mächtigen Schwingen weit gebreitet,",
+              "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
+              "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
+              "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige.",
+              "Von Ewigkeit zu Ewigkeit. Dein Wille geschehe. Amen."
+            ],
+            "es": [
+              "instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+              "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
+              "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
+              "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres.",
+              "Por los siglos de los siglos. Hágase vuestra voluntad. Amén."
+            ],
+            "fr": [
+              "instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+              "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
+              "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
+              "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes.",
+              "Pour les siècles des siècles. Que ta volonté soit faite. Amen."
+            ],
+            "it": [
+              "Istruiscimi, poiché Tu sai. Tu eri presente fin dall'inizio e con potenti ali spiegate,",
+              "come una colomba, sedevi meditando sull'immenso abisso e lo rendevi fecondo:",
+              "illumina ciò che in me è oscuro, solleva e sostieni ciò che è in basso;",
+              "affinché, dall'alto di questo grande Argomento, io possa attestare l'Eterna Provvidenza e giustificare le vie di Dio agli uomini.",
+              "Nei secoli dei secoli. Sia fatta la tua volontà. Amen."
+            ],
             "ja": [
               "我を導きたまえ。 始まりより深淵の上にあり、 翼を広げてそこに命を宿した御身よ。",
               "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
@@ -3693,21 +4025,39 @@
               "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。",
               "とこしえに。 御心の成るがままに。 アーメン。"
             ],
-            "ko": [],
-            "pt-br": [],
-            "ru": [],
+            "ko": [
+              "나를 가르치소서, 그대는 아시나니. 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니.",
+              "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
+              "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
+              "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서.",
+              "영원에 이어 영원토록. 주의 뜻이 이루어지리이다. 아멘."
+            ],
+            "pt-br": [
+              "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
+              "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
+              "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
+              "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens.",
+              "Por todos os séculos dos séculos. Seja feita a tua vontade. Amém."
+            ],
+            "ru": [
+              "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
+              "Над бездною, плодотворя ее;",
+              "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смогла",
+              "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав.",
+              "Во веки веков. Да будет воля Твоя. Аминь."
+            ],
             "s-cn": [],
             "t-cn": []
           },
           "provenance": {
             "sourceWav": "paradise_lost_invocation_credits.wav",
             "subtitleCueLines": [
-              14775,
-              14777,
-              14782,
+              14785,
               14787,
-              14791,
-              14797
+              14792,
+              14797,
+              14801,
+              14807
             ],
             "explicitAudioReference": "paradise_lost_invocation_credits"
           }
@@ -3726,21 +4076,21 @@
           "Unto ages of ages. Thy will be done. Amen."
         ],
         "de": [
-          "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen, und hast die mächtigen Schwingen weit gebreitet,",
+          "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen und hast, die mächtigen Schwingen weit gebreitet,",
           "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
           "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
           "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige.",
           "Von Ewigkeit zu Ewigkeit. Dein Wille geschehe. Amen."
         ],
         "es": [
-          "Instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+          "instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
           "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
           "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
           "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres.",
           "Por los siglos de los siglos. Hágase vuestra voluntad. Amén."
         ],
         "fr": [
-          "Instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+          "instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
           "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
           "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
           "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes.",
@@ -3761,7 +4111,7 @@
           "とこしえに。 御心の成るがままに。 アーメン。"
         ],
         "ko": [
-          "나를 가르치소서, 그대는 아시나니; 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니",
+          "나를 가르치소서, 그대는 아시나니. 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니.",
           "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
           "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
           "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서.",
@@ -3777,7 +4127,7 @@
         "ru": [
           "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
           "Над бездною, плодотворя ее;",
-          "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смог",
+          "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смогла",
           "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав.",
           "Во веки веков. Да будет воля Твоя. Аминь."
         ],
@@ -3799,15 +4149,8 @@
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "de": "Clip has no transcript in paradise_lost_invocation_credits",
-        "es": "Clip has no transcript in paradise_lost_invocation_credits",
-        "fr": "Clip has no transcript in paradise_lost_invocation_credits",
-        "it": "Clip has no transcript in paradise_lost_invocation_credits",
-        "ko": "Clip has no transcript in paradise_lost_invocation_credits",
-        "pt-br": "Clip has no transcript in paradise_lost_invocation_credits",
-        "ru": "Clip has no transcript in paradise_lost_invocation_credits",
-        "s-cn": "Clip has no transcript in paradise_lost_invocation_credits",
-        "t-cn": "Clip has no transcript in paradise_lost_invocation_credits"
+        "s-cn": "Ambiguous clip boundary in paradise_lost_invocation_credits at line 12753",
+        "t-cn": "Ambiguous clip boundary in paradise_lost_invocation_credits at line 13202"
       },
       "provenance": {
         "entities": [
@@ -3825,7 +4168,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 14774,
+        "subtitleLine": 14784,
         "subtitleHeader": "::"
       }
     },
@@ -3845,29 +4188,74 @@
               "What in me is dark Illumin, what is low raise and support;",
               "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men."
             ],
-            "de": [],
-            "es": [],
-            "fr": [],
-            "it": [],
+            "de": [
+              "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen und hast, die mächtigen Schwingen weit gebreitet,",
+              "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
+              "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
+              "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige."
+            ],
+            "es": [
+              "instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+              "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
+              "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
+              "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres."
+            ],
+            "fr": [
+              "instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+              "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
+              "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
+              "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes."
+            ],
+            "it": [
+              "Istruiscimi, poiché Tu sai. Tu eri presente fin dall'inizio e con potenti ali spiegate,",
+              "come una colomba, sedevi meditando sull'immenso abisso e lo rendevi fecondo:",
+              "illumina ciò che in me è oscuro, solleva e sostieni ciò che è in basso;",
+              "affinché, dall'alto di questo grande Argomento, io possa attestare l'Eterna Provvidenza e giustificare le vie di Dio agli uomini."
+            ],
             "ja": [
               "何より、精霊よ。 清き心を愛する御身よ、",
               "鳩のごとく広大なる深淵を抱き そこに命を宿らせたもう。",
               "我が闇を照らし、 低きものを高めたまえ。",
               "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。"
             ],
-            "ko": [],
-            "pt-br": [],
-            "ru": [],
-            "s-cn": [],
-            "t-cn": []
+            "ko": [
+              "나를 가르치소서, 그대는 아시나니. 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니.",
+              "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
+              "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
+              "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서."
+            ],
+            "pt-br": [
+              "Instrui-me, pois Tu sabes; Tu, que desde o início estavas presente, e com asas poderosas abertas,",
+              "Como uma pomba, repousavas meditando sobre o vasto Abismo e o tornaste fecundo:",
+              "ilumina o que em mim é obscuro, eleva e sustenta o que é humilde;",
+              "para que, nas alturas deste grande Argumento, eu possa afirmar a Providência Eterna e justificar os caminhos de Deus aos homens."
+            ],
+            "ru": [
+              "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
+              "Над бездною, плодотворя ее;",
+              "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смогла",
+              "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав."
+            ],
+            "s-cn": [
+              "请教导我，因祢全知； 祢自太初已然存在，以巍巍双翼展覆世间，",
+              "如鸽孵卵般覆于浩瀚深渊，使其孕育万物：",
+              "我心中幽暗处，求祢照明；卑下处，求祢高举；",
+              "使我得以论述这宏大的主题，申明永恒的天意， 向世人昭示神灵之道的公义。"
+            ],
+            "t-cn": [
+              "請教導我，因祢全知；祢自太初已然存在， 以巍巍雙翼展覆世間，",
+              "如鴿孵卵般覆於浩瀚深淵，使其孕育萬物：",
+              "我心中幽暗處，求祢照明；卑下處，求祢高舉；",
+              "使我得以論述這宏大的主題，申明永恆的天意， 向世人昭示神靈之道的公義。"
+            ]
           },
           "provenance": {
             "sourceWav": "paradise_lost_invocation_2_01.wav",
             "subtitleCueLines": [
-              15253,
-              15257,
-              15261,
-              15265
+              15263,
+              15267,
+              15271,
+              15275
             ],
             "explicitAudioReference": "paradise_lost_invocation_2_01"
           }
@@ -3885,19 +4273,19 @@
           "That to the highth of this great Argument I may assert Eternal Providence, And justifie the wayes of God to men."
         ],
         "de": [
-          "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen, und hast die mächtigen Schwingen weit gebreitet,",
+          "Unterweise mich, denn Du weißt; Du warst von Anbeginn zugegen und hast, die mächtigen Schwingen weit gebreitet,",
           "gleich einer Taube über dem weiten Abgrund gebrütet und ihn fruchtbar gemacht:",
           "Was dunkel ist in mir, erhelle, was niedrig ist, erhebe und stütze;",
           "damit ich, dem hohen Anspruch dieses großen Stoffes gemäß, die ewige Vorsehung verkünde und Gottes Wege vor den Menschen rechtfertige."
         ],
         "es": [
-          "Instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
+          "instruidme, pues vos sabéis; desde el principio estuvisteis presente, y con poderosas alas extendidas",
           "cual paloma os posasteis sobre el gran abismo y lo hicisteis fecundo:",
           "iluminad lo oscuro en mí, levantad y sostened lo rastrero;",
           "para que a la altura de este gran argumento pueda afirmar la Providencia Eterna, y justificar los caminos de Dios ante los hombres."
         ],
         "fr": [
-          "Instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
+          "instruis-moi, car tu sais ! Toi, au premier instant tu étais présent : avec tes puissantes ailes éployées,",
           "comme une colombe tu couvas l'immense abîme et tu le rendis fécond.",
           "Illumine en moi ce qui est obscur, élève et soutiens ce qui est abaissé,",
           "afin que de la hauteur de ce grand argument je puisse affirmer l'éternelle Providence, et justifier les voies de Dieu aux hommes."
@@ -3915,7 +4303,7 @@
           "この大いなる主題にふさわしい高みへ至り、 永遠の摂理を説き、 神の道の正しさを示せるように。"
         ],
         "ko": [
-          "나를 가르치소서, 그대는 아시나니; 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니",
+          "나를 가르치소서, 그대는 아시나니. 태초부터 그곳에 계셨고, 힘찬 날개를 활짝 펼치셨으니.",
           "비둘기처럼 광활한 심연 위에 품고 앉으시어 잉태하게 하셨으니.",
           "제 안의 어둠을 밝혀주시고, 낮은 것을 일으켜 지탱하소서.",
           "하여 이 위대한 논증의 절정에 올라 영원한 섭리를 주장하고, 인간을 향한 신의 뜻이 정당함을 증명하게 하소서."
@@ -3929,7 +4317,7 @@
         "ru": [
           "Наставь меня всеведеньем твоим! Ты, словно голубь, искони парил",
           "Над бездною, плодотворя ее;",
-          "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смог",
+          "Исполни светом тьму мою, возвысь Все бренное во мне, дабы я смогла",
           "Решающие доводы найти И благость Провиденья доказать, Пути Творца пред тварью оправдав."
         ],
         "s-cn": [
@@ -3947,17 +4335,7 @@
       },
       "silentCues": [],
       "missingClips": [],
-      "translationIssues": {
-        "de": "Clip identities differ from English",
-        "es": "Clip identities differ from English",
-        "fr": "Clip identities differ from English",
-        "it": "Clip identities differ from English",
-        "ko": "Clip identities differ from English",
-        "pt-br": "Clip identities differ from English",
-        "ru": "Clip identities differ from English",
-        "s-cn": "Clip identities differ from English",
-        "t-cn": "Clip identities differ from English"
-      },
+      "translationIssues": {},
       "provenance": {
         "entities": [
           {
@@ -3974,7 +4352,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 15252,
+        "subtitleLine": 15262,
         "subtitleHeader": ":::"
       }
     },
@@ -3999,10 +4377,50 @@
               "Hi, I'm Sean Rohani, I play Caver in Order of the Sinking Star.",
               "My name's Emily O'Brien, and I'm playing the Queen."
             ],
-            "de": [],
-            "es": [],
-            "fr": [],
-            "it": [],
+            "de": [
+              "Ich bin Liam O'Brien und spiele den Krieger.",
+              "Ich bin Sabrina. Ich spiele die Diebin.",
+              "Mein Name lautet: Darin De Paul. Und ich bin die Stimme des Zauberers.",
+              "Mein Name ist Matthew Waterson und ich spiele den Druiden.",
+              "Ich bin Anjali Bhimani und spiele die Bardin in Order of the Sinking Star.",
+              "Mein Name ist Erica Luttrell und ich spiele die Seefahrerin.",
+              "Ich bin Jamieson Price. Ich bin die Stimme von Borraidus, dem Geist des Schiffs der Seefahrerin.",
+              "Hi, ich bin Sean Rohani, ich spiele den Höhlenforscher in Order of the Sinking Star.",
+              "Ich heiße Emily O'Brien, und ich spiele die Königin."
+            ],
+            "es": [
+              "Soy Liam O'Brien e interpreto al Guerrero.",
+              "Soy Sabrina. Interpreto a la Ladrona.",
+              "Mi nombre es el siguiente: Darin De Paul. Y soy la voz del Mago.",
+              "Me llamo Matthew Waterson e interpreto al Druida.",
+              "Soy Anjali Bhimani e interpreto al Bardo en Order of the Sinking Star.",
+              "Me llamo Erica Luttrell e interpreto a la Marinera.",
+              "Soy Jamieson Price. Soy la voz de Borraidus, el espíritu del barco de la Marinera.",
+              "Hola, soy Sean Rohani, interpreto al Explorador en Order of the Sinking Star.",
+              "Me llamo Emily O'Brien e interpreto a la Reina."
+            ],
+            "fr": [
+              "Je m'appelle Liam O'Brien et j'interprète le Guerrier.",
+              "Je m'appelle Sabrina. J'interprète la Voleuse.",
+              "Mon nom, c'est : Darin De Paul. Et je prête ma voix au Sorcier.",
+              "Je m'appelle Matthew Waterson et j'interprète le Druide.",
+              "Je suis Anjali Bhimani et j'incarne la Barde dans Order of the Sinking Star.",
+              "Je m'appelle Erica Luttrell et j'interprète la Navigatrice.",
+              "Je m'appelle Jamieson Price. Je prête ma voix à Borraidus, l'esprit du navire de la Navigatrice.",
+              "Bonjour, je suis Sean Rohani, j'incarne l'Explorateur dans Order of the Sinking Star.",
+              "Je m'appelle Emily O'Brien, et j'interprète la Reine."
+            ],
+            "it": [
+              "Sono Liam O'Brien e interpreto il guerriero.",
+              "Sono Sabrina. Interpreto la ladra.",
+              "Mi chiamo così: Darin De Paul. E sono la voce del mago.",
+              "Mi chiamo Matthew Waterson e interpreto il druido.",
+              "Sono Anjali Bhimani e interpreto la barda in Order of the Sinking Star.",
+              "Mi chiamo Erica Luttrell e interpreto la marinaia.",
+              "Sono Jamieson Price. Sono la voce di Borraidus, lo spirito della nave della marinaia.",
+              "Ciao, sono Sean Rohani, interpreto l'esploratore in Order of the Sinking Star.",
+              "Mi chiamo Emily O'Brien, e interpreto la regina."
+            ],
             "ja": [
               "リアム・オブライエンです。 戦士役を演じています。",
               "サブリナです。盗賊役を演じています。",
@@ -4014,25 +4432,55 @@
               "こんにちは、ショーン・ロハニです。 『Order of the Sinking Star』で 洞窟探検家役を演じています。",
               "エミリー・オブライエンと申します。 女王役を演じています。"
             ],
-            "ko": [],
-            "pt-br": [],
-            "ru": [],
+            "ko": [
+              "저는 리엄 오브라이언이고 전사 역을 맡았습니다.",
+              "저는 사브리나입니다. 도둑 역을 맡았어요.",
+              "제 이름은 이렇습니다: 대린 드 폴. 그리고 마법사의 목소리를 맡았습니다.",
+              "저는 매슈 워터슨이고 드루이드 역을 맡았습니다.",
+              "저는 안잘리 비마니이고 Order of the Sinking Star에서 음유시인 역을 맡았습니다.",
+              "저는 에리카 러트럴이고 선원 역을 맡았습니다.",
+              "저는 제이미슨 프라이스입니다. 선원의 배에 깃든 영혼, 보라이더스의 목소리를 맡았습니다.",
+              "안녕하세요, 저는 숀 로하니이고, Order of the Sinking Star에서 탐험가 역을 맡았습니다.",
+              "저는 에밀리 오브라이언이고, 여왕 역을 맡았습니다."
+            ],
+            "pt-br": [
+              "Sou Liam O'Brien e interpreto o Guerreiro.",
+              "Sou Sabrina. Interpreto a Ladra.",
+              "Meu nome é assim: Darin De Paul. E sou a voz do Mago.",
+              "Meu nome é Matthew Waterson e interpreto o Druida.",
+              "Sou Anjali Bhimani e interpreto a Barda em Order of the Sinking Star.",
+              "Meu nome é Erica Luttrell e interpreto a Marinheira.",
+              "Sou Jamieson Price. Sou a voz de Borraidus, o espírito do navio da Marinheira.",
+              "Oi, sou Sean Rohani, interpreto o Explorador em Order of the Sinking Star.",
+              "Meu nome é Emily O'Brien, e interpreto a Rainha."
+            ],
+            "ru": [
+              "Я Лиам О’Брайен, и я играю воина.",
+              "Я Сабрина. Я играю воровку.",
+              "Меня зовут Дарин Де Пол. И я озвучиваю волшебника.",
+              "Меня зовут Мэттью Уотерсон, и я играю друида.",
+              "Я Анджали Бхимани, и я играю Барда в игре «Order of the Sinking Star».",
+              "Меня зовут Эрика Латтрелл, и я играю моряка.",
+              "Я Джеймисон Прайс. Я озвучиваю Боррайдуса, духа корабля моряка.",
+              "Привет, я Шон Рохани, я играю Исследователя в игре «Order of the Sinking Star».",
+              "Меня зовут Эмили О’Брайен, и я играю королеву."
+            ],
             "s-cn": [],
             "t-cn": []
           },
           "provenance": {
             "sourceWav": "actor_credits.wav",
             "subtitleCueLines": [
-              15412,
-              15414,
-              15418,
-              15421,
-              15426,
-              15430,
-              15435,
-              15439,
-              15444,
-              15449
+              15422,
+              15424,
+              15428,
+              15431,
+              15436,
+              15440,
+              15445,
+              15449,
+              15454,
+              15459
             ],
             "explicitAudioReference": "actor_credits"
           }
@@ -4054,10 +4502,50 @@
           "Hi, I'm Sean Rohani, I play Caver in Order of the Sinking Star.",
           "My name's Emily O'Brien, and I'm playing the Queen."
         ],
-        "de": [],
-        "es": [],
-        "fr": [],
-        "it": [],
+        "de": [
+          "Ich bin Liam O'Brien und spiele den Krieger.",
+          "Ich bin Sabrina. Ich spiele die Diebin.",
+          "Mein Name lautet: Darin De Paul. Und ich bin die Stimme des Zauberers.",
+          "Mein Name ist Matthew Waterson und ich spiele den Druiden.",
+          "Ich bin Anjali Bhimani und spiele die Bardin in Order of the Sinking Star.",
+          "Mein Name ist Erica Luttrell und ich spiele die Seefahrerin.",
+          "Ich bin Jamieson Price. Ich bin die Stimme von Borraidus, dem Geist des Schiffs der Seefahrerin.",
+          "Hi, ich bin Sean Rohani, ich spiele den Höhlenforscher in Order of the Sinking Star.",
+          "Ich heiße Emily O'Brien, und ich spiele die Königin."
+        ],
+        "es": [
+          "Soy Liam O'Brien e interpreto al Guerrero.",
+          "Soy Sabrina. Interpreto a la Ladrona.",
+          "Mi nombre es el siguiente: Darin De Paul. Y soy la voz del Mago.",
+          "Me llamo Matthew Waterson e interpreto al Druida.",
+          "Soy Anjali Bhimani e interpreto al Bardo en Order of the Sinking Star.",
+          "Me llamo Erica Luttrell e interpreto a la Marinera.",
+          "Soy Jamieson Price. Soy la voz de Borraidus, el espíritu del barco de la Marinera.",
+          "Hola, soy Sean Rohani, interpreto al Explorador en Order of the Sinking Star.",
+          "Me llamo Emily O'Brien e interpreto a la Reina."
+        ],
+        "fr": [
+          "Je m'appelle Liam O'Brien et j'interprète le Guerrier.",
+          "Je m'appelle Sabrina. J'interprète la Voleuse.",
+          "Mon nom, c'est : Darin De Paul. Et je prête ma voix au Sorcier.",
+          "Je m'appelle Matthew Waterson et j'interprète le Druide.",
+          "Je suis Anjali Bhimani et j'incarne la Barde dans Order of the Sinking Star.",
+          "Je m'appelle Erica Luttrell et j'interprète la Navigatrice.",
+          "Je m'appelle Jamieson Price. Je prête ma voix à Borraidus, l'esprit du navire de la Navigatrice.",
+          "Bonjour, je suis Sean Rohani, j'incarne l'Explorateur dans Order of the Sinking Star.",
+          "Je m'appelle Emily O'Brien, et j'interprète la Reine."
+        ],
+        "it": [
+          "Sono Liam O'Brien e interpreto il guerriero.",
+          "Sono Sabrina. Interpreto la ladra.",
+          "Mi chiamo così: Darin De Paul. E sono la voce del mago.",
+          "Mi chiamo Matthew Waterson e interpreto il druido.",
+          "Sono Anjali Bhimani e interpreto la barda in Order of the Sinking Star.",
+          "Mi chiamo Erica Luttrell e interpreto la marinaia.",
+          "Sono Jamieson Price. Sono la voce di Borraidus, lo spirito della nave della marinaia.",
+          "Ciao, sono Sean Rohani, interpreto l'esploratore in Order of the Sinking Star.",
+          "Mi chiamo Emily O'Brien, e interpreto la regina."
+        ],
         "ja": [
           "リアム・オブライエンです。 戦士役を演じています。",
           "サブリナです。盗賊役を演じています。",
@@ -4069,22 +4557,45 @@
           "こんにちは、ショーン・ロハニです。 『Order of the Sinking Star』で 洞窟探検家役を演じています。",
           "エミリー・オブライエンと申します。 女王役を演じています。"
         ],
-        "ko": [],
-        "pt-br": [],
-        "ru": [],
+        "ko": [
+          "저는 리엄 오브라이언이고 전사 역을 맡았습니다.",
+          "저는 사브리나입니다. 도둑 역을 맡았어요.",
+          "제 이름은 이렇습니다: 대린 드 폴. 그리고 마법사의 목소리를 맡았습니다.",
+          "저는 매슈 워터슨이고 드루이드 역을 맡았습니다.",
+          "저는 안잘리 비마니이고 Order of the Sinking Star에서 음유시인 역을 맡았습니다.",
+          "저는 에리카 러트럴이고 선원 역을 맡았습니다.",
+          "저는 제이미슨 프라이스입니다. 선원의 배에 깃든 영혼, 보라이더스의 목소리를 맡았습니다.",
+          "안녕하세요, 저는 숀 로하니이고, Order of the Sinking Star에서 탐험가 역을 맡았습니다.",
+          "저는 에밀리 오브라이언이고, 여왕 역을 맡았습니다."
+        ],
+        "pt-br": [
+          "Sou Liam O'Brien e interpreto o Guerreiro.",
+          "Sou Sabrina. Interpreto a Ladra.",
+          "Meu nome é assim: Darin De Paul. E sou a voz do Mago.",
+          "Meu nome é Matthew Waterson e interpreto o Druida.",
+          "Sou Anjali Bhimani e interpreto a Barda em Order of the Sinking Star.",
+          "Meu nome é Erica Luttrell e interpreto a Marinheira.",
+          "Sou Jamieson Price. Sou a voz de Borraidus, o espírito do navio da Marinheira.",
+          "Oi, sou Sean Rohani, interpreto o Explorador em Order of the Sinking Star.",
+          "Meu nome é Emily O'Brien, e interpreto a Rainha."
+        ],
+        "ru": [
+          "Я Лиам О’Брайен, и я играю воина.",
+          "Я Сабрина. Я играю воровку.",
+          "Меня зовут Дарин Де Пол. И я озвучиваю волшебника.",
+          "Меня зовут Мэттью Уотерсон, и я играю друида.",
+          "Я Анджали Бхимани, и я играю Барда в игре «Order of the Sinking Star».",
+          "Меня зовут Эрика Латтрелл, и я играю моряка.",
+          "Я Джеймисон Прайс. Я озвучиваю Боррайдуса, духа корабля моряка.",
+          "Привет, я Шон Рохани, я играю Исследователя в игре «Order of the Sinking Star».",
+          "Меня зовут Эмили О’Брайен, и я играю королеву."
+        ],
         "s-cn": [],
         "t-cn": []
       },
       "silentCues": [],
       "missingClips": [],
       "translationIssues": {
-        "de": "'actor_credits'",
-        "es": "'actor_credits'",
-        "fr": "'actor_credits'",
-        "it": "'actor_credits'",
-        "ko": "'actor_credits'",
-        "pt-br": "'actor_credits'",
-        "ru": "'actor_credits'",
         "s-cn": "'actor_credits'",
         "t-cn": "'actor_credits'"
       },
@@ -4104,7 +4615,7 @@
             "source": "data-common/intro.entities"
           }
         ],
-        "subtitleLine": 15411,
+        "subtitleLine": 15421,
         "subtitleHeader": "::"
       }
     }

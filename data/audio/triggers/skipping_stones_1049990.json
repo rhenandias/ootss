@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_no_traps",
+    "audioKey": "skipping_stones_1049990",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_no_traps"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 1049990,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_no_traps",
+        "rule": "exact-reference",
+        "coordinates": [
+          68.0,
+          46.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_no_traps",
+      "clips": [
+        {
+          "id": "ssnew_no_traps_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.603542,
+          "src": "audio/clips/ssnew_no_traps_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Borraidus?"
+            ],
+            "de": [
+              "Borraidus?"
+            ],
+            "es": [
+              "¿Borraidus?"
+            ],
+            "fr": [
+              "Borraidus ?"
+            ],
+            "it": [
+              "Borraidus?"
+            ],
+            "ja": [
+              "ボライダス？"
+            ],
+            "ko": [
+              "보라이두스?"
+            ],
+            "pt-br": [
+              "Borraidus?"
+            ],
+            "ru": [
+              "Боррайдус?"
+            ],
+            "s-cn": [
+              "博莱达斯？"
+            ],
+            "t-cn": [
+              "博萊達斯？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_no_traps_1__sailor.wav",
+            "subtitleCueLines": [
+              4136
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_no_traps_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.128458,
+          "src": "audio/clips/ssnew_no_traps_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Here, shipmate."
+            ],
+            "de": [
+              "Bin hier, Schiffskameradin."
+            ],
+            "es": [
+              "Aquí, compañera."
+            ],
+            "fr": [
+              "Je suis là, matelot."
+            ],
+            "it": [
+              "Eccomi, marinaia."
+            ],
+            "ja": [
+              "なんだい？"
+            ],
+            "ko": [
+              "여기 있어, 선원 동료."
+            ],
+            "pt-br": [
+              "Aqui, camarada."
+            ],
+            "ru": [
+              "Здесь, морячка."
+            ],
+            "s-cn": [
+              "我在呢，船友。"
+            ],
+            "t-cn": [
+              "我在呢，船友。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_no_traps_2__boat.wav",
+            "subtitleCueLines": [
+              4139
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_no_traps_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 7.529979,
+          "src": "audio/clips/ssnew_no_traps_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "No traps, and no strangers. We're alone.",
+              "But I feel you're still nervous. Is there something you're not telling me?"
+            ],
+            "de": [
+              "Keine Fallen und keine Fremden. Wir sind allein.",
+              "Aber ich spüre, dass du immer noch nervös bist. Verschweigst du mir etwas?"
+            ],
+            "es": [
+              "Nada de trampas y nada de desconocidos. Estamos solos.",
+              "Y, aun así, sigo notándote nervioso. ¿Hay algo que no me estás contando?"
+            ],
+            "fr": [
+              "Pas de pièges, et pas d'étrangers. Nous sommes seuls.",
+              "Mais j'ai l'impression que tu es encore nerveux. Y a-t-il quelque chose que tu ne me dis pas ?"
+            ],
+            "it": [
+              "Nessuna trappola e nessuno sconosciuto. Siamo soli.",
+              "Però sento che sei ancora nervoso. C'è qualcosa che non mi stai dicendo?"
+            ],
+            "ja": [
+              "ここにはアタシらしか いないのに…",
+              "アンタは 何を心配してるんだい？"
+            ],
+            "ko": [
+              "함정도 없고 낯선 이도 없어. 우리만 있지.",
+              "하지만 네가 긴장한 게 느껴져. 나한테 말 안 한 게 있어?"
+            ],
+            "pt-br": [
+              "Sem armadilhas, e sem estranhos. Estamos sozinhos.",
+              "Mas sinto que você ainda está nervoso. Tem algo que não está me contando?"
+            ],
+            "ru": [
+              "Ни ловушек, ни чужаков. Мы одни.",
+              "Но мне всё равно кажется, что ты напряжён. Ты что-то от меня скрываешь?"
+            ],
+            "s-cn": [
+              "没有陷阱，也没有外人。就我们两个。",
+              "可我感觉你还是很紧张。有什么事瞒着我？"
+            ],
+            "t-cn": [
+              "沒有陷阱，也沒有外人。就我們兩個。",
+              "可我感覺你還是很緊張。有什麼事瞞著我？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_no_traps_3__sailor.wav",
+            "subtitleCueLines": [
+              4142,
+              4146
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_no_traps_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 8.745854,
+          "src": "audio/clips/ssnew_no_traps_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Wellll... There are... features... of these islands...",
+              "I'll brief you when the time comes. For now let's stay focused."
+            ],
+            "de": [
+              "Nuuun ... Diese Inseln haben ... gewisse ... Eigenheiten ...",
+              "Ich weihe dich ein, wenn es so weit ist. Jetzt bleiben wir erst mal bei der Sache."
+            ],
+            "es": [
+              "Bueeeno... Hay ciertas... características... que tienen estas islas...",
+              "Ya te pondré al corriente cuando llegue el momento. Por ahora, centrémonos."
+            ],
+            "fr": [
+              "Eh bien... Ces îles ont des... particularités...",
+              "Je t'en informerai le moment venu. Pour l'instant, restons concentrés."
+            ],
+            "it": [
+              "Beeeh... Ci sono... alcuni aspetti... di queste isole...",
+              "di cui ti parlerò quando sarà il momento. Per ora restiamo concentrati."
+            ],
+            "ja": [
+              "それは… この島には、 特徴があるんだ。",
+              "また後で説明する。 今は集中しよう。"
+            ],
+            "ko": [
+              "음음... 이 섬들에는... 특징이... 있어.",
+              "때가 되면 내가 설명해 주지. 지금은 집중하자."
+            ],
+            "pt-br": [
+              "Beeem... Há... aspectos... destas ilhas...",
+              "Vou te explicar quando chegar a hora. Por enquanto, vamos manter o foco."
+            ],
+            "ru": [
+              "Ну-уу... Есть... особенности... этих островов...",
+              "Я введу тебя в курс, когда придёт время. Пока давай сосредоточимся."
+            ],
+            "s-cn": [
+              "呃……这些岛上……确实……有说法……",
+              "到时候再告诉你。现在先专心眼前的事。"
+            ],
+            "t-cn": [
+              "呃……這些島上……確實……有說法……",
+              "到時候再告訴你。現在先專心眼前的事。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_no_traps_4__boat.wav",
+            "subtitleCueLines": [
+              4151,
+              4155
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_no_traps_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.068563,
+          "src": "audio/clips/ssnew_no_traps_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Oh come on. Just give me a hint."
+            ],
+            "de": [
+              "Ach komm. Gib mir wenigstens einen Hinweis."
+            ],
+            "es": [
+              "Venga, va. Dame una pista."
+            ],
+            "fr": [
+              "Oh, allez. Donne-moi juste un indice."
+            ],
+            "it": [
+              "Oh, dai. Dammi solo un indizio."
+            ],
+            "ja": [
+              "ヒントだけくれよ。"
+            ],
+            "ko": [
+              "아, 제발. 힌트 하나만 줘."
+            ],
+            "pt-br": [
+              "Ah, qual é. Me dê uma dica."
+            ],
+            "ru": [
+              "Ну же. Ну хоть намекни."
+            ],
+            "s-cn": [
+              "哎呀，好歹给点提示嘛。"
+            ],
+            "t-cn": [
+              "哎呀，好歹給點提示嘛。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_no_traps_5__sailor.wav",
+            "subtitleCueLines": [
+              4159
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_no_traps_6__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 5.392292,
+          "src": "audio/clips/ssnew_no_traps_6__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I'll give you two: Gold, and Conflux."
+            ],
+            "de": [
+              "Ich gebe dir sogar zwei: Gold und Konflux."
+            ],
+            "es": [
+              "Te doy dos: oro. Y Conflujo."
+            ],
+            "fr": [
+              "Je t'en donne deux : Or. Et confluence."
+            ],
+            "it": [
+              "Te ne do due: oro e Conflux."
+            ],
+            "ja": [
+              "2つだけ。金と、水だ。"
+            ],
+            "ko": [
+              "두 개 줄게. 금. 그리고 컨플럭스."
+            ],
+            "pt-br": [
+              "Vou te dar duas: Ouro. E Confluxo."
+            ],
+            "ru": [
+              "Хоть два: золото. И Слияние."
+            ],
+            "s-cn": [
+              "那就给你两个词：黄金、汇流。"
+            ],
+            "t-cn": [
+              "那就給你兩個詞：黃金、匯流。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_no_traps_6__boat.wav",
+            "subtitleCueLines": [
+              4162
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_no_traps_7__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.933813,
+          "src": "audio/clips/ssnew_no_traps_7__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "'Gold and Conflux'. Dockside palm-readers give more for a copper."
+            ],
+            "de": [
+              "„Gold und Konflux“. Die Handleser am Kai verraten einem für einen Kupferling mehr."
+            ],
+            "es": [
+              "«Oro y Conflujo». Los adivinos del muelle dan más a cambio de un cobre."
+            ],
+            "fr": [
+              "« Or et confluence ». Les diseuses de bonne aventure du port font mieux que ça pour une pièce de cuivre."
+            ],
+            "it": [
+              "\"Oro e Conflux\". I chiromanti del porto dicono di più per un pezzo di rame."
+            ],
+            "ja": [
+              "金と水… 占い師よりわかりにくいな。"
+            ],
+            "ko": [
+              "'금과 컨플럭스'라니. 부두의 손금쟁이들도 동전 한 닢 받고 그보단 더 많이 말해 줄 거다."
+            ],
+            "pt-br": [
+              "“Ouro e Confluxo”. Videntes da orla oferecem mais por um cobre."
+            ],
+            "ru": [
+              "«Золото и Слияние». Гадалки у пристани за медяк больше скажут."
+            ],
+            "s-cn": [
+              "“黄金、汇流”？码头上看手相的，收一个铜板都比你说得多。"
+            ],
+            "t-cn": [
+              "「黃金、匯流」？碼頭上看手相的，收一個銅板都比你說得多。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_no_traps_7__sailor.wav",
+            "subtitleCueLines": [
+              4165
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Borraidus?",
+          "Here, shipmate.",
+          "No traps, and no strangers. We're alone.",
+          "But I feel you're still nervous. Is there something you're not telling me?",
+          "Wellll... There are... features... of these islands...",
+          "I'll brief you when the time comes. For now let's stay focused.",
+          "Oh come on. Just give me a hint.",
+          "I'll give you two: Gold, and Conflux.",
+          "'Gold and Conflux'. Dockside palm-readers give more for a copper."
+        ],
+        "de": [
+          "Borraidus?",
+          "Bin hier, Schiffskameradin.",
+          "Keine Fallen und keine Fremden. Wir sind allein.",
+          "Aber ich spüre, dass du immer noch nervös bist. Verschweigst du mir etwas?",
+          "Nuuun ... Diese Inseln haben ... gewisse ... Eigenheiten ...",
+          "Ich weihe dich ein, wenn es so weit ist. Jetzt bleiben wir erst mal bei der Sache.",
+          "Ach komm. Gib mir wenigstens einen Hinweis.",
+          "Ich gebe dir sogar zwei: Gold und Konflux.",
+          "„Gold und Konflux“. Die Handleser am Kai verraten einem für einen Kupferling mehr."
+        ],
+        "es": [
+          "¿Borraidus?",
+          "Aquí, compañera.",
+          "Nada de trampas y nada de desconocidos. Estamos solos.",
+          "Y, aun así, sigo notándote nervioso. ¿Hay algo que no me estás contando?",
+          "Bueeeno... Hay ciertas... características... que tienen estas islas...",
+          "Ya te pondré al corriente cuando llegue el momento. Por ahora, centrémonos.",
+          "Venga, va. Dame una pista.",
+          "Te doy dos: oro. Y Conflujo.",
+          "«Oro y Conflujo». Los adivinos del muelle dan más a cambio de un cobre."
+        ],
+        "fr": [
+          "Borraidus ?",
+          "Je suis là, matelot.",
+          "Pas de pièges, et pas d'étrangers. Nous sommes seuls.",
+          "Mais j'ai l'impression que tu es encore nerveux. Y a-t-il quelque chose que tu ne me dis pas ?",
+          "Eh bien... Ces îles ont des... particularités...",
+          "Je t'en informerai le moment venu. Pour l'instant, restons concentrés.",
+          "Oh, allez. Donne-moi juste un indice.",
+          "Je t'en donne deux : Or. Et confluence.",
+          "« Or et confluence ». Les diseuses de bonne aventure du port font mieux que ça pour une pièce de cuivre."
+        ],
+        "it": [
+          "Borraidus?",
+          "Eccomi, marinaia.",
+          "Nessuna trappola e nessuno sconosciuto. Siamo soli.",
+          "Però sento che sei ancora nervoso. C'è qualcosa che non mi stai dicendo?",
+          "Beeeh... Ci sono... alcuni aspetti... di queste isole...",
+          "di cui ti parlerò quando sarà il momento. Per ora restiamo concentrati.",
+          "Oh, dai. Dammi solo un indizio.",
+          "Te ne do due: oro e Conflux.",
+          "\"Oro e Conflux\". I chiromanti del porto dicono di più per un pezzo di rame."
+        ],
+        "ja": [
+          "ボライダス？",
+          "なんだい？",
+          "ここにはアタシらしか いないのに…",
+          "アンタは 何を心配してるんだい？",
+          "それは… この島には、 特徴があるんだ。",
+          "また後で説明する。 今は集中しよう。",
+          "ヒントだけくれよ。",
+          "2つだけ。金と、水だ。",
+          "金と水… 占い師よりわかりにくいな。"
+        ],
+        "ko": [
+          "보라이두스?",
+          "여기 있어, 선원 동료.",
+          "함정도 없고 낯선 이도 없어. 우리만 있지.",
+          "하지만 네가 긴장한 게 느껴져. 나한테 말 안 한 게 있어?",
+          "음음... 이 섬들에는... 특징이... 있어.",
+          "때가 되면 내가 설명해 주지. 지금은 집중하자.",
+          "아, 제발. 힌트 하나만 줘.",
+          "두 개 줄게. 금. 그리고 컨플럭스.",
+          "'금과 컨플럭스'라니. 부두의 손금쟁이들도 동전 한 닢 받고 그보단 더 많이 말해 줄 거다."
+        ],
+        "pt-br": [
+          "Borraidus?",
+          "Aqui, camarada.",
+          "Sem armadilhas, e sem estranhos. Estamos sozinhos.",
+          "Mas sinto que você ainda está nervoso. Tem algo que não está me contando?",
+          "Beeem... Há... aspectos... destas ilhas...",
+          "Vou te explicar quando chegar a hora. Por enquanto, vamos manter o foco.",
+          "Ah, qual é. Me dê uma dica.",
+          "Vou te dar duas: Ouro. E Confluxo.",
+          "“Ouro e Confluxo”. Videntes da orla oferecem mais por um cobre."
+        ],
+        "ru": [
+          "Боррайдус?",
+          "Здесь, морячка.",
+          "Ни ловушек, ни чужаков. Мы одни.",
+          "Но мне всё равно кажется, что ты напряжён. Ты что-то от меня скрываешь?",
+          "Ну-уу... Есть... особенности... этих островов...",
+          "Я введу тебя в курс, когда придёт время. Пока давай сосредоточимся.",
+          "Ну же. Ну хоть намекни.",
+          "Хоть два: золото. И Слияние.",
+          "«Золото и Слияние». Гадалки у пристани за медяк больше скажут."
+        ],
+        "s-cn": [
+          "博莱达斯？",
+          "我在呢，船友。",
+          "没有陷阱，也没有外人。就我们两个。",
+          "可我感觉你还是很紧张。有什么事瞒着我？",
+          "呃……这些岛上……确实……有说法……",
+          "到时候再告诉你。现在先专心眼前的事。",
+          "哎呀，好歹给点提示嘛。",
+          "那就给你两个词：黄金、汇流。",
+          "“黄金、汇流”？码头上看手相的，收一个铜板都比你说得多。"
+        ],
+        "t-cn": [
+          "博萊達斯？",
+          "我在呢，船友。",
+          "沒有陷阱，也沒有外人。就我們兩個。",
+          "可我感覺你還是很緊張。有什麼事瞞著我？",
+          "呃……這些島上……確實……有說法……",
+          "到時候再告訴你。現在先專心眼前的事。",
+          "哎呀，好歹給點提示嘛。",
+          "那就給你兩個詞：黃金、匯流。",
+          "「黃金、匯流」？碼頭上看手相的，收一個銅板都比你說得多。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

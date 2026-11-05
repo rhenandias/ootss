@@ -6,6 +6,224 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          49.0,
+          2.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 106954775,
+        "name": "intro_1",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          31.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 106954776,
+        "name": "intro_before_teleporter",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 115343472,
+        "groupChain": [
+          115343472
+        ],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          38.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 115344136,
+        "name": "paradise_lost_invocation_2",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0,
+          0.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 115345265,
+        "name": "paradise_lost_invocation_credits",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          26.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 115345347,
+        "name": "audiolog_sky_10000_things",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          26.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 115345348,
+        "name": "audiolog_sky_laws_of_form",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0,
+          26.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 115345448,
+        "name": "audiolog_u_computation",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0,
+          2.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "type": "Voice_Log",
+        "id": 115345817,
+        "name": "actor_credits",
+        "source": "data-common/intro.entities",
+        "sourceLevel": "intro",
+        "entities": "intro",
+        "mapLayers": [
+          "intro"
+        ],
+        "coordinateSpace": "level-local",
+        "groupId": 0,
+        "groupChain": [],
+        "mapReady": true,
+        "mapExclusion": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           76.0,
           69.0,
           -21.0
@@ -17,6 +235,10 @@
         "name": "audiolog_u_meeting",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -40,6 +262,10 @@
         "name": "psalm_139_part_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 63001008,
         "groupChain": [
@@ -65,6 +291,10 @@
         "name": "sokoban_overworld",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -88,6 +318,10 @@
         "name": "audiolog_g_possession",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -111,6 +345,10 @@
         "name": "audiolog_g_no_eating",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -134,6 +372,10 @@
         "name": "audiolog_s_tradition_of_our_people_part_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -157,6 +399,10 @@
         "name": "audiolog_s_tradition_of_our_people_part_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -180,6 +426,10 @@
         "name": "audiolog_s_tradition_of_our_people_part_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -203,6 +453,10 @@
         "name": "audiolog_s_tradition_of_our_people_part_2b",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -226,6 +480,10 @@
         "name": "audiolog_sky_invocation",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -249,6 +507,10 @@
         "name": "audiolog_g_world_selection_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -272,6 +534,10 @@
         "name": "audiolog_g_world_selection_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -295,6 +561,10 @@
         "name": "audiolog_g_world_selection_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -318,6 +588,10 @@
         "name": "audiolog_g_far_from_home",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -341,6 +615,10 @@
         "name": "audiolog_g_gold_rooms",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -364,14 +642,18 @@
         "name": "audiolog_g_musing_on_fast_travel",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "minimap"
+        ],
         "coordinateSpace": "world",
         "groupId": 62929181,
         "groupChain": [
           62929181,
           111173026
         ],
-        "mapReady": false,
-        "mapExclusion": "outside-current-tiles"
+        "mapReady": true,
+        "mapExclusion": null
       }
     },
     {
@@ -390,14 +672,18 @@
         "name": "audiolog_g_substrate",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "minimap"
+        ],
         "coordinateSpace": "world",
         "groupId": 95505109,
         "groupChain": [
           95505109,
           111173026
         ],
-        "mapReady": false,
-        "mapExclusion": "outside-current-tiles"
+        "mapReady": true,
+        "mapExclusion": null
       }
     },
     {
@@ -416,6 +702,10 @@
         "name": "audiolog_g_how_many_gold_rooms",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -439,6 +729,10 @@
         "name": "audiolog_u_job_41_fragments",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -462,6 +756,10 @@
         "name": "audiolog_sky_take_a_tour",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -485,6 +783,10 @@
         "name": "audiolog_sky_10000_things",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -508,6 +810,10 @@
         "name": "audiolog_g_musing_on_freezers_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -531,6 +837,10 @@
         "name": "audiolog_g_being_watched",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -554,6 +864,10 @@
         "name": "audiolog_g_work_and_care",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -577,6 +891,10 @@
         "name": "audiolog_sky_why_so_big",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -600,6 +918,10 @@
         "name": "audiolog_sky_why_so_big_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -623,6 +945,10 @@
         "name": "end2_sokoban_writing_choice_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -646,6 +972,10 @@
         "name": "end2_sokoban_writing_choice_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -669,6 +999,10 @@
         "name": "end3_sokoban_writing_choice_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -692,6 +1026,10 @@
         "name": "end3_sokoban_writing_choice_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -715,6 +1053,10 @@
         "name": "end3_sokoban_writing_choice_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -738,6 +1080,10 @@
         "name": "end3_sokoban_writing_choice_4",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -761,6 +1107,10 @@
         "name": "end3_sokoban_writing_choice_5",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -784,6 +1134,10 @@
         "name": "audiolog_u_old_games",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -807,6 +1161,10 @@
         "name": "audiolog_u_games_inspirations",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -830,6 +1188,10 @@
         "name": "audiolog_sky_combiners",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -853,6 +1215,10 @@
         "name": "audiolog_sky_combiners_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -876,6 +1242,10 @@
         "name": "audiolog_sky_combiners_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -899,6 +1269,10 @@
         "name": "audiolog_sky_combiners_4",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -922,6 +1296,10 @@
         "name": "audiolog_sky_tetratetrad",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -945,6 +1323,10 @@
         "name": "audiolog_u_chaos_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -968,6 +1350,10 @@
         "name": "audiolog_u_chaos_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -991,6 +1377,10 @@
         "name": "audiolog_sky_lifeboat_societies_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1014,6 +1404,10 @@
         "name": "audiolog_sky_lifeboat_societies_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1037,6 +1431,10 @@
         "name": "audiolog_sky_lifeboat_societies_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1060,6 +1458,10 @@
         "name": "audiolog_u_computation",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1083,6 +1485,10 @@
         "name": "audiolog_u_wizard_mirror_worlds_connect",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1106,6 +1512,10 @@
         "name": "audiolog_sky_wool",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1129,6 +1539,10 @@
         "name": "audiolog_u_boundary_matching_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1152,6 +1566,10 @@
         "name": "audiolog_u_boundary_matching_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1175,6 +1593,10 @@
         "name": "audiolog_g_crisis",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "overworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1198,6 +1620,10 @@
         "name": "audiolog_s_magistrate",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1221,6 +1647,10 @@
         "name": "audiolog_u_tetratetrad_troubles_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1244,6 +1674,10 @@
         "name": "audiolog_u_tetratetrad_troubles_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1267,6 +1701,10 @@
         "name": "audiolog_u_tetratetrad_troubles_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1290,6 +1728,10 @@
         "name": "audiolog_u_decay_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1313,6 +1755,10 @@
         "name": "audiolog_u_decay_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1336,6 +1782,10 @@
         "name": "audiolog_u_decay_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1359,6 +1809,10 @@
         "name": "audiolog_u_decay_4",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1382,6 +1836,10 @@
         "name": "audiolog_u_decay_5",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1405,6 +1863,10 @@
         "name": "audiolog_sky_laws_of_form",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1428,6 +1890,10 @@
         "name": "audiolog_sky_complexification_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1451,6 +1917,10 @@
         "name": "audiolog_sky_complexification_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1474,6 +1944,10 @@
         "name": "audiolog_sky_play_of_form_1",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1497,6 +1971,10 @@
         "name": "audiolog_sky_play_of_form_2",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1520,6 +1998,10 @@
         "name": "audiolog_sky_play_of_form_3",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1543,6 +2025,10 @@
         "name": "audiolog_sky_play_of_form_1b",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1566,6 +2052,10 @@
         "name": "pre_coda_scene_assembled",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1589,6 +2079,10 @@
         "name": "coda_scene_assembled",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1612,6 +2106,10 @@
         "name": "audiolog_sky_play_of_form_1a",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "sky"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],
@@ -1635,6 +2133,10 @@
         "name": "psalm_139",
         "source": "data-common/overworld.entities",
         "sourceLevel": "overworld",
+        "entities": "overworld",
+        "mapLayers": [
+          "underworld"
+        ],
         "coordinateSpace": "world",
         "groupId": 0,
         "groupChain": [],

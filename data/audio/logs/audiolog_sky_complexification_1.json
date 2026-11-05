@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_sky_complexification_1",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -74,7 +74,7 @@
               "Eso crea nuevas situaciones de interés que ilustramos con puzles nuevos.",
               "Ah, mira, el espejo cambia la dirección. ¿Y si esa nueva dirección resulta ser vertical, el único eje afectado por la gravedad?",
               "Averigüémoslo.",
-              "Esta complejización funciona en ambos sentidos. La piedra también puede hacerle cosas al espejo: como quizá veas más adelante."
+              "Esta complejización funciona en ambos sentidos. La piedra también puede hacerle cosas al espejo, como quizá veas más adelante."
             ],
             "fr": [
               "Nous sommes ici pour observer la manière dont les choses se combinent. Au début, en explorant un entrepôt comme celui-ci, vous voyez des objets précis :",
@@ -108,7 +108,7 @@
               "Questo crea nuove situazioni interessanti, che illustriamo creando nuovi rompicapo.",
               "Oh, guarda, lo specchio cambia la direzione. E se la nuova direzione fosse verticale, l'unico asse influenzato dalla gravità?",
               "Scopriamolo.",
-              "Questa complessificazione funziona in entrambi i sensi. Anche la pietra può far accadere alcune cose allo specchio... come potresti vedere col tempo."
+              "Questa complessificazione funziona in entrambi i sensi. Anche la pietra può far accadere alcune cose allo specchio... come vedrai col tempo."
             ],
             "ja": [
               "ここでは、物がどう組み合わさるかを見ていく。 こういう倉庫を探索し始めると、 最初は、個々の物に目が向くの。",
@@ -162,21 +162,21 @@
               "Essa complexificação funciona nos dois sentidos. A Pedra também pode afetar os Espelhos; você talvez veja isso mais adiante."
             ],
             "ru": [
-              "Мы здесь, чтобы посмотреть, как вещи сочетаются. Сначала, исследуя такой склад, как этот, вы видите конкретные предметы:",
+              "Мы здесь, чтобы посмотреть, как вещи сочетаются. Сначала, исследуя такой склад, как этот, видишь конкретные предметы:",
               "зеркало ведёт себя определённым образом: телепортирует предметы в равноудалённые позиции.",
-              "Вы наблюдаете базовые взаимодействия, решаете часть головоломки с помощью зеркала,",
-              "смотрите, как оно взаимодействует в разных сочетаниях;",
-              "со временем и практикой взаимодействия с зеркалом становятся для вас естественными.",
-              "Скачущий камень: он прыгает по воде, и либо окажется на берегу, либо утонет, а потом вы повторяете:",
+              "Ты наблюдаешь базовые взаимодействия, решаешь часть головоломки с помощью зеркала,",
+              "смотришь, как оно взаимодействует в разных сочетаниях;",
+              "со временем и практикой взаимодействия с зеркалом становятся для тебя естественными.",
+              "Скачущий камень: он прыгает по воде, и либо окажется на берегу, либо утонет, а потом ты повторяешь:",
               "базовое решение, работа с функционированием камня до тех пор, пока оно не станет естественным.",
-              "Когда мы соединяем зеркало и скачущий камень, вы видите, как начинает действовать таинственная сила:",
+              "Когда мы соединяем зеркало и скачущий камень, ты видишь, как начинает действовать таинственная сила:",
               "два предмета, оказавшись рядом, усложняют друг друга.",
               "Камень любит двигаться в одном направлении, так что теперь зеркало воздействует",
               "не только на положение камня, но и на направление его движения.",
               "Это создаёт новые интересные ситуации, которые мы показываем в новых головоломках.",
               "О, зеркало меняет направление. А что, если направление окажется вертикальным, то есть по той оси, на которую действует гравитация?",
-              "Давайте выясним.",
-              "Это усложнение работает в обе стороны. Камень тоже может кое-что делать с зеркалом — вы ещё это увидите."
+              "Сейчас выясним.",
+              "Это усложнение работает в обе стороны. Камень тоже может кое-что делать с зеркалом — ещё увидишь."
             ],
             "s-cn": [
               "我们来到这里，是为了观察不同事物如何组合。 刚开始探索这种仓库时，你看到的是一个个具体的物体：",
@@ -216,21 +216,21 @@
           "provenance": {
             "sourceWav": "audiolog_sky_complexification_1_1__acting.wav",
             "subtitleCueLines": [
-              10832,
-              10837,
-              10841,
-              10845,
-              10849,
-              10853,
-              10858,
-              10862,
-              10866,
-              10870,
-              10874,
-              10878,
-              10882,
-              10887,
-              10891
+              10842,
+              10847,
+              10851,
+              10855,
+              10859,
+              10863,
+              10868,
+              10872,
+              10876,
+              10880,
+              10884,
+              10888,
+              10892,
+              10897,
+              10901
             ],
             "explicitAudioReference": null
           }
@@ -290,7 +290,7 @@
           "Eso crea nuevas situaciones de interés que ilustramos con puzles nuevos.",
           "Ah, mira, el espejo cambia la dirección. ¿Y si esa nueva dirección resulta ser vertical, el único eje afectado por la gravedad?",
           "Averigüémoslo.",
-          "Esta complejización funciona en ambos sentidos. La piedra también puede hacerle cosas al espejo: como quizá veas más adelante."
+          "Esta complejización funciona en ambos sentidos. La piedra también puede hacerle cosas al espejo, como quizá veas más adelante."
         ],
         "fr": [
           "Nous sommes ici pour observer la manière dont les choses se combinent. Au début, en explorant un entrepôt comme celui-ci, vous voyez des objets précis :",
@@ -324,7 +324,7 @@
           "Questo crea nuove situazioni interessanti, che illustriamo creando nuovi rompicapo.",
           "Oh, guarda, lo specchio cambia la direzione. E se la nuova direzione fosse verticale, l'unico asse influenzato dalla gravità?",
           "Scopriamolo.",
-          "Questa complessificazione funziona in entrambi i sensi. Anche la pietra può far accadere alcune cose allo specchio... come potresti vedere col tempo."
+          "Questa complessificazione funziona in entrambi i sensi. Anche la pietra può far accadere alcune cose allo specchio... come vedrai col tempo."
         ],
         "ja": [
           "ここでは、物がどう組み合わさるかを見ていく。 こういう倉庫を探索し始めると、 最初は、個々の物に目が向くの。",
@@ -378,21 +378,21 @@
           "Essa complexificação funciona nos dois sentidos. A Pedra também pode afetar os Espelhos; você talvez veja isso mais adiante."
         ],
         "ru": [
-          "Мы здесь, чтобы посмотреть, как вещи сочетаются. Сначала, исследуя такой склад, как этот, вы видите конкретные предметы:",
+          "Мы здесь, чтобы посмотреть, как вещи сочетаются. Сначала, исследуя такой склад, как этот, видишь конкретные предметы:",
           "зеркало ведёт себя определённым образом: телепортирует предметы в равноудалённые позиции.",
-          "Вы наблюдаете базовые взаимодействия, решаете часть головоломки с помощью зеркала,",
-          "смотрите, как оно взаимодействует в разных сочетаниях;",
-          "со временем и практикой взаимодействия с зеркалом становятся для вас естественными.",
-          "Скачущий камень: он прыгает по воде, и либо окажется на берегу, либо утонет, а потом вы повторяете:",
+          "Ты наблюдаешь базовые взаимодействия, решаешь часть головоломки с помощью зеркала,",
+          "смотришь, как оно взаимодействует в разных сочетаниях;",
+          "со временем и практикой взаимодействия с зеркалом становятся для тебя естественными.",
+          "Скачущий камень: он прыгает по воде, и либо окажется на берегу, либо утонет, а потом ты повторяешь:",
           "базовое решение, работа с функционированием камня до тех пор, пока оно не станет естественным.",
-          "Когда мы соединяем зеркало и скачущий камень, вы видите, как начинает действовать таинственная сила:",
+          "Когда мы соединяем зеркало и скачущий камень, ты видишь, как начинает действовать таинственная сила:",
           "два предмета, оказавшись рядом, усложняют друг друга.",
           "Камень любит двигаться в одном направлении, так что теперь зеркало воздействует",
           "не только на положение камня, но и на направление его движения.",
           "Это создаёт новые интересные ситуации, которые мы показываем в новых головоломках.",
           "О, зеркало меняет направление. А что, если направление окажется вертикальным, то есть по той оси, на которую действует гравитация?",
-          "Давайте выясним.",
-          "Это усложнение работает в обе стороны. Камень тоже может кое-что делать с зеркалом — вы ещё это увидите."
+          "Сейчас выясним.",
+          "Это усложнение работает в обе стороны. Камень тоже может кое-что делать с зеркалом — ещё увидишь."
         ],
         "s-cn": [
           "我们来到这里，是为了观察不同事物如何组合。 刚开始探索这种仓库时，你看到的是一个个具体的物体：",

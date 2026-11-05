@@ -20,8 +20,8 @@ const getArg = (name, def) => {
   const i = args.indexOf(name);
   return i >= 0 ? args[i + 1] : def;
 };
-const IN_DIR     = path.resolve(getArg('--in',  '../../../images/levels'));
-const OUT_FILE   = path.resolve(getArg('--out', './index.json'));
+const IN_DIR     = path.resolve(getArg('--in',  '../../../../ootss_tileset/images/levels'));
+const OUT_FILE   = path.resolve(getArg('--out', '../../../data/image_index.json'));
 const CACHE_FILE = OUT_FILE + '.cache';
 const FORCE      = args.includes('--force');
 const WORKERS    = Math.max(1, parseInt(getArg('--workers', String(Math.ceil(os.cpus().length / 2))), 10));

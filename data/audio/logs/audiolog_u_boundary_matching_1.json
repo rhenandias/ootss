@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_u_boundary_matching_1",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -31,7 +31,7 @@
               "Because the universe acts holographically -- as we first gleaned from the study of black holes --"
             ],
             "de": [
-              "... und so reisen wir in Räume, die weit entfernt sind,",
+              "... und so reisen wir in weit entfernte Räume,",
               "oder in völlig unverbundene – wie die Welten, die du in diesem Lagerhaus siehst.",
               "Denn das Universum verhält sich holografisch – wie wir erstmals aus der Erforschung schwarzer Löcher geschlossen haben –"
             ],
@@ -46,7 +46,7 @@
               "Parce que l'univers agit de manière holographique – comme nous l'avons d'abord compris en étudiant les trous noirs..."
             ],
             "it": [
-              "... è così che viaggiamo verso spazi che sono lontani,",
+              "... e così che viaggiamo verso spazi che sono lontani,",
               "o completamente scollegati... come i mondi che vedi in questo deposito.",
               "Perché l'universo agisce olograficamente... come abbiamo prima intuito dallo studio dei buchi neri..."
             ],
@@ -56,7 +56,7 @@
               "というのも、最初にブラックホールの研究から 見出した情報によると、宇宙は ホログラフィックな挙動をするからだ。"
             ],
             "ko": [
-              "... 그런 식으로 아주 멀리 떨어져 있는 공간으로 이동하는 거야.",
+              "... 그런 식으로 아주 멀리 떨어져 있거나",
               "완전히 단절된 공간으로 이동하는 거야. 이 창고에서 볼 수 있는 세계들처럼.",
               "우주는 홀로그램처럼 작동하거든. 우리가 블랙홀 연구를 통해 처음 알아낸 것처럼..."
             ],
@@ -84,9 +84,9 @@
           "provenance": {
             "sourceWav": "audiolog_u_boundary_matching_1_1__director.wav",
             "subtitleCueLines": [
-              14581,
-              14585,
-              14589
+              14591,
+              14595,
+              14599
             ],
             "explicitAudioReference": null
           }
@@ -117,13 +117,13 @@
               "君のアクティング・ディレクターから、 その話は聞いた。"
             ],
             "ko": [
-              "네, 당신의 대리 감독관에게 그 얘기는 들었습니다..."
+              "네, 대리 감독관에게 그 얘기는 들었습니다..."
             ],
             "pt-br": [
               "Sim, sua Diretora Interina me contou sobre eles..."
             ],
             "ru": [
-              "Да, ваша и. о. директора рассказывала мне о них..."
+              "Да, ваша И.О. Директора рассказывала о них..."
             ],
             "s-cn": [
               "对，你们的代理主管和我说过黑洞……"
@@ -135,7 +135,7 @@
           "provenance": {
             "sourceWav": "audiolog_u_boundary_matching_1_2__sokoban.wav",
             "subtitleCueLines": [
-              14594
+              14604
             ],
             "explicitAudioReference": null
           }
@@ -174,7 +174,7 @@
               "Aber wenn du irgendwohin möchtest und die Bedingungen an der dortigen Grenze nachbilden kannst,",
               "indem du die Grenze veränderst, die deinen Ausgangsort umschließt, sodass beide Grenzen exakt übereinstimmen –",
               "dann kannst du die beiden Grenzen mitsamt ihrem gesamten Inhalt vertauschen.",
-              "Für die benötigte Energiemenge gilt: Sie ist proportional zur Oberfläche der Grenze,",
+              "Die Energiemenge ist proportional zur Oberfläche,",
               "doch bei kleineren Räumen ist sie nicht allzu groß. Jedenfalls nicht im Vergleich zu dem, was uns zur Verfügung steht.",
               "Schon komisch, wie diese Forschungsrichtung entstanden ist: Sie wollten all den historischen Fällen nachgehen, in denen es Fische geregnet hat –",
               "Fische, die einfach vom Himmel gefallen sind, ein wiederholt bestätigtes Naturphänomen,",
@@ -183,7 +183,7 @@
               "und nach Jahren bringt er ihn bei winzig kleinen Dingen zum Laufen. Dann erweitert er ihn auf makroskopische Räume und schließlich auf Räume von Menschengröße.",
               "Und jetzt können wir reisen.",
               "Am Ende hat er allerdings erkannt, dass der Grenzentausch den Fischregen doch nicht erklären konnte.",
-              "Die Grenzen wären einfach zu unterschiedlich gewesen, sie hätten sich nicht angleichen lassen.",
+              "Die Randbedingungen wären einfach zu unterschiedlich gewesen, sie hätten sich nicht angleichen lassen.",
               "Das ist also ein Rätsel, das wir nie gelöst haben und so bald auch nicht lösen werden,",
               "denn die Erde, wie wir sie kannten, gibt es längst nicht mehr ..."
             ],
@@ -194,7 +194,7 @@
               "Sin embargo, si hay algún lugar al que quieras ir, y eres capaz de duplicar las condiciones en su límite,",
               "cambiando el límite del lugar del que partes, de modo que ambos límites encajen exactamente...",
               "entonces puedes intercambiar los dos límites y todo lo que contienen.",
-              "La cantidad de energía necesaria es proporcional a la superficie del límite,",
+              "La cantidad de energía es proporcional a la superficie,",
               "pero en realidad no es tanto para los espacios más pequeños. Al menos, no comparado con lo que tenemos disponible.",
               "Es curioso cómo empezó esta línea de investigación; estaban intentando esclarecer todos esos casos históricos en que habían llovido peces...",
               "Peces, sencillamente, cayendo del cielo. Es un fenómeno natural confirmado repetidamente,",
@@ -214,7 +214,7 @@
               "Mais, s'il y a un endroit où vous voulez aller, et que vous êtes capable de dupliquer les conditions à sa frontière,",
               "en modifiant la frontière de l'endroit d'où vous partez, de sorte que les deux frontières correspondent exactement –",
               "alors vous pouvez échanger les deux frontières et tout ce qu'elles contiennent.",
-              "La quantité d'énergie requise est proportionnelle à la surface de la frontière,",
+              "La quantité d'énergie est proportionnelle à la surface,",
               "mais ce n'est pas vraiment si énorme pour les petits espaces. Pas par rapport à ce dont nous disposons, en tout cas.",
               "Cette piste de recherche a commencé de façon étrange ; ils essayaient de comprendre tous ces cas où il avait plu des poissons au cours de l'histoire –",
               "juste des poissons tombant du ciel, un phénomène naturel confirmé à de nombreuses reprises,",
@@ -223,7 +223,7 @@
               "et, après des années, parvient à la faire fonctionner sur des choses minuscules. Puis il passe à des objets macroscopiques, et enfin des espaces à taille humaine.",
               "Et maintenant, nous pouvons voyager.",
               "Mais il a fini par comprendre que l'échange de frontières n'expliquait pas la pluie de poissons.",
-              "Les frontières auraient tout simplement été trop différentes ; impossibles à faire correspondre.",
+              "Les conditions aux limites auraient tout simplement été trop différentes ; impossibles à faire correspondre.",
               "Donc, c'est un mystère que nous n'avons jamais résolu, et que nous ne résoudrons pas de sitôt,",
               "puisque la Terre telle que nous la connaissions a depuis longtemps disparu..."
             ],
@@ -234,16 +234,16 @@
               "Ma, se c'è un posto dove vuoi andare, e sei in grado di duplicare le condizioni sul suo confine,",
               "cambiando il confine del luogo da cui parti, così che i due confini combacino perfettamente,",
               "allora puoi scambiare i due confini e tutto ciò che contengono.",
-              "La quantità di energia richiesta è proporzionale alla superficie del confine,",
+              "La quantità di energia è proporzionale alla superficie,",
               "ma per spazi più piccoli non è davvero così tanta. Non rispetto a quella che abbiamo a disposizione, comunque.",
-              "Curioso come sia iniziato questo filone di ricerca; stavano cercando di capire tutti quei casi storici in cui era piovuto pesce:",
+              "Curioso come sia iniziato questo filone di ricerca: stavano cercando di capire tutti quei casi storici in cui era piovuto pesce:",
               "semplicemente pesce che cadeva dal cielo, un fenomeno naturale confermato più volte,",
               "anche da osservatori affidabili. Nessuna spiegazione plausibile.",
-              "Così un tizio si mette a ragionare su come possa accadere. Elabora questa teoria dello scambio dei confini,",
+              "Così un tizio si mette a ragionare su come possa accadere. Elabora quest'idea dello scambio dei confini,",
               "e anno dopo anno, la fa funzionare su cose minuscole, poi la estende per gestire spazi macroscopici e infine di dimensioni umane.",
               "E ora possiamo viaggiare.",
               "Ma alla fine si rese conto che lo scambio di confini non spiegava la pioggia di pesci.",
-              "I confini sarebbero stati semplicemente troppo diversi; impossibili da far combaciare.",
+              "Le condizioni al contorno sarebbero state semplicemente troppo diverse: impossibile farle combaciare.",
               "Quindi questo è un mistero che non abbiamo mai risolto, e non lo faremo tanto presto,",
               "visto che la Terra, come la conoscevamo, è ormai scomparsa da molto tempo..."
             ],
@@ -274,16 +274,16 @@
               "하지만 가고 싶은 곳이 있고, 그 경계의 조건을 복제할 수 있다면",
               "지금 있는 장소의 경계를 바꿔서 두 경계가 정확히 일치하게 만들면...",
               "두 경계와 그 안의 모든 내용을 서로 바꿀 수 있습니다.",
-              "필요한 에너지의 양은 경계의 표면적에 비례하지만",
+              "필요한 에너지의 양은 표면적에 비례하지만",
               "작은 공간이라면 그리 많은 양은 아니야. 적어도 우리가 쓸 수 있는 에너지에 비하면.",
-              "이 연구가 어떻게 시작됐는지를 생각하면 재미있어. 사람들은 과거에 하늘에서 물고기가 쏟아졌던 여러 사례를 해명하려 하고 있었어.",
+              "이 연구가 어떻게 시작됐는지를 생각하면 재미있어. 사람들은 과거에 하늘에서 물고기가 쏟아졌던 여러 사례를 해명하려 했어.",
               "말 그대로 하늘에서 물고기가 떨어지는 현상. 역사 속 여러 시기에",
               "신뢰할 만한 목격자도 있었지만, 그럴듯한 설명은 없었어.",
               "그래서 어떤 사람이 어떻게 이게 가능한지 진지하게 고민하다가 경계를 맞바꾸는 아이디어를 떠올렸어.",
               "그리고 몇 년 뒤, 아주 작은 것에 적용하는 데 성공했어. 그 기술을 점차 발전시켜서 결국엔 인간 크기의 공간까지 다룰 수 있게 만들었지.",
               "그리고 이제 우리는 이동할 수 있게 됐어.",
               "하지만 결국 그 사람도 경계를 바꾸는 게 물고기가 내리는 현상을 설명하진 못한다는 걸 깨달았어.",
-              "경계가 너무 달랐을 거야; 서로 맞출 수 없을 만큼.",
+              "경계 조건이 너무 달랐을 거야; 서로 맞출 수 없을 만큼.",
               "그래서 그건 우리가 풀지 못한 미스터리로 남았고, 앞으로도 한동안은 풀리지 않을 거야.",
               "우리가 알던 지구는 이제 오래전에 사라졌으니까..."
             ],
@@ -294,7 +294,7 @@
               "Mas, se houver algum lugar para onde você queira ir, e conseguir duplicar as condições na fronteira dele,",
               "ao mudar a fronteira do lugar de onde você está partindo, de modo que as duas fronteiras coincidam exatamente,",
               "então você pode trocar as duas fronteiras e todo o conteúdo nelas.",
-              "A quantidade de energia necessária é proporcional à área da superfície da fronteira,",
+              "A quantidade de energia é proporcional à área da superfície,",
               "mas isso não é realmente tanto para espaços menores. Pelo menos em comparação com o que temos disponível.",
               "Engraçado como essa linha de investigação começou; eles estavam tentando esclarecer todos esses casos históricos em que choviam peixes:",
               "só peixes caindo do céu, um fenômeno natural confirmado repetidas vezes,",
@@ -303,7 +303,7 @@
               "e, depois de anos, faz isso funcionar em coisas minúsculas. Ele amplia até conseguir lidar com espaços macroscópicos e, por fim, do tamanho de um ser humano.",
               "E agora podemos viajar.",
               "Mas, no fim, ele percebeu que a troca de fronteiras não explicava a chuva de peixes.",
-              "As fronteiras seriam simplesmente diferentes demais; incompatíveis.",
+              "As condições de contorno teriam sido simplesmente diferentes demais; incompatíveis.",
               "Então esse é um mistério que nunca resolvemos, e não vamos resolver tão cedo,",
               "já que a Terra como a conhecíamos já se foi há muito tempo..."
             ],
@@ -314,7 +314,7 @@
               "Но если есть место, куда ты хочешь попасть, и ты можешь воспроизвести условия на его границе,",
               "изменяя границу места, откуда начинаешь, так, чтобы обе границы точно совпали —",
               "тогда можно поменять местами обе границы и всё, что находится внутри них.",
-              "Количество требуемой энергии пропорционально площади поверхности границы,",
+              "Количество энергии пропорционально площади поверхности,",
               "но для меньших пространств это не так уж много. Во всяком случае, по сравнению с тем, что у нас есть.",
               "Забавно, с чего начались эти поиски: они пытались разобраться со всеми этими историческими случаями, когда с неба шёл рыбный дождь —",
               "просто рыба падала с неба, природное явление, неоднократно подтверждённое,",
@@ -323,7 +323,7 @@
               "а спустя годы опробовал её на крошечных объектах. Он развил её до макроскопических, а затем и человеческих пространств.",
               "И теперь мы можем путешествовать.",
               "Но в конце концов он понял, что обмен границами всё же не объясняет дождь из рыбы.",
-              "Границы были бы просто слишком разными; несовместимыми.",
+              "Граничные условия были бы просто слишком разными; несовместимыми.",
               "Так что это загадка, которую мы так и не решили, и вряд ли решим скоро,",
               "поскольку Земля, какой мы её знали, теперь давно исчезла..."
             ],
@@ -371,24 +371,24 @@
           "provenance": {
             "sourceWav": "audiolog_u_boundary_matching_1_3__director.wav",
             "subtitleCueLines": [
-              14598,
-              14602,
-              14607,
-              14611,
-              14616,
+              14608,
+              14612,
+              14617,
               14621,
-              14625,
-              14630,
-              14634,
+              14626,
+              14631,
+              14635,
               14640,
               14644,
-              14648,
-              14652,
-              14657,
-              14660,
-              14664,
-              14668,
-              14672
+              14650,
+              14654,
+              14658,
+              14662,
+              14667,
+              14670,
+              14674,
+              14678,
+              14682
             ],
             "explicitAudioReference": null
           }
@@ -424,7 +424,7 @@
           "since the Earth as we knew it is now long gone..."
         ],
         "de": [
-          "... und so reisen wir in Räume, die weit entfernt sind,",
+          "... und so reisen wir in weit entfernte Räume,",
           "oder in völlig unverbundene – wie die Welten, die du in diesem Lagerhaus siehst.",
           "Denn das Universum verhält sich holografisch – wie wir erstmals aus der Erforschung schwarzer Löcher geschlossen haben –",
           "Ja, deine Amtierende Direktorin hat mir davon erzählt ...",
@@ -434,7 +434,7 @@
           "Aber wenn du irgendwohin möchtest und die Bedingungen an der dortigen Grenze nachbilden kannst,",
           "indem du die Grenze veränderst, die deinen Ausgangsort umschließt, sodass beide Grenzen exakt übereinstimmen –",
           "dann kannst du die beiden Grenzen mitsamt ihrem gesamten Inhalt vertauschen.",
-          "Für die benötigte Energiemenge gilt: Sie ist proportional zur Oberfläche der Grenze,",
+          "Die Energiemenge ist proportional zur Oberfläche,",
           "doch bei kleineren Räumen ist sie nicht allzu groß. Jedenfalls nicht im Vergleich zu dem, was uns zur Verfügung steht.",
           "Schon komisch, wie diese Forschungsrichtung entstanden ist: Sie wollten all den historischen Fällen nachgehen, in denen es Fische geregnet hat –",
           "Fische, die einfach vom Himmel gefallen sind, ein wiederholt bestätigtes Naturphänomen,",
@@ -443,7 +443,7 @@
           "und nach Jahren bringt er ihn bei winzig kleinen Dingen zum Laufen. Dann erweitert er ihn auf makroskopische Räume und schließlich auf Räume von Menschengröße.",
           "Und jetzt können wir reisen.",
           "Am Ende hat er allerdings erkannt, dass der Grenzentausch den Fischregen doch nicht erklären konnte.",
-          "Die Grenzen wären einfach zu unterschiedlich gewesen, sie hätten sich nicht angleichen lassen.",
+          "Die Randbedingungen wären einfach zu unterschiedlich gewesen, sie hätten sich nicht angleichen lassen.",
           "Das ist also ein Rätsel, das wir nie gelöst haben und so bald auch nicht lösen werden,",
           "denn die Erde, wie wir sie kannten, gibt es längst nicht mehr ..."
         ],
@@ -458,7 +458,7 @@
           "Sin embargo, si hay algún lugar al que quieras ir, y eres capaz de duplicar las condiciones en su límite,",
           "cambiando el límite del lugar del que partes, de modo que ambos límites encajen exactamente...",
           "entonces puedes intercambiar los dos límites y todo lo que contienen.",
-          "La cantidad de energía necesaria es proporcional a la superficie del límite,",
+          "La cantidad de energía es proporcional a la superficie,",
           "pero en realidad no es tanto para los espacios más pequeños. Al menos, no comparado con lo que tenemos disponible.",
           "Es curioso cómo empezó esta línea de investigación; estaban intentando esclarecer todos esos casos históricos en que habían llovido peces...",
           "Peces, sencillamente, cayendo del cielo. Es un fenómeno natural confirmado repetidamente,",
@@ -482,7 +482,7 @@
           "Mais, s'il y a un endroit où vous voulez aller, et que vous êtes capable de dupliquer les conditions à sa frontière,",
           "en modifiant la frontière de l'endroit d'où vous partez, de sorte que les deux frontières correspondent exactement –",
           "alors vous pouvez échanger les deux frontières et tout ce qu'elles contiennent.",
-          "La quantité d'énergie requise est proportionnelle à la surface de la frontière,",
+          "La quantité d'énergie est proportionnelle à la surface,",
           "mais ce n'est pas vraiment si énorme pour les petits espaces. Pas par rapport à ce dont nous disposons, en tout cas.",
           "Cette piste de recherche a commencé de façon étrange ; ils essayaient de comprendre tous ces cas où il avait plu des poissons au cours de l'histoire –",
           "juste des poissons tombant du ciel, un phénomène naturel confirmé à de nombreuses reprises,",
@@ -491,12 +491,12 @@
           "et, après des années, parvient à la faire fonctionner sur des choses minuscules. Puis il passe à des objets macroscopiques, et enfin des espaces à taille humaine.",
           "Et maintenant, nous pouvons voyager.",
           "Mais il a fini par comprendre que l'échange de frontières n'expliquait pas la pluie de poissons.",
-          "Les frontières auraient tout simplement été trop différentes ; impossibles à faire correspondre.",
+          "Les conditions aux limites auraient tout simplement été trop différentes ; impossibles à faire correspondre.",
           "Donc, c'est un mystère que nous n'avons jamais résolu, et que nous ne résoudrons pas de sitôt,",
           "puisque la Terre telle que nous la connaissions a depuis longtemps disparu..."
         ],
         "it": [
-          "... è così che viaggiamo verso spazi che sono lontani,",
+          "... e così che viaggiamo verso spazi che sono lontani,",
           "o completamente scollegati... come i mondi che vedi in questo deposito.",
           "Perché l'universo agisce olograficamente... come abbiamo prima intuito dallo studio dei buchi neri...",
           "Sì, la tua Direttrice ad interim me ne ha parlato...",
@@ -506,16 +506,16 @@
           "Ma, se c'è un posto dove vuoi andare, e sei in grado di duplicare le condizioni sul suo confine,",
           "cambiando il confine del luogo da cui parti, così che i due confini combacino perfettamente,",
           "allora puoi scambiare i due confini e tutto ciò che contengono.",
-          "La quantità di energia richiesta è proporzionale alla superficie del confine,",
+          "La quantità di energia è proporzionale alla superficie,",
           "ma per spazi più piccoli non è davvero così tanta. Non rispetto a quella che abbiamo a disposizione, comunque.",
-          "Curioso come sia iniziato questo filone di ricerca; stavano cercando di capire tutti quei casi storici in cui era piovuto pesce:",
+          "Curioso come sia iniziato questo filone di ricerca: stavano cercando di capire tutti quei casi storici in cui era piovuto pesce:",
           "semplicemente pesce che cadeva dal cielo, un fenomeno naturale confermato più volte,",
           "anche da osservatori affidabili. Nessuna spiegazione plausibile.",
-          "Così un tizio si mette a ragionare su come possa accadere. Elabora questa teoria dello scambio dei confini,",
+          "Così un tizio si mette a ragionare su come possa accadere. Elabora quest'idea dello scambio dei confini,",
           "e anno dopo anno, la fa funzionare su cose minuscole, poi la estende per gestire spazi macroscopici e infine di dimensioni umane.",
           "E ora possiamo viaggiare.",
           "Ma alla fine si rese conto che lo scambio di confini non spiegava la pioggia di pesci.",
-          "I confini sarebbero stati semplicemente troppo diversi; impossibili da far combaciare.",
+          "Le condizioni al contorno sarebbero state semplicemente troppo diverse: impossibile farle combaciare.",
           "Quindi questo è un mistero che non abbiamo mai risolto, e non lo faremo tanto presto,",
           "visto che la Terra, come la conoscevamo, è ormai scomparsa da molto tempo..."
         ],
@@ -544,26 +544,26 @@
           "私たちが知っていた地球は、 もうずっと前になくなってしまったからな…"
         ],
         "ko": [
-          "... 그런 식으로 아주 멀리 떨어져 있는 공간으로 이동하는 거야.",
+          "... 그런 식으로 아주 멀리 떨어져 있거나",
           "완전히 단절된 공간으로 이동하는 거야. 이 창고에서 볼 수 있는 세계들처럼.",
           "우주는 홀로그램처럼 작동하거든. 우리가 블랙홀 연구를 통해 처음 알아낸 것처럼...",
-          "네, 당신의 대리 감독관에게 그 얘기는 들었습니다...",
+          "네, 대리 감독관에게 그 얘기는 들었습니다...",
           "너희에게도 그런 게 있을 것 같아. 아직 못 찾았을 뿐이겠지.",
           "어쨌든 요점은 이거야. 하나의 공간 영역 안에 있는 모든 것은 경계의 어떤 정보에 의해 결정된다는 거지.",
           "그 정보가 정확히 무엇인지 설명하긴 어려워. 온통 뒤섞여 있으니까.",
           "하지만 가고 싶은 곳이 있고, 그 경계의 조건을 복제할 수 있다면",
           "지금 있는 장소의 경계를 바꿔서 두 경계가 정확히 일치하게 만들면...",
           "두 경계와 그 안의 모든 내용을 서로 바꿀 수 있습니다.",
-          "필요한 에너지의 양은 경계의 표면적에 비례하지만",
+          "필요한 에너지의 양은 표면적에 비례하지만",
           "작은 공간이라면 그리 많은 양은 아니야. 적어도 우리가 쓸 수 있는 에너지에 비하면.",
-          "이 연구가 어떻게 시작됐는지를 생각하면 재미있어. 사람들은 과거에 하늘에서 물고기가 쏟아졌던 여러 사례를 해명하려 하고 있었어.",
+          "이 연구가 어떻게 시작됐는지를 생각하면 재미있어. 사람들은 과거에 하늘에서 물고기가 쏟아졌던 여러 사례를 해명하려 했어.",
           "말 그대로 하늘에서 물고기가 떨어지는 현상. 역사 속 여러 시기에",
           "신뢰할 만한 목격자도 있었지만, 그럴듯한 설명은 없었어.",
           "그래서 어떤 사람이 어떻게 이게 가능한지 진지하게 고민하다가 경계를 맞바꾸는 아이디어를 떠올렸어.",
           "그리고 몇 년 뒤, 아주 작은 것에 적용하는 데 성공했어. 그 기술을 점차 발전시켜서 결국엔 인간 크기의 공간까지 다룰 수 있게 만들었지.",
           "그리고 이제 우리는 이동할 수 있게 됐어.",
           "하지만 결국 그 사람도 경계를 바꾸는 게 물고기가 내리는 현상을 설명하진 못한다는 걸 깨달았어.",
-          "경계가 너무 달랐을 거야; 서로 맞출 수 없을 만큼.",
+          "경계 조건이 너무 달랐을 거야; 서로 맞출 수 없을 만큼.",
           "그래서 그건 우리가 풀지 못한 미스터리로 남았고, 앞으로도 한동안은 풀리지 않을 거야.",
           "우리가 알던 지구는 이제 오래전에 사라졌으니까..."
         ],
@@ -578,7 +578,7 @@
           "Mas, se houver algum lugar para onde você queira ir, e conseguir duplicar as condições na fronteira dele,",
           "ao mudar a fronteira do lugar de onde você está partindo, de modo que as duas fronteiras coincidam exatamente,",
           "então você pode trocar as duas fronteiras e todo o conteúdo nelas.",
-          "A quantidade de energia necessária é proporcional à área da superfície da fronteira,",
+          "A quantidade de energia é proporcional à área da superfície,",
           "mas isso não é realmente tanto para espaços menores. Pelo menos em comparação com o que temos disponível.",
           "Engraçado como essa linha de investigação começou; eles estavam tentando esclarecer todos esses casos históricos em que choviam peixes:",
           "só peixes caindo do céu, um fenômeno natural confirmado repetidas vezes,",
@@ -587,7 +587,7 @@
           "e, depois de anos, faz isso funcionar em coisas minúsculas. Ele amplia até conseguir lidar com espaços macroscópicos e, por fim, do tamanho de um ser humano.",
           "E agora podemos viajar.",
           "Mas, no fim, ele percebeu que a troca de fronteiras não explicava a chuva de peixes.",
-          "As fronteiras seriam simplesmente diferentes demais; incompatíveis.",
+          "As condições de contorno teriam sido simplesmente diferentes demais; incompatíveis.",
           "Então esse é um mistério que nunca resolvemos, e não vamos resolver tão cedo,",
           "já que a Terra como a conhecíamos já se foi há muito tempo..."
         ],
@@ -595,14 +595,14 @@
           "...и вот так мы путешествуем в пространства, которые далеко,",
           "или полностью оторваны друг от друга — как миры, которые ты видишь в этом складе.",
           "Потому что вселенная действует голографически — как мы впервые поняли из изучения чёрных дыр —",
-          "Да, ваша и. о. директора рассказывала мне о них...",
+          "Да, ваша И.О. Директора рассказывала о них...",
           "Полагаю, у вас они тоже есть, просто вы их ещё не нашли.",
           "В общем, суть в том, что всё внутри объёма пространства определяется какой-то информацией на границе.",
           "Точную природу этой информации трудно объяснить, потому что всё там перемешано.",
           "Но если есть место, куда ты хочешь попасть, и ты можешь воспроизвести условия на его границе,",
           "изменяя границу места, откуда начинаешь, так, чтобы обе границы точно совпали —",
           "тогда можно поменять местами обе границы и всё, что находится внутри них.",
-          "Количество требуемой энергии пропорционально площади поверхности границы,",
+          "Количество энергии пропорционально площади поверхности,",
           "но для меньших пространств это не так уж много. Во всяком случае, по сравнению с тем, что у нас есть.",
           "Забавно, с чего начались эти поиски: они пытались разобраться со всеми этими историческими случаями, когда с неба шёл рыбный дождь —",
           "просто рыба падала с неба, природное явление, неоднократно подтверждённое,",
@@ -611,7 +611,7 @@
           "а спустя годы опробовал её на крошечных объектах. Он развил её до макроскопических, а затем и человеческих пространств.",
           "И теперь мы можем путешествовать.",
           "Но в конце концов он понял, что обмен границами всё же не объясняет дождь из рыбы.",
-          "Границы были бы просто слишком разными; несовместимыми.",
+          "Граничные условия были бы просто слишком разными; несовместимыми.",
           "Так что это загадка, которую мы так и не решили, и вряд ли решим скоро,",
           "поскольку Земля, какой мы её знали, теперь давно исчезла..."
         ],

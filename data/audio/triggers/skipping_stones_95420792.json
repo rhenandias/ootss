@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_built_in_3",
+    "audioKey": "skipping_stones_95420792",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_built_in_3"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 95420792,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_built_in_3",
+        "rule": "exact-reference",
+        "coordinates": [
+          52.0,
+          14.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_built_in_3",
+      "clips": [
+        {
+          "id": "ssnew_built_in_3_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 12.240687,
+          "src": "audio/clips/ssnew_built_in_3_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So these famous interdictions, that *feel* like super-powerful magic, are just self-sabotage.",
+              "No enemy would self-sabotage. So actually, this would be useless in a battle?"
+            ],
+            "de": [
+              "Diese berühmten Interdikte, die sich wie übermächtige Magie anfühlen, sind also bloß Selbstsabotage.",
+              "Kein Feind würde sich selbst sabotieren. Im Kampf wären sie also nutzlos?"
+            ],
+            "es": [
+              "Entonces, los famosos vetos, que parecen magia superpoderosa, solo son autosabotaje.",
+              "Ningún enemigo se sabotearía a sí mismo. ¿Entonces serían inútiles en una batalla?"
+            ],
+            "fr": [
+              "Donc ces fameuses interdictions, qui ressemblent à de la magie surpuissante, ne sont que de l'auto-sabotage.",
+              "Aucun ennemi ne se saboterait lui-même. Donc, elles seraient inutiles au combat ?"
+            ],
+            "it": [
+              "Quindi queste famose interdizioni, che sembrano una magia superpotente, sono solo autosabotaggio.",
+              "Nessun nemico si saboterebbe da solo. Perciò sarebbero inutili in battaglia?"
+            ],
+            "ja": [
+              "魔法のようだと有名な あの封印は…",
+              "あたしたちの船を止めることしかしない。 戦争じゃ使えないのかい？"
+            ],
+            "ko": [
+              "그럼 엄청나게 강력한 마법처럼 보이던 그 유명한 금제라는 게 그냥 스스로 발목을 잡는 행위에 불과하단 거네.",
+              "적이 스스로를 해칠 리는 없잖아. 그럼 전쟁에선 쓸모없는 거 아냐?"
+            ],
+            "pt-br": [
+              "Então essas famosas interdições, que parecem magia superpoderosa, são só autossabotagem.",
+              "Nenhum inimigo se sabotaria. Então isso seria inútil numa batalha?"
+            ],
+            "ru": [
+              "Значит, эти знаменитые запреты, которые ощущаются как супермощная магия, — всего лишь вредительство самим себе.",
+              "Ни один враг не станет вредить самому себе. Выходит, в бою они бесполезны?"
+            ],
+            "s-cn": [
+              "所以，那些大名鼎鼎、让人觉得威力无穷的阻航阵，原来不过是自废武功。",
+              "敌人可不会自废武功。所以真打起仗来，这东西根本没用？"
+            ],
+            "t-cn": [
+              "所以，那些大名鼎鼎、讓人覺得威力無窮的阻航陣， 原來不過是自廢武功。",
+              "敵人可不會自廢武功。 所以真打起仗來，這東西根本沒用？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_3_1__sailor.wav",
+            "subtitleCueLines": [
+              4634,
+              4640
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_3_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.019083,
+          "src": "audio/clips/ssnew_built_in_3_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Indeed."
+            ],
+            "de": [
+              "Allerdings."
+            ],
+            "es": [
+              "Exactamente."
+            ],
+            "fr": [
+              "En effet."
+            ],
+            "it": [
+              "Esatto."
+            ],
+            "ja": [
+              "ああ。"
+            ],
+            "ko": [
+              "그렇지."
+            ],
+            "pt-br": [
+              "De fato."
+            ],
+            "ru": [
+              "Именно."
+            ],
+            "s-cn": [
+              "的确。"
+            ],
+            "t-cn": [
+              "的確。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_3_2__boat.wav",
+            "subtitleCueLines": [
+              4644
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_3_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 7.279729,
+          "src": "audio/clips/ssnew_built_in_3_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "But the public perception is that the interdiction is a combat weapon.",
+              "Wait. Are you allowed to tell *me* this?"
+            ],
+            "de": [
+              "Aber die Leute glauben doch, dass ein Interdikt eine Kampfwaffe ist.",
+              "Moment. Darfst du mir das überhaupt erzählen?"
+            ],
+            "es": [
+              "Pero la gente cree que el veto es un arma de combate.",
+              "Espera. ¿Te permiten contarme esto a mí?"
+            ],
+            "fr": [
+              "Mais aux yeux du public, l'interdiction est une arme de guerre.",
+              "Attends. Tu as le droit de me dire ça ?"
+            ],
+            "it": [
+              "Ma la gente è convinta che l'interdizione sia un'arma da combattimento.",
+              "Aspetta. Ti è permesso dirmi questo?"
+            ],
+            "ja": [
+              "でも世間では、封印は 戦闘用の武器だと思われてる。",
+              "じゃあなんで世間は知らないの？ そもそもアタシに話していいの？"
+            ],
+            "ko": [
+              "하지만 사람들은 그 금제 마법을 전투용 무기로 알고 있어.",
+              "잠깐. 넌 그걸 나한테 말해도 되는 거야?"
+            ],
+            "pt-br": [
+              "Mas a percepção pública é de que a interdição é uma arma de combate.",
+              "Espere. Você tem permissão para me contar isso?"
+            ],
+            "ru": [
+              "Но в народе считается, что запрет служит боевым оружием.",
+              "Погоди. Тебе вообще позволено рассказывать это мне?"
+            ],
+            "s-cn": [
+              "可大家都以为，阻航阵是打仗用的武器啊。",
+              "等等，这事你能告诉我吗？"
+            ],
+            "t-cn": [
+              "可大家都以為，阻航陣是打仗用的武器啊。",
+              "等等，這事你能告訴我嗎？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_3_3__sailor.wav",
+            "subtitleCueLines": [
+              4647,
+              4651
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_3_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 13.577521,
+          "src": "audio/clips/ssnew_built_in_3_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "If we die here, then it didn't matter, eh. As for the public, it's a boring rumor.",
+              "False tales of interdictions stopping an invasion fleet cold in the water -- now those are exciting!"
+            ],
+            "de": [
+              "Wenn wir hier sterben, ist es ja eh egal. Und was die Öffentlichkeit angeht, ist es nur ein langweiliges Gerücht.",
+              "Erfundene Geschichten von Interdikten, die eine Invasionsflotte mitten auf dem Wasser zum Stillstand bringen ... Das ist spannend!"
+            ],
+            "es": [
+              "Si morimos aquí, entonces dará igual, ¿no? En cuanto al público, es un rumor aburrido.",
+              "Relatos falsos de vetos que detienen en seco a una flota invasora en el agua... ¡esos sí que son emocionantes!"
+            ],
+            "fr": [
+              "Si on meurt ici, ça n'aura aucune importance de toute façon. Quant au public, ça ne l'intéresserait pas.",
+              "De fausses histoires d'interdictions arrêtant net une flotte d'invasion en pleine mer – ça, c'est passionnant !"
+            ],
+            "it": [
+              "Se moriamo qui, non avrà avuto importanza, eh. Quanto agli altri, è una diceria noiosa.",
+              "Storie false di interdizioni che bloccano sul colpo una flotta d'invasione in acqua... quelle sì che sono emozionanti!"
+            ],
+            "ja": [
+              "ここで死ねば話したって同じだ。 世間については、",
+              "侵略艦隊を止めたという 話に比べれば。"
+            ],
+            "ko": [
+              "우리가 여기서 죽는다면 어차피 아무 의미도 없잖아. 대중들 입장에선, 따분한 소문일 뿐이야.",
+              "금제가 침략 함대를 물 위에서 꼼짝 못 하게 막았다는 거짓 이야기들... 그런 건 흥미진진하지!"
+            ],
+            "pt-br": [
+              "Se morrermos aqui, então tanto faz, hein. Quanto ao público, é um boato sem graça.",
+              "Histórias falsas de interditos que param uma frota invasora em pleno mar... essas sim são emocionantes!"
+            ],
+            "ru": [
+              "Если мы здесь умрем, это уже не будет иметь значения, а? Что до публики, для неё это скучный слух.",
+              "Лживые байки о запретах, намертво останавливающих вражеский флот в воде, — вот это захватывающе!"
+            ],
+            "s-cn": [
+              "万一我们死在这儿，说了也无妨。至于外头的人嘛，这不过是条无聊的传言。",
+              "那些关于阻航阵让入侵舰队在水面上戛然而止的虚假传说——那才叫精彩呢！"
+            ],
+            "t-cn": [
+              "萬一我們死在這兒，說了也無妨。 至於外頭的人嘛，這不過是條無聊的傳言。",
+              "那些關於阻航陣讓入侵艦隊在水面上戛然而止的虛假傳說—— 那才叫精彩呢！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_3_4__boat.wav",
+            "subtitleCueLines": [
+              4655,
+              4659
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "So these famous interdictions, that *feel* like super-powerful magic, are just self-sabotage.",
+          "No enemy would self-sabotage. So actually, this would be useless in a battle?",
+          "Indeed.",
+          "But the public perception is that the interdiction is a combat weapon.",
+          "Wait. Are you allowed to tell *me* this?",
+          "If we die here, then it didn't matter, eh. As for the public, it's a boring rumor.",
+          "False tales of interdictions stopping an invasion fleet cold in the water -- now those are exciting!"
+        ],
+        "de": [
+          "Diese berühmten Interdikte, die sich wie übermächtige Magie anfühlen, sind also bloß Selbstsabotage.",
+          "Kein Feind würde sich selbst sabotieren. Im Kampf wären sie also nutzlos?",
+          "Allerdings.",
+          "Aber die Leute glauben doch, dass ein Interdikt eine Kampfwaffe ist.",
+          "Moment. Darfst du mir das überhaupt erzählen?",
+          "Wenn wir hier sterben, ist es ja eh egal. Und was die Öffentlichkeit angeht, ist es nur ein langweiliges Gerücht.",
+          "Erfundene Geschichten von Interdikten, die eine Invasionsflotte mitten auf dem Wasser zum Stillstand bringen ... Das ist spannend!"
+        ],
+        "es": [
+          "Entonces, los famosos vetos, que parecen magia superpoderosa, solo son autosabotaje.",
+          "Ningún enemigo se sabotearía a sí mismo. ¿Entonces serían inútiles en una batalla?",
+          "Exactamente.",
+          "Pero la gente cree que el veto es un arma de combate.",
+          "Espera. ¿Te permiten contarme esto a mí?",
+          "Si morimos aquí, entonces dará igual, ¿no? En cuanto al público, es un rumor aburrido.",
+          "Relatos falsos de vetos que detienen en seco a una flota invasora en el agua... ¡esos sí que son emocionantes!"
+        ],
+        "fr": [
+          "Donc ces fameuses interdictions, qui ressemblent à de la magie surpuissante, ne sont que de l'auto-sabotage.",
+          "Aucun ennemi ne se saboterait lui-même. Donc, elles seraient inutiles au combat ?",
+          "En effet.",
+          "Mais aux yeux du public, l'interdiction est une arme de guerre.",
+          "Attends. Tu as le droit de me dire ça ?",
+          "Si on meurt ici, ça n'aura aucune importance de toute façon. Quant au public, ça ne l'intéresserait pas.",
+          "De fausses histoires d'interdictions arrêtant net une flotte d'invasion en pleine mer – ça, c'est passionnant !"
+        ],
+        "it": [
+          "Quindi queste famose interdizioni, che sembrano una magia superpotente, sono solo autosabotaggio.",
+          "Nessun nemico si saboterebbe da solo. Perciò sarebbero inutili in battaglia?",
+          "Esatto.",
+          "Ma la gente è convinta che l'interdizione sia un'arma da combattimento.",
+          "Aspetta. Ti è permesso dirmi questo?",
+          "Se moriamo qui, non avrà avuto importanza, eh. Quanto agli altri, è una diceria noiosa.",
+          "Storie false di interdizioni che bloccano sul colpo una flotta d'invasione in acqua... quelle sì che sono emozionanti!"
+        ],
+        "ja": [
+          "魔法のようだと有名な あの封印は…",
+          "あたしたちの船を止めることしかしない。 戦争じゃ使えないのかい？",
+          "ああ。",
+          "でも世間では、封印は 戦闘用の武器だと思われてる。",
+          "じゃあなんで世間は知らないの？ そもそもアタシに話していいの？",
+          "ここで死ねば話したって同じだ。 世間については、",
+          "侵略艦隊を止めたという 話に比べれば。"
+        ],
+        "ko": [
+          "그럼 엄청나게 강력한 마법처럼 보이던 그 유명한 금제라는 게 그냥 스스로 발목을 잡는 행위에 불과하단 거네.",
+          "적이 스스로를 해칠 리는 없잖아. 그럼 전쟁에선 쓸모없는 거 아냐?",
+          "그렇지.",
+          "하지만 사람들은 그 금제 마법을 전투용 무기로 알고 있어.",
+          "잠깐. 넌 그걸 나한테 말해도 되는 거야?",
+          "우리가 여기서 죽는다면 어차피 아무 의미도 없잖아. 대중들 입장에선, 따분한 소문일 뿐이야.",
+          "금제가 침략 함대를 물 위에서 꼼짝 못 하게 막았다는 거짓 이야기들... 그런 건 흥미진진하지!"
+        ],
+        "pt-br": [
+          "Então essas famosas interdições, que parecem magia superpoderosa, são só autossabotagem.",
+          "Nenhum inimigo se sabotaria. Então isso seria inútil numa batalha?",
+          "De fato.",
+          "Mas a percepção pública é de que a interdição é uma arma de combate.",
+          "Espere. Você tem permissão para me contar isso?",
+          "Se morrermos aqui, então tanto faz, hein. Quanto ao público, é um boato sem graça.",
+          "Histórias falsas de interditos que param uma frota invasora em pleno mar... essas sim são emocionantes!"
+        ],
+        "ru": [
+          "Значит, эти знаменитые запреты, которые ощущаются как супермощная магия, — всего лишь вредительство самим себе.",
+          "Ни один враг не станет вредить самому себе. Выходит, в бою они бесполезны?",
+          "Именно.",
+          "Но в народе считается, что запрет служит боевым оружием.",
+          "Погоди. Тебе вообще позволено рассказывать это мне?",
+          "Если мы здесь умрем, это уже не будет иметь значения, а? Что до публики, для неё это скучный слух.",
+          "Лживые байки о запретах, намертво останавливающих вражеский флот в воде, — вот это захватывающе!"
+        ],
+        "s-cn": [
+          "所以，那些大名鼎鼎、让人觉得威力无穷的阻航阵，原来不过是自废武功。",
+          "敌人可不会自废武功。所以真打起仗来，这东西根本没用？",
+          "的确。",
+          "可大家都以为，阻航阵是打仗用的武器啊。",
+          "等等，这事你能告诉我吗？",
+          "万一我们死在这儿，说了也无妨。至于外头的人嘛，这不过是条无聊的传言。",
+          "那些关于阻航阵让入侵舰队在水面上戛然而止的虚假传说——那才叫精彩呢！"
+        ],
+        "t-cn": [
+          "所以，那些大名鼎鼎、讓人覺得威力無窮的阻航陣， 原來不過是自廢武功。",
+          "敵人可不會自廢武功。 所以真打起仗來，這東西根本沒用？",
+          "的確。",
+          "可大家都以為，阻航陣是打仗用的武器啊。",
+          "等等，這事你能告訴我嗎？",
+          "萬一我們死在這兒，說了也無妨。 至於外頭的人嘛，這不過是條無聊的傳言。",
+          "那些關於阻航陣讓入侵艦隊在水面上戛然而止的虛假傳說—— 那才叫精彩呢！"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

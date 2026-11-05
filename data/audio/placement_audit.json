@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "placedBlocks": 534,
+  "placedBlocks": 565,
   "unplacedBlocks": [
     {
       "block": "heroes2_wizard_priestess_mid",
@@ -15,50 +15,6 @@
       "sourceLevels": [],
       "directSourceLevels": [],
       "reason": "no-structured-reference"
-    },
-    {
-      "block": "intro_1",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_before_teleporter",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_g_musing_on_fast_travel",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "overworld"
-      ],
-      "reason": "outside-current-tiles"
-    },
-    {
-      "block": "audiolog_g_substrate",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "overworld"
-      ],
-      "reason": "outside-current-tiles"
     },
     {
       "block": "mirror_3",
@@ -87,94 +43,6 @@
       "sourceLevels": [],
       "directSourceLevels": [],
       "reason": "no-structured-reference"
-    },
-    {
-      "block": "intro_queen_am_i_dead",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_queen_callout_alt",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_queen_foreign_script",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_queen_sign",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_queen_hosts_1",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_queen_hosts_2",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_queen_hosts_3",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "intro_queen_teleporter",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
     },
     {
       "block": "hw_thief_wizard",
@@ -293,197 +161,6 @@
       "reason": "namespace-without-spatial-anchor"
     },
     {
-      "block": "audiolog_di_catching_up_v0",
-      "recordings": 1,
-      "sourceLevels": [
-        "catching_up_v0",
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "catching_up_v0"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_catching_up_v0_part_2",
-      "recordings": 1,
-      "sourceLevels": [
-        "catching_up_v0",
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "catching_up_v0"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_heroes_1_7",
-      "recordings": 1,
-      "sourceLevels": [
-        "heroes1_7",
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "heroes1_7"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_strategic_stack",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "strategic_stack"
-      ],
-      "directSourceLevels": [
-        "strategic_stack"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_torcher",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "torcher"
-      ],
-      "directSourceLevels": [
-        "torcher"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_quad_torch_v1",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "quad_torch_v1"
-      ],
-      "directSourceLevels": [
-        "quad_torch_v1"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_height_chooser",
-      "recordings": 1,
-      "sourceLevels": [
-        "height_chooser",
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "height_chooser"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_push_down_a_lot",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "push_down_a_lot"
-      ],
-      "directSourceLevels": [
-        "push_down_a_lot"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_across_the_fence_old",
-      "recordings": 1,
-      "sourceLevels": [
-        "across_the_fence_old",
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "across_the_fence_old"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_sender",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "sender"
-      ],
-      "directSourceLevels": [
-        "sender"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_sender_simplified",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "sender_simplified"
-      ],
-      "directSourceLevels": [
-        "sender_simplified"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_worlds_collide_heroes_and_promesst",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "worlds_collide_heroes_and_promesst"
-      ],
-      "directSourceLevels": [
-        "worlds_collide_heroes_and_promesst"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_worlds_collide_heroes_and_promesst_v2",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "worlds_collide_heroes_and_promesst_v2"
-      ],
-      "directSourceLevels": [
-        "worlds_collide_heroes_and_promesst_v2"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_worlds_collide_heroes_and_promesst_v3",
-      "recordings": 1,
-      "sourceLevels": [
-        "overworld",
-        "worlds_collide_heroes_and_promesst_v3"
-      ],
-      "directSourceLevels": [
-        "worlds_collide_heroes_and_promesst_v3"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "audiolog_di_lily_wearing_intro",
-      "recordings": 1,
-      "sourceLevels": [
-        "lily_wearing_intro",
-        "overworld"
-      ],
-      "directSourceLevels": [
-        "lily_wearing_intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "paradise_lost_invocation_credits",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
       "block": "end3_mirror_isles_first",
       "recordings": 1,
       "sourceLevels": [
@@ -491,52 +168,9 @@
       ],
       "directSourceLevels": [],
       "reason": "namespace-without-spatial-anchor"
-    },
-    {
-      "block": "paradise_lost_invocation_2",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
-    },
-    {
-      "block": "actor_credits",
-      "recordings": 1,
-      "sourceLevels": [
-        "intro"
-      ],
-      "directSourceLevels": [
-        "intro"
-      ],
-      "reason": "only-unmapped-levels"
     }
   ],
-  "excludedWorldAnchors": [
-    {
-      "block": "audiolog_g_musing_on_fast_travel",
-      "entityId": 115515423,
-      "reason": "outside-current-tiles",
-      "coordinates": [
-        57.0,
-        117.0,
-        89.0
-      ]
-    },
-    {
-      "block": "audiolog_g_substrate",
-      "entityId": 115515424,
-      "reason": "outside-current-tiles",
-      "coordinates": [
-        51.0,
-        113.0,
-        89.0
-      ]
-    }
-  ],
+  "excludedWorldAnchors": [],
   "locations": {
     "3d_intro_carry": [
       {
@@ -610,6 +244,21 @@
         "level": "sister_staircase_harder"
       }
     ],
+    "actor_credits": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115345817,
+        "coordinates": [
+          11.0,
+          2.0,
+          2.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
     "all_together_now_reassembly_1": [
       {
         "kind": "level",
@@ -622,10 +271,28 @@
         "level": "all_together_now"
       }
     ],
+    "audiolog_di_across_the_fence_old": [
+      {
+        "kind": "level",
+        "level": "across_the_fence_old"
+      }
+    ],
     "audiolog_di_across_the_fence_vtrader_m_p": [
       {
         "kind": "level",
         "level": "across_the_fence_vtrader_m_p"
+      }
+    ],
+    "audiolog_di_catching_up_v0": [
+      {
+        "kind": "level",
+        "level": "catching_up_v0"
+      }
+    ],
+    "audiolog_di_catching_up_v0_part_2": [
+      {
+        "kind": "level",
+        "level": "catching_up_v0"
       }
     ],
     "audiolog_di_catching_up_v2": [
@@ -634,16 +301,40 @@
         "level": "catching_up_v2"
       }
     ],
+    "audiolog_di_height_chooser": [
+      {
+        "kind": "level",
+        "level": "height_chooser"
+      }
+    ],
     "audiolog_di_height_chooser_v0": [
       {
         "kind": "level",
         "level": "height_chooser_v0"
       }
     ],
+    "audiolog_di_heroes_1_7": [
+      {
+        "kind": "level",
+        "level": "heroes1_7"
+      }
+    ],
     "audiolog_di_heroes_1_7_v2": [
       {
         "kind": "level",
         "level": "heroes1_7_v2"
+      }
+    ],
+    "audiolog_di_lily_wearing_intro": [
+      {
+        "kind": "level",
+        "level": "lily_wearing_intro"
+      }
+    ],
+    "audiolog_di_push_down_a_lot": [
+      {
+        "kind": "level",
+        "level": "push_down_a_lot"
       }
     ],
     "audiolog_di_push_down_a_lot_small": [
@@ -658,10 +349,34 @@
         "level": "quad_torch"
       }
     ],
+    "audiolog_di_quad_torch_v1": [
+      {
+        "kind": "level",
+        "level": "quad_torch_v1"
+      }
+    ],
+    "audiolog_di_sender": [
+      {
+        "kind": "level",
+        "level": "sender"
+      }
+    ],
+    "audiolog_di_sender_simplified": [
+      {
+        "kind": "level",
+        "level": "sender_simplified"
+      }
+    ],
     "audiolog_di_sender_simplified_v2": [
       {
         "kind": "level",
         "level": "sender_simplified_v2"
+      }
+    ],
+    "audiolog_di_strategic_stack": [
+      {
+        "kind": "level",
+        "level": "strategic_stack"
       }
     ],
     "audiolog_di_tiger_lily_v2": [
@@ -670,10 +385,34 @@
         "level": "tiger_lily_v2"
       }
     ],
+    "audiolog_di_torcher": [
+      {
+        "kind": "level",
+        "level": "torcher"
+      }
+    ],
     "audiolog_di_triple_gate": [
       {
         "kind": "level",
         "level": "triple_gate"
+      }
+    ],
+    "audiolog_di_worlds_collide_heroes_and_promesst": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst"
+      }
+    ],
+    "audiolog_di_worlds_collide_heroes_and_promesst_v2": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v2"
+      }
+    ],
+    "audiolog_di_worlds_collide_heroes_and_promesst_v3": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v3"
       }
     ],
     "audiolog_di_worlds_collide_heroes_and_promesst_v4": [
@@ -690,6 +429,10 @@
           76.0,
           18.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -701,6 +444,10 @@
           -19.0,
           145.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -712,6 +459,10 @@
           126.0,
           5.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -723,6 +474,10 @@
           96.0,
           93.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -734,6 +489,25 @@
           54.0,
           47.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
+        ]
+      }
+    ],
+    "audiolog_g_musing_on_fast_travel": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115515423,
+        "coordinates": [
+          57.0,
+          117.0,
+          89.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "minimap"
         ]
       }
     ],
@@ -745,6 +519,10 @@
           62.0,
           24.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -756,6 +534,10 @@
           103.0,
           26.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -767,6 +549,25 @@
           73.0,
           97.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
+        ]
+      }
+    ],
+    "audiolog_g_substrate": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115515424,
+        "coordinates": [
+          51.0,
+          113.0,
+          89.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "minimap"
         ]
       }
     ],
@@ -778,6 +579,10 @@
           108.0,
           66.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -789,6 +594,10 @@
           48.0,
           111.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -800,6 +609,10 @@
           16.0,
           110.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -811,6 +624,10 @@
           28.0,
           122.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -822,6 +639,10 @@
           120.0,
           130.0,
           36.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -833,6 +654,10 @@
           80.0,
           91.0,
           35.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -844,6 +669,10 @@
           85.0,
           97.0,
           36.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -855,6 +684,10 @@
           74.0,
           97.0,
           36.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -866,10 +699,27 @@
           70.0,
           95.0,
           35.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
     "audiolog_sky_10000_things": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115345347,
+        "coordinates": [
+          3.0,
+          26.0,
+          1.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      },
       {
         "kind": "Voice_Log",
         "entityId": 115515943,
@@ -877,6 +727,10 @@
           139.0,
           77.0,
           34.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -888,6 +742,10 @@
           21.0,
           54.0,
           36.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -899,6 +757,10 @@
           16.0,
           53.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -910,6 +772,10 @@
           28.0,
           27.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -921,6 +787,10 @@
           45.0,
           28.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -932,6 +802,10 @@
           122.0,
           38.0,
           25.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -943,6 +817,10 @@
           110.0,
           21.0,
           25.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -954,10 +832,27 @@
           -15.0,
           141.0,
           47.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
     "audiolog_sky_laws_of_form": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115345348,
+        "coordinates": [
+          6.0,
+          26.0,
+          1.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      },
       {
         "kind": "Voice_Log",
         "entityId": 115593617,
@@ -965,6 +860,10 @@
           150.0,
           118.0,
           34.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -976,6 +875,10 @@
           89.0,
           31.0,
           25.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -987,6 +890,10 @@
           76.0,
           25.0,
           22.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -998,6 +905,10 @@
           104.0,
           19.0,
           19.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1009,6 +920,10 @@
           29.0,
           78.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1020,6 +935,10 @@
           16.0,
           79.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1031,6 +950,10 @@
           14.0,
           81.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1042,6 +965,10 @@
           19.0,
           86.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1053,6 +980,10 @@
           29.0,
           96.0,
           37.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1064,6 +995,10 @@
           86.0,
           71.0,
           33.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1075,6 +1010,10 @@
           39.0,
           50.0,
           38.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1086,6 +1025,10 @@
           138.0,
           56.0,
           34.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1097,6 +1040,10 @@
           122.0,
           47.0,
           33.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1108,6 +1055,10 @@
           89.0,
           81.0,
           33.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1119,6 +1070,10 @@
           89.0,
           41.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1130,6 +1085,10 @@
           108.0,
           42.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1141,6 +1100,10 @@
           -2.0,
           52.0,
           -22.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1152,10 +1115,27 @@
           6.0,
           49.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
     "audiolog_u_computation": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115345448,
+        "coordinates": [
+          82.0,
+          26.0,
+          1.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      },
       {
         "kind": "Voice_Log",
         "entityId": 115567878,
@@ -1163,6 +1143,10 @@
           120.0,
           121.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1174,6 +1158,10 @@
           23.0,
           40.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1185,6 +1173,10 @@
           46.0,
           43.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1196,6 +1188,10 @@
           34.0,
           33.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1207,6 +1203,10 @@
           34.0,
           20.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1218,6 +1218,10 @@
           43.0,
           21.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1229,6 +1233,10 @@
           57.0,
           109.0,
           -17.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1240,6 +1248,10 @@
           -21.0,
           134.0,
           -24.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1251,6 +1263,10 @@
           76.0,
           69.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1262,6 +1278,10 @@
           72.0,
           107.0,
           -18.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1273,6 +1293,10 @@
           160.0,
           95.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1284,6 +1308,10 @@
           163.0,
           132.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1295,6 +1323,10 @@
           163.0,
           149.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1306,6 +1338,10 @@
           91.0,
           81.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1377,6 +1413,10 @@
           137.0,
           133.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1388,6 +1428,10 @@
           137.0,
           134.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1417,6 +1461,10 @@
           -14.0,
           147.0,
           44.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1428,6 +1476,10 @@
           -16.0,
           147.0,
           44.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -1465,6 +1517,10 @@
           27.848291397094727,
           71.38005065917969,
           0.7048759460449219
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -1482,6 +1538,10 @@
           -10.0,
           138.0,
           -24.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1493,6 +1553,10 @@
           4.0,
           128.0,
           -24.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1504,6 +1568,10 @@
           9.0,
           107.0,
           -24.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1515,6 +1583,10 @@
           -5.0,
           116.0,
           -24.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -1526,6 +1598,10 @@
           -17.0,
           129.0,
           -24.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -2625,6 +2701,156 @@
         "level": "push_and_pull_zach"
       }
     ],
+    "intro_1": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 106954775,
+        "coordinates": [
+          49.0,
+          2.0,
+          0.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_before_teleporter": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 106954776,
+        "coordinates": [
+          45.0,
+          31.0,
+          0.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_am_i_dead": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 62914935,
+        "coordinates": [
+          45.01565933227539,
+          -16.591981887817383,
+          0.0009613037109375
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_callout_alt": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 62914933,
+        "coordinates": [
+          45.01597595214844,
+          -5.524042129516602,
+          0.0009613037109375
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_foreign_script": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 62914934,
+        "coordinates": [
+          45.0408935546875,
+          3.9416182041168213,
+          0.0009613037109375
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_hosts_1": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 62914936,
+        "coordinates": [
+          52.36692810058594,
+          24.948062896728516,
+          0.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_hosts_2": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 62914937,
+        "coordinates": [
+          57.29898452758789,
+          26.995540618896484,
+          0.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_hosts_3": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115345634,
+        "coordinates": [
+          47.08148193359375,
+          30.457386016845703,
+          0.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_sign": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 111149186,
+        "coordinates": [
+          47.0,
+          10.0,
+          0.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "intro_queen_teleporter": [
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 62914938,
+        "coordinates": [
+          45.003597259521484,
+          47.040748596191406,
+          0.4986610412597656
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
     "like_an_isle": [
       {
         "kind": "level",
@@ -2676,10 +2902,18 @@
     "mirror_new_1_start": [
       {
         "kind": "level",
+        "level": "end2_mirror1"
+      },
+      {
+        "kind": "level",
         "level": "mirror_1"
       }
     ],
     "mirror_oracle_1": [
+      {
+        "kind": "level",
+        "level": "end2_mirror_4_islands_v2"
+      },
       {
         "kind": "level",
         "level": "mirror_4"
@@ -2878,10 +3112,18 @@
     "pals_asking_about_interdicts_1": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_asking_about_interdicts_2": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2890,10 +3132,18 @@
     "pals_borrie": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_deadwaters": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2902,10 +3152,18 @@
     "pals_farguild": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_get_going": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2914,10 +3172,18 @@
     "pals_good_luck": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_interdict_1": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2926,10 +3192,18 @@
     "pals_interdict_2": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_job_1": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2938,10 +3212,18 @@
     "pals_job_2": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_job_3": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2950,10 +3232,18 @@
     "pals_job_4": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_meeting_vedessud": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2962,10 +3252,18 @@
     "pals_rearrival_on_starting_island": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_sailors_not_swapped": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2974,10 +3272,28 @@
     "pals_sailors_swapped": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_start": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
+        "level": "skipping_pals"
+      }
+    ],
+    "pals_start_end3": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2986,10 +3302,18 @@
     "pals_talk_to_vedessud_sailor": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_talk_to_vedessud_surveyor": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -2998,10 +3322,18 @@
     "pals_two": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
       }
     ],
     "pals_where_from_1": [
+      {
+        "kind": "level",
+        "level": "make_shoreline"
+      },
       {
         "kind": "level",
         "level": "skipping_pals"
@@ -3010,7 +3342,41 @@
     "pals_where_from_2": [
       {
         "kind": "level",
+        "level": "make_shoreline"
+      },
+      {
+        "kind": "level",
         "level": "skipping_pals"
+      }
+    ],
+    "paradise_lost_invocation_2": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115344136,
+        "coordinates": [
+          45.0,
+          38.0,
+          0.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
+      }
+    ],
+    "paradise_lost_invocation_credits": [
+      {
+        "kind": "Voice_Log",
+        "entityId": 115345265,
+        "coordinates": [
+          59.0,
+          0.0,
+          2.0
+        ],
+        "sourceLevel": "intro",
+        "mapLayers": [
+          "intro"
+        ]
       }
     ],
     "pre_coda_scene_assembled": [
@@ -3021,6 +3387,10 @@
           74.0,
           71.0,
           33.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "sky"
         ]
       }
     ],
@@ -3440,6 +3810,10 @@
           81.0,
           69.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -3451,6 +3825,10 @@
           -10.0,
           147.0,
           -21.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "underworld"
         ]
       }
     ],
@@ -3462,6 +3840,10 @@
           80.0,
           71.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3473,6 +3855,10 @@
           25.174362182617188,
           107.5031509399414,
           0.027601242065429688
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3484,6 +3870,10 @@
           78.98677062988281,
           38.69783401489258,
           -9.5367431640625e-05
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3495,6 +3885,10 @@
           11.447787284851074,
           104.54940795898438,
           0.027601242065429688
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3506,6 +3900,10 @@
           96.05159759521484,
           92.99176025390625,
           0.08127403259277344
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3517,6 +3915,10 @@
           78.52819061279297,
           105.52556610107422,
           0.8877067565917969
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3528,6 +3930,10 @@
           80.05123901367188,
           79.20914459228516,
           0.8877067565917969
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3539,6 +3945,10 @@
           77.94989013671875,
           95.77153015136719,
           0.5642719268798828
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3550,6 +3960,10 @@
           78.50141143798828,
           99.94235229492188,
           0.5642719268798828
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3579,6 +3993,32 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115343369,
+        "coordinates": [
+          34.0,
+          2.484640121459961,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115343373,
+        "coordinates": [
+          26.0,
+          1.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "skipping_stones_done_treasures_0": [
@@ -3615,18 +4055,57 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115343364,
+        "coordinates": [
+          39.05609893798828,
+          30.82189178466797,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "skipping_stones_island_west_no_treasures": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115343381,
+        "coordinates": [
+          22.942190170288086,
+          55.47844696044922,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "skipping_stones_island_west_yes_treasures": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115343381,
+        "coordinates": [
+          22.942190170288086,
+          55.47844696044922,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "skipping_stones_return_no_impeller": [
@@ -3675,6 +4154,19 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 58720274,
+        "coordinates": [
+          22.0,
+          38.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "skipping_stones_start": [
@@ -3685,6 +4177,19 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1048951,
+        "coordinates": [
+          26.0,
+          64.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "skipping_stones_start_repeat": [
@@ -3695,6 +4200,19 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1048951,
+        "coordinates": [
+          26.0,
+          64.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "skipping_stones_treasures_1": [
@@ -3737,6 +4255,19 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115343365,
+        "coordinates": [
+          21.462316513061523,
+          17.47327995300293,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "sokoban_overworld": [
@@ -3747,6 +4278,10 @@
           81.0,
           71.0,
           0.0
+        ],
+        "sourceLevel": "overworld",
+        "mapLayers": [
+          "overworld"
         ]
       }
     ],
@@ -3890,30 +4425,95 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 94371865,
+        "coordinates": [
+          14.0,
+          34.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_built_in_2": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 115343415,
+        "coordinates": [
+          7.0,
+          21.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_built_in_3": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 95420792,
+        "coordinates": [
+          52.0,
+          14.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_good_place": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1051533,
+        "coordinates": [
+          44.0,
+          21.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_good_place_2": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1051618,
+        "coordinates": [
+          53.0,
+          20.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_heading_west": [
@@ -3938,60 +4538,190 @@
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1048877,
+        "coordinates": [
+          48.0,
+          65.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_interdictions_secret": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 94371848,
+        "coordinates": [
+          73.0,
+          36.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_interdictions_secret_2": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1050721,
+        "coordinates": [
+          62.0,
+          33.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_no_traps": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1049990,
+        "coordinates": [
+          68.0,
+          46.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_please_disable_interdict": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 135266342,
+        "coordinates": [
+          27.143146514892578,
+          10.47806453704834,
+          -0.00545501708984375
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_pre_map": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1048959,
+        "coordinates": [
+          36.0,
+          64.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_tacking": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1050680,
+        "coordinates": [
+          9.0,
+          34.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_traps": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1049133,
+        "coordinates": [
+          52.0,
+          60.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_weather": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 94371881,
+        "coordinates": [
+          51.0,
+          31.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "ssnew_what_do_i_do": [
       {
         "kind": "level",
         "level": "skipping_stones"
+      },
+      {
+        "kind": "Audio_Trigger",
+        "entityId": 1049981,
+        "coordinates": [
+          45.0,
+          45.0,
+          0.0
+        ],
+        "sourceLevel": "skipping_stones",
+        "mapLayers": [
+          "stones"
+        ]
       }
     ],
     "thief_first": [
@@ -4115,16 +4845,28 @@
     "worlds_collide_HP_end": [
       {
         "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v3"
+      },
+      {
+        "kind": "level",
         "level": "worlds_collide_heroes_and_promesst_v4"
       }
     ],
     "worlds_collide_HP_monster_gates_open": [
       {
         "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v3"
+      },
+      {
+        "kind": "level",
         "level": "worlds_collide_heroes_and_promesst_v4"
       }
     ],
     "worlds_collide_HP_start": [
+      {
+        "kind": "level",
+        "level": "worlds_collide_heroes_and_promesst_v3"
+      },
       {
         "kind": "level",
         "level": "worlds_collide_heroes_and_promesst_v4"

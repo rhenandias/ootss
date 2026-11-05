@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "audioLog": "audiolog_u_computation",
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -62,7 +62,7 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_1__director.wav",
             "subtitleCueLines": [
-              14498
+              14508
             ],
             "explicitAudioReference": null
           }
@@ -84,14 +84,14 @@
             ],
             "es": [
               "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
-              "Nunca había visto una representación tan fluida. ¡Qué maravilla!"
+              "nunca había visto una representación tan fluida. ¡Qué maravilla!"
             ],
             "fr": [
               "Ahh, le champ de Clayson. Même si nous ne le connaissons que par des illustrations dans des livres et des journaux ;",
               "je n'ai jamais vu un rendu aussi fluide. Magnifique !"
             ],
             "it": [
-              "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+              "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti,",
               "non ho mai visto una rappresentazione così fluida. Bellissima!"
             ],
             "ja": [
@@ -100,14 +100,14 @@
             ],
             "ko": [
               "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
-              "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!"
+              "이렇게 매끄럽게 구현한 건 처음 보는군요. 아름답습니다!"
             ],
             "pt-br": [
               "Ahh, o campo de Clayson. Embora só o conheçamos por imagens estáticas em livros e papéis;",
               "Nunca vi uma representação tão fluida. Que beleza!"
             ],
             "ru": [
-              "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+              "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях.",
               "Никогда не видел такого плавного изображения. Красота!"
             ],
             "s-cn": [
@@ -122,8 +122,8 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_2__sokoban.wav",
             "subtitleCueLines": [
-              14502,
-              14507
+              14512,
+              14517
             ],
             "explicitAudioReference": null
           }
@@ -144,7 +144,7 @@
             "de": [
               "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
               "wobei der Ausgangszustand selbst stets null ist.",
-              "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+              "Quadriere sie, addiere die zweidimensionale Konstante dieser Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
               "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ..."
             ],
             "es": [
@@ -186,7 +186,7 @@
             "ru": [
               "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
               "где само начальное состояние всегда просто ноль.",
-              "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+              "Возведи в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
               "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли..."
             ],
             "s-cn": [
@@ -205,10 +205,10 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_3__director.wav",
             "subtitleCueLines": [
-              14512,
-              14516,
-              14520,
-              14527
+              14522,
+              14526,
+              14530,
+              14537
             ],
             "explicitAudioReference": null
           }
@@ -257,7 +257,7 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_4__sokoban.wav",
             "subtitleCueLines": [
-              14531
+              14541
             ],
             "explicitAudioReference": null
           }
@@ -315,7 +315,7 @@
               "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
               "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
               "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
-              "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+              "그 복잡성과 구조는 어째서인지 그냥 이미 그 안에 있어. 근본적으로 존재하는 거지.",
               "그럼 이건 어때? 본 적 있어?"
             ],
             "pt-br": [
@@ -350,11 +350,11 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_5__director.wav",
             "subtitleCueLines": [
-              14534,
-              14538,
-              14542,
-              14546,
-              14551
+              14544,
+              14548,
+              14552,
+              14556,
+              14561
             ],
             "explicitAudioReference": null
           }
@@ -403,7 +403,7 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_6__sokoban.wav",
             "subtitleCueLines": [
-              14555
+              14565
             ],
             "explicitAudioReference": null
           }
@@ -496,11 +496,11 @@
           "provenance": {
             "sourceWav": "audiolog_u_computation_7__director.wav",
             "subtitleCueLines": [
-              14558,
-              14562,
-              14566,
-              14570,
-              14574
+              14568,
+              14572,
+              14576,
+              14580,
+              14584
             ],
             "explicitAudioReference": null
           }
@@ -538,7 +538,7 @@
           "Eine so flüssige Darstellung habe ich noch nie gesehen. Wunderschön!",
           "Es ist eines der einfachsten Beispiele dafür, Regeln wiederholt auf einen Zustand anzuwenden –",
           "wobei der Ausgangszustand selbst stets null ist.",
-          "Quadriere die Zahl, addiere die zweidimensionale Konstante für diese Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
+          "Quadriere sie, addiere die zweidimensionale Konstante dieser Position in der Ebene, und das ergibt die neue Zahl. Dann wiederholst du das Ganze.",
           "Sieh nach, wie lange deine Zahl überlebt, und wähle danach die Farbe. Und du siehst ...",
           "Unendliche Details. Unglaubliche Komplexität.",
           "Schön, dass du das verstehst. Ich gebe dir das hier zum Spielen. Was man unbedingt verinnerlichen muss –",
@@ -556,7 +556,7 @@
         "es": [
           "¿Reconoces esto?",
           "Ahh, el campo de Clayson. Aunque solo lo conocemos por imágenes estáticas en libros y documentos;",
-          "Nunca había visto una representación tan fluida. ¡Qué maravilla!",
+          "nunca había visto una representación tan fluida. ¡Qué maravilla!",
           "Es uno de los ejemplos más simples de la aplicación de reglas sobre un estado repetido...",
           "donde el estado inicial en sí mismo es siempre e invariablemente cero.",
           "Eleva al cuadrado, suma la constante bidimensional de esa posición en el plano y ese es el nuevo número; repite el proceso.",
@@ -597,7 +597,7 @@
         ],
         "it": [
           "Riconosci questo?",
-          "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti;",
+          "Ahh, il campo di Clayson. Sebbene lo conosciamo solo attraverso immagini statiche in libri e documenti,",
           "non ho mai visto una rappresentazione così fluida. Bellissima!",
           "È uno degli esempi più semplici di regole applicate ripetutamente a uno stato...",
           "dove lo stato iniziale stesso è semplicemente sempre zero.",
@@ -640,7 +640,7 @@
         "ko": [
           "이걸 알아보겠어?",
           "아, 클레이슨의 장이군요. 우리는 책과 논문에 인쇄된 모습으로만 알고 있습니다.",
-          "이렇게 매끄럽게 구현한 건 처음 봐. 아름다워!",
+          "이렇게 매끄럽게 구현한 건 처음 보는군요. 아름답습니다!",
           "이건 상태에 규칙을 반복 적용하는 가장 단순한 예시 중 하나야.",
           "시작 상태 자체는 항상 0이지.",
           "그걸 제곱하고 평면에서의 위치에 해당하는 2차원 상수를 더하면 새로운 수가 나오고, 그걸 반복하는 거야.",
@@ -649,7 +649,7 @@
           "이해했다니 다행이야. 가지고 놀 수 있게 이걸 줄게. 중요한 건 이 사실을 마음에 새기는 거야...",
           "더욱 깊이 이해하려고 노력하면서 거듭거듭 받아들여야 하지...",
           "즉 수학은 아주 단순하니까, 당연히 그 복잡성은 우리가 직접 집어넣은 게 아니라는 거야.",
-          "그 복잡성과 구조는 어째서인지 그냥 그 안에 있어. 근본적으로 존재하는 거지.",
+          "그 복잡성과 구조는 어째서인지 그냥 이미 그 안에 있어. 근본적으로 존재하는 거지.",
           "그럼 이건 어때? 본 적 있어?",
           "아니요... 전혀 모르겠습니다.",
           "직접 가지고 놀아 봐. 이건 \"생명\"이라고 해.",
@@ -681,11 +681,11 @@
         ],
         "ru": [
           "Узнаёшь?",
-          "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях;",
+          "Ааа, поле Клэйсона. Хотя мы знаем его только по неподвижным изображениям в книгах и статьях.",
           "Никогда не видел такого плавного изображения. Красота!",
           "Это один из самых простых примеров работы правил на повторяющемся состоянии —",
           "где само начальное состояние всегда просто ноль.",
-          "Возведи число в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
+          "Возведи в квадрат, прибавь двумерную константу для этой точки на плоскости, получится новое число, и повторяй.",
           "Смотри, как долго твое число продержится, и раскрашивай соответственно. И, видишь ли...",
           "Бесконечная детализация. Невероятная сложность.",
           "Рад, что ты понимаешь. Я дам тебе это поиграть. Важно усвоить главное —",

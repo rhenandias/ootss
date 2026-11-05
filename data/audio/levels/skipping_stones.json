@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -90,7 +90,7 @@
             ],
             "es": [
               "Me golpeé el hombro cuando paraste tan de repente.",
-              "Está magullado, rígido y molesto, como algunos que conocemos, pero no es nada permanente.",
+              "Está magullado, rígido y molesto, como algunas personas que conocemos, pero no es nada permanente.",
               "Y como el impacto me dio de cintura para arriba, ¡tengo las piernas de maravilla!"
             ],
             "fr": [
@@ -100,7 +100,7 @@
             ],
             "it": [
               "Ho sbattuto la spalla quando ti sei fermato di colpo.",
-              "È ammaccata, rigida e fastidiosa, come certe persone che conosciamo, ma, niente di permanente.",
+              "È ammaccata, rigida e fastidiosa, come certe persone che conosciamo, ma niente di permanente.",
               "E visto che ho preso il colpo nella parte alta del corpo, le mie gambe stanno benissimo!"
             ],
             "ja": [
@@ -110,8 +110,8 @@
             ],
             "ko": [
               "네가 너무 갑자기 멈추는 바람에 어깨를 부딪쳤어.",
-              "멍들고, 뻣뻣하고, 성가시지, 우리가 아는 몇몇 사람들처럼, 그래도, 시간이 지나면 나을 거야.",
-              "게다가 충격을 상체로 받았으니, 다리는 아주 멀쩡해!"
+              "멍들고, 뻣뻣하고, 성가시네. 뭐, 누구처럼 말이지. 그래도 영구적인 건 아니야.",
+              "게다가 상체로 충격을 받아서 다리는 아주 멀쩡하지!"
             ],
             "pt-br": [
               "Bati o ombro quando você parou tão de repente.",
@@ -120,7 +120,7 @@
             ],
             "ru": [
               "Я ударилась плечом, когда ты так резко остановился.",
-              "Побито, сковано и досаждает, как кое-кто из наших знакомых, но, в общем, заживёт.",
+              "Болит, не двигается и досаждает, как кое-кто из наших знакомых, но, в общем, заживёт.",
               "А поскольку удар пришёлся по верхней части тела, ноги чувствуют себя прекрасно!"
             ],
             "s-cn": [
@@ -318,7 +318,7 @@
         "es": [
           "¿Estás bien, ser de carne?",
           "Me golpeé el hombro cuando paraste tan de repente.",
-          "Está magullado, rígido y molesto, como algunos que conocemos, pero no es nada permanente.",
+          "Está magullado, rígido y molesto, como algunas personas que conocemos, pero no es nada permanente.",
           "Y como el impacto me dio de cintura para arriba, ¡tengo las piernas de maravilla!",
           "Qué suerte, porque yo no puedo moverme en absoluto. Me vas a tener que traer ese mapa de ahí.",
           "¿Que te lo traiga? ¿También tengo que rascarme las pulgas y ladrarle al cartero?",
@@ -336,7 +336,7 @@
         "it": [
           "Tutto bene, essere di carne?",
           "Ho sbattuto la spalla quando ti sei fermato di colpo.",
-          "È ammaccata, rigida e fastidiosa, come certe persone che conosciamo, ma, niente di permanente.",
+          "È ammaccata, rigida e fastidiosa, come certe persone che conosciamo, ma niente di permanente.",
           "E visto che ho preso il colpo nella parte alta del corpo, le mie gambe stanno benissimo!",
           "Bene, perché io non posso muovermi affatto. Dovrai andare a prendere quella mappa laggiù.",
           "Prendere? Dovrei anche grattarmi le pulci e abbaiare al postino?",
@@ -354,8 +354,8 @@
         "ko": [
           "괜찮아, 살덩이 친구?",
           "네가 너무 갑자기 멈추는 바람에 어깨를 부딪쳤어.",
-          "멍들고, 뻣뻣하고, 성가시지, 우리가 아는 몇몇 사람들처럼, 그래도, 시간이 지나면 나을 거야.",
-          "게다가 충격을 상체로 받았으니, 다리는 아주 멀쩡해!",
+          "멍들고, 뻣뻣하고, 성가시네. 뭐, 누구처럼 말이지. 그래도 영구적인 건 아니야.",
+          "게다가 상체로 충격을 받아서 다리는 아주 멀쩡하지!",
           "다행이군, 난 아예 움직일 수가 없거든. 저기 있는 지도 좀 가져와야겠어.",
           "가져오라고? 그럼 무슨 강아지야? 벅벅 긁어대며 배달부에게 짖으란 말이야?",
           "그거야 네 마음대로 하고, 그냥 지도나 가져와!"
@@ -372,7 +372,7 @@
         "ru": [
           "Ты в порядке, кожаная?",
           "Я ударилась плечом, когда ты так резко остановился.",
-          "Побито, сковано и досаждает, как кое-кто из наших знакомых, но, в общем, заживёт.",
+          "Болит, не двигается и досаждает, как кое-кто из наших знакомых, но, в общем, заживёт.",
           "А поскольку удар пришёлся по верхней части тела, ноги чувствуют себя прекрасно!",
           "Повезло, потому что я совсем не могу двигаться. Нам нужно, чтобы ты принесла ту карту, она вон там.",
           "Принести? Мне ещё и блох чесать, и лаять на посыльного?",
@@ -597,7 +597,7 @@
             ],
             "ko": [
               "문제는 여기서 남쪽 어딘가에 있어.",
-              "지도에 한 구역이 보일 거야. 안개 너머로 엿볼 수 있었거든. 거기로 가야 해."
+              "지도를 보면 내가 안개 너머로 볼 수 있던 유일한 지역이 보일 거야. 거기로 가야 해."
             ],
             "pt-br": [
               "O problema está vindo de um ponto ao sul daqui.",
@@ -712,7 +712,7 @@
         ],
         "ko": [
           "문제는 여기서 남쪽 어딘가에 있어.",
-          "지도에 한 구역이 보일 거야. 안개 너머로 엿볼 수 있었거든. 거기로 가야 해.",
+          "지도를 보면 내가 안개 너머로 볼 수 있던 유일한 지역이 보일 거야. 거기로 가야 해.",
           "남쪽. 미지 속으로 말이지. 알겠다고."
         ],
         "pt-br": [
@@ -786,7 +786,7 @@
               "C'est la première fois que je subis une interdiction."
             ],
             "it": [
-              "Quando torneremo alla civiltà, sarà una gran storia da raccontare!",
+              "Quando torneremo alla civiltà, sarà una gran bella storia!",
               "Non mi avevano mai fatto un'interdizione."
             ],
             "ja": [
@@ -794,12 +794,12 @@
               "止められたのは初めてだ。"
             ],
             "ko": [
-              "문명 세계로 돌아가면, 이거 굉장한 이야깃거리가 되겠어!",
+              "문명 세계로 돌아가면 굉장한 이야깃거리가 되겠어!",
               "난 이런 식으로 움직임을 막혀본 적이 없어."
             ],
             "pt-br": [
               "Quando voltarmos à civilização, isso vai render uma ótima história!",
-              "Nunca fui interditado antes."
+              "Nunca fui interditada antes."
             ],
             "ru": [
               "Когда вернёмся к цивилизации, будет что рассказать!",
@@ -892,13 +892,13 @@
               "Quand même... J'ai eu une grosse panique quand tu t'es figé comme ça ! Ce n'est pas rien."
             ],
             "it": [
-              "Beh... un attimo di panico l'ho avuto quando ti sei bloccato! Conta pur qualcosa."
+              "Beh... ho avuto un attimo di panico quando ti sei bloccato! Conta pur qualcosa."
             ],
             "ja": [
               "言いたいことはわかるだろ。 あんたが固まって ビックリしたんだよ！？"
             ],
             "ko": [
-              "뭐... 네가 갑자기 굳어버렸을 땐 잠깐 겁이 났지! 그것도 쳐줘야지."
+              "뭐... 네가 갑자기 굳어버렸을 땐 잠깐 겁이 났거든! 그것도 쳐줘야지."
             ],
             "pt-br": [
               "Bem... Entrei em pânico por um instante quando você travou! Isso conta pra alguma coisa."
@@ -1058,10 +1058,10 @@
           "Le mot « miracle » ira dans mon rapport officiel."
         ],
         "it": [
-          "Quando torneremo alla civiltà, sarà una gran storia da raccontare!",
+          "Quando torneremo alla civiltà, sarà una gran bella storia!",
           "Non mi avevano mai fatto un'interdizione.",
           "Non l'hanno fatta a te!",
-          "Beh... un attimo di panico l'ho avuto quando ti sei bloccato! Conta pur qualcosa.",
+          "Beh... ho avuto un attimo di panico quando ti sei bloccato! Conta pur qualcosa.",
           "È un miracolo che non ci siamo sfracellati.",
           "\"Miracolo\" finirà nel mio rapporto ufficiale."
         ],
@@ -1074,16 +1074,16 @@
           "アタシも報告書に 「奇跡」と書くよ。"
         ],
         "ko": [
-          "문명 세계로 돌아가면, 이거 굉장한 이야깃거리가 되겠어!",
+          "문명 세계로 돌아가면 굉장한 이야깃거리가 되겠어!",
           "난 이런 식으로 움직임을 막혀본 적이 없어.",
           "\"네\"가 당한 게 아니잖아!",
-          "뭐... 네가 갑자기 굳어버렸을 땐 잠깐 겁이 났지! 그것도 쳐줘야지.",
+          "뭐... 네가 갑자기 굳어버렸을 땐 잠깐 겁이 났거든! 그것도 쳐줘야지.",
           "우리가 산산조각 나지 않은 게 기적이지.",
           "공식 보고서에 '기적'이라고 써야겠어."
         ],
         "pt-br": [
           "Quando voltarmos à civilização, isso vai render uma ótima história!",
-          "Nunca fui interditado antes.",
+          "Nunca fui interditada antes.",
           "Você não foi!",
           "Bem... Entrei em pânico por um instante quando você travou! Isso conta pra alguma coisa.",
           "Foi um milagre não termos virado pedaços.",
@@ -2105,13 +2105,13 @@
               "ヒントだけくれよ。"
             ],
             "ko": [
-              "아, 제발. 힌트만 좀 줘."
+              "아, 제발. 힌트 하나만 줘."
             ],
             "pt-br": [
               "Ah, qual é. Me dê uma dica."
             ],
             "ru": [
-              "Ну же. Дай мне хоть намёк."
+              "Ну же. Ну хоть намекни."
             ],
             "s-cn": [
               "哎呀，好歹给点提示嘛。"
@@ -2305,7 +2305,7 @@
           "하지만 네가 긴장한 게 느껴져. 나한테 말 안 한 게 있어?",
           "음음... 이 섬들에는... 특징이... 있어.",
           "때가 되면 내가 설명해 주지. 지금은 집중하자.",
-          "아, 제발. 힌트만 좀 줘.",
+          "아, 제발. 힌트 하나만 줘.",
           "두 개 줄게. 금. 그리고 컨플럭스.",
           "'금과 컨플럭스'라니. 부두의 손금쟁이들도 동전 한 닢 받고 그보단 더 많이 말해 줄 거다."
         ],
@@ -2327,7 +2327,7 @@
           "Но мне всё равно кажется, что ты напряжён. Ты что-то от меня скрываешь?",
           "Ну-уу... Есть... особенности... этих островов...",
           "Я введу тебя в курс, когда придёт время. Пока давай сосредоточимся.",
-          "Ну же. Дай мне хоть намёк.",
+          "Ну же. Ну хоть намекни.",
           "Хоть два: золото. И Слияние.",
           "«Золото и Слияние». Гадалки у пристани за медяк больше скажут."
         ],
@@ -2492,13 +2492,13 @@
               "Man bringt uns halt keine Bootsgeheimnisse bei! In der Seefahrtsschule geht es vor allem um Knoten."
             ],
             "es": [
-              "¡No nos enseñan secretos de barcos! En la escuela de marineros vemos sobre todo nudos."
+              "No nos enseñan secretos de barcos, ¿vale? En la escuela de marineros vemos sobre todo nudos."
             ],
             "fr": [
               "On ne nous apprend pas les secrets des navires ! L'école des navigateurs, c'est surtout des nœuds."
             ],
             "it": [
-              "Non ci insegnano i segreti delle barche, va bene! La scuola da marinai è perlopiù nodi."
+              "Non ci insegnano i segreti delle barche, okay? La scuola da marinai è perlopiù nodi."
             ],
             "ja": [
               "船乗り学校じゃロープの結び方 くらいしか教わんないんだ！"
@@ -2755,7 +2755,7 @@
         "es": [
           "Entonces, ¿un veto es simplemente algo escrito?",
           "¡No puedo creer que no lo sepas!",
-          "¡No nos enseñan secretos de barcos! En la escuela de marineros vemos sobre todo nudos.",
+          "No nos enseñan secretos de barcos, ¿vale? En la escuela de marineros vemos sobre todo nudos.",
           "Pues aprende: un veto no es, en esencia, más que un signo escrito en una pared o en el suelo.",
           "Si logras copiar la escritura, puedes imponer tus vetos propios...",
           "así que el Gremio oculta los escritos. Encerrados en bóvedas oscuras, que se abren solo en caso de verdadera emergencia:",
@@ -2779,7 +2779,7 @@
         "it": [
           "Quindi, un'interdizione è semplicemente una cosa scritta?",
           "Non posso credere che tu non lo sappia!",
-          "Non ci insegnano i segreti delle barche, va bene! La scuola da marinai è perlopiù nodi.",
+          "Non ci insegnano i segreti delle barche, okay? La scuola da marinai è perlopiù nodi.",
           "Allora sappi che un'interdizione è essenzialmente solo un segno, tracciato su un muro o sul terreno.",
           "Se riesci a copiare la scrittura, puoi imporre interdizioni tue...",
           "perciò la gilda nasconde le scritte. Chiuse in bui caveau, aperti solo in caso di vera emergenza:",
@@ -2909,10 +2909,10 @@
               "Vier Vergehen!"
             ],
             "es": [
-              "Vamos a hacer recuento del día hasta ahora. Insulto número uno: me llamaste «ser de carne»,",
+              "Vamos a hacer recuento del día hasta ahora. Insulto número uno: me llamaste «ser de carne».",
               "Dos, me mandaste a buscarlo. Tres, te negaste a decirme",
-              "dónde me estoy metiendo a ciegas, que, por lo que sé, podría matarme;",
-              "Número cuatro: me reprochaste mi desconocimiento de los secretos que, como bien sabes, se guardan en secreto precisamente para que los marineros como yo no los conozcan.",
+              "dónde me estoy metiendo a ciegas, lo cual, por lo que sé, podría matarme.",
+              "Cuatro: me reprochaste mi desconocimiento de los secretos que, como bien sabes, se guardan en secreto precisamente para que los marineros como yo no los conozcan.",
               "¡Cuatro ofensas!"
             ],
             "fr": [
@@ -2926,7 +2926,7 @@
               "Facciamo il punto della situazione. Insulto uno: mi hai chiamato \"essere di carne\",",
               "due, mi hai mandato a fare commissioni. Tre, hai rifiutato di dirmi",
               "in cosa mi sto cacciando alla cieca, e che per quanto ne so potrebbe uccidermi;",
-              "quattro: mi hai sminuito perché non conosco segreti che, come sai, sono tenuti segreti proprio perché i Marinai come me non li conoscano!",
+              "quattro: mi hai sminuito perché non conosco segreti che, come sai, sono tenuti tali proprio per evitare che marinai come me li conoscano!",
               "Quattro insulti!"
             ],
             "ja": [
@@ -2938,9 +2938,9 @@
             ],
             "ko": [
               "오늘 지금까지의 일을 정리해 보자고. 첫 번째 모욕. 나를 \"살덩이 친구\"라고 불렀고,",
-              "둘째, 나한테 가져오라고 시켰고. 셋째, 알려주지도 않았지",
-              "아무것도 모른 채 들어가는 곳에 뭐가 있는지, 자칫하면 목숨을 잃을 수도 있는데;",
-              "넷, 나 같은 선원에게는 비밀로 해두는 비밀에 대해 내가 모른다고 얕봤지.",
+              "둘째, 나한테 뭔가를 가져오라고 시켰고. 셋째, 제대로 알려주지도 않았어.",
+              "내가 무슨 위험에 뛰어드는 건지 말이야. 자칫하면 목숨을 잃을 수도 있는데도.",
+              "넷, 나 같은 선원에게는 일부러 비밀로 해두는 일이라는 걸 알면서도 내가 그런 비밀을 모른다고 얕봤지.",
               "네 가지 모욕이라고!"
             ],
             "pt-br": [
@@ -2952,7 +2952,7 @@
             ],
             "ru": [
               "Давай подведем итоги дня. Первое оскорбление: ты назвал меня «кожаной».",
-              "Во-вторых, ты послал меня за вещами. В-третьих, отказался сказать,",
+              "Во-вторых, ты послал меня за чем-то. В-третьих, отказался сказать,",
               "куда я иду вслепую, а ведь это может меня убить;",
               "В-четвёртых, принизил меня за незнание секретов, которые, как тебе известно, хранятся в секрете именно от таких моряков, как я!",
               "Четыре оскорбления!"
@@ -3158,10 +3158,10 @@
           "Ich bin gebundener Frachtführer der Gilde. Ich darf jederzeit Aufzählungen erstellen."
         ],
         "es": [
-          "Vamos a hacer recuento del día hasta ahora. Insulto número uno: me llamaste «ser de carne»,",
+          "Vamos a hacer recuento del día hasta ahora. Insulto número uno: me llamaste «ser de carne».",
           "Dos, me mandaste a buscarlo. Tres, te negaste a decirme",
-          "dónde me estoy metiendo a ciegas, que, por lo que sé, podría matarme;",
-          "Número cuatro: me reprochaste mi desconocimiento de los secretos que, como bien sabes, se guardan en secreto precisamente para que los marineros como yo no los conozcan.",
+          "dónde me estoy metiendo a ciegas, lo cual, por lo que sé, podría matarme.",
+          "Cuatro: me reprochaste mi desconocimiento de los secretos que, como bien sabes, se guardan en secreto precisamente para que los marineros como yo no los conozcan.",
           "¡Cuatro ofensas!",
           "Eso, y que no me gusta tu forma de contar. ¡Cinco ofensas!",
           "¡No se puede contar durante el recuento!",
@@ -3181,7 +3181,7 @@
           "Facciamo il punto della situazione. Insulto uno: mi hai chiamato \"essere di carne\",",
           "due, mi hai mandato a fare commissioni. Tre, hai rifiutato di dirmi",
           "in cosa mi sto cacciando alla cieca, e che per quanto ne so potrebbe uccidermi;",
-          "quattro: mi hai sminuito perché non conosco segreti che, come sai, sono tenuti segreti proprio perché i Marinai come me non li conoscano!",
+          "quattro: mi hai sminuito perché non conosco segreti che, come sai, sono tenuti tali proprio per evitare che marinai come me li conoscano!",
           "Quattro insulti!",
           "Beh, il tuo conteggio non mi piace. Cinque offese!",
           "Non si può contare durante il conteggio!",
@@ -3199,9 +3199,9 @@
         ],
         "ko": [
           "오늘 지금까지의 일을 정리해 보자고. 첫 번째 모욕. 나를 \"살덩이 친구\"라고 불렀고,",
-          "둘째, 나한테 가져오라고 시켰고. 셋째, 알려주지도 않았지",
-          "아무것도 모른 채 들어가는 곳에 뭐가 있는지, 자칫하면 목숨을 잃을 수도 있는데;",
-          "넷, 나 같은 선원에게는 비밀로 해두는 비밀에 대해 내가 모른다고 얕봤지.",
+          "둘째, 나한테 뭔가를 가져오라고 시켰고. 셋째, 제대로 알려주지도 않았어.",
+          "내가 무슨 위험에 뛰어드는 건지 말이야. 자칫하면 목숨을 잃을 수도 있는데도.",
+          "넷, 나 같은 선원에게는 일부러 비밀로 해두는 일이라는 걸 알면서도 내가 그런 비밀을 모른다고 얕봤지.",
           "네 가지 모욕이라고!",
           "음, 네 셈법이 마음에 안 드는걸. 아, 이러면 다섯 가지가 됐네!",
           "셈하는 도중에 또 셀 순 없잖아!",
@@ -3219,7 +3219,7 @@
         ],
         "ru": [
           "Давай подведем итоги дня. Первое оскорбление: ты назвал меня «кожаной».",
-          "Во-вторых, ты послал меня за вещами. В-третьих, отказался сказать,",
+          "Во-вторых, ты послал меня за чем-то. В-третьих, отказался сказать,",
           "куда я иду вслепую, а ведь это может меня убить;",
           "В-четвёртых, принизил меня за незнание секретов, которые, как тебе известно, хранятся в секрете именно от таких моряков, как я!",
           "Четыре оскорбления!",
@@ -4200,10 +4200,10 @@
               "今度は船長呼ばわり？ 笑える冗談を どうも。"
             ],
             "ko": [
-              "나를 이제 \"선장\"이라고 부르네? 알겠어, 아주 재미있는 농담이네. 고맙다."
+              "나를 이제 \"선장\"이라고 부르는 거야? 아주 재미있는 농담이네. 고맙다."
             ],
             "pt-br": [
-              "Me chamando de “capitão” agora? Obrigado pela piada que é claramente muito engraçada."
+              "Me chamando de “capitão” agora? Obrigada pela piada, que é claramente muito engraçada."
             ],
             "ru": [
               "Теперь ты зовешь меня «капитаном»? Я поняла, спасибо за шутку, которая, очевидно, очень смешная."
@@ -4408,7 +4408,7 @@
               "安全なのかい？ いや、その四角形に 価値はあるのかい？"
             ],
             "ko": [
-              "그게 네 함정 중 하나일지도..."
+              "네가 만든 함정일 수도 있고..."
             ],
             "pt-br": [
               "Talvez essa seja uma das suas armadilhas..."
@@ -4479,9 +4479,9 @@
               "Nunca vi nada parecido."
             ],
             "ru": [
-              "Если бы ты знал, как ясновидение выглядит изнутри, в сознании, я могла бы объяснить одну важную вещь:",
+              "Если бы ты знала, как ясновидение выглядит изнутри, в сознании, я мог бы объяснить одну важную вещь:",
               "Нити энергии должны соединяться с чем-то здесь. Но этого не происходит. Они уходят вдаль... словно в другой мир.",
-              "Ничего подобного я прежде не видела."
+              "Ничего подобного я прежде не видел."
             ],
             "s-cn": [
               "真希望你也知道，窥测时脑海里会呈现怎样的景象， 这样我就能向你描述这里发生的一个重要现象：",
@@ -4524,7 +4524,7 @@
             "es": [
               "... bueno, entonces...",
               "¡Pues esto es increíble! Solo tenemos que decirles dónde está; el Gremio puede enviar un equipo a investigarlo.",
-              "¡Nos pagarán una prima fabulosa y seremos leyendas!"
+              "Nos pagarán una prima fabulosa ¡y seremos leyendas!"
             ],
             "fr": [
               "... Eh bien...",
@@ -4533,8 +4533,8 @@
             ],
             "it": [
               "... beh, allora...",
-              "In realtà è incredibile! Dobbiamo solo dirgli dove si trova; la gilda può mandare una squadra a studiarlo.",
-              "Ci pagheranno un premio favoloso, e diventeremo leggende!"
+              "In realtà è incredibile! Dobbiamo solo dirgli dove si trova: la gilda può mandare una squadra a studiarla.",
+              "Ci daranno un favoloso premio in denaro e diventeremo leggende!"
             ],
             "ja": [
               "…じゃあ…",
@@ -4543,7 +4543,7 @@
             ],
             "ko": [
               "... 그럼...",
-              "생각해 보니, 정말 굉장한걸! 우린 위치만 알려주면 돼; 길드에서 조사팀을 보낼 테니까.",
+              "생각해 보니, 정말 굉장한걸! 우린 위치만 알려주면 돼. 길드에서 조사팀을 보낼 테니까.",
               "엄청난 포상금도 받을 거고, 우린 전설이 되는 거야!"
             ],
             "pt-br": [
@@ -4691,7 +4691,7 @@
           "Nunca he visto nada igual.",
           "... bueno, entonces...",
           "¡Pues esto es increíble! Solo tenemos que decirles dónde está; el Gremio puede enviar un equipo a investigarlo.",
-          "¡Nos pagarán una prima fabulosa y seremos leyendas!",
+          "Nos pagarán una prima fabulosa ¡y seremos leyendas!",
           "Tal vez. Antes tenemos que salir de aquí.",
           "Eso sí, asegúrate de visitar ese... ¿santuario? cuando llegues allí."
         ],
@@ -4724,8 +4724,8 @@
           "Ci sono filamenti di energia che dovrebbero collegarsi a qualcosa qui. Ma non è così. Si allontanano... come verso un altro mondo.",
           "Non ho mai visto nulla di simile.",
           "... beh, allora...",
-          "In realtà è incredibile! Dobbiamo solo dirgli dove si trova; la gilda può mandare una squadra a studiarlo.",
-          "Ci pagheranno un premio favoloso, e diventeremo leggende!",
+          "In realtà è incredibile! Dobbiamo solo dirgli dove si trova: la gilda può mandare una squadra a studiarla.",
+          "Ci daranno un favoloso premio in denaro e diventeremo leggende!",
           "Forse. Prima dobbiamo andare via di qui.",
           "Assicurati solo di visitare quel... santuario? ...quando ci arrivi."
         ],
@@ -4748,24 +4748,24 @@
         ],
         "ko": [
           "안녕, 선장?",
-          "나를 이제 \"선장\"이라고 부르네? 알겠어, 아주 재미있는 농담이네. 고맙다.",
+          "나를 이제 \"선장\"이라고 부르는 거야? 아주 재미있는 농담이네. 고맙다.",
           "내가 아직 안 알려 준 그것 중 하나에 가까워지고 있어.",
           "오?",
           "다음 섬에 이상한 구조물이 박혀 있어. 커다란 금으로 된 플랫폼이야.",
           "내가 감지하기로는 밝게 빛나는 신호기 같은데. 누군가가 우리가 거길 가길 바라는 것 같아.",
-          "그게 네 함정 중 하나일지도...",
+          "네가 만든 함정일 수도 있고...",
           "천리안이 마음 속에서 어떻게 보이는지 네가 알면 좋을 텐데, 그래야 여기서 중요한 걸 하나 설명할 수 있거든:",
           "원래 여기 어딘가에 이어져 있어야 할 에너지 가닥들이 있어. 그런데 그렇지가 않아. 멀리 뻗어 있어... 마치 다른 세계를 향하듯.",
           "이런 건 처음 봐.",
           "... 그럼...",
-          "생각해 보니, 정말 굉장한걸! 우린 위치만 알려주면 돼; 길드에서 조사팀을 보낼 테니까.",
+          "생각해 보니, 정말 굉장한걸! 우린 위치만 알려주면 돼. 길드에서 조사팀을 보낼 테니까.",
           "엄청난 포상금도 받을 거고, 우린 전설이 되는 거야!",
           "그럴지도 모르지. 우선 여기서 빠져나가야 해.",
           "거기 도착하면 꼭 저... 성소?... 뭐 그런 곳을 방문해."
         ],
         "pt-br": [
           "Olá, capitão?",
-          "Me chamando de “capitão” agora? Obrigado pela piada que é claramente muito engraçada.",
+          "Me chamando de “capitão” agora? Obrigada pela piada, que é claramente muito engraçada.",
           "Você está chegando perto de uma dessas coisas sobre as quais eu ainda não falei para você.",
           "Ah?",
           "Há uma estrutura estranha encravada na próxima ilha. Uma grande Plataforma Dourada.",
@@ -4788,9 +4788,9 @@
           "На соседнем острове есть встроенная в него странная постройка. Большая золотая платформа.",
           "На мой взгляд он светится ярко, как маяк. Кто-то хочет, чтобы мы туда пошли.",
           "Может, это одна из твоих ловушек...",
-          "Если бы ты знал, как ясновидение выглядит изнутри, в сознании, я могла бы объяснить одну важную вещь:",
+          "Если бы ты знала, как ясновидение выглядит изнутри, в сознании, я мог бы объяснить одну важную вещь:",
           "Нити энергии должны соединяться с чем-то здесь. Но этого не происходит. Они уходят вдаль... словно в другой мир.",
-          "Ничего подобного я прежде не видела.",
+          "Ничего подобного я прежде не видел.",
           "... ну, тогда...",
           "Это же невероятно! Нам нужно лишь сказать им, где это; гильдия пришлёт отряд разобраться.",
           "Нам выплатят баснословную премию, и мы станем легендами!",
@@ -4891,7 +4891,7 @@
               "J'ai touché le centre, et... des lumières ont fleuri autour de moi. Puis plus rien."
             ],
             "it": [
-              "Ho toccato il centro, e... si sono sprigionate delle luci intorno a me. Poi più niente."
+              "Ho toccato il centro e... si sono sprigionate delle luci intorno a me. Poi più niente."
             ],
             "ja": [
               "中央に触れたら… 周りに光が咲いたけど、 それ以外は何も。"
@@ -5167,7 +5167,7 @@
           "Ça, je peux le faire."
         ],
         "it": [
-          "Ho toccato il centro, e... si sono sprigionate delle luci intorno a me. Poi più niente.",
+          "Ho toccato il centro e... si sono sprigionate delle luci intorno a me. Poi più niente.",
           "L'ho sentito da qui. È partito un grande impulso verso qualche altro luogo.",
           "Un messaggio, forse. Uno breve. Cosa diceva? Nessuna idea.",
           "E adesso?",
@@ -5279,7 +5279,7 @@
             ],
             "es": [
               "Ya sabes lo mucho que me gusta seguir tus instrucciones.",
-              "Dijiste que fuera al oeste, así que seguí hacia el oeste... pero ahora, ¿sabes?, creo que nos hemos pasado."
+              "Dijiste que fuera al oeste, así que seguí hacia el oeste... pero ahora creo que nos hemos pasado, ¿sabes?"
             ],
             "fr": [
               "Tu sais à quel point j'aime suivre tes instructions.",
@@ -5622,7 +5622,7 @@
         ],
         "es": [
           "Ya sabes lo mucho que me gusta seguir tus instrucciones.",
-          "Dijiste que fuera al oeste, así que seguí hacia el oeste... pero ahora, ¿sabes?, creo que nos hemos pasado.",
+          "Dijiste que fuera al oeste, así que seguí hacia el oeste... pero ahora creo que nos hemos pasado, ¿sabes?",
           "No te preocupes; ¡estamos virando contra el viento!",
           "¿Virar en tierra? Eso es ridículo.",
           "¡Virar por la vida!",
@@ -6009,8 +6009,8 @@
             ],
             "es": [
               "El río no bordea esa isla; tendrás que seguir virando y llegar por el otro lado.",
-              "Lo cual nos lleva a nuestro SEGUNDO asunto. Si miras el mapa...",
-              "verás que este río termina justo en la desembocadura más grande que hayas visto jamás. Un remolino gigantesco."
+              "Lo cual nos lleva a nuestro segundo asunto. Si miras el mapa...",
+              "verás que este río termina justo en la desembocadura más grande que hayas visto jamás. ¡Un remolino gigantesco!"
             ],
             "fr": [
               "La rivière ne contourne pas cette île ; il va falloir continuer à tirer des bords et arriver par l'autre côté.",
@@ -6019,7 +6019,7 @@
             ],
             "it": [
               "Il fiume non costeggia l'isola: dovrai procedere a zig zag e arrivare dall'altro lato.",
-              "E questo ci porta al *secondo* punto. Se guardi la mappa...",
+              "E questo ci porta al secondo punto. Se guardi la mappa...",
               "scoprirai che questo fiume sfocia direttamente nella bocca più grande che tu abbia mai visto. Un vortice gigantesco!"
             ],
             "ja": [
@@ -6034,12 +6034,12 @@
             ],
             "pt-br": [
               "O rio não contorna aquela ilha; você vai ter que continuar bordejando e vir pelo outro lado.",
-              "O que nos leva ao nosso *segundo* ponto. Se você conferir seu mapa...",
+              "O que nos leva ao nosso segundo ponto. Se você conferir seu mapa...",
               "vai ver que esse rio deságua direto na maior boca que você já viu. Um redemoinho gigantesco!"
             ],
             "ru": [
               "Река не огибает тот остров; тебе придется продолжать лавировать и зайти с другой стороны.",
-              "Что подводит нас ко ВТОРОМУ пункту. Если посмотришь на карту...",
+              "Что подводит нас ко второму пункту. Если посмотришь на карту...",
               "то увидишь, что эта река прямо впадает в самое большое устье, какое ты когда-либо видела. Гигантский водоворот!"
             ],
             "s-cn": [
@@ -6149,7 +6149,7 @@
             ],
             "pt-br": [
               "Eu ando por aí.",
-              "Se você for engolido, não haverá caminho de volta para mim. Pense em mim, por favor."
+              "Se você for engolida, não haverá caminho de volta para mim. Pense em mim, por favor."
             ],
             "ru": [
               "Я много где бываю.",
@@ -6374,8 +6374,8 @@
           "Peeeero....",
           "¿Sí?",
           "El río no bordea esa isla; tendrás que seguir virando y llegar por el otro lado.",
-          "Lo cual nos lleva a nuestro SEGUNDO asunto. Si miras el mapa...",
-          "verás que este río termina justo en la desembocadura más grande que hayas visto jamás. Un remolino gigantesco.",
+          "Lo cual nos lleva a nuestro segundo asunto. Si miras el mapa...",
+          "verás que este río termina justo en la desembocadura más grande que hayas visto jamás. ¡Un remolino gigantesco!",
           "¿La más grande que yo haya visto jamás? ¿Acaso has visto tú una mayor?",
           "Es que viajo bastante.",
           "Si te traga, no tendré forma de volver a casa. Así que haz el favor de pensar en mí.",
@@ -6412,7 +6412,7 @@
           "Maaaa...",
           "Sì?",
           "Il fiume non costeggia l'isola: dovrai procedere a zig zag e arrivare dall'altro lato.",
-          "E questo ci porta al *secondo* punto. Se guardi la mappa...",
+          "E questo ci porta al secondo punto. Se guardi la mappa...",
           "scoprirai che questo fiume sfocia direttamente nella bocca più grande che tu abbia mai visto. Un vortice gigantesco!",
           "La più grande che io abbia mai visto? Perché, tu ne hai viste di più grandi?",
           "Viaggio parecchio.",
@@ -6469,11 +6469,11 @@
           "Maaaass...",
           "Sim?",
           "O rio não contorna aquela ilha; você vai ter que continuar bordejando e vir pelo outro lado.",
-          "O que nos leva ao nosso *segundo* ponto. Se você conferir seu mapa...",
+          "O que nos leva ao nosso segundo ponto. Se você conferir seu mapa...",
           "vai ver que esse rio deságua direto na maior boca que você já viu. Um redemoinho gigantesco!",
           "A maior boca que eu já vi? Você já viu maior?",
           "Eu ando por aí.",
-          "Se você for engolido, não haverá caminho de volta para mim. Pense em mim, por favor.",
+          "Se você for engolida, não haverá caminho de volta para mim. Pense em mim, por favor.",
           "Valeu, barco. Vou dar um jeito.",
           "Você costuma dar.",
           "Eu sempre dou!"
@@ -6488,7 +6488,7 @@
           "Но-о-о...",
           "Да?",
           "Река не огибает тот остров; тебе придется продолжать лавировать и зайти с другой стороны.",
-          "Что подводит нас ко ВТОРОМУ пункту. Если посмотришь на карту...",
+          "Что подводит нас ко второму пункту. Если посмотришь на карту...",
           "то увидишь, что эта река прямо впадает в самое большое устье, какое ты когда-либо видела. Гигантский водоворот!",
           "Самое большое устье, какое я когда-либо видела? Ты видел и побольше?",
           "Я много где бываю.",
@@ -7051,7 +7051,7 @@
               "Mais tu dis que ce sont de petits rochers sur une plage qui ont fait ça. Comment est-ce possible ?"
             ],
             "it": [
-              "Stavo pensando, come può una scritta per terra tenerti bloccato da così lontano?",
+              "Stavo pensando: come può una scritta per terra tenerti bloccato da così lontano?",
               "La mia spalla può testimoniare che l'effetto non è stato delicato.",
               "Ma stai dicendo che dei massi piuttosto piccoli su una spiaggia hanno fatto questo. Come sarebbe possibile?"
             ],
@@ -7061,7 +7061,7 @@
               "まるでおとぎ話だろ。 自然の力とは思えない。"
             ],
             "ko": [
-              "생각해 봤는데, 땅바닥의 어떤 글씨가 어떻게 그렇게 멀리서 널 붙잡아 두는 거야?",
+              "생각해 봤는데, 바닥에 써 있는 글씨가 어떻게 그렇게 멀리서 널 붙잡아 두는 거야?",
               "그 효과가 전혀 부드럽지 않았다는 건 내 어깨가 증명해 줄 거야.",
               "그런데 해변에 있는 자그마한 바위들이 이런 일을 일으켰다고. 대체 어떻게 그럴 수가 있지?"
             ],
@@ -7292,7 +7292,7 @@
         "it": [
           "Sto pensando.",
           "Ah, ecco cos'è quel rumore di ingranaggi che sento.",
-          "Stavo pensando, come può una scritta per terra tenerti bloccato da così lontano?",
+          "Stavo pensando: come può una scritta per terra tenerti bloccato da così lontano?",
           "La mia spalla può testimoniare che l'effetto non è stato delicato.",
           "Ma stai dicendo che dei massi piuttosto piccoli su una spiaggia hanno fatto questo. Come sarebbe possibile?",
           "Hai ragione. Non funziona così. La barca si ferma da sola.",
@@ -7312,7 +7312,7 @@
         "ko": [
           "생각을 좀 해 보고 있었어.",
           "어디서 뭔가 돌아가는 소리가 나더라니.",
-          "생각해 봤는데, 땅바닥의 어떤 글씨가 어떻게 그렇게 멀리서 널 붙잡아 두는 거야?",
+          "생각해 봤는데, 바닥에 써 있는 글씨가 어떻게 그렇게 멀리서 널 붙잡아 두는 거야?",
           "그 효과가 전혀 부드럽지 않았다는 건 내 어깨가 증명해 줄 거야.",
           "그런데 해변에 있는 자그마한 바위들이 이런 일을 일으켰다고. 대체 어떻게 그럴 수가 있지?",
           "맞아. 그런 식으론 작동하지 않아. 배가 스스로 멈추는 거야.",
@@ -7712,7 +7712,7 @@
               "Acho que você é muito teimoso!"
             ],
             "ru": [
-              "По-моему, ты очень своевольная!"
+              "По-моему, ты очень своевольный!"
             ],
             "s-cn": [
               "我看你倒是犟得很！"
@@ -7822,7 +7822,7 @@
               "Ah oui, avec les câbles et les bagues. J'ai dû les nettoyer, l'autre jour."
             ],
             "it": [
-              "Ah sì, con i cavi e le boccole. Ho dovuto pulirli, quella volta."
+              "Ah sì, con cavi e cilindri. Ho dovuto pulirli, quella volta."
             ],
             "ja": [
               "ああ、あれね。"
@@ -7834,7 +7834,7 @@
               "Ahhh, é, com os cabos e as buchas. Tive que limpar isso, naquela vez."
             ],
             "ru": [
-              "А, да, с тросами и втулками. Мне пришлось их чистить в тот раз."
+              "А, да, тросы и втулки. Мне пришлось их чистить в тот раз."
             ],
             "s-cn": [
               "啊，对，还有那些缆索和衬套。那回我还得清理它们呢。"
@@ -8095,7 +8095,7 @@
           "In confronto a te, ne ho ben poca.",
           "La mia forza di volontà agisce su elementi di comando fatti di una pietra speciale diversa",
           "che è piuttosto sensibile e malleabile...",
-          "Ah sì, con i cavi e le boccole. Ho dovuto pulirli, quella volta.",
+          "Ah sì, con cavi e cilindri. Ho dovuto pulirli, quella volta.",
           "Questi elementi hanno dei sistemi di controllo che cercano continuamente segni di interdizione:",
           "Un'occhiata e gli elementi di comando si bloccano.",
           "Auto-sabotaggio.",
@@ -8159,11 +8159,11 @@
           "...выточенные с изысканной точностью!..",
           "— а ты задаешь им разные углы —",
           "Да, но я не двигаю движители напрямую. Сила моей воли, какой бы она ни была, для этого недостаточна —",
-          "По-моему, ты очень своевольная!",
+          "По-моему, ты очень своевольный!",
           "По сравнению с тобой — что мышь перед горой.",
           "Моя воля воздействует на управляющие стойки из особого другого камня,",
           "который очень чувствителен и податлив...",
-          "А, да, с тросами и втулками. Мне пришлось их чистить в тот раз.",
+          "А, да, тросы и втулки. Мне пришлось их чистить в тот раз.",
           "В эти стойки встроены сканеры, которые постоянно следят за метками запрета.",
           "Один взгляд — и управляющие стойки застывают намертво.",
           "Самосаботаж.",
@@ -8262,8 +8262,8 @@
               "あたしたちの船を止めることしかしない。 戦争じゃ使えないのかい？"
             ],
             "ko": [
-              "그럼 엄청나게 강력한 마법처럼 보이던 그 유명한 금제라는 게 그냥 자해 행위일 뿐이라는 거네.",
-              "적이 스스로를 해칠 리는 없잖아. 그럼 전쟁에선 쓸모없겠구먼?"
+              "그럼 엄청나게 강력한 마법처럼 보이던 그 유명한 금제라는 게 그냥 스스로 발목을 잡는 행위에 불과하단 거네.",
+              "적이 스스로를 해칠 리는 없잖아. 그럼 전쟁에선 쓸모없는 거 아냐?"
             ],
             "pt-br": [
               "Então essas famosas interdições, que parecem magia superpoderosa, são só autossabotagem.",
@@ -8523,8 +8523,8 @@
           "侵略艦隊を止めたという 話に比べれば。"
         ],
         "ko": [
-          "그럼 엄청나게 강력한 마법처럼 보이던 그 유명한 금제라는 게 그냥 자해 행위일 뿐이라는 거네.",
-          "적이 스스로를 해칠 리는 없잖아. 그럼 전쟁에선 쓸모없겠구먼?",
+          "그럼 엄청나게 강력한 마법처럼 보이던 그 유명한 금제라는 게 그냥 스스로 발목을 잡는 행위에 불과하단 거네.",
+          "적이 스스로를 해칠 리는 없잖아. 그럼 전쟁에선 쓸모없는 거 아냐?",
           "그렇지.",
           "하지만 사람들은 그 금제 마법을 전투용 무기로 알고 있어.",
           "잠깐. 넌 그걸 나한테 말해도 되는 거야?",
@@ -8657,7 +8657,7 @@
               "Wenn ich dir nicht schnell genug bin, kannst du dir jemand anderen suchen!"
             ],
             "es": [
-              "¡Si no soy lo bastante rápida para ti, puedes encontrar a otra persona...!"
+              "¡Si no soy lo bastante rápida para ti, puedes encontrar a otra persona…!"
             ],
             "fr": [
               "Si je ne suis pas assez rapide pour toi, tu peux trouver quelqu'un d'autre !"
@@ -8669,10 +8669,10 @@
               "アタシが遅いと言うなら 他の誰か探しな…！"
             ],
             "ko": [
-              "내가 너무 느리다면 다른 사람을 찾아도 돼...!"
+              "내가 너무 느리다면 다른 사람을 찾아도 돼!"
             ],
             "pt-br": [
-              "Se eu não for rápido o bastante para você, você pode encontrar outra pessoa...!"
+              "Se eu não for rápida o bastante para você, você pode encontrar outra pessoa...!"
             ],
             "ru": [
               "Если я для тебя недостаточно быстра, ты можешь найти кого-нибудь другого!"
@@ -8875,7 +8875,7 @@
         ],
         "es": [
           "¡Por fin!",
-          "¡Si no soy lo bastante rápida para ti, puedes encontrar a otra persona...!",
+          "¡Si no soy lo bastante rápida para ti, puedes encontrar a otra persona…!",
           "Hay que navegar con la tripulación que uno tiene, como se solía decir.",
           "Haz de una vez lo que haga falta y pongámonos en marcha... rápido.",
           "¿«Rápido»? No me gusta la forma en que lo has dicho. ¿Qué está pasando?",
@@ -8907,7 +8907,7 @@
         ],
         "ko": [
           "드디어!",
-          "내가 너무 느리다면 다른 사람을 찾아도 돼...!",
+          "내가 너무 느리다면 다른 사람을 찾아도 돼!",
           "항해는 주어진 선원으로 어떻게든 해내야 하는 거라는 옛말도 있잖아.",
           "이제 일을 처리하고 어서 가자... 빨리.",
           "'빨리'? 네가 그렇게 말하니 영 불안한데. 무슨 일 있어?",
@@ -8915,7 +8915,7 @@
         ],
         "pt-br": [
           "Finalmente!",
-          "Se eu não for rápido o bastante para você, você pode encontrar outra pessoa...!",
+          "Se eu não for rápida o bastante para você, você pode encontrar outra pessoa...!",
           "Tem que zarpar com a tripulação que você tem, como disseram uma vez.",
           "Agora faça o serviço e vamos andando... rápido.",
           "“Rápido”? Não gostei de como você falou isso. O que está acontecendo?",
@@ -9825,7 +9825,7 @@
             ],
             "pt-br": [
               "Está ali bem ao norte de você. Um paraíso em miniatura, mas não se demore.",
-              "Sujem aqueles símbolos, quebrem o interdito!"
+              "Suje aqueles símbolos, quebre o interdito!"
             ],
             "ru": [
               "Вот оно прямо к северу от тебя. Маленький рай, но не задерживайся.",
@@ -9885,7 +9885,7 @@
         ],
         "pt-br": [
           "Está ali bem ao norte de você. Um paraíso em miniatura, mas não se demore.",
-          "Sujem aqueles símbolos, quebrem o interdito!"
+          "Suje aqueles símbolos, quebre o interdito!"
         ],
         "ru": [
           "Вот оно прямо к северу от тебя. Маленький рай, но не задерживайся.",
@@ -10752,7 +10752,7 @@
             "it": [
               "Pergamena arrotolata. Srotolandola, è completamente vuota.",
               "Ma ecco il punto: è perfetta. Non ci sono grinze o strappi.",
-              "I granelli di sabbia scivolano via. Anche le gocce d'acqua, e la carta rimane asciutta."
+              "I granelli di sabbia scivolano via. Anche le gocce d'acqua, così la carta rimane asciutta."
             ],
             "ja": [
               "巻かれた羊皮紙。 広げたけど真っ白だった。",
@@ -10975,7 +10975,7 @@
             ],
             "ko": [
               "잘 생각해 봐. 우리 선원들은 훈련받을 때 모든 달걀을 한 바구니에 담지 말란 얘기를 들어.",
-              "우린 상자 하나를 찾았어. 내 생각엔 그게 뭔가가 더 있을 수 있다는 단서라는 거지. 뭐 좀 보이는 게 있어?"
+              "상자를 하나 찾았잖아. 나에겐 그게 뭔가가 더 있을 수 있다는 단서로 보이는데. 뭐 좀 보이는 게 있어?"
             ],
             "pt-br": [
               "Pense nisso. Nós, Marinheiros, somos treinados a não colocar todos os ovos e assim por diante.",
@@ -11154,7 +11154,7 @@
               "그럴지도. 전부 찾으려면 머리를 꽤 영리하게 굴려야 할 거야."
             ],
             "pt-br": [
-              "Talvez. Para conseguir todos, você teria de ser bem astuto."
+              "Talvez. Para conseguir todos, você teria de ser bem astuta."
             ],
             "ru": [
               "Возможно. Чтобы собрать их все, нужно быть весьма смышленым."
@@ -11194,7 +11194,7 @@
               "Je suis toujours maline !"
             ],
             "it": [
-              "Sono sempre astuta!"
+              "Sono sempre piuttosto astuta!"
             ],
             "ja": [
               "頭はいつも使ってるよ！"
@@ -11364,7 +11364,7 @@
           "Ne ho sentito parlare, ma non ne ho mai visto uno. Cosa c'è dentro?",
           "Pergamena arrotolata. Srotolandola, è completamente vuota.",
           "Ma ecco il punto: è perfetta. Non ci sono grinze o strappi.",
-          "I granelli di sabbia scivolano via. Anche le gocce d'acqua, e la carta rimane asciutta.",
+          "I granelli di sabbia scivolano via. Anche le gocce d'acqua, così la carta rimane asciutta.",
           "Non ho mai sentito di una cosa simile, a parte nelle storie fantasy.",
           "Neanch'io. Questa è una scoperta incredibile.",
           "Questo disastro in cui ci troviamo ci ha dato un vantaggio. Proprio come nelle tue storie di un tempo.",
@@ -11375,7 +11375,7 @@
           "Ci sono sei tesori in totale e ora ne hai uno.",
           "Sei! Se sono tutti belli come questo, saremo nominati supervisori di settore quando torniamo!",
           "Forse. Per prenderli tutti, dovrai essere piuttosto astuta.",
-          "Sono sempre astuta!",
+          "Sono sempre piuttosto astuta!",
           "Bene. Come dici tu."
         ],
         "ja": [
@@ -11409,7 +11409,7 @@
           "나도. 엄청난 발견인걸.",
           "우리가 처한 이 재난이 뜻밖의 이득을 안겨 주는군. 네 옛이야기들처럼 말이야.",
           "잘 생각해 봐. 우리 선원들은 훈련받을 때 모든 달걀을 한 바구니에 담지 말란 얘기를 들어.",
-          "우린 상자 하나를 찾았어. 내 생각엔 그게 뭔가가 더 있을 수 있다는 단서라는 거지. 뭐 좀 보이는 게 있어?",
+          "상자를 하나 찾았잖아. 나에겐 그게 뭔가가 더 있을 수 있다는 단서로 보이는데. 뭐 좀 보이는 게 있어?",
           "이걸 기준으로 찾아보니, 그래. 전부 가려져 있어서 어디인진 안 보이지만,",
           "상자가 내부 공간을 숨기면 에테르에 작은 돌기를 만들어 내고, 난 그걸 느낄 수 있어.",
           "전부 합쳐 여섯 개야. 그리고 이제 하나를 네가 가졌군.",
@@ -11434,7 +11434,7 @@
           "mas, quando as caixas escondem o espaço dentro delas, isso faz pequenos calombos no éter, que eu consigo sentir.",
           "São seis tesouros no total, e agora você tem um.",
           "Seis! Se todos forem tão bons quanto este, vamos virar supervisores de setor quando voltarmos!",
-          "Talvez. Para conseguir todos, você teria de ser bem astuto.",
+          "Talvez. Para conseguir todos, você teria de ser bem astuta.",
           "Eu sempre sou sagaz!",
           "Bem. Como quiser."
         ],
@@ -11577,10 +11577,10 @@
               "Et pourtant, elle garde l'apparence et la texture du bois naturel."
             ],
             "it": [
-              "Ho trovato un secondo tesoro! Sembra un righello per misurare le distanze sulle carte nautiche.",
-              "Le incisioni sono di platino puro; le unità di misura sono più piccole dei nostri pollici.",
+              "Ho trovato un secondo tesoro! Sembra un righello per misurare le distanze sulle mappe.",
+              "Le incisioni sono di platino puro. Le unità di misura sono più piccole dei nostri pollici.",
               "Al posto dei numeri ci sono strani simboli, un simbolo solitario dove dovrebbe esserci ogni numero.",
-              "Questi sono i numeri, immagino? Ma nessuno a più cifre.",
+              "Immagino che questi siano i numeri... Ma nessuno è a più cifre.",
               "Il corpo del righello sembra di legno scuro. Ma la cosa più strana è che...",
               "si estende in lunghezza, come se fosse di gomma.",
               "Ma solo quando lo tiro nel senso della lunghezza. Se provo a piegarlo, è rigido.",
@@ -11599,7 +11599,7 @@
               "それなのに、見た目も手触りも ずっと普通の木のままなんだよ。"
             ],
             "ko": [
-              "또 하나 찾았어! 항해 지도에서 거리를 재는 자인 것 같아.",
+              "또 하나 찾았어! 차트에서 거리를 재는 자인 것 같아.",
               "눈금은 순도 높은 백금으로 되어 있고 측정 단위는 우리의 인치보다 짧아.",
               "숫자 대신 이상한 기호가 있고. 숫자가 있어야 할 자리마다 기호가 하나씩 있어.",
               "이게 숫자는 맞는 것 같은데? 그런데 전부 한 자리뿐이야.",
@@ -11607,7 +11607,7 @@
               "자가 길이 방향으로 늘어난다는 거야. 마치 고무로 만든 것처럼.",
               "하지만 길이 방향으로 잡아당길 때만 그래. 구부리려고 하면 뻣뻣해.",
               "잡아 늘리면 길이를 나타내는 눈금도 전부 일정하게 멀어져.",
-              "그러는 내내, 겉모습도 촉감도 그냥 천연 나무 같아."
+              "그러면서도 겉모습도 촉감도 그냥 나무 같아."
             ],
             "pt-br": [
               "Encontrei um segundo tesouro! Parece uma régua para medir distâncias em cartas náuticas.",
@@ -11622,11 +11622,11 @@
             ],
             "ru": [
               "Я нашла второе сокровище! Похоже на линейку для измерения расстояния на морских картах.",
-              "Разметка сделана из чистой платины, а единицы измерения мельче наших дюймов.",
+              "Метки сделаны из чистой платины, а единицы измерения мельче наших дюймов.",
               "Вместо чисел там странные символы, по одному символу на каждое число.",
               "Видимо, это и есть числа? Но многозначных нет.",
               "Корпус линейки похож на тёмное дерево. Но самое странное...",
-              "она тянется вдоль своей длины, будто сделана из резины.",
+              "она тянется по всей длине, будто сделана из резины.",
               "Но только если тянуть её вдоль. А согнуть не получается, она жёсткая.",
               "Когда я её растягиваю, расстояния между делениями равномерно увеличиваются.",
               "И при всём этом на вид и на ощупь это обычное дерево."
@@ -11896,10 +11896,10 @@
           "ces trésors seront peut-être nos seuls compagnons pendant très longtemps. Je doute qu'ils soient des interlocuteurs passionnants."
         ],
         "it": [
-          "Ho trovato un secondo tesoro! Sembra un righello per misurare le distanze sulle carte nautiche.",
-          "Le incisioni sono di platino puro; le unità di misura sono più piccole dei nostri pollici.",
+          "Ho trovato un secondo tesoro! Sembra un righello per misurare le distanze sulle mappe.",
+          "Le incisioni sono di platino puro. Le unità di misura sono più piccole dei nostri pollici.",
           "Al posto dei numeri ci sono strani simboli, un simbolo solitario dove dovrebbe esserci ogni numero.",
-          "Questi sono i numeri, immagino? Ma nessuno a più cifre.",
+          "Immagino che questi siano i numeri... Ma nessuno è a più cifre.",
           "Il corpo del righello sembra di legno scuro. Ma la cosa più strana è che...",
           "si estende in lunghezza, come se fosse di gomma.",
           "Ma solo quando lo tiro nel senso della lunghezza. Se provo a piegarlo, è rigido.",
@@ -11926,7 +11926,7 @@
           "この宝とは長い付き合いになるよ。 話し相手にはなってくれないけど。"
         ],
         "ko": [
-          "또 하나 찾았어! 항해 지도에서 거리를 재는 자인 것 같아.",
+          "또 하나 찾았어! 차트에서 거리를 재는 자인 것 같아.",
           "눈금은 순도 높은 백금으로 되어 있고 측정 단위는 우리의 인치보다 짧아.",
           "숫자 대신 이상한 기호가 있고. 숫자가 있어야 할 자리마다 기호가 하나씩 있어.",
           "이게 숫자는 맞는 것 같은데? 그런데 전부 한 자리뿐이야.",
@@ -11934,7 +11934,7 @@
           "자가 길이 방향으로 늘어난다는 거야. 마치 고무로 만든 것처럼.",
           "하지만 길이 방향으로 잡아당길 때만 그래. 구부리려고 하면 뻣뻣해.",
           "잡아 늘리면 길이를 나타내는 눈금도 전부 일정하게 멀어져.",
-          "그러는 내내, 겉모습도 촉감도 그냥 천연 나무 같아.",
+          "그러면서도 겉모습도 촉감도 그냥 나무 같아.",
           "늘어나는 나무라니. 배에겐 악몽 같은 물건이군.",
           "자는 길이를 재는 물건이잖아. 그런데 눈금이 늘어나게 만들 이유가 뭘까?",
           "너무 딴 데로 빠지진 말자. 여기서 못 나가면,",
@@ -11957,11 +11957,11 @@
         ],
         "ru": [
           "Я нашла второе сокровище! Похоже на линейку для измерения расстояния на морских картах.",
-          "Разметка сделана из чистой платины, а единицы измерения мельче наших дюймов.",
+          "Метки сделаны из чистой платины, а единицы измерения мельче наших дюймов.",
           "Вместо чисел там странные символы, по одному символу на каждое число.",
           "Видимо, это и есть числа? Но многозначных нет.",
           "Корпус линейки похож на тёмное дерево. Но самое странное...",
-          "она тянется вдоль своей длины, будто сделана из резины.",
+          "она тянется по всей длине, будто сделана из резины.",
           "Но только если тянуть её вдоль. А согнуть не получается, она жёсткая.",
           "Когда я её растягиваю, расстояния между делениями равномерно увеличиваются.",
           "И при всём этом на вид и на ощупь это обычное дерево.",
@@ -12183,8 +12183,8 @@
             "it": [
               "Non subito. Mmm. Strano. Gli spilli restano allineati nella borsa.",
               "Non sembrano magnetici, ma ogni volta che due di loro si avvicinano, per qualche motivo si allineano perfettamente. Ma senza alcuna forza che io possa rilevare.",
-              "È facilissimo girarli in direzioni opposte, ma preferiscono tornare a guardarsi.",
-              "Le incisioni non sono usurate; i colori e i bordi sono perfetti."
+              "È facilissimo girarli in direzioni opposte, ma preferiscono tornare alla posizione precedente.",
+              "Le incisioni non sono usurate: i colori e i bordi sono perfetti."
             ],
             "ja": [
               "ないけど、すごい数だ。 それに、どれも同じ方向を向いてる。",
@@ -12193,7 +12193,7 @@
               "摩耗がない。 色も縁も新品同様だ。"
             ],
             "ko": [
-              "당장은 없어. 흠. 이상하네. 핀들이 전부 가방 안에서 나란히 정렬돼 있어.",
+              "당장은 없어. 흠. 이상하네. 핀들이 가방 안에서 나란히 정렬돼 있어.",
               "자성은 느껴지지 않는데, 둘이 가까워지기만 하면 딱 맞춰 정렬돼. 그런데 감지되는 힘은 없어.",
               "서로 반대쪽을 향하게 돌리기는 쉬운데, 자꾸 원래대로 돌아가려 해.",
               "새겨진 무늬는 닳지 않았고, 색과 모서리도 완벽해."
@@ -12208,7 +12208,7 @@
               "Сразу нет. Хм. Странно. Булавки в мешочке остаются выровненными.",
               "На ощупь они не магнитные, но стоит двум из них сблизиться, они почему-то аккуратно выстраиваются в линию. Но без какой-либо силы, которую я могла бы почувствовать.",
               "Их легко отвернуть друг от друга, но они всё равно поворачиваются обратно.",
-              "Гравировка не изношена; цвета и края идеальны."
+              "Гравировка не потёрта; цвета и края идеальны."
             ],
             "s-cn": [
               "一时认不出来。嗯……奇怪，袋里的针始终朝着同一个方向。",
@@ -12297,7 +12297,7 @@
               "Alle Schätze, die wir bisher gefunden haben, scheinen Hilfsmittel für die Kartografie zu sein."
             ],
             "es": [
-              "Todos estos tesoros hasta ahora parecen ser útiles para la cartografía."
+              "Todos estos tesoros hasta ahora parecen ser útiles de cartografía."
             ],
             "fr": [
               "Jusqu'ici, tous ces trésors semblent être des instruments de cartographie."
@@ -12423,7 +12423,7 @@
           "Es facilísimo girarlos para que no se apunten entre sí, pero prefieren volver a su posición.",
           "Los grabados no están gastados; los colores y los bordes están perfectos.",
           "Me alegro de que se te ocurriera buscar otros cofres.",
-          "Todos estos tesoros hasta ahora parecen ser útiles para la cartografía.",
+          "Todos estos tesoros hasta ahora parecen ser útiles de cartografía.",
           "Son piezas del mismo conjunto. Quizá encontremos más, para ayudar a que todo esto tenga sentido."
         ],
         "fr": [
@@ -12446,8 +12446,8 @@
           "Luoghi che riconosci?",
           "Non subito. Mmm. Strano. Gli spilli restano allineati nella borsa.",
           "Non sembrano magnetici, ma ogni volta che due di loro si avvicinano, per qualche motivo si allineano perfettamente. Ma senza alcuna forza che io possa rilevare.",
-          "È facilissimo girarli in direzioni opposte, ma preferiscono tornare a guardarsi.",
-          "Le incisioni non sono usurate; i colori e i bordi sono perfetti.",
+          "È facilissimo girarli in direzioni opposte, ma preferiscono tornare alla posizione precedente.",
+          "Le incisioni non sono usurate: i colori e i bordi sono perfetti.",
           "Sono contenta che tu abbia pensato di cercare altri scrigni.",
           "Tutti questi tesori finora sembrano essere strumenti per la cartografia.",
           "Pezzi dello stesso set. Forse ne troveremo altri, per aiutarci a capirci qualcosa."
@@ -12470,7 +12470,7 @@
           "각 핀의 머리 부분에는 다양한 장면이 새겨져 있어. 색칠도 되어 있고.",
           "도시, 사막, 바다 절벽... 아마 저런 핀이 백 개쯤 될 거야. 전부 그림이 달라.",
           "알아볼 수 있는 곳 있어?",
-          "당장은 없어. 흠. 이상하네. 핀들이 전부 가방 안에서 나란히 정렬돼 있어.",
+          "당장은 없어. 흠. 이상하네. 핀들이 가방 안에서 나란히 정렬돼 있어.",
           "자성은 느껴지지 않는데, 둘이 가까워지기만 하면 딱 맞춰 정렬돼. 그런데 감지되는 힘은 없어.",
           "서로 반대쪽을 향하게 돌리기는 쉬운데, 자꾸 원래대로 돌아가려 해.",
           "새겨진 무늬는 닳지 않았고, 색과 모서리도 완벽해.",
@@ -12499,7 +12499,7 @@
           "Сразу нет. Хм. Странно. Булавки в мешочке остаются выровненными.",
           "На ощупь они не магнитные, но стоит двум из них сблизиться, они почему-то аккуратно выстраиваются в линию. Но без какой-либо силы, которую я могла бы почувствовать.",
           "Их легко отвернуть друг от друга, но они всё равно поворачиваются обратно.",
-          "Гравировка не изношена; цвета и края идеальны.",
+          "Гравировка не потёрта; цвета и края идеальны.",
           "Рад, что ты догадалась поискать другие сундуки.",
           "Похоже, все эти сокровища пока что — инструменты для картографии.",
           "Части одного набора. Может, мы найдем еще, и тогда все станет понятнее."
@@ -12590,7 +12590,7 @@
             ],
             "it": [
               "Questo è strano. Sembra una meridiana portatile, con incisioni lungo la circonferenza e un palo al centro.",
-              "Mentre lo giro, l'ombra dell'asta cade dove non me l'aspetto.",
+              "Se la faccio ruotare, l'ombra dell'asta cade dove non me l'aspetto.",
               "Non corrisponde alle ombre naturali delle mie mani.",
               "Non capisco come sia possibile."
             ],
@@ -12614,7 +12614,7 @@
             ],
             "ru": [
               "А это странная вещь. Похоже на переносные солнечные часы, с гравировкой по окружности и столбиком посередине.",
-              "Когда я его поворачиваю, тень от штырька падает совсем не туда, куда я ожидаю.",
+              "Когда я его поворачиваю, тень от столбика падает совсем не туда, куда я ожидаю.",
               "Она не совпадает с естественными тенями от моих рук.",
               "Не понимаю, как это возможно."
             ],
@@ -12727,7 +12727,7 @@
               "보통은 한 철에 하나만 찾아도 운이 좋은 편이거든."
             ],
             "pt-br": [
-              "Estou impressionado. Em termos de valiosos de origem desconhecida,",
+              "Estou impressionada. Em termos de valiosos de origem desconhecida,",
               "normalmente se encontramos um desses em uma temporada inteira, já é sorte."
             ],
             "ru": [
@@ -12955,7 +12955,7 @@
         ],
         "it": [
           "Questo è strano. Sembra una meridiana portatile, con incisioni lungo la circonferenza e un palo al centro.",
-          "Mentre lo giro, l'ombra dell'asta cade dove non me l'aspetto.",
+          "Se la faccio ruotare, l'ombra dell'asta cade dove non me l'aspetto.",
           "Non corrisponde alle ombre naturali delle mie mani.",
           "Non capisco come sia possibile.",
           "Gli ingegneri della Gilda saranno ansiosi di svelare quel mistero, immagino.",
@@ -12995,7 +12995,7 @@
           "Ela não acompanha as sombras naturais das minhas mãos.",
           "Não entendo como isso é possível.",
           "Os engenheiros da Guilda vão querer desmontar esse mistério, imagino.",
-          "Estou impressionado. Em termos de valiosos de origem desconhecida,",
+          "Estou impressionada. Em termos de valiosos de origem desconhecida,",
           "normalmente se encontramos um desses em uma temporada inteira, já é sorte.",
           "Desde que você se juntou a mim, estamos indo um pouco melhor que isso.",
           "Sim, tudo bem, ainda assim, isso continua ótimo.",
@@ -13003,7 +13003,7 @@
         ],
         "ru": [
           "А это странная вещь. Похоже на переносные солнечные часы, с гравировкой по окружности и столбиком посередине.",
-          "Когда я его поворачиваю, тень от штырька падает совсем не туда, куда я ожидаю.",
+          "Когда я его поворачиваю, тень от столбика падает совсем не туда, куда я ожидаю.",
           "Она не совпадает с естественными тенями от моих рук.",
           "Не понимаю, как это возможно.",
           "Инженеры Гильдии, полагаю, с энтузиазмом разберут эту загадку.",
@@ -13093,7 +13093,7 @@
             ],
             "it": [
               "Questa è una boccetta di inchiostro, ma non c'è tappo. Solo una bottiglia a bocca aperta.",
-              "Quando ho aperto lo scrigno, era di lato, ma non si era rovesciato inchiostro.",
+              "Quando ho aperto lo scrigno, era di lato, ma l'inchiostro non si era rovesciato.",
               "All'inizio pensavo che l'inchiostro si fosse seccato, ma se agito la boccetta, l'inchiostro si muove normalmente."
             ],
             "ja": [
@@ -13276,7 +13276,7 @@
             ],
             "ru": [
               "Будь я существом с руками — особенно неуклюжими, как у тебя, —",
-              "Я бы очень ценил чернила, которые не проливаются."
+              "я бы очень ценил чернила, которые не проливаются."
             ],
             "s-cn": [
               "我要是有手……尤其是像你那样笨手笨脚的一双手……",
@@ -13310,7 +13310,7 @@
               "In der Tat. Damit haben wir jetzt fünf Schätze, also sind wir praktisch zu 99 Prozent fertig."
             ],
             "es": [
-              "Claro que sí. Con esto, ya tenemos cinco tesoros, así que tenemos más o menos... el 99 por ciento del camino hecho."
+              "Claro que sí. Con esto, ya tenemos cinco tesoros, así que tenemos más o menos el 99 por ciento del camino hecho."
             ],
             "fr": [
               "En effet. Avec ça, nous avons maintenant cinq trésors, donc nous en sommes à environ... 99 pour cent du chemin."
@@ -13481,7 +13481,7 @@
           "Así es.",
           "Si yo fuera un ser con manos, especialmente si tuviera manos torpes como las tuyas,",
           "Agradecería mucho una tinta que no pueda derramarse.",
-          "Claro que sí. Con esto, ya tenemos cinco tesoros, así que tenemos más o menos... el 99 por ciento del camino hecho.",
+          "Claro que sí. Con esto, ya tenemos cinco tesoros, así que tenemos más o menos el 99 por ciento del camino hecho.",
           "Puedes planteártelo así, si quieres.",
           "¡Lo haré!"
         ],
@@ -13499,7 +13499,7 @@
         ],
         "it": [
           "Questa è una boccetta di inchiostro, ma non c'è tappo. Solo una bottiglia a bocca aperta.",
-          "Quando ho aperto lo scrigno, era di lato, ma non si era rovesciato inchiostro.",
+          "Quando ho aperto lo scrigno, era di lato, ma l'inchiostro non si era rovesciato.",
           "All'inizio pensavo che l'inchiostro si fosse seccato, ma se agito la boccetta, l'inchiostro si muove normalmente.",
           "Eppure l'inchiostro si rifiuta di uscire dall'apertura, senza motivo apparente?",
           "Esatto.",
@@ -13552,7 +13552,7 @@
           "Но чернила просто отказываются вытекать из горлышка, и причин этому не видно?",
           "Именно так.",
           "Будь я существом с руками — особенно неуклюжими, как у тебя, —",
-          "Я бы очень ценил чернила, которые не проливаются.",
+          "я бы очень ценил чернила, которые не проливаются.",
           "И правда. С этим у нас уже пять сокровищ, так что мы практически на 99 процентов закончили.",
           "Можешь считать и так, если хочешь.",
           "Буду!"
@@ -13624,7 +13624,7 @@
               "Feine Spitze ... breite Spitze ... ein Pinsel mit kurzen Borsten ... ein Löschkissen ... eine Kugel mit einer spiralförmigen Rille."
             ],
             "es": [
-              "Este parece una pluma estilográfica. Hay un anillo giratorio alrededor del cuello de la pluma, y al moverlo, ¡la punta cambia de forma!",
+              "Esta parece una pluma estilográfica. Hay un anillo giratorio alrededor del cuello de la pluma, y al moverlo, ¡la punta cambia de forma!",
               "Punta fina... punta gruesa... un pincel de cerdas cortas... un secante... una bola con un surco en espiral."
             ],
             "fr": [
@@ -13632,7 +13632,7 @@
               "Pointe fine... pointe épaisse... un pinceau à poils courts... un buvard... une bille creusée d'une rainure en spirale."
             ],
             "it": [
-              "Questa sembra una penna stilografica. C'è una ghiera intorno al collo della penna e, mentre la giro, la punta... cambia forma!",
+              "Questa sembra una penna stilografica. C'è un disco intorno al collo della penna e ruotandolo... la punta cambia forma!",
               "Punta fine... punta grossa... un pennello a setole corte... un tampone... una sfera con un solco a spirale."
             ],
             "ja": [
@@ -13641,7 +13641,7 @@
             ],
             "ko": [
               "이건 만년필 같아. 펜 목 부분에는 다이얼이 있고, 돌리면 펜촉 모양이 바뀌어.",
-              "가는 촉... 두꺼운 촉... 털이 짧은 붓... 먹을 빨아들이는 부분... 나선형 홈이 파인 공."
+              "가는 촉... 두꺼운 촉... 털이 짧은 붓... 잉크를 흡수하는 부분... 나선형 홈이 파인 공."
             ],
             "pt-br": [
               "Esta parece uma caneta-tinteiro. Há um anel giratório ao redor do pescoço da caneta e, quando eu o viro, a ponta... muda de forma!",
@@ -13732,13 +13732,13 @@
               "Entschuldige! Es fühlt sich einfach gut an, ihn in der Hand zu halten ... Und daran herumzuspielen!"
             ],
             "es": [
-              "¡Perdón! Simplemente sienta bien sostenerla... ¡y manipularla!"
+              "¡Perdón! Es solo que sienta bien sostenerla... ¡y manipularla!"
             ],
             "fr": [
               "Désolée ! C'est juste tellement agréable à tenir et à manipuler."
             ],
             "it": [
-              "Scusa! È solo che è piacevole tenerla in mano e maneggiarla."
+              "Scusa! È proprio piacevole da tenere in mano e giocarci!"
             ],
             "ja": [
               "後にするけど… モノをいじくるのは楽しいね。"
@@ -13830,7 +13830,7 @@
               "Siehst du! Der Ausflug hat sich gelohnt!"
             ],
             "es": [
-              "¡Ya ves! ¡La excursión ha valido la pena!"
+              "¡Mira! ¡La excursión ha valido la pena!"
             ],
             "fr": [
               "Tu vois ! Cette excursion en valait la peine !"
@@ -13842,7 +13842,7 @@
               "全部手に入った！"
             ],
             "ko": [
-              "들른 보람이 있네!"
+              "거봐! 탐험하길 잘했잖아!"
             ],
             "pt-br": [
               "Viu! Valeu a excursão!"
@@ -13939,12 +13939,12 @@
           "Und jetzt komm bitte sehr schnell zurück."
         ],
         "es": [
-          "Este parece una pluma estilográfica. Hay un anillo giratorio alrededor del cuello de la pluma, y al moverlo, ¡la punta cambia de forma!",
+          "Esta parece una pluma estilográfica. Hay un anillo giratorio alrededor del cuello de la pluma, y al moverlo, ¡la punta cambia de forma!",
           "Punta fina... punta gruesa... un pincel de cerdas cortas... un secante... una bola con un surco en espiral.",
           "¡No te pases jugueteando con ella! ¡No la vayas a romper!",
-          "¡Perdón! Simplemente sienta bien sostenerla... ¡y manipularla!",
+          "¡Perdón! Es solo que sienta bien sostenerla... ¡y manipularla!",
           "Manos. Tenerlas debe de estar bien. En fin, ese era el último de los tesoros. No detecto nada más.",
-          "¡Ya ves! ¡La excursión ha valido la pena!",
+          "¡Mira! ¡La excursión ha valido la pena!",
           "Ahora, hazme el favor de volver aquí muy rápido."
         ],
         "fr": [
@@ -13957,10 +13957,10 @@
           "Maintenant, reviens ici très vite, s'il te plaît."
         ],
         "it": [
-          "Questa sembra una penna stilografica. C'è una ghiera intorno al collo della penna e, mentre la giro, la punta... cambia forma!",
+          "Questa sembra una penna stilografica. C'è un disco intorno al collo della penna e ruotandolo... la punta cambia forma!",
           "Punta fine... punta grossa... un pennello a setole corte... un tampone... una sfera con un solco a spirale.",
           "Non giocarci troppo! Non rompiamola!",
-          "Scusa! È solo che è piacevole tenerla in mano e maneggiarla.",
+          "Scusa! È proprio piacevole da tenere in mano e giocarci!",
           "Le mani. Dev'essere bello. Comunque, è l'ultimo dei tesori. Non rilevo altro.",
           "Vedi! Ne è valsa la pena!",
           "Ora, per favore, torna qui molto in fretta."
@@ -13976,11 +13976,11 @@
         ],
         "ko": [
           "이건 만년필 같아. 펜 목 부분에는 다이얼이 있고, 돌리면 펜촉 모양이 바뀌어.",
-          "가는 촉... 두꺼운 촉... 털이 짧은 붓... 먹을 빨아들이는 부분... 나선형 홈이 파인 공.",
+          "가는 촉... 두꺼운 촉... 털이 짧은 붓... 잉크를 흡수하는 부분... 나선형 홈이 파인 공.",
           "너무 갖고 놀지 마! 부러뜨리면 안 되니까!",
           "미안! 그냥 손에 쥐고 움직이는 것만으로도 느낌이 좋아서.",
           "그래. 손이 있는 건 정말 좋겠지. 어쨌든, 이게 마지막이야. 더는 감지되지 않아.",
-          "들른 보람이 있네!",
+          "거봐! 탐험하길 잘했잖아!",
           "이제 제발 아주 빨리 돌아와줘."
         ],
         "pt-br": [
@@ -14075,7 +14075,7 @@
               "돌아왔군! 여기서 나가자."
             ],
             "pt-br": [
-              "Bem-vindo de volta! Vamos sair daqui."
+              "Bem-vinda de volta! Vamos sair daqui."
             ],
             "ru": [
               "С возвращением! Давай выбираться отсюда."
@@ -14123,7 +14123,7 @@
           "돌아왔군! 여기서 나가자."
         ],
         "pt-br": [
-          "Bem-vindo de volta! Vamos sair daqui."
+          "Bem-vinda de volta! Vamos sair daqui."
         ],
         "ru": [
           "С возвращением! Давай выбираться отсюда."
@@ -14438,7 +14438,7 @@
               "Tu penses que le trajet du retour se passera sans encombre, ou qu'on va encore nous barrer la route ?"
             ],
             "it": [
-              "Pensi che filerà tutto liscio per tutto il viaggio di ritorno, o ci fermeranno ancora?"
+              "Pensi che filerà tutto liscio durante il viaggio di ritorno o ci fermeranno ancora?"
             ],
             "ja": [
               "順調にいきそう？ それともまた足止めされる？"
@@ -14499,7 +14499,7 @@
               "Se eu fosse um gênio apostador, o que você sabe que sou, apostaria algumas moedas de prata em “interceptados”."
             ],
             "ru": [
-              "Будь я джинном-игроком, а ты знаешь, что я такой и есть, я бы поставил пару серебряных на «попадём в засаду»."
+              "Будь я джинном-игроком, а ты знаешь, что именно им я и являюсь, я бы поставил пару серебряшек на «попадём в засаду»."
             ],
             "s-cn": [
               "如果我是个爱下注的精灵——这点你心知肚明—— 我会押几枚银币在“会被什么拦住”上。"
@@ -14530,13 +14530,13 @@
               "Dann also auf ins nächste Unheil. Hinaus aufs Meer, ahoi!"
             ],
             "es": [
-              "Bueno, pues zarpemos hacia la próxima calamidad. ¡Rumbo al mar!"
+              "Bueno, pues zarpemos hacia la próxima calamidad. ¡Rumbo a la mar!"
             ],
             "fr": [
               "En route pour la prochaine calamité, alors. Cap vers le large, ohé !"
             ],
             "it": [
-              "Allora, verso la prossima calamità. Verso il mare, evviva!"
+              "Verso la prossima calamità, dunque. Verso il mare, evviva!"
             ],
             "ja": [
               "なら冒険へ、ヨーソロー！"
@@ -14653,7 +14653,7 @@
           "La ruta da un rodeo y pasaremos por algunos lugares desconocidos por el camino.",
           "¿Crees que todo irá viento en popa durante todo el viaje de vuelta o nos interceptarán otra vez?",
           "Si yo fuera un djinn apostador, lo que sabes que soy, apostaría unas monedas de plata a que nos van a interceptar.",
-          "Bueno, pues zarpemos hacia la próxima calamidad. ¡Rumbo al mar!",
+          "Bueno, pues zarpemos hacia la próxima calamidad. ¡Rumbo a la mar!",
           "¡Arriad la mesana!"
         ],
         "fr": [
@@ -14675,9 +14675,9 @@
           "Avanti!",
           "Partiamo. La strada per l'avamposto è lunga.",
           "Il percorso è tortuoso, e passeremo per alcuni luoghi sconosciuti lungo la via.",
-          "Pensi che filerà tutto liscio per tutto il viaggio di ritorno, o ci fermeranno ancora?",
+          "Pensi che filerà tutto liscio durante il viaggio di ritorno o ci fermeranno ancora?",
           "Se fossi un genio che scommette, e sai che lo sono, punterei qualche moneta d'argento su \"ci fermeranno ancora\".",
-          "Allora, verso la prossima calamità. Verso il mare, evviva!",
+          "Verso la prossima calamità, dunque. Verso il mare, evviva!",
           "Verso il mare, evvivaaa!"
         ],
         "ja": [
@@ -14724,7 +14724,7 @@
           "Отправимся в путь. Обратно до заставы путь неблизкий.",
           "Маршрут кружной, и по пути нам придется пройти через неведомые места.",
           "Как думаешь, все пройдет гладко на всём обратном пути, или нас опять перехватят?",
-          "Будь я джинном-игроком, а ты знаешь, что я такой и есть, я бы поставил пару серебряных на «попадём в засаду».",
+          "Будь я джинном-игроком, а ты знаешь, что именно им я и являюсь, я бы поставил пару серебряшек на «попадём в засаду».",
           "Что ж, навстречу новым бедствиям. Эге-гей, вперёд, в море!",
           "Вперёд, в море!"
         ],
@@ -14805,7 +14805,7 @@
               "戻ったよ！"
             ],
             "ko": [
-              "안녕하세요, 선생님!"
+              "안녕하십니까아!"
             ],
             "pt-br": [
               "Olá, senhor!"
@@ -14908,7 +14908,7 @@
           "無事だね。さあ行こう。 君があの宝を見つけたおかげで ただの災難が幸運に変わった。"
         ],
         "ko": [
-          "안녕하세요, 선생님!",
+          "안녕하십니까아!",
           "다시 봐서 반갑네. 가자."
         ],
         "pt-br": [
@@ -14980,7 +14980,7 @@
               "宝はいくつあるんだっけ？ 6？ 他を探しにいくよ！"
             ],
             "ko": [
-              "보물 말이야. 여섯 개라 했잖아. 나머지도 찾자."
+              "저기, 보물 말이야. 여섯 개라 했잖아. 나머지도 찾자."
             ],
             "pt-br": [
               "Ei. Tesouros! Você disse que eram seis. Vamos buscar o resto."
@@ -15176,13 +15176,13 @@
               "Hmm, ... ja! Jeder anständige Seefahrer würde so eine Truhe mindestens drei Fuß tief vergraben. Doppelt so tief, wenn er es wirklich ernst meint."
             ],
             "es": [
-              "Hmm,... ¡claro que sí! Ningún marinero decente enterraría un cofre así a menos de tres pies de profundidad. El doble, si va en serio."
+              "Hmm,... ¡claro que sí! Ningún marinero decente enterraría un cofre así a menos de tres pies de profundidad. Al menos al doble, si va en serio."
             ],
             "fr": [
               "Hmm, oui... Aucun marin digne de ce nom n'enterrerait un tel coffre à moins de trois pieds de profondeur. Le double, s'il est vraiment sérieux."
             ],
             "it": [
-              "Mmh, sì...! Nessun buon marinaio seppellirebbe un simile forziere a meno di tre piedi di profondità. Il doppio, se fa davvero sul serio."
+              "Mmm, sì...! Nessun buon marinaio seppellirebbe un simile forziere a meno di tre piedi di profondità. Il doppio, se fa davvero sul serio."
             ],
             "ja": [
               "うーん…そうだね！ まともな船乗りなら、金庫は 少なくとも3フィートの深さには埋めるよ。 本気なら、その倍は掘るね。"
@@ -15194,7 +15194,7 @@
               "Hmm, isso mesmo...! Nenhum bom marinheiro enterraria um baú desses a menos de três pés de profundidade. O dobro disso, se estiver mesmo falando sério."
             ],
             "ru": [
-              "Хм... точно! Ни один приличный моряк не зарыл бы такой сундук меньше чем на три фута. А если всерьёз за дело взялся — то вдвое глубже."
+              "Хм... точно! Ни один приличный моряк не зарыл бы такой сундук меньше чем на три фута. А если б всерьёз за дело взялся — то вдвое глубже."
             ],
             "s-cn": [
               "嗯……是！合格的航海师埋保险箱，至少也得埋到三英尺深。 真要认真埋的话，还得再深一倍。"
@@ -15406,7 +15406,7 @@
           "Vale. Esperaremos a que pase la tormenta, ¡volveremos y nos llevaremos el resto!",
           "Si la tormenta no se los regala al mar.",
           "Esa caja que encontraste asomaba un poco por la arena, ¿no?",
-          "Hmm,... ¡claro que sí! Ningún marinero decente enterraría un cofre así a menos de tres pies de profundidad. El doble, si va en serio.",
+          "Hmm,... ¡claro que sí! Ningún marinero decente enterraría un cofre así a menos de tres pies de profundidad. Al menos al doble, si va en serio.",
           "Es posible que las tormentas los hayan ido desenterrando poco a poco. Puede que esta termine el trabajo. Ya veremos.",
           "Primero salgamos de aquí. Ya podrás admirar tu nuevo tesoro por el camino y alegrarte de que sigamos con vida.",
           "¡Tesoro, eh!",
@@ -15430,7 +15430,7 @@
           "Va bene. Aspetteremo che passi la tempesta, poi torneremo e prenderemo il resto!",
           "Se la tempesta non li darà in pasto al mare.",
           "Quella scatola che hai trovato spuntava un po' dalla sabbia, giusto?",
-          "Mmh, sì...! Nessun buon marinaio seppellirebbe un simile forziere a meno di tre piedi di profondità. Il doppio, se fa davvero sul serio.",
+          "Mmm, sì...! Nessun buon marinaio seppellirebbe un simile forziere a meno di tre piedi di profondità. Il doppio, se fa davvero sul serio.",
           "È possibile che le tempeste li abbiano dissotterrati a poco a poco. Questa potrebbe finire il lavoro. Vedremo.",
           "Prima allontaniamoci. Potrai ammirare il tuo nuovo tesoro strada facendo, e gioire di essere ancora in vita.",
           "Tesoro, evviva!",
@@ -15449,7 +15449,7 @@
           "命万歳！"
         ],
         "ko": [
-          "보물 말이야. 여섯 개라 했잖아. 나머지도 찾자.",
+          "저기, 보물 말이야. 여섯 개라 했잖아. 나머지도 찾자.",
           "시간 없어. 엄청난 위력의 폭풍이 다가오는 걸 봤어. 지금 떠나지 않으면 난파될 거야.",
           "좋아. 폭풍이 지나가길 기다렸다 돌아와서, 나머지도 챙기자!",
           "폭풍이 그걸 바다에 먹이로 던져 버리지 않는다면야.",
@@ -15478,7 +15478,7 @@
           "Ладно. Переждём бурю, вернёмся и заберём остальное!",
           "Если буря не скормит их морю.",
           "Тот ящик, что ты нашла, чуть-чуть торчал из песка, да?",
-          "Хм... точно! Ни один приличный моряк не зарыл бы такой сундук меньше чем на три фута. А если всерьёз за дело взялся — то вдвое глубже.",
+          "Хм... точно! Ни один приличный моряк не зарыл бы такой сундук меньше чем на три фута. А если б всерьёз за дело взялся — то вдвое глубже.",
           "Возможно, бури постепенно обнажали их. Эта может довершить дело. Посмотрим.",
           "Сперва выберемся отсюда. По дороге сможешь любоваться новым сокровищем и радоваться, что мы живы.",
           "Сокровища, хейо!",
@@ -15674,8 +15674,8 @@
               "On n'a qu'à faire des allers-retours rapides vers les îles que j'ai manquées, et creuser un peu."
             ],
             "it": [
-              "Non abbiamo ancora tutti i tesori. Ora dovrebbe essere facile prendere gli altri.",
-              "Faremo solo brevi salti verso le isole che mi sono sfuggite, e scaveremo."
+              "Non abbiamo ancora preso tutti i tesori. Ma ora dovrebbe essere facile prendere gli altri!",
+              "Faremo solo un salto verso le isole che mi sono sfuggite, e scaveremo."
             ],
             "ja": [
               "残りの宝を探すのは。 きっと簡単だよ。",
@@ -15683,14 +15683,14 @@
             ],
             "ko": [
               "아직 보물을 다 찾진 못했어. 이제 나머지를 찾는 건 쉬울 거야.",
-              "그냥 내가 놓친 섬에 잠깐씩 들러서 파면 돼."
+              "그냥 내가 빠뜨린 섬에 잠깐씩 들러서 파면 돼."
             ],
             "pt-br": [
               "Ainda não temos todos os tesouros. Agora deve ser fácil buscar o resto.",
               "É só fazer pequenas paradas nas ilhas que eu perdi, e cavar."
             ],
             "ru": [
-              "У нас не все сокровища. Теперь остальное должно быть легко добыть.",
+              "У нас не все сокровища. Теперь остальное добудем легко.",
               "Просто быстро рванём до тех островов, что я пропустила, и немного покопаем."
             ],
             "s-cn": [
@@ -15786,13 +15786,13 @@
               "Na schön. Sobald das Wetter aufgeklart ist – und wir uns etwas ausgeruht haben! – kommen wir zurück und holen die anderen Schätze."
             ],
             "es": [
-              "Vale. Cuando amaine el temporal, ¡y hayamos descansado un poco!, volveremos a por los demás tesoros."
+              "Vale. Cuando amaine el temporal y hayamos descansado un poco, volveremos a por los demás tesoros."
             ],
             "fr": [
               "D'accord. Quand le temps se sera calmé, et qu'on se sera un peu reposés, on reviendra chercher les autres trésors."
             ],
             "it": [
-              "Va bene. Quando il tempo si sarà rimesso (e avremo riposato un po'!), torneremo per gli altri tesori."
+              "Va bene. Quando il tempo si sarà rimesso (e avremo riposato un po'), torneremo per gli altri tesori."
             ],
             "ja": [
               "なら宝は後回しだ！"
@@ -15801,7 +15801,7 @@
               "날이 개면... 우리도 좀 쉬고 나서... 다른 보물을 가지러 돌아오자."
             ],
             "pt-br": [
-              "Está bem. Quando o tempo melhorar — e descansarmos um pouco! — voltaremos para buscar os outros tesouros."
+              "Está bem. Quando o tempo melhorar (e descansarmos um pouco!), voltaremos para buscar os outros tesouros."
             ],
             "ru": [
               "Ладно. Когда погода наладится... и мы немного отдохнём... вернёмся за остальными сокровищами."
@@ -15902,7 +15902,7 @@
               "C'est vrai ! Tout marin digne de ce nom enterrerait ces trésors bien profondément."
             ],
             "it": [
-              "Proprio così! Qualunque marinaio che si rispetti seppellirebbe questi tesori ben in profondità."
+              "Proprio così! Qualunque marinaio che si rispetti seppellirebbe questi tesori ben benino in profondità."
             ],
             "ja": [
               "そう！ まともな船乗りなら そんな浅くは埋めないよ。"
@@ -16143,7 +16143,7 @@
           "Solo saltaremos rápidamente entre las islas que me faltaban y excavaremos un poco.",
           "En un mundo más amable, sería así. Pero la tormenta que se nos viene encima es realmente temible.",
           "No está garantizado que escapemos de su furia aunque nos vayamos ahora mismo.",
-          "Vale. Cuando amaine el temporal, ¡y hayamos descansado un poco!, volveremos a por los demás tesoros.",
+          "Vale. Cuando amaine el temporal y hayamos descansado un poco, volveremos a por los demás tesoros.",
           "Si la tormenta no se los regala al mar.",
           "Los que encontraste asomaban un poco por la arena, ¿no?",
           "¡Y tanto! Cualquier marinero que se precie enterraría estos tesoros bien hondo.",
@@ -16169,14 +16169,14 @@
           "Cap au large, ohé !"
         ],
         "it": [
-          "Non abbiamo ancora tutti i tesori. Ora dovrebbe essere facile prendere gli altri.",
-          "Faremo solo brevi salti verso le isole che mi sono sfuggite, e scaveremo.",
+          "Non abbiamo ancora preso tutti i tesori. Ma ora dovrebbe essere facile prendere gli altri!",
+          "Faremo solo un salto verso le isole che mi sono sfuggite, e scaveremo.",
           "In un mondo più clemente, sì. Ma la tempesta che ci sta addosso è davvero terribile.",
           "Non è affatto certo che sfuggiremo alla sua furia anche se partiamo subito.",
-          "Va bene. Quando il tempo si sarà rimesso (e avremo riposato un po'!), torneremo per gli altri tesori.",
+          "Va bene. Quando il tempo si sarà rimesso (e avremo riposato un po'), torneremo per gli altri tesori.",
           "Se la tempesta non li darà in pasto al mare.",
           "Quelli che hai trovato spuntavano un po' dalla sabbia, giusto?",
-          "Proprio così! Qualunque marinaio che si rispetti seppellirebbe questi tesori ben in profondità.",
+          "Proprio così! Qualunque marinaio che si rispetti seppellirebbe questi tesori ben benino in profondità.",
           "È possibile che le tempeste li abbiano dissotterrati a poco a poco. Questa potrebbe finire il lavoro.",
           "Ma per ora non importa. Quando saremo al sicuro e in navigazione, potrai coccolare i tuoi tesori.",
           "Riposeremo un po', e vedremo se vale la pena tornare. Nel frattempo...",
@@ -16200,7 +16200,7 @@
         ],
         "ko": [
           "아직 보물을 다 찾진 못했어. 이제 나머지를 찾는 건 쉬울 거야.",
-          "그냥 내가 놓친 섬에 잠깐씩 들러서 파면 돼.",
+          "그냥 내가 빠뜨린 섬에 잠깐씩 들러서 파면 돼.",
           "더 온화한 세상이면 그렇겠지. 하지만 우리에게 다가오는 폭풍은 정말 무시무시해.",
           "지금 당장 떠난다 해도 그 분노를 완전히 피할 순 없어.",
           "날이 개면... 우리도 좀 쉬고 나서... 다른 보물을 가지러 돌아오자.",
@@ -16218,7 +16218,7 @@
           "É só fazer pequenas paradas nas ilhas que eu perdi, e cavar.",
           "Num mundo mais gentil, sim. Mas a tempestade vindo sobre nós é realmente aterradora.",
           "Não é certo que vamos escapar da sua fúria mesmo se sairmos imediatamente.",
-          "Está bem. Quando o tempo melhorar — e descansarmos um pouco! — voltaremos para buscar os outros tesouros.",
+          "Está bem. Quando o tempo melhorar (e descansarmos um pouco!), voltaremos para buscar os outros tesouros.",
           "Se a tempestade não os der de presente ao mar.",
           "Os que você encontrou estavam aparecendo um pouco na areia, né?",
           "Isso mesmo! Qualquer marinheiro que se preze enterraria essas coisas bem fundo.",
@@ -16229,7 +16229,7 @@
           "Ao mar, heyo!"
         ],
         "ru": [
-          "У нас не все сокровища. Теперь остальное должно быть легко добыть.",
+          "У нас не все сокровища. Теперь остальное добудем легко.",
           "Просто быстро рванём до тех островов, что я пропустила, и немного покопаем.",
           "В более добром мире — да. Но буря, что надвигается на нас, поистине ужасна.",
           "Не факт, что мы спасемся от ее ярости, даже если уйдем немедленно.",
@@ -16326,7 +16326,7 @@
               "戻ったよ！"
             ],
             "ko": [
-              "안녕하세요, 선생님!"
+              "안녕하십니까아!"
             ],
             "pt-br": [
               "Olá, senhor!"
@@ -16429,7 +16429,7 @@
           "よかった。けどすぐに出発しないと。"
         ],
         "ko": [
-          "안녕하세요, 선생님!",
+          "안녕하십니까아!",
           "만나서 반갑긴 하지만, 지금 당장 가야 해."
         ],
         "pt-br": [
@@ -16623,10 +16623,10 @@
               "残念だけど、なら行こうか。 5つでも十分だ。"
             ],
             "ko": [
-              "보물 하나를 놓치는 건 짜증 나지만, 가자. 보물 다섯 개면 충분히 많지."
+              "보물 하나를 놓쳤다니 좀 짜증 나네. 그래도 가자. 보물 다섯 개면 충분히 많지."
             ],
             "pt-br": [
-              "Fico irritado por faltar um tesouro, mas vamos. Cinco tesouros é muita coisa."
+              "Fico irritada por faltar um tesouro, mas vamos. Cinco tesouros é muita coisa."
             ],
             "ru": [
               "Мне досадно упускать последнее сокровище, но... пойдем. Пять сокровищ — это много."
@@ -16809,7 +16809,7 @@
           "하늘은 아주 빠르게 변할 거야.",
           "엄청난 폭풍이 매우 빠른 속도로 이 섬들을 향해 오고 있어.",
           "지금 당장 떠나도 거기 좀 휩쓸리게 될 거야. 이제 내 임무는 그걸 최소화하는 거지.",
-          "보물 하나를 놓치는 건 짜증 나지만, 가자. 보물 다섯 개면 충분히 많지.",
+          "보물 하나를 놓쳤다니 좀 짜증 나네. 그래도 가자. 보물 다섯 개면 충분히 많지.",
           "보물 다섯 개면 충분히 많지. 집으로 가자, 헤이요!",
           "보상을 향해 가자, 헤이요!"
         ],
@@ -16818,7 +16818,7 @@
           "O céu vai mudar muito rápido.",
           "Estou prevendo uma tempestade enorme, se movendo muito rápido, direto para estas ilhas.",
           "Mesmo que saiamos agora mesmo, vamos pegar uma parte dela. Meu trabalho agora é minimizar isso.",
-          "Fico irritado por faltar um tesouro, mas vamos. Cinco tesouros é muita coisa.",
+          "Fico irritada por faltar um tesouro, mas vamos. Cinco tesouros é muita coisa.",
           "Cinco tesouros é muita coisa. Rumo a casa, heyo!",
           "Remuneração, heyo!"
         ],
@@ -17181,11 +17181,11 @@
               "ただ生き延びるどころか、大金持ちになった！ ギルドでも出世できそうだよ。"
             ],
             "ko": [
-              "우리가 자랑스러워! 재난 앞에서, 살아남는 것만으로 만족했나? 아니지!",
-              "우린 부자가 되는 것으로 만족했지! 내 예상엔 길드에서 지위도 한 단계 올라갈 거야."
+              "우리가 자랑스러워! 재난 앞에서 살아남는 것만으로 만족했나? 아니지!",
+              "우린 부자가 되는 것으로 만족했지! 내 생각엔 길드에서 지위도 한 단계 올라갈 거야."
             ],
             "pt-br": [
-              "Estou orgulhoso de nós! Diante do desastre, nos contentamos em só sobreviver? Não!",
+              "Estou orgulhosa de nós! Diante do desastre, nos contentamos em só sobreviver? Não!",
               "Nos contentamos em ficar ricos! E em subir na hierarquia da guilda, eu diria."
             ],
             "ru": [
@@ -17239,7 +17239,7 @@
               "엄청난 보물을 챙겨 가는 거야. 널 동료로 택하길 잘했어."
             ],
             "pt-br": [
-              "Estamos saindo com um belo saque. Ainda bem que escolhi você como parceiro."
+              "Estamos saindo com um belo saque. Ainda bem que escolhi você como parceira."
             ],
             "ru": [
               "Мы уходим с богатой добычей. Рад, что выбрал тебя в напарницы."
@@ -17279,7 +17279,7 @@
               "Mais c'est moi qui t'ai choisi !?!"
             ],
             "it": [
-              "Ma sono stata io a scegliere te!"
+              "Ma sono stata io a scegliere te!?!"
             ],
             "ja": [
               "アタシがあんたを選んだんでしょ！？"
@@ -17337,7 +17337,7 @@
               "계속 그렇게 생각해. 일단 출발하면서."
             ],
             "pt-br": [
-              "Continue dizendo isso a si mesmo. Enquanto partimos."
+              "Continue dizendo isso a si mesma. Enquanto partimos."
             ],
             "ru": [
               "Можешь и дальше себя в этом убеждать. А пока отправимся в путь."
@@ -17511,7 +17511,7 @@
           "Sono fiera di noi! Di fronte al disastro, ci siamo accontentati di sopravvivere? No!",
           "Ci siamo accontentati di arricchirci! E di salire di grado nella gilda, direi.",
           "Ce ne andiamo con un ricco bottino. Sono felice di averti scelto come socio.",
-          "Ma sono stata io a scegliere te!",
+          "Ma sono stata io a scegliere te!?!",
           "Continua pure a ripetertelo. Intanto mettiamoci in viaggio.",
           "Bottino, evviva!",
           "Sopravvivenza, evviva!"
@@ -17530,8 +17530,8 @@
         "ko": [
           "아직도 폭풍이 오고 있어?",
           "아직도 오고 있어. 우린 그 일부를 피할 수 없겠지. 그걸 최소화하자.",
-          "우리가 자랑스러워! 재난 앞에서, 살아남는 것만으로 만족했나? 아니지!",
-          "우린 부자가 되는 것으로 만족했지! 내 예상엔 길드에서 지위도 한 단계 올라갈 거야.",
+          "우리가 자랑스러워! 재난 앞에서 살아남는 것만으로 만족했나? 아니지!",
+          "우린 부자가 되는 것으로 만족했지! 내 생각엔 길드에서 지위도 한 단계 올라갈 거야.",
           "엄청난 보물을 챙겨 가는 거야. 널 동료로 택하길 잘했어.",
           "하지만 내가 널 택했잖아!",
           "계속 그렇게 생각해. 일단 출발하면서.",
@@ -17541,11 +17541,11 @@
         "pt-br": [
           "A tempestade ainda vem?",
           "A tempestade ainda vem. Pegaremos uma parte dela. Vamos minimizar isso.",
-          "Estou orgulhoso de nós! Diante do desastre, nos contentamos em só sobreviver? Não!",
+          "Estou orgulhosa de nós! Diante do desastre, nos contentamos em só sobreviver? Não!",
           "Nos contentamos em ficar ricos! E em subir na hierarquia da guilda, eu diria.",
-          "Estamos saindo com um belo saque. Ainda bem que escolhi você como parceiro.",
+          "Estamos saindo com um belo saque. Ainda bem que escolhi você como parceira.",
           "Mas eu escolhi você!?!",
-          "Continue dizendo isso a si mesmo. Enquanto partimos.",
+          "Continue dizendo isso a si mesma. Enquanto partimos.",
           "Recompensa, heyo!",
           "Sobrevivência, heyo!"
         ],
@@ -17875,8 +17875,8 @@
             ],
             "es": [
               "No lo entiendas como codicia. Entiéndelo como... afán aventurero.",
-              "Estos tesoros no solo representan nuestra futura riqueza. Ni solo nuestra futura posición social. (¡Piensa en la posición social!)",
-              "Pero también son vestigios de un pueblo desconocido, un valioso testimonio material de algún rincón perdido del mundo.",
+              "Estos tesoros representan no solo nuestra futura riqueza. Ni solo nuestra futura posición social. (¡Piensa en la posición social!)",
+              "Sino que también son vestigios de un pueblo desconocido, un valioso testimonio material de algún rincón perdido del mundo.",
               "No querrás que se pierda el precioso conocimiento encarnado en estos tesoros, ¿verdad?"
             ],
             "fr": [
@@ -17888,7 +17888,7 @@
             "it": [
               "Non vederla come avidità. Vedila come... spirito d'avventura.",
               "Questi tesori non rappresentano solo la nostra futura ricchezza. Né solo il nostro futuro prestigio. (Pensa al prestigio!)",
-              "Ma sono anche vestigia di un popolo sconosciuto, una preziosa testimonianza materiale di una parte perduta del mondo!",
+              "Ma sono anche i resti di un popolo sconosciuto, una preziosa testimonianza materiale di una parte perduta del mondo!",
               "Non vuoi che il prezioso sapere racchiuso in questi tesori vada perduto, vero?"
             ],
             "ja": [
@@ -17899,8 +17899,8 @@
             ],
             "ko": [
               "탐욕이라고 생각하지 마. 모험심이라고 생각해.",
-              "이 보물들은 미래의 부만을 뜻하는 게 아니야. 미래의 지위만도 아니지. (그 지위를 생각해 봐!)",
-              "하지만 이것들은 알려지지 않은 이들이 남긴 흔적이자, 세상의 잃어버린 일부를 보여 주는 귀중한 물질적 기록이기도 하다고!",
+              "이 보물들은 미래의 부만을 뜻하는 게 아니야. 미래의 지위만도 아니지. (하지만 그 지위를 생각해 봐!)",
+              "이건 알려지지 않은 이들이 남긴 흔적이자, 세상에서 사라진 무언가를 증언하는 귀중한 실물 기록이기도 하다고!",
               "이 보물들에 담긴 소중한 지식이 사라지는 건 원치 않잖아?"
             ],
             "pt-br": [
@@ -18127,8 +18127,8 @@
           "Tenemos... que... ¡CONSEGUIR TODOS... LOS TESOROS!",
           "La codicia nos matará.",
           "No lo entiendas como codicia. Entiéndelo como... afán aventurero.",
-          "Estos tesoros no solo representan nuestra futura riqueza. Ni solo nuestra futura posición social. (¡Piensa en la posición social!)",
-          "Pero también son vestigios de un pueblo desconocido, un valioso testimonio material de algún rincón perdido del mundo.",
+          "Estos tesoros representan no solo nuestra futura riqueza. Ni solo nuestra futura posición social. (¡Piensa en la posición social!)",
+          "Sino que también son vestigios de un pueblo desconocido, un valioso testimonio material de algún rincón perdido del mundo.",
           "No querrás que se pierda el precioso conocimiento encarnado en estos tesoros, ¿verdad?",
           "No quiero que se pierda el precioso conocimiento encarnado en nosotros.",
           "¡Vuelvo enseguida! No te vayas a ninguna parte.",
@@ -18156,7 +18156,7 @@
           "L'avidità ci ucciderà.",
           "Non vederla come avidità. Vedila come... spirito d'avventura.",
           "Questi tesori non rappresentano solo la nostra futura ricchezza. Né solo il nostro futuro prestigio. (Pensa al prestigio!)",
-          "Ma sono anche vestigia di un popolo sconosciuto, una preziosa testimonianza materiale di una parte perduta del mondo!",
+          "Ma sono anche i resti di un popolo sconosciuto, una preziosa testimonianza materiale di una parte perduta del mondo!",
           "Non vuoi che il prezioso sapere racchiuso in questi tesori vada perduto, vero?",
           "Non voglio che il prezioso sapere racchiuso in noi vada perduto.",
           "Torno presto! Non andare da nessuna parte.",
@@ -18183,8 +18183,8 @@
           "우리는... 모든... 보물을... 가져가야... 해!",
           "탐욕은 우릴 죽일 거야.",
           "탐욕이라고 생각하지 마. 모험심이라고 생각해.",
-          "이 보물들은 미래의 부만을 뜻하는 게 아니야. 미래의 지위만도 아니지. (그 지위를 생각해 봐!)",
-          "하지만 이것들은 알려지지 않은 이들이 남긴 흔적이자, 세상의 잃어버린 일부를 보여 주는 귀중한 물질적 기록이기도 하다고!",
+          "이 보물들은 미래의 부만을 뜻하는 게 아니야. 미래의 지위만도 아니지. (하지만 그 지위를 생각해 봐!)",
+          "이건 알려지지 않은 이들이 남긴 흔적이자, 세상에서 사라진 무언가를 증언하는 귀중한 실물 기록이기도 하다고!",
           "이 보물들에 담긴 소중한 지식이 사라지는 건 원치 않잖아?",
           "우리 안에 담긴 소중한 지식이 사라지는 건 원치 않아.",
           "금방 돌아올게! 일단 아무 데도 가지 마.",
@@ -18740,7 +18740,7 @@
               "景色が故郷に似てきたね。"
             ],
             "ko": [
-              "이쪽은 웬일로 조금 더 집 같아 보이네."
+              "이쪽은 조금 더 집 같아 보이네."
             ],
             "pt-br": [
               "Enfim me lembra um pouco mais de casa."
@@ -18758,7 +18758,7 @@
           "provenance": {
             "sourceWav": "skipping_near_beams_1__sailor.wav",
             "subtitleCueLines": [
-              7450
+              7460
             ],
             "explicitAudioReference": null
           }
@@ -18829,9 +18829,9 @@
           "provenance": {
             "sourceWav": "skipping_near_beams_2__boat.wav",
             "subtitleCueLines": [
-              7453,
-              7456,
-              7460
+              7463,
+              7466,
+              7470
             ],
             "explicitAudioReference": null
           }
@@ -18880,7 +18880,7 @@
           "provenance": {
             "sourceWav": "skipping_near_beams_3__sailor.wav",
             "subtitleCueLines": [
-              7466
+              7476
             ],
             "explicitAudioReference": null
           }
@@ -18934,7 +18934,7 @@
           "なんでも来い！"
         ],
         "ko": [
-          "이쪽은 웬일로 조금 더 집 같아 보이네.",
+          "이쪽은 조금 더 집 같아 보이네.",
           "밖을 좀 둘러보니, 강도 보여.",
           "하지만 미리 말해 두겠는데: 꽤 복잡한 시간이 될 거야,",
           "우리가 이 모든 여정을 시작했던 곳인 첫 번째 금제가 있던 군도와 비슷하게 말이지. 정말 오래전 일처럼 느껴져!",
@@ -18991,7 +18991,7 @@
             ]
           }
         ],
-        "subtitleLine": 7449,
+        "subtitleLine": 7459,
         "subtitleHeader": "::"
       }
     }

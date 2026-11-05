@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_built_in_1",
+    "audioKey": "skipping_stones_94371865",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_built_in_1"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 94371865,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_built_in_1",
+        "rule": "exact-reference",
+        "coordinates": [
+          14.0,
+          34.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_built_in_1",
+      "clips": [
+        {
+          "id": "ssnew_built_in_1_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.094667,
+          "src": "audio/clips/ssnew_built_in_1_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I've been thinking."
+            ],
+            "de": [
+              "Ich habe nachgedacht."
+            ],
+            "es": [
+              "He estado pensando."
+            ],
+            "fr": [
+              "Je réfléchissais..."
+            ],
+            "it": [
+              "Sto pensando."
+            ],
+            "ja": [
+              "考えてたんだけど…"
+            ],
+            "ko": [
+              "생각을 좀 해 보고 있었어."
+            ],
+            "pt-br": [
+              "Estive pensando."
+            ],
+            "ru": [
+              "Я думала."
+            ],
+            "s-cn": [
+              "我一直在琢磨。"
+            ],
+            "t-cn": [
+              "我一直在琢磨。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_1_1__sailor.wav",
+            "subtitleCueLines": [
+              4537
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_1_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.571563,
+          "src": "audio/clips/ssnew_built_in_1_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "So *that's* the grinding sound I hear."
+            ],
+            "de": [
+              "Ach, das ist also das Knirschen, das ich höre."
+            ],
+            "es": [
+              "Ah, de ahí venía ese ruido tan molesto que he estado oyendo."
+            ],
+            "fr": [
+              "Alors c'était ça, le raclement que j'entendais."
+            ],
+            "it": [
+              "Ah, ecco cos'è quel rumore di ingranaggi che sento."
+            ],
+            "ja": [
+              "歯車が回る音がしてたよ。"
+            ],
+            "ko": [
+              "어디서 뭔가 돌아가는 소리가 나더라니."
+            ],
+            "pt-br": [
+              "Então esse é o som de ranger que estou ouvindo."
+            ],
+            "ru": [
+              "Так вот что за скрежет я слышу."
+            ],
+            "s-cn": [
+              "原来我听见的嘎吱声，是你在动脑筋啊。"
+            ],
+            "t-cn": [
+              "原來我聽見的嘎吱聲，是你在動腦筋啊。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_1_2__boat.wav",
+            "subtitleCueLines": [
+              4540
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_1_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 15.0405,
+          "src": "audio/clips/ssnew_built_in_1_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "*I've been thinking*, how does some writing on the ground actually hold *you* locked down, from so far away?",
+              "My shoulder will attest that the effect was not gentle.",
+              "But you're saying some small-ish rocks on a beach did this. How could that possibly work?"
+            ],
+            "de": [
+              "Ich habe darüber nachgedacht, wie ein bisschen Schrift auf dem Boden es schaffen kann, dich aus so großer Entfernung festzusetzen?",
+              "Meine Schulter kann bezeugen, dass das nicht gerade sanft war.",
+              "Aber du sagst, das hätten ein paar eher kleine Steine angerichtet, die am Strand liegen. Wie soll das denn funktionieren?"
+            ],
+            "es": [
+              "He estado pensando algo: ¿cómo puede una escritura en el suelo mantenerte a ti bloqueado desde tan lejos?",
+              "Mi hombro puede dar fe de que el efecto no fue nada suave.",
+              "Pero dices que unas piedras más bien pequeñas en una playa han hecho esto. ¿Cómo es eso posible?"
+            ],
+            "fr": [
+              "Du coup, je me demandais... comment une simple inscription au sol peut te maintenir bloqué, toi, d'aussi loin ?",
+              "Mon épaule peut témoigner que l'effet n'avait rien de subtil.",
+              "Mais tu dis que ce sont de petits rochers sur une plage qui ont fait ça. Comment est-ce possible ?"
+            ],
+            "it": [
+              "Stavo pensando: come può una scritta per terra tenerti bloccato da così lontano?",
+              "La mia spalla può testimoniare che l'effetto non è stato delicato.",
+              "Ma stai dicendo che dei massi piuttosto piccoli su una spiaggia hanno fatto questo. Come sarebbe possibile?"
+            ],
+            "ja": [
+              "冗談じゃなくて。 どうやって地面の文字が",
+              "遠くからあんたと 推進器を止めてるんだ？",
+              "まるでおとぎ話だろ。 自然の力とは思えない。"
+            ],
+            "ko": [
+              "생각해 봤는데, 바닥에 써 있는 글씨가 어떻게 그렇게 멀리서 널 붙잡아 두는 거야?",
+              "그 효과가 전혀 부드럽지 않았다는 건 내 어깨가 증명해 줄 거야.",
+              "그런데 해변에 있는 자그마한 바위들이 이런 일을 일으켰다고. 대체 어떻게 그럴 수가 있지?"
+            ],
+            "pt-br": [
+              "Estive pensando, como é que uma escrita no chão mantém você trancado, de tão longe?",
+              "Meu ombro pode atestar que o efeito não foi suave.",
+              "Mas você diz que umas rochas meio pequenas numa praia fizeram isso. Como isso seria possível?"
+            ],
+            "ru": [
+              "Я думала, как это так, что какая-то надпись на земле держит тебя взаперти с такого расстояния?",
+              "Моё плечо подтвердит, что воздействие было отнюдь не мягким.",
+              "Но, по-твоему, всё это сделали какие-то небольшие валуны на берегу. Как такое вообще возможно?"
+            ],
+            "s-cn": [
+              "我在想，地上那几个符号，怎么就能隔着那么远让你动不了？",
+              "我的肩膀可以作证，那一下可一点都不温柔。",
+              "可照你的说法，海滩上那几块不大的石头，就能把你困住？这怎么可能？"
+            ],
+            "t-cn": [
+              "我在想，地上那幾個符號， 怎麼就能隔著那麼遠讓你動不了？",
+              "我的肩膀可以作證，那一下可一點都不溫柔。",
+              "可照你的說法，海灘上那幾塊不大的石頭， 就能把你困住？這怎麼可能？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_1_3__sailor.wav",
+            "subtitleCueLines": [
+              4543,
+              4549,
+              4553
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_1_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 4.512771,
+          "src": "audio/clips/ssnew_built_in_1_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "You're right. It doesn’t work that way. The boat stops itself."
+            ],
+            "de": [
+              "Du hast recht. So funktioniert es auch nicht. Das Boot hält sich selbst an."
+            ],
+            "es": [
+              "Tienes razón. No funciona así. El navío se detiene solo."
+            ],
+            "fr": [
+              "Tu as raison. Ça ne fonctionne pas comme ça. C'est le navire qui s'arrête tout seul."
+            ],
+            "it": [
+              "Hai ragione. Non funziona così. La barca si ferma da sola."
+            ],
+            "ja": [
+              "ご推察の通り、 船が自分で止まってるんだ。"
+            ],
+            "ko": [
+              "맞아. 그런 식으론 작동하지 않아. 배가 스스로 멈추는 거야."
+            ],
+            "pt-br": [
+              "Você tem razão. Isso não funciona assim. O barco para por conta própria."
+            ],
+            "ru": [
+              "Ты права. Так не бывает. Корабль останавливает себя сам."
+            ],
+            "s-cn": [
+              "你说得对。确实不是那么回事。是船自己停下来的。"
+            ],
+            "t-cn": [
+              "你說得對。確實不是那麼回事。 是船自己停下來的。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_1_4__boat.wav",
+            "subtitleCueLines": [
+              4558
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_1_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.641896,
+          "src": "audio/clips/ssnew_built_in_1_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "I ... oh?"
+            ],
+            "de": [
+              "Ich ... oh?"
+            ],
+            "es": [
+              "Pues... ¿eh?"
+            ],
+            "fr": [
+              "Le... oh ?"
+            ],
+            "it": [
+              "Io... eh?"
+            ],
+            "ja": [
+              "えっ…？"
+            ],
+            "ko": [
+              "내가... 오?"
+            ],
+            "pt-br": [
+              "Eu... ãh?"
+            ],
+            "ru": [
+              "Я... э?"
+            ],
+            "s-cn": [
+              "我……啊？"
+            ],
+            "t-cn": [
+              "我……啊？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_1_5__sailor.wav",
+            "subtitleCueLines": [
+              4562
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_built_in_1_6__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 8.077687,
+          "src": "audio/clips/ssnew_built_in_1_6__boat.mp3",
+          "transcripts": {
+            "en": [
+              "The ship, that I'm currently using as my body, refuses to obey me. It's built into the bones."
+            ],
+            "de": [
+              "Das Schiff, das ich gerade als Körper benutze, weigert sich, mir zu gehorchen. Das steckt ihm in den Knochen."
+            ],
+            "es": [
+              "El navío, que estoy usando actualmente como cuerpo, se niega a obedecerme. Lo tiene integrado en sus huesos."
+            ],
+            "fr": [
+              "Le navire, que j'utilise actuellement comme corps, refuse de m'obéir. C'est intégré dans les os."
+            ],
+            "it": [
+              "La barca, che al momento uso come corpo, si rifiuta di obbedirmi. È costruito nelle ossa."
+            ],
+            "ja": [
+              "僕が体にしているこの船が 言うことを聞かない。 そういう造りなんだ。"
+            ],
+            "ko": [
+              "내가 현재 몸으로 쓰고 있는 저 배가 내 말을 거부하는 거야. 뼛속부터 그렇게 만들어져 있어."
+            ],
+            "pt-br": [
+              "A embarcação, que estou usando no momento como meu corpo, se recusa a me obedecer. Está embutido nos ossos."
+            ],
+            "ru": [
+              "Корабль, который я сейчас использую в качестве своего тела, отказывается мне подчиняться. Это заложено в его основе."
+            ],
+            "s-cn": [
+              "我眼下当身体使的这艘船，它不肯听我的。这是刻进龙骨里的。"
+            ],
+            "t-cn": [
+              "我眼下當身體使的這艘船，它不肯聽我的。 這是刻進龍骨裡的。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_built_in_1_6__boat.wav",
+            "subtitleCueLines": [
+              4566
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I've been thinking.",
+          "So *that's* the grinding sound I hear.",
+          "*I've been thinking*, how does some writing on the ground actually hold *you* locked down, from so far away?",
+          "My shoulder will attest that the effect was not gentle.",
+          "But you're saying some small-ish rocks on a beach did this. How could that possibly work?",
+          "You're right. It doesn’t work that way. The boat stops itself.",
+          "I ... oh?",
+          "The ship, that I'm currently using as my body, refuses to obey me. It's built into the bones."
+        ],
+        "de": [
+          "Ich habe nachgedacht.",
+          "Ach, das ist also das Knirschen, das ich höre.",
+          "Ich habe darüber nachgedacht, wie ein bisschen Schrift auf dem Boden es schaffen kann, dich aus so großer Entfernung festzusetzen?",
+          "Meine Schulter kann bezeugen, dass das nicht gerade sanft war.",
+          "Aber du sagst, das hätten ein paar eher kleine Steine angerichtet, die am Strand liegen. Wie soll das denn funktionieren?",
+          "Du hast recht. So funktioniert es auch nicht. Das Boot hält sich selbst an.",
+          "Ich ... oh?",
+          "Das Schiff, das ich gerade als Körper benutze, weigert sich, mir zu gehorchen. Das steckt ihm in den Knochen."
+        ],
+        "es": [
+          "He estado pensando.",
+          "Ah, de ahí venía ese ruido tan molesto que he estado oyendo.",
+          "He estado pensando algo: ¿cómo puede una escritura en el suelo mantenerte a ti bloqueado desde tan lejos?",
+          "Mi hombro puede dar fe de que el efecto no fue nada suave.",
+          "Pero dices que unas piedras más bien pequeñas en una playa han hecho esto. ¿Cómo es eso posible?",
+          "Tienes razón. No funciona así. El navío se detiene solo.",
+          "Pues... ¿eh?",
+          "El navío, que estoy usando actualmente como cuerpo, se niega a obedecerme. Lo tiene integrado en sus huesos."
+        ],
+        "fr": [
+          "Je réfléchissais...",
+          "Alors c'était ça, le raclement que j'entendais.",
+          "Du coup, je me demandais... comment une simple inscription au sol peut te maintenir bloqué, toi, d'aussi loin ?",
+          "Mon épaule peut témoigner que l'effet n'avait rien de subtil.",
+          "Mais tu dis que ce sont de petits rochers sur une plage qui ont fait ça. Comment est-ce possible ?",
+          "Tu as raison. Ça ne fonctionne pas comme ça. C'est le navire qui s'arrête tout seul.",
+          "Le... oh ?",
+          "Le navire, que j'utilise actuellement comme corps, refuse de m'obéir. C'est intégré dans les os."
+        ],
+        "it": [
+          "Sto pensando.",
+          "Ah, ecco cos'è quel rumore di ingranaggi che sento.",
+          "Stavo pensando: come può una scritta per terra tenerti bloccato da così lontano?",
+          "La mia spalla può testimoniare che l'effetto non è stato delicato.",
+          "Ma stai dicendo che dei massi piuttosto piccoli su una spiaggia hanno fatto questo. Come sarebbe possibile?",
+          "Hai ragione. Non funziona così. La barca si ferma da sola.",
+          "Io... eh?",
+          "La barca, che al momento uso come corpo, si rifiuta di obbedirmi. È costruito nelle ossa."
+        ],
+        "ja": [
+          "考えてたんだけど…",
+          "歯車が回る音がしてたよ。",
+          "冗談じゃなくて。 どうやって地面の文字が",
+          "遠くからあんたと 推進器を止めてるんだ？",
+          "まるでおとぎ話だろ。 自然の力とは思えない。",
+          "ご推察の通り、 船が自分で止まってるんだ。",
+          "えっ…？",
+          "僕が体にしているこの船が 言うことを聞かない。 そういう造りなんだ。"
+        ],
+        "ko": [
+          "생각을 좀 해 보고 있었어.",
+          "어디서 뭔가 돌아가는 소리가 나더라니.",
+          "생각해 봤는데, 바닥에 써 있는 글씨가 어떻게 그렇게 멀리서 널 붙잡아 두는 거야?",
+          "그 효과가 전혀 부드럽지 않았다는 건 내 어깨가 증명해 줄 거야.",
+          "그런데 해변에 있는 자그마한 바위들이 이런 일을 일으켰다고. 대체 어떻게 그럴 수가 있지?",
+          "맞아. 그런 식으론 작동하지 않아. 배가 스스로 멈추는 거야.",
+          "내가... 오?",
+          "내가 현재 몸으로 쓰고 있는 저 배가 내 말을 거부하는 거야. 뼛속부터 그렇게 만들어져 있어."
+        ],
+        "pt-br": [
+          "Estive pensando.",
+          "Então esse é o som de ranger que estou ouvindo.",
+          "Estive pensando, como é que uma escrita no chão mantém você trancado, de tão longe?",
+          "Meu ombro pode atestar que o efeito não foi suave.",
+          "Mas você diz que umas rochas meio pequenas numa praia fizeram isso. Como isso seria possível?",
+          "Você tem razão. Isso não funciona assim. O barco para por conta própria.",
+          "Eu... ãh?",
+          "A embarcação, que estou usando no momento como meu corpo, se recusa a me obedecer. Está embutido nos ossos."
+        ],
+        "ru": [
+          "Я думала.",
+          "Так вот что за скрежет я слышу.",
+          "Я думала, как это так, что какая-то надпись на земле держит тебя взаперти с такого расстояния?",
+          "Моё плечо подтвердит, что воздействие было отнюдь не мягким.",
+          "Но, по-твоему, всё это сделали какие-то небольшие валуны на берегу. Как такое вообще возможно?",
+          "Ты права. Так не бывает. Корабль останавливает себя сам.",
+          "Я... э?",
+          "Корабль, который я сейчас использую в качестве своего тела, отказывается мне подчиняться. Это заложено в его основе."
+        ],
+        "s-cn": [
+          "我一直在琢磨。",
+          "原来我听见的嘎吱声，是你在动脑筋啊。",
+          "我在想，地上那几个符号，怎么就能隔着那么远让你动不了？",
+          "我的肩膀可以作证，那一下可一点都不温柔。",
+          "可照你的说法，海滩上那几块不大的石头，就能把你困住？这怎么可能？",
+          "你说得对。确实不是那么回事。是船自己停下来的。",
+          "我……啊？",
+          "我眼下当身体使的这艘船，它不肯听我的。这是刻进龙骨里的。"
+        ],
+        "t-cn": [
+          "我一直在琢磨。",
+          "原來我聽見的嘎吱聲，是你在動腦筋啊。",
+          "我在想，地上那幾個符號， 怎麼就能隔著那麼遠讓你動不了？",
+          "我的肩膀可以作證，那一下可一點都不溫柔。",
+          "可照你的說法，海灘上那幾塊不大的石頭， 就能把你困住？這怎麼可能？",
+          "你說得對。確實不是那麼回事。 是船自己停下來的。",
+          "我……啊？",
+          "我眼下當身體使的這艘船，它不肯聽我的。 這是刻進龍骨裡的。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

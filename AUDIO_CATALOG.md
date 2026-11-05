@@ -8,13 +8,18 @@ popups, busca e filtros seguem a interface existente. A mídia só é carregada 
 
 ## Cobertura
 
-A geração atual examina as 920 fases do mapa e disponibiliza áudio em 219 delas.
-Também exporta 71 audiologs do mundo e 1.412 gravações distintas, em aproximadamente
-164 MB de MP3 mono a 96 kbps. Arquivos reutilizados entre fases são compartilhados.
-Há 69 posições de audiologs nas três camadas do mapa; duas gravações ficam no
-interior de fast travel, fora dos tiles atuais, e permanecem no catálogo e no arquivo
-completo. Além disso, 11 pontos de diálogo do overworld agora aparecem no mapa:
-nove volumes de movimento, um personagem e uma âncora de roteiro no submundo. Os manifestos também incluem níveis que não estão expostos pelo mapa.
+A geração atual examina 936 fases distintas (946 entradas) e disponibiliza áudio
+em 236 delas (246 marcadores). Exporta 76 audiologs distintos, 79 posições de
+audiologs e 41 gatilhos/âncoras, com 1.412 gravações compartilhadas em aproximadamente
+164 MB de MP3 mono a 96 kbps. Os oito mapas são overworld, sky, underworld, intro,
+minimap, minimap_high, minimap_low e stones. Nem todo mapa contém um audiolog;
+os dois minimapas adicionais não têm âncoras de áudio próprias nas fontes atuais.
+
+A configuração em `data/map_config.json` é compartilhada pela página e pelo gerador.
+Cada ponto conserva o arquivo de entidades de origem, suas coordenadas e os mapas
+compatíveis. Assim, a introdução e `skipping_stones` usam seus próprios espaços
+locais, e os dois audiologs em Z=89 aparecem no minimapa de fast travel.
+Os manifestos também incluem níveis que não estão expostos pelo mapa.
 
 As fontes são o `levels.package`, o schema do executável correspondente, os WAVs
 extraídos e os TXT originais de legendas. A seleção de fases é automática e não
@@ -29,7 +34,7 @@ Primeiro atualize a extração a partir da instalação do jogo. Neste workspace
 extrator incremental existente preserva as versões anteriores em `revisoes/`:
 
 ```sh
-python3 ../reverse-order/extrair.py --tipos audio legendas textos
+python3 ../reverse-order/extrair.py --tipos audio legendas textos --idiomas todos
 ```
 
 Depois regenere o catálogo:
@@ -98,12 +103,12 @@ o painel informa a indisponibilidade do texto; a reprodução inglesa continua n
 | `data/audio/catalog.json` | Índices `levels`, `logs` e `triggers` usados pela interface |
 | `data/audio/levels/*.json` | Conversas, clipes e proveniência de cada nível |
 | `data/audio/logs/*.json` | Gravações independentes do mundo |
-| `data/audio/voice_logs.geojson` | Posições globais, grupos e cobertura dos tiles |
-| `data/audio/audio_triggers.geojson` | Gatilhos e âncoras globais com posição, tipo e evidência |
+| `data/audio/voice_logs.geojson` | Posições por arquivo de entidades, grupos e mapas compatíveis |
+| `data/audio/audio_triggers.geojson` | Gatilhos e âncoras por mapa com posição, tipo e evidência |
 | `data/audio/triggers/*.json` | Conversas reproduzíveis por gatilho |
 | `data/audio/placement_audit.json` | Acesso pelo mapa por bloco, exclusões e áudios sem posição |
 | `audio/clips/*.mp3` | Mídia compartilhada por identificador original |
-| `data/audio/archive.json` | Todos os 587 blocos de legenda, incluindo os sem associação estruturada identificada |
+| `data/audio/archive.json` | Todos os 588 blocos de legenda, incluindo os sem associação estruturada identificada |
 | `data/audio/report.json` | Cobertura, fontes sem legenda, silêncio, mídia ausente e diferenças entre traduções |
 | `data/audio/generated.json` | Propriedade e hashes dos arquivos gerados; cache das conversões |
 
@@ -151,7 +156,7 @@ links diretos e filtro de altura. A reprodução começa por ação do visitante
 
 Um volume de movimento exige `Marker.script_name` igual a `bark`,
 `bark_conditional` ou `bark_on_id`, `is_point_marker=false` e três dimensões
-positivas em `box_extents`. O ponto usa a posição original do volume. Referências
+positivas em `box_extents`. O ponto usa a posição original do volume no mapa do seu arquivo de entidades. Referências
 condicionais podem disponibilizar mais de uma conversa no mesmo popup; não
 simulamos as condições do jogo. `bark_flags`, script, dimensões, referência original
 e IDs das entidades ficam no GeoJSON. A identificação decorre dos dados do jogo;
@@ -163,17 +168,37 @@ recebe ícone de movimento. Uma das suas falas continua sem mídia (`coda_5__que
 
 O relatório `placement_audit.json` considera um bloco posicionado quando existe
 acesso a ele por uma fase presente no mapa ou por uma âncora global exibível.
-Coordenadas locais de fases não são usadas como coordenadas globais. Blocos que
-existem apenas em fases ausentes do mapa, nos interiores de fast travel ou sem
-referência estruturada permanecem listados com a razão e as fontes disponíveis.
+Coordenadas locais são exibidas somente em mapas que usam o mesmo arquivo de
+entidades. Restam 23 blocos sem posição identificável nos dados: 20 sem referência
+estruturada e três com associação geral por namespace, sem âncora própria.
 O relatório também lista WAVs ingleses não consumidos pelas legendas, para revisão.
 A revisão da extração e a relação dos pontos estão em [AUDIO_PLACEMENT_REVIEW.md](AUDIO_PLACEMENT_REVIEW.md).
 
 ## Filtrar fases com diálogo
 
-No controle de camadas, **Only levels with dialogue (219)** restringe os
-marcadores e a busca às fases com áudio registrado. A escolha permanece salva
+No controle de camadas, **Only levels with dialogue (246)** restringe os
+marcadores e a busca às fases com áudio registrado (236 nomes distintos). A escolha permanece salva
 no navegador. Desativar o filtro restaura as demais fases; as camadas de
 regiões, audiologs e gatilhos mantêm seus controles independentes. As contagens
 das camadas acompanham o filtro. Um pequeno balão no canto do marcador
 identifica fases com diálogo, preservando a cor e o símbolo principal.
+
+## Integração do original em 05/11/2026
+
+A branch `integrate/upstream-maps-audio-2026-11-05` incorpora `upstream/main`
+em `b4b7d0d`. A `main` foi salva com as alterações locais em `4632377` e também
+preservada em `backup/main-before-upstream-2026-11-05`.
+O histórico reescrito do original é ligado por um commit de integração com os dois
+pais; as atualizações foram comparadas com a versão anteriormente integrada.
+O player, os 11 idiomas, filtros, controles de fases e busca nas legendas foram
+mantidos. Os tiles e as imagens usam o repositório `joric/ootss_tileset`, como no
+original atualizado; a mídia de áudio continua neste projeto.
+
+A extração atualizou uma gravação, reconvertida em MP3; as outras 1.411 foram
+verificadas e reutilizadas. O conversor de legendas de `reverse-order` foi corrigido
+para os cabeçalhos de um, dois e três dois-pontos e validado nos 11 idiomas.
+O backup do conversor foi mantido no mesmo diretório.
+
+A revisão detalhada, os novos pontos e as limitações estão em
+[AUDIO_PLACEMENT_REVIEW.md](AUDIO_PLACEMENT_REVIEW.md) e no registro
+[data/audio/upstream_update.json](data/audio/upstream_update.json).

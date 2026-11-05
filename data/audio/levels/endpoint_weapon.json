@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -48,7 +48,7 @@
               "いいところを見るには 遅かったみたい。"
             ],
             "ko": [
-              "좋은 부분은 이미 끝난 뒤에 도착한 모양이네."
+              "우린 좋은 부분은 이미 끝난 뒤에 도착한 모양이네."
             ],
             "pt-br": [
               "Acho que chegamos tarde demais para ver as partes bonitas."
@@ -66,7 +66,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_1__thief.wav",
             "subtitleCueLines": [
-              7827
+              7837
             ],
             "explicitAudioReference": null
           }
@@ -115,7 +115,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_2__bard.wav",
             "subtitleCueLines": [
-              7831
+              7841
             ],
             "explicitAudioReference": null
           }
@@ -151,7 +151,7 @@
           "残念ながらね。 手伝ってくれる？"
         ],
         "ko": [
-          "좋은 부분은 이미 끝난 뒤에 도착한 모양이네.",
+          "우린 좋은 부분은 이미 끝난 뒤에 도착한 모양이네.",
           "안타깝게도. 손 좀 빌려줄래?"
         ],
         "pt-br": [
@@ -190,7 +190,7 @@
             "source": "data-common/endpoint_weapon.entities"
           }
         ],
-        "subtitleLine": 7826,
+        "subtitleLine": 7836,
         "subtitleHeader": "::"
       }
     },
@@ -217,7 +217,7 @@
               "... Plus rien... J'en viens presque à plaindre les gobelins."
             ],
             "it": [
-              "Solo... scomparsi... Mi fanno quasi pena i goblin."
+              "Solo... scomparsi... Quasi provo pena per i goblin."
             ],
             "ja": [
               "ただ…しーんとしてる。 ゴブリンがちょっとかわいそう。"
@@ -241,7 +241,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid1_1__thief.wav",
             "subtitleCueLines": [
-              7839
+              7849
             ],
             "explicitAudioReference": null
           }
@@ -290,7 +290,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid1_2__bard.wav",
             "subtitleCueLines": [
-              7844
+              7854
             ],
             "explicitAudioReference": null
           }
@@ -339,7 +339,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid1_3__thief.wav",
             "subtitleCueLines": [
-              7847
+              7857
             ],
             "explicitAudioReference": null
           }
@@ -371,7 +371,7 @@
           "J'ai dit « presque » !"
         ],
         "it": [
-          "Solo... scomparsi... Mi fanno quasi pena i goblin.",
+          "Solo... scomparsi... Quasi provo pena per i goblin.",
           "Se la sono cercata, no?",
           "Ho detto, \"quasi\"!"
         ],
@@ -425,7 +425,7 @@
             "source": "data-common/endpoint_weapon.entities"
           }
         ],
-        "subtitleLine": 7838,
+        "subtitleLine": 7848,
         "subtitleHeader": "::"
       }
     },
@@ -448,7 +448,7 @@
               "Oder ist das ... ein Nachbau, Balken für Balken, nur zum Niederbrennen gebaut ... und die echte Stadt ist heil geblieben?"
             ],
             "es": [
-              "Pero he ahí la cuestión. ¿Arrasaron el pueblo y luego lo trajeron aquí?",
+              "Pero he ahí la cuestión: ¿arrasaron el pueblo y luego lo trajeron aquí?",
               "¿O esto es... una réplica, tablón por tablón, construida para quemarla... y el original sigue intacto?"
             ],
             "fr": [
@@ -456,19 +456,19 @@
               "ou est-ce... une réplique, planche pour planche, construite pour être brûlée... tandis que l'original reste intact ?"
             ],
             "it": [
-              "Però, ecco la domanda. Hanno devastato la città, poi l'hanno portata qui?",
-              "O questa è... una copia, asse per asse, costruita per essere bruciata... mentre l'originale resta intatta?"
+              "Però, mi chiedo: hanno devastato la città e poi l'hanno portata qui?",
+              "O questa è... una copia, tavola su tavola, costruita per essere bruciata... mentre l'originale resta intatta?"
             ],
             "ja": [
               "けど問題は… 元の町が燃やされたの？",
               "それともここは複製で、 本物は無事なの？"
             ],
             "ko": [
-              "그런데 질문이 있어. 그들이 원래 마을을 쑥대밭으로 만든 다음, 여기로 가져온 거야,",
-              "아니면 이건... 불태우려고 만든, 목재 하나하나까지 똑같은 복제품이고... 원본은 멀쩡히 남아 있는 건가?"
+              "그런데 궁금한 건 마을을 쑥대밭으로 만든 다음 이곳으로 옮긴 걸까?",
+              "아니면 이건… 원래 마을을 나무 한 조각까지 똑같이 재현해서 불태우려고 만든 복제품이고, 진짜 마을은 멀쩡한 걸까?"
             ],
             "pt-br": [
-              "Mas aqui vai a pergunta: Eles devastaram a cidade, depois a trouxeram para cá?",
+              "Mas aqui vai a pergunta: eles devastaram a cidade, depois a trouxeram para cá?",
               "Ou isto é... uma réplica, tábua por tábua, feita para ser queimada... e a original continua intacta?"
             ],
             "ru": [
@@ -487,8 +487,8 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid2_1__thief.wav",
             "subtitleCueLines": [
-              7854,
-              7860
+              7864,
+              7870
             ],
             "explicitAudioReference": null
           }
@@ -537,7 +537,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid2_2__bard.wav",
             "subtitleCueLines": [
-              7865
+              7875
             ],
             "explicitAudioReference": null
           }
@@ -559,7 +559,7 @@
           "Das finden wir heraus, wenn wir wieder zu Hause sind."
         ],
         "es": [
-          "Pero he ahí la cuestión. ¿Arrasaron el pueblo y luego lo trajeron aquí?",
+          "Pero he ahí la cuestión: ¿arrasaron el pueblo y luego lo trajeron aquí?",
           "¿O esto es... una réplica, tablón por tablón, construida para quemarla... y el original sigue intacto?",
           "Lo averiguaremos cuando volvamos a casa."
         ],
@@ -569,8 +569,8 @@
           "On le saura quand on rentrera chez nous."
         ],
         "it": [
-          "Però, ecco la domanda. Hanno devastato la città, poi l'hanno portata qui?",
-          "O questa è... una copia, asse per asse, costruita per essere bruciata... mentre l'originale resta intatta?",
+          "Però, mi chiedo: hanno devastato la città e poi l'hanno portata qui?",
+          "O questa è... una copia, tavola su tavola, costruita per essere bruciata... mentre l'originale resta intatta?",
           "Lo scopriremo quando torneremo a casa."
         ],
         "ja": [
@@ -579,12 +579,12 @@
           "帰ったらきっとわかるわ。"
         ],
         "ko": [
-          "그런데 질문이 있어. 그들이 원래 마을을 쑥대밭으로 만든 다음, 여기로 가져온 거야,",
-          "아니면 이건... 불태우려고 만든, 목재 하나하나까지 똑같은 복제품이고... 원본은 멀쩡히 남아 있는 건가?",
+          "그런데 궁금한 건 마을을 쑥대밭으로 만든 다음 이곳으로 옮긴 걸까?",
+          "아니면 이건… 원래 마을을 나무 한 조각까지 똑같이 재현해서 불태우려고 만든 복제품이고, 진짜 마을은 멀쩡한 걸까?",
           "집에 돌아가면 알 수 있겠지."
         ],
         "pt-br": [
-          "Mas aqui vai a pergunta: Eles devastaram a cidade, depois a trouxeram para cá?",
+          "Mas aqui vai a pergunta: eles devastaram a cidade, depois a trouxeram para cá?",
           "Ou isto é... uma réplica, tábua por tábua, feita para ser queimada... e a original continua intacta?",
           "Vamos descobrir quando voltarmos para casa."
         ],
@@ -623,7 +623,7 @@
             "source": "data-common/endpoint_weapon.entities"
           }
         ],
-        "subtitleLine": 7853,
+        "subtitleLine": 7863,
         "subtitleHeader": "::"
       }
     },
@@ -674,7 +674,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid3_1__thief.wav",
             "subtitleCueLines": [
-              7872
+              7882
             ],
             "explicitAudioReference": null
           }
@@ -716,7 +716,7 @@
             ],
             "pt-br": [
               "O quê? Por que você acha que está sendo rude?",
-              "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntos."
+              "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntas."
             ],
             "ru": [
               "А почему ты решила, что грубишь?",
@@ -734,8 +734,8 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid3_2__bard.wav",
             "subtitleCueLines": [
-              7876,
-              7880
+              7886,
+              7890
             ],
             "explicitAudioReference": null
           }
@@ -784,7 +784,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid3_3__thief.wav",
             "subtitleCueLines": [
-              7884
+              7894
             ],
             "explicitAudioReference": null
           }
@@ -840,7 +840,7 @@
         "pt-br": [
           "Desculpe se estou sendo rude.",
           "O quê? Por que você acha que está sendo rude?",
-          "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntos.",
+          "Me parece que você está fazendo bastante coisa. Trabalhamos bem juntas.",
           "Bem, você não parece você hoje..."
         ],
         "ru": [
@@ -881,7 +881,7 @@
             "source": "data-common/endpoint_weapon.entities"
           }
         ],
-        "subtitleLine": 7871,
+        "subtitleLine": 7881,
         "subtitleHeader": "::"
       }
     },
@@ -932,7 +932,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid4_1__bard.wav",
             "subtitleCueLines": [
-              7891
+              7901
             ],
             "explicitAudioReference": null
           }
@@ -981,7 +981,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid4_2__thief.wav",
             "subtitleCueLines": [
-              7895
+              7905
             ],
             "explicitAudioReference": null
           }
@@ -1030,7 +1030,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid4_3__bard.wav",
             "subtitleCueLines": [
-              7898
+              7908
             ],
             "explicitAudioReference": null
           }
@@ -1116,7 +1116,7 @@
             "source": "data-common/endpoint_weapon.entities"
           }
         ],
-        "subtitleLine": 7890,
+        "subtitleLine": 7900,
         "subtitleHeader": "::"
       }
     },
@@ -1167,7 +1167,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid5_1__thief.wav",
             "subtitleCueLines": [
-              7905
+              7915
             ],
             "explicitAudioReference": null
           }
@@ -1227,8 +1227,8 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid5_2__bard.wav",
             "subtitleCueLines": [
-              7908,
-              7912
+              7918,
+              7922
             ],
             "explicitAudioReference": null
           }
@@ -1277,7 +1277,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_mid5_3__thief.wav",
             "subtitleCueLines": [
-              7916
+              7926
             ],
             "explicitAudioReference": null
           }
@@ -1374,7 +1374,7 @@
             "source": "data-common/endpoint_weapon.entities"
           }
         ],
-        "subtitleLine": 7904,
+        "subtitleLine": 7914,
         "subtitleHeader": "::"
       }
     },
@@ -1410,7 +1410,7 @@
               "이렇게 오랜 시간을 함께 보내서 다행이야!"
             ],
             "pt-br": [
-              "Que bom ter tido tanto tempo juntos."
+              "Que bom ter tido tanto tempo juntas."
             ],
             "ru": [
               "Я рада, что мы провели столько времени вместе."
@@ -1425,7 +1425,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_end_1__thief.wav",
             "subtitleCueLines": [
-              7925
+              7935
             ],
             "explicitAudioReference": null
           }
@@ -1444,7 +1444,7 @@
               "Das haben wir gut gemacht, meine Freundin."
             ],
             "es": [
-              "Lo hicimos bien, amiga."
+              "Lo hemos hecho bien, amiga."
             ],
             "fr": [
               "On s'en est bien sorties, mon amie."
@@ -1459,10 +1459,10 @@
               "우린 잘 해냈어, 친구."
             ],
             "pt-br": [
-              "Nos saímos bem, amigo."
+              "Nos saímos bem, amiga."
             ],
             "ru": [
-              "Мы хорошо справились, друг."
+              "Мы хорошо справились, подруга."
             ],
             "s-cn": [
               "我们干得不错，朋友。"
@@ -1474,7 +1474,7 @@
           "provenance": {
             "sourceWav": "hp_endpoint_weapon_end_2__bard.wav",
             "subtitleCueLines": [
-              7929
+              7939
             ],
             "explicitAudioReference": null
           }
@@ -1495,7 +1495,7 @@
         ],
         "es": [
           "Me alegra que hayamos pasado tanto tiempo juntas.",
-          "Lo hicimos bien, amiga."
+          "Lo hemos hecho bien, amiga."
         ],
         "fr": [
           "Je suis contente qu'on ait pu passer autant de temps ensemble.",
@@ -1514,12 +1514,12 @@
           "우린 잘 해냈어, 친구."
         ],
         "pt-br": [
-          "Que bom ter tido tanto tempo juntos.",
-          "Nos saímos bem, amigo."
+          "Que bom ter tido tanto tempo juntas.",
+          "Nos saímos bem, amiga."
         ],
         "ru": [
           "Я рада, что мы провели столько времени вместе.",
-          "Мы хорошо справились, друг."
+          "Мы хорошо справились, подруга."
         ],
         "s-cn": [
           "很高兴我们能一起度过这么多时光。",
@@ -1549,7 +1549,7 @@
             "source": "data-common/endpoint_weapon.entities"
           }
         ],
-        "subtitleLine": 7924,
+        "subtitleLine": 7934,
         "subtitleHeader": "::"
       }
     }

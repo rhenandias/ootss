@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "intro_queen_foreign_script",
+    "audioKey": "intro_62914934",
+    "triggerKind": "movement",
+    "blocks": [
+      "intro_queen_foreign_script"
+    ],
+    "scriptName": "bark",
+    "boxExtents": [
+      3.5141849517822266,
+      1.5361311435699463,
+      1.5538339614868164
+    ],
+    "barkFlags": 9,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 62914934,
+        "entityType": "Marker",
+        "field": "string_parameter",
+        "value": "intro_queen_foreign_script",
+        "rule": "exact-reference",
+        "coordinates": [
+          45.0408935546875,
+          3.9416182041168213,
+          0.0009613037109375
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "intro_queen_foreign_script",
+      "clips": [
+        {
+          "id": "intro_queen_foreign_script_1__queen",
+          "speaker": "queen",
+          "speakerName": "queen",
+          "duration": 4.3715,
+          "src": "audio/clips/intro_queen_foreign_script_1__queen.mp3",
+          "transcripts": {
+            "en": [
+              "Foreign script, but I understand it, somehow."
+            ],
+            "de": [
+              "Fremde Schrift, und doch verstehe ich sie irgendwie."
+            ],
+            "es": [
+              "Es una escritura extranjera, pero, de alguna manera, la entiendo."
+            ],
+            "fr": [
+              "Une écriture étrangère, mais je la comprends, je ne sais comment."
+            ],
+            "it": [
+              "È una scrittura in una lingua straniera, ma la capisco, non so come."
+            ],
+            "ja": [
+              "知らない文字なのに なぜか読める。"
+            ],
+            "ko": [
+              "외국 문자인데, 웬일인지 이해가 되네."
+            ],
+            "pt-br": [
+              "Escrita estrangeira, mas eu entendo, de algum jeito."
+            ],
+            "ru": [
+              "Чужеземная письменность, но я каким-то образом её понимаю."
+            ],
+            "s-cn": [
+              "异域文字，可不知为何，我竟看得懂。"
+            ],
+            "t-cn": [
+              "異域文字，可不知為何，我竟看得懂。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "intro_queen_foreign_script_1__queen.wav",
+            "subtitleCueLines": [
+              6968
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "Foreign script, but I understand it, somehow."
+        ],
+        "de": [
+          "Fremde Schrift, und doch verstehe ich sie irgendwie."
+        ],
+        "es": [
+          "Es una escritura extranjera, pero, de alguna manera, la entiendo."
+        ],
+        "fr": [
+          "Une écriture étrangère, mais je la comprends, je ne sais comment."
+        ],
+        "it": [
+          "È una scrittura in una lingua straniera, ma la capisco, non so come."
+        ],
+        "ja": [
+          "知らない文字なのに なぜか読める。"
+        ],
+        "ko": [
+          "외국 문자인데, 웬일인지 이해가 되네."
+        ],
+        "pt-br": [
+          "Escrita estrangeira, mas eu entendo, de algum jeito."
+        ],
+        "ru": [
+          "Чужеземная письменность, но я каким-то образом её понимаю."
+        ],
+        "s-cn": [
+          "异域文字，可不知为何，我竟看得懂。"
+        ],
+        "t-cn": [
+          "異域文字，可不知為何，我竟看得懂。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

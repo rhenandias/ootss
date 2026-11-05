@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_interdiction_first",
+    "audioKey": "skipping_stones_1048877",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_interdiction_first"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 1048877,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_interdiction_first",
+        "rule": "exact-reference",
+        "coordinates": [
+          48.0,
+          65.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_interdiction_first",
+      "clips": [
+        {
+          "id": "ssnew_interdiction_first_1__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 5.755958,
+          "src": "audio/clips/ssnew_interdiction_first_1__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "When we get back to civilization, this will make a great story!",
+              "I've never been interdicted before."
+            ],
+            "de": [
+              "Wenn wir wieder in der Zivilisation sind, haben wir eine großartige Geschichte zu erzählen!",
+              "Ich bin noch nie mit einem Interdikt belegt worden."
+            ],
+            "es": [
+              "Cuando volvamos a la civilización, ¡tendremos una historia estupenda que contar!",
+              "Nunca me habían vetado antes."
+            ],
+            "fr": [
+              "Quand on aura retrouvé la civilisation, ça fera une sacrée histoire à raconter !",
+              "C'est la première fois que je subis une interdiction."
+            ],
+            "it": [
+              "Quando torneremo alla civiltà, sarà una gran bella storia!",
+              "Non mi avevano mai fatto un'interdizione."
+            ],
+            "ja": [
+              "人のいる場所に戻ったら、 いい土産話になるね！",
+              "止められたのは初めてだ。"
+            ],
+            "ko": [
+              "문명 세계로 돌아가면 굉장한 이야깃거리가 되겠어!",
+              "난 이런 식으로 움직임을 막혀본 적이 없어."
+            ],
+            "pt-br": [
+              "Quando voltarmos à civilização, isso vai render uma ótima história!",
+              "Nunca fui interditada antes."
+            ],
+            "ru": [
+              "Когда вернёмся к цивилизации, будет что рассказать!",
+              "На меня ещё никогда не накладывали запрет."
+            ],
+            "s-cn": [
+              "等我们回到文明世界，这事儿准能成个好故事！",
+              "我还从没被阻航过。"
+            ],
+            "t-cn": [
+              "等我們回到文明世界，這事兒準能成個好故事！",
+              "我還從沒被阻航過。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdiction_first_1__sailor.wav",
+            "subtitleCueLines": [
+              4057,
+              4061
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdiction_first_2__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.454104,
+          "src": "audio/clips/ssnew_interdiction_first_2__boat.mp3",
+          "transcripts": {
+            "en": [
+              "*You* weren't!"
+            ],
+            "de": [
+              "Du doch nicht!"
+            ],
+            "es": [
+              "¡Tú no!"
+            ],
+            "fr": [
+              "Toi, tu n'as rien subi du tout !"
+            ],
+            "it": [
+              "Non l'hanno fatta a te!"
+            ],
+            "ja": [
+              "止まってなかったよ！"
+            ],
+            "ko": [
+              "\"네\"가 당한 게 아니잖아!"
+            ],
+            "pt-br": [
+              "Você não foi!"
+            ],
+            "ru": [
+              "На тебя никогда!"
+            ],
+            "s-cn": [
+              "被阻航的又不是你！"
+            ],
+            "t-cn": [
+              "被阻航的又不是你！"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdiction_first_2__boat.wav",
+            "subtitleCueLines": [
+              4064
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdiction_first_3__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 4.472979,
+          "src": "audio/clips/ssnew_interdiction_first_3__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Well... I did have a moment of panic when you just froze up! That counts for something."
+            ],
+            "de": [
+              "Na ja ... Ich hatte kurz Panik, als du plötzlich erstarrt bist! Das zählt doch auch."
+            ],
+            "es": [
+              "Bueno... ¡Me entró el pánico cuando te quedaste inmóvil! Eso cuenta para algo."
+            ],
+            "fr": [
+              "Quand même... J'ai eu une grosse panique quand tu t'es figé comme ça ! Ce n'est pas rien."
+            ],
+            "it": [
+              "Beh... ho avuto un attimo di panico quando ti sei bloccato! Conta pur qualcosa."
+            ],
+            "ja": [
+              "言いたいことはわかるだろ。 あんたが固まって ビックリしたんだよ！？"
+            ],
+            "ko": [
+              "뭐... 네가 갑자기 굳어버렸을 땐 잠깐 겁이 났거든! 그것도 쳐줘야지."
+            ],
+            "pt-br": [
+              "Bem... Entrei em pânico por um instante quando você travou! Isso conta pra alguma coisa."
+            ],
+            "ru": [
+              "Ну... когда ты вдруг застыл, я на миг запаниковала! Это ведь тоже считается."
+            ],
+            "s-cn": [
+              "可你突然动不了的时候，我也被吓了一跳啊！ 总不能说我没受一点影响吧。"
+            ],
+            "t-cn": [
+              "可你突然動不了的時候，我也被嚇了一跳啊！ 總不能說我沒受一點影響吧。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdiction_first_3__sailor.wav",
+            "subtitleCueLines": [
+              4068
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdiction_first_4__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 2.079375,
+          "src": "audio/clips/ssnew_interdiction_first_4__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Miracle we weren't dashed to pieces."
+            ],
+            "de": [
+              "Ein Wunder, dass es uns nicht zerschmettert hat."
+            ],
+            "es": [
+              "Ha sido un milagro que no acabáramos hechos pedazos."
+            ],
+            "fr": [
+              "C'est un miracle qu'on n'ait pas été réduits en morceaux."
+            ],
+            "it": [
+              "È un miracolo che non ci siamo sfracellati."
+            ],
+            "ja": [
+              "バラバラにならなかったのが 奇跡だ。"
+            ],
+            "ko": [
+              "우리가 산산조각 나지 않은 게 기적이지."
+            ],
+            "pt-br": [
+              "Foi um milagre não termos virado pedaços."
+            ],
+            "ru": [
+              "Чудо, что нас не разнесло на куски."
+            ],
+            "s-cn": [
+              "我们居然没被撞得粉碎，真是奇迹。"
+            ],
+            "t-cn": [
+              "我們居然沒被撞得粉碎，真是奇蹟。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdiction_first_4__boat.wav",
+            "subtitleCueLines": [
+              4072
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_interdiction_first_5__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.318979,
+          "src": "audio/clips/ssnew_interdiction_first_5__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "'Miracle' is going in my official report."
+            ],
+            "de": [
+              "„Wunder“ kommt in meinen offiziellen Bericht."
+            ],
+            "es": [
+              "Eso de «milagro» lo voy a poner en mi informe oficial."
+            ],
+            "fr": [
+              "Le mot « miracle » ira dans mon rapport officiel."
+            ],
+            "it": [
+              "\"Miracolo\" finirà nel mio rapporto ufficiale."
+            ],
+            "ja": [
+              "アタシも報告書に 「奇跡」と書くよ。"
+            ],
+            "ko": [
+              "공식 보고서에 '기적'이라고 써야겠어."
+            ],
+            "pt-br": [
+              "“Milagre” vai entrar no meu relatório oficial."
+            ],
+            "ru": [
+              "«Чудо» я внесу в свой официальный отчет."
+            ],
+            "s-cn": [
+              "“奇迹”这个词，我要写进正式报告里。"
+            ],
+            "t-cn": [
+              "「奇蹟」這個詞，我要寫進正式報告裡。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_interdiction_first_5__sailor.wav",
+            "subtitleCueLines": [
+              4075
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "When we get back to civilization, this will make a great story!",
+          "I've never been interdicted before.",
+          "*You* weren't!",
+          "Well... I did have a moment of panic when you just froze up! That counts for something.",
+          "Miracle we weren't dashed to pieces.",
+          "'Miracle' is going in my official report."
+        ],
+        "de": [
+          "Wenn wir wieder in der Zivilisation sind, haben wir eine großartige Geschichte zu erzählen!",
+          "Ich bin noch nie mit einem Interdikt belegt worden.",
+          "Du doch nicht!",
+          "Na ja ... Ich hatte kurz Panik, als du plötzlich erstarrt bist! Das zählt doch auch.",
+          "Ein Wunder, dass es uns nicht zerschmettert hat.",
+          "„Wunder“ kommt in meinen offiziellen Bericht."
+        ],
+        "es": [
+          "Cuando volvamos a la civilización, ¡tendremos una historia estupenda que contar!",
+          "Nunca me habían vetado antes.",
+          "¡Tú no!",
+          "Bueno... ¡Me entró el pánico cuando te quedaste inmóvil! Eso cuenta para algo.",
+          "Ha sido un milagro que no acabáramos hechos pedazos.",
+          "Eso de «milagro» lo voy a poner en mi informe oficial."
+        ],
+        "fr": [
+          "Quand on aura retrouvé la civilisation, ça fera une sacrée histoire à raconter !",
+          "C'est la première fois que je subis une interdiction.",
+          "Toi, tu n'as rien subi du tout !",
+          "Quand même... J'ai eu une grosse panique quand tu t'es figé comme ça ! Ce n'est pas rien.",
+          "C'est un miracle qu'on n'ait pas été réduits en morceaux.",
+          "Le mot « miracle » ira dans mon rapport officiel."
+        ],
+        "it": [
+          "Quando torneremo alla civiltà, sarà una gran bella storia!",
+          "Non mi avevano mai fatto un'interdizione.",
+          "Non l'hanno fatta a te!",
+          "Beh... ho avuto un attimo di panico quando ti sei bloccato! Conta pur qualcosa.",
+          "È un miracolo che non ci siamo sfracellati.",
+          "\"Miracolo\" finirà nel mio rapporto ufficiale."
+        ],
+        "ja": [
+          "人のいる場所に戻ったら、 いい土産話になるね！",
+          "止められたのは初めてだ。",
+          "止まってなかったよ！",
+          "言いたいことはわかるだろ。 あんたが固まって ビックリしたんだよ！？",
+          "バラバラにならなかったのが 奇跡だ。",
+          "アタシも報告書に 「奇跡」と書くよ。"
+        ],
+        "ko": [
+          "문명 세계로 돌아가면 굉장한 이야깃거리가 되겠어!",
+          "난 이런 식으로 움직임을 막혀본 적이 없어.",
+          "\"네\"가 당한 게 아니잖아!",
+          "뭐... 네가 갑자기 굳어버렸을 땐 잠깐 겁이 났거든! 그것도 쳐줘야지.",
+          "우리가 산산조각 나지 않은 게 기적이지.",
+          "공식 보고서에 '기적'이라고 써야겠어."
+        ],
+        "pt-br": [
+          "Quando voltarmos à civilização, isso vai render uma ótima história!",
+          "Nunca fui interditada antes.",
+          "Você não foi!",
+          "Bem... Entrei em pânico por um instante quando você travou! Isso conta pra alguma coisa.",
+          "Foi um milagre não termos virado pedaços.",
+          "“Milagre” vai entrar no meu relatório oficial."
+        ],
+        "ru": [
+          "Когда вернёмся к цивилизации, будет что рассказать!",
+          "На меня ещё никогда не накладывали запрет.",
+          "На тебя никогда!",
+          "Ну... когда ты вдруг застыл, я на миг запаниковала! Это ведь тоже считается.",
+          "Чудо, что нас не разнесло на куски.",
+          "«Чудо» я внесу в свой официальный отчет."
+        ],
+        "s-cn": [
+          "等我们回到文明世界，这事儿准能成个好故事！",
+          "我还从没被阻航过。",
+          "被阻航的又不是你！",
+          "可你突然动不了的时候，我也被吓了一跳啊！ 总不能说我没受一点影响吧。",
+          "我们居然没被撞得粉碎，真是奇迹。",
+          "“奇迹”这个词，我要写进正式报告里。"
+        ],
+        "t-cn": [
+          "等我們回到文明世界，這事兒準能成個好故事！",
+          "我還從沒被阻航過。",
+          "被阻航的又不是你！",
+          "可你突然動不了的時候，我也被嚇了一跳啊！ 總不能說我沒受一點影響吧。",
+          "我們居然沒被撞得粉碎，真是奇蹟。",
+          "「奇蹟」這個詞，我要寫進正式報告裡。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

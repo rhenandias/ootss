@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -38,7 +38,7 @@
               "und zack, hat er uns eingesperrt. Ich verstehe es noch immer nicht."
             ],
             "es": [
-              "Solo le estábamos pasando el presupuesto por la mudanza... Como habíamos acordado.",
+              "Solo le estábamos pasando el presupuesto por la mudanza… Como habíamos acordado.",
               "Y zas, va y nos encierra. Todavía no lo entiendo."
             ],
             "fr": [
@@ -46,7 +46,7 @@
               "et paf, il nous jette en prison. Je ne comprends toujours pas."
             ],
             "it": [
-              "Stavamo solo presentandogli il preventivo per il trasloco... come avevamo concordato...",
+              "Gli stavamo solo presentando il preventivo per il trasloco... come avevamo concordato...",
               "e zac, ci rinchiude. Ancora non capisco."
             ],
             "ja": [
@@ -99,7 +99,7 @@
               "Hat er gedacht, wir übertreiben, um ihm zu viel zu berechnen?"
             ],
             "es": [
-              "Habría sido una mudanza mucho más grande de lo que me dijo en el banquete.",
+              "Habría sido una tarea mucho más grande de lo que me dijo en el banquete.",
               "¿Pensaría que exagerábamos, que intentábamos cobrarle de más?"
             ],
             "fr": [
@@ -115,7 +115,7 @@
               "俺たちがぼったくろうと したと思ったのか？"
             ],
             "ko": [
-              "연회 때 나한테 말한 것보다 훨씬 큰 이사였을 거야.",
+              "연회 때 나한테 말한 것보다 훨씬 큰 작업이었을 거야.",
               "우리가 일을 부풀려 말하고, 과다 청구하려는 줄 알았던 걸까?"
             ],
             "pt-br": [
@@ -214,9 +214,9 @@
           "Eine etwas heftige Reaktion..."
         ],
         "es": [
-          "Solo le estábamos pasando el presupuesto por la mudanza... Como habíamos acordado.",
+          "Solo le estábamos pasando el presupuesto por la mudanza… Como habíamos acordado.",
           "Y zas, va y nos encierra. Todavía no lo entiendo.",
-          "Habría sido una mudanza mucho más grande de lo que me dijo en el banquete.",
+          "Habría sido una tarea mucho más grande de lo que me dijo en el banquete.",
           "¿Pensaría que exagerábamos, que intentábamos cobrarle de más?",
           "Se ha pasado con la reacción..."
         ],
@@ -228,7 +228,7 @@
           "Un peu excessive, comme réaction..."
         ],
         "it": [
-          "Stavamo solo presentandogli il preventivo per il trasloco... come avevamo concordato...",
+          "Gli stavamo solo presentando il preventivo per il trasloco... come avevamo concordato...",
           "e zac, ci rinchiude. Ancora non capisco.",
           "C'era da spostare molta più roba di quella che mi aveva detto al banchetto.",
           "Pensava che stessimo esagerando, che volevamo gonfiare il conto?",
@@ -244,7 +244,7 @@
         "ko": [
           "이사 비용 견적서를 전해 주려던 참이었어... 약속한 대로...",
           "그랬더니, 바로 우릴 감옥에 넣었지. 아직도 영문을 모르겠어.",
-          "연회 때 나한테 말한 것보다 훨씬 큰 이사였을 거야.",
+          "연회 때 나한테 말한 것보다 훨씬 큰 작업이었을 거야.",
           "우리가 일을 부풀려 말하고, 과다 청구하려는 줄 알았던 걸까?",
           "좀 과한 반응이네..."
         ],
@@ -317,19 +317,19 @@
               "Als er seinen Wachen befohlen hat, uns festzunehmen ... Tif hat gar nicht überrascht gewirkt."
             ],
             "es": [
-              "Cuando mandó a sus guardias detenernos... Tif no parecía sorprendida."
+              "Cuando ordenó a sus guardias detenernos... Tif no parecía sorprendida."
             ],
             "fr": [
               "Quand il a ordonné à ses gardes de nous arrêter... Tif n'avait pas l'air surprise."
             ],
             "it": [
-              "Quando ci ha fatto arrestare dalle guardie... Tif non sembrava sorpresa."
+              "Quando ha ordinato alle guardie di arrestarci... Tif non sembrava sorpresa."
             ],
             "ja": [
               "俺らが捕まった時、 ティフは驚いてなかったな。"
             ],
             "ko": [
-              "그가 경비병들에게 우릴 잡아오게 했을 때... 티프는 놀라지 않은 것 같았어."
+              "경비병들에게 우릴 잡아오라고 명령했을 때... 티프는 놀라지 않은 것 같았어."
             ],
             "pt-br": [
               "Quando ele mandou os guardas nos prenderem... a Tif não pareceu surpresa."
@@ -372,7 +372,7 @@
               "À bien y penser... elle se faisait petite comme une souris, non ?"
             ],
             "it": [
-              "A pensarci bene... sembrava un po' mortificata, secondo te?"
+              "A pensarci bene... sembrava un po' imbarazzata, secondo te?"
             ],
             "ja": [
               "アイツ… ばつが悪そうじゃなかったか？"
@@ -421,7 +421,7 @@
               "Pas une souris. Comment on dit, quand un animal a l'air penaud et coupable ?"
             ],
             "it": [
-              "Non proprio mortificata. Come si dice quando uno ha quell'aria... colpevole, come un animale?"
+              "Non proprio imbarazzata. Come si dice quando uno ha quell'aria... colpevole, come un animale?"
             ],
             "ja": [
               "ばつが悪そうな羊、って程度じゃねえ。 もっと後ろめたそうな動物って何だ？"
@@ -671,7 +671,7 @@
           "Ja. Genau der Blick."
         ],
         "es": [
-          "Cuando mandó a sus guardias detenernos... Tif no parecía sorprendida.",
+          "Cuando ordenó a sus guardias detenernos... Tif no parecía sorprendida.",
           "Pensándolo bien... ¿no parecía un poco avergonzada?",
           "No exactamente avergonzada. ¿Qué animal tiene pinta de culpable?",
           "Un perro.",
@@ -689,9 +689,9 @@
           "Oui. C'était exactement cet air-là."
         ],
         "it": [
-          "Quando ci ha fatto arrestare dalle guardie... Tif non sembrava sorpresa.",
-          "A pensarci bene... sembrava un po' mortificata, secondo te?",
-          "Non proprio mortificata. Come si dice quando uno ha quell'aria... colpevole, come un animale?",
+          "Quando ha ordinato alle guardie di arrestarci... Tif non sembrava sorpresa.",
+          "A pensarci bene... sembrava un po' imbarazzata, secondo te?",
+          "Non proprio imbarazzata. Come si dice quando uno ha quell'aria... colpevole, come un animale?",
           "Come un cane bastonato.",
           "Un cane bastonato??",
           "Un cane bastonato perché si è fregato un bel cosciotto succulento dal tavolo appena ti sei girato!",
@@ -707,7 +707,7 @@
           "むしろ、 後ろめたそうだった。"
         ],
         "ko": [
-          "그가 경비병들에게 우릴 잡아오게 했을 때... 티프는 놀라지 않은 것 같았어.",
+          "경비병들에게 우릴 잡아오라고 명령했을 때... 티프는 놀라지 않은 것 같았어.",
           "그러고 보니... 티프가 좀 머쓱해 보이지 않았어?",
           "당황했다기보다는... 뭐랄까, 잘못한 게 있는 것 같은 표정?",
           "개.",

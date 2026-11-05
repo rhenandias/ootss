@@ -6,17 +6,17 @@
     "narrativeOrderVerified": false
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "conversations": [
     {
@@ -56,9 +56,9 @@
               "Un día me desperté a las 3 de la mañana, lleno de energía, con ganas de hacer de todo.",
               "Pero ya basta de ser cuidadoso, ¡tantos años de cautela me están volviendo viejo! Es hora de dar un salto adelante.",
               "Trabajaba con frenesí, medio dormido, con la vista nublada...",
-              "La piedra brillando de poder, vibraciones en los dedos, subiendo por el brazo.",
+              "La piedra brillando con su poder, vibraciones en los dedos, subiendo por el brazo.",
               "No fue ninguna sorpresa: cometí un error. Y la dejé caer...",
-              "un destello, una detonación, fragmentos diminutos que salen disparados, perforando...",
+              "un destello, una detonación, fragmentos diminutos que salieron disparados, perforándolo todo...",
               "y así he acabado como me ves.",
               "Son tantos y tan pequeños que no hay forma de sacarlos."
             ],
@@ -75,14 +75,14 @@
             ],
             "it": [
               "Ero così attento, per così tanto tempo. Ero attento, ero attento, ero attento, ero attento, poi...",
-              "Un giorno mi sono svegliato alle 3 del mattino, pieno di energia, desideroso di fare tutto e subito.",
+              "Un giorno mi sono svegliato alle tre del mattino, pieno di energia, desideroso di fare tutto e subito.",
               "Basta con la prudenza, anni passati a stare attento mi stanno invecchiando! È ora di fare un salto in avanti.",
               "Stavo lavorando febbrilmente, mezzo addormentato, con lo sguardo annebbiato...",
-              "La pietra che scintilla di potere, vibrazioni che mi attraversano le dita, mi risalgono lungo il braccio.",
-              "Niente di sorprendente... un errore. E io la feci cadere...",
-              "un lampo, un boato, minuscoli frammenti che schizzano fuori, trafiggono...",
+              "La pietra che scintilla di potere, le vibrazioni che mi attraversano le dita e mi risalgono lungo il braccio.",
+              "Niente di sorprendente... un errore. E... l'ho fatta cadere...",
+              "Un lampo, un boato, minuscoli frammenti che volavano ovunque ferendomi...",
               "ed eccomi qui come mi vedi oggi.",
-              "Sono tanti e minuscoli, impossibile rimuoverli."
+              "Sono tanti e minuscoli: impossibile rimuoverli."
             ],
             "ja": [
               "ワシは気をつけていた。 気をつけて、気をつけて、 気をつけて、気をつけて、そして…",
@@ -100,9 +100,9 @@
               "어느 날 새벽 3시에 일어났더니, 온몸에 에너지가 넘치고, 그냥 뭐든 다 해 버리고 싶더군.",
               "조심하는 건 이제 충분해. 몇 년씩 조심만 하다 보니 늙어 가고 있어! 이제는 그냥 확 뛰어넘을 때야.",
               "난 열광적으로 일하고 있었어, 반쯤 잠든 채로, 몽롱하게...",
-              "힘을 머금고 빛나는 돌, 손가락을 타고 전해지는 진동이, 팔을 타고 올라왔어.",
-              "당연히... 실수가 생겼지. 내가 그걸 떨어뜨렸어...",
-              "번쩍이는 섬광, 터지는 소리, 작은 파편들이 튀어나와, 파고들었지...",
+              "힘을 머금은 채 빛나는 돌. 손가락을 타고 전해지는 진동이 팔을 타고 올라왔어.",
+              "당연히... 실수가 생겼지. 난 그걸 떨어뜨렸어...",
+              "번쩍이는 섬광, 터지는 소리. 작은 파편들이 튀어나와 파고들었지...",
               "그래서 지금 이런 모습이 된 거야.",
               "너무 많고 작아서 빼낼 수도 없어."
             ],
@@ -125,7 +125,7 @@
               "Камень мерцает силой, дрожь проходит сквозь пальцы, поднимается по руке.",
               "Ничего удивительного — ошибка. И я уронил его —",
               "вспышка, грохот, крошечные осколки разлетаются, вонзаются —",
-              "и вот я перед вами.",
+              "и теперь я таков.",
               "Их много, они крошечные, их никак не извлечь."
             ],
             "s-cn": [
@@ -200,9 +200,9 @@
           "Un día me desperté a las 3 de la mañana, lleno de energía, con ganas de hacer de todo.",
           "Pero ya basta de ser cuidadoso, ¡tantos años de cautela me están volviendo viejo! Es hora de dar un salto adelante.",
           "Trabajaba con frenesí, medio dormido, con la vista nublada...",
-          "La piedra brillando de poder, vibraciones en los dedos, subiendo por el brazo.",
+          "La piedra brillando con su poder, vibraciones en los dedos, subiendo por el brazo.",
           "No fue ninguna sorpresa: cometí un error. Y la dejé caer...",
-          "un destello, una detonación, fragmentos diminutos que salen disparados, perforando...",
+          "un destello, una detonación, fragmentos diminutos que salieron disparados, perforándolo todo...",
           "y así he acabado como me ves.",
           "Son tantos y tan pequeños que no hay forma de sacarlos."
         ],
@@ -219,14 +219,14 @@
         ],
         "it": [
           "Ero così attento, per così tanto tempo. Ero attento, ero attento, ero attento, ero attento, poi...",
-          "Un giorno mi sono svegliato alle 3 del mattino, pieno di energia, desideroso di fare tutto e subito.",
+          "Un giorno mi sono svegliato alle tre del mattino, pieno di energia, desideroso di fare tutto e subito.",
           "Basta con la prudenza, anni passati a stare attento mi stanno invecchiando! È ora di fare un salto in avanti.",
           "Stavo lavorando febbrilmente, mezzo addormentato, con lo sguardo annebbiato...",
-          "La pietra che scintilla di potere, vibrazioni che mi attraversano le dita, mi risalgono lungo il braccio.",
-          "Niente di sorprendente... un errore. E io la feci cadere...",
-          "un lampo, un boato, minuscoli frammenti che schizzano fuori, trafiggono...",
+          "La pietra che scintilla di potere, le vibrazioni che mi attraversano le dita e mi risalgono lungo il braccio.",
+          "Niente di sorprendente... un errore. E... l'ho fatta cadere...",
+          "Un lampo, un boato, minuscoli frammenti che volavano ovunque ferendomi...",
           "ed eccomi qui come mi vedi oggi.",
-          "Sono tanti e minuscoli, impossibile rimuoverli."
+          "Sono tanti e minuscoli: impossibile rimuoverli."
         ],
         "ja": [
           "ワシは気をつけていた。 気をつけて、気をつけて、 気をつけて、気をつけて、そして…",
@@ -244,9 +244,9 @@
           "어느 날 새벽 3시에 일어났더니, 온몸에 에너지가 넘치고, 그냥 뭐든 다 해 버리고 싶더군.",
           "조심하는 건 이제 충분해. 몇 년씩 조심만 하다 보니 늙어 가고 있어! 이제는 그냥 확 뛰어넘을 때야.",
           "난 열광적으로 일하고 있었어, 반쯤 잠든 채로, 몽롱하게...",
-          "힘을 머금고 빛나는 돌, 손가락을 타고 전해지는 진동이, 팔을 타고 올라왔어.",
-          "당연히... 실수가 생겼지. 내가 그걸 떨어뜨렸어...",
-          "번쩍이는 섬광, 터지는 소리, 작은 파편들이 튀어나와, 파고들었지...",
+          "힘을 머금은 채 빛나는 돌. 손가락을 타고 전해지는 진동이 팔을 타고 올라왔어.",
+          "당연히... 실수가 생겼지. 난 그걸 떨어뜨렸어...",
+          "번쩍이는 섬광, 터지는 소리. 작은 파편들이 튀어나와 파고들었지...",
           "그래서 지금 이런 모습이 된 거야.",
           "너무 많고 작아서 빼낼 수도 없어."
         ],
@@ -269,7 +269,7 @@
           "Камень мерцает силой, дрожь проходит сквозь пальцы, поднимается по руке.",
           "Ничего удивительного — ошибка. И я уронил его —",
           "вспышка, грохот, крошечные осколки разлетаются, вонзаются —",
-          "и вот я перед вами.",
+          "и теперь я таков.",
           "Их много, они крошечные, их никак не извлечь."
         ],
         "s-cn": [
@@ -362,7 +362,7 @@
             ],
             "ru": [
               "Значит, это вышло случайно, но многие глупцы мечтали бы уметь то, что умею я,",
-              "так, может, так и было задумано? Может, я намеренно угробил свою жизнь, разум за пределами моего разума."
+              "так, может, так и было задумано? Может, я намеренно угробил свою жизнь, разумом за пределами моего разума."
             ],
             "s-cn": [
               "所以那是一场意外，可又有多少蠢人巴不得有我这样的本事。",
@@ -422,7 +422,7 @@
         ],
         "ru": [
           "Значит, это вышло случайно, но многие глупцы мечтали бы уметь то, что умею я,",
-          "так, может, так и было задумано? Может, я намеренно угробил свою жизнь, разум за пределами моего разума."
+          "так, может, так и было задумано? Может, я намеренно угробил свою жизнь, разумом за пределами моего разума."
         ],
         "s-cn": [
           "所以那是一场意外，可又有多少蠢人巴不得有我这样的本事。",

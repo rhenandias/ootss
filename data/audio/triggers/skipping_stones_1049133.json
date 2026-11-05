@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "trigger": {
+    "name": "ssnew_traps",
+    "audioKey": "skipping_stones_1049133",
+    "triggerKind": "checkpoint",
+    "blocks": [
+      "ssnew_traps"
+    ],
+    "scriptName": null,
+    "boxExtents": null,
+    "barkFlags": 0,
+    "activationVerifiedInGame": false,
+    "provenance": [
+      {
+        "entityId": 1049133,
+        "entityType": "Checkpoint",
+        "field": "story",
+        "value": "ssnew_traps",
+        "rule": "exact-reference",
+        "coordinates": [
+          52.0,
+          60.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "subtitleSha256": {
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
+  },
+  "conversations": [
+    {
+      "id": "ssnew_traps",
+      "clips": [
+        {
+          "id": "ssnew_traps_1__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 3.0765,
+          "src": "audio/clips/ssnew_traps_1__boat.mp3",
+          "transcripts": {
+            "en": [
+              "I've been thinking... Look out for traps."
+            ],
+            "de": [
+              "Ich habe nachgedacht ... Pass auf Fallen auf."
+            ],
+            "es": [
+              "He estado pensando... Mucha atención a las trampas."
+            ],
+            "fr": [
+              "Au fait, j'y pense... Fais attention aux pièges."
+            ],
+            "it": [
+              "Stavo pensando... Attenta alle trappole."
+            ],
+            "ja": [
+              "そうそう… 罠に気をつけて。"
+            ],
+            "ko": [
+              "생각해 봤는데... 함정을 조심해."
+            ],
+            "pt-br": [
+              "Fiquei pensando... Atente-se a armadilhas."
+            ],
+            "ru": [
+              "Я подумал... Остерегайся ловушек."
+            ],
+            "s-cn": [
+              "我一直在想……当心有陷阱。"
+            ],
+            "t-cn": [
+              "我一直在想……當心有陷阱。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_traps_1__boat.wav",
+            "subtitleCueLines": [
+              4082
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_traps_2__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 0.435479,
+          "src": "audio/clips/ssnew_traps_2__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Traps?"
+            ],
+            "de": [
+              "Fallen?"
+            ],
+            "es": [
+              "¿Trampas?"
+            ],
+            "fr": [
+              "Des pièges ?"
+            ],
+            "it": [
+              "Trappole?"
+            ],
+            "ja": [
+              "罠？"
+            ],
+            "ko": [
+              "함정?"
+            ],
+            "pt-br": [
+              "Armadilhas?"
+            ],
+            "ru": [
+              "Ловушек?"
+            ],
+            "s-cn": [
+              "陷阱？"
+            ],
+            "t-cn": [
+              "陷阱？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_traps_2__sailor.wav",
+            "subtitleCueLines": [
+              4086
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_traps_3__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 10.473417,
+          "src": "audio/clips/ssnew_traps_3__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Triplines, or spikejaws just beneath the sand? It's just ... very suspicious.",
+              "If the Guild had placed an interdict on these islands, we'd have been told."
+            ],
+            "de": [
+              "Stolperdrähte oder Stachelmäuler direkt unter dem Sand? Das ist einfach ... sehr verdächtig.",
+              "Wenn die Gilde über diese Inseln ein Interdikt verhängt hätte, hätte man uns informiert."
+            ],
+            "es": [
+              "¿Hilos ocultos, o cepos con pinchos enterrados bajo la arena? Es que... es muy sospechoso.",
+              "Si el Gremio hubiera vetado estas islas, nos lo habrían dicho."
+            ],
+            "fr": [
+              "Des fils tendus, ou des mâchoires à pointes enterrées sous le sable ? C'est juste... très suspect.",
+              "Si la Guilde avait posé une interdiction sur ces îles, on nous l'aurait dit."
+            ],
+            "it": [
+              "Fili tesi, o tenaglie a punte sepolte appena sotto la sabbia? È solo che... è molto sospetto.",
+              "Se la gilda avesse posto un'interdizione su queste isole, ce l'avrebbero detto."
+            ],
+            "ja": [
+              "砂の下に トラバサミとかが埋まってるかも？",
+              "ギルドが封印を置いたなら 通達があったはず。"
+            ],
+            "ko": [
+              "발에 걸리는 와이어나 모래 바로 밑에 숨겨진 가시 턱 덫 같은 거? 그냥... 너무 수상해.",
+              "길드에서 이 섬들에 금제를 걸어놓은 거라면 우리한테 알려줬을 거야."
+            ],
+            "pt-br": [
+              "Fios de tropeço, ou mandíbulas de espinhos logo abaixo da areia? É só que... é muito suspeito.",
+              "Se a Guilda tivesse colocado um interdito nestas ilhas, teríamos sido avisados."
+            ],
+            "ru": [
+              "Натянутые нити или челюстные шипы прямо под песком? Это просто... очень подозрительно.",
+              "Если бы Гильдия наложила запрет на эти острова, нас бы предупредили."
+            ],
+            "s-cn": [
+              "绊线，还是沙底下藏着的钉牙夹？ 这实在是……太可疑了。",
+              "要是公会在这几座岛上下的阻航阵，按理说会提前知会我们一声。"
+            ],
+            "t-cn": [
+              "絆線，還是沙底下藏著的釘牙夾？ 這實在是……太可疑了。",
+              "要是公會在這幾座島上下的阻航陣， 按理說會提前知會我們一聲。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_traps_3__boat.wav",
+            "subtitleCueLines": [
+              4089,
+              4093
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_traps_4__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 2.571708,
+          "src": "audio/clips/ssnew_traps_4__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "So ... someone *else* did it?"
+            ],
+            "de": [
+              "Also ... hat das jemand anderes getan?"
+            ],
+            "es": [
+              "Entonces, ¿lo hizo otra persona?"
+            ],
+            "fr": [
+              "C'est donc quelqu'un d'autre qui l'a fait ?"
+            ],
+            "it": [
+              "Quindi, è stato qualcun altro?"
+            ],
+            "ja": [
+              "なら別の誰かが 封印を悪用してる？"
+            ],
+            "ko": [
+              "그럼, 다른 누군가가 그랬다는 거야?"
+            ],
+            "pt-br": [
+              "Então, foi outra pessoa?"
+            ],
+            "ru": [
+              "Значит, это сделал кто-то другой?"
+            ],
+            "s-cn": [
+              "所以……是别的什么人干的？"
+            ],
+            "t-cn": [
+              "所以……是別的什麼人幹的？"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_traps_4__sailor.wav",
+            "subtitleCueLines": [
+              4097
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_traps_5__boat",
+          "speaker": "boat",
+          "speakerName": "boat",
+          "duration": 1.710604,
+          "src": "audio/clips/ssnew_traps_5__boat.mp3",
+          "transcripts": {
+            "en": [
+              "Someone unauthorized."
+            ],
+            "de": [
+              "Jemand ohne Befugnis."
+            ],
+            "es": [
+              "Alguien sin autorización."
+            ],
+            "fr": [
+              "Quelqu'un qui n'en avait pas l'autorisation."
+            ],
+            "it": [
+              "Qualcuno senza autorizzazione."
+            ],
+            "ja": [
+              "なんだか…怪しいんだ。"
+            ],
+            "ko": [
+              "권한이 없는 자가."
+            ],
+            "pt-br": [
+              "Alguém sem autorização."
+            ],
+            "ru": [
+              "Кто-то, у кого не было разрешения."
+            ],
+            "s-cn": [
+              "某个未经许可的人。"
+            ],
+            "t-cn": [
+              "某個未經許可的人。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_traps_5__boat.wav",
+            "subtitleCueLines": [
+              4101
+            ],
+            "explicitAudioReference": null
+          }
+        },
+        {
+          "id": "ssnew_traps_6__sailor",
+          "speaker": "sailor",
+          "speakerName": "sailor",
+          "duration": 1.562417,
+          "src": "audio/clips/ssnew_traps_6__sailor.mp3",
+          "transcripts": {
+            "en": [
+              "Then, we'll have to have a talk with them."
+            ],
+            "de": [
+              "Dann müssen wir mit demjenigen ein Gespräch führen."
+            ],
+            "es": [
+              "En ese caso, vamos a tener una buena charla con ellos."
+            ],
+            "fr": [
+              "Alors, il va falloir qu'on ait une petite discussion avec lui."
+            ],
+            "it": [
+              "Allora, faremo un bel discorso con loro."
+            ],
+            "ja": [
+              "なら説教してやらないと。"
+            ],
+            "ko": [
+              "그렇다면, 그 인간과 이야기를 좀 나눠 봐야겠군."
+            ],
+            "pt-br": [
+              "Então, teremos uma conversinha com eles."
+            ],
+            "ru": [
+              "Тогда мы с ним поговорим."
+            ],
+            "s-cn": [
+              "那我们可得和他们好好谈谈。"
+            ],
+            "t-cn": [
+              "那我們可得和他們好好談談。"
+            ]
+          },
+          "provenance": {
+            "sourceWav": "ssnew_traps_6__sailor.wav",
+            "subtitleCueLines": [
+              4104
+            ],
+            "explicitAudioReference": null
+          }
+        }
+      ],
+      "clipOrdering": {
+        "source": "subtitle-cue-order",
+        "filenameCheck": "agrees"
+      },
+      "transcripts": {
+        "en": [
+          "I've been thinking... Look out for traps.",
+          "Traps?",
+          "Triplines, or spikejaws just beneath the sand? It's just ... very suspicious.",
+          "If the Guild had placed an interdict on these islands, we'd have been told.",
+          "So ... someone *else* did it?",
+          "Someone unauthorized.",
+          "Then, we'll have to have a talk with them."
+        ],
+        "de": [
+          "Ich habe nachgedacht ... Pass auf Fallen auf.",
+          "Fallen?",
+          "Stolperdrähte oder Stachelmäuler direkt unter dem Sand? Das ist einfach ... sehr verdächtig.",
+          "Wenn die Gilde über diese Inseln ein Interdikt verhängt hätte, hätte man uns informiert.",
+          "Also ... hat das jemand anderes getan?",
+          "Jemand ohne Befugnis.",
+          "Dann müssen wir mit demjenigen ein Gespräch führen."
+        ],
+        "es": [
+          "He estado pensando... Mucha atención a las trampas.",
+          "¿Trampas?",
+          "¿Hilos ocultos, o cepos con pinchos enterrados bajo la arena? Es que... es muy sospechoso.",
+          "Si el Gremio hubiera vetado estas islas, nos lo habrían dicho.",
+          "Entonces, ¿lo hizo otra persona?",
+          "Alguien sin autorización.",
+          "En ese caso, vamos a tener una buena charla con ellos."
+        ],
+        "fr": [
+          "Au fait, j'y pense... Fais attention aux pièges.",
+          "Des pièges ?",
+          "Des fils tendus, ou des mâchoires à pointes enterrées sous le sable ? C'est juste... très suspect.",
+          "Si la Guilde avait posé une interdiction sur ces îles, on nous l'aurait dit.",
+          "C'est donc quelqu'un d'autre qui l'a fait ?",
+          "Quelqu'un qui n'en avait pas l'autorisation.",
+          "Alors, il va falloir qu'on ait une petite discussion avec lui."
+        ],
+        "it": [
+          "Stavo pensando... Attenta alle trappole.",
+          "Trappole?",
+          "Fili tesi, o tenaglie a punte sepolte appena sotto la sabbia? È solo che... è molto sospetto.",
+          "Se la gilda avesse posto un'interdizione su queste isole, ce l'avrebbero detto.",
+          "Quindi, è stato qualcun altro?",
+          "Qualcuno senza autorizzazione.",
+          "Allora, faremo un bel discorso con loro."
+        ],
+        "ja": [
+          "そうそう… 罠に気をつけて。",
+          "罠？",
+          "砂の下に トラバサミとかが埋まってるかも？",
+          "ギルドが封印を置いたなら 通達があったはず。",
+          "なら別の誰かが 封印を悪用してる？",
+          "なんだか…怪しいんだ。",
+          "なら説教してやらないと。"
+        ],
+        "ko": [
+          "생각해 봤는데... 함정을 조심해.",
+          "함정?",
+          "발에 걸리는 와이어나 모래 바로 밑에 숨겨진 가시 턱 덫 같은 거? 그냥... 너무 수상해.",
+          "길드에서 이 섬들에 금제를 걸어놓은 거라면 우리한테 알려줬을 거야.",
+          "그럼, 다른 누군가가 그랬다는 거야?",
+          "권한이 없는 자가.",
+          "그렇다면, 그 인간과 이야기를 좀 나눠 봐야겠군."
+        ],
+        "pt-br": [
+          "Fiquei pensando... Atente-se a armadilhas.",
+          "Armadilhas?",
+          "Fios de tropeço, ou mandíbulas de espinhos logo abaixo da areia? É só que... é muito suspeito.",
+          "Se a Guilda tivesse colocado um interdito nestas ilhas, teríamos sido avisados.",
+          "Então, foi outra pessoa?",
+          "Alguém sem autorização.",
+          "Então, teremos uma conversinha com eles."
+        ],
+        "ru": [
+          "Я подумал... Остерегайся ловушек.",
+          "Ловушек?",
+          "Натянутые нити или челюстные шипы прямо под песком? Это просто... очень подозрительно.",
+          "Если бы Гильдия наложила запрет на эти острова, нас бы предупредили.",
+          "Значит, это сделал кто-то другой?",
+          "Кто-то, у кого не было разрешения.",
+          "Тогда мы с ним поговорим."
+        ],
+        "s-cn": [
+          "我一直在想……当心有陷阱。",
+          "陷阱？",
+          "绊线，还是沙底下藏着的钉牙夹？ 这实在是……太可疑了。",
+          "要是公会在这几座岛上下的阻航阵，按理说会提前知会我们一声。",
+          "所以……是别的什么人干的？",
+          "某个未经许可的人。",
+          "那我们可得和他们好好谈谈。"
+        ],
+        "t-cn": [
+          "我一直在想……當心有陷阱。",
+          "陷阱？",
+          "絆線，還是沙底下藏著的釘牙夾？ 這實在是……太可疑了。",
+          "要是公會在這幾座島上下的阻航陣， 按理說會提前知會我們一聲。",
+          "所以……是別的什麼人幹的？",
+          "某個未經許可的人。",
+          "那我們可得和他們好好談談。"
+        ]
+      },
+      "silentCues": [],
+      "missingClips": [],
+      "translationIssues": {}
+    }
+  ]
+}

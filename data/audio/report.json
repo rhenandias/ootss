@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "summary": {
-    "mapLevels": 920,
-    "mapLevelsWithAudio": 219,
-    "levelsWithAudio": 235,
-    "worldAudioLogs": 71,
-    "worldMarkers": 69,
-    "worldTriggerMarkers": 11,
-    "movementTriggerMarkers": 9,
-    "unplacedAudioBlocks": 53,
-    "subtitleBlocks": 587,
-    "referencedBlocks": 567,
+    "mapLevels": 936,
+    "mapLevelsWithAudio": 236,
+    "levelsWithAudio": 238,
+    "worldAudioLogs": 76,
+    "worldMarkers": 79,
+    "worldTriggerMarkers": 41,
+    "movementTriggerMarkers": 21,
+    "unplacedAudioBlocks": 23,
+    "subtitleBlocks": 588,
+    "referencedBlocks": 568,
     "unreferencedBlocks": 20,
     "uniqueRecordings": 1412,
     "silentCues": 8,
@@ -19,21 +19,23 @@
     "decodeIssues": 0
   },
   "subtitleSha256": {
-    "en": "f66b00a7def7e9cdb0f38f329d09c32115fe46dfa1a5c9c411c7d7d575743822",
-    "de": "721cb1aefa379a56aab3318e5106f17e99935aed01aacc4f8b41a5328b6cb600",
-    "es": "5e039a803127f88acfc4759e817008dca8ca8d5de8873c74dd7f0e1be4af8ca7",
-    "fr": "923eb5a010db63c2753a2fde9938cd6941887d61effeebb2dfb70a324416ec69",
-    "it": "3924b592e34e9eb6c42f5364d4516fbf58d1aad028f6ac3c224b913060810efb",
-    "ja": "a3b62dfbf5c81c6b57b1386ab4f5e9446bc7f05f6e4f41a8f9d8c23368bc223a",
-    "ko": "0a990e4c0a0785886ce6e85e207b2378740fca7a15ad0b6ad04e7de6c0bebd40",
-    "pt-br": "138e484180822cacac533699d9be0e0e0f0e01bd6b93ba7a798babc3f9ce6a7e",
-    "ru": "026c059e87f18e01079eac512b40d33effb9259723d4411029649788eb3f51b5",
-    "s-cn": "7c3f4880106430b433d0bd761793485ea70211d1de5c910988191ddd5234ced2",
-    "t-cn": "9024ca5320e4961ea3e40beb5db69256613e0f9d96629254fa30d97e2242d2f7"
+    "en": "15dc6df9147481bb5cf60772b44c9028dc30acf3ab122397426632cd768a074d",
+    "de": "6bf89944403b6a5a8a65420bdcf31e8f23511cae5e0e53449e5e5c52e9b200ee",
+    "es": "3477f7b98851cce082b276f3c37723443d806e7a48d7310790d725964224dd50",
+    "fr": "265aa446af62c6a7335ab03a9a2a8ab0002a3c892dca77a0d99a5fe6b5517870",
+    "it": "2bba696734aa1e3c31235e3450b03fb47b56f88e63b42ff3f3add33969aea50e",
+    "ja": "d2eee66fb9a0fccdb4912bb5d27ed44b97dfc7c8e9a38d8515612aa2061c06c5",
+    "ko": "8af8d0468cd756fedb8d02e3b679d92477c865de280dba36822b51825b58e1f2",
+    "pt-br": "f4d2b5fc679d1e621f76d8cd5a9289694240d865624e6237474515aa4fbba7bc",
+    "ru": "76ffe24b0d2cead0e58683fa25056882d9d673a5695594e585b1f8c90aa32d28",
+    "s-cn": "0ade1348469aef31d89b3451c7d891a9fb4bca5b240099897a6021b677e3056b",
+    "t-cn": "c8925e70d456f50e9549ad84e59661ca45e8414fea016126558fd582da33fb24"
   },
   "sources": {
-    "packageSha256": "408aba3676925faea0c823f8c231e30844feffe9c32ae42644d273ef31863589",
-    "schemaSourceSha256": "0ae10a513dae25286fe93d0db4fa8a2df9a473bc07e1734e12bc1ad30166db1c"
+    "packageSha256": "d747e5d9b8f540c9c6b90e8e987bd74a8c7f8f2f0672fce189403128f1f3117c",
+    "schemaSourceSha256": "d802098b7cb85eadfc733b88d1554042fad950c572e916febea3f669a474a549",
+    "mapConfigSha256": "a4de6dbc622a21d9a5220a99e76c7371aa551ac733b874a23160fe2da3a86b7b",
+    "markersSha256": "247dde572c9485e8a139477332a5df1c6e3d146f6a8b95e3be9225af0688684b"
   },
   "ordering": "Clips follow English subtitle cues; blocks follow subtitle file order. Conditional variants are listed, not simulated.",
   "levels": {
@@ -141,7 +143,7 @@
       "status": "no-audio-references"
     },
     "across_the_fence_old": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_across_the_fence_old"
@@ -759,7 +761,7 @@
       "status": "no-audio-references"
     },
     "catching_up_v0": {
-      "onMap": false,
+      "onMap": true,
       "references": 2,
       "blocks": [
         "audiolog_di_catching_up_v0",
@@ -1493,10 +1495,12 @@
     },
     "end2_mirror1": {
       "onMap": true,
-      "references": 0,
-      "blocks": [],
-      "clips": 0,
-      "status": "no-audio-references"
+      "references": 1,
+      "blocks": [
+        "mirror_new_1_start"
+      ],
+      "clips": 1,
+      "status": "audio"
     },
     "end2_mirror_3": {
       "onMap": true,
@@ -1509,10 +1513,12 @@
     },
     "end2_mirror_4_islands_v2": {
       "onMap": true,
-      "references": 0,
-      "blocks": [],
-      "clips": 0,
-      "status": "no-audio-references"
+      "references": 1,
+      "blocks": [
+        "mirror_oracle_1"
+      ],
+      "clips": 4,
+      "status": "audio"
     },
     "end2_monster_connect": {
       "onMap": true,
@@ -2363,7 +2369,7 @@
       "status": "no-audio-references"
     },
     "height_chooser": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_height_chooser"
@@ -2553,7 +2559,7 @@
       "status": "audio"
     },
     "heroes1_7": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_heroes_1_7"
@@ -3353,7 +3359,7 @@
       "status": "no-audio-references"
     },
     "jenga_dispenser": {
-      "onMap": false,
+      "onMap": true,
       "references": 0,
       "blocks": [],
       "clips": 0,
@@ -3523,7 +3529,7 @@
       "status": "no-audio-references"
     },
     "lily_wearing_intro": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_lily_wearing_intro"
@@ -3661,10 +3667,35 @@
     },
     "make_shoreline": {
       "onMap": true,
-      "references": 0,
-      "blocks": [],
-      "clips": 0,
-      "status": "no-audio-references"
+      "references": 24,
+      "blocks": [
+        "pals_start",
+        "pals_start_end3",
+        "pals_get_going",
+        "pals_good_luck",
+        "pals_two",
+        "pals_job_1",
+        "pals_job_2",
+        "pals_job_3",
+        "pals_job_4",
+        "pals_where_from_1",
+        "pals_where_from_2",
+        "pals_deadwaters",
+        "pals_interdict_1",
+        "pals_interdict_2",
+        "pals_asking_about_interdicts_1",
+        "pals_asking_about_interdicts_2",
+        "pals_borrie",
+        "pals_farguild",
+        "pals_meeting_vedessud",
+        "pals_rearrival_on_starting_island",
+        "pals_talk_to_vedessud_sailor",
+        "pals_talk_to_vedessud_surveyor",
+        "pals_sailors_swapped",
+        "pals_sailors_not_swapped"
+      ],
+      "clips": 76,
+      "status": "audio"
     },
     "make_sokoban": {
       "onMap": true,
@@ -3719,6 +3750,13 @@
       "status": "no-audio-references"
     },
     "menu_combo_heroes_mirrors_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_combo_heroes_mirrors_b": {
       "onMap": false,
       "references": 0,
       "blocks": [],
@@ -3830,6 +3868,20 @@
       "clips": 0,
       "status": "no-audio-references"
     },
+    "menu_sky_heroes_bard_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_heroes_wizard_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
     "menu_sky_mirror_a": {
       "onMap": false,
       "references": 0,
@@ -3845,6 +3897,13 @@
       "status": "no-audio-references"
     },
     "menu_sky_skipping_a": {
+      "onMap": false,
+      "references": 0,
+      "blocks": [],
+      "clips": 0,
+      "status": "no-audio-references"
+    },
+    "menu_sky_vertical_reflection_a": {
       "onMap": false,
       "references": 0,
       "blocks": [],
@@ -5441,7 +5500,7 @@
       "status": "audio"
     },
     "push_down_a_lot": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_push_down_a_lot"
@@ -5527,7 +5586,7 @@
       "status": "audio"
     },
     "quad_torch_v1": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_quad_torch_v1"
@@ -5941,7 +6000,7 @@
       "status": "no-audio-references"
     },
     "sender": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_sender"
@@ -5950,7 +6009,7 @@
       "status": "audio"
     },
     "sender_simplified": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_sender_simplified"
@@ -6210,9 +6269,10 @@
     },
     "skipping_pals": {
       "onMap": true,
-      "references": 23,
+      "references": 24,
       "blocks": [
         "pals_start",
+        "pals_start_end3",
         "pals_get_going",
         "pals_good_luck",
         "pals_two",
@@ -6236,7 +6296,7 @@
         "pals_sailors_swapped",
         "pals_sailors_not_swapped"
       ],
-      "clips": 74,
+      "clips": 76,
       "status": "audio"
     },
     "skipping_promesst": {
@@ -6623,7 +6683,7 @@
       "status": "no-audio-references"
     },
     "strategic_stack": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_strategic_stack"
@@ -7035,7 +7095,7 @@
       "status": "no-audio-references"
     },
     "torcher": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_torcher"
@@ -7473,7 +7533,7 @@
       "status": "no-audio-references"
     },
     "wizards_true_nature": {
-      "onMap": false,
+      "onMap": true,
       "references": 0,
       "blocks": [],
       "clips": 0,
@@ -7505,7 +7565,7 @@
       "status": "audio"
     },
     "worlds_collide_heroes_and_promesst": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_worlds_collide_heroes_and_promesst"
@@ -7514,7 +7574,7 @@
       "status": "audio"
     },
     "worlds_collide_heroes_and_promesst_v2": {
-      "onMap": false,
+      "onMap": true,
       "references": 1,
       "blocks": [
         "audiolog_di_worlds_collide_heroes_and_promesst_v2"
@@ -7523,7 +7583,7 @@
       "status": "audio"
     },
     "worlds_collide_heroes_and_promesst_v3": {
-      "onMap": false,
+      "onMap": true,
       "references": 4,
       "blocks": [
         "worlds_collide_HP_start",
@@ -7893,7 +7953,7 @@
           "..."
         ],
         "cueLines": [
-          6692
+          6702
         ]
       },
       {
@@ -7903,7 +7963,7 @@
           "..."
         ],
         "cueLines": [
-          6699
+          6709
         ]
       }
     ],
@@ -7915,7 +7975,7 @@
           "..."
         ],
         "cueLines": [
-          8647
+          8657
         ]
       },
       {
@@ -7925,87 +7985,25 @@
           "..."
         ],
         "cueLines": [
-          8657
+          8667
         ]
       }
     ]
   },
   "translationIssues": {
-    "audiolog_s_magistrate": {
-      "de": "Clip identities differ from English",
-      "es": "Clip identities differ from English",
-      "fr": "Clip identities differ from English",
-      "it": "Clip identities differ from English",
-      "ko": "Clip identities differ from English",
-      "pt-br": "Clip identities differ from English",
-      "ru": "Clip identities differ from English",
-      "s-cn": "Clip identities differ from English",
-      "t-cn": "Clip identities differ from English"
-    },
     "audiolog_sky_laws_of_form": {
-      "de": "Clip identities differ from English",
-      "es": "Clip identities differ from English",
-      "fr": "Clip identities differ from English",
-      "it": "Clip identities differ from English",
-      "ko": "Clip identities differ from English",
-      "pt-br": "Clip identities differ from English",
-      "ru": "Clip identities differ from English",
-      "s-cn": "Clip identities differ from English",
-      "t-cn": "Clip identities differ from English"
-    },
-    "audiolog_sky_play_of_form_3": {
-      "de": "Clip identities differ from English",
-      "es": "Clip identities differ from English",
-      "fr": "Clip identities differ from English",
-      "it": "Clip identities differ from English",
-      "ko": "Clip identities differ from English",
-      "pt-br": "Clip identities differ from English",
-      "ru": "Clip identities differ from English",
       "s-cn": "Clip identities differ from English",
       "t-cn": "Clip identities differ from English"
     },
     "all_together_now_reassembly_1": {
-      "de": "Clip identities differ from English",
-      "es": "Clip identities differ from English",
-      "fr": "Clip identities differ from English",
-      "it": "Clip identities differ from English",
-      "ja": "Ambiguous clip boundary in all_together_now_reassembly_1 at line 11887",
-      "ko": "Clip identities differ from English",
-      "pt-br": "Clip identities differ from English",
-      "ru": "Clip identities differ from English",
       "s-cn": "Clip identities differ from English",
       "t-cn": "Clip identities differ from English"
     },
     "paradise_lost_invocation_credits": {
-      "de": "Clip has no transcript in paradise_lost_invocation_credits",
-      "es": "Clip has no transcript in paradise_lost_invocation_credits",
-      "fr": "Clip has no transcript in paradise_lost_invocation_credits",
-      "it": "Clip has no transcript in paradise_lost_invocation_credits",
-      "ko": "Clip has no transcript in paradise_lost_invocation_credits",
-      "pt-br": "Clip has no transcript in paradise_lost_invocation_credits",
-      "ru": "Clip has no transcript in paradise_lost_invocation_credits",
-      "s-cn": "Clip has no transcript in paradise_lost_invocation_credits",
-      "t-cn": "Clip has no transcript in paradise_lost_invocation_credits"
-    },
-    "paradise_lost_invocation_2": {
-      "de": "Clip identities differ from English",
-      "es": "Clip identities differ from English",
-      "fr": "Clip identities differ from English",
-      "it": "Clip identities differ from English",
-      "ko": "Clip identities differ from English",
-      "pt-br": "Clip identities differ from English",
-      "ru": "Clip identities differ from English",
-      "s-cn": "Clip identities differ from English",
-      "t-cn": "Clip identities differ from English"
+      "s-cn": "Ambiguous clip boundary in paradise_lost_invocation_credits at line 12753",
+      "t-cn": "Ambiguous clip boundary in paradise_lost_invocation_credits at line 13202"
     },
     "actor_credits": {
-      "de": "'actor_credits'",
-      "es": "'actor_credits'",
-      "fr": "'actor_credits'",
-      "it": "'actor_credits'",
-      "ko": "'actor_credits'",
-      "pt-br": "'actor_credits'",
-      "ru": "'actor_credits'",
       "s-cn": "'actor_credits'",
       "t-cn": "'actor_credits'"
     }
